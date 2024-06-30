@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rmnthFYhZtWaX-T1lfkhAgqnnPk2IkL1D8Ccs-qYSXBJnrFhH8nVwKUl-2EVNSTQOT2JyxRRV1lmUEMIk4orSLMuCrPVEpEacA6VoWxEZbZRmcmJpyUHyrhaJ--wZANBypxYq1lvEAA83FgTJH66WhOVFVQRXqUhnD_CZEKx04p4qxDl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "320485f03b32d0091XF92921EldV",
+      "encryptUserId": "0344b48aa5e52b7703N40t65FVA~",
+      "invalidStatus": false,
+      "jobName": "Ae工程师",
+      "position": 101403,
+      "positionName": "FAE",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.项目前期对客户项目的需求进行分析和评估，为客户推荐对应产品，提供专业技术咨询服务。\n2.对客户应用或设计的问题进行分析、分类、排查。如果是产品本身功能问题提供研发部门相关的测试数据、现场日志、分析意见等，协助研发部门解决相关问题。\n3.管理维护公司产品资料、技术文档，为目标客户提供专业的产品、技术相关的培训。\n4.收集客户意见反馈、市场需求，结合获取的信息向研发部门提出研发建议和意见，协助产品总监完成新产品的定义。\n5.协助客户完成认证支持。客户在搭建测试环境、测试以及认证过程中出现的问题后，及时向客户提供解决方案。\n\n任职要求：\n1、具有电子、通信、计算机等相关专业本科及以上学历；\n2、熟悉电子电路设计，有看懂基本的电路图，熟悉常用的ARM平台(NXP iMx6/8,  Renesas R-Car等)周边接口(UART,SDIO,PCIe,USB)；\n3、有软件开发经验；熟悉软件系统的基本架构，软件开发基本流程；熟悉C/C++/Java等开发语言；\n4、具有良好的沟通交流能力，团队协作精神；面对可能来自客户方面的压力，能积极应对，接受挑战，有效解决问题",
+      "encryptAddressId": "b1512fe5d1100bea0X183tq5EFA~",
+      "address": "上海浦东新区同涞物业206室",
+      "longitude": 121.582041,
+      "latitude": 31.203476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e65ea7337380c24adccd54a695226fb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/988dfe9e763e1a2b99ca5d72b64f6f90",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "ae",
+        "fae",
+        "技术支持"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鲁女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "百瑞互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9924861e596ba5c41XZ_3ti5GVc~",
+      "brandName": "百瑞互联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220823/7bf6f160950405e924e29dcbeea6b4097dc29d232d9378b0c62017674759b74c11395fd8f3578bbc.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "夜班补助",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1719638637661,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百瑞互联",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

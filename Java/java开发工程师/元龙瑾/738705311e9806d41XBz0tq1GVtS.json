@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xjYASz5o3Tgyh-m1DspecF8m_XV9gZcIDzcAZc4Fqh3Tmy8IxPnSleREI__ZgYr2SQ7XMEMnK4khTOnFoYvnbBuPBhvgohLCvD2-akxW74gnj4LghyJLIu0KCHBrIcHLciWSnwLS2Uwv-g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "738705311e9806d41XBz0tq1GVtS",
+      "encryptUserId": "c04e5054b39ce8260nJ52961EFVV",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1.负责云平台SaaS等产品的研发交付，完成需求评审、技术设计、代码实现、文档编写等技术工作；\n2.需求理解，分析，参与各服务的系统设计 ;\n3.参与服务间组件的设计应用, 根据架构设计完成核心代码，服务代码的编写；\n\n任职要求：\n\n1.本科及以上学历（非本科学历勿扰），两年以上Java后端开发经验，熟悉并掌握J2EE。\n2.思路清晰，善于思考，能独立分析和解决问题；\n3.扎实的Java基础，熟练掌握JVM，多线程、多进程以及分布式系统、缓存、消息中间件等核心技术原理；\n4.对业务架构与技术架构有深入的理解，熟悉设计模式以及实际应用的场景，能独立完成模板设计；\n5.熟悉微服务，熟练掌握springboot，mybatis等技术框架，并有实际项目开发经验，对spring cloud有深入认识；\n6.责任心强，做事细心 、有恒心和毅力、具备良好的团队合作精神和承受压力的能力。",
+      "encryptAddressId": "5be3070d6a2a4a310HVz2N66GVI~",
+      "address": "杭州余杭区西溪八方城3幢108",
+      "longitude": 120.046083,
+      "latitude": 30.289958,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e8ff2f742b38fd917a5b4ced4985245",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9ec3a66d32ffcef83c824f42e67fd088",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "元龙瑾",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "78679586eb6ef31f1Xd-29-8F1E~",
+      "brandName": "元龙瑾",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230218/7bf6f160950405e9291e60e7938530883f017f54cadbfe3682204b789063c83210c1a274393470d1.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司以技术为导向，为企业数字化赋能。\n\n基于公有云技术搭建物联和大数据平台，致力于智慧农业，提供工业物联网与数字化转型整体解决方案。",
+      "labels": [
+        "团建聚餐",
+        "全勤奖",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717127086042,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "元龙瑾",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

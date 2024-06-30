@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cZ1RqJHW4EENY-p1fBTFkJRCZETrlSK82_mSxr_riMFt4WcY1RNQf3oXmIpGC3OAbxmMn_EydFIuZp-UmAXZ6DYCbQyqdhGWrTDhCBeO5SyXTKAnqmIB",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bedfd35fd89c54101XZ_3tS5FFtV",
+      "encryptUserId": "c7fe98607e0287e01nR52du9EFBY",
+      "invalidStatus": false,
+      "jobName": "Python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责数据采集与维护工作；\n2、负责大规模数据分析、处理、过滤、入库等数据处理工作；\n3、设计与实现爬虫策略和防屏蔽规则，提升抓取的效率和质量；\n4、深入公司业务，为公司开发业务所需效率工具，并维护；\n\n任职要求：\n1、熟练掌握python语言，有较强的动手开发能力，有过成熟大系统开发经验；\n2、精通python的爬虫技术，熟悉Scrapy、Requests、Selenium、Puppeteer等相关模块的使用和优化；\n3、有分布式爬虫框架搭建、维护与电商/政策数据采集项目经验优先；\n4、熟悉主流平台的反爬策略及应对方案，有丰富的Fiddler/Charles/Mitmproxy等工具抓包经验，有安卓/iOS逆向经验者优先；\n5、熟悉Html/Css的DOM模型，能熟练使用Xpath, Pyquery等内容提取工具，有丰富的JS/Ajax前端调试和接口调度经验；\n6、熟练使用MySQL、Redis等数据库技术；\n7、有Linux平台(Ubuntu/Centos/Termux等)丰富的使用经验，熟悉docker、k8s微服务架构者优先，熟悉github与开源技术的应用与部署优先；\n8、有手机平台自动化经验(Appium/Uiautomator/Airtest等技术)，有手机群控系统的开发维护经验优先；\n9、有良好的代码编写习惯，具有良好的沟通、协作能力，有责任心；\n10、有相关工作经验2~3年者优先。",
+      "encryptAddressId": "b325a349ec7cc9221n153du5GVs~",
+      "address": "长沙开福区新湖南大厦151502",
+      "longitude": 112.985416,
+      "latitude": 28.207419,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d884a43f14a978569a2a49ff21fe0e26",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e91f9a09ab085908626d9798a3f45d66",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "网络爬虫技术",
+        "容器技术",
+        "分布式技术",
+        "Linux",
+        "Scrapy",
+        "Redis",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211215/607f1f3d68754fd01f142aac2fb47822b7857ae1b497e5bba8f33931e628c5f430a4b3816d9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "探险家智旅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1bb15199305116b11n1629q-E1M~",
+      "brandName": "探险家智旅",
+      "logo": "https://c-res.zhipin.com/jrs/2d6631d76e047bf5e368f3bb988a4736.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100009,
+      "industryName": "旅游",
+      "introduce": "",
+      "labels": [
+        "全勤奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1717106332882,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "探险家智旅",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

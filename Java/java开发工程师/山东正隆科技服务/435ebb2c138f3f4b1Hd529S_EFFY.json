@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ec94lrAeUbrQK-M1d3-s09jWV-I08MQ-2zr0Bx7nDpDBMAtOh3MgwRkxaqyf3rxoTXxkopqTxIoTSgJ-jlsEtaTpz6MbVhSzKaARN2z3oImLVJgswImInSBxbw0pSptFLPWJ1U75TxK7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "435ebb2c138f3f4b1Hd529S_EFFY",
+      "encryptUserId": "d9c36d032f1164f41H172dq5GVU~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120700,
+      "locationName": "济宁",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制本科及以上学历；\n2、熟悉VUE开发框架，熟悉组件开发，至少2年vue前端架构使用经验；\n3、熟悉Java开发语言,熟练运用SpringBoot、SpringMVC、SpringCloud、MyBatis等进行开发。熟悉SpringCloud微服务架构开发\n4、了解MySQL,redis等主流数据库基本原理；\n5、熟悉常用的中间件，如消息队列，了解微服务，对高并发和高可用的场景有概念；\n6、熟悉Tomcat，JBoss等主流应用服务器；\n7、具有良好的编码习惯，注重代码的复用，关心系统的可维护性和健壮性；\n8、善于学习先进的软件开发技术和理念，具有良好的创新能力、良好的人际沟通能力及团队协作能力，能承受工作压力，具有敬业精神和质量意识；\n9、具有从事汽车金融或者分期风控系统经验的优先",
+      "encryptAddressId": "d1305d4b9f7ad5e903B62tS4ElRQxo68V_I~",
+      "address": "济宁任城区济宁国家高新区产学研基地A区a2楼",
+      "longitude": 116.70496,
+      "latitude": 35.42442,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230524/48ba41acc9cef1bf2a39f25b86cdb959e860b5dcd3614f756bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230524/48ba41acc9cef1bf27837e602b9d2a0a6c1e39abc277b00b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "大数据经验",
+        "ERP开发经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "仲先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240108/607f1f3d68754fd0f59b0c8285f06a6a087097f302b13623721cfd3f94c54792dfc8e8823a7a806_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "山东正隆科技服务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "74b3bdb3c60631c11HV-3dy4Flo~",
+      "brandName": "山东正隆科技服务",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240115/7bf6f160950405e9dd40a303d8de3059f48839079f4497ec721cfd3f94c54792dfc8e8823a7a8068.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "宿舍有空调",
+        "包住",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "加班补助",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1718693587945,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东正隆科技服务",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8nu5JVtRhMBhf-Z18o6GnMau6D652cGvtzjan8RagD-yCi_OM5sYeP23QB_YZJ9YqJEaRrfWtN8DsWAZ-TTrACGbhYpPbFmp2_DVeTTelHK43I978jSAXQKmprccqmiMvocvKanBbwGQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f1f5a30addac08741HV82t26ElJS",
+      "encryptUserId": "97149eef8689f8541nVz3Ni4FlQ~",
+      "invalidStatus": false,
+      "jobName": "后端开发（善瑟科技）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责: 邮箱 ********-bj.com\n1.参与平台架构设计，根据业务规划及技术规划进行相关技术选型，完成相关技术预研\n2.参与核心业务功能开发实现，按时完成分配的任务\n3.参与现场项目的运维支撑，及时解决现场问题\n\n任职要求:\n1.本科学历以上，有丰富的Java开发经验\n2.熟悉IO、集合框架、多线程、JVM原理，有一定的JVM调优经验\n3.熟悉Nginx、SpringBoot、SpringMVC、mybatis等主流后端技术框架\n4.熟悉ActiveMQ、RabbitMQ、Kafka等主流消息中间件，了解原理并进行过对比分析\n5.熟悉MySQL、PostgreSql等关系型数据库，能熟练使用SQL语句，有数据库优化、读写分离经验\n6.熟悉redis的使用及其原理，有缓存设计相关经验\n7.熟悉分布式架构SpringCloud (Nacos、Gateway、Ribbon、Hystrix、Sentinel、OpenFeign等)，有过分布式架构设计经验\n8.熟悉ES搜索引擎\n8.了解docker、k8s微服务运维技术",
+      "encryptAddressId": "dc13e05b5ec39de90XN80tu5Fg~~",
+      "address": "杭州浙江省杭州市滨江区东信大道66号东方通信大楼2号楼301室",
+      "longitude": 120.142666,
+      "latitude": 30.177982,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9185f593b6f7bc39a55f855b1704d8f8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9fbd04c0a39d4d6140d953a7adb1e42",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "浙江大学滨江研究...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3c808deb6fb6e21e1nR83dm0FVI~",
+      "brandName": "浙江大学滨江研究...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200910/12c722d29de4fc45d2614cd9e6d2fd28e2e8c82bb0fb5a9babcead8b8a3f59d8_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "浙江大学滨江研究院是浙江大学与杭州高新区（滨江）共同举办的事业单位，是政府支持、产学研结合、市场化运作的新型研发机构。围绕信息和生命健康领域，研究院下设五大研究中心，开展信息技术研发、高端医疗器械和智慧医疗等领域的技术研发、“双创”企业孵化培育、顶尖人才引育等工作，旨在建设成为国产信创技术研发新高地、数字经济和生命健康科创新高地、信息和生命学科融合创新高地，助力滨江创新技术研发、科技产业孵化和区域经济发展。",
+      "labels": [],
+      "activeTime": 1716605594395,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江大学滨江研究...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

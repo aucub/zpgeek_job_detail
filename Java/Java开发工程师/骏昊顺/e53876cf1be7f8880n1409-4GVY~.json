@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fvidR7ywwjP8M-x1z7Wy951MZm3YjdMOFvp4bipOdu-BvLlifPsUTVKHnx3mT0baDMjsydgKNeQZuY68ajBez6JpE9Wo-givoft1_AT9y80PaSTw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e53876cf1be7f8880n1409-4GVY~",
+      "encryptUserId": "8d3629892bae7b330nJ42tW6EVo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.根据产品功能完成相应模块功能开发任务；\r\n2.负责产品功能开发，确保软件性能，安全性，扩展性等达到设计要求；\r\n3.解决开发中的技术问题，参与软件需求设计审核和代码检查；\r\n4.合理输出接口文档\r\n任职要求：\r\n1.全日制专科及以上学历，计算机，通信，电子信息等相关专业；\r\n2.精通Java语言，熟悉SpringBoot、SpringMVC，SpringSecurity，MyBatis，mybatisplus，Spring Data JPA等框架\r\n3.对OO思想有充足的掌握。熟悉Restful接口设计理念；\r\n4.精通Mysql，熟练掌握SQL语句优化，对Redis，mongodb有一定的了解；\r\n5.熟悉SpringCloud框架；\r\n6.精通常用的数据结构，常用的排序，插入，了解乐观锁和悲观锁；\r\n7.熟悉常用设计模式；\r\n8.有较强的表达能力，团队合作意识，抗压以及独立解决问题的能力、",
+      "encryptAddressId": "2120d77f56c586511nJ_3Ni6F1c~",
+      "address": "深圳南山区深圳湾科技生态园9栋A13305",
+      "longitude": 113.952765,
+      "latitude": 22.530374,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fabaa6f0336973670707ca9553e3097b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cdaf9c1567da1b0025ce97917f5d76f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Spring",
+        "MVC开发",
+        "容器技术",
+        "MySQL",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210924/607f1f3d68754fd00ddac201ace51f8f06cfd0244869ff6918349f7f1306f92b7f7b8c2905e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "骏昊顺",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e644149181ab88f21XJy09q-EQ~~",
+      "brandName": "骏昊顺",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191015/00d6ad20dde2d0accafc784ad3e0aa7d18349f7f1306f92b7f7b8c2905e58a25.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助"
+      ],
+      "activeTime": 1717102219589,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "骏昊顺",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

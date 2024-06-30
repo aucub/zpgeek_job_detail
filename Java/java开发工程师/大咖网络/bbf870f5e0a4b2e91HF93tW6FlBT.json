@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iw96xiz5dZFha-K1cRD8v0ZZ0KsvmHbUbQj70ZFzZxxINTBn2ysO6aSyXBR_dbXoF2pfaSq1f9Lgcs24iFRYYiueUXKUQXDsGyMclA4vMm47EvGVt_uVqcOQW-uEFiKq39tkHnVdK-fQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bbf870f5e0a4b2e91HF93tW6FlBT",
+      "encryptUserId": "0cbd684e5e13c02133V929q_E1o~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，3年以上Java开发经验;\n     2、Java基础扎实，理解io、多线程、集合等基础框架；\n     3、熟悉web开发技术，熟悉使用SpringCloud、springboot 开发，熟悉前后端分离，前后端协同开发；\n     4、掌握nacos、redis、mq消息队列开发和配置；\n     5、深入理解HTTP协议，熟悉rest接口开发，熟悉并发、多线程等；\n     6、至少熟悉一种数据库（MySQL、ES），及熟练掌握git版本管理工具；\n     7、良好的编码习惯，有自己的编程思想，具有性能调优经验;\n     8、有银行项目经验，对数字人民币系统有一定经验的优先；",
+      "encryptAddressId": "c51a365e3ab8ebbd33By2N-0EFVTx4W_Ufs~",
+      "address": "苏州张家港市张家港市体育场张家港市人民中路",
+      "longitude": 120.543672,
+      "latitude": 31.882299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bfd068cde04cf1942b378d7eeef392650a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf4b66eb5c0a637e215efdae5c7775d4186bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd0750b58d27f88b02525c8fbf8de0aaff8d5386061d5b22c024f496e407e4696d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "大咖网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cb2ed77e4d3ec7ae1XZ-3t-0EVo~",
+      "brandName": "大咖网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719568670140,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大咖网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

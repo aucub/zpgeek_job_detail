@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OP4dZcPCWxYs--81zuINkVAPqCSW4VPG058u-AqenXw9xuDE5aeDwEpvicIw-kEHe2H0CRIo8knB3ULe0ywTN7VAu1EoGvR0sVO-V01zmqwpd2v_hwIspiljEbAkVP5IYG7BrZ8Pbo1Q9g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "66cc735701f1505a1HB53tW_F1BT",
+      "encryptUserId": "b76299e2d4d5a0200nV83Ny-EFFT",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、熟悉SpringBoot，熟悉使用Mybatis框架并了解其基本原理；\n2、熟悉主流的mq，如rabbitMq的使用；\n3、掌握多线程编程以及代码的性能调优；\n4、熟悉主流的缓存框架，熟练掌握redis的配置和使用；\n5、熟悉Mysql数据库开发，对sql优化有丰富的经验优先；\n6、熟悉常用的数据结构、算法、设计模式；\n7、熟练使用Linux服务器，能独立部署系统。\n加分项：\n1、有架构设计以及互联网项目开发经验优先。\n2、有过负责或主导项目的经验，能独立完成，任务拆解到项目交付全流程经验优先。\n3、有自驱力，有主动学习的意识，喜欢分享，沟通能力优秀，有责任感。",
+      "encryptAddressId": "240bab6ef50416951nB73ty-Fw~~",
+      "address": "常州武进区创研港四号楼五楼",
+      "longitude": 119.968718,
+      "latitude": 31.680787,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/def9686cf7da8b5572145ffeb36870d6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75b946804220dcc3d964c124561b5851",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "不接受居家办公",
+        "MySQL",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "柳先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210220/56c2ebd21b5a2140ff7498fa8324a1b7427bd9f1748f2e9c6a9c87197e5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "贝堡网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "652eac3b45c6ed501nRy2dm4EFE~",
+      "brandName": "贝堡网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/fd3b4806245881fd28c21699ca975f4d33560dff5f2035ba77de8006723c3165_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "常州贝堡网络科技有限公司是一家专注于移动端解决方案的业内知名品牌,致力于为企业提供移动互联网营销解决方案。公司以雄厚的技术团队和专业的设计团队,帮助中小型企业快速搭建移动小程序平台,构建企业的自媒体营销运营平台体系。",
+      "labels": [
+        "节日福利",
+        "五险一金"
+      ],
+      "activeTime": 1719632967787,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贝堡网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

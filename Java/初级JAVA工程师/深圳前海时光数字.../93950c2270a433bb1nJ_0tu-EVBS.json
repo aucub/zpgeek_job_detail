@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j9Ah7y4UDynry-e1sKpHbe_CqKLxs9RLXQoYTu4N8O3G3bqbZsCrKNq6WRuCEYGe9S-Cc7YCm29SmEJhzfJT6gYT7HM7AqFhTpTQ89j-kN81dylTOrD7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "93950c2270a433bb1nJ_0tu-EVBS",
+      "encryptUserId": "09d4cbaaaa6b63570nZ_0tm6EVFV",
+      "invalidStatus": false,
+      "jobName": "初级JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位职责：\n1.参与基于JAVA技术的应用系统开发。\n2.参与需求分析，根据具体的模块需求，独立完成模块的设计编码工作。\n3.负责所开发模块的故障修复、性能调优等。\n4.根据开发规范与流程完成系统设计、编码、测试以及相关文档的编写。\n任职要求：\n1.一年以上JAVA开发经验，熟练掌握Java和面向对象的编程与设计模式；\n2.熟悉MVC模式下的B/S开发，熟悉SpringBoot/SpringMVC/MyBatis-Plus等开源框架，了解SpringCloud更优；\n3.掌握MySQL、Oracle、sqlserver等常用数据库中的一种，熟悉sql语言以及常规调优；\n4.对消息中间件RabbitMQ消息队列、Redis缓存机制有一定的了解；\n5.熟练掌握eclipse/idea/git/maven等工程化工具；\n6.熟悉dubbo服务框架、Vue.js框架优先；\n7.本科及以上学历，有良好的自学能力、责任心以及沟通协调能力；",
+      "encryptAddressId": "72985bf5a55f83541HJ909u6FQ~~",
+      "address": "深圳福田区华嵘大厦1906",
+      "longitude": 114.065979,
+      "latitude": 22.538851,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3848d4005215c61b012d04d430b13ad8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/195e093d44433589585106ed066b4abb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "SQL",
+        "SpringBoot",
+        "NoSQL",
+        "后端开发",
+        "Linux",
+        "初级软件工程师",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "寇先生",
+      "title": "管理者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "深圳前海时光数字...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab51b5a9d6b468221nJ72d67F1Q~",
+      "brandName": "深圳前海时光数字...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210513/84a44c22c421b88e17d57b2f98feda219eaea9b6e3912f0656315906d26a00c0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "时光数科核心团队管理人员来自于国内知名银行、金融公司，专注于供应链金融、小微信贷、消费信贷、汽车金融、供应链金融领域IT服务专家，公司在风控建模、云计算、大数据方面有突出优势，为金融大客户助力，提供最优技术方案。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1717102203529,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳前海时光数字...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

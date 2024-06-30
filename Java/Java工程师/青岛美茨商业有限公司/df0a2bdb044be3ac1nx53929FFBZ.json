@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NtQT5HVp-ztOK-J1sNYkOKNGX69i23s_JmvQPZ0VCs2zI2v3J7pqpMy0vJjqEkjWVVIm3PeNXLfgZIdAE9Sz_ZG0pYKt7o7DhK3nIOOyEkPRI138flRq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "df0a2bdb044be3ac1nx53929FFBZ",
+      "encryptUserId": "d2206226531aa9251nV_3t-6F1JY",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "后端：java + mysql springboot框架；\nweb前端：基于vue 和 uniapp的pc开发；\npc web 、微信小程序、uniapp的pad开发；",
+      "encryptAddressId": "247fe859f33a4abf1nxz3ty-EFI~",
+      "address": "青岛崂山区崂山官邸969号",
+      "longitude": 120.464007,
+      "latitude": 36.116091,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ced2a186fdb0ffe27241ff71146bbec4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9737f54d4dbb90deb1596d72b465be5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "SQL",
+        "SpringBoot",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人力资源总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青岛美茨商业有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ae13ff96cdedd6721nx80tW9EVs~",
+      "brandName": "青岛美茨商业有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717037510358,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛美茨商业有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dC0Yl9hbhyc6J-B1V0ij57ryYbWeVZsshuYuEJ4bxHWbbc_93R4adU5cMuhqnWZbUu7WU0XHHnkewm96cU1Xv7ydBjJvh76K99BraG3Dd98TPPxzlXXA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a379ca58ed2748ee1nB_39m5GVFY",
+      "encryptUserId": "14f8d84e4ffd1c280nV-3Nu4E1ZX",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "后端要求：\n1. 在上级的领导和监督下定期完成量化的工作要求；\n2. 能独立处理和解决所负责的任务；\n3. 根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4. 进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n5. 进行编制项目文档和质量记录的工作；\n6. 负责所开发模块的bug修改和日常维护、升级；\n7. 解决开发过程中遇到的技术问题，配合项目成员完成相关其他工作。\n前端要求：\n1. 熟悉js,css,html等相关前端web技术\n2. 能使用Vue，AngularJS等相关前端框架。\n3. 能独立进行静态页面以及业务交互开发。\n4. 熟悉HTML5或者熟练使用Vue，AngularJS框架者优先。\n\n后端要求：\n教育程度：\n大学本科及以上学历（第一学历为统招本科及以上，不包含独立院校），计算机等相关专业。\n工作经验要求：3年以上相关工作经验。\n技能要求：\n1. 熟练掌握面向对象分析设计，熟悉设计模式并指导编码；\n2. 熟悉微服务架构，熟悉Spring Cloud、Spring Boot、MyBatis、JUnit、Maven等开源框架或工具；\n3. 熟悉数据应用和设计，熟练使用主流数据库（MySql、ORACLE）；\n4. 熟悉应用服务器（Tomcat、Jetty等）；\n5. 熟悉缓存、分布式技术、NOSQL技术者优先；",
+      "encryptAddressId": "be2d4c6d81f1062103d42dy-GVQ~",
+      "address": "苏州虎丘区中移软件园5B",
+      "longitude": 120.435096,
+      "latitude": 31.362234,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e359c6859254906280511d3ca0fc8022",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e351add9f2d14d7348a836236c4e74e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "Spring",
+        "Oracle",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240228/607f1f3d68754fd08af7a2de7b43e0c286c12617a539eaf15b9f343141b0d5a75c1215786cc6f0b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "苏州众磊",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f5dcaa792f1a16861nF52Ni8FVo~",
+      "brandName": "苏州众磊",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716723965940,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州众磊",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2a3evCDQhvrws-i1B6c7dWgg7s80TBLdclHaFoMdbf3qDZZTxTrGW935XgbXjl4-6LEoBfioK8J6uV2Va4_BIregWYJGcEwNjq6Xhg4wxygZ5uBIzEV_PScLhXKdoV8VqUz4MI71Zg0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8ff8ded06546ba951XJ53Nq9FVZV",
+      "encryptUserId": "d1460f06c843ee461n183Nq_ElM~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、进行需求分析，根据需求概要说明细化为需求详细规格说明、代码编写、功能详细设计。 \n2、参与软件工程师的日常开发工作，解决开发中的技术问题 \n3、独立完成系统模块的设计及开发工作\n4、完成开发经理安排的其他开发工作任务。\n\n任职要求：\n1.大学本科及以上学历，计算机相关专业； \n2.熟悉Java、系统架构和设计模式；精通SpringBoot、SpringCloud、MyBatis、Vue等开发框架，了解其原理和实现机制； \n3.熟练使用MySQL等关系型数据库、相关技术及工具； \n4.具备良好的表达和沟通能力，擅长技术文档的书写；\n5.具有良好的沟通协调能力，具备很强的服务意识和耐心，善于倾听； \n6.责任心强，工作积极主动，具备良好的团队合作精神和承受压力能力； \n7.能接受长期出差",
+      "encryptAddressId": "12d64906be000b161X1_2t29FA~~",
+      "address": "青岛崂山区青岛国际创新园G座21层",
+      "longitude": 120.483336,
+      "latitude": 36.146689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b0529bd533e6600adfb00c39a2e015e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f89e0d5ff50bc07f715d441d8988285",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200420/e4df382311a9127e1bf91e9930ebdf67b49c9ef714c4cf3a7b0f3e12485_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "青岛兮易",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2847e0c7f8d76f203N42Nq_FA~~",
+      "brandName": "青岛兮易",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190614/a8f6b8d7a416232b98700580cb4e7fd1721828807adbb16404bdac2618bcbc87_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "青岛兮易信息技术有限公司由陈广乾先生于2013年创立，是一家集企业互联网转型升级、数字化规划、大数据应用、企业核心能力建设（测评、诊断、改善）于一体的跨平台跨产业的互联网公司及中国工业互联网流量入口，公司核心产品“兮易强企CCIAI”平台（www.xiyiqq.com）。\n公司自主知识产权的“兮易强企CCIAI”SaaS应用平台以“企业医院”为基准服务定位，以智能制造、工业互联网为核心服务领域，专注为中国企业提供企业核心能力测评、企业核心能力诊断咨询、企业核心能力规划、落地及企业人才专业岗位核心能力评估等企业服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "带薪年假",
+        "免费班车",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1718349902653,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛兮易",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

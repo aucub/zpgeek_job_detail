@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9ATRKALVspELq-61Zvx4ZHTIff10VQlztuG61OsqJJx7YJ5Y6btqDnU8GR3qrZcYOcKWE_m7edt2qxy0-AxUQJKYHIQU9WaGPXI_hmTL_oREyxXSUEoG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e54057c60b0b989a1Xd529m6EldS",
+      "encryptUserId": "e1edd886534604230nB_2dS5FVdQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.参与完成项目的系统分析、设计，并负责业务功能与底层基础功能的架构设计、代码编写。\n2.严格遵循开发规范和流程，独立完成系统功能编码，能针对性进行项目技术方案攻关。\n3.及时修复代码bug，保证代码质量\n4.参与建设通用、灵活、智能的业务支撑平台的开发与设计，支撑上层多场景的复杂业务。\n任职资格：\n1、吃苦耐劳；\n2、2年以上Java开发经验；\n3、具有面向对象分析、设计、开发能力，精通OO，AOP，设计模式；\n4、具有深厚的专业技术基础，熟悉常见的Java开发框架，对Dubbo/Springboot/SpringCloud等框架有比较资深的使用经验；\n5、熟悉Mysql等关系型数据库，掌握缓存机制(Redis、Memcached)和MQ消息机制；\n6、掌握JVM性能调优、了解常见JVM垃圾收集算法、Java并发框架与库、了解Java内存模型；\n7、对技术有热情，优秀的责任心、学习能力和团队合作精神，持续关注业界动态，对前沿技术有实际了解和实践。",
+      "encryptAddressId": "0969024ce0ec60df0XB52t2_GFU~",
+      "address": "武汉江夏区湖北青创园4号楼505",
+      "longitude": 114.401564,
+      "latitude": 30.452909,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18da6ec42c887b3c5cb1a7c67e7ca087",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e30f05b991d88e14bcdc2c408cbae52",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "Spring",
+        "Dubbo",
+        "微服务架构",
+        "分布式技术",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "后端开发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220629/607f1f3d68754fd090a22f59dfec4f5464705d4e779725b77c9edfd242eaeaafa4f68c61857_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "隐向量科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64c6b86171ee79071n1z3tq_EFY~",
+      "brandName": "隐向量科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211207/7b5b554d84f9729cef7544a633b4f8eb90c6746cb3b6dc4383a2d308296f94a36acbb90fae978933.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "武汉隐向量科技依托完全自主研发的低代码开发平台“倚码”， 携手一众合作伙伴，广泛服务于工程基建、智慧物流、敏捷政务、创 新金融及智能制造等领域大型客户的数字化和智能化转型。同时倚码 平台也旨在通过低代码 PaaS 平台帮助更多的 SaaS 企业、咨询公 司以及企业级客户在实现复杂业务需求的场景下显著降低数字化响 应的时间和成本。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717103791047,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "隐向量科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N1bdJRDxBdfRF-O1R_oncpctF8f02KXc9kTfi5aRCfX40YTbZ1NtwH0x4wT9UrHwV_i5lZybFFKSb6_ctVDFPFIhEf0HX_iPEb0YDK4MrAnPIhw7VA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a3b2981765672d5f1nF62926E1JY",
+      "encryptUserId": "2f1370b32a68efcb1Hdy3d67E1E~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "专业及技能要求：\n1. 计算机专业，本科学历，欢迎22，23应届毕业生；\n2. 熟悉Java基础知识，了解多线程和高并发开发；\n3. 熟练使用 SpringMVC / SpringBoot 、Mybatis 等框架；\n4. 熟悉 Oracle 数据库；\n5. 有Redis，Nginx 使用经验优先；\n6. 善于沟通，良好的团队合作精神和责任感；\n7. 接受出差。\n\n工作内容概要描述：\n1. 在部门经理的带领下参与Java项目的开发；\n2. 与系统架构师/需求分析师及其他开发者合作；\n3. 负责开发和测试相关程序。",
+      "encryptAddressId": "0ba050a582ccff980Hd82du9EVc~",
+      "address": "苏州吴中区金樱创业园四楼D区路腾软件",
+      "longitude": 120.672522,
+      "latitude": 31.298939,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e5747e048a2de890e7525425033e033",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a98e932a110a2d4af7e6c7c439c46503",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Spring",
+        "Redis",
+        "Oracle",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "路腾软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5ffcb1f9ff815ceb1ndz39u6EQ~~",
+      "brandName": "路腾软件",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180119/d2d5b68f0ef500123ac216a2ef16be0bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司多年来从事政府行业系统应用软件的设计开发开发、项目集成。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1717056116539,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "路腾软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

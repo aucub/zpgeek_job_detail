@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "J7GUBsCDECx8r-f1SJkBw5wqSFjhaSupR7O28eoDGpe36diVIdbGoXEh4zLaNo3K24E5XaVilKu0VShT_cki27gyNGwr2LhH81AS7Qw7HFhsohiL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a9fc21e148d018291Xdz39y0FVZV",
+      "encryptUserId": "73fee2b2a11dcbb21XJ-3tS4Elo~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职责\n1、负责公司项目软件产品部署、上线、系统监控、日常运维工作和应急反应系统运维、服务监控分析、故障排查，以及紧急情况下的应急处理、确保现网系统能够7*24小时的持续运行，并编制汇总故障、问题，定期提交汇总报告；\n2、负责网络以及服务器的网络设置、维护和优化、网络的安全维护监控、系统性能管理和优化、网络性能管理和优化；\n3、根据系统日常运行，发现逻辑漏洞，反馈开发同事；\n4、服从公司及上级领导安排的其他工作任务。\n\n\n要求\n1.大专及以上学历，计算机科相关专业毕业，3年以上运维开发经验；\n2.熟悉shell脚本或python编程； \n3.熟悉Linux、Nginx、MySQL、Zookeeper、Kafka、Redis、Ealsticsearch等运维和调优； \n4、能熟练部署和维护linux服务器以及在linux服务器上架设各种服务（Nginx、Tomcat、Redis、MQ、Java、Mysql、Maven、GitLab、 FastDFS、ELK等）；\n5、熟悉 Docker方式进行服务的部署，能够熟练的编写Dockerfile；\n6、对各类云环境有着基本的认识，能够处理日常问题；",
+      "encryptAddressId": "2b05e5798fad82d60XJz3di_Flc~",
+      "address": "武汉江汉区泛海国际SOHO城5栋",
+      "longitude": 114.247262,
+      "latitude": 30.599104,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb384c7c4706c0ce6de85a43521d406a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10c29657ad6186820963e9e91627e71e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL/Oracle",
+        "Nginx",
+        "Elasticsearch"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梅先生",
+      "title": "人事HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/13a3c6b5c689cf3ac684860c92e1b2921030efb74ffa62c5c99b3bdcf30_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "诺禾科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d486a0096d29ee9a0nx-39y6",
+      "brandName": "诺禾科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230620/7bf6f160950405e9db8b0f6be42a00162c1fd65dd50886901030efb74ffa62c5c99b3bdcf30291b2.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "武汉诺禾科技有限公司是一家移动互联网开发应用的科技公司，公司以软件开发、移动社交广告、营销咨询。多年专注研究并实践移动互联网和社交化广告应用，在移动互联网和社交网络普及的环境下，帮助企业找到低成本高效率的新营销方式和新销售渠道。公司拥有多年互联网从业经验的优秀团队，从全网营销推广、移动互联网融合、等方面解决了众多企业全渠道营销难题。为了实现梦想，我们一直在努力，不管是设计，代码，还是服务，都做到极致。不仅仅是满足您的发展需求，更把我们对互联网行业的新趋势融合进您的企业，让您的企业飞起来！",
+      "labels": [],
+      "activeTime": 1717105066280,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "诺禾科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

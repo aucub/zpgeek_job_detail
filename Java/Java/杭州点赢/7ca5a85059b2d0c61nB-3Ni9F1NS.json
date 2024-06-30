@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LPtVbqEfky57g-h1qgP8Oxcg5gkZM34uAEwuv4UexpHBfjp10udlHYCkpXqKeDyX6S_-5EAhxSBOs2f6yPvHMfxAtqBZ3VJ9Rdfb1Iu8CICV6c0xFgrgIOpRPupXn3vjZWVqSvCHqYG3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7ca5a85059b2d0c61nB-3Ni9F1NS",
+      "encryptUserId": "d43548bad6058e320nZ_3tS-EFZQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责 \r\n1、理解业务需求，参与指定模块的开发；\r\n2、单元测试并改进功能；\r\n3、参与技术和模块代码的迭代。\r\n任职资格 \r\n1、本科及以上学历，计算机相关专业，良好的编程习惯；\r\n2、熟悉linux系统，了解shell编程，熟悉常用软件的安装与调试；熟悉常见网络协议；\r\n3、熟悉java语言，了解常用的java开源框架：spring、springboot、springcloud、mybatis等常见框架，熟悉机制和原理等；\r\n4、熟练使用sql语句，熟悉oracle、mysql等主流数据库；\r\n5、善于沟通表达，掌握常用的团队协作工具git、svn等工具；\r\n6、有全栈开发经验优先。",
+      "encryptAddressId": "29e014bd0651c15c03d709q8EVA~",
+      "address": "杭州拱墅区忆香忆客大食堂505",
+      "longitude": 120.146513,
+      "latitude": 30.294105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87b5dd9dc67fac2680b48046d49ad417",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/844ac838387da5efbb7eda594ca1b33d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Linux",
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汪先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州点赢",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ea7003a3a5a678933Z43ti-Fg~~",
+      "brandName": "杭州点赢",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127018416,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州点赢",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

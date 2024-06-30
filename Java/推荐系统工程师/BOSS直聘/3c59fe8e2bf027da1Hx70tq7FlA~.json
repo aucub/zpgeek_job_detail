@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Jmx9QKKJZZFzw-v1YgitwLTrZyRzSXq0xaGnKnTf3k1YZ8QVQFMcwFc7kQJtl-UXEmeE7rDNXu8fJ-nB3sSEwxkM0MaonM_O0LxwOX3L5A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3c59fe8e2bf027da1Hx70tq7FlA~",
+      "encryptUserId": "9609a95ce23984e11Hx_2du4ElE~",
+      "invalidStatus": false,
+      "jobName": "推荐系统工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与BOSS直聘数据平台产品的设计和开发；\n2、对现有产品功能进行重构优化；\n3、监控业务数据的异常变化，为线上服务提供保障。\n岗位需求;\n1、 Java开发3年以上，精通Spring体系Java EE开发框架，熟悉多线程、线程安全、异步处理等机制；\n2、 精通SQL，有较好的SQL性能调优经验；\n3、 熟悉linux环境，具备基本的shell脚本编写能力；\n4、 优秀的协调沟通与团队协作能力，愿意专注于技术研发；\n5、 有Hadoop、Hive、Kafka等分布式计算平台使用经验者优先；\n6、 工作认真、负责、仔细，有良好的团队合作精神，良好的分析能力、沟通技巧。",
+      "encryptAddressId": "67588cd55970e0a41XF62dS7E1Y~",
+      "address": "北京朝阳区冠捷大厦(太阳宫中路)",
+      "longitude": 116.446,
+      "latitude": 39.97022,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c47e39e48201495c68c9f933eb2c60b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3fdf5bb2691327ab2f189b1b4e997086",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200602/37698c083290d0ed1cde3eb8d59b7a3a82d08261894261b11a421c0cd26_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "BOSS直聘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fa2f92669c66eee31Hc~",
+      "brandName": "BOSS直聘",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100014,
+      "industryName": "人力资源服务",
+      "introduce": "BOSS直聘是一款在全球范围内率先发展移动互联网“直聘”模式的在线招聘APP，于2014年7月上线，2021年6月在纳斯达克上市。\n\nBOSS直聘致力于用技术的手段和用户第一的服务理念，为招聘者和求职者搭建高效、便捷、易用的求职招聘的平台。\n\nBOSS直聘产品的核心是“移动+智能匹配+直聊”，通过将在线聊天功能引入招聘场景，让应聘者和用人方直接沟通，让招聘最终决策者直接参与线上招聘，跳过传统的冗长环节，提升效率。\n\nBOSS直聘应用前沿人工智能技术，不断追求岗位与人才的多维度的智能匹配，提升招聘效果。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "住房补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险"
+      ],
+      "activeTime": 1716719286544,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "BOSS直聘",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

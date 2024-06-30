@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1Ghp9pwl0Tofi-V1BIquwveihhjBx6dBddRu7mZZO5lmecSq5vKmh8w7WZDlPjS7AsAr8VxvwrrOG9eMFNBNWHF0TS0tZ07PKbMGilBeQeAidr6G8QM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c957e11665e93f61XB-2Nu0E1JS",
+      "encryptUserId": "1bf90089d921a23d1XJ82Nm6Fls~",
+      "invalidStatus": false,
+      "jobName": "java初级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责平台、系统的开发、测试，对发现的问题进行修改；\n2、负责线上系统的维护、更新、升级；\n3、负责处理多来源多格式数据的接入；\n4、完成领导安排的任务。\n任职要求：\n1、1年左右的Java开发经验,有过地理方面开发优先；\n2、熟练掌握Java语言，熟悉JSPServlet，熟练使用Java开源框架，如Struts12、SpringMVC、MyBatis、Hibernate等；\n3、熟悉关系型数据库，如MySQL、Oracle等，可以熟练使用SQL语句解决问题,使用过pgsql数据库优先；\n4、熟悉常用Web服务器，如Tomcat、Apache等；\n5、了解Unix、Linux操作系统，了解shell编程；\n6、具有多来源多格式数据处理工作经验者优先;\n7、具有多个J2EE项目开发经验，能够独立完成功能模块的开发、测试；\n8、工作存在短期出差,工作灵活度高,有相关经验优先；\n9、具有良好的语言表达能力，有团队协作精神；\n10、有postgesql+citus集群经验的优先。",
+      "encryptAddressId": "153345f4f47f327e1nBz2N-5EA~~",
+      "address": "北京海淀区北京机电研究所(西2门)6栋（国科空间）3层",
+      "longitude": 116.35262,
+      "latitude": 40.011029,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1d1e4b3abf42d49abe62e847c1d3d2b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/faf43c5b07770fca456807fab01831f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "人事行政经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数衍城容",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b196e65f43e3c9891nRz3N68ElM~",
+      "brandName": "数衍城容",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716719279456,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数衍城容",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

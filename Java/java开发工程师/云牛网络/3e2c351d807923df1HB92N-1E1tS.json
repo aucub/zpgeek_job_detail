@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iUsT7xifBTxSl-R1XlQxFgJTKWU6lrV_zKZV83Gf3yRFIfWVvNL-uqvbd3KuiId-AXiYKzj_uTicxO79XvY1a9CrK9Nqfi87bvHd7CdVm57zddyGqNr9AIItO-mXOS5AHVmRyx9XzpqL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3e2c351d807923df1HB92N-1E1tS",
+      "encryptUserId": "6ba4898000fe49f71HN529y6Fls~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100800,
+      "locationName": "运城",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 根据开发进度和任务分配，完成相应模块软件的开发、编程工作；\n2. 有独立解决问题的能力，能解决系统开发过程中遇到的技术问题；\n3. 能迅速掌握新的技术和开发规范、技巧；\n4. 负责功能模块的单元测试，功能测试，设计文档的编写和归档；\n5. 协助并完成其它各类技术开发任务；\n6. 参与项目需求分析。\n\n任职要求：\n1. 大专及以上学历，能力强不限专业,一年及以上Java开发相关工作经验。\n2.熟练Java语言基础，熟悉J2EE体系架构，具有Jsp，JavaScript，Jquery，BootStrap，Servlet，Spring，MyBatis，Xml等开发经验；\n3. 熟悉MySql， MSSQLSERVER，Oracle等数据库操作并至少精通一种；\n4.熟悉使用Tomcat，Eclipse,IntelliJ，Jetty等应用服务器软件及开发工具；\n5. 具有丰富的web企业级应用开发经验者优先；\n6. 具备良好设计通用框架及模块的能力具有规范化、标准化的代码编写习惯和良好的技术文档编制者优先；\n7.有强烈的上进心和求知欲，善于学习和运用新知识，善于沟通和逻辑表达，有强烈的团队意识和执行力并严格把控项目进程时间者优先。",
+      "encryptAddressId": "02dd581648b77da40HZ63Nu6FlNQwo64Vv0~",
+      "address": "运城盐湖区铜业大厦8楼813",
+      "longitude": 110.994306,
+      "latitude": 35.020959,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfa2b80c604f1db93748b4e7d3b10bfb4b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfaf4539cfab99b2ce6537c7ea3df385226bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "牛先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231125/607f1f3d68754fd027a912f1f50427b889fd3154231c6e3ef3dabe0fb7bee0d635977ad6f2499bc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "云牛网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bce95676241142d61XV729i5GFE~",
+      "brandName": "云牛网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220519/7b5b554d84f9729c5c66411bc6216042f9cf4fd59f96fbabf3dabe0fb7bee0d635977ad6f2499bc1.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "云牛网络科技专注于互联网物联网开发，定制开发。提供APP，小程序，物联网设计开发。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1719631401703,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云牛网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

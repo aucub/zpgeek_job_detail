@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XoTr6DklLaup5-c1AIJRo0NTXKRZdf0_j66iH_8hPGl3k-ncAbiplyxyBRnj-vll1ypM7obW0J5STk8XWvmO37QLUhYUkXL3xBIxTxgjpFif_SRkZMI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f29e8ef3f166a7e71n153N-0FlZQ",
+      "encryptUserId": "6a0ce25eb4cec0fa0nV52dW6FVFX",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "公司亮点：职教类创业公司、已融资有粮草、海龟创始团队、老板奈斯、团队氛围好、超长假期、基本不加班...\n    \n岗位职责：\n1、负责公司相关软件产品的部署、监控运维、调优等；\n2、参与整个软件交付流程，软件交付文档的撰写；\n3、协助制作Docker镜像，并提供相关培训教学；\n4、协助教研搭建开源项目，完成POC验证；\n5、其他上级交办的工作任务。\n\n任职要求：\n1、大专以上学历，2年以上工作经验；\n2、良好的学习意愿和习惯，可以很快接受并学习新技术，具备较强责任心；\n3、熟悉一些常用监控系统的部署和使用，如zabbix；\n4、熟练掌握Nginx、K8S、Docker、docker-compose、Kafka、Mysql、Redis等开源组件的架构原理和实际运维经验，其中K8S和Docker是必须项；\n5、熟悉自动化运维，熟悉Jenkins或阿里云云效流水线，熟悉linux shell各种命令；\n6、熟悉shell、python、go等常用脚本语言的一种；\n7、可以接受短期出差；\n8、有了解区块链相关技术优先；\n9、熟悉Openstack优先。",
+      "encryptAddressId": "ec03d75231f0358c1nd73dW8E1o~",
+      "address": "成都武侯区中海国际中心D座D座5楼",
+      "longitude": 104.056442,
+      "latitude": 30.58155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dc2cb705f3b4ea32df9b7e12a3435a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/816040b7742a358493fe2b60c9705912",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化运维",
+        "Python",
+        "Shell",
+        "服务器配置",
+        "容器技术",
+        "分布式技术",
+        "Nginx",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智谷星图",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0483b29c171626780HV63ty9EA~~",
+      "brandName": "智谷星图",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200114/cbcfe008c4306f08e964f6b09b261e14a9194e3bd2be59606a50bc6547e3fc7d_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100304,
+      "industryName": "学术/科研",
+      "introduce": "智谷星图专注于区块链产业技术咨询、行业研究、和区块链教育解决方案。智谷星图是腾讯区块链加速器全球32强入选企业，工信部和人社部区块链国家职业标准制订单位之一。\n\n公司诞生于美国硅谷，在中国北京、广州和成都均设有分部。公司目前已经为百度、腾讯、阿里巴巴、亚马逊、中信等提供技术服务解决方案， 拥有完善的区块链底层技术积累、成熟的产品体系以及丰富的政企合作项目经验。",
+      "labels": [
+        "交通补助",
+        "零食下午茶",
+        "包吃",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717108977186,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智谷星图",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

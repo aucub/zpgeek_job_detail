@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MBBiNEWigAnxE-B1w7NvmNG-eqO6YrcHauChp0oymehKkgiw_aHZVWJ9CVPu6mtyIA5uEPcPmBrI2aRLAxRw-ca5aPS0_mP4p5JBJvkPsfe8euARqQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d5f3d487b3c02ee61HF72Ni_FlRQ",
+      "encryptUserId": "6ff519b7ca62b1c80XZ80tu8FVI~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\n1、大学本科以上学历，3年以上java实际开发经验；\n2、良好的编程基础，熟悉jvm、缓存、分布式架构、消息中间件等核心技术；\n3、精通基于数据库(oracle或MySQL)的应用开发；\n4、对微服务有一定认知，精通spring cloud或springboot框架。熟悉springboot整合数据库、日志、Redis、MQ等常见框架组件；\n5、深入了Java Web及微服务相关技术，如Spring、SpringBoot、SpringCloud、Mybatis等。熟悉主流前端开发技术如Vue，Bootstrap等；\n6、良好的编码习惯，熟悉常用设计模式和重构方法。对代码质量有较高的自我要求\n7、具备独立分析、解决问题的能力，思路清晰，沟通能力强。有较强的责任感和自驱力；\n二、岗位职责\n1、参与系统需求分析与设计；\n2、根据设计文档或需求说明书等，独立完成代码编写，按时提交高质量代码；\n3、负责开发过程中技术文档的编写；\n4、能够适应出差、加班，抗压力强。",
+      "encryptAddressId": "f913e7ab7f34901b3nxy2ty8GFc~",
+      "address": "北京朝阳区安外北苑2号院中国航空学会",
+      "longitude": 116.422059,
+      "latitude": 40.026708,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1f34946efc11b0ad170407e47ecae7226bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7078f4b68ebc7398c6eabbf84f69ecee6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式经验",
+        "PostgreSQL",
+        "SpringCloud",
+        "Spring",
+        "微服务经验",
+        "MySQL",
+        "MyBatis",
+        "MongoDB",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240419/607f1f3d68754fd0360b5617daaf486365acd5426746a6780e727a7a7d9cc999407cd5f802ba247_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "万维方舟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aaa1bd5480995bef03B_2Nq4EQ~~",
+      "brandName": "万维方舟",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190929/89ff4372a69dc263b1092980bab7f7040e727a7a7d9cc999407cd5f802ba2475_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "软件研发",
+      "labels": [
+        "定期体检",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1719647510643,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万维方舟",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

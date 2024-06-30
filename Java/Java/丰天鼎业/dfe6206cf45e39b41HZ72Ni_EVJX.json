@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6MAgfetp16yvU-e1niyN3uF1WS9N-KshMKeVEXI3VMBsgOYutpIbNPYdSzEmZh25sOmcdAbjADRa-7601yOZE3jkCRj0GEdLRo0jaeU_2fG9PU1GSXY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dfe6206cf45e39b41HZ72Ni_EVJX",
+      "encryptUserId": "c18682958fd893260nd_2N-_EltR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位诱惑：\n\n弹性工作、双休，五险，法定节假日；\n项目分红，定期调薪。\n\n职位描述：\n\n工作职责\n\n完成所承担功能模块的研发与测试任务；\n完成所承担功能模块与其他模块的集成、部署、修改、重构与调优；\n根据公司的要求编写相关的技术文档：撰写所承担功能模块的设计说明书、开发说明书、测试与部署文档等；\n解决产品开发过程中的疑难问题，性能优化问题。\n\n职位要求：\n\n大专及以上学历，一年以上 Java 后端研发经验，能熟练使用常见类库或框架，编写高质量的代码，善于常见场景的性能优化与问题的分析、解决；\n拥有较为扎实的计算机科学基础知识，对常用的数据结构、算法、操作系统、计算机网络以及 Java 语言核心特性有一定的认知和理解；\n熟练使用 HTTP、TCP/IP 等常见网络协议，并可顺利进行网络协议的对接、研发工作；\n熟练使用 Spring Boot、MyBatis/MyBatis Plus 等 Java 平台常用的技术与开发框架；\n可熟练使用常见的后端研发基础设施：如 MySQL、Redis、Dubbo、RabbitMQ 等。\n\n加分项：\n\n有代码洁癖，注重细节问题；\n对前端研发有一定了解，知道前端研发的背景、常识；\n对分布式、高可用、高性能的系统设计与编码有基本了解；\n拥有互联网、物联网行业的系统研发经历；\n了解基本的项目架构知识，了解后端项目架构的成长、演化路线；\n钻研过框架的底层实现并有一定理解心，能通过持续学习完善自身，有担当，执行力强，乐于分享。",
+      "encryptAddressId": "b3e724a97c6bf49f1nd92dS5GVVS",
+      "address": "武汉洪山区丰天鼎业科技有限公司武汉市洪山区光谷大道特一号国际企业中心三期鼎业楼A座304",
+      "longitude": 114.423055,
+      "latitude": 30.486846,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231109/48ba41acc9cef1bf56c37bdc798581b9bf881c7215c1f5fb6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231109/48ba41acc9cef1bf26ba30d614d5a3c903956a25b0d6a8dc6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "物联网经验",
+        "分布式经验",
+        "云计算经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "夏先生",
+      "title": "前端开发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "丰天鼎业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "81ab5012219895391XVy3NW0Fg~~",
+      "brandName": "丰天鼎业",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖"
+      ],
+      "activeTime": 1717103811982,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "丰天鼎业",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

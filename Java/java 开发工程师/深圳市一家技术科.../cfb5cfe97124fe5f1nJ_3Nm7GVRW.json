@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QBR8WRetSfQx8-31XOiqO6O27p-DgADPolZaEYmuOT6BTF10rF9QQLTI7eCTpMDi7dfQfHF52QURKvFGXeUuOQAenbf69XTTArBq7sn2X3WXoWtZwTs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cfb5cfe97124fe5f1nJ_3Nm7GVRW",
+      "encryptUserId": "74fb1b044d57e1d71XV53Ny8ElM~",
+      "invalidStatus": false,
+      "jobName": "java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n1、根据设计，按计划完成代码开发和单元测试 \n2、和测试人员配合进行产品测试和验收工作 \n3、参与系统的安装调试，保证产品顺利发布 \n职位要求 \n1、有扎实的JAVA编程基础，较强的面向对象及设计模式思想；\n2、熟练使用mybatis、spring boot, redis 等相关主流框架技术；\n3、掌握SQL基本语法，熟悉Oracle，Mysql等流行数据库。\n3、具有较强逻辑思维分析能力，设计和编写文档能力；\n4、良好的沟通能力，工作积极主动，责任心强；",
+      "encryptAddressId": "b823e261f0f24fb903x62ti-FFM~",
+      "address": "深圳南山区自贸中心20F",
+      "longitude": 113.91855,
+      "latitude": 22.489968,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcdd550db18fc0415d32a11e28af2634",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a36d0d23243ce637ce6a44d5577b8dbb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "骆先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "深圳市一家技术科...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3b026b22d3aab23e1nF92d-5Flo~",
+      "brandName": "深圳市一家技术科...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717102157936,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市一家技术科...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

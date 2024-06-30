@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hvAIXpiuxrHGt-t1itIl5JevWXm6trH8Ln06K2NtNSo_2UCmQ_quDvSkTAR5PLHRdw5g_yVlgvxKA0kYJZuAZNGbrT4j8hid586j4lcJCVI0a4ahrqEq99Qu37ZyaSaUOoOntpQAmO-s0w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "55cb665b88a8adc21XF-0tq7GFpY",
+      "encryptUserId": "5ebfefe2ad6600e10nF-0ti_F1VV",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责项目需求分析，系统架构设计以及数据库设计，完善技术路线\n2.根据公司要求规范，编写相关技术文档\n3.独立解决项目难题，推进项目进度，编写项目文档\n\n岗位要求：\n1.代码编写规范 编程基础扎实，逻辑思维能力强\n2.能够使用主流JAVA开源框架Spring, SpringBoot, Spring Cloud, Dubbo , Mybatis等\n3. 熟悉数据库的设计与开发，熟练使用mysql, 及mysql的性能优化\n4. 掌握分布式缓存技术 例如redis  , memcache\n5.熟悉消息队列的应用，熟练使用 RocketMQ, KafKa, zookeeper等主流技术\n6.了解持续集成(jenkins),以及自动化部署（docker）\n7. 了解C++ 编程开发，会UE蓝图开发者优先后端开发工程师",
+      "encryptAddressId": "b49a94145f109a3f0Xx829u5GVQ~",
+      "address": "南京雨花台区润和创智中心B栋511室",
+      "longitude": 118.758169,
+      "latitude": 31.973912,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13f1a35dce2dfd6e9aadff2bdc11fd8f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d8500851e369a880d74cc1769ceb6b27",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Java开发经验",
+        "计算机/软件工程相关经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220811/607f1f3d68754fd0206b21cd863599fc24f3f4f47ce09804958e632d0d1aaaf31be387100e9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "超级星图",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ea7126ce612daef01XZ-2N64E1c~",
+      "brandName": "超级星图",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220821/7bf6f160950405e9ecd81605bdfea0e25165e2ecd4dcf9b9958e632d0d1aaaf31be387100e940131.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718844498000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "超级星图",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

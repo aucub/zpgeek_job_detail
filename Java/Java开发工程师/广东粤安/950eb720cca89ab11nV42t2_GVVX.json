@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TK6O1dCvwyVJn-U1yIfXooccrLiqs2_oS0yOxKtJnYrJN5jFM-op1Qw5YF5fsuKKwRJ7lutqFYibMyeMMCIUPpwyb53HH6RZ4IngtP6D4L5K2sfv7g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "950eb720cca89ab11nV42t2_GVVX",
+      "encryptUserId": "5208bc18c1ed62ed1n1y2Nm_EFY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机及软件、信息工程等相关专业全日制本科或以上学历；\n2.年以上Java编程基础，深入理解io、多线程、集合等；\n3.熟悉常见设计模式，了解Spring、Spring MVC、MyBatis等开发框架技术原理并能熟练使用；\n4.熟悉redis等常用的Nosql技术，能理解其实现原理并熟练应用；\n5.精通SQL语法，熟练掌握Oracle、MySQL等主流数据库开发；\n6.有SOA实施经验，熟悉一种主流服务化框架（Dubbo，Spring Cloud）者优先；\n7.掌握Eclipse、IDEA、GIT等开发工具的使用；\n8.熟悉HTML,CSS,JavaScript,Ajax,jQuery等Web前端技术，熟悉Web开发框架；\n9.积极主动，认真负责，具备良好的沟通能力、学习能力和团队合作精神；\n10.非外包；",
+      "encryptAddressId": "83ed51a90953b5731nB73tq_FlI~",
+      "address": "广州天河区双城国际写字楼7层",
+      "longitude": 113.318159,
+      "latitude": 23.120046,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3470bc7180320a8b1b8947b3264fb5ad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3499e623010b903b1bf1ccd29014bb64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Java",
+        "SpringBoot",
+        "SpringCloud",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "后端工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd0a219a0b0462c376af3642904ba5b9c8998cbf9430e0f30ecc96135823e6fb74_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广东粤安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe0b2fa86469a0f333xy29W-Eg~~",
+      "brandName": "广东粤安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100708,
+      "industryName": "房屋建筑工程",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717072705675,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东粤安",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

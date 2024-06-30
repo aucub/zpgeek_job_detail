@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gLN34Yo5EUkpL-Z1kOY3Lo0YnEPHLoxfvM43dCVf6pvT78A1mYQF1Vym2d9N1jkIVeDsDQ-kCvcMQKt8j4iOHmMkFS9QhOUkysRPbDmZ2w4THlT6YX1WMKyCrJp5Y1ll6vR6iVcwsSu4",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d9345747f70a72741HJ80tm-E1dV",
+      "encryptUserId": "5101d2839469078c1X193di0EVE~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位要求\n1、本科及以上学历，计算机相关专业；\n2、熟悉MySQL，根据业务需求编写sql语句，优化sql；\n3、熟悉Spring相关框架，例如SpringCloud，SpringBoot等，了解Spring中的IOC容器和AOP面向切面编程；熟悉微服务并有实际开发经验；\n4、熟悉Redis缓存；熟悉Paas平台，注册中心nacos等相关产品；\n5、熟悉微信公众号相关的模块开发;\n6、具备有较强的逻辑思维、责任心强、有学习精神、具备良好的团队协作能力和沟通技巧。\n二、岗位职责\n1、负责老互联网H5平台功能后台接口在微信银行平台重构及优化，主要包含紫金数屋、驾驶舱、收银台、社区活动、升金有礼、紫金之家、线上贷款申请、贵金属、生活缴费、员工福利、贷后回访等功能；\n2、负责微信银行及信用卡小程序新需求后台服务和接口开发，主要包含贵金属小程序、信用卡小程序、财富相关小程序、其他业务场景及行内小程序整合需求；\n3、根据产品需求，参与应用程序的设计、开发和测试等工作；\n4、与团队成员协作，解决应用程序中的问题，改进性能和用户体验；\n5、保证代码编写质量，确保提交测试的版本符合质量要求。",
+      "encryptAddressId": "e810378bf6a147631nZ52Ni-EVNZ",
+      "address": "南京建邺区紫金农商银行(江东中路)南京金融城8号楼紫金农商行",
+      "longitude": 118.716634,
+      "latitude": 31.988394,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bf6c303866d65ba7a9b70796f1daecb1d56bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bfac7701b4f20531bea0071d486f82916a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170725/3e6869d9485cf7da923578be1b32af32f61e59c172c7318f2291e0f49de_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州展鸿",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b8fdbe0617d060ff1XJ_29m1EVI~",
+      "brandName": "杭州展鸿",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719307989819,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州展鸿",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

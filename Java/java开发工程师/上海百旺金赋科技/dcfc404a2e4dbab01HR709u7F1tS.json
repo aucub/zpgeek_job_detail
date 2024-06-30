@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AZJWQ1Cmp1OMW-F1ZTrIVIaLmGI0GRlm1bA48i84fDYPu8eARSy3kBpzWxsIMoeM6F1lv4xMtZG3z2kGYlvIUIPIUG3YyRinvPWPfgMQ7avMyOtPLuIP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dcfc404a2e4dbab01HR709u7F1tS",
+      "encryptUserId": "c7130725a8c482e60nx70tm0GFJV",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、 拥有敏锐的产品嗅觉，对业务、产品有深厚的兴趣，对技术驱动业务有强烈的激情；\n2、 参与产品需求讨论和产品设计，参与或负责产品关键技术选型和攻关；\n3、根据用户需求文档完成概要设计和详细设计。\n任职要求：\n1. 两年以上java及WEB应用软件开发经验，精通常用框架spring、spring mvc、springboot、orm框架（mybatis或hibernate）、jfinal等；熟悉前端开发（js、html、css）; \n2. JAVA基础扎实：熟练掌握数据结构、多线程编程，掌握常用的设计模式；熟悉JVM，包括内存模型、类加载机制以及性能优化; \n3. 熟悉常见的中间件、分布式解决方案及其原理，熟悉SOA、消息中间件，负载均衡、连接池等; \n4. 熟悉关系型数据库，例如mysql、oracle、SQLServer之一; \n5. 具有高并发和高可用的相关开发和优化经验优先; \n6. 具有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队协作能力。\n7. 欢迎优秀应届生，可带教培养。",
+      "encryptAddressId": "57eac29eefa9dc881ndy2tu5EFdR",
+      "address": "上海徐汇区研祥科技大厦A4栋11层",
+      "longitude": 121.398008,
+      "latitude": 31.163353,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfc3f7033f1926c31a31b141ebc1fa99496bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230707/48ba41acc9cef1bfe0256b66fa5aacdae07377cf368a810c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "毛先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "上海百旺金赋科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7bda9314a2da72da1XF43dm9ElM~",
+      "brandName": "上海百旺金赋科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718171889338,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海百旺金赋科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

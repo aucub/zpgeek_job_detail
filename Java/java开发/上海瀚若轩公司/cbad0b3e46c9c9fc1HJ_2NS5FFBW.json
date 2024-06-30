@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yqe1LdXvYFEdl-R1mDtfCRUx7jDc2gicvVtd89FVZYjxrNJpaF42I57RiPTJ0Ihd6BHoR6nfSAPb9TUy-mwrI_2ehAyfgCr4mlWHNqD-DyvWDQQLVYNk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cbad0b3e46c9c9fc1HJ_2NS5FFBW",
+      "encryptUserId": "6ee1af7524919eea1nZ529q1E1dT",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、java基础良好，熟悉JSP，JDBC，javascript技术，css；熟练运用常见框架（Spring, SpringMVC，Ibatis，hibernate，struts2等）\n2、熟悉oracle或mysql数据库，熟练编写sql进行数据的操作。\n3、至少2年以上的实际开发经验，具有良好的编程习惯和流程分析能力\n4、良好的编程习惯，对设计模式有理解，可对代码进行重构优化。\n5、满足以下任意一项者可优先考虑： a、熟悉RCP框架开发，有实际项目经验优先 b、熟悉hadoop生态中的相关组件，有集群维护经验优先；",
+      "encryptAddressId": "7f067587c5a7f0000Hdy2ti0EldQxYq4Uv0~",
+      "address": "上海徐汇区宝石园26",
+      "longitude": 121.394693,
+      "latitude": 31.164683,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf0bf7009f1ffa5f2477ae15ac90373d2a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfb15b7a73bb206700b3ba25dda3d50abe6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "RCP框架",
+        "hadoop生态"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231013/607f1f3d68754fd053f396790c2aa2e9e00070b32dfd43505812c8fda2d5cb593e2ad9c48e16805_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海瀚若轩公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "878a2f8f0554a10e1XN92di9EVM~",
+      "brandName": "上海瀚若轩公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1718789090945,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瀚若轩公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

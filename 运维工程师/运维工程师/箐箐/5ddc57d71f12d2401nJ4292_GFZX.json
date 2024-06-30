@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nDikT1Lsfsy1G-11HeJijLuGyfjEP4DQVMBPqOu9_lojlOt15AxHbffYFlJfztpCpLvKPzBRZ_TIAsarHAokL7P3-i53gk5ikFNBjwAaNw_3jzh8USHe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ddc57d71f12d2401nJ4292_GFZX",
+      "encryptUserId": "0e39f18a14ddf4470nd82tS4EFtX",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练掌握linux系统，从事过centos，ubuntu等系统的运维工作半年以上；\n2.熟练掌握docker容器管理工作，搭建并管理过k8s平台，可以独立编写dockerfile，掌握k8s平台中4种不同的service，部署并维护过基于k8s的服务；\n3.有一定的bash脚本基础，可以独立编写系统运维脚本；\n4.有一定php-cli基础和python脚本经验；\n5.熟练掌握nginx的配置参数，能够根据项目需求完成nginx的参数调优；\n6.熟练掌握计算机网络，熟悉各种网络拓扑，对TCP/IP协议有充分的理解；\n7.认真，细心，谨慎，有积极的学习态度，可接受出差任务；",
+      "encryptAddressId": "7c80ba2106b52c811XBy3dq9Eg~~",
+      "address": "长沙开福区凯乐微谷电子商务总部基地A座10楼1001",
+      "longitude": 112.994793,
+      "latitude": 28.238372,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7f07d00dfc1eb5282fdf55f5bb2cb18",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fa39b820b067c5f8cc18967d27331c4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Python",
+        "服务器配置",
+        "容器技术",
+        "网络协议",
+        "Nginx",
+        "K8S",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "箐箐",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5f233b3601c4461b1nN92tW0GVU~",
+      "brandName": "箐箐",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717107181945,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "箐箐",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

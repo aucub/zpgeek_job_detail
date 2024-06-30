@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7IgVrTuVmdIfx-L1l2Maeh06ZTSKEk-PRCihPRNMum0HCcv70YDIuTPkvhHTBuB42360A8YWHnWwt0HACbD6hipV6MtNgBBEXluJVtaH5uNVOfqyw1XG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "74d883a93adaad961XV83Nm4EVNZ",
+      "encryptUserId": "bff0abcdfb67853c1nZ73di-GVtW",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "必须要求：\n开发过淘宝客系统，对开发接口精通精通thinkphp 或者yii框架，3年工作经验以上，了解一点Java语言，\n\n1、熟悉JAVA/python/shell中的一种，熟练掌握mysql数据库基本语法和常用命令，掌握linux相关知识；\n2、掌握常见的数据结构、算法，了解软件工程、敏捷开发知识，熟悉常用的设计模式；\n3、理解SOA、微服务、中间件等Paas相关的关键理念和技术，并对其有实践和应用经验者优先；\n4、熟练掌握VUE，JavaScript、HTML、CSS 等常用前端技术，对AngularJS/React等前端框架了解则更佳\n5、熟练掌握Bootstrap，Jquery等前端的框架和技术，对HTML5 CSS3有比较多的实战经验；\n6、熟悉HTML5表现形式的制作及开发, 有响应式页面开发经验优先；\n7、有Hadoop,HDFS等大数据经验优先\n8、具备数据库应用设计能力、安全、性能调优方面经验者优先",
+      "encryptAddressId": "e3117474cb8ad5470nRz2du9FlI~",
+      "address": "西安雁塔区西安神州数码科技园4栋17层",
+      "longitude": 108.868208,
+      "latitude": 34.195085,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cca6f776f00e956c092e69710be9e9c6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13c3f2166cd0645a0bbefd2e068bdb03",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "全栈开发",
+        "后端开发",
+        "前端开发",
+        "Vue",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "卫先生",
+      "title": "HRBP专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230128/607f1f3d68754fd01788f61d6a52438061155a27cf86a51ef1ee547ec6eb6cd010c4e174fe9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "陕西国创未来信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65a87ac39f3b9a581XR_39m-Elc~",
+      "brandName": "陕西国创未来信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220620/7bf6f160950405e981a5d21b8ebbac85cfe3505c6c36f46bf1ee547ec6eb6cd010c4e174fe9b4f07.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "陕西国创未来信息科技有限公司成立于2012年，主要以软件技术开发服务为核心，从事计算机应用软件定制化开发、软件人力外包，软硬件开发解决方案，餐饮行业解决方案，零售行业解决方案，智慧社区，智慧工厂，智慧旅游，智慧园区，智慧设备等领域规划建设。",
+      "labels": [
+        "团建聚餐",
+        "员工旅游",
+        "全勤奖",
+        "绩效奖金",
+        "加班餐补交通"
+      ],
+      "activeTime": 1718706458254,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西国创未来信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

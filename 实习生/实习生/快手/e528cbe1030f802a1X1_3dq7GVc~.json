@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8SLSqtGhUAmqO-r137aPreVyh78Y2angas-g8MkvolYResjxJe1_6QZhYDzK6VluNmHgxjrLZgMGaOwUR950jww2YecWt3y41u_iThAeO6IpmQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e528cbe1030f802a1X1_3dq7GVc~",
+      "encryptUserId": "be6294e67545375e03N929u0GFA~",
+      "invalidStatus": false,
+      "jobName": "实习生",
+      "position": 270101,
+      "positionName": "实习生",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\r1.\t参与基础数据的清洗、加工、建模\r2.\t参与数据报表开发和性能优化\r3.\t配合产品运营进行数据挖掘，落地运营相关数据结论、数据产品，支持运营决策\r\r任职要求\r\r1. 计算机或相关专业本科及以上学历\r2. 具有很强的开发和动手能力，熟悉一种以上编程语言，如Java、Python等\r3. 深入理解常用的数据建模理论，可独立把控数据仓库各层级的设计\r4. 丰富的大数据系统使用和开发经验，包括但不限Hadoop/Spark/Hive/Hbase等\r5. 每周可onsite 3天以上，连续实习3个月以上",
+      "encryptAddressId": "c7724b92b13f922f1XB83ti9EFE~",
+      "address": "北京海淀区清华同方",
+      "longitude": 116.308,
+      "latitude": 40.04539,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f03496b47cc32c421e06a6d73b1ef5c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6466a905778c156bc50f27b4f53276a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据开发",
+        "数据挖掘"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "商业分析师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "快手",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "480261c022ea03d81nV53tQ~",
+      "brandName": "快手",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "快手是领先的内容社区和社交平台，是短视频行业开创者与引领者。快手致力于创造一个温暖和信任的社区，让更多普通人拥有表达和被看见的机会，并由此培育了繁荣与高互动的社区生态，每天有上千万优质内容上传。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1717071203065,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "快手",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

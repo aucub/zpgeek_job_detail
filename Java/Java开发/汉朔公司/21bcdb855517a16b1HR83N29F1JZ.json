@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wI_NHpnTVvWFl--1wDywNgZfa5NymY4kVrvYLGpU14obIUSYVVmsi-JvUEbyrgNJWXNCfnKhWVuICLveXJ-quqKcaYGT-l0M5ibABkwY8fvuvHrsUA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "21bcdb855517a16b1HR83N29F1JZ",
+      "encryptUserId": "2bbd9a6b096e77500Hx63d21E1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机方向专业，计算机基础能力扎实，专科及以上学历;\n2、有 2 年及以上 Java 开发经验，有大型项目经验者优先;\n3、熟悉 Java 集合、I0、线程池、锁体系等相关基础框架，对 JVM 原理有初步的理解，包括类加载机制.JVM 内存模型、垃圾回收机制等;\n4、精通 Redis 集群、熟练掌握 Elasticseargh 核心API 的使用，熟练使用主流的关系型数据库，如 MySQL、Oracle",
+      "encryptAddressId": "8b4d91cbee341a6f0n1z3t--ElpUwoW3Wfk~",
+      "address": "上海浦东新区凯龙金领大厦东楼40栋",
+      "longitude": 121.623172,
+      "latitude": 31.260207,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4eecd20440d7bdbc2175d6fcc2fbeda6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e4af39b1cd5247c326a934394d98cb6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Dubbo",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200119/a19e961aadf51dd511c7d32d910e9e65d4bba987f076fd1c807346193ea_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "汉朔公司",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a612937f95138a480nV_3tW0EQ~~",
+      "brandName": "汉朔公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190926/9dd5b660340ae59e74ffa6ce11e330e21aebc4f6ed16d6f3374bb119105720c8_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "上海汉朔信息科技有限公司创立于 2014 年，上海市软件行业协会会员，双软认证企业，ISO9001 认证企业。公司总部设立于上海，沈阳、北京、大连、福州、成都设有研发中心。汉朔科技致力于金融专业化技术服务、资管领域技术应用、交易平台、监察风控、清结算、行情、账户管理、大数据等领域取得了优秀的业绩，企业打响了“汉朔科技”的品牌，为数十家客户提供了高水准的咨询、产品、解决方案和服务，并结合公司定位和积累形成多项自主知识产权产品。公司秉承高端、专业、创新、共赢为公司价值观，定位于资产管理核心技术和商业创新，成为行业解决方案和专业化服务领跑者的金融科技公司。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1718537237162,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汉朔公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

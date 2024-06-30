@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "I7vZjfTaq05bX-m1_9GD2pZa8wrBtDTqUcaua3GZg5MBl5B6i18vhis_YX3bhsxZTYdGEOc0bJiptSOw8lp-ZyO19cKeIfySk3hTyaiLF9UzvnxWvJQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c653f173a417a7991Xxz39W6FFJY",
+      "encryptUserId": "9feb28061bdcd2a60XJ62961Elc~",
+      "invalidStatus": false,
+      "jobName": "初级嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·19薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责: \n1.负责产品的代码测试与维护；\n2.负责新需求的研发工作；\n3.负责软件技术文档的编写与维护。\n岗位要求\n业务技能要求: 1.有驱动或者RTOS的编程经验，了解一般硬件的内部机制，如定时器或串口等；\n2.熟悉SkyEye，Bochs或Qemu之一者优先；\n3.有良好的编码风格,有较强的调试能力，会用GDB等工具进行调试；\n4.熟悉Python、Java语言者优先。\n专业知识要求:\n1.英语四级以上，计算机或数学相关专业；\n2.熟悉C/C++，有实际项目经验；\n3.熟悉ARM或者x86其中一种体系结构，能够看懂汇编语言，理解中断机制。\n\n年底双薪、0-6个月项目奖金、期权激励、六险一金、研发员工弹性工作制、双休带薪年假、年度体检、不定期团建、节假日福利",
+      "encryptAddressId": "116c20aa44063d0933J62Ny6Fls~",
+      "address": "西安雁塔区西安国家数字出版基地D座西安国家数字出版基地D座三层",
+      "longitude": 108.833791,
+      "latitude": 34.209755,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75fd355ea803b906db719693125d2d9f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2b26b792e3e0cdc26dd7ac7cf2a2129",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C",
+        "DSP开发",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221215/607f1f3d68754fd08298ee89073da2d3b19761f9b9b13510f95972a6c8189644e125b96cdc6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "迪捷软件",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a6255bb1058453f71nx62dq0EFo~",
+      "brandName": "迪捷软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210813/e208e5cf946c9e1dc89bd3a90ad33575bcfab7ce63606295de336e0999290f83.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "迪捷软件2013年成立于北京，专注于安全关键领域数字化转型，遵循中立开放的商业理念，致力于核心工业软件国产化研究，为我国安全关键领域提供嵌入式DevOps、MBSE和数字装备产品及解决方案，以构建全生命周期的数字孪生系统。总部位于浙江绍兴，在北京、上海、成都、西安等地设有研发中心。\n迪捷软件自主创新、自主设计、自主可控、自主知识产权的一系列嵌入式DevOps与MBSE仿真建模产品，涉及了高端装备的需求、设计、开发直至仿真测试等环节，已成功应用于我国C919、飞机发动机、载人航天、火星探测器、核电站、汽车、轨交等领域，提供了基于计算机的高效设计开发环境，解决了高端装备软件开发和测试时硬件环境搭建成本高、资源调度难、研发周期长等问题，填补了国内嵌入式虚拟仿真领域空白。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "住房补贴",
+        "团建聚餐",
+        "零食下午茶"
+      ],
+      "activeTime": 1717736267386,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迪捷软件",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

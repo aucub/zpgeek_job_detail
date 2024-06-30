@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kt6neY9VHc6yt-714QShmCI12il18Ejk7oVNIrp7nK5bCP6ksL9-EV9ODhGcyHJHsqw4_-Evdpu04losY74xSRvg4Q8FeWSwSD8cv0-SygRpq9V0Ak9VmmyHvkpbyB-RzYvnKfjSTIP2",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "15f10aa8e7d7ec8f1Xx83d-7E1tU",
+      "encryptUserId": "eaeefed4d4dad00b1nV_3ty-EFFZ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "后端开发工程师（应届本科）\n1.熟练掌握Java编程语言的核心语法和面向对象的思想\n2.了解熟悉Web框架，springmvc、springboot、springcloud等\n3.了解常用的ORM框架，mybatis、mybatis-plus优先\n4.熟悉关系型数据库和非关系型数据库的基本原理和常用操作\n5.了解RESTful API的基本原理和设计规范\n6.了解常见的Web安全问题和攻击方式\n7.熟悉使用 Git 等版本控制工具进行代码管理和协作开发\n8.具有良好的沟通能力，逻辑思维以及表达判断能力\n9.有良好的团队协作能力，勤奋踏实，做事有责任心",
+      "encryptAddressId": "96ab3296d0df58b73nV70tu7EVA~",
+      "address": "杭州余杭区杭州师范大学科技园(文一西路)E1602",
+      "longitude": 119.988756,
+      "latitude": 30.275469,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c6c413451a5367d36866b14e742cc84",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29aab697d7d605cede52aaec2dc42b64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MongoDB",
+        "SpringBoot",
+        "Socket技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州融惠数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "eb3db86f86883db93nV73t6-EA~~",
+      "brandName": "杭州融惠数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220712/7bf6f160950405e97e4d5e91680665f79b7f042a0af8ba23947ceae44d27cef66af0d741cc79fc5d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州融惠数据科技有限公司成立于2018年9月，是一家专注与数字政府的行业解决方案与软件开发服务提供商，为客户提供优质、高效的数字化、信息化产品与赋能服务。\n      公司以服务数字浙江建设为己任、以数字化改革为契机，聚焦信息技术赋能数字法治，致力于政府法治数字化改革的行政管理与公共服务效能的提升，形成了围绕数字法治事先数字化赋能、事中决策、事后评估的完整产品生态；产品融合大数据、区块链、AI+可视化技术，集成浙政钉、电子签章等成熟组件，向数字法治领域客户提供“平台+应用+服务”的一整套解决方案；公司业务除了数字法治以外，同时涉及数字党政、数字政府多个场景应用的开发和集成。\n       公司企业的文化是自公司成立以来，每一位团队成员一直以客户满意为己任，赋能客户价值为经营理念，努力满足每一位客户的需求，以不断提升客户价值，来实现公司与客户双赢的理念。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "工龄奖",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717044034932,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州融惠数据",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5a4zf4rigNtAC-e1P6WmfZwEje4_cl0Ri4ku_nxEkKhv59O7E-JRRjMO7RkGtso6rK1K1UjbTTvDo1wqkNbGUYX-CMNFr4A1u8w6kApTqTt2tmjnkCUK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "86f7f76d7083f6061HJ43dW0F1NS",
+      "encryptUserId": "c12bb3b854503ad10nR53t27E1dZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求 \t\n1、根据开发规范与流程完成模块的编码，并输出相关需求或设计文档；\n2、独立进行程序单元、功能测试，保障编码质量；\n3、协同产品经理项目经理完成项目规划；\n4、完成直接上级交办的其他工作任务。\n任职条件 \t\n1、计算机或相关专业本科及以上学历，1年左右开发经验，精通JAVA语言；\n2、熟练使用Spring boot、MyBatis、SpringMVC等主流开发框架，并熟悉其实现原理；\n3、熟悉dubbo、spring cloud等微服务框架\n4、熟悉RocketMQ/RabbitMQ/Kafka、Redis、Zookeeper等常用中间件的使用及其原理；\n5、熟练使用关系数据库，如Mysql、Oracle数据库，具备一定的调优能力；\n6、熟悉Maven，svn，git等开发工具，熟悉Linux环境；\n7、善于沟通，具有很好的判断、分析和解决问题的技能，有团队合作意识；",
+      "encryptAddressId": "095d23023a335e513nZ42NS6FlVXyo6-VvM~",
+      "address": "北京海淀区京玺文化创业园B区北京市海淀区安宁庄后街2号B区1层B-103室",
+      "longitude": 116.331113,
+      "latitude": 40.050605,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bfe17a871d7220fd70a5e5255355ba3ad76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230829/48ba41acc9cef1bfc967fa8bfd4536ec40cbe11acf44f2766bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221115/607f1f3d68754fd0b28d2f51cfc530e03ff28cd0786de0762d0fbb33359ae4948377196e632_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "空港云天",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b96a90cc996d3ca81nV_0tS5GFc~",
+      "brandName": "空港云天",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210713/9ab7d720d0e1053b278ba4fb966b0bcc6b0b31617495f2bd397d187944ef627e.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "立达政通科技集团有限公司全资子公司",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "加班补助",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1718792927304,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "空港云天",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

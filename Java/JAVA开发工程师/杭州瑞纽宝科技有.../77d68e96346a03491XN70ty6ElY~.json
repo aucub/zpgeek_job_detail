@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KtPSCaWO3CcY0-D1IpbgAp4DGdd9EYUwSVIt0hxzcExrs92cPFgG8HSiXAxDgIzuH0UECIbLbZD0fnAifcq6C6dntTo-WxBPlf55-UC4uksiTL4MsVwZhyyxcYI3HduR4agcdQ9mwA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "77d68e96346a03491XN70ty6ElY~",
+      "encryptUserId": "ea879b6261ee54b303Z72t6-FlM~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、基于WEB应用的系统开发，网站应用；\n2、负责APP、微信公众号和小程序的后台接口支撑。\n\n岗位要求：\n1.J2SE基本功扎实；\n2. 熟练使用SSM、SpringBoot框架，了解MVC、JPA、OR-Mapping规范的开发思想；\n3. 熟悉Socket通讯、TCP、HTTP协议，了解多线程、高并发技术；\n4. 熟练使用MySql数据库，了解NoSql思想，具有一定数据库优化经验;\n5. 对设计模式具有一定理解，基本常用设计模式熟练使用；\n6. 熟练掌握一种应用服务器的安装、配置、部署、优化，例如tomcat、was等；\n7.熟悉Linux基本操作。",
+      "encryptAddressId": "e7c3a538ff4bc6b41nxy3t28ElE~",
+      "address": "杭州西湖区杭州数字信息产业园2期杭州市西湖区西园九路8号",
+      "longitude": 120.062426,
+      "latitude": 30.318473,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c4dc2cbc0725a473169942493bd74fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4751a2c64766a26ac1c3133fcd850d2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端工程师",
+        "后端开发",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "杭州瑞纽宝科技有...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e80fd109cb0005d21Xd629S6Eg~~",
+      "brandName": "杭州瑞纽宝科技有...",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "主要从事产业互联网领域，依托传感器、物联网、人工智能、计算机辅助决策技术开发，应用于城市建设与安全管理、新能源电力设施等。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "包吃",
+        "住房补贴"
+      ],
+      "activeTime": 1718867982486,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州瑞纽宝科技有...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

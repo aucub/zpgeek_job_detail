@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "19YododqX9ywz-R1AnbnndWxUScuuTV4vGVYt-N_TkmcDQPPMwRZwQ4jFW74U_hMEpOJlaP7zEfr8I8eE8PnFS-VgAwkjdSJ6Jxo6c84GGEekNbSIw0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f968673b3228e6041nN52d29FldW",
+      "encryptUserId": "b77349e74a86ecc61XJ70t20FlY~",
+      "invalidStatus": false,
+      "jobName": "云原生大规模集群研发工程师_杭州上海北京",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "蚂蚁资源调度系统支撑了蚂蚁金服在线、实时业务的百万级容器资源调度,向上层各类金融业务提供标准的容器服务及动态资源调度能力,肩负蚂蚁集团资源成本优化的责任。本岗位致力于使用技术驱动业务发展、提升资源使用率、降低运营成本的资源调度优化系统设计与研发。打造蚂蚁统一资源和调度中台。\n\n岗位职责： 大规模k8s集群管理平台的研发\n\n岗位要求： P5P6P7P8均可\n\n1、熟悉Java或者Go语言，有大型分布式、高并发、高性能、高可用系统的设计开发经验；\n\n2. 熟练掌握Spring、ibatis及其他主流JAVA框架并了解其实现原理\n\n3、理解Kubernetes的架构、特性清楚，对容器技术有比较浓厚的兴趣，熟悉linux 系统知识，docker，容器隔离技术，有一定的系统定位能力\n\n4、熟悉CNCF生态技术，如Serverless, Service Mesh, Prometheus, Knative等；\n\n5.  有相关的k8s集群部署，管理的平台研发经验者优先",
+      "encryptAddressId": "c88bc0912a5504761nB639S8GVI~",
+      "address": "杭州西湖区蚂蚁集团元空间c",
+      "longitude": 120.107822,
+      "latitude": 30.267023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de5e304e66fde2e7620ac58a2f143850",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99bf5626a91a09c07e5e7a27917ae0db",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "容器技术",
+        "Spring",
+        "kuberentes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "毛先生",
+      "title": "资深技术专家",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "蚂蚁集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4685d74590e9bc881nV43N-4EVo~",
+      "brandName": "蚂蚁集团",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "蚂蚁集团起步于2004年诞生的支付宝，源于一份为社会解决信任问题的初心，经过十九年的发展，已成为世界领先的互联网开放平台。\n我们通过科技创新，助力合作伙伴，为消费者和小微企业提供普惠便捷的数字生活及数字金融服务；\n持续开放产品与技术，助力企业的数字化升级与协作；\n在全球广泛合作，服务当地商家和消费者实现“全球收”、“全球付”和“全球汇”。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1718598818885,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蚂蚁集团",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

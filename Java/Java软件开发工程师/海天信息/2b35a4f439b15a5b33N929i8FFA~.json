@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "evPC5bontUJp8-C1blDNhAWCLNeMtKRH_O4yYOd7NyFaTTnAtJEqTBKhi2uPDoaKkv_IBpGwf_-J2zD_FyiFBrmd9jKgMQPCYOldVHXw9y_nphEE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b35a4f439b15a5b33N929i8FFA~",
+      "encryptUserId": "cfa125ac07bf98901HF72Ni4ElY~",
+      "invalidStatus": false,
+      "jobName": "Java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、大学本科及以上学历，计算机、软件工程等相关专业；\n2、3年以上java开发工作经验,精通SpringBoot,MyBatis,SpringCloud应用框架,有微服务架构经验优先\n3、熟悉各类开源后端技术（如Web框架、RPC、消息中间件、存储、Redis、分布式、Docker应用容器引擎等）\n4、有基于MYSQL，ORACLE等主流数据库、PLSQL开发的经验；\n5. 较强的逻辑思维能力，了解模型和数据相关架构的搭建、设计及开发；\n6. 熟练使用 Git 进行项目代码管理以及版本控制，并遵循一定的流行规范；\n7. 具备良好的团队协作精神，有一定项目管理经验；\n \n加分项（非必须）：\n1. 能熟练使用 Vue.js 前端框架。\n2. 具备使用activiti流程引擎工具的经验。\n3. 熟悉软件设计与开发流程，熟悉 Axure,modao等设计管理工具。\n4. 熟悉 Docker 并有实战经验最佳\n5. 在 GitHub 上有活跃的记录",
+      "encryptAddressId": "9418d2d99ced1d0733150921EVNXwY23U_s~",
+      "address": "上海静安区大宁·东朔空间7410室",
+      "longitude": 121.439604,
+      "latitude": 31.280162,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf54c1c91f0cf7b160a58fe64058e07d516bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230610/48ba41acc9cef1bf2445a68bc3e7056f6aae15c00fb4da5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Mybatis",
+        "GIT",
+        "Java",
+        "Redis",
+        "架构师",
+        "微服务架构",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "裘女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "海天信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f9ce4f97b782bfc81nZ639--Fw~~",
+      "brandName": "海天信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171115/4cde80a073dc8b99e891e5090aa9e3b207788c80b5a86eeff5d7d70776d94fa4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海海天信息系统工程有限公司（以下简称“海天信息”）坐落于上海大学科技园区。现有员工110人，海天信息依托上海大学和公司自身强大的科研实力，经过20年的市场发展，形成了包括面向教育主管机关、高等院校、中小学校、民办学校的预算管理、资金管理、财务管理、资产管理、人力资源管理、教学教务管理、学生学工管理、校园信息化、信息资源管理等在内的较为完整的教育管理软件产品体系；已经成长为国内领先的教育管理软件行业解决方案服务供应商。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718282298389,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海天信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

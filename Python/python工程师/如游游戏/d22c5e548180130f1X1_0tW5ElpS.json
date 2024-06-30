@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "si6FLdPa5aLUK-E1pEefvDoBGrdh-dk0djOO-W5t4Zhqxi1-l_oIzuBM8nWFuGhxt4jsMk8avDW500zh0jmqnqPxTcu7i1wrj_e4pnf7Zzhpza7hrwK-TA3r2zhW6vlDvgPsNA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d22c5e548180130f1X1_0tW5ElpS",
+      "encryptUserId": "933a959d94372b331HB539Q~",
+      "invalidStatus": false,
+      "jobName": "python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职能：\n1. 负责和AI相关的后台服务器的开发；\n2. 负责AI开源算法/模型的工程化，搭建AI模型环境，部署落地，调优；\n3. 评估比较不同AI算法/模型的效率与效果。\n\n\n任职资格：\n1. 计算机相关专业本科以上学历\n2. 熟悉常见的设计模式，熟悉深度学习原理，对于模型算力和内存需求有清晰的认知；\n3. 熟悉深度学习的原理和实现，了解CNN常见的网络模型，熟练使用Caffe、Pytorch、Tensorflow等至少一种深度学习框架；\n4. 熟悉云原生相关技术，对Docker、k8s、微服务架构等有实践经验者优先；\n5. 熟悉python并发编程，对asyncio, async/await机制有实际经验的优先；\n6. 有人工智能、机器学习相关工作经验的优先；\n7. 本科及以上学历，计算机或者人工智能相关专业优先；\n8. 有java编程经验的优先。",
+      "encryptAddressId": "e56ae3fd681756e50XV62NW0EFo~",
+      "address": "上海嘉定区南翔商务中心2号楼2楼",
+      "longitude": 121.325186,
+      "latitude": 31.29148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e653e89c5d2e5afa83c48ecddf8b63e3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/183f7c9e5685a18de85b3a003fd605dd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端",
+        "机器学习/算法工程",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201229/8fe3a72adffbb4c658dfa5ea8894767da8833cd4d827a1bd3e3a22f2709_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "如游游戏",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "66526886610e934503J83d6_",
+      "brandName": "如游游戏",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180427/506e697ec6b02b874a5f70675d568043cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "上海如游信息科技有限公司 （简称：如游游戏）于2014年成立，是国内领先的移动互联网游戏研发、运营和发行的新兴科技公司。\n如游游戏早前在家庭互动娱乐游戏的开发、运营和发行拥有成功的项目经验。2018年基于区块链技术自主研发搭建公有链等技术平台，我们拥有专业开发团队，拥有丰富的开发经验，打造精品产品，dapp软件开发，系统开发，拥有热情的专业服务团队。\n如游游戏是一家年轻有朝气的创业型公司，目前已完成天使轮融资，正处于快速发展阶段，欢迎想做一番事业、工作有激情、技术能力突出的您的加入，公司和您共同制定个人发展计划，同时提供有竞争力的薪资和福利保障制度\n期待你的加入！",
+      "labels": [],
+      "activeTime": 1717134371471,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "如游游戏",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

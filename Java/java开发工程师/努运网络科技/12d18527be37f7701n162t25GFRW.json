@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uylPSp7zKnZ9n-a1k6COawDACtRf-djmsDAwC9euA6MlDBnF8NLW4lZ2g9EO_uGlNjXn3C8ycXcCcgg2HMS0dri3_Ow14Y-CErhBzwoRzRlkUE48LkHd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "12d18527be37f7701n162t25GFRW",
+      "encryptUserId": "d823c5e1906ddbb20nZ43967FVZY",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121400,
+      "locationName": "枣庄",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n\n1.参与公司网站，OA系统的，开发调试维护工作。\n\n2.服从领导安排，及时上报工作进度，处理日常代码需求。\n\n岗位要求：\n\n1.计算机相关专业大专及以上学历，1年以上JAVA工作经验，熟练掌握MVC框架；\n\n2.熟练使用Spring、SpringMVC、Springboot、Redis等常用开源框架及中间件；\n\n3.了解javascript脚本,掌握相关vue等前端技术；\n\n4.了解nginx/apache/tomcat等web应用服务器的使用与配置；\n\n5.对代码质量如实现准确、执行性能、可读性、可维护性负责；\n\n工作时间：\n9：00-18：00 午休一小时\n法定节假日",
+      "encryptAddressId": "fb73499e43bbb9eb1XVy2ti6GVs~",
+      "address": "枣庄薛城区枣庄国际大厦1301",
+      "longitude": 117.339631,
+      "latitude": 34.80453,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57ad77a7a494d1e34eb66d0065591a6a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94f1560a41c4b3463255c855550d8971",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "服务器配置",
+        "SpringBoot",
+        "Spring",
+        "SpringMVC",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "努运网络科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "47b113e0a5c27a151nVz39u_FFA~",
+      "brandName": "努运网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201205/41715d24118cccf372e8705ea856da504c4c9fc8d9dcc2c69599081b2be1b6d2.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "努运网络科技成立于2019年，主营游戏账号交易业务，经过7年发展，已经发展40余人团队，在2022年3月搬进枣庄CBD区域德鑫广场，致力于成为枣庄最大的互联网科技公司",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1716080433634,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "努运网络科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

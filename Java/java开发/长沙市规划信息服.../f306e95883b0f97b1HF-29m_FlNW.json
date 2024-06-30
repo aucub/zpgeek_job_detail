@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xcAeQa0L441eQ-G1tInehT95SVM_hqm_9XN9sEfWd6_FOyuPBWfaf6-coSE9s7ZWfuaOTRyQk0P4G6Xb_NIhEnRiTd7fR2ph53qovyUf4oMS_Rlg8pc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f306e95883b0f97b1HF-29m_FlNW",
+      "encryptUserId": "ed023f5c212db8d41HR_2NW5GVI~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据开发规范、业务流程完成项目模块设计、代码编写、测试以及文档编写；\n2.进行系统优化、代码重构；\n3.能够独立实现项目中具体业务功能。\n\n招聘条件：\n1.本科及以上学历（学位），计算机相关专业；\n2.了解常用算法，熟悉常用的设计模式；\n3.精通Java体系，熟练掌握Spring（Boot、MVC、Cloud）框架；对分布式服务的业务有较深理解，熟悉 Restful API；\n4.熟悉Oracle、MySQL等数据库，并具有较好的SQL编写及优化能力；\n5.熟悉至少一种 ORM 框架；\n6.熟悉规范化的软件开发过程，熟悉单元测试相关技术者优先。",
+      "encryptAddressId": "3fa1c7a8439a712c0n152Nm5F1FWw4S9UP0~",
+      "address": "长沙岳麓区麓谷企业广场b3栋",
+      "longitude": 112.885566,
+      "latitude": 28.207712,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf783063004ed6c76ccabe6931a666c8016bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8f412ad64638d2a8b482777d4f7513286bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "不接受居家办公",
+        "团队管理经验",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170821/26ea5e20cff0c486aadd741060a2afc622ee557b8b4b4b62bce890e0d09_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "长沙市规划信息服...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9d1b221a9dcc5eef1XB-0ty0FVQ~",
+      "brandName": "长沙市规划信息服...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230510/7bf6f160950405e98e536d7aaa1128f4aa3804fe78b0d184033fadecb81fbc512efc5037e149e6ff.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "长沙市规划信息服务中心专业从事“智慧规划”、“智慧住建”、“智慧设计”、“智慧城市”系列软件研发、数据服务、技术服务、学术研究和市场推广等业务，拥有近 500 名城市规划、测绘工程、地理信息、计算机、档案制作等专业人才，硕博研究生占比 40%。中心共荣得 30 余个省部级、市级科研课题立项，获得 30 余项软件著作权，荣获全国城乡规划优秀设计一等奖等 40 余项科技奖项，已与住房和城乡建设部城乡规划管理中心等几十余家企事业单位建立了战略合作。",
+      "labels": [
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719643988541,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长沙市规划信息服...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

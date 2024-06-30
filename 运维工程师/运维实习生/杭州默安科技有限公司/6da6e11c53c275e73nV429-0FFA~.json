@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QsMJcmHsMus8e-d1J6e2-OlcYLZCPkq0YlOdGiAUH0AIzEIjlh-H34RlVobuQgpyn2vpFFgtHjFUFEso_DTJNSnL-mpGn_1d8SqBvIUIqOCRmCMJQjx1otwhwBNSHJhiNf0S2lVs",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6da6e11c53c275e73nV429-0FFA~",
+      "encryptUserId": "0139f32a6177c9a21nd72tS6E1Y~",
+      "invalidStatus": false,
+      "jobName": "运维实习生",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "技能需求：\n1. 熟悉linux操作系统，熟悉常用命令，能够编写shell脚本。\n2. 熟悉网络原理，交换机、路由器配置，有h3c、思科使用经验更佳。\n3. 熟悉常用中间件部署、维护，包括但不限于（nginx/redis/tomcat）等。\n\n4. 至少熟悉一门开发语言（python/golang/java）。\n5. 性格开朗，乐于学习，有专研精神。\n6. 对运维工作有浓厚兴趣。\n\n职责：\n1. 负责公司物理机、私有云、虚拟化系统日常维护，服务器上下架、操作系统安装和配置。\n2. 负责内部系统代码开发。\n3. 负责公司机房网络、办公网络日常维护，交换机、路由器配置。",
+      "encryptAddressId": "d8f9c2d594808bb41nNy3N61EFA~",
+      "address": "杭州余杭区杭州师范大学科技园(文一西路)E幢10楼",
+      "longitude": 119.988756,
+      "latitude": 30.275469,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5378826c02a570c6065db9470290a469",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78f2c17a3858ebe089c2b84d2d06d171",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "机房运维",
+        "Python",
+        "Shell",
+        "Java",
+        "服务器配置",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "运维开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州默安科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d0cfef7afad69b9603Vz2dW9",
+      "brandName": "杭州默安科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161201/b25dead97cff569be2b5dc59d9753fd8085afc15348ce38e3fc03e1e092becd4.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "杭州默安科技有限公司（简称“默安科技”）成立于2016年4月，总部位于浙江杭州。作为一家云计算时代的新兴网络安全公司，公司提供的整体解决方案贯穿左移开发安全（DevSecOps）与智慧运营安全（AISecOps）两大环节，帮助客户构建基于云的下一代安全体系，实现安全风险全生命周期管理。公司秉承可持续安全运营理念，注重实际运行效果，致力于成为值得信赖的安全伙伴。\n目前公司员工超600人，已在北京、上海、广州、深圳以及其它二十余个省份建立营销与服务网络，并在杭州、长沙与武汉建立了研发中心，形成研发、营销与服务覆盖全国的战略布局。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1717127434376,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州默安科技有限公司",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

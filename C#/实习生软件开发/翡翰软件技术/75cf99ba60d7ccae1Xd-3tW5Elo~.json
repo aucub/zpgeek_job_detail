@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8UCLRPs8j7iPS-A1NeDqaVpQMcJpmVHmuw9wr8iiH5Li9WCOfnw8ZqRH4vRvZuOgIpMKImY1skLPxI5n0NPuFP7M29NEdUGCjoqNU9Wsc3TMJql5",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "75cf99ba60d7ccae1Xd-3tW5Elo~",
+      "encryptUserId": "81daee6c452c75b51Hx-2N65GFo~",
+      "invalidStatus": false,
+      "jobName": "实习生软件开发",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1． 大专以上学历，计算机/软件工程/自动控制相关专业\r\n2． 熟练使用.Net（C#）进行项目开发调试；\r\n3． 熟悉SQL Server数据库，并能编写常用的SQL语句及存储过程；\r\n4． 了解工业控制类硬件相关知识，了解常用的工业通讯协议如：RS-232、OPC 等；\r\n5． 熟悉软件过程规范，有良好的编程习惯，拥有较好的沟通技巧和团队合作精神；\r\n6． 责任心强，能吃苦耐劳，能适应经常性出差；\r\n7． 有软件界面设计及网页设计美术功底的优先；有MES项目开发经验者优先。",
+      "encryptAddressId": "e9b2a17a4921471f03V439i0EVc~",
+      "address": "上海宝山区财景科技园1277号",
+      "longitude": 121.485827,
+      "latitude": 31.313615,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d7cb5d198911187e7234aaa69846d2a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9875eeac1ed731c8ad474b8daf876390",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据库",
+        ".NET",
+        "C#"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190806/ff705923d173d04d6065cfe027d813d5cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "翡翰软件技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "70e2b3b00480b2421Xd83N--Fg~~",
+      "brandName": "翡翰软件技术",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180720/2a0104da0e974a1eed18406554618ad848e2819a1cd70d86930a2eae5e6b22b3.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海翡翰软件技术有限公司主要从事制造执行系统MES软件的设计开发及实施服务。Manufacturing Execution System简称MES，是一套面向车间级的生产信息化管理系统，为企业提供包括生产计划排程、制造过程数据管理、生产调度、库存控制、质量追溯、人力资源调配、设备管理等信息化应用平台，打造生产过程控制、底层数据集成分析、上层数据集成分解等可视化窗口，实现数字化工厂作业。\nMES系统从生产计划下达到生产排产、组织、执行、控制，直至生产出合格的产品，它贯穿生产管理过程，以生产计划为主线，以调度为核心，通过合理的组织和安排，调动各种生产资源，达到企业生产成本低、效益高的目的。通过将各种资源进行合理配置与管理，通过产品需求与企业资源有机地结合, 既满足用户及市场需求,又使企业得到充分合理的利用。\nMES系统以数据采集与分析为基础，以智能制造4.0为目标，全面提升制造行业的管理水平！",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1718889251000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "翡翰软件技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

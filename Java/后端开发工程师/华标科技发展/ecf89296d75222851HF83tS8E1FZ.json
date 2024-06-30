@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r4BYaE4nIKMWJ-b1hd9JdydUZ_6PMd5xi97WiTj8CSVK3YzSM9c1rUmBr-Dvs0UtzU-fWZbl-vlyjhRtZ3xxIrQ8zprxfmvG_sRat4yEPhHlAIdqYm8TgbCBL_4VM7eRyX1v_-yb0cXp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ecf89296d75222851HF83tS8E1FZ",
+      "encryptUserId": "b3c24d0ada587c4f1nRy2Nu8ElpS",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.参与后端架构的设计，完成后端开发工作，提交高质量代码，按时交付工作任务;\n2.对后端进行持续的迭代更新和重构，优化用户使用体验和响应速度，并保证兼容性和执行效率;\n3.负麦后台与Web端接口对接工作，配合前端开发工程师进行集成、联调，保障系统的稳定性及可靠性。\n\n任职要求\n1、熟练掌握Springboot、Spring Cloud、SpringMVC、Mybatis等开源框架；\n2、具备中型项目开发经验，能够独立带领中小型项目开发经验优先；\n3、良好的JAVA语言基础，掌握多线程、反射、注解、网络通信等知识点；\n4、具有良好的数据库基础，熟练使用MySQL等数据库；\n5、熟练Redis等缓存组件及掌握MQ运用；\n6、熟练基于Linux的部署，并能够用于排查、解决常见性能问题。",
+      "encryptAddressId": "a863cbb16bc2e4ec03F-3Nu5FFs~",
+      "address": "广州天河区云谷C栋5楼",
+      "longitude": 113.411798,
+      "latitude": 23.17922,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/384d6fd0fae5590a8c1aa637dfc2f6da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b46c0f6c100d7fce52061161b2598b4b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "周末双休"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230417/607f1f3d68754fd0a34f57f8dd5d67af2f54cd80b0b7ccebbbbebbc45c7fed9f970e3fe3f3b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "华标科技发展",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "be339e2cf389ce2c1Hx-0ty6Fw~~",
+      "brandName": "华标科技发展",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200427/b1e630eb7a703a005e04373d8296c30cf2c13855401ce93dcefb2212049a8051_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "华标科技成立于2007年12月，坐落于广州市天河区云谷大厦，凭借全国首创的“表面信息可擦写证件卡技术整体解决方案”，成为国内率先进入服务国家法定证件领域的国家级高新技术企业。华标科技始终坚持“让智能成就幸福生活”的使命追求，致力于成为卓越的智能证卡设备与创新应用服务商，通过场景化应用设计，敏捷研发，精益生产，提供专业可靠的产品与服务，满足政府创新治理和便民服务需求。\n\n公司官网：http://www.hbtec.cn/",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718613754000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华标科技发展",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TT2y-UJlSK5u5-D1Pmfe-UjG-HUYqGTSZy2osmCYCkjRAC5DqeoZpw_DLK6_1C8lMWwW4cMysCzZdTGUOsoaLe8HQSQQWsIxUG1Gp3AOnB8BJ4PS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4d7c533c64de19c1XR829u4FVVW",
+      "encryptUserId": "96f4510537338a3103B73925GVo~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位职能:  \n1、\t负责基于现有项目的运维、异常响应工作、跟进客户反馈问题、在与供应商研发保持良好沟通的前提下进行流程化运维工具开发。\n2、\t与供应商产品经理、后台工程师紧密工作在一起，实现产品交互方面的开发需求，确保产品具有优质的用户使用体验；\n3、\t按照既定工作流程或操作手册进行系统监控、日常操作；（运维初期需参与编写操作手册）\n4、\t以远程或现场方式处理客户APP、小程序等客户端软件问题；\n5、\t定期按要求编写运维、监控报告；\n6、\t负责组织进行运维相关的培训工作；\n7、\t领导交办的其他工作。\n\n职位要求：\n1、了解操作系统（Linux、Windows）、数据库（Mysql）、中间件（Redis、RabbitMQ）\n2、了解安全漏洞管理工作，能熟练使用漏扫工具、渗透测试工具、基线检查工具、安全评估工具。能够在带领下完成各种系统（主机、网络、数据库等系统）的安全评估和加固。\n3、了解数据库基本原理，至少了解SQL、MYSQL、ORCALE中的一种数据库；\n4、性格开朗，沟通能力强。有激情及责任心，善于协调沟通，具备团队合作精神。\n\n\n优先条件：\n熟悉容器（Docker、Kubernetes）、虚拟化（OpenStack）等技术栈并具备运维的能力优先。",
+      "encryptAddressId": "c4ce3d85f37019c703143t29GFc~",
+      "address": "成都武侯区天府软件园E7-1号10楼",
+      "longitude": 104.068577,
+      "latitude": 30.536767,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fac32ffc895f6196ac9b2a779904461b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4450ded9a754f66d072bf396bcc2045",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Windows",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "Openstack"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事行政经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180809/508addba4f7908d436cb5bd76de9a121cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "成都优帆科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aedf2cb6bba657110Hx_3dS4",
+      "brandName": "成都优帆科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170704/1206f0da4da574173aeb3a679c67d291fb0d943cf23fc0bc32efcdf5603d18d7.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717108955727,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都优帆科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

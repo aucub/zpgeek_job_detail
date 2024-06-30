@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D12CUFViwRmuz-V1KpFfwNQh1S6kLV6muSiuvLSD11UHaYrVjZ-yJzROrTA0c4BWeMC88s6MjpLYd4R9vPDw1gbF4eQL5i6HQNh7lTigMZiwJwpCsjU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cd9a9c4039deb24c1XV93du9EVJQ",
+      "encryptUserId": "82427029c5057a691nVy2dW9ElpR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 专科及以上学历，计算机相关专业，熟练使用office等办公软件。\n2. 半年及以上 Java 开发经验，有 JavaWeb项目独立开发能力。\n3. 熟练使用 SpringBoot、SpringMVC、MyBatis 等相关常用技术框架。\n4. 熟悉 Oracle / MySQL/ SQL SERVER 等数据库，熟练使用SQL、存储过程、触发器等。\n5. 具备J2EE服务器的部署能力，如 Apache、Tomcat 等，有 Linux 使用经验。\n6. 掌握 AJAX、Jquery、HTML5、JS、CSS、Bootstrap、layui、vue等WEB前端开发技术。\n7. 熟练使用 Maven，SVN，GIT 等开发辅助工具。\n8. 熟悉activity流程引擎开发、shiro、layui者优先。\n9. 熟悉webservice开发，soapui工具使用。\n10.具备良好沟通能力，有团队合作精神，可根据工作需要，可参与客户项目驻场开发工作。",
+      "encryptAddressId": "5065a480ec2fee3e0nZ_39S9E1A~",
+      "address": "西安雁塔区创业研发园瞪羚谷B302",
+      "longitude": 108.860384,
+      "latitude": 34.195221,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2beae2ec0b949cd301c862791a418f9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e819bbc32ace43378ad4b8f1af02728",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "SpringMVC",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "合为智数",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d38b7a251f859eb3nd52di1EQ~~",
+      "brandName": "合为智数",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200819/f851613f495cdf1afb099128c3e370266ef601de8cdefcdc8292d84b92077cce_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "西安合为智数科技有限公司，成立于2017年，位于西安市高新区锦业路瞪羚谷创业研发园，公司核心团队成员汇集了15年国有央企软件开发经验，曾研发并实施国家电网公司、南方电网公司、中国航天科技集团、中国航空工业集团、中国航天科工集团、中国核工业集团、中国兵器工业集团、国内港口及机场等大型企业软件及信息化项目，积淀了大型央企信息化经验。\n多年的央企信息化经验，结合互联网思维，公司在短短的几年内时间就发展飞快，并通过积累和近几年的经验，成功研发出以统一业务构建方式下的敏捷技术开发平台（hive-bpm）和大型企业综合管理平台，在目前国产化即将推行的过程中，通过我们的技术力量改造平台，目前软件平台已经支持在国产化系统中的快速开发功能、快速组件业务模块，形成典型的业务应用场景，今后为国有企业继续提供现代信息化、数字化技术支持。\n公司产品包括安全保密管理系统、综合经营管理系统、数据资产管理平台、统一用户与认证管理平台、统一业务开发平台、协同办公系统、综合管理与决策平台、移动办公系统、等。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1716713709874,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合为智数",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

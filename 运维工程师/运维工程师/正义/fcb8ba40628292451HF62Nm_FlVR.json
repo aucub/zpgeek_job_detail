@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "38aHIt5d5d8o--M1tcVfajF38CDVL8lni59qmdNqvvCEIC-3uAEXYPk4hiM-kD0_xqTJS04Y-RKlY-PwN2rFsiYOpUiyz2RVDUFdMdmdXhdAldYqIhQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fcb8ba40628292451HF62Nm_FlVR",
+      "encryptUserId": "f060d453c26f32e81nR-29q9GFNY",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "一、任职要求\n1.本科及以上学历，计算机软件或相关专业，3年以上系统运维工作经验。\n2.熟练平台组件的搭建和配置调优,例如Nginx、Redis、Mysql、Doris、达梦等常用软件。\n3.熟悉一种开源的自动化告警平台的安装、配置、日常使用。如 Prometheus、Zabbix等。\n4.熟悉ElasticSearch/Hive/Doris/达梦等数据库和数仓工具的使用操作，并且可以熟练书写SQL进行数据查询与分析。\n5.熟悉DevOps相关工具和技术，例如Git、Jenkins、 Maven 等。\n6.熟悉数据仓库、数据治理工具与大数据系统架构，熟悉Hadoop/Hive/Spark/Kafka/Flink等大数据运维体系优先。\n7.熟悉虚拟化技术（如KVM等）和容器化技术（如Docker、Kubernetes），具备云计算平台运维经验者优先。\n8.具备良好的编程能力，熟悉至少一种脚本语言（如Shell、Python等），能够编写自动化运维脚本。\n9．具有良好的沟通和协调能力,具备良好的文档写作能力和操作记录习惯,积极主动,善于学习,乐于分享。具有检察、司法相关系统运维背景优先。具有国产操作系统、数据库、中间件等运维经验优先。\n二、岗位职责\n1.面向用户系统提供技术支持，进行维护、管理、故障排除等日常工作，确保系统的正常稳定运行。\n2.负责搭建和维护Linux系统平台,对系统进行日常维护与调整优化。\n3.需要对接合作伙伴、供应商的技术人员，主导部署相关系统，并进行技术交流、问题升级处理等工作。\n4.负责监控集群健康状态，定时巡检并做好记录，按时发送日报周报。\n5.深入研究大数据分布式存储与计算相关运维技术，持续优化集群服务。",
+      "encryptAddressId": "376ea9e3ff9fe0cb1X1-2d60GFM~",
+      "address": "北京石景山区启迪·香山D2座中检报业",
+      "longitude": 116.204493,
+      "latitude": 39.945356,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70ac0fd81365d4afff0fa9bdad10bcab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c1c62ac40a2942f4ecb6334eed27851",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "程女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200414/30a560546af7e2be95b71221740aa0f3cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "正义",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8b88e9e1cbf0e3ca0Hx82Ny_Ew~~",
+      "brandName": "正义",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100102,
+      "industryName": "新闻/出版",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717071730674,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "正义",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

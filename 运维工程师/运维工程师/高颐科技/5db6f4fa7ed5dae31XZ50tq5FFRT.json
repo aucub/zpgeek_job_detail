@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NUM9nP6SPmMiE-V1johIRzs3trnVcRpJhXzk-jH_qt5tbX9fNUUqT-fRTqxKeqIVDF77HDtAp98F1nbYR5sAvDQbmsoxz106f4Jo5DYdCtsSG6mqwQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5db6f4fa7ed5dae31XZ50tq5FFRT",
+      "encryptUserId": "0caf86da5bd5a2ed1HN609-6FVs~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n(一)实施工作 \n1、负责客户监控项目的实施工作，包括但不限于与客户进行直接沟通，了解客户需求，制定软件方案，并按照方案进行软件的相关实现工作； \n2、接受新项目需求，编写需求文档、设计文档，并完成新需求的实施推广； \n3、归档相关工作计划和工作进度，每周进行工作汇报和总结； \n4、根据要求更新技术文档以及用户手册； \n5、安排项目成员工作，并跟进项目进度； \n6、负责对现场问题进行跟踪分析和报告，推动问题及时合理地解决,提出软件改进要求并评估改进方案 。\n（二） 产品优化 （兴趣）\n1、 整理记录具有通用意义的监控需求，跟产品、开发一起参与产品功能完善； \n2、 整理当前产品的使用问题，跟产品、开发一起参与制定解决方案； \n3、 整理常用通用的zabbix监控方案，将已落地的监控方案整理为可复用的模版。\n任职要求：\n1、本科学历，计算机相关专业；英语四级或同等水平，获取过IT相关技能证书或有金融机构运维经验的人员优先；\n2、有一年以上运维工作经验或有相关经验（对zabbix有一定了解）\n3、熟悉zabbix、nagios等开源监控产品，能够独立完成zabbix的部署、配置以及维护工作；\n4、熟练掌握Shell，要求会Python\n5、熟悉CentOS、Redhat等主流Linux系统、熟悉Oracle、Mysql等数据库；\n6、系统运维经验丰富，熟悉各类主机、网络、存储、数据库、中间件的监控（两者中应至少熟悉两种）；\n7、有良好文字及口头表达能力；具有较好的沟通能力和团队合作能力；\n8、能接受长期出差。",
+      "encryptAddressId": "cebd28a79fc8805d0XR93Nq8FlE~",
+      "address": "北京海淀区中关村e世界A座(北门)203",
+      "longitude": 116.315683,
+      "latitude": 39.981729,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8deb5ca70d5506188d4c5d866405f22",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e54500e196a90758534817b53859a480",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "运维开发/DevOps",
+        "实施交付运维",
+        "Python/Shell",
+        "Ansible/Salt/Puppet",
+        "Docker",
+        "计算机相关专业",
+        "运维经验",
+        "运维开发经验",
+        "Python",
+        "Zabbix",
+        "K8S"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191130/4e558dfaa5ff4608c4bbf56549475183aac24af899b5db71fcf781afb48_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "高颐科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8f6d0ac9c37254350XN-2N-6EA~~",
+      "brandName": "高颐科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191130/e00391b7e80d8f990b13a28100a67936aac24af899b5db71fcf781afb48ffb8a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司在广州、上海、成都均有办公点，主要产品是IT基础运维平台，服务于银行、证券、上市公司和各大民企国企。对产品性能、优化、功能需求永不止步",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1719663066398,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "高颐科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

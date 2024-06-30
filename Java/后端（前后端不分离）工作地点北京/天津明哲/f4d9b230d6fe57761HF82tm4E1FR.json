@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zT3f9KJKGeaw8-o1pQN68LEMdSLAN-K_7O-oh7trPtzlox1FxnLVI_BLmqpqYfq7FG3AEFzanpVTYVxgPZFqAoyUciLNxFeDe8eOC0_E7Rk-QHzz4vzNR5GWczQXkn05QBzeGk0q9Jo1vA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4d9b230d6fe57761HF82tm4E1FR",
+      "encryptUserId": "40d51f1cc140c3e50nZ82N27GFNR",
+      "invalidStatus": false,
+      "jobName": "后端（前后端不分离）工作地点北京",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、配合参与完成系统平台架构设计、技术选型；\n2、完成所负责项目的技术难点攻克、核心代码的编写。\n任职要求：\n1、扎实的计算机基础，熟练使用Java进行编程，掌握多线程和网络开发技术；\n2、熟练应用SpringMVC\\SpringBoot\\MyBatis等常见Java开源框架；\n3、熟悉MySQL，了解其基本原理，对数据库有较强的设计能力；\n5、有使用达梦，麒麟等国产系统的最佳.\n6、熟悉一种前端的框架（VUE）\n7、具备良好的编程习惯和质量意识、团队意识，沟通能力好，逻辑思维能力强，学习能力强，积极上进。",
+      "encryptAddressId": "34413e7aa160d6c033Zz3tq0ElpZy4u5Vfs~",
+      "address": "北京海淀区西郊机场",
+      "longitude": 116.254318,
+      "latitude": 39.968366,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230723/48ba41acc9cef1bfc55c1e31ceeab7db3242044283d1d63b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230723/48ba41acc9cef1bf57b487f17beb343d231111bc69eb5c0e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230301/607f1f3d68754fd09cb3a1620479bd1555782c49b9481fc6252a8f11e33a3bc97204b3e027c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "天津明哲",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba859fb67f68947e1nV_3NW1FlA~",
+      "brandName": "天津明哲",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719214568275,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天津明哲",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wozk6q1CYTVpC-U1VTNLiKEyqBfGvm4Hm9WvfQV69tD_OOM6qRoreciJNXeQXy_O0P9PCYglWODrflZ2sEsDsmns1TOEt0Pi6OaJ0McYgTcxfJYW_osCck4lnLkJljHpCTXyKmzObg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a730e72006029bea1nx93d6-FFQ~",
+      "encryptUserId": "22555a562cb7f1cc1HF72N2-E1s~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\r\n1.本科及以上计算机或相关相近专业；\r\n2.1年以上Java开发经验；\r\n3.良好的实习能力、沟通能力及团队协作精神，有独自解决问题的能力，能够承受一定工作压力。\r\n技术要求\r\n1.熟练应用html、Css、Jquery、JavaScript、Ajax等网页开发技术；\r\n2.熟练掌握SpringMVC、Mybatis、Springboot、springcloud、redis等主流开发框架,对框架本身的体系有较为深厚的理解和应用经验；\r\n3.扎实的数据库基础,熟悉mysql，对sql优化有一定的经验,能写出高性能sql语句;\r4.熟悉bootstrap、VUE前端框架优先考虑",
+      "encryptAddressId": "8141c4b2ce830c350HF709W5ElpVw4i_WP0~",
+      "address": "广州天河区长盛商务大厦C栋/2层/208",
+      "longitude": 113.407539,
+      "latitude": 23.128871,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bff4d5dc32b6c3386a5000e62451e74f976bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf0b023f24119023e2b43ca492dfc684096bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Web前端",
+        "HTML5"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "齐先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180302/05bffacd05169321c7d5e39ca566e628cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "文心科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7b37a00415772e801nF43Nq9GQ~~",
+      "brandName": "文心科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718980922000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "文心科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

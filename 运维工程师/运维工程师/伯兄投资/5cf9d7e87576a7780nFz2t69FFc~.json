@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bTtz8P6wu4Ybs-O1yLjAYf_AtP4kNNyqMZ5MPiEFeY72iXUzadFoYTgd7o84LDDKF0GqPVxFCEG-r4L6l2zitPbndc67PzXrefMrIQI8Nsf5kRvIkvNkMZlwUYjL2anZQK-iNZpZZw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5cf9d7e87576a7780nFz2t69FFc~",
+      "encryptUserId": "1077f88fb40b03190n1509S8GVE~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 使用shell以及其文本处理工具grep、awk、sed、cut、sort等进行服务器日志分析、监控、数据备份等日常工作和系统批量自动化部署运行；\n2. 使用Python、Node等脚本语言开发自动化运维、监控工具等技术；\n3. 使用运维常用工具、虚拟化技术和容器技术，Ansible、Docker, Kubernetes等。\n\n\n必备条件：\n1. 本科毕业；\n2. 具有较强的安全意识，了解TCP/IP协议，熟悉路由器，交换机的基本配置；\n3. 熟悉Linux系统（如ubuntu,centos,redhat），能够配置和维护常用的基础服务例如：防火墙、用户与权限、磁盘管理、以及NFS\\SMB\\ftp\\DNS\\postfix\\sshd等；\n4. 具备实际运维工作岗工作经历超过1年，有较强责任心和主动性；\n5. 具备流利的英语阅读能力。\n\n\n加分条件：\n1. 使用过项目管理工具（git、svn、perforce等）；\n2. 了解CPU、内存、I/O以及网路性能优化；\n3. 具备基本的数据分析、统计分析能力；\n4. 了解aws或aliyun等主流云服务平台，了解常用云服务，并有一定云服务使用经验；\n5. 对于金融交易、金融交易系统具备兴趣和热情。",
+      "encryptAddressId": "18f97f42db45aa621nd52NS0Eg~~",
+      "address": "长沙天心区弘林国际大厦弘林国际大厦",
+      "longitude": 112.985172,
+      "latitude": 28.165461,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/093e373c6d2ead6de33c790cc736c109",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea5915d00fb3955f1b608c13f434b8b2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维工程师",
+        "运维监控",
+        "自动化运维",
+        "Shell",
+        "Python",
+        "容器技术",
+        "虚拟机技术",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "伯兄投资",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8bdbf3ffd2ffc83d03R839W8EA~~",
+      "brandName": "伯兄投资",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190406/be51af1f4c42f6f125bde2cff233b60862d2554970adb0fa208af84269972da0.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100204,
+      "industryName": "基金",
+      "introduce": "We Trade - Proprietary Quantitative Trading",
+      "labels": [
+        "年终奖",
+        "带薪年假",
+        "包吃",
+        "零食下午茶"
+      ],
+      "activeTime": 1716798328112,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "伯兄投资",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

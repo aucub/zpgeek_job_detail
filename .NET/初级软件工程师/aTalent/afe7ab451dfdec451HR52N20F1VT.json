@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fmIdTFosbYRNm-W10oARS58lPw9yRF1nWgRRdg6jV5pqPHCZWABCJzaPgWxBAnDoSIHHqP5Gc_B-xUO2JKzqAGAGkwvfs2wveO9-uhDWHoIQnV77wBdIIFUdQN86-bu72538Foyj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "afe7ab451dfdec451HR52N20F1VT",
+      "encryptUserId": "c9d5191c0ea34f890XB809W7GA~~",
+      "invalidStatus": false,
+      "jobName": "初级软件工程师",
+      "position": 100107,
+      "positionName": ".NET",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "职责：\n1. 参与产品的开发和维护；\n2. 根据原型设计文档完成应用系统的开发，按时按质完成研发任务；\n3. 负责模块代码需求开发、测试和调试，确保系统的质量和性能；\n4. 与团队成员紧密合作，共同解决开发过程中的问题。    \n\n要求：\n1. 计算机科学或相关领域的本科学位；\n2. 一年或以下的 .NET 开发经验；\n3. 熟悉C# 编程语言和 .NET框架；\n4. 对 MSSQL 或 MySQL 有基本的理解，能够编写基本的 SQL 语句；\n5. 熟悉Visual Studio、VS Code、GIT等开发工具；\n6. 具有良好的学习能力和动手能力，能够快速掌握新的技术和工具；\n7. 具有良好的沟通能力，能够在团队中有效地进行沟通和协作。",
+      "encryptAddressId": "7d3ec098fdc8217e1XF63d69GA~~",
+      "address": "上海黄浦区Soho复兴广场A栋2501",
+      "longitude": 121.474419,
+      "latitude": 31.2151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf71679eaf15edf3038577d759524f04",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/519523284d2485fe7bcd51a20211b728",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        ".NET Core",
+        "C#",
+        "计算机相关专业",
+        ".NET开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "Technical Director",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181017/6621ca462587648e7aa9a4a1c7385fcccfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "aTalent",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "012fb5119dd0df9c03d93925",
+      "brandName": "aTalent",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200324/e0277185e0094fd7df1589630005ebd7144a991bb4566676d6342832151351c8_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "We design & build award-winning cloud technologies to elevate talents.\n\naTalent puts talent experience at the center of our solutions. Our integrated talent management technology helps global-minded enterprises to attract, engage, develop & elevate their top talents in China & Asia markets.\n\naTalent has been rapidly increasing the market shares while keeping the customer satisfaction among the highest in the industry. We have been working with prestigious multinational and local enterprises including BMW, InterContinental Hotels Group, APP, MetLife, Swire Coca-Cola and Hikvison.",
+      "labels": [
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717134160347,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "aTalent",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

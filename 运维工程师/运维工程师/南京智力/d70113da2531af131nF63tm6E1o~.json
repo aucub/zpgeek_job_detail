@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MCn3nKg71wzBS-x1DUOKBK2FMwLjM8_kcVDsGJkt2RgCFAjMjzDmIu-YXRJEbuegGHtHk03PbAxenMP5TF6EHiOCYGoSTOY2lXLMIo9CQOb6orQ7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d70113da2531af131nF63tm6E1o~",
+      "encryptUserId": "eefe3a57b3664cc41HV53Ny8FVU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\r\n\r\n一、 岗位职责\r\n- 负责应用服务系统性能调优。\r\n- 负责业务系统的部署及架构研究和优化，并自动化技术研究和实施，提高效率。\r\n- 负责处理系统方面日常变更、控制突发情况，对疑难问题进行分析并解决。\r\n- 在大用户量下，业务系统的监控、预警、对业务系统快速部署方案制定和实施。\r\n二、 任职资格\r\n1、 2年以上应用运维工作经验；\r\n2、 必选项：\r\n（1）熟悉linux系统\r\n（2）Shell脚本编程，熟悉python、golang中一门编程语言优先\r\n（3）熟悉Tomcat、Nginx、haproxy、php环境中任意两项的配置与优化\r\n（4）了解网络原理，熟悉网络相关配置，熟悉TCP/IP\r\n（5）了解相关监控工具的工作原理\r\n3、加分项\r\n（1）熟悉docker、kubernetes等容器相关技术优先\r\n（2）熟悉持续集成、持续交付相关技术优先\r\n（3）熟悉saltstack、puppet等自动化工具优先\r\n4、责任心强, 良好协作意识, 沟通能力强, 具有较强的学习和自我驱动能力。\r\n做事情积极主动，独立思考有主见，具有较强的执行能力。",
+      "encryptAddressId": "ecd2e25e68a158041Xdz09S0FFc~",
+      "address": "南京浦口区星火E方",
+      "longitude": 118.695495,
+      "latitude": 32.154022,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0e0af0de3be15fb190e1a4f0e49f20b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/072374a9e156114f0a01ccd4928b4b99",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "行政人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京智力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "adc2d8829ba1abf01nV729-6GQ~~",
+      "brandName": "南京智力",
+      "logo": "",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100011,
+      "industryName": "音乐/视频/阅读",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717069628603,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京智力",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

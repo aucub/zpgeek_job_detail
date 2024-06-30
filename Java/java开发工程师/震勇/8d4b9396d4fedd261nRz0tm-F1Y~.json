@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gpukqz5leyAze-g1P6ZM_oOoFxzAwdW7pyEMqqjS_nJwSUBbnPN0zhkvNvYC_z1J4MamDObHmQDobvunTGsDuIkHq7l0BzjFWVNTYWyQVWW5fGQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d4b9396d4fedd261nRz0tm-F1Y~",
+      "encryptUserId": "6989d5b69ea1b5031XJ429m5GVo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、承担所负责项目程序开发工程师的角色；\r\n2、参与需求讨论，根据需求规格说明书编写概要设计和详细设计；\r\n3、对开发中的技术难点进行讨论提出解决方案，协助团队人员进行开发；\r\n4、完成所负责项目的编码，整理代码和相关技术文档提交至开发服务器；\r\n5、做好代码的单元测试，解决程序开发所遇到的相关难题，并有效及时地支持业务的正常开展；\r\n6、完成软件的设计、实现、测试、修改bug等工作，包括业务需求的沟通，功能模块详细设计，业务功能实现与单元测试，系统维护；\r\n7、不断学习新技术，对公司产品架构、算法、工作流和所用工具升级提出建议；\r\n8、完成上级安排的其它工作任务；\r\n9、对公司重要且紧急的事件积极响应配合，及时解决问题。\r\n\r\n岗位要求：\r\n学历：大学专科及以上学历，计算机相关专业；\r\n1、 半年以上开发经验，精通Java、Java EE技术，对Java语言规范有深刻理解；\r\n2、 熟悉JSP、Servlet、JDBC等技术的开发，熟悉Mysql、SQLServer等数据库开发；\r\n3、 精通Spring、SpringMVC、MyBatis等框架的经验，熟悉.NET和C#开发技术；\r\n4、 熟悉Web，精通HTML、XML、javascript基础知识者优先；\r\n5、 熟悉主流应用服务器如Tomcat、JBOSS、Weblogic中的至少一种；\r\n6、 掌握常用的开发工具（如Eclipse、SVN等）；\r\n7、 善于学习及了解新技术，具有较强的分析、解决应用问题的能力； \r\n8、熟悉Linux服务器，了解服务器的基本操作命令，能够自主排查服务器的故障并及时修复者优先。",
+      "encryptAddressId": "9bf515208af42e120nd-09S5FA~~",
+      "address": "广州番禺区海印·总统公馆21层2114-2115",
+      "longitude": 113.348813,
+      "latitude": 23.000185,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c809cbe1455a3217650f47ca02c1ec9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f06fb2cb2e1fd41cdb7a1a0e4e8ef044",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Web前端",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "震勇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f53a0cb5efdf97d0XR62tm0",
+      "brandName": "震勇",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170623/02c6e9932e63725472583405e262bf5b2bc6bf674d1b70af9cabea0488d49baa.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100009,
+      "industryName": "旅游",
+      "introduce": "公司业务包含app开发，电商运营，由一群年轻有志青年组成！",
+      "labels": [],
+      "activeTime": 1717072808375,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "震勇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

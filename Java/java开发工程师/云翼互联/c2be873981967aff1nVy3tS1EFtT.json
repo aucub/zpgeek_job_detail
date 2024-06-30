@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gPSxySpcNV_9G-_1Ze9LhQYnQiwaYc8By3kPFqeN18jV4SE5stpBM35NUijDruMkwJSakMgYgvG98EfVcTzu4cE7MFfsBd7xGUi3ezFfgyXJOyUCcQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c2be873981967aff1nVy3tS1EFtT",
+      "encryptUserId": "894499c4bad5f8fa1Hx-2Nm1FVM~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.熟悉spring boot，Spring Data MongoDB。\n2.有良好的编码习惯，命名规范，逻辑清晰。\n3.对业务有较强的理解能力，思维严谨。\n4.追求代码简洁，优雅，可维护！\n5.热爱开发者优先。\n6.对考试培训熟悉者优先",
+      "encryptAddressId": "6ddb5e3138b1ab0a1Hx709W1E1A~",
+      "address": "北京海淀区金隅嘉华大厦c座10层",
+      "longitude": 116.307951,
+      "latitude": 40.036804,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb8dbfca8a98197383a9f043bc66e488",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bfcd586892975e0c059d9f42713f41ad",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "mongodb"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "伍先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180507/89b549473f676f1e2bac44a0bfc69354cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云翼互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3a41e32514df38841nxy3Ni1EA~~",
+      "brandName": "云翼互联",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070267734,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云翼互联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

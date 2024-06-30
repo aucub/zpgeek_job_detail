@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RM6KhAhu8M3KQ-L1WT9jfTvROoi7neaANUQI9t18QYhu6JZKFh1mNfLdfQBh_5zTp_yP1a0ZD5zKS8oiK4RdI6iuSqxTbKDuDwEz7eaS3hhjxSnxaGWWDmVpy2jiw8_sibUEZ-hwz1U~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a2a82cfb51b82d921nJ_29y5EVZZ",
+      "encryptUserId": "3f6c4eabc73102151HV93tW9E1M~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "（驻场职位）\n职责描述：\n\n. 有5年以上大规模高并发保险应用的设计和开发经验，熟悉缓存、消息队列等开源中间件。\n2. 精通服务器端应用开发，熟悉spring、springcloud、MyBatis、Tomcat（或者jetty）等常用Java开源框架，对其运行原理有较好的理解；\n3. 具有扎实的Java功底，对JVM的原理有一定的了解，具有较好的Java IO、多线程并发；\n4. 精通数据库设计，优秀的SQL编写及调优能力，熟悉常见NoSQL存储，如redis、mongodb、ElasticSearch等；\n5. 对技术有热情，勤奋，具有快速学习能力；注重代码质量, 有良好的面向对象知识和编码规范意识；\n6. 能熟练使用Linux系统的常用命令；\n7. 有强烈的责任心，具有owner精神，主动承担，并有良好的抗压能力，深入思考，并解决问题；\n8. 具有较好的沟通能力，并积极与本团队和其他团队沟通，解决问题；\n9. 有微信小程序商城开发和保险投保系统经验的优先",
+      "encryptAddressId": "46c3e20791d1de3103N_2ty-Fw~~",
+      "address": "上海黄浦区雁荡大厦(西门)3楼D",
+      "longitude": 121.4698,
+      "latitude": 31.21875,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e436ba3ae6bec4d07d0dabc2b3e5bc6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ed188e2a8cf66ceb339e7eeec08eb47",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "HRBP经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190518/de2cebad6e02bf7795be5a86c7294d62489b59717b01646e2fc05a5b752_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "泽未科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b79575bf92f5218c1n172NS4FA~~",
+      "brandName": "泽未科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1717130567435,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泽未科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

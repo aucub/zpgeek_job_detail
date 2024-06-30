@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r0tLCwiJkVpfb-_1oHGc8cIKH1B5oc5EfI_uLVfgzfZoOMLOyIyV06fNOPpv0C1uxeblM8S-kAeckYcSK9ACgYILk4bRXL-QcpanaeTM2qyrXTgH8JvJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bc128e4648fe33051nF42Nu4FlRY",
+      "encryptUserId": "9d1cdebc4b7919e60nd639y5FVRR",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1. 1-3年Java开发系统经验，能熟练用Java开发B/S应用；\n2. 对OOP、AOP有深刻的理解、掌握面向对象软件分析、设计方法，熟悉设计模式；\n3. 熟悉Java及J2EE规范，包括JSP，Servlet，JDBC等；熟悉MVC 架构模式和J2EE设计模式；\n4. 熟悉XML相关技术，Web Service，HTML， DHTML， CSS， JavaScript；\n5. 熟悉数据应用和设计，熟练使用主流数据库（ORACLE、SQLServer、Mysql）；\n6. 熟悉应用服务器（WebLogic、WebSphere、Tomcat等）；\n7. 有持之以恒的创业心、较强的表达和沟通能力；工作认真、严谨、敬业，具备团队精神。\n8. 最好熟悉Struts、Mybatis、Spring、JUnit、ANT等开源框架或工具；\n9. 具有金融行业软件开发从业经验优先",
+      "encryptAddressId": "03ffb3d60534d10603By0tq5FVY~",
+      "address": "南京江宁区中国人家菊园E02",
+      "longitude": 118.8173,
+      "latitude": 31.922265,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de5c89a9c1adb6cff075b2976cc16095",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d94ee212f2f63eda0fd639165c36cdd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "软件工程师",
+        "中级软件工程师",
+        "高级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=371eb014d6d4f5f0jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5fnXt0s9177NpvQ1G1zrRnZeTyfsRQ5e3oXDkrMwxSoyALr66gGiYfF-S3UBBpxd5PSQC2zKgO-l4ZAoblgH4vB3US8U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京致科信远",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1565e902798806221nJ42N-1GVc~",
+      "brandName": "南京致科信远",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京致科信远软件科技有限公司，是一家专业为中小银行，提供软件服务及金融行业解决方案的信息化公司。我们是一家年轻的企业，但我们团队管理人员90%以上有着IT金融行业十年以上从业经验。我们了解银行业务，项目管理经验丰富，开发技术实力过硬。我们坚持信念、讲诚信，且有信心将公司发展成为行业内领先的企业。目前市场范围覆盖江苏农信及农信体系的法人机构。公司面对银行主要软件产品有：办公平台、合同管理、智慧党建、物资盘点、合规管理、综合性安全检查平台等软件。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "加班补助",
+        "年终奖",
+        "餐补",
+        "交通补助",
+        "包吃",
+        "节日福利"
+      ],
+      "activeTime": 1717068011948,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京致科信远",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8amUl7ceSUIOj-v1Um9YRq_rN-9Wy0jLxmHxPluZY0zKDJVJDNlg8KvPiCrpIaFiRx6td7D3FEabO3-0hUQQ09JCbC6bI4wjaEDeGD_VPyONsVIA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76254f21bed6e1031XV639i1FFU~",
+      "encryptUserId": "27fe5948ae721d9e1HF50tu7F1o~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100303,
+      "positionName": "功能测试",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、3年以上相关工作经验（2年以上手机端产品测试经验、1年以上pc端产品测试经验）；\r\n2、熟悉并使用过手机自动化测试工具优先，例如Monkeyrunner、APPIUM，Robotium； \r\n3、熟练掌握Linux/Unix系统基本命令、常用SQL语句和数据库的基本操作者优先；\r\n4、熟练掌握一种或多种脚本语言（如ruby、python、shell等）或C、java、C#等主流计算机语言；\r\n5、有很强的学习能力、分析能力和解决问题的能力。",
+      "encryptAddressId": "9f626a26e7abd9a733Zy3Nu-Eg~~",
+      "address": "北京东城区东城区鼓楼大街",
+      "longitude": 116.416357,
+      "latitude": 39.928353,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd6500a7d57e170e8e8b8825993adf6a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f56b212597cebafb5c14cb634d3a9fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "文档编写",
+        "loadrunner"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180306/f499dd512712cd455c8c84cb5258c847cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "佰纳软创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "efbde68d962e8a4c1nB83928GQ~~",
+      "brandName": "佰纳软创",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716252675326,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佰纳软创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

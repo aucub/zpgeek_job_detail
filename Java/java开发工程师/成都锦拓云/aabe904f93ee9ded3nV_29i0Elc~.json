@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "olnLfR5nEIXxq-V1UO9-oZ-Ey7cYdPbSspwbvbO1ekorEh16fVc3eywJpUfmd0HIKx3zOuW57hyJyzgaxhX-R4YG6AEntAytUJx9KKahEN0EhpjiXI7nqeAUIWht79uadwnnQUNxn1rZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aabe904f93ee9ded3nV_29i0Elc~",
+      "encryptUserId": "cca6ede4742004291nZ60tq1E1FU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求\n1.      熟练掌握Java编程语言，熟练使用java IO、多线程、集合，理解J2EE规范，具有良好的编码风格。\n2.      熟练掌握主流MVC框架，如SpringMVC，SpringCloud，mybatis，hibernate等， 熟悉 dubbo、springboot ，springcloud等微服务框架者优先。\n3.      熟练掌握前端开发VUE框架，包括但不限于 js/JQuery/css, 熟悉 bootstrap 或相关规范者优先。\n5.      熟练掌握使用Mysql等数据库，有数据库建模，表结构设计经验者优先。\n6.      熟练使用maven，git,svn，eclipse等开发工具，了解linux操作系统，tomcat, redis等中间件优先  \n7. 具备K8S、Docker等容器技术栈软件开发相关经验者优先，有开源项目开发经验者优先\n8.  熟悉openstack技术、KVM、vmware。有过云计算相关经验，或者云计算感兴趣的优先",
+      "encryptAddressId": "b516e4e2c67728571Hd709i8FVs~",
+      "address": "成都武侯区中海国际中心D座502室",
+      "longitude": 104.056442,
+      "latitude": 30.58155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dc2cb705f3b4ea32df9b7e12a3435a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/816040b7742a358493fe2b60c9705912",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "springcloud",
+        "java",
+        "云计算",
+        "云平台",
+        "saas"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "成都锦拓云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8cc2643db2133c151nRz2d67F1A~",
+      "brandName": "成都锦拓云",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200805/fc73270d730956e7d3036b0bf50da2a496d0a6dbf34def921bad1221ffea8b13_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都锦拓云公司系上海拓云信息科技有限公司分公司，由多名云计算领域专业人士共同成立，创始核心团队均有丰富的大型云计算企业经验。公司专注于新一代IT融合管理平台软件开发、销售与服务。总部位于上海，成都成立分公司，武汉、南京均设有办事处。自公司成立以来，已成功与多家银行、证券、保险等金融机构、医疗卫生，教育、军工制造等行业用户达成紧密合作。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1716798561695,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都锦拓云",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

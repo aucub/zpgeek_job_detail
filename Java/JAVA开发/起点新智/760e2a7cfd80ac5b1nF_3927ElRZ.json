@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7iwYQpOqSJqeC-91xsEplgydiFvBmwS3Gdq0irqS5I2IRWGg4wV1g2Lt86FRpJ_kudpeFYZXebVXO_VDSWrlVW1rv1LTqCYyDa3P3JEGLrShpwNRow~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "760e2a7cfd80ac5b1nF_3927ElRZ",
+      "encryptUserId": "4fab2ffa51408d860n1-2tW1EVc~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、参与API自身业务体系设计与开发\n2、按照业务需求进行业务需求分析和设计；\n3、进行软件详细设计和编码实现，保障性能和可扩展；\n4、保证系统的稳定，快速定位并修复现有软件缺陷、迭代；\n5、相关文档编写、整理和维护；\n6、参与软件系统的方案讨论、技术调研、系统分析、重构、优化；\n【任职要求】\n1.具有扎实的Java编程功底和良好的编码规范\n2. 熟悉Java设计模式，善于Java模块化开发设计并能与主流框架集成如springboot等\n3. 熟悉MySQL、SqlServer等主流数据库，熟练掌握SQL语言；\n4.能够熟练应用springmvc、spring、mybatis等主流开发框架\n5.熟悉Maven、Svn等项目开发工具的使用；\n6.性格开朗阳光，良好的沟通能力和团队协作能力；能较快融入团队。",
+      "encryptAddressId": "7b75bc77a8ac5da61H152N67FA~~",
+      "address": "武汉江夏区武大科技园创业楼(南门)5002",
+      "longitude": 114.410616,
+      "latitude": 30.457334,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/575d2598ca05a65f31ffb1f509a3b3bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29aa7064116cb40fbe130869552e7851",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "SQL Server",
+        "Maven",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "项目人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "起点新智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "becf68fe1e15e4011HN50tW0Fg~~",
+      "brandName": "起点新智",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200321/60b74399e98cab1ccdb74768a6a814c1229efc28a1cdb50c41fa36eba5d778a8_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉起点新智信息技术有限公司与2018年12月再武汉东湖高新技术开发区成立，公司坐落于武大科技园航域二期。依托长期在农业信息化行业的积累和不断的技术创新，公司拥有多个具有自主知识产权的软件产品，推出了多款移动GIS平台和行业应用软件。公司自主研发的产品在农作物病虫害监测预警、耕地质量评价、测土配方施肥、土壤墒情监测、种业大数据、林业信息化、灾情研判、智慧体育、电力巡检等行业得到成功应用。",
+      "labels": [
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717103819159,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "起点新智",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

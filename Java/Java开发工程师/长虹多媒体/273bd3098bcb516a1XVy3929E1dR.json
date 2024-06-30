@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "g96C968thOJeO-Y1ZHVm-X_1dWyAi6vk2_1ShXLBhDYKkf6DtgdE9i-PA0iVASBnXVhOe-J_jvdEfMHL0Yjk23P3oPCYQFdx-znz8MUXRLqtJ87GL5JFfYv4IEWvRi5dmJWWjpmPBxc5",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "273bd3098bcb516a1XVy3929E1dR",
+      "encryptUserId": "0cddd4c6cf3199ac1nd729S8EVs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "①具备2年及以上Java后端软件开发相关经验，具备高并发开发经验优先； 精通SpringBoot、Dubbo、Kafka、elasticsearch、RabbitMQ等常用的后端开发技术及组件； \n②熟悉常见的数据库：Mongodb，Redis，MySQL，Hbase；了解大数据相关技术（hadoop、spark、storm、zookeeper），有使用经验优先；\n③具备良好的沟通表达能力、责任心和协作能力强；",
+      "encryptAddressId": "6515e2916973dcda0nV83t-8EVM~",
+      "address": "成都武侯区长虹科技大厦(天府四街)29",
+      "longitude": 104.063418,
+      "latitude": 30.541223,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f545706737a5b46545caa9d83980d9f6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e8dfa148f7f501dc952523806f385ad",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "搜索引擎技术",
+        "分布式技术",
+        "后端开发",
+        "Spring",
+        "Dubbo",
+        "NoSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "侯女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/dec357fc9c348445db9b23e79c7f59df1ee6de31c32269dcad41fa17de3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "长虹多媒体",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "67d28db7c3fd078f1nB-3968GVI~",
+      "brandName": "长虹多媒体",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/4295097ac0e591858d8f76555082848dcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101004,
+      "industryName": "家具/家电/家居",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716798583358,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长虹多媒体",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dlSwGJVXSDQgm-R1q2U8eSVbxpmUWuuwOETBuhEpsFXYXucnVchQVdLhguKyJ8_j68Wl8Tn4xO7CJfqPdMZ8BYQ7vVBaswPmsvIdrjQchgPUwBGvUUWm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0655e679e751c1aa1XVy09W9FltU",
+      "encryptUserId": "4373c66489c4d68d1nR-2N66ElFU",
+      "invalidStatus": false,
+      "jobName": "自动化运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作职责\n\n\t\t- 负责公司项目的日常维护，包括自动发布、监控等\n\t\t- 日常巡检公司服务器的运行情况\n\t\t- 处理发布环境的安全漏洞\n\t\t- 完善公司内部基础设置的稳定性和数据安全\n\t\t- 有能力的情况下，扩展公司内部架构和知识体系\n\t- 任职资格\n\t\t- 有较强动手能力、学习能力\n\t\t- 熟悉Jenkins常用配置，熟悉Jenkins基本语法\n\t\t- 熟悉Docker常用命令，熟练使用Docker或Docker compose搭建服务或中间件\n\t\t- 熟悉常用的打包工具和配置，如maven, npm等\n\t\t- 熟悉常用Shell命令，了解linux基本配置\n\t\t- 掌握ansible语法和常用模块\n\t\t- 掌握微服务基本模型，了解其中的每个组件的作用，有实践微服务架构下搭建CI/CD环境的经验\n\t\t- 熟悉TCP/IP工作原理，有一定计算机网络的基础知识\n\t\t- 熟悉k8s基本命令和日常维护，有实践经验者优先\n\n \n二、任职资格\n1、计算机相关专业本科2年工作经验。\n2、熟悉 Docker 容器技术，熟悉容器化编排工具 Kubernetes。熟悉常用 DevOps 工具，如：Gitlab、Maven、Jenkins等；\n3、熟悉自动化运维和监控平台的架构，熟悉Ansible、Saltstack的部署和使用；\n4、熟悉TCP/IP协议工作原理，了解基本的网络知识；\n5、熟悉Linux系统及各类服务的部署运维，熟悉常用数据库的安装、部署、维护和优化，如Nginx、Mysql、Redis、Nacos等;\n6、有良好的语言能力，包括但不限于Shell/Python，能熟练使用并编写日常运维脚本;\n7、有责任感，可以在压力下工作，对各种突发故障即刻解决。",
+      "encryptAddressId": "b538a4d34d162dd60XJ53Ny8EVo~",
+      "address": "广州越秀区广东高速公路大厦(东南门)16楼",
+      "longitude": 113.283157,
+      "latitude": 23.119151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d83c7b8eab38bae2b2701fc77db5c21",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/992097c2606be56f5a6bdf94cf82bf10",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业",
+        "运维开发经验",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "行政人事",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=24dfd7f17a365cb7jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5dnXt0t996u41vHAe5neA1Mb_4fJFU4urrXjooZ1xU9SZU_P-lQXBMErfmUBQxw4weSAi2zahc_AlKUtaxgCAkUCcV8U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "零空科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0474b682111b1f521XRy2Nq8EFA~",
+      "brandName": "零空科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718354831426,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "零空科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

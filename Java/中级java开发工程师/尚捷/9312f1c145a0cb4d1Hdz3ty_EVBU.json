@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-NvkyfU9TShej-b1WUjIatffxan_g1Bbsjp5XKPHemmDukFCZ49IJzrR3l0g9crU1Bp8NqpDds0PpePH7o9KdotJtJVwiwaDp64pLefTyNEcDYYQvmo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9312f1c145a0cb4d1Hdz3ty_EVBU",
+      "encryptUserId": "e7ced0bdf1545eb903x63t64FVc~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\nJavaSpringCloudMySQL团队管理经验，电商平台、ERP开发经验\n岗位职责：\n1、参与软件产品项目的系统需求开发和分析设计；\n2、负责相关业务模块的开发、部署、测试、维护以及相应文档的编写；\n3、参与代码、测试用例走查和评审，及时修复缺陷；\n任职要求：\n1. 2年以上的Java Web研发和大型系统开发经验；\n2. Java技术功底扎实，有多线程，NIO，集合，内存调优等技术的实际项目经验，了解技术的底层实现原理。\n3. 精通Spring Boot、Spring Cloud、MyBatis、Redis、MySql等常用开源框架及中间件，熟悉其原理及实践\n4. 有大型分布式、高并发、高负载、高可用性架构经验，熟悉离线或实时大数据平台架构\n5. 有Kubernetes，Linux，Docker，ServiceMesh，微服务经验者优先\n6. 有较强的代码质量控制意识和良好技术文档能力，有很强的分析能力，逻辑思维缜密，有比较优秀的动手能力，热衷技术，精益求精。",
+      "encryptAddressId": "4705c298dffbde640nB639q9E1tRx463WPI~",
+      "address": "广州番禺区尚捷智慧云城业智创中心2期2栋109室",
+      "longitude": 113.367024,
+      "latitude": 23.013053,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/151a0744d8c409ab99a2119cf0348f8a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad081856e8e7247ddce439729d2fd97d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事经理，业务经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240320/607f1f3d68754fd0185a2baa038bc1fa17506f72ecca4529803c8bce2787677917d3b998e203927_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "尚捷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "653a432aa83b11111nJ839W1FFU~",
+      "brandName": "尚捷",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101003,
+      "industryName": "服装/纺织",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718792208053,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "尚捷",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

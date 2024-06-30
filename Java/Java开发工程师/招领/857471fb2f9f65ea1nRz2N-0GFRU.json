@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "23rnuRg9Mdowd-o1vK7Y9gjO8mbEZRBF7-uUT4q_tYgQ3EYJZf3QNIAvnH6tItwOWDVkYt-qFfCO3wQHaMq-MnMDRnCDjQmxABL4983eS2kVvlvooCM5tyeINuR4A4_z4Yrn7gVijFibEQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "857471fb2f9f65ea1nRz2N-0GFRU",
+      "encryptUserId": "0d83069ecc74f1df0nR80t66GFBV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "1. Java基础扎实，熟悉io、多线程、集合、socket等基础框架，了解jvm；\n\n2. 数据结构/算法基础扎实，熟悉常用设计模式，有大型分布式、高并发、高负载、高可用性系统设计开发经验者优先；\n\n3. 熟练使用springmvc、spring、hibernate等常见框架，并了解机制和原理；\n\n4. 熟悉至少一种较为常见的主流数据库及SQL语言；\n\n5. 熟练掌握设计原则，灵活运用设计模式；\n\n6. 具有出色的设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力。",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "阎先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201109/5207b687e0acf1f694ee113eece637f539733a6077aec1ac092f9689f56_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "招领",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "32f7766b1c7b1c781nZ909-7FlE~",
+      "brandName": "招领",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716981100649,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "招领",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

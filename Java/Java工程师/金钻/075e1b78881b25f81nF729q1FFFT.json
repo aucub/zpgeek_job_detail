@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EqPP25-SClfUW-o1YVJsMzsIkFw4PuW1xE00X28HhDRHURP3ZvqICJPLVmf_uz6DKdZHbq88aUKYJCf17qp0_b8639Z7VLACwEvldfLyjWK4k9zFHgjyfQ85QhTEXIbpUCeBCcClzVbW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "075e1b78881b25f81nF729q1FFFT",
+      "encryptUserId": "f52463fde4223e710nZz2dm5ElpZ",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.熟练使用springboot，spring,ssm,ssh等各种框架\n2.熟悉html,css,vue,layui,bootstrap等前端\n3.精通mysql sqlserver等数据库\n4.掌握mvc,mvvm等设计框架\n5.能独自完成一个完整的管理系统\n任职要求：\n1.有独立思考，善于沟通的能力。\n2.前后端开发，有强烈的责任感。\n3.能够按时完成任务，拥有自我调节能力。",
+      "encryptAddressId": "e521734878f21deb03B83d-1FlI~",
+      "address": "杭州余杭区绿城未来park959",
+      "longitude": 120.017086,
+      "latitude": 30.285219,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0f18724b0525f17aeae64a3eff56b98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/510f8f8aab5c62a3085774a1f9b264be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "MVC开发",
+        "Spring",
+        "SSH",
+        "SSM",
+        "SQL Server",
+        "全栈开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "金钻",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cd2d25be8eaf65cd3nB42ty1Eg~~",
+      "brandName": "金钻",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "金钻是一家从事互联网技术咨询,物联网产品开发销售的高新技术企业,是一家朝气蓬勃的网络科技公司.公司拥有先进的互联网运营技术,高效的服务团队,专注于信息技术咨询服务,高端技能培训,个性定制类产品开发等相关服务.本公司还专业研究开发物联网产品,为客户提供一站式服务,在物联网,大数据,人工智能等领域有丰富的经验积累.公司致力于务实,高效,精研的发展理念,注重企业员工专业素质的培训.公司初创之际,诚以丰厚的待遇和科学的管理模式邀请行业内的优秀人才英才加入.",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1717127070947,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金钻",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

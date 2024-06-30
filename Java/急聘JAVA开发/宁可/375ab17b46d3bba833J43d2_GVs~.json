@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "01dWPGnWC6wg7-L1nqFukWcTTI-8bKVhZWr5BJFf5rSCKDIj1d2I1vMBa6rVxUfJYAWjQ9I1LrOc9OZI_lcOnUYwYGg0R7VvL8MQd8l-D8QRIKOg8g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "375ab17b46d3bba833J43d2_GVs~",
+      "encryptUserId": "3d6cc75d88a537901nV83N2-EFdY",
+      "invalidStatus": false,
+      "jobName": "急聘JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120900,
+      "locationName": "临沂",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\nJava，后端开发，数据库\n岗位职责：\n1、完成软件系统代码的实现，编写代码注释和开发文档；\n2、辅助进行系统的功能定义,程序设计；\n3、根据设计文档或需求说明完成代码编写，调试，测试和维护；\n4、分析并解决软件开发过程中的问题；\n5、参与项目运行维护相关工作；\n6、配合项目经理完成相关任务目标。\n任职要求：\n1、计算机等相关专业，本科学历，至少1-3年Java程序开发工作经验；\n2、具有扎实的JAVA语言编程功底，熟悉多线程、IO、反应式编程及其JVM性能优化等；\n3、熟悉Spring、SpringMVC、Sping Boot、Spring Cloud、MyBat**Dubbo等主流技术与常用开源框架特性、原理、应用和优缺点，并有实战经验；\n5、了解Oracle、MySQL等主流数据库开发，有较强的sql编写与数据库优化能力；\n6、了解常用设计模式和主流设计工具，能根据既定产品和项目的特性进行架构设计；对分布式、高并发、高可用等相关技术能够熟练地运用，解决实际架构问题；\n7、了解Docker/Kubernetes容器云等，能够基于云平台进行架构设计，了解自动化运维与自动化测试；",
+      "encryptAddressId": "7e969c897b13ca5003By2d26EQ~~",
+      "address": "临沂兰山区怪兽充电(致远临沂新天地)3号楼",
+      "longitude": 118.342559,
+      "latitude": 35.077843,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a0d3396d722c9ea070e1ff797422d58",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f70efbe9f4a74b21ce5ce47b678a6745",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "不接受居家办公",
+        "Linux",
+        "MySQL",
+        "架构师",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "屈先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "宁可",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "294380f3949522333nZ-2dq8Fw~~",
+      "brandName": "宁可",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "餐补",
+        "住房补贴"
+      ],
+      "activeTime": 1718848681987,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宁可",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CIOaHT0O9CwHr-91Bq1R80w6IgGExbDo1-66HZVqWzbOAphp4e8xOfSgcJCjrmNZ-qu-2ExaWZxLbs5Xar-caM8elG_fWQvTNS5Pw4EncqCxjLZzR5ThJon8J6ThSVTCapOsH4-s",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d7f81c2f19d039c0nJy29u0FVU~",
+      "encryptUserId": "61db88d7da4960741H1829i6EVs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210500,
+      "locationName": "绍兴",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、java基础扎实\n2、熟练使用数据库，能熟练编写sql\n3、熟练操作linux系统\n4、熟悉redis的操作，\n5、spring、springMvc、springboot、mybatis熟练掌握\n6、熟悉jQuery、css等前端技术，可以独立编写前端页面并对样式做调整\n7、熟悉solr等全文搜索技术\n8、能配置并熟练使用shiro\n4、吃苦耐劳，抗压\n5、有编写文档的能力\n6、业务逻辑清晰\n7、沟通能力强",
+      "encryptAddressId": "42628fca3287e4a11nJ42924FVc~",
+      "address": "绍兴柯桥区柯桥区公安局102",
+      "longitude": 120.485221,
+      "latitude": 30.072279,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61c767f4a3c6bd6a220c80c4ace30166",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff9b11417bb6a1e6d4ff81fc01855467",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "CSS",
+        "Spring",
+        "JQuery",
+        "MVC开发",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "智鹍",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2bd842429609ff000nV63t68",
+      "brandName": "智鹍",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220526/7bf6f160950405e9f3369d7fa2fcfb2bfccb4b852655f61d109acae1078a5360b6040a7729a2c70c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "杭州智鹍科技有限公司是一家着眼于数字经济，基于数字孪生、BIM+GIS、AIOT、大数据、云原生改造等新技术，面向智慧城市、智慧警务、智慧交通、数字能源等领域，助力传统行业客户数字化转型升级的科技型企业公司。\n          团队由来自华为、海康、阿里的研发团队创立，并依托同济大学、浙江大学等高校科研支撑，入选杭州市萧山区5213海归高层次人才创业重点扶持企业。至今已拥有2项发明专利、5项实用新型专利、15项软件著作权，目前已经获得国家高新技术企业、杭州市\n高新技术企业、浙江省科技型中小企业及ISO9001/14001/45001管理体系、CMMI3软件成熟度模型等资质认定。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "零食下午茶"
+      ],
+      "activeTime": 1718345102000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智鹍",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

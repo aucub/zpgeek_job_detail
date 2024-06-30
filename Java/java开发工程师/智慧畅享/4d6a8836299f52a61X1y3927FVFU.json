@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MZ0CejILufROM-x1wsQcCFaoWZWIcPeCCC0eoXKOUTh_VDo2N7kFXXb2Pt6GLfRwLpnnbkDeGcYwrbl7oqm41jc5Qj3Ae3LmNce7eQcHtJZ9TYtp4O0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d6a8836299f52a61X1y3927FVFU",
+      "encryptUserId": "450a878da41ef4760n1y3N-1EFZX",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 大专及以上学历，计算机相关专业； \n2. Java基础扎实，精通多线程、并发、集合、网络、io等基础知识，熟悉JVM；以及分布式web系统应用设计和开发经验 \n3. 熟练掌握各类算法、常用数据结构、设计模式； \n4. 会使用svn、git进行代码协同管理； \n5. 熟练使用SpringMVC，SpringBoot, SpringCloud, Mybatis, Dubbo, zookeeper等领域的框架或产品的机制与代码； \n6. 具备Mysql等数据库使用经验、缓存、消息通信、队列、异步框架等技术；熟悉高性能、高并发系统设计方案，如分布式缓存、ElasticSearch、消息队列等； \n7. 熟悉Activiti工作流或者有相关经验优先。\n8.有测绘、地理信息从业经验者优先。",
+      "encryptAddressId": "94986885e9ad0d2b1nR539i0EFtV",
+      "address": "武汉江夏区光谷科技港5栋412室",
+      "longitude": 114.399128,
+      "latitude": 30.456444,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf6fbaac4d560c827ecbe17846ca27830a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bfd9d1ccaf0f4964b1a7e037762117fd476bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230523/607f1f3d68754fd09959817a97fe22a17dad885e111268320d1d3163a9b192aee23ee0e6bb0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "智慧畅享",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bfb757cc2f8d60040XV80t-_GA~~",
+      "brandName": "智慧畅享",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230727/7b5b554d84f9729cf1e71191d8b5177be547653bf73fb3cc0d1d3163a9b192aee23ee0e6bb0c4219.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉智慧畅享信息技术限公司坐落在武汉光谷，公司以武汉大学测绘遥感信息工程国家重点实验室为依托，专业从事地理信息系统（GIS）、物联网、大数据、云计算等技术研发与应用服务。公司自主研发EGIS二三维地理信息平台、时空大数据平台、数字孪生基础平台及多项行业应用产品。提供智慧城市、自然资源、农业、环保、水利、水务等多行业的智慧化解决方案。",
+      "labels": [
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719316534359,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智慧畅享",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

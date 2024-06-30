@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HT6LP00KWabok-i10V1gevmbErbicSx_qVno9AUoVcStOp9OEqkxkxFMFfNZmAe7VASic_rH7hCLQz7AYSkMx0rvkGKyLOl3OmeyMo3QBrtJ8-dN6AcRFJYazqEvLon8kpbPfxw6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ca55e4cde36832603N73NW7FlI~",
+      "encryptUserId": "1f511ad66e88790c1nd63dq1F1E~",
+      "invalidStatus": false,
+      "jobName": "java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、负责医药相关信息系统代码的实现。\r\n2、能够根据开发规范独立完成模块的设计、编码、测试以及相关文档编写。\r\n3、对所编写的模块进行严格的测试，进行软件故障的诊断、定位、分析和调试。\r\n4.参与方案讨论和技术调研、负责方案升级、更新。\r\n任职要求：\r\n1、计算机或相关专业 。\r\n2、3至5软件开发经验，至少参与过2个大型软件系统的开发工作经验，负责核心模块的设计开发。\r\n3、精通Spring MVC、Spring boot、Mybatis、Ajax等主流JAVA框架技术，熟悉VUE.JS、Node.JS、Bootstrap等主流前端框架。\r\n4、熟练使用Linux、Git、SVN、IntelliJ IED等开发及版本管理工具。\r\n5、能够熟练使用Oracle、MySQL、Mongodb等常用的数据库，具备数据库性能优化能力。\r\n6、有一定的优化能力（设计优化、代码本身优化、sql 优化、缓存设计优化等）。\r\n7、具有良好的团队合作精神、学习能力强，较好沟通能力，工作积极主动，具有强烈的责任心、事业心，能够在工作压力下顺利完成工作。",
+      "encryptAddressId": "ae1cf174b84829181XF82N69F1Y~",
+      "address": "北京顺义区绿地启航国际",
+      "longitude": 116.556424,
+      "latitude": 40.116186,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88a678c6e81e8871f776ee46da2251f0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aab24a89c9481a7817dd0240c3cce2f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191127/46b7120aa3913e9c7e90b5159bf4653d7114ba3a8520753f6a800de55d8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "工信联合",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bde78e95dabdac7b1nV63dy8",
+      "brandName": "工信联合",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716780568293,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "工信联合",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

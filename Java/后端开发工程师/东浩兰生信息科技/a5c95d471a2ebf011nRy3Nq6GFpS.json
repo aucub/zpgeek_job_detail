@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eEfk2sGiUu13z-S1CA6mllU0YbnorDJ5O-cnMlaCH5W86kCK6Nk4Hz03QYo0EfVF-2AyQGCKur8M_fMw_sMfDCz8zf6JTnQYm4LJuVyrprQdkWmOWg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a5c95d471a2ebf011nRy3Nq6GFpS",
+      "encryptUserId": "af8ce61e4f21f9811n192du9F1s~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责系统框架维护及核心业务代码开发；\n2.根据业务需求，设计并实现技术解决方案；\n3.能够在工作中促进团队工作效率的、系统效率的提升\n岗位要求：\n1. 精通Java、Python等一种或多种语言，有框架使用经验；\n2. 精通Spring boot，Spring cloud等多种微服务框架；\n3. 熟悉数据库设计，有mysql、redis、sql server等数据库设计和优化经验；\n4．熟悉liunx操作命令；\n5. 熟悉maven项目配置管理工具。\n6. 责任心强，具有良好的团队协作能力、沟通能力与协调能力。",
+      "encryptAddressId": "46310ab9f8d12e3e1HN72ty9FVo~",
+      "address": "上海黄浦区兰生大厦12楼",
+      "longitude": 121.479682,
+      "latitude": 31.225822,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/341c3f1655e6bac4dc3ae8b83fb6720a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7474f53b1360dfe49fc2fd1a46689b91",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Python",
+        "微服务架构",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "研发部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "东浩兰生信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1544463ea6d439d43nZ_3NS8GQ~~",
+      "brandName": "东浩兰生信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211028/7b5b554d84f9729c7add00bd54a939900942053fb4920cc61eca3d25176e65a9b5b5e9dbd5551be2.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "上海东浩兰生信息科技有限公司是专业从事智慧建筑软件的高新技术企业，属于上海国资委下属东浩兰生集团成员！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1716717504351,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东浩兰生信息科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

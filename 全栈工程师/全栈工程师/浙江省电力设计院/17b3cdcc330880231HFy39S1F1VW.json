@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AJIzsG2gPBtmq-A1vu7_qEqTjGirdY377iZjAMg0g2Lffcrof6cGDEzfUd9NVkFYeYrcCtRcuREMxng5Vy7RL9wXnkyqnWlxIQSGNBSsfAfKa7UF182axzW1wTbeBn_NAZ6duk0TmGZT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17b3cdcc330880231HFy39S1F1VW",
+      "encryptUserId": "97a704ef4e2f61930XZ409S1GFJQ",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位福利：\n1.五险一金\n2.免费工作餐\n3.按国家法定休假，带薪年假10天，加班费另计。\n4.有各种工会协会和活动。\n\n工作时间：8小时，8：30～5：00，中间午休。\n\n岗位职责：\n1．根据产品需求完成需求分析、设计及实现\n2．根据制定的开发计划完成日常的研发工作\n3．协助解决线上各种问题\n4．代码 review 及系统的梳理重构。\n5.  BIM设计（PDMS三维设计平台）数据库维护。\n职位要求\n1. Java 基础扎实，掌握 java 基础技能： Jvm 、 Map 、 List , java 锁等；\n2．掌握 java 开发必要的框架： spring , springboot , mybatis , springcloud ;\n3．熟悉必要的中间件并且了解其原理： redis 、 mq 等；\n4．熟悉 HTML / CSS / Javascript 等前端开发技能\n5 .有Web 3D开发经验\n6.熟悉WebGL、Three.js或其他Web 3D框架。\n7．熟悉 NodeJS 与 VUE / React 了解 Electron 者优先",
+      "encryptAddressId": "38b0a7d19fb02b8b1nZy3di0FFdQ",
+      "address": "杭州西湖区浙江省电力设计院(华星路)古翠路68号",
+      "longitude": 120.120322,
+      "latitude": 30.278551,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e0bf466fe29d982aa23fe926231b7ce",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35cc0d5af253828440711ebf058308e6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "HTML",
+        "Java",
+        ".NET",
+        "MySQL/Redis/MongoDB",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "数字化部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "浙江省电力设计院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "182aec53cdcf64420HB42dy0EA~~",
+      "brandName": "浙江省电力设计院",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719207466942,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江省电力设计院",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

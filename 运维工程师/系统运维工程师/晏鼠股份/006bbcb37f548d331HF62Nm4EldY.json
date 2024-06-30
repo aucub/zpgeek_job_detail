@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uz5ADMUZ3v_Ea-c16vTjdNKfjt_vnh0UyFPrLEpKr_MZzhAIPJBZ8CTxTUu7k0tjvvX_ZQnhcZZYg-CuOP9JXLdyXuiJDGawzgpIEmLZPydb9csHV5V0HHmpnFcgda1d9JQIH2VMu7Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "006bbcb37f548d331HF62Nm4EldY",
+      "encryptUserId": "70aadd87d792321f03B90928GFo~",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "系统运维工程师\n岗位职责：\n2.负责公司标准软件的安装及故障处理，及时响应、定位、处理各类问题；\n3.负责公司办公网络基本故障排查及处理，配合机房上下架服务器等网络基础工作；\n4.主动发现业务系统的问题和隐患，及时对系统功能优化提出合理化建议；\n5.能够运用主机监控、日志分析等工具进行复杂问题的定位；\n6.负责总结分析日常维修问题，整理编制相关指导手册、各类运维文档及相关工作技术文档。\n岗位要求：\n1.计算机、电子类专科学历及以上，有2年以上相关工作经验；\n2.熟悉品牌服务器的管理维护，厂商的支持流程，能熟练判断并解决相关软硬件故障；\n3.熟悉 Prometheus Grafana 监控组件；\n4.熟悉容器技术，有 K8S 及 Docker 的使用和维护经验；\n5.熟悉常用的语言脚本（如Shell Python）；\n6.熟悉常见的网络设备，华为、H3C 等设备；\n7.加分项目：有智算或者超算领域工作经验、熟悉 AI 集群设计、存储设计、高性能网络设计，等相关运维经验；\n8.具有解决突发事件的能力；责任心强，有良好的沟通能力、协作能力、学习能力，吃苦耐劳。",
+      "encryptAddressId": "b5d7ebcfd4ffbbb11X153di4GQ~~",
+      "address": "上海杨浦区杨浦科技创业中心国定路335号1号楼1101",
+      "longitude": 121.5084,
+      "latitude": 31.29734,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00ef9b974168ac6c75e0c0d5fd6697d6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/857c10f451d4bd5d216e63365705f047",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "IDC机房运维",
+        "网络运维",
+        "Docker",
+        "Python/Shell",
+        "计算机相关专业",
+        "网络安全相关经验",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "石女士",
+      "title": "人力资源部",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210408/c9e74f8fec97ed056ca2cefe0de7277ff9bccefbd61da7405c767c28625_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "晏鼠股份",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0b26938522ecb6ef1XFy2dy9Fw~~",
+      "brandName": "晏鼠股份",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190627/8e959b90f52d31711ff18dc792e7c29df9bccefbd61da7405c767c28625f21bc_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "上海晏鼠计算机技术股份有限公司成立于2001年，注册资本3450万元人民币，多年来根植于大数据分析，拥有近二十年的数据智能应用服务经验，是经上海市认证高新技术企业、上海市小巨人企业。公司专注于文本智能AI技术，利用大数据技术和AI算法，帮助用户提供机器化自动计算与撰写服务，在协助政务服务，民生民用惠民生活上为众多企事业用户提升工作效能。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1719570403534,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "晏鼠股份",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

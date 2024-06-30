@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZXoaX9o2RbccL-Z1ZZwDzKKmZiz75Ktp-PjDP1Zn1fSZPIqpCyJyv90OvMNGYVRIoEdtYl_IZ2lbWZSrA6IUV_qmDEw8ocNpeLDifFoI6ueewaCJO3Yp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8324b1f4a240696b1nF92t29EFVX",
+      "encryptUserId": "46cfe16900ea72970nd52t28FFZV",
+      "invalidStatus": false,
+      "jobName": "Java工程师（北京）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与产品需求的可行性分析和方案设计；\n2、根据产品需求完成详细设计、编码，自测，以及配合测试对功能联调测试；\n3、按照项目计划，按时提交高质量代码，完成研发任务；\n4、按照规范输出设计文档、数据流文档、接口文档；\n5、参与项目的上线发布变更；\n6、处理项目在生产环境运行过程中出现的各种Bug和反馈；\n7、对现有项目进行代码、性能调优。    \n\n岗位要求：\n1、大专及以上学历，2年J2EE开发经验，JAVA基础扎实：熟练掌握面向对象编程、各种集合操作、IO、基础工具类、JDBC、反射机制等；\n2、深入了解常用后端开发框架，并具有实际项目开发实践，主要包括：Spring/SpringMVC/Springboot/Mybatis/Spring Data JPA；\n3、熟悉使用消息中间件，理解消息的消费过程，熟悉Activity/RabbitMQ/Kafka消息中间件中的一种；\n4、熟悉Redis缓存等框架；\n5、熟悉Oracle/MySQL/PostgreSQL数据库中的一种，并能熟练编写各类SQL语句，掌握部分SQL优化技能；\n6、熟悉Linux系统基本操作和维护（常用命令及编写Shell技能）；\n7、能承受一定的工作压力，有责任心和上进心，良好的团队协作能力和沟通表达能力；\n8、具备优秀的文档编写能力。",
+      "encryptAddressId": "eeaa0e96549a5a7703F82tS_EVY~",
+      "address": "北京海淀区中国科学院信息化大厦8层",
+      "longitude": 116.336281,
+      "latitude": 39.987177,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/325a34cef53772658150ab2f5783fb54",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/726a0d39a4ecc69ab8b9f126fdba73a3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "SpringMVC",
+        "Hibernate",
+        "SpringBoot",
+        "Redis",
+        "Oracle",
+        "后端开发",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "傅先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "斯克赛德",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65d6258275228c871nN42Ny-FVc~",
+      "brandName": "斯克赛德",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "专注于人力资源管理软件的开发和实施",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "节日福利"
+      ],
+      "activeTime": 1717929659000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "斯克赛德",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

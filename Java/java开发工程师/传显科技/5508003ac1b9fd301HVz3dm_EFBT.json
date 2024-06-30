@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6TrUydQexl_4D-11kHJpdhYpPbWdaSU1nSEZ4NGs-MB6LODUZijO5xFXhSKR5pRvl4iyyFHuGtthbFmTAF0GnyEZPkKDsf7KsJ_b9PYvJLgPjziTJ4Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5508003ac1b9fd301HVz3dm_EFBT",
+      "encryptUserId": "53d95822f7497d440nBz0ty8FFE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1.负责参与公司原有项目与新项目的开发工作；\n2.负责接受业务需求，完善技术设计文档，完成开发实现及测试；\n3.负责系统软件和数据库配置和优化；\n4.按时按量完成上级安排的工作任务和目标。\n\n岗位要求：\n1.本科及以上学历，计算机相关专业；\n2.有java开发工作经验，有大型平台类项目开发经验者优先；\n3.熟悉各种开源框架（Spring MVC/Boot/Cloud、MyBatis等）；\n4.熟练使用git、maven等常用开发工具链；\n5.熟练掌握MySQL数据库,有数据库优化经验者优先；\n6.熟悉常见中间件redis、elasticSearch、MQ等，有分布式开发经验者优先；\n7.熟悉软件测试流程；\n8.具有很强的编码功底，有过业务设计经验，能解决疑难技术问题；\n9.具有良好的团队合作精神，能够承担较大的工作压力。",
+      "encryptAddressId": "4bdad0373d0025fc1nZ83tu6EVFS",
+      "address": "重庆巴南区旭辉乐活城29a-20-22",
+      "longitude": 106.5447,
+      "latitude": 29.401822,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bfb2c9b8edddc9d897a8136062f3746b6c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfd1237b25efaf2ce979997da6d61c91fd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐女士",
+      "title": "行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "传显科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a81f5a9832a958121nF-0t6-F1A~",
+      "brandName": "传显科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231008/7bf6f160950405e9244e0952b296b5c715d110415f46f9da677e3ca54ab583a8e630d74b3d020a8d.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "重庆传显科技有限公司成立于2014年，位于重庆市巴南区，我司为国家科技型企业、重庆市专精特新为一体的高新技术企业，目前已深耕云通信行业10余年，专注于为企业提供提供全套云通信产品服务。公司主营产品： 传显云通信能力平台、传显云呼叫中心系统、传显云话务调度平台。多年来公司坚持企业稳健运营、技术研发投入，始终致力于服务各行业终端企业，把品质至上、服务至上、可持续发展、信息安全至上作为我们的经营理念；",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "全勤奖",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "生日福利"
+      ],
+      "activeTime": 1715714278515,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "传显科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

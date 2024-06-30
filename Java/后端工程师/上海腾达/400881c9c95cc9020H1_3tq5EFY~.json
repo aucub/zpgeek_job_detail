@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JIdKpLF4S6ZY8-61ZSlATAlqqY1uJM4Kc8gMnbASkVv3XSzqjv0OKv7BW3EnMLZ3lPYS3BM-qrU6qfUl35sR8jJpd9i0XbFZ19HwvjILkP1EcCs0ObT0lzMjCs-a_lhG138bMgyGQA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "400881c9c95cc9020H1_3tq5EFY~",
+      "encryptUserId": "b827f776aba34ea40X1z3tq4GVY~",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1. 负责软件系统平台核心功能模块设计、核心代码开发。\n\n2. 负责对现有系统重构、拆分、升级、优化。\n\n3. 负责系统业务代码的快速开发。\n\n4. 负责通过接口对接外部系统。\n\n5. 负责公司项目文档归类整理。\n\n6. 负责产品架构分析，提出软件架构整体设计，数据库存储设计方案。\n\n7. 参与技术团队建设与管理工作，负责对软件开发团队的技术指导。\n\n技能要求：（所需知识、技能、品质等）\n1. 二年以上JAVA开发工作经验，有系统架构设计成功案例优先。\n\n2. 精通Spring框架相关技术，包括SpringMVC、SpringBoot、SpringCloud等框架，了解各种框架的使用，包括切面处理（AOP）、全局异常处理（GlobalException）、依赖注入（IOC）等等。\n\n3. 精通基于Spring框架的相关外部功能集成，包括Druid、Mybatis、Swagger2、Shiro等。\n\n4. 精通Memcached、Redis、MongoDB等NoSql数据库的基础功能封装、性能优化、使用场景等。\n\n5. 熟悉消息队列，包括ActiveMQ、RabbitMQ、RocketMQ等消息队列的基础功能封装、性能优化、使用场景等。\n\n6. 熟悉Redis，MongoDB等NoSQL数据库。\n\n7. 熟练掌握Oracle、MySQL等主流数据库，熟练在Linux平台安装调优。熟悉数据库建模，具备深厚的SQL功底，并有着丰富的数据库设计经验。\n\n8. 具备BLE室内外定位、LBS定位服务相关工作经验。\n\n9. 具备良好的文档编制习惯和代码书写规范。\n\n10. 具备团队合作意识，工作责任心强，具有协调、沟通能力。\n\n11. 具有较强的责任心，能够承受较大的工作压力。",
+      "encryptAddressId": "1bce4d6b6e3e09e01HR-2d68EFE~",
+      "address": "上海闵行区中国上海网络视听产业基地2号楼905",
+      "longitude": 121.463356,
+      "latitude": 31.021505,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fa5033670826905373216112bf0d8df",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fd1988baa5400da118faf08331bdfa4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "裴女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190716/68374e9465a967048410f2910eb4fa224583d089d2ee807ae13e15ee401_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海腾达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2427f5e2762fdfea0nV73dq_FA~~",
+      "brandName": "上海腾达",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716713901019,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海腾达",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

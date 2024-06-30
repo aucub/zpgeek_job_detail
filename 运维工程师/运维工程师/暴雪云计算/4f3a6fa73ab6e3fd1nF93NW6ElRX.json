@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VlVK5Ycxjqsba-H1zDU5hlP6ZN7-rkJSf4UwqGhAUEzzyuRDrEPtAPA3-DCPGttAUaq2-IdvJnQ7zyiBa1jElMXXxoPNsVv-UI9xgz8jXxPBG5HxGnoC",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4f3a6fa73ab6e3fd1nF93NW6ElRX",
+      "encryptUserId": "4918a590d2fd27840nd52ti_EFtX",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、优化软件和部署，提升集群机器性能\n2、研究业务系统架构、实现性能优化，提高系统的健壮性\n3、协助制定和改进部署、维护流程，提高服务运行质量\n4、负责系统的监控方案、容灾方案、自动化运维方案的制定和实施\n5、负责服务器、存储和网络方面的技术文档手册的编写，更新等\n6、负责研究测试能够实现系统功能拓展和性能优化的主流软件和工具\n职位要求∶\n1、有3年以上IDC服务相关项目经验和业务系统运维经验，有一定应急处理能力及沟通能力;\n2、熟练运用各种python/shell等脚本实现运维自动化以及利用puppet/ansible等实现配置管理; \n3、熟练掌握Linux集群系统及相关服务和应用软件安装、调试、调优;\n4、掌握CI/CD的开源工具， 有丰富的持续集成、持续交付等工具平台研发经验;\n5、熟悉常用的监控系统，如Zabbix、Prometheus Grafana等;\n6、了解开源项目开发流程，定期跟踪开源项目进展；\n7、具有强烈的学习意愿、具备较好的学习能力、问题分析能力以及解决能力;\n8、了解分布式系统和区块链技术，熟悉智能合约，熟悉公链技术框架；\n9、有大型互联网项目运维经验优先；\n10、有较强的团队精神和沟通协调能力。",
+      "encryptAddressId": "cd085bd9497413310nd939W1",
+      "address": "武汉洪山区北辰光谷里5B栋",
+      "longitude": 114.415683,
+      "latitude": 30.480367,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56cde04293763e760ec122aa94f85e49",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2d848ca62ac2bb2d3cb2eef74426bef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化运维",
+        "Python",
+        "Shell",
+        "分布式技术",
+        "Zabbix",
+        "Ansible"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "叶先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "暴雪云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dc0c9f1b385815211nJ-29S-EVc~",
+      "brandName": "暴雪云计算",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210521/499809f2464aae5da0fd80b84ff0659206832c006d2989f47848dc9602126b4c.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "暴雪云计算是一家专注于存储服务器研发、分布式存储技术研发的分布式存储网络运营商，核心团队成员拥有超过十年的存储行业经验。\n以专业存储为企业立身之本，以技术创新为企业驱动之源，暴雪云计算不断突破自我，为用户提供更全面、更优质、更专业的分布式存储解决方案。\n企业slogan：未来数字世界的筑基者\n核心价值观：科技创新，赋能物联，以人为本，科技驱动，协同高效，结果导向 \n行为准则：诚信、担当、创新、进取 \n企业愿景：暴雪云计算，为人类存续助力。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "通讯补贴",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1717105086310,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "暴雪云计算",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "q9TzQX4lMG_Mk-F1xrmK8IY_XM1cHWKT2Cr3KsXAp41EVjJyP4GMqq8h6ktD_eTKhE9sP-hhi0OOkhjb6NXOiFu889mRcjgiXLz6-AJwSRDzSjGZioRXEXRG6ekIlceLh5a8Ke67AA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a728305ea687e8001HJ43Ny9ElJW",
+      "encryptUserId": "60bf5c52ddcb07cc0XJ-2dq7EFQ~",
+      "invalidStatus": false,
+      "jobName": "初级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、 参与和负责公司数据平台的功能和数据接口开发\n2、 使用数据湖数据进行可视化和数据展示交互的产品开发\n3、 根据公司产品需求，参与设计、开发、维护和优化相关的功能模块\n4、 参与或直接负责进行平台功能优化整合，快速尝试和搭建有价值的功能进行创新，提出自己的解决方案\n\n任职要求：\n1、精通Java语言，熟悉Spring、Spring Boot / Spring Cloud等主流框架；\n2、1年Java开发经验，参与过真实的企业级项目开发； \n3、深入理解和熟练应用面向对象的思想，能将业务需求进行抽象进行对象化； \n4、善用设计模式，熟练使用常见的设计模式以优化代码结构；\n5、熟悉租户化、组件化、可插拔、可扩展的思想，具有良好的编码习惯和编码规范；\n6、具备良好的流程习惯和开发素质，规范的进行组件设计、开发、测试、部署、文档编写、版本控制、Issue管理等；\n7、具备前端知识，熟练使用一个如VUE、React等前端框架，掌握前后端分离方式进行页面开发\n8、熟悉Linux常用操作命令，熟练Shell脚本编写 \n9、拥有良好的沟通技巧及团队合作精神, 性格随和\n10、有极强的责任感及进取精神，能主动发现问题、解决问题。 \n11、具备基本的英语听说读写能力",
+      "encryptAddressId": "c58eb3c8e17946883nZ42Nq7GFpUyoS4UPI~",
+      "address": "北京朝阳区利星行中心H座1",
+      "longitude": 116.475666,
+      "latitude": 39.990424,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b5c6b7db0cf33270769c30f0a2f4227",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9d92db9435ff1fd052647aed9fcf16d0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "燕女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "上北智信",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bb86c4c6b6b9bd1f0XZz3di4",
+      "brandName": "上北智信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170426/2494cf4d3973976f3509d73986153055b66c84e16995271d2f34ba975bf7cd9b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京上北智信科技有限公司成立于2010年，多年来公司致力于数据分析系(BI)统的项目实施服务和产品研发，具有丰富的项目实施经验，并形成产品及行业解决方案。公司为西门子、大众、康明斯、华为、雀巢、UTC、微软、中国人寿、玫琳凯等客户构建数据分析平台，皆受到客户的广泛好评。\n上北智信目前有员工120多人，现在拥有北京总公司、成都分公司和杭州分公司。\n公司官网：https://www.sharewinfo.com/",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717754599684,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上北智信",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

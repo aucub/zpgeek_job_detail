@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jPbVdma8pMFVP--153fxDYVgN2G5jWvxtB-1DooWsZ97r5TC5G30tRN8eNSfVC--TXJGkuv_UAn2s-McBfSVv37Z8Q9564tEZY4VGJDPvZrqY7_kQA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d19886cf2c7cbe491XN_3d-8GVNT",
+      "encryptUserId": "b5ab3af54374a77e0nV_29W1ElBR",
+      "invalidStatus": false,
+      "jobName": "Python 工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n负责分布式爬虫的核心研发和设计，进行多平台信息的抓取、清洗、结构化、入库等工作；\n负责网页信息抽取、数据清洗等研发和优化工作；\n负责抓取数据的深度提取和挖掘。\n二、岗位要求：\n统招专科及以上学历，互联网工作经验，爬虫、反爬虫研发经验\n熟练掌握常用的数据库（如mysql、redis、MongoDB等）\n熟悉常见的反爬机制及对应的应对措施，如cookie识别、ip封锁，网页加密等;\n精通Python开发，熟练使用多线程/进程/协程、网络编程以及分布式爬虫架构开发场景，掌握自动化技术（如puppeteer、selenium）使用\n掌握Tornado、Django、Flask其中任一web框架；\n熟练使用http代理工具和抓包工具，如charles，fiddler等；\n熟悉HTML/JavaScript/CSS/AJAX等web技术，熟悉web相关数据处理技术，熟悉常用的浏览器调试技术；\n熟悉Linux操作系统及shell编程；\n对新技术有强烈的探索欲望，能够承受工作压力，有强烈的责任心；",
+      "encryptAddressId": "6b7c39fd67d5c49403x73dm6FQ~~",
+      "address": "北京海淀区星河经纬(北京)资讯有限责任公司6层",
+      "longitude": 116.312878,
+      "latitude": 39.967246,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1289407abe07dbc5b35e5af07f4b019d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76882fb8817681105c5228c387193283",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "井女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231020/607f1f3d68754fd02f097695db2639d7f65eb072e969b32349a1f5d7eab143dbe98f98103761ea4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "导航网",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3f42083cbc2e4bcd1XV63dS8",
+      "brandName": "导航网",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170516/0226f63afbf2ad97a2242810e315fde7c0a51f74a452d400135a433733a08496.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100010,
+      "industryName": "分类信息",
+      "introduce": "招标采购导航网，即“星河经纬(北京)资讯有限责任公司”，由1993年六部委联合成立，原“中国高技术企业发展评价中心”的核心成员创建，一直秉承着“降低中国企业经营成本”的宗旨。\n   除向政府管理部门及决策机构提供研究报告外，2002年建立后，向社会公开提供有偿建设信息服务。\n   对客户有价值·对员工有担当·对社会有贡献",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1718360080882,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "导航网",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JsTFsVEYpTc1--C1rzAxA3vTSO7TXZz7cM5Wa3WGw3umrFa67SVKQjhabB4zYtnMCxy3vnGCJF9iiC2bUxZSLQNdu4uD-j22RULimjLlPKFas0W6Y0LfHZO9XBCv0B2kpNUxz9mR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16e8a447f4b78ca51nZ42Ny9GVs~",
+      "encryptUserId": "2608c8fff1e9e65a1Xx52Ni-E1I~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180800,
+      "locationName": "开封",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "1 大专以上学历，2年左右J2EE方面的开发经验；\n2 熟悉HTTP协议、熟悉REST接口开发； \n3 熟悉主流的SSM（Spring，SpringMVC，MyBatis）开发框架，熟悉分布式RPC框架（Dubbo，Hession） ； \n4 熟练掌握SQL各种语法，做过数据库相关的性能优化，了解Mysql数据库的索引原理和实现细节；\n5 对JVM内部内存结构，GC原理有一定了解，对并发程序控制有一定经验； \n6 有较强的逻辑思维和缜密的分析能力，熟练掌握常用的数据结构和算法。\n7 有Android开发经验优先",
+      "encryptAddressId": "a0ad7435d0eb61670nx83dq_EQ~~",
+      "address": "开封龙亭区威斯尔科技1-21营业房",
+      "longitude": 114.295248,
+      "latitude": 34.819141,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f84628acab4c42a6467a92dc3227ecff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdd9de7c5c093941c5333416f27f985d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "移动开发",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170612/aabcb5b7ad33a2202a422e7f9428c3d30419c271d3ffa36907a14d5f0f3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "威斯尔科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8e3d248d322092800Hd72NW0",
+      "brandName": "威斯尔科技",
+      "logo": null,
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719617732501,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "威斯尔科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

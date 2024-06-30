@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2gHvOQ0zykOQi-U1P7ZNTtvLRpOMWVHVJ1Qi9SlZpsQjzPbpY_9bWzADR94piHI4akQSDpYO0dC_SPTM_eO7e4rKOQYsh04zX5VuhG9dGEQbJ9p7Zdyp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "926ac0bdf5aee81d1X1z2dq9ElVZ",
+      "encryptUserId": "4ceda497691b8a510XV429y5FVZW",
+      "invalidStatus": false,
+      "jobName": "java全栈工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、熟练掌握vue\n2、参与需求分析、架构设计及相关评审工作；\n3、编写并维护开发过程中的相关设计文档。\n\n任职要求\n1、第一学历计算机或相关专业全日制统招本科及以上学历。学历不符勿投。\n2、熟练Java开发，掌握Spring、MyBatis、Spring Boot等应用框架。\n3、熟练Vue+Ant Design前端开发。\n4、熟练cesium、three等三维开发，熟练三维制作发布流程；具备全景制作发布能力；熟练使用GIS地图。\n5、熟练主流关系数据库SQL Server/Oracle/Mysql,具备良好的数据建模能力。\n6、了解分布式缓存（Redis)、消息中间件(Kafka、Mqtt)、RPC框架、负载均衡、微服务治理等技术，掌握各类中间件使用、部署、运维，包括Redis、Nginx、Tomcat等。\n7、具备良好沟通能力、表达能力和书写能力，团队意识强，能够带领和协调多名队员完成调研、研发任务。\n8、具备高度责任心、良好的问题分析定位和推动解决能力、对外沟通能力和团队协作能力，能独立承担任务，有强烈的时间观念和责任感。\n9、有数字孪生，三维，水务，智慧水务，市政管线相关经验优先。",
+      "encryptAddressId": "e336689f587cace51HF929i-F1ZXwYu-VPg~",
+      "address": "武汉江岸区长江中游水文水资源勘测局  617室",
+      "longitude": 114.311035,
+      "latitude": 30.60597,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfffbd5488da44e3bb42dd1e51cad056e46bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231229/48ba41acc9cef1bfdefb668cca75f51fa9b94f6504dc86076bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Python",
+        "PHP",
+        "Spring",
+        "SpringCloud",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "微服务经验",
+        "云计算经验",
+        "物联网经验",
+        "接受应届，实习。不接受专什本。"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宁女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230723/607f1f3d68754fd0f46a4006874e3e6fa027d1f21d6a503276e3bf8ea563f89fc171e86bb07d5b3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "长江中星公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8883647d9dde42601Xxz3N27EVI~",
+      "brandName": "长江中星公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230924/7b5b554d84f9729cfb98c9be88834827df0979024a5f844e76e3bf8ea563f89fc171e86bb07d5b3b.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "国企背景，行业有门槛，市场前景猛烈上升期。",
+      "labels": [
+        "免费早中餐",
+        "节日福利",
+        "有无线网",
+        "餐补",
+        "加班补助",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1719654491474,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长江中星公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

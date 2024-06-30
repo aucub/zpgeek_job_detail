@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hT2t6fWJQul2p-f1bvaN67iJdHdjm72tK3M4g01gfgGAiKcxsIkP9f8AxJSsnzKRiY5JBqz_AvhXwZiGOYd6nVTqsUwvwbJcoz_09hrIbZSB74u5pA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "15d821b440ad5c621nB_2tW-FlpR",
+      "encryptUserId": "b68a74661af2584e0nV53tS0GVM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责服务端需求的开发、维护、测试，高质量完成需求交付；\n2、对代码持续进行重构与优化，提升性能可靠性和可维护性；\n3、负责编写项目相关的技术文档；\n\n任职要求：\n1.全日制本科或以上学历，计算机或相关专业毕业，两年以上开发经验；\n2.熟练掌握Java和数据结构基础知识，包括集合、IO/NIO等；\n3.有关键独立模块设计、开发和维护经验；\n4.精通面向对象的设计和开发思想，熟悉常用的设计模式；\n5.熟悉常见Java开源框架，如Spring MVC、Spring boot、Mybatis、Spring Cloud等；\n6.熟练使用Idea/Maven/SVN等软件开发工具；\n7.有微服务开发经验优先\n8.有大型互联网应用开发经验则更佳",
+      "encryptAddressId": "7d7abfd279862d8f1nF-39W9Fg~~",
+      "address": "广州天河区厚和大厦1010",
+      "longitude": 113.3943,
+      "latitude": 23.124769,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b79aeea4f8f2e975faa79e3167f4006",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8efea65bb2f8ed636ea79eafcefecd4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "SpringCloud",
+        "Redis",
+        "Linux",
+        "MySQL",
+        "SVN",
+        "服务器端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190304/b4369af2a98141da27cbc973f1e31eaaa68517f51930892fce064101840_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "启义飞科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6c36257ab34f3770HJ73N6_Fg~~",
+      "brandName": "启义飞科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200330/87479299d634193e2cbd6d1201c1287f8d6bf131ca487e9530384670a7962e0c_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广州启义飞信息科技有限公司，成立于2016年，凭借领先的商业智能软件和专业的大数据挖掘分析技术，广州启义飞专注于为客户提供从数据资产治理、数据探索、数据挖掘到精准营销一体化的解决方案，以“直面大数据，改变客户使用数据的方式”为使命，是集产品研发、技术服务和营销咨询一体化的高新技术企业，同时公司也是行业深度定制化的软件方案商，有着一批精英业务的专家，凭借着优良的支撑服务，在各业务行业都有着很深的业务沉淀。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717073975782,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启义飞科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

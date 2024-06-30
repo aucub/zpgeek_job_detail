@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "m8j4IUtkfNvIL-C1_XFo0n_x2ZGQodUktvaIAODboDTWCk_84DgAs8OLac3viq18zBPu_gNIFeFfQP2J4tFv3-rMVe_ItkUB60PsXomQnvvYFOmgihI5ZhCT2gmeRh4-TyNnOt0JKqdv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "87d36e9f90887f761Hd829i5F1NR",
+      "encryptUserId": "8139ad8cf964262f1XN_2N2-FFQ~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉Java主流框架（包括：Spring，Spring MVC, Spring Boot，MyBatis等）\n2、熟悉SQL主流数据库（包括：MySQL、Oracle等）\n3、熟悉开源主流中间件（包括：RabbitMQ、Redis等）；\n4、严格遵守团队的代码格式、结构的规定，编写易读、易维护、高质量、高效率的代码；\n5、有责任心和团队意识；",
+      "encryptAddressId": "522a4c53f301829233R63Ny7FFQ~",
+      "address": "上海青浦区移动智地1号楼911室",
+      "longitude": 121.173094,
+      "latitude": 31.149742,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff9c39c3298c3fbc78bb0db21e8f8e97",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63e1c3cc62679cd2ab7e1a610f44a555",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "微服务经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170516/758fa09fefa9e0ccd3c02c7abae5605c8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "用启科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "24423b7508976dee1XF63N6-GFM~",
+      "brandName": "用启科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230213/7b5b554d84f9729c21c4c5ffe3f8ffb27f32ab520a34c868a31d46bf00b2ff0280e152cf1a7bb16b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "餐补",
+        "加班补助",
+        "底薪加提成",
+        "绩效奖金"
+      ],
+      "activeTime": 1718356530000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "用启科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

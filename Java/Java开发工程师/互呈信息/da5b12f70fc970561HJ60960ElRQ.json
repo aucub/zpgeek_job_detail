@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DHTJw4azqlS3k-418hZd5rGv-0a4QcqgboMg0NVgruygkVBpkEeYE0PKa1rHxqm5FsRYqJ_vipm4VfnRSMmnvlHESz7Gs3Fe3jK39ZOB7ijZOk-I_V_dpEUTmHjdIaSuJq0EzGHORtqZflR6sZWTRu0v_TESDCIVz7w7G8ck56yXioT6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "da5b12f70fc970561HJ60960ElRQ",
+      "encryptUserId": "ccba441eb31341a90nR-39-8FlBR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格:\n1、精通JAVA，熟练使用SpringBoot、SpringMvc、Mybatis等开源框架。\n2、具有Spring Cloud微服务架构实际项目经验。\n3、熟练掌握Oracle、MySQL关系型数据库数据库。\n4、熟悉Redis等非关系型数据库。\n5、熟悉一个或多个前端框架，对前端技术有完整的理解，掌握HTML、CSS、JS、Ajax等前端技术。\n6、具有一定Linux基础，掌握基本的linux操作和软件基本部署。\n7、熟练使用Git、Maven、Jenkins等。\n8、具有良好的编码及文档编写习惯，重视代码规范及质量。\n9、熟悉liunx及oracle、mysql等主流数据库",
+      "encryptAddressId": "efabff27373c3a730XV70ty1F1c~",
+      "address": "北京朝阳区方恒时代中心",
+      "longitude": 116.484074,
+      "latitude": 39.992624,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a30dd05f544591b2830204669d0ca280",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6adb0ed50b6cffa07199d05b1c54ca1f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Oracle",
+        "Redis",
+        "SpringBoot",
+        "SpringMvc",
+        "Mybatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230407/607f1f3d68754fd05ffa0c43587b8f6f4bc2c4a6b68ded72b9618b47ea7d183f01813bfe144_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "互呈信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a46a6da2bd4c4341HR53du_EA~~",
+      "brandName": "互呈信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "从事信息技术领域内的技术开发、技术咨询、技术服务、技术转让，计算机系统集成，计算机服务（除互联网上网服务），网络科技（不得从事科技中介），以服务外包方式从事软件服务（不得从事增值电信、金融业务），电子商务（不得从事增值电信、金融业务），计算机、软件及辅助设备、电子产品、数码产品的销售。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1719308467332,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "互呈信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

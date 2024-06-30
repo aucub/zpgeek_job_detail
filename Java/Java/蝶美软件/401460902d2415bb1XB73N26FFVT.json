@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tmRpfX63wGfFE-p1cRt3kIDH-aaqyptcusy9fHM9WLO9uEU49ISv_3Bn_t_bdcyeenx18gPWKFer-05SnUmcc9wUBGClduA5d2PvXe_sAEnZX1L7cXA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "401460902d2415bb1XB73N26FFVT",
+      "encryptUserId": "1e0a8b2d1708795e0nZ92Nq_GVVY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.计算机相关专业本科以上学历，2年以上开发经验，精通面向对象分析与设计，能够独立承担具体模块的设计工作，并完成核心实现；\n2.熟练常用的设计分析方法，熟练并恰当的运用设计模式和设计原则；\n3.熟悉Spring、Spring Boot和Spring Cloud，有中大型微服务架构实战经验者优先，熟悉体检相关系统业务优先；\n4.熟悉Mysql、Oracle关系型数据库；\n5.熟悉SVN、Git、Maven；\n6.应用过Redis/RocketMQ/Mybatis 等一种或多种中间件；\n7.有高并发在线系统设计、分布式事务处理实战经验者优先；\n8.具备良好的代码规范、文档编写、学习及领悟能力，具有良好的团队精神，高度的责任感，较强的沟通表达能力。",
+      "encryptAddressId": "1943607c25b801280HB409W-FlI~",
+      "address": "无锡新吴区无锡新世界国际纺织服装城市场管理有限公司A栋5楼208蝶美软件",
+      "longitude": 120.403661,
+      "latitude": 31.574222,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2783f9e04f101f7a0ba118cd34078ffa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fcb6b1a08500bd302d793977d893d61e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "微服务经验",
+        "大数据经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "蝶美软件",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "126ca458625c72ec1XV93Nm9GA~~",
+      "brandName": "蝶美软件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1715779694000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蝶美软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

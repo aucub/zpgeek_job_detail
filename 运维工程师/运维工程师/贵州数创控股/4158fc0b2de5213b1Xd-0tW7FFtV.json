@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6eQJFagVxmxpE-N1NJD_tzWm0E3vr23zPT431pvT5K722s6-7b6f85uWQ3vneRpK3HWXJ3o5vlNPTdJHNlhodbVEiVJO8mte3ucur48rqRHANHjjwcxVz47p7kg90CzWZR6vSf84Ms-L",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4158fc0b2de5213b1Xd-0tW7FFtV",
+      "encryptUserId": "43f75c4ae5053c2603V509-1F1o~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "一、系统运维：\n1、熟悉各类常用数据库安装和基本操作（如MYSQL、SQL server等），根据客户需求对数据进行查询分析。\n2、熟悉各类常用中间件的安装与配置（如IIS、apache、webloigc、nginx等）\n3、熟悉常用操作系统的安装与配置（如linux、UNIX、centos等），掌握常用的系统命令，能够根据用户要求进行配置。了解设备报错故障，发现设备故障以后能够准确判断设备故障点，并提出解决措施。\n二、终端运维\n1、熟悉打印机的安装和配置，帮助用户现场处理打印机故障；\n2、熟悉终端系统的安全和配置，在终端使用过程中出现问题，能够有效帮助客户解决使用中遇到的各种问题；\n3、能够帮助用户安装各类终端软件，发现终端病毒能够利用现有杀毒软件开展杀毒处理。\n4、杂项：客户侧可能出现网络不通、office编辑、电脑死机等故障，运维人员能够现场帮助解决。\n三、网络安全运维\n1、熟悉防火墙、IDS、IPS、堡垒机、日志审计等设备的工作原理，并有一定的操作经验；\n2、了解网络安全风险评估、日志分析、基线评估，安全应急等工作方法和思路，并能够开展相应的工作；\n\n以上为驻场岗位，具备网络工程师认证（CCNA\\CCNP、软考证书等）或安全认证（CISP等）优先考虑。",
+      "encryptAddressId": "655470f0319f7e6e0XBy3N2-ElQ~",
+      "address": "贵阳观山湖区美的·财智中心C座10-13",
+      "longitude": 106.65011,
+      "latitude": 26.641907,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fddb4fc81523a575877312f14cb71fd8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5681486645d305129c735657940e8196",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "网络协议",
+        "MySQL",
+        "应用运维",
+        "安全运维",
+        "Apache",
+        "Tomcat",
+        "打印机"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "贵州数创控股",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b1e0e225c8dbbbe61XV929q0E1o~",
+      "brandName": "贵州数创控股",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221121/7b5b554d84f9729c18721b272d83bb12a1f63e7499519ca5383f1b8f8a54def7aacf36ad557d1d79.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100202,
+      "industryName": "保险",
+      "introduce": "成为新一代智能数字化创新行业的领军企业",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "企业年金",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719388284045,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贵州数创控股",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

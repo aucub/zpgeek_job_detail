@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_Q_8tDpm4Smbo-P1ABfwkGmjf9Y3mgiXyyFWzPMvELECQf-IxgKf14UKqsxHAQZFlYRXHgb9lESZxmMAPH7aQwtqr6e2ukFjxGdfk9tXUb5O-wBYkapRgoUic4OTqIE4IpoJjDt-6Qp8kA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8b1d19949b8a9b3a1nF53t24FlNR",
+      "encryptUserId": "f8c296ec2287ff0f0nd63Ni7ElBX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "招聘要求：\n1.本科及以上学历，计算机相关专业，真实工作连续2年及以上开发经验（不接受应届）； \n2.软件基础理论知识扎实，具有良好的数据结构、算法功底 \n3.扎实的JAVA功底，对JVM的原理有一定的了解，具有较好的Java集合、IO、多线程、网络等方面的编程能力 \n4.熟练使用SpringMVC、SpringBoot、Tomcat等常用JAVA开源框架 \n5.熟悉Linux环境以及常用Shell、VI操作，熟练掌握SVN、Maven的使用 \n6.了解Redis的使用 \n7.熟练使用MySQL、Db2、Oracle数据库，能独立设计数据库表，掌握SQL，索引等\n待遇：园区乙类五险一金、年度旅游、年终奖、国家法定节假日等；",
+      "encryptAddressId": "f6556f04795963cb1nR52d61FldZ",
+      "address": "苏州腾飞苏州创新园塔D",
+      "longitude": 120.735564,
+      "latitude": 31.254205,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e63afcd0ef9290923da323a3c238b4a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7bd4b071aa35902eda63c6527b485f4c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "JVM",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "Linux",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "SpringBoot",
+        "Windows",
+        "Oracle",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人力行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210508/0f1015ddcb4bf36a5d0ac5c32ae7592bbaef570ad59851e922cc4ead4e6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "苍峰信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "17cf2603e40f05961nJ40tq8F1E~",
+      "brandName": "苍峰信息科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719313650724,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苍峰信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

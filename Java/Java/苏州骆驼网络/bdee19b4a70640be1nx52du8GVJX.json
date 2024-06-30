@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Zlhz1BXaK2PR1-W1dqEBveap9GaCypEhwljPRPNrR3pxey1IZti9AitiSJTA5uClkcccirNENb4vRDuieWgLSzP4S10xUjxBs-RlcMBr7OmMn-9N5ra0ZDv8z6pA_TP17i8xDYkA49M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bdee19b4a70640be1nx52du8GVJX",
+      "encryptUserId": "feaeac99ddda01180XF62d69GFY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "Java软件工程师\n技能要求：\nMySQL，Java，Javascript，SQL，SPRING BOOT\n岗位职责：\n1、在项目经理的带领下参与Java项目的开发；\n2、负责开发和测试基于开源框架的Java程序。\n任职要求：\n1、 本科以上学历，计算机或相关专业；有Java项目经验，良好的编码习惯\n2、 熟悉面向对象设计原理，精通java web开发、软件开发流程，熟悉软件工程；\n3、 熟练掌握Springboot、MyBatis、Maven等开发框架，能自己搭框架\n4、 熟练掌握缓存、消息相关技术，例如：redis、ActiveMQ、Kafka等，熟练掌握Mysql数据库，sql调优\n5、 熟练使用html5,css,javaScript等前端开发技术\n6、 热爱技术，喜欢专研，强烈的责任心，良好的沟通能力，严谨的逻辑思维",
+      "encryptAddressId": "2152ca07a5d3c1bd1nxy0ty5ElQ~",
+      "address": "苏州吴中区苏州纳米技术国家大学科技园B栋B405",
+      "longitude": 120.735566,
+      "latitude": 31.257245,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eac5cd62b1240b0692e309051a827dfa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c36f40cfb19d6a8abdd0035e48d9c35",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "SQL",
+        "分布式技术",
+        "WEB开发",
+        "Spring",
+        "Maven",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210927/607f1f3d68754fd0247873840786966a699564e250b3f9c47e720ae58a43f9d0e60d964868b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "苏州骆驼网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "83dbcb38d5026da50HVz2Nq1EA~~",
+      "brandName": "苏州骆驼网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200225/39a0218989e71502560ffc807faed3784df67de1e342a5fff8b73d8a497c7955.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1717137095720,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州骆驼网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

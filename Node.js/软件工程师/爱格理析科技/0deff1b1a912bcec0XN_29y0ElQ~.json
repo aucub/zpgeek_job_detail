@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MKhg0zPUQAUw_-s1MfkVLFJO66a68CbrjOhB5y06Do-2pvDtRBlNwHz5_bhxSqU2fobHPRJin_Sr3XAibCcgpTKxDj5gTNdDbXULbwvOVBZ4D0FK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0deff1b1a912bcec0XN_29y0ElQ~",
+      "encryptUserId": "dcc3f4731ef42d0f0HR_3d28FlY~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100114,
+      "positionName": "Node.js",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "* 计算机相关专业，2年以上相关工作经验\r\n* 熟练使用javascript,熟悉await,async,promise等语法\r\n* 熟练使用nodejs，1年以上项目开发经验\r\n* 熟悉http协议,了解restful接口规范\r\n* 熟悉mvc，有eggjs,koa,express等框架开发经验优先\r\n* 使用过一种或多种数据库:mysql,postgresql,mongodb\r\n* 了解html,css,vue,react,redux,vuex等前端相关技术,有前端开发经验优先\r\n* 熟悉敏捷开发，有单元测试开发经验优先\r\n* 了解或有redis开发经验优先\r\n* 了解或有消息队列开发经验优先\r\n* 了解或有elasticsearch开发经验优先\r\n* 了解或有python,golang,java,c#,lua等多种语言开发经验优先。\r\n* 了解或有docker，k8s,rancher相关经验优先\r\n* 沟通能力强，具有良好的团队合作意识\r\n* 逻辑清晰，思维能力强，有微服务开发经验优先\r\n* 有医疗背景相关工作经验优先",
+      "encryptAddressId": "9c9725f287d4bcce1XF92NS7GFo~",
+      "address": "成都武侯区东方希望天祥广场",
+      "longitude": 104.067848,
+      "latitude": 30.552974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3668581a086338ad9a6f36b4e97a900d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40b082278419bc6e28b0bf9732c62b92",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Node.js",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "爱格理析科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7d87f87b6bcff2150nV93NS_Eg~~",
+      "brandName": "爱格理析科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717108315086,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱格理析科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

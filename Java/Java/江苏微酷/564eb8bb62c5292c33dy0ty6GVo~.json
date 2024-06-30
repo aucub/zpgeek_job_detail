@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r75R0v1HysiCn-V1AKDMprQoLGJJWWBMlHYboTYp_OevU7-wKgKLNpPBAzaqC6elFSuRNb5LDSo4MuIZAW4OjbbckCzr26760niodPj40aRh51xf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "564eb8bb62c5292c33dy0ty6GVo~",
+      "encryptUserId": "4d66dcf7324c3e1803R72dW5FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、具备良好的编码能力和代码风格，熟悉Maven、Git等常用工具\n2、精通Spring,SpringBoot，Mybatis，JPA等主流的开发框架，对IO，JVM，多线程、分布式有深刻理解。\n3、熟悉使用Oracle，Mysql等常用数据库，具备Nosql使用，对Redis和MemberCache有深入的理解。\n4、对微服务有深刻的理解，有微服务开发经验\n5、对Vue前端技术有一定的了解。能熟练使用Vue开发前端界面\n6、熟悉nginx\\tomcat等应用服务器",
+      "encryptAddressId": "de3c966bb46bd3430nJ609q5Fg~~",
+      "address": "北京海淀区永定路52号院10号楼",
+      "longitude": 116.268757,
+      "latitude": 39.911366,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/42589072e617819c4ee52e1de3a950b0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2767fca6b211a7813781bfd12b755b5c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "Spring",
+        "GIT",
+        "Java",
+        "NoSQL",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180613/c74c3931943c67051e02ee8cccdb0c36f5ec923fc9d8a3372ada0f2ba53_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "江苏微酷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ed943540c94733401nJ83tW-EQ~~",
+      "brandName": "江苏微酷",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/f992df4d639afb42116751bf575b4dc92c481f16e6074d3acde510bb08fdc0c6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "江苏微酷信息科技有限公司是以大数据、物联网、人工智能为引领，提供智能生产、智慧水务、智慧安防等系统的解决方案、数据分析和信息服务的新一代信息技术服务公司；依托航天、航空智慧云协作平台和工业大数据，为工业制作行业提供集产品论证、设计、测试运行、产品定型、生产、销售为一体的全方位协同服务，实现信息化和工业化深层次的高度结合。涵盖航空、航天、水利、医疗、交通等行业。研究方向包括：虚拟现实与智能仿真技术，智能系统复杂任务虚拟仿真技术，自主无人系统“天-空-地”一体化协同监测技术研究等。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717070180221,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "江苏微酷",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

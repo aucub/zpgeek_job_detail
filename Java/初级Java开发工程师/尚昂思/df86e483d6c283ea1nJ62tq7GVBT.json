@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "h4zmVbOjbQ_Mo-O1aEKli5slsnugBA3ijXBdusDpLhpNaCTjTMYgw-XOwyrtKA0KzWpLKlKj4EJ95Yci4OCZyDnp9on2MoPTWkDLZ0dTxZ1XsD-r5F6-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "df86e483d6c283ea1nJ62tq7GVBT",
+      "encryptUserId": "47b2773780f7b7d10nV-2tS7E1RT",
+      "invalidStatus": false,
+      "jobName": "初级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "java开发工程师\n职责描述：\n1.根据项目/产品需求，参与项目的整体架构设计，编写系统设计文档及系统实施方案文档；\n2.参与应用系统架构设计、研究新技术框架，并推广至产品开发团队使用\n3.参与优化现有产品架构，设计新的架构，解决现有技术瓶颈，解决现有业务产品优化升级的技术问题等。\n4.参与后端模块与业务功能开发和代码走查；\n6.能带领3-5人负责项目开发交付，负责项目的测试、上线，并配合客户验收；\n7.与项目经理和客户沟通技术设计方案，报告项目进度与问题，与项目经理协调项目情况；\n8.参与产品业务需求审计与开发文档编写；\n\n\n任职要求：\n1.具有2年或以上实际Java开发工作经验,具有扎实的程序设计基本功，能够独立担当功能模块的架构设计及开发；\n2.了解Java常用设计模式，并能合理运用基本技术特性，如：Java数据结构、多线程、IO\n3.熟悉移动互联网（微信公众号、小程序、安卓、IOS APP）的开发流程和相关技术\n4.精通Spring、SpringMVC、Mybatis、Redis\n5.熟悉并使用各类消息中间件，最少精通其中一种\n6.熟悉SpringBoot、Spring Cloud、Shiro/SpringSecurity、单点登录、各类交易接口设计及实现\n7.熟练使用Oracle、DB2、MySQL 数据库，至少精通其中一种\n8.熟悉Apache、Tomcat等WEB容器配置与部署\n9.熟练使用SVN、git项目管理工具和Maven项目构建工具\n10.熟练操作Linux操作系统，掌握基本Shell命令,有Python脚本开发能力者更佳\n\n特别说明\n1.有银行系统开发经验者优先\n2.完整项目架构设计、实施经营者优先\n3.需要工作积极主动，有责任心，能承担较强的工作",
+      "encryptAddressId": "b291f58ae226ac4003J62NS1FVs~",
+      "address": "武汉江夏区光谷汇金中心6C",
+      "longitude": 114.431834,
+      "latitude": 30.452477,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b869f71ea4b76d59ef163fb84fecf79",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6eb2682a0726dfcf2f78ea8e696d82fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Socket技术",
+        "Hibernate",
+        "Oracle",
+        "后端开发",
+        "Linux",
+        "SQL",
+        "软件工程师",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "尚昂思",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "259df203b0edd7491nd939--EFQ~",
+      "brandName": "尚昂思",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717103922824,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "尚昂思",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

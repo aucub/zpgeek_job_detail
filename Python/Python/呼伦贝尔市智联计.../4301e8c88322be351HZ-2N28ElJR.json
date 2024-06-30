@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O0r68GU4FgW8X-h1ZNyYwZt4jjFS6jEYO-kJNgj9mRKVy3B0FI0aiM75If7Vg9BUtPQi-IlOaQr31N-qw7urEHFU9VVfkyjnevEPTO7nXzIBofv22f8TnbLgIP443XR9_9gkRDvkKAzSzw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4301e8c88322be351HZ-2N28ElJR",
+      "encryptUserId": "31f8545eb6bd6b8d0nFy39i7GFFW",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101080700,
+      "locationName": "呼伦贝尔",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、后端API开发工作\n2、线上问题的查找和修复\n岗位要求:\n1.计算机相关专业;\n2.熟练使用Python语言开发，具有良好的Python 风格开发习惯;\n3.熟悉常用算法，数据结构;\n4.了解后端开发内容，具有常见的Python Web框架(Django，Flask，Tornado,FastAPI等)开发经验更佳;\n5.熟悉sQL的使用，了解其他非关系型数据库(Redis, MongoDB)更 佳；\n6.了解Linux的基础使用和基本命令，能够编写she11脚本更佳；",
+      "encryptAddressId": "40736b29f520a80733V52tm5FFA~",
+      "address": "呼伦贝尔海拉尔区科技馆创客空间202B",
+      "longitude": 119.763283,
+      "latitude": 49.191928,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90ef9a45a5839bdffc3721c0cac4e787",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/abb1fff3ccbcb914539f68dd41eb4211",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Numpy",
+        "MongoDB",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "呼伦贝尔市智联计...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5b45db180c66e2ef1XF53ty-FFU~",
+      "brandName": "呼伦贝尔市智联计...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "团建聚餐",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1716694559814,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "呼伦贝尔市智联计...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

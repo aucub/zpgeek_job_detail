@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KO2OLn0iZiIdG-S1mN8MbvzGjvY1IGhaBjkGE2IRYGgUnCqmJm9aDmYVUFCDfpRISvIP8ta8T92kr4KXoPn_oJRPw9QhGvDzbVI8SbxcR4bAWfvc3AqdcJVlYao1vPr9-u_r8iuJ4g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1370ab944414aed803B929q7FVE~",
+      "encryptUserId": "bab3a600aee2a1de0nJz2d29GVU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA开发工程师\n \n岗位职责:\n1、参与平台和产品的软件技术架构设计、技术选型和技术预研与攻关；\n2、负责技术核心机制和核心模块的设计；维护基础组件和公共框架，快速定位并修复系统问题；\n3.有良好的沟通能力、学习能力、诚信、激情与合作精神；\n4.按照需求规格说明书完成设计；\n5.根据设计编写功能代码；\n6.按照要求编写合格的文档；\n7.严格遵循各项开发部流程规范。\n \n任职要求:\n1、JAVA基础扎实：熟练掌握数据结构，常用设计模式，JVM底层机制；精通多线程编程，数据库编程和性能优化；\n2、精通Java web编程，3年以上使用Java语言开发的经验；\n3、熟悉分布式、缓存、消息等机制，能对分布式常用技术进行合理应用，解决实际架构问题；精通Springboot，熟悉spring-cloud，docker等微服务、容器技术，有实际工作经验者优先；\nSpringcloud要实际操作过，有使用springcloud的项目经验\n4. 有大型业务系统的架构设计和实施能力，对系统和业务抽象有丰富经验，熟悉大流量、高并发、高性能的设计及应用；\n5、有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感；\n6、技术视野开阔，学习和抗压能力好，具备良好的沟通和组织协调能力；\n7、独立负责过大型项目开发者，或有大型项目重构经验者优先。",
+      "encryptAddressId": "54acb78ab0b46e241XF_2t64Fls~",
+      "address": "杭州西湖区杭州云计算产业园",
+      "longitude": 120.08407,
+      "latitude": 30.13419,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4ef3e10af1dbeaa97fc15d09be5a378",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dc51ebfa8a811fa6f377add13c2dc01",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210817/b55db21036f9c2d82a3784916dfc9989086c00b66f16b3f03c42cc4803f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "翰迪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6a1caeef258c3a991HNz3Nm7GA~~",
+      "brandName": "翰迪",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127125051,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "翰迪",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

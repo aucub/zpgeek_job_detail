@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "P81XtA5Zpt2kc-O1vr21B_mW05f0T8T-F2UuXbild4F3J6ZcggMEiZz6gDkN2zFC9Y6GVjPZtrNuhZcWdNe6Kff8CTjQZkutP8CWwfmPinEEi1IHmryx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2ce62b81d61dd45e1HBz39y6FFRW",
+      "encryptUserId": "89fa5d1ee3f977e51nR40tu6E1VV",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师-SJKX",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、基于python,java等产品或项目的主要功能模块的设计开发、算法模块的设计开发；\n2、基于ETL工具的数据采集、加工、标注、质量稽核、降噪任务的设计实施；\n3、自然语言加工分析处理，行业知识库或知识图谱的开发设计开发，以及大模型RAG相关技术研究开发；\n任职资格：\n1. 本科及以上学历，计算机相关专业，2年以上Java或者python开发经验，熟练使用Linux；\n2. 熟悉掌握Flink、Spark等流计算、实时计算引擎，Kafka、MQ消息服务器，并且掌握多个相关开源架构，熟悉hadoop大数据开发能力优先，能够熟练使用ETL工具优先。\n3. 熟悉基于微服务架构的应用开发，能够掌握Spring boot等软件的使用，具有实际项目开发经验，熟悉vnpy框架优先。\n4、能够熟练应用大模型解决实际问题如GPT，熟悉大模型的基本原理和功能。熟悉lora、sft模型微调训练技术、RAG相关技术框架、熟悉主流向量库和知识图谱工具，有实际工作经验优先；\n5. 具有良好的团队精神，能积极主动沟通、具有较强的学习能力。",
+      "encryptAddressId": "a0efa8bc719544e70HZ53dy0FVZWxY-7UPs~",
+      "address": "宁波上海交通大学宁波人工智能研究院甬水桥科创中心1号楼B区",
+      "longitude": 121.532383,
+      "latitude": 29.856762,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf3acff6ea768c4e6de243169e34fd0a7d6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf53e860e650ef228b741dabff63016b066bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "Spark",
+        "机器学习经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "上海交通大学宁波...",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f1c6085f4be1766c1XR92Ni0Elc~",
+      "brandName": "上海交通大学宁波...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101301,
+      "industryName": "政府/公共事业",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "有无线网",
+        "团建聚餐",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1718184761574,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海交通大学宁波...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KM5n8C4f8fBIt-j1xlFV2qrB0bgRC457yq1cdoTBHsfk7A2vxUb5RB5oQGMwUgrVTMoig8Nq0UbFNe9kPM6Imz-pLVDjwOQPgYSCtrNFpbAe4YoRDtgQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "86e15fa92d4af2c61HF709W0EFNR",
+      "encryptUserId": "480052acde3054ee1nV839y_FVZW",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "我们正在寻找对编程充满热情的你，加入我们的研发团队。如果你渴望在真实项目中迅速成长，探索前沿技术，并与一群志趣相投的伙伴们共同进步，那么你就是我们要找的人！\n\n我们期待你具备以下特质：\n\n- 技术热情：拥有一个活跃的GitHub账户（或其他代码托管平台），能够展示你的编程技能和项目经验。\n- 实践成果：无论是参与过的项目还是发表的技术文章，我们都期待看到你在技术探索和实践方面的成果。\n- Java基础扎实：熟悉Java语言，掌握Spring Boot等开发框架和工具，能够解决实际问题。\n- 算法能力：具备坚实的数据结构和算法基础，能够为复杂问题设计有效的解决方案。\n\n以下是一些加分项，能让你在众多候选人中脱颖而出：\n\n- 多语言能力：掌握Python、Golang等其他编程语言，显示你的技术多样性和学习潜力。\n- 前端知识：了解Vue、React等前端技术，增强你在全栈开发中的协作能力。\n- 工具熟练度：熟练使用Linux、Docker等工具，提高开发效率，为团队贡献力量。\n\n你将有机会参与以下项目：\n\n- 自有产品研发：加入我们，参与公司核心产品的开发，从零到一构建创新解决方案。\n- ETL工具研发：负责开发高效的ETL工具，提升数据处理能力。\n- 云平台建设：参与构建云服务平台，优化服务交付流程。\n- Kubernetes流程自动化：共同改进k8s流程，提高系统的稳定性和效率。\n- CI/CD流程优化：参与持续集成和持续部署的优化工作，确保软件的质量和快速发布。\n- 监控系统开发：开发监控服务，确保系统的稳定运行。\n- DevOps工具创新：加入DevOps工具的研发，推动流程的持续优化。\n\n我们提供的不仅仅是一个职位，更是一段充满挑战和成长的职业旅程。\n如果你渴望挑战自我，愿意在技术的道路上不断探索和前进，那么请不要犹豫，向我们展示你的才华！",
+      "encryptAddressId": "f6e4312f11a109b133V52dS5GVc~",
+      "address": "成都双流区德商天镜1302",
+      "longitude": 104.082299,
+      "latitude": 30.524735,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7986c5684eb40fd304bdf6d64a4d2714",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dabe35f9be3ec2b5666778e29beb1383",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Golang",
+        "Python",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邓女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230223/607f1f3d68754fd0605020b8b489d92002533a94fb208697b878b79d1315c21646cc5db2edd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "数智起源",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cc56d4c333f11c611XV-2dS_E1M~",
+      "brandName": "数智起源",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221105/7b5b554d84f9729c0dcc880e3196fb98d40d7b42a4793b61ea09f760c48c8426c06055f3a0187395.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100402,
+      "industryName": "医疗服务",
+      "introduce": "数智起源（成都）科技有限公司成立于2021年，总部位于成都市，致力于成为数智化医院、数智化医保、数智化健康管理解决方案创新者。\n  秉承“数智共生，共创未来”的发展理念，公司不断深化医疗行业数字化、智能化创新应用，目前已拥有20项自主知识产权软件产品，产品涵盖“数智病案”，“数智医保”，“新一代HIS”等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "绩效奖金",
+        "底薪加提成",
+        "法定节假日三薪",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "团建聚餐",
+        "有无线网",
+        "免费工装",
+        "节日福利",
+        "生日福利"
+      ],
+      "activeTime": 1719574125396,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数智起源",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

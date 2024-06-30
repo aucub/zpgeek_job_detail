@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "p1LhzayceKSmp-O1qPlpKtyucdWZea4xo2TYIndxehyGOchaB2Pxqk7uwazLERgZ66f3-IpkE5xGqTyh7hj3vIB67SZSp1-K62T0ixFpzEjnK8dGjA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d62ea56e6bc4015d1nR72d60FFdZ",
+      "encryptUserId": "013133578b1549fa33R-2dW4F1Q~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260200,
+      "locationName": "遵义",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制大专及以上学历，计算机相关专业优先，有3年以上技术研发相关工作经验，有高访问量，高负载网站系统开发经验者优先；有敏捷开发实践/持续集成经验者优先；\n2、JAVA基础扎实，理解NIO、多线程、集合等基础框架，熟悉JVM，熟悉JAVA各种常用类库；\n3、熟悉常用的Java开源框架(SpringBoot、SpringMVC、Mybatis、Mybatis-Plus等);\n4、熟悉常用项目管理工具maven、git;熟悉Redis缓存、Nginx、kafka;\n5、掌握Linux操作系统的基本命令和MySQL;对SQL优化有一定的经验;\n6、熟悉前端技术，有前端技术框架使用经验优先;\n7、具备良好的分析解决能力，能独立承担系统的开发工作。\n8、具备良好的团队协作和沟通能力，心态积极，能接受必要的加班安排。",
+      "encryptAddressId": "fb53eb81909db3711HF529m8FlY~",
+      "address": "遵义红花岗区南岭山水南岭山水一单元301",
+      "longitude": 106.895637,
+      "latitude": 27.647036,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02fe03b7140488487163ff2482b33300",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17e4c28dc9a05145deaf98570798eb06",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "服务器配置",
+        "负载均衡技术",
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191102/127872aa3cdf1ae32852ebdd382b5b883a52e58d633a98cf881390c5e5d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "辉搏教育集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "87c533221b7b4b900H1-0tq_FA~~",
+      "brandName": "辉搏教育集团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200420/35648b2ee16049da55157e35e5659ac6774f4143d6246dca0d74c9ba42a03dd0.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100304,
+      "industryName": "学术/科研",
+      "introduce": "辉搏教育集团，于2015年成立，经过下属子公司在2006年开始在教育领域14年的资源整合及探索发展，多次荣获省、市、州教育行政主管部门授予“先进组织单位”、“突出贡献奖”等荣誉表彰。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1717058811563,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辉搏教育集团",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

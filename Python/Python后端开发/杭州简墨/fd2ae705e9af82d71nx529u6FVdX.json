@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zYasJOZ90O08y-x1-Tk8DDMl2kWEz5etQdBpy5P1KKCOkg1ZOL-E2ndFePG3Nv9yqH9q7HX027mzNgIDVHnQA51buyB14zSY4jYkT_HJZDsVVNWfHub631ObcMQikQnTq3m01jvDXgMyNw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fd2ae705e9af82d71nx529u6FVdX",
+      "encryptUserId": "64614fcf6aadef1f0nZ93tS4FVdZ",
+      "invalidStatus": false,
+      "jobName": "Python后端开发",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n负责公司业务系统开发、优化和维护；\n参与产品的技术评估、数据库设计等后端技术架构方案设计\n\n任职要求：\n1. 一年以上互联网成熟产品研发经历，其中具备一年以上 Python 实际开发经验；\n2. 熟悉 Python 和主流后端架构（Django、Flask等主流框架），有设计、实现、优化高可用 web 服务的经验;\n3. 熟悉 Redis、MySQL、Mongodb、ES 等一种或多种数据库，有海量数据架构和开发经验优先;\n4. 了解 Python 多线程、多进程、协程，熟悉 Celery 实现异步、定时、周期任务；\n5. 有一定的前端编码能力，了解 vue 项目开发优先;\n6. 具备良好的编码习惯及开发文档书写习惯；\n7. 思路清晰、善于思考、能独立分析和解决问题。",
+      "encryptAddressId": "2ea2ec6e8770e1d11nZ93N-7EA~~",
+      "address": "杭州滨江区云狐科技园7号楼1313",
+      "longitude": 120.193611,
+      "latitude": 30.188433,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bee44dc8f29426787fdaa194ffa0bf97",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10237321cda95d78aa4a57102bdc9c84",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多进程",
+        "多线程",
+        "Django",
+        "Flask",
+        "NoSQL",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "代女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州简墨",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4d3853e5db9190001nF809y9ElI~",
+      "brandName": "杭州简墨",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240307/7bf6f160950405e98f30b33018b8fbf9872dbc8d393093c82518db24853ae5b5748189079190ad14.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "内卷卷不出未来，\n蛰伏等来的也不一定是希望，\n如果你喜欢海贼王，千万不要错过我们，公司🧍‍🧍‍各个角落充满了海贼元素\n如果你喜欢宠物但条件有限，我们有常驻民边牧、泰迪、柴犬等，上班可撸哦\n也可以让你的毛孩子陪你一起加入我们这个大家庭。\n\n最重要的是我们是技术导向型的新媒体营销公司，公司的核心领导层由资深互联网大咖组成，\n并始终坚持以技术驱动，营销为核心。\n期待各位精英加入。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1716709134609,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州简墨",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

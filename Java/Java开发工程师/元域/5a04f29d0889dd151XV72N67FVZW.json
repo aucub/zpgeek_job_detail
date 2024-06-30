@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jFBSiM8SM4svp-y1aYBijj0bNmMAbzLHJTgjJviNmWqiIM95b3Q4DlrLhBNldeA8N5_r0eKpBxVjvFM3kRg8mUqXmnfcpN7Ffqp4dRYAr29eFBmpCpJ3KkvtxB-ufzB5TwFNTxh3Hxaq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a04f29d0889dd151XV72N67FVZW",
+      "encryptUserId": "aac5c1dfcdb4098e03Z93924Elo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责公司项目的平台开发和维护，包括需求开发，性能调优等。\n2.根据计划任务安排，完成系统设计，代码实现，功能自测，交付高质量项目\n3.负责解决开发过程中的技术问题，持续优化技术方案，并推进落地。\n岗位要求：\n1.本科及以上学历，Java后端开发有两年以上经验\n2.熟悉主流应用服务架构体系、缓存及常见中间件技术，如nginx、redis、kafka、tomcat等。\n3.精通Java的基础技术体系，包括JVM、类装载、线程、并发、IO资源管理、网络等\n4.熟悉主流开发框架，深入理解微服务架构，熟练使用springboot、kafka、redis等开源框架并有丰富的实际开发经验\n5.参与区块链技术开发，包括共识算法、智能合约、权限管理等开发经验优先\n6.有良好的编程风格，注重代码质量；能独立定位、解决技术问题。",
+      "encryptAddressId": "4e69da85ecf3c9af0nR409S4E1E~",
+      "address": "杭州滨江区盾安发展大厦1506",
+      "longitude": 120.208683,
+      "latitude": 30.209891,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/204785283595f9fe8f17b8fc7959f0c0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0c1a4e027c8362337c61dd5342b5ad8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringBoot",
+        "SpringMVC",
+        "Hibernate",
+        "Eclipse",
+        "JDK",
+        "Oracle",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事/行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "元域",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02d875db3a272b731XR43tu0GVY~",
+      "brandName": "元域",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "生日福利"
+      ],
+      "activeTime": 1717127372937,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "元域",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

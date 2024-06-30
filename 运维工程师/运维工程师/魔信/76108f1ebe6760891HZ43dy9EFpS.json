@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5zai7xNMK6mfu-z1fNRCtiJxMpz5Bd6XA-2NXtGvZBK6Jb572TITzDFvbrHhDVEVP8ZrBFGNOfxZ3p9ckHf_3VulDKPKOs0sNHE-CdJFkOPBzrqnuQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76108f1ebe6760891HZ43dy9EFpS",
+      "encryptUserId": "4abc88fc9c3f1eed0XZ439W9EFU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责本公司项目的实施、售后及客户支持。\n2、负责给客户服务器上安装本公司自主研发的产品：安装、部署、配置、维护。\n3、负责日常的系统运营监控及维护\n4、负责日常系统的测试\n\n任职要求：\n1、本科及以上学历，计算机、通信等相关专业，学信网可查；\n2、熟悉linux系统操作，可进行安装、调测和管理操作系统，熟练使用linux命令，具备对debian等系统的维护经验；\n3、熟悉shell、python或perl等编程语言，可以进行以系统维护、数据统计分析为目的的基本程序编写；\n4、熟悉数据库原理，对mysql数据库具备维护经验；\n5、具备网络知识，了解基础网络架构，可配置交换机、路由器和防火墙等主流网络设备；\n6、具有良好的沟通和协调能力，善于表达，逻辑清晰；\n7、能承受一定的工作压力，可长期稳定工作；",
+      "encryptAddressId": "ac48683bbdc2c2551nV429m1GFJX",
+      "address": "北京恋日国际B20",
+      "longitude": 116.464833,
+      "latitude": 39.905423,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bfd7c875625399cb7e0ee728f38747b4ee6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf5a5b101404cd349eb50b206894702b1b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "实施交付运维",
+        "Python/Shell",
+        "Java",
+        "Nginx"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "魔信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5fb2c4122ec0f55803B62dW-GQ~~",
+      "brandName": "魔信",
+      "logo": null,
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "全勤奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719585867581,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "魔信",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ImHIybGvih5aZ-C1oIBHsq_LU24bFps6qeMHzZzdZmWK8IzCMD-K86uvEMpGmpY8N-up8dk0qojAYwQgpoSPtXpItv5vQkAZAw2qJXJfo6uTMrHXHw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9895f410034426e31nx92dm8FVc~",
+      "encryptUserId": "75806ee3584cc0cc1HJ80tW8FlI~",
+      "invalidStatus": false,
+      "jobName": "web后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、 扎实的java基础；熟悉掌握linux命令，熟练使用netty框架者优先\r\n2、精通tcp/ip，http等常见协议编程，对通讯协议进行封装并优化；\r\n3、 精通JSP、Servlet、JavaScript等WEB开发技术\r\n4、 熟悉Springmvc、Hibernate、nutz等后台开源框架以及jQuery、easyUIs等前端框架；\r\n5、 熟悉数据库设计、掌握oracle、mysql等主流数据库,具有存储过程开发、SQL性能调优的能力；\r\n6、 熟悉单元测试体系(如JNunit)，掌握部署工具(Ant，Maven)；\r\n7、 熟悉tomcat等容器；\r\n8、掌握多线程、socket通信、thrift；",
+      "encryptAddressId": "8d79f51d450793960HN72Nu0Eg~~",
+      "address": "南京同进大厦三单元三楼",
+      "longitude": 118.716029,
+      "latitude": 32.000509,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/637064f87c90c1b9d681193079091f78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f21f57677f8da24831e39b4df5877ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        ".NET",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180328/25858d1b284dd8dd5124c1f1d09a4727cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京流火互娱软件科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "94df150d9af106641nx539i4FVA~",
+      "brandName": "南京流火互娱软件科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716725581863,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京流火互娱软件科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

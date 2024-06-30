@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ockvvcCQ21cAw-R1bJv0jjF8PTHBa7-Y-fu0gSd5PPuLl8kRV786D786ukw_D39yfd52BKD1Rqxp-0_F0QBXJGkiDuW5mHkeT-aUTmSUzPVWsGDE2E4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1c7da43d5d7c833e1nJ42tW8FVtZ",
+      "encryptUserId": "4c45634c462a6c9903d92d2_FVc~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1.参与软件系统的开发以及解决开发过程中遇到的技术问题。\n2.按时完成项目经理安排的特点任务，并遇到问题能够及时反馈沟通。\n3.具备一定的沟通能力，需跟客户沟通部分业务模块。\n任职要求：\n1.1年以上Java开发工作经验；\n2.熟练使用SpringMvc、SpringBoot、SpringCloud、Mybatis、MySQL等框架进行项目开发；\n3.熟悉redis、消息中间件、ajax、tomcat等的使用；\n4.熟悉前端基础代码vue、css、html、js等；\n5.熟悉linux环境，熟练使用idea、maven、git等开发工具；\n6.具有良好良好的沟通能力和文档撰写能力；\n7.全日制大专及以上学历，一周内可到岗。",
+      "encryptAddressId": "bca8d74e4eeaac02331y09i8EVM~",
+      "address": "北京昌平区北清路1号院珠江摩尔国际大厦8号楼",
+      "longitude": 116.288762,
+      "latitude": 40.09829,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29340a8897c39dd35d72a3a51b9d191d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e89dfe246c425c5b73f6cb9b5b164db",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "多线程",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "利他互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "68294da0df49fb931nFz3N-4FVI~",
+      "brandName": "利他互联",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210425/71a05697ba6fe3a4143a93f326c2db9a6c3e2cd8d6727d8462f5b2abbeae7d4a_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "利他互联科技是一家互联网+与互联网品牌建设的软件高科技公司，以计算应用研究及软件产品开发为主营业务。公司始终秉承\"以利他为指导思想，以用户价值为核心\"之理念，专注于互联网+研发及相关服务的提供，以先进的理念、优秀的产品和专业的服务，引领中国新型产业互联网+的发展方向。\n         LITACLOUD微服务快速开发平台是公司核心平台，基于JavaEE、SpringCloud技术的企业级微服务平台，以其安全稳定、强大易用、高效专业等优势赢得了用户的广泛好评。为大、中、小企业提供一个安全、高效、强大的应用解决方案，协助用户快速构建、部署和管理其互联网+行业一体化平台，拓展企业销售渠道，突显商业价值，致力于推动企业的发展而不断努力。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1717070218349,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "利他互联",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iy1Vr1fnh3f73-q11duJhiS4FZeMWWCniu3mek5j7qlrUWzm1q74u8MnQqNxBUS5KKQZ7zy2t5fRUBgTqozo4pYuG0iMvPm0sHuLagxibomKbquMK-wP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e692a150adf7c7851HF409i7F1FZ",
+      "encryptUserId": "356ede9d25d708700nZy3d21FVRZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、精通JAVA编程，具备扎实的基础知识；熟练SpringBoot开发框架;\n2、掌握常用微服务框架，熟练常用微服务组件，包括springcloud 、nacos、dubbo等\n2、熟练常用的数据库，包括：MySQL、mongoDB，掌握MyCat组件\n3、熟练Redis缓存数据库；\n4、熟悉linux系统基本操作命令；\n5、至少熟练一种消息中间件（Kafka\\RocketMQ）,熟悉分布式系统的基本知识；\n6、做事认真，工作态度踏实，代码风格严谨，良好的团队沟通及协作能力；",
+      "encryptAddressId": "e98c9d8cfdfd14720n153tS7FVVSw4y5Vf8~",
+      "address": "杭州滨江区互联网营销服务创新基地1",
+      "longitude": 120.209795,
+      "latitude": 30.189869,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b36524c801e265c49576e16147bcf79c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe67e7816cb01e310fc83c3a1779db16",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "Java开发经验",
+        "计算机/软件工程相关经验",
+        "微服务框架",
+        "电网信息化",
+        "可兼职"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "秦女士",
+      "title": "人事助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230117/607f1f3d68754fd07c5c6da91935303d3dc114ba90a07a6636bf1151157068a013d6251b062_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南京股万",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a8dd743932c53d311HZ839-0F1s~",
+      "brandName": "南京股万",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719304725761,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京股万",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

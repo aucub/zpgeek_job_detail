@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1YrTyvloGkoss-j1qQyoyOjRBHcngzVlbPO4_GnxrKkDEiR5BYjVplkqni-9rWT3gXW3VBEs1ED8HgAqvo9uIgK8UXrlGJ5DFqwtOVxNpaowaHQnjZGjspRh2qYmmB8RIDJ11ze-b0HNlQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a6828d383fd11d581Xdz2Nq1EldX",
+      "encryptUserId": "321fdd875e05f2e60nF53Ni0EFpT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述:\n1、参与项目需求分析、系统设计。\n2、根据公司技术文档规范编写相应的文档。\n3、根据项目开发进度和任务分配，按照详细设计文档进行开发。\n\n\n任职要求：\n1、1-3年JAVA开发经验。\n2、熟练掌握Spring、SpringMVC、MyBatis、Shiro等主流框架。\n3、精通html,css,javascript,熟悉bootstrap、jquery等web前端框架，了解前端组件化开发。\n4、熟练使用SQL Server、MySQL等关系型数据库，能够独立设计并编写高效的SQL语句。\n5、熟悉Gradle/Maven、Git、Junit等工具。\n6、对缓存、NoSQL、消息中间件、RPC框架等有一定的了解，熟悉RESTFUL编码风格，并能够熟练使用。\n7、熟练掌握Native Android开发经验者优先。\n8、有Docker、Kubernetes、SpringCloud、ELK 使用和开发经验者优先。\n9、熟悉软件设计流程和软件工程规范，具备良好而规范的设计和技术文档编写能力。\n10、具备强烈的进取心、责任心、求知欲以及良好的团队合作精神。",
+      "encryptAddressId": "6ba47bf46c03fa100XN42tm5F1M~",
+      "address": "苏州吴中区启迪人工智能产业园东区33幢",
+      "longitude": 120.730434,
+      "latitude": 31.359848,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/172b96331d8e15f220058c48c3986b85",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d58636cb4bbab70bea4b270eab86033",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "综合管理部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220804/607f1f3d68754fd0c39b449104db35640aad42010516ef27c0a2d3a8701ba0c389897103dff_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "苏州中傲智能科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0eed71914a7ba7e71XZ40t65GVQ~",
+      "brandName": "苏州中傲智能科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718899121000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州中傲智能科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

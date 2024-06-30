@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3I5A4hhVRcElY-p1UclLzyQ64h5LfMu3Ec9eDIhin98QWyeyrINKW_mF862vU3xJYM2sfvjKONh8tIwQI_14VzbNB834bRgEgNiA95UB1tFwm5sLdw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d30335ce3e1be101nx729u6EFdZ",
+      "encryptUserId": "3bc7d89e42352c0833Bz2du5E1Y~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练使用html5、 JavaScript、ajax等技术；\n2.掌握javaSE、JjavaEE、springboot等编程技术；\n3.熟悉mysql、redis等数据库；",
+      "encryptAddressId": "cefb9703eca2fcea33Nz2NS6GFI~",
+      "address": "青岛市南区海洋科技孵化器2楼C205",
+      "longitude": 120.380308,
+      "latitude": 36.075817,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a54fd0764d5759af9c4f9ec7c237eb9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ddc6e43cadbab73eac837356a8b4341a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "综合管理部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "有你我",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b3bb9c3043a1942c0X1z2N28Ew~~",
+      "brandName": "有你我",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "零食下午茶",
+        "交通补助",
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1719218945977,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "有你我",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

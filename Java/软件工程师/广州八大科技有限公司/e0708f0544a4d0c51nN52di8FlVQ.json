@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6lJpXwqQ-b-4W-m14MV0WkPaeL5q-COh3K0wr4wcZ_z-_086_CzgbslIkDKpWw7K-594CjjkfXw0KKj5mWwLcpUiun6wx4vDQ5ldfV3xaSIYiTP-03qt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e0708f0544a4d0c51nN52di8FlVQ",
+      "encryptUserId": "db36b2a9b6a0e4cb0nZ50ti0FlVU",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "1.LIMS系统开发；\n2.有实验室信息系统开发工作经验，熟悉检测流程；\n3.熟悉java/.net/c#等其中一种开发语言；\n4.熟悉sql等主流数据库，具有数据库开发能力；\n5.具有强烈的求知欲望和责任心，良好的沟通能力和团队协作精神；\n6.具有LIMS，实验室软件，ERP系统开发经验优先。",
+      "encryptAddressId": "af6a5946aa9a447a33F60969GVo~",
+      "address": "广州黄埔区盛特大厦B座317",
+      "longitude": 113.457069,
+      "latitude": 23.174264,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78edb326e94a1f6d3240110ee41168a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63239783eeabfb3b4819d990ce25851f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "软件工程师",
+        "VisualStudio",
+        "SQLServer",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "漆先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210323/f5d8399b6c88ab24b84be7c55b0cff5325dcdf500ee5b39d18cc2c89658_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "广州八大科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a437295d10525c041nF63Ny1E1A~",
+      "brandName": "广州八大科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210701/81c41118f2249f5c064da46a2efd5d6125dcdf500ee5b39d18cc2c89658b1b18.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "广州八大科技有限公司是一家专业物联网解决方案商，致力于为企业提供物联网软硬件开发服务。",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719647637785,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州八大科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": {
+      "onlyAccept": false,
+      "detailInfos": [
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/9db3de8ea9a1853ab1a00ba4746690019baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/db428f8b77002963e999b6b80671c5fb9baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "听力残疾",
+          "content": "该职位支持三级及四级障碍人群及以下"
+        },
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/7d75d5c87418f7bf85030d6c28dd26d89baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/53f07ee2b4c7100228b868c382f5b8e19baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "肢体残疾",
+          "content": "该职位支持下肢残疾"
+        },
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/25dce14fbb56fcb6146d05b42ed4ce419baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/b67ef4054dcf4305f41c2b5c8ae45bda9baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "视力残疾",
+          "content": "该职位支持三级及四级障碍人群及以下"
+        }
+      ]
+    },
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

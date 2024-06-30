@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "J6tXUcptXbHNl-r1dnuWN9EULRKXd43meoFVlmlAxeJAvNGLRRxhmIbxYlUUwSqLwcoNWtt2-CM12DgXQKuqWSS71DhHmYSzIg5WrRzrEgcLGilh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7f614e8b96fdaa2d0nB429S4FlY~",
+      "encryptUserId": "5c268afd420ac7080HB53Nq5FVA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n\r\n1. 参与Java项目、电力、能源，监控云平台系统的开发及维护工作；\r\n\r\n2. 解决系统运行中出现的问题缺陷，及时修正，对系统用户提供一定技术支持；\r\n\r\n任职要求：\r\n\r\n1、精通JAVA语言，熟练使用编程工具Eclipse,JBuider或MyEclipse;\r\n\r\n2、熟悉HTML, CSS, JavaScript。有Web前台开发经验，对JavaScript前台开发有深入理解。；\r\n\r\n3、熟悉J2EE相关技术，熟练掌握Spring、Struts、Hibernate、Ibatis、MyBatis相关技术；\r\n\r\n4、有抽象设计能力，熟悉代码重构，能够用面向对象原则组织代码，熟悉mvc等N层开发模式；\r\n\r\n5、精通J2EE架构，熟悉基于J2EE架构的多层软件开发模式；\r\n\r\n6、精通SQL，熟悉Oracle/Mysql关系数据库；\r\n\r\n7、熟练使用和配置一种或一种以上的主流应用服务器（WebLogic, JBOSS,Tomcat)；\r\n\r\n8、有物联网项目经验者优先。2年以上工作经验；\r\n\r\n9、有大数据项目经验者优先。",
+      "encryptAddressId": "d2ea05df1204e9ea1nFy3967E1s~",
+      "address": "武汉洪山区慧谷时空8层06",
+      "longitude": 114.432062,
+      "latitude": 30.505055,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7499584ecdb4aac7451a5a39eb96fe38",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b381f99f030e434f8ae05b697bc0d9c9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JS",
+        "Node.js"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "舜通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "28190002f40c370e1HJy0t-4Ew~~",
+      "brandName": "舜通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/c8d4663cf9e344fa999d54058743f2f8e3b38c9b09b25e243ec119c6fadc914d.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "武汉舜通智能科技有限公司的主要产品为QTouch组态软件，smartDAQ通讯管理机，舜通云平台。致力于为电力，能源，监控等行业提供完整的解决方案。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "宿舍提供"
+      ],
+      "activeTime": 1717103898106,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "舜通",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

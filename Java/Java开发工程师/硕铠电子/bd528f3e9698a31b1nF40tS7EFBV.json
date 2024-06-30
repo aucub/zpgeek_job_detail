@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yfQ0uzYsAJOd--_13TRLEYaTCK-nx3ysAF36DAP52ZgdhBN3kra4_gHDEsfH7II2eTmtUBT_DtOzs0AcYC-F9rQ7Ickiop0vZWQO2AUOGpoKQuWwY1A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd528f3e9698a31b1nF40tS7EFBV",
+      "encryptUserId": "3918dad3e83d116e1HZ-29q7FlA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责后端服务系统分析和设计工作，承担核心代码编写；\n2、负责系统性能与逻辑的优化、系统功能的改造和升级；\n3、负责重大项目的设计和编码，攻关技术难题；\n4、负责查询和解决生产疑难问题，并持续迭代优化系统。\n\n岗位要求:\n1、精通Spring框架，熟练掌握SpringMVC、SpringBoot、Mybaits、Redis等,精通dubbo微服务框架；\n2、精通J2EE体系架构，熟练掌握常用设计模式和主流设计工具，具有Java框架自主设计能力，能承担核心模块和核心功能开发，能根据既定产品和项目的特性进行技术架构设计；；\n3、熟悉JSP/Servelet/HTML/CSS，精通JavaScript、Ajax、Jquery等前端技术；\n4、熟悉Oracle、MySQL、Gbase等数据库，精通数据库优化，SQL调优技术；\n5、熟悉分布式服务器系统架构技术，以及负载均衡服务的部署；\n6、熟练Linux的常用命令及脚本编写；\n7、熟悉常用的项目构建工具及版本管理工具，如Maven、git、SVN等；\n8、有强烈的责任心和团队精神，心态积极正向，善于沟通、推进、合作，可以提升团队技术影响力。有出行项目开发经验者优先。",
+      "encryptAddressId": "edfc5dc9b67e7fa003dy3Nm5FFs~",
+      "address": "长沙雨花区汇财中心1909",
+      "longitude": 112.997248,
+      "latitude": 28.175634,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59eb07f9880565ebd29d27575813caba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8469183ebe5b6c8bb6a5e2bf57984fde",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Spring",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231017/607f1f3d68754fd0c2d45a9d7ecf7e1ec2a703bd54bb3b38495fa7e3c7b502d6f79b0ae0caeb3e2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "硕铠电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "71115e3e5e70cf1b1nF83ty6FFo~",
+      "brandName": "硕铠电子",
+      "logo": "https://c-res.zhipin.com/jrs/3d68e428a4dbaee6258a1641aa718ca3.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "  长沙硕铠电子科技有限公司运用高新技术，经过多年反复实验和不断改进，成功研制出GTW车辆智能管理系统，构建集行车安全、车辆管理于一体的新型智能应用系统。该项目已获得40多项国家发明及实用新型专利授权。",
+      "labels": [
+        "年终奖",
+        "餐补",
+        "包吃",
+        "购买五险"
+      ],
+      "activeTime": 1717105704886,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "硕铠电子",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WVgBMsfe4LJgM-v15FfH2aTCXN8Dr_EVRxuHSPI8HqGKrS0FIZhdzV7Iaf4QPHQWqICCbiRhRrcHptBRZZ6CoJQEuHwWJxbG-zXHH6eSvhmYvw8cIjJoTvByO3j4OQT6YsZh2KZvrTAvQQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd4da251c05b39961nR53t65FlpR",
+      "encryptUserId": "415664c14130ebcd0nR52t25FVVU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120700,
+      "locationName": "济宁",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1、负责系统的需求分析、详细设计，编写相关技术方案；\n2、负责代码实现、开发文档编写，与团队协作完成项目开发任务；\n3、对各种前瞻技术和新型应用的技术预研；\n4、分析并解决软件开发过程中的问题；\n5、负责公司基础架构搭建；\n二、任职要求:\n1、2年以上java web项目开发经验；\n2、熟练使用Eclipse、IntelliJ等Java常用开发工具；\n3、熟练使用Tomcat服务器；\n4、熟悉使用MySQL、Oracle数据库；\n5、熟悉SSM开源框架，并熟练运用MVC设计模式；\n6、熟悉JS、Jquery、HTML、XML、Json、Ajax、jsp、Vue等前台页面技术；\n7、熟悉使用Git、svn, Maven等项目管理工具；\n8、深入理解面向对象思想，喜欢抽象与封装。\n9、熟悉linux环境",
+      "encryptAddressId": "a26c20f99e1133ec1XV409-_EFo~",
+      "address": "济宁任城区亿维大厦0",
+      "longitude": 116.589648,
+      "latitude": 35.421665,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a4d5fff6eeef157f88194e62f43e9da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6768bffb979878a1e28c8a2e9af36b3e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SSM",
+        "Spring",
+        "全栈开发",
+        "WEB开发",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "软件开发部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "亿维公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "778f283674dc36671nV92Nm5EFM~",
+      "brandName": "亿维公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200909/396a9c3968d3c0bd68761cab4802b825e3a16bf7d441b6de93345cd66a28171b.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "亿维成立于1992年，致力于为消费客户、中小企业、行业大客户，提供智能产品、信息化解决方案及专业服务。集团拥有近百家智能产品厂家授权体验店，百余名软件开发工程师，千余名员工为客户提供专业的优质服务。集团控股公司业务年收入超25亿元。“亿维”品牌分别荣获山东省著名商标和山东省服务名牌。亿维数码广场连续多年入选中国IT零售商十强，排名山东第一。\n在长期发展过程中，亿维形成了优秀的企业文化，即追求卓越的事业精神，认真诚信的工作态度，学习创新的工作方法，共同成长的团队理念。塑造“诚信有价值”的品牌内涵，打造“专业发展、服务制胜”的竞争优势，以专业服务帮助客户成功，实现企业最大价值，推动社会文明进步。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1717561444000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿维公司",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

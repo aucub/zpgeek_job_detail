@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vnNf0LkBYZHTO-s1ZIeK8eW_aDZWbNwANLDXuL27TADV1T9UQt875uEciuseWzFXcJmcvdTbv0wDCfZ1InU32j6Ve2spFCqzYJ-9Yjd_jccW9TSEtcInMVUyZA_Rl3mlAW3O1EGXcmk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ba922dcb00e134521nx53tm5FVVZ",
+      "encryptUserId": "34b8361f44011d8403N60tW_GVU~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200200,
+      "locationName": "襄阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述: \n1、参与需求调研工作，配合项目经理完成需求文档、分析文档、设计文档等项目文档工作;\n2、配合项目经理完成系统逻辑模型和物理模型设计并实现原型；\n3、负责项目整体开发工作,并能够按要求、高质量地完成开发;\n4、对开发的代码和功能，编写单元测试，进行自测。\n5、负责研发环境测试平台服务部署和维护，完成服务部署文档编写。\n\n岗位要求：\n1、大专以上学历，计算机科学等相关专业，2年以上的java开发经验；\n2、熟练使用开源框架：SpringBoot、Spring MVC、MyBatis、Activiti等；\n3、熟练使用前端技术：html、css、js、jquery、easyui、Vue等；\n4、熟悉缓存中间件：redis、memcached至少一种；\n5、熟悉消息中间件：rabbitMQ,、activeMQ、kafka至少一种；\n6、熟练使用mysql、oracle等常用数据库，并能够理解数据库优化方案；\n7、熟练使用团队协作工具：svn、maven、Jenkins等；\n8、熟悉Linux、Tomcat、nginx等，具备相应的应用服务部署及优化能力；\n9、有强烈的责任心和良好的沟通能力，优秀的团队合作精神，有较强的抗压能力以及学习能力。",
+      "encryptAddressId": "e88c6f89c638588d3nFy3tu6EA~~",
+      "address": "襄阳樊城区襄阳高新区创业服务中心C座502-2",
+      "longitude": 112.131904,
+      "latitude": 32.07762,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a50e1d8687b092cb9c5d960d9ed609e8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23882467ed6e6d566d28fe59c0dd6815",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "企业级应用开发",
+        "JDK",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "技术部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "诚佰网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63751ed3fb793a9c1n143NS7GQ~~",
+      "brandName": "诚佰网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180517/d20556e3b17091fed83afc2dde264cd1df487193b822929127ce331d4d09a753.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "湖北诚佰网络科技有限公司集中多年的软件经验针对不同行业、不同规模企业对信息化的需求，提供全面的信息化解决方案，并自行已开发完成的产品有化工行业的打单系统，报价系统，行政事业单位的工程项目管理系统，制造行业的生产排产及条码管理系统(获得了中国国家版权局计算机软件著作证书)，公司均有一系列软件解决方案来满足客户个性化的产品。",
+      "labels": [],
+      "activeTime": 1719023401000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "诚佰网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

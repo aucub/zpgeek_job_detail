@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cCjiJ67lbZpro-i1069cg8Og5Y9vQMG5b6FgIzleipZSKYNX151iqTQAe30RFFw6EauiH64ckb9TYZ3NheD8NDp4cIesF-5MOEshvRhIne0AUCO-G1s~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ebbe82d43d111831nF839y4FVdV",
+      "encryptUserId": "13f89eddcd79a3150Xd42dq8EVI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科以上学历，计算机软件及相关专业。\n2、精通Java语言，有良好的编码习惯。\n3、熟练使用javaEE开发所用的框架，如Springmvc、Springboot、Springcloud、Mybatis、Zookeeper、Dubbo等，并且对其核心底层，实现原理有一定认知。\n4、对主流关系型数据库mysql、Oracle等有较丰富的使用经验，能够完成业务所需的sql语句。\n5、熟悉git、SVN等版本控制器。\n6、有前段框架开发经验者可加分。\n\n工作职责：\n1. 深度参与核心功能的设计、开发、测试、上线全过程，以及线上数据分析、功能迭代优化、疑难问题解决过程。\n2. 理解和掌握各系统的常用架构设计、性能优化、高可用保障理念，并能灵活运用于各系统的优化。\n3. 跟踪前沿技术和理念，用创新的思路方法解决业务快速增长所带来的技术挑战\n\n职位福利\n五险一金     餐补    周末双休     带薪年假    加班补助",
+      "encryptAddressId": "f92a1a474d3f292303Fz2d-8",
+      "address": "北京丰台区宝隆温泉公寓(南门)6号楼1615室",
+      "longitude": 116.294301,
+      "latitude": 39.8312,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/323b367c96d3ba389511ee14c4b9e1d4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78ae24bd1e7700e0808eb17b7117ee75",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾先生",
+      "title": "软件开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京兴远达有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b6985f623ea61d001nJy2t6-FVc~",
+      "brandName": "北京兴远达有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070299761,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京兴远达有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

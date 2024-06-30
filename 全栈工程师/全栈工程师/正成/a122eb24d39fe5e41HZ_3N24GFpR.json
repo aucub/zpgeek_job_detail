@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tL1fBvh10Wt1V-T1MXBQPsOOQOC3zUG99WNVIuUfKUkoHBtdmKvasd2LNoBCGEXc3uVHku7BV2X9Mh0ot259-GWSds3YVVyU-QEYnpUwAqZn1iDImYA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a122eb24d39fe5e41HZ_3N24GFpR",
+      "encryptUserId": "b8d9f0d5f44696420nVy3dy0F1I~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责按照项目计划和立项要求完成产品开发工作；负责产品的系统设计、调试、开发相关工作，按期完成软件交付。\n2、明确项目的技术路线，能够独立完成软件产品功能架构、数据架构与建模、集成接口、用户交互风格等设计研发工作，并针对已有的设计成果，提出优化方案。 \n3、负责业务支撑系统的系统核心功能设计及针对个性化需求的定制设计、编码，及持续迭代优化。\n职位要求：\n1、 本科及以上学历，有独立开发经验优先，独立负责前后端开发\n2、 后端编程语言 Java，有php开发经验优先\n3、 精通Spring、SpringMvc、MyBatis，SpringCloud、Springboot熟悉其他常用Java EE框架，具有微服务相关的开发经验\n4、 熟练使用UNIX/Linux平台；掌握一种或多种数据库（Oracle、MySQL），熟练掌握SQL语句，对SQL优化有相关的经验；熟悉Tomcat/docker/jenkins等应用服务器的操作\n5、 有多线程使用经验，了解JVM原理及调优\n6、 熟练使用中间件redisSQL 、消息队列mq等\n7、 熟悉移动端混合开发技术框架，如：uniapp、flutter等\n8、 熟练使用熟悉VUE.2/VUE3、echarts ，了解JS（ES6+）、CSS、HTML开发，有Ajax相关的实践经验等",
+      "encryptAddressId": "c97ee5713b5ebbfb03N50tW1ElY~",
+      "address": "天津河西区海景广场215",
+      "longitude": 117.24081,
+      "latitude": 39.095798,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b65f53fefd75d1973689e2bbcafe75a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f37086a09ef154761638cda8bbce629",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "正成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "179cc2d461b6d9861nZ63Ni7EVY~",
+      "brandName": "正成",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220107/7bf6f160950405e942edaee59ab0131759610e6e0a2b5786f89208fb46cb895192cf6c5509e3e96d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "天津正成软件科技有限公司具有自主研发的物联网大数据平台和算法技术，服务于智慧城市、智慧建筑、国防工程智能化监测、工业安全等领域。为客户提供物联网、大数据、人工智能算法和数字孪生系统服务，推动数字化新基建进程。核心成员曾参与过国内重大新基建与国防项目，具有丰富的科研和项目实施经验",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1716714701031,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "正成",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

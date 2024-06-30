@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rWOkYUohlZQPz-v1dJOZ6RftRonJfXfaidVzp0e_TGc1jNfVzjkymrGoaERiCDSVKkaqmMiXa0FLBgbsLT6pGgsyHK2xQDdkGSt5mX2uZWjrDmfkMpUFvcu9C2ifdvyXHh3DUSPSYNYmew~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2c8ce7db8facc5321nx72N-8F1ZQ",
+      "encryptUserId": "02369562c75c51640nZ62tW-EVtY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、Java基础扎实，精通IO、多线程、集合、socket等基础框架，了解JVM。\n2、数据结构和算法基础扎实。\n3、具有出色的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题。\n4、熟练使用Spring Boot, Spring MVC, JPA等常见框架，熟悉机制和原理。\n5、熟悉SQL Server或MySQL数据库, 熟练使用SQL语言, 做过SQL Tuning。\n6、有Linux系统使用经验的优先。\n7、有Shell编程经验的优先。",
+      "encryptAddressId": "a178268bb306486c03x4392_Fg~~",
+      "address": "杭州余杭区浙江海外高层次人才创新园19幢705",
+      "longitude": 120.017506,
+      "latitude": 30.280304,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/756d2466fd2191e1d6ed9298a9977920",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9be0ea648b989ef09f9a3ffa06640397",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "后端开发",
+        "SQL Server",
+        "MySQL",
+        "SpringBoot",
+        "Linux",
+        "MVC开发",
+        "服务器端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海创医疗",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0523b326e9d7b9cc1Xxz29W6ElE~",
+      "brandName": "海创医疗",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190828/af0f93deaa74d699aff2ddec8e0fb946cae96eebb0117a93a6b43b8a26d6c30d.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "海创医疗聚焦肿瘤放疗领域，专注于肿瘤放疗数字化，结合人工智能技术为肿瘤放疗科室及需要接受放射治疗的肿瘤患者提供全流程的数字化、智能化服务及解决方案。公司与顶级三甲医院保持长期产学研深度合作，先后完成了“基于大数据和人工智能的肿瘤放疗自动化系统“与“肿瘤放疗全流程数字化管理平台”的产品研发和临床应用。以此为契机，公司正式开启了变革肿瘤放疗领域，切实关怀肿瘤患者的征程。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717127088277,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海创医疗",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

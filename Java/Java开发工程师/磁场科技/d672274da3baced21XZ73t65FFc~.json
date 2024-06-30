@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uegaMsOdERNC6-81GWh1QeAtPRDmNsNiW2Eu20ZNm5SZME8Pxr_v_yfEEnjfFV_sSlPuNDZHX0f9LtopzPjF0dmA0Qrhk2j3Ab3a1fgP3tZsiLeYumz1YaRRCo4wuabuLrG7TFFl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d672274da3baced21XZ73t65FFc~",
+      "encryptUserId": "203fa58769ae3ddb1Hx_0ti8EVE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n\r\n1、负责核心App产品的后端接口的功能开发\r\n\r\n2、通过完成单元测试等自动化测试手段保证更高的可靠性\r\n\r\n3、开发符合Restful规范的API，并能优化其高并发场景下的性能\r\n\r\n4、了解产品需求和业务更迭，能针对各项业务做出快速准确的技术判断\r\n\r\n5、对服务、接口的高可用负责，打造健壮、稳定、优雅的Mobile API\r\n\r\n\r\n\r\n任职要求：\r\n\r\n1、1年及以上开发经验。\r\n\r\n2、熟悉掌握J2EE主流框架Spring MVC，mybatis等。\r\n\r\n3、有过Koa、Connect、Express、Sails等框架的开发经验，了解MVC结构和OOP设计模式，有一定的架构能力。\r\n\r\n4、对Mysql数据库有实操经验，了解DB设计和优化\r\n\r\n5、熟悉Linux平台，有一定的服务器运维经验，有过shell开发经验者优先\r\n\r\n6、对于Redis、MongoDB等一些常见NoSql数据库有使用经验或了解\r\n\r\n7、熟悉HTTP协议，熟悉Web前后端的常见知识要点",
+      "encryptAddressId": "ef2e1a97cb1ceb6e1XB43tS9EVo~",
+      "address": "杭州滨江区王道公园",
+      "longitude": 120.181075,
+      "latitude": 30.184584,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23b8bf7e801699d4c9d38cb834c356bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27f563b3abf3f45ee10a891bf0f9d20e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Javascript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180510/cf0aae7aba7988ddbb0ed7c5f484aae086703b2ef45789571f223783288_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "磁场科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3654f8ec9736423b03J429S0",
+      "brandName": "磁场科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170210/a431f2cde511ea1ab3fbe853bd185ba39e845101955be4a0b5b4a39429710eb8.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "杭州磁场科技有限公司，成立于2014年，公司业务以‘律师行业垂直OA’为主，接外包项目为辅”，是一家成长型的互联网科技公司。公司法人代表戚秋民先生2011年毕业于郑州大学，公司全体员工皆为本科以上学历，公司具有良好的办公环境，毗邻西湖景区，拥有一批长期专业从事软件开发、软件定制的专业人才，具有雄厚的技术开发实力，现诚邀广大学子加盟本团队。",
+      "labels": [],
+      "activeTime": 1717128371960,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "磁场科技",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vJLi1BtB4EpUA-m1Yl5vjBf7OoyL1QWwv1ZC_EarzmzmIXKQkPyfs4uBIjSNsD-XDMEu5ggnF8DHBEfAVpBpu-0OGV48Hl5LwfgPa5xyfKmD_t_idw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c39002f9386ee94a1nV82du7ElJR",
+      "encryptUserId": "6c508530fc753ea603F939y4FlI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210300,
+      "locationName": "嘉兴",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "我们是一家电商平台初创企业，有着独特的核心竞争力，期待有志青年一同成长。\n\n职位诱惑：维护公司核心产品，领导Nice,办公环境好，双休，项目奖金，年终奖\n职位描述:\n1、制定项目技术方案，负责项目架构设计和核心代码的编写；\n2、丰富得微服务架构经验\n3、定期进行项目分析，总结技术经验，找出存在的问题，提出改进意见和建议；\n4、负责技术文件的整理，形成功能设计文档；\n5、参与系统的技术维护工作，确保系统稳定运行，保障业务的连续性；\n6、指导团队其他成员，解决软件开发过程中遇到的技术难点；\n\n任职要求：\n1、嘉兴本地，培养核心技术人员，本科以上学历，计算机及相关专业；\n2、五年以上JAVA开发经验，熟悉JVM工作原理，有Saas开发经验者优先；\n3、熟悉主流框架SpringBoot、SpringCloud、Dubbo、Zookeeper、Redis、Kafka、Netty等，能了解到它的原理和机制；\n4、熟悉关系型数据库如：MySql、Oracle、PostgreSQL，非关系型数据库如ES 、MongoDB、HBase等，熟悉常见消息中间件如：ActiveMQ、RabbitMQ、Kafka等；\n5、注重代码性能及稳定性，掌握多线程；有高并发应用开发经验；\n6、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题；\n7、了解Docker、Kubernetes等开源软件，有基于容器的微服务架构设计经验；\n8、有较强的逻辑思维能力，善于分析、归纳、解决问题，能够独立或者带团队进行项目开发；",
+      "encryptAddressId": "bc89db570a4ba39f1nB42t-_EVVZ",
+      "address": "嘉兴南湖区网易联合创新中心A幢1706",
+      "longitude": 120.798721,
+      "latitude": 30.740189,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf7b157db48b0c5ae9211f2147ba5063086bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfd914cfd526f519caa8cac6fab7b27c496bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式技术",
+        "多线程",
+        "微服务架构",
+        "搜索引擎技术",
+        "容器技术",
+        "Spring",
+        "Dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "人事主管经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230720/607f1f3d68754fd072a16e1cabd2d9cd7e4836a18f1ef3c54003379f6e819bd195cd4f7805df937_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "肆月软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fee53ee62d8ca02c0HJ80tu4Fg~~",
+      "brandName": "肆月软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210622/d9459f796b986e29e610711de8a8dd5f4003379f6e819bd195cd4f7805df9372.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "目前在规划中台项目，团队5名后端3名前端，团队技术前沿，都是年轻人有活力，有兴趣可以加入，微服务研发组已经组建完成 ，扩大技术团队，业务团队我们有50到100人，专门运营，福利好，领导👌",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "保底工资",
+        "年终奖"
+      ],
+      "activeTime": 1719304119287,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "肆月软件",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

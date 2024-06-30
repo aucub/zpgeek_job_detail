@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DeiyGacjLJMan-q1G2Nz3ro1VpXUlCpRrxSzyD6_Ma4MK0VXVJIYkbBOoT-0xxuipYVj99jjrJ-LxElu_7e8-Pm74MJNhF63WUi0ECkv14hxheQdeTqdmlxA8IXNqeAhEw8eVKF0iYnL_1MKTncO7cboYEkzdgfZP_O9jkPq2IjLYBTv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "79eecbb87fdba81a1Xxy0ty6FldY",
+      "encryptUserId": "6bd73f11bafe931e1nZ52tm_ElQ~",
+      "invalidStatus": false,
+      "jobName": "交付运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责客户现场环境勘测、做出勘测报告判断是否符合部署条件\n2、负责根据不同项目客户制定部署实施方案\n3、完善内部知识库、问题记录等\n4、根据公司安排完成其他技术支持任务\n工作要求\n1、熟悉系统管理Linux（Centos、Ubuntu、suse至少一种）\n2、熟悉shell、python其中一门脚本语言\n3、熟悉掌握（DNS、TCP/IP、NTP、DHCP）协议\n4、熟悉k8s、docker技术架构原理 并有相关经验\n5、熟悉分布式存储ceph、glusterfs等\n6、熟悉常见中间件（nginx、mysql等）\n7、熟悉ansible自动化\n8、有实际项目交付经验者优先\n9、良好的沟通能力、问题分析能力",
+      "encryptAddressId": "ba5889488183c88c33N82dW-ElA~",
+      "address": "北京海淀区金隅嘉华大厦9",
+      "longitude": 116.307951,
+      "latitude": 40.036804,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89dd49d842748459a38ecaea50becab6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d531f0cdb2d3f25a5c747cc35013662",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "实施交付运维",
+        "计算机相关专业",
+        "Docker",
+        "kafka"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211208/607f1f3d68754fd0fac3f26a6c30bf8b1c5dae3d24d1065f9fe324572abe6506092a15339d3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "晟轩未来科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a450d49dae3e0f2b1n1z3dS7FlA~",
+      "brandName": "晟轩未来科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719307701449,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "晟轩未来科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

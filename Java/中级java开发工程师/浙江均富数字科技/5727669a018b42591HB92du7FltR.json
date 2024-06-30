@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GpDcWXVbt27Bf-n1sIpKQycuVDdMzPQYolvcNC_sGnS9y1eezPoJ3LEHAom7pJRTnOuHOnrgZFzxt74oaM7DAamsp0XAKj9vd6REO9YjNRmTe7OlMcmphP4Fhjy7klrWL6xT-xGY13c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5727669a018b42591HB92du7FltR",
+      "encryptUserId": "815bb5150acbfc040nx_3du5EA~~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.参与项目后端的设计、开发工作，承担核心功能模块的代码编写，确保项目进度和质量;\n2.参与开发人员code review工作，并能提供性能优化、安全性建议;\n3.参与系统架构设计、接口规范制定、技术文档编写等。\n4.参与现有系统的优化改进。岗位要求:\n1.本科及以上学历，计算机相关专业优先,[扎实的数据结构/算法与编码能力];\n2.JAVA基础扎实,5 年及以上JAVA开发的经验，理解相关开源框架的原理和机制，包括但不限于 Spring/Spring Boot等;\n3.熟悉分布式、缓存、消息等机制，有redis、 kafka、storm使用经验者优先;\n4.掌握多线程及高性能的设计与编码及性能调优，有高并发应用开发经验者优先;\n5.熟悉基于Mysql的设计和开发,【有JVM调优、 SQL调优的实战经验];\n6.熟练进行Linux系统操作、git操作",
+      "encryptAddressId": "74b26334c69de04c0XN-3tq1E1BWxYS-V_I~",
+      "address": "杭州滨江区星城中心B座2101",
+      "longitude": 120.195568,
+      "latitude": 30.198899,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf4dc17672717232b09d3d2a96d4841fcb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd1c708c9214822941d860de0b641e2cd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "文先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171117/a18c1b73579383edb845b541b5f28b0ba29f6d7fcda9078ba1608b5581a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "浙江均富数字科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e5a6e0f3760f199b1Hdy2dm_E1o~",
+      "brandName": "浙江均富数字科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719220441512,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江均富数字科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OKT7UD9fbTEoJ-01osd3zb2O_7OuqEG322Pjlr2LgOlCxSX1NaxENVyCEk_a9qG74JODWPyI10YeIWr2oHm88eIYlOd1Ra7asklJJ1Gf1rci86Am9Z9EARso8wXADKmoMD-9X9veCg_jcg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ff49266a8730d9261nV72Nm8FVBY",
+      "encryptUserId": "430f1a5ba41e44d30nR929-7FFdZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "1.java基础扎实，理解IO，多线程，集合等基础框架；\n  2.熟悉常用设计模式，具备面向对象编程能力；\n  3.熟悉分布式，缓存，消息中间件，nosql等相关技术；\n  4.熟悉数据库基本原理，熟练使用pg、MySQL等数据库，有一定的数据库调优经验；\n  5.熟练使用SpringCloud框架；",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201110/b0a57d17c352294a272319c0124effb429c84bfe5d5869f9b2e8545cd46_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "康峰科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cba5781fba0ae6771nZ90t-_FFE~",
+      "brandName": "康峰科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130618159,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "康峰科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

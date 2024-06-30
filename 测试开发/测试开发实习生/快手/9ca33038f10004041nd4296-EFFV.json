@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "akTrqaCWhmjJj-B1HGIApT9jiUdx4NeyI7bob_JXLRxI0Ra_LunUHO9Jvze1jeM8wBgMQbX6vZu6DC1D6MaQNHEETw0yWS6_5j5FuvQt7wXygNA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ca33038f10004041nd4296-EFFV",
+      "encryptUserId": "a6193920291fda411HN83tq7FFI~",
+      "invalidStatus": false,
+      "jobName": "测试开发实习生",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1.负责服务端测试工作， 制定测试计划，进行接口测试，保障服务端稳定性;\n2.参与测试全流程,测试分析、用例设计、自动化、持续集成;\n\n要求：\n1、了解服务端质量保障流程和体系;\n2、熟练使用 linux 操作系统\n3、熟悉数据库相关技术，具备sql语句编写能力\n4、熟悉 python/java中至少一种,有实际项目开发经验者优先;\n5、有测试工具开发、平台开发测试经验者优先\n6、掌握SpringBoot 等 java 主流服务开发框架者优先\n注：base北京，6个月的全职实习",
+      "encryptAddressId": "a353e867f4c87a9603Z_0tu7FVo~",
+      "address": "北京海淀区快手总部上地西路6号",
+      "longitude": 116.298746,
+      "latitude": 40.053278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f4a120078d15c9e182f7fd258bc97f8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d49f733aa9e723a0ce7bfa6999a5d7c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "接口测试",
+        "服务端测试",
+        "Python",
+        "Java",
+        "SQL",
+        "Linux",
+        "MySQL",
+        "接口自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "测试开发",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180418/f920472e204614bc69451ba11ece044d635880936a2594361827397016b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "快手",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "480261c022ea03d81nV53tQ~",
+      "brandName": "快手",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "快手是领先的内容社区和社交平台，是短视频行业开创者与引领者。快手致力于创造一个温暖和信任的社区，让更多普通人拥有表达和被看见的机会，并由此培育了繁荣与高互动的社区生态，每天有上千万优质内容上传。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1717072074389,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "快手",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

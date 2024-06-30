@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FvHzu3U8GVw0y-C1_7RWV24EiolN5UphN6HsxmWD4Q5rw03gY2M5UCkKFc_f4C-NY32Bt649g_2y8fQJbKGw3Ay5TZUaIeHYkfTKJyqC53NKvFukQP4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "35158c49977bfc781nBz0tm5EFNV",
+      "encryptUserId": "0c193b21f90a45130nZy09u-ElpS",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、服从主管工作分配，严格遵守运维现场制定的工作流程和规范；\n2、日常运维系统开发、维护、优化；\n3、监控业务的运行状态，及时处理项目运行中出现的故障，保障项目服务24x7稳定运行；\n4、分析排除系统、数据库、网络、应用等故障及错误；\n5、负责服务器的资源调配和系统安全、数据备份。\n6、熟悉软件巡检流程，负责监控、检查系统软件运行状态并进行详细的数据化记录，定期对运行的各系统进行软件巡检工作；\n7、针对用户的请求做出快速响应，解决和处理用户提出的问题和请求；\n8、现场处理一般软硬件故障，并按照制定的工作表格，总结填写故障处理的过程记录。\n任职要求： \n1.专科及以上学历、计算机软件或相关专业。\n2.了解并且能够独立安装linux、windows操作系统。 \n3.精通linux、shell编程，熟练应用awk、sed、grep、strace、tcudump、gdb等常用命令；\n4.熟悉Oracle、Sql Server、MySql数据库，能够熟练的使用sql。 \n5.熟悉java、JavaScript、css等，能够修改简单的软件bug。 \n6.较强的沟通能力，良好的书面表达能力。 \n7.能够适应经常性外出到项目现场工作，工作责任心强，具备一定的抗压能力。 \n8.能够适应运维工作应临时需要造成的倒班和临时加班。\n9.具备公安等政府软件研发、实施工作经验优先；有公安工作背景者优先。",
+      "encryptAddressId": "b9ecd4c87e37458203B-2dy5E1E~",
+      "address": "北京海淀区百思特信息中心505",
+      "longitude": 116.3655,
+      "latitude": 40.055154,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce7ad314dab14a029d6258d4bd2877f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1452a9022eba3588a79d004cb35e7a32",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "安全运维",
+        "Linux",
+        "Shell",
+        "SQL",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "艾未来科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51c352f9ea74d42c331z2tu4EQ~~",
+      "brandName": "艾未来科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717071761622,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艾未来科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

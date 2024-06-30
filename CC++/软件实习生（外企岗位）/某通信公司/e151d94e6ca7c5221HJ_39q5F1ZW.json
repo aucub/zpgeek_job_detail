@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IUatgFhpDobu1-y1FVC4OXc429LFJWtrL4DenZS6GQ34Ty0AzmmOpQoRhN6RvJpqMKZlLlHMCcX2oW_9GJyIyATPzzSVEN3qtjJHpLATsPKMKvaeurUV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e151d94e6ca7c5221HJ_39q5F1ZW",
+      "encryptUserId": "265ab1efda5872621nR62Nm8F1dW",
+      "invalidStatus": false,
+      "jobName": "软件实习生（外企岗位）",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 1,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "软件实习生\n 一、工作描述200本科/230硕士\n1.\tIOT产品的软件开发，包括产品固件、驱动、协议栈以及应用软件等；\n2.\t按照规范完成程序编写，并进行单元测试和集成测试；\n3.\t编写相关开发文档，产品使用文档、技术手册等；\n4.\t协助QA制定测试方案以及测试计划，功能检验标准等;\n5.\t协助硬件团队对产品进行功能验证及性能调优。\n二、基本技能和要求\n1.\t精通C/C++或Python编程语言；\n2.\t熟练ARM MCU编程， 有STM32或nRF52相关开发经验优先；\n3.\t熟悉嵌入式RTOS（如FreeRTOS等），或者Linux系统；\n4.\t熟悉RS232、SPI、I2C等通讯接口；\n5.\t了解软件开发流程、具有实际软件项目开发经验优先；\n6.\t英语读写流利，能够读写英文技术文档；\n7.\t有良好的沟通表达能力、团队合作精神及较强的自我学习能力。\n三、教育背景：本科及以上学历，电子工程、计算机科学、通信、自动化等专业优先。\n四、工作地点：上海市黄浦区湖滨路150号企业天地五号楼",
+      "encryptAddressId": "d42bc13d14e86f2e1nVz3dq9EVtQ",
+      "address": "上海上海新天地(马当路)黄浦区湖滨路150号企业天地五号楼",
+      "longitude": 121.47495,
+      "latitude": 31.219921,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf120dbd42fd5c6fb2379c4656736045626bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf1d2b1aa65fc01b5fd4a68baad90d7da96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": null,
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Python",
+        "MFC"
+      ],
+      "anonymous": 20,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "猎头顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240515/607f1f3d68754fd03e37f6fdb54c22130f77ac9640f5d3c9d02c6b60ea85ee5d6027cab8bcd5570_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "PERSOLKELLY",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9959c966a7c179671HB92tu9FFA~",
+      "brandName": "某通信公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/d3c6baef296e95762de0802dabf63c06a778a0d7c89f7c91cc68f632d30ad625.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101402,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718789998154,
+      "visibleBrandInfo": false,
+      "focusBrand": false,
+      "customerBrandName": "某通信公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

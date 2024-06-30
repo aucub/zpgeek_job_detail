@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZVRc0m5JxsuTQ-J1wBFN2XGUcNivLHqXrWP7gxlB-E3tq5vp3QrqqP4w4fcwCUPL2FitYD9nwANStxIVk5VUWrSfHyIoqsBGs-Ww87quPZlGI3xy3L4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7124790f83dc89611nN-2N29EFRX",
+      "encryptUserId": "3e6f760fcafdaf301X193t24Elc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 负责分布式业务系统的架构设计、优化；完善服务治理和监控框架；\n2. 负责新产品及业务系统模块的设计，开发和单元测试等研发工作；\n3. 负责跟踪产品发布过程和系统产品技术支持；与测试组及运维组协作实现产品上线，并监控产品服务，及时处理线上异常。\n任职要求\n1. 专科以上学历，计算机及相关专业，接受应届毕业生；\n2. 精通Java/JDK，熟练掌握Java网络编程、多线程编程；\n3. 熟练使用Spring、Struts、Hibernate、Mybatis等开源框架，热爱开源技术；\n4. 对缓存设计、设计模式、消息队列有深入的理解，有用Java做大访问量高并发应用的经验；\n5. 熟练掌握SQL语句，熟练使用MySQL数据库；\n6. 熟悉TCP/IP、HTTP、Websocket等网络协议；\n7. 熟悉Linux，熟练配置维护Nginx、Tomcat、Resin等应用服务器，掌握shell/awk/python等系统脚本工具；\n8. 有互联网分布式、高并发、高可用项目或视频系统开发经验者优先；\n9. 能适应高强度工作，责任心强，工作积极主动；善于学习和交流，挑战未知，具有良好的团队合作精神；\n10. 对ZooKeeper、Dubbo、RPC、序列化、JVM等技术有深入研究者加分。\n11. 有硬件对接经验者优先",
+      "encryptAddressId": "f8e8d94a339e62b41nB509u5ElVR",
+      "address": "成都龙泉驿区师大·现代花园一栋二单元402A",
+      "longitude": 104.199878,
+      "latitude": 30.572678,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf78f14e0f8e195bf165d7738ab0e95b996bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf4ae9bdeff89beb5b7dfbbd6c3eedcbff6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Dubbo",
+        "SSM",
+        "Memcached",
+        "移动端",
+        "小程序",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220705/607f1f3d68754fd0c1dd04f8aa1acbaabd15707204c3b5cb5a387618a08561a111350da84ad_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "星睿兴创",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8aa8338b76d646561nd82NS6GFQ~",
+      "brandName": "星睿兴创",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210902/7b5b554d84f9729c602474b79f2a50d59b966299957fdcb35a387618a08561a111350da84add2b84.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "股票期权",
+        "带薪年假",
+        "包吃",
+        "零食下午茶"
+      ],
+      "activeTime": 1718046073173,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星睿兴创",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

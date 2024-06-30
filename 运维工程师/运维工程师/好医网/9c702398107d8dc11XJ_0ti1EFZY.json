@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rPGtU7pumt1SK-X179cxvdGYgneagY4CxiaHvY4alX6zKUGuN3HrPT8Uy0uF6VoDhwmtjF4QoneV4wwpSsTdwUtEyMEwpI_zCI2EdbGj8Li-iwtZjA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9c702398107d8dc11XJ_0ti1EFZY",
+      "encryptUserId": "cb1a674f4c2029581nZ53du7FVdX",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责软件项目实施及运维，服务器基础环境的管理、配置、维护，及时响应故障，保障业务正常运转。\n2.能够运用监控、日志分析等工具进行复杂问题定位。\n3.对公司应用服务器环境进行全面监控和分析，优化服务器环境。\n4.对公司应用环境进行性能分析和持续调优。\n5.负责响应突发性故障并处理，及时通告故障及处理状态，评估故障风险，给出建议。\n6.7X24小时处理各类服务器故障，建立系统化运维流程与相关规范。\n7.记录维护的日志和故障报告，编写运维文档。\n任职要求：\n1.大专及以上学历，30岁以下， 踏实肯干、责任心强。\n2.精通Linux常用命令，熟悉zabbix、Prometheus等一种或多种监控技术。 \n3.熟悉nignx、Tomcat、elasticsearch、zookeeper、RocketMQ、MySQL、Redis、kafka等常见中间件应用部署，集群，优化，故障处理。 \n4.熟练Shell、Python、go等至少一种以上脚本语言；能够使用脚本完成基础运维工作。\n5.熟悉常用 DevOps 工具，如：gitlab、Jenkins、Ansible等。 \n6.熟悉ELK日志收集分析架构。 \n7.熟悉Linux操作系统原理、TCP/IP协议，具备基本的网络配置、调试经验。 \n8.有公有云和私有环境使用配置经验。 \n加分项: \n1.有Docker容器使用经验，熟悉容器化编排工具Kubernetes。\n2.熟悉Python语言，熟悉Flask框架。 \n3.熟悉关系型与非关系型数据库架构方案与调优，熟悉SQL审计与优化 。\n4.对轻量级架构设计有自己独特的见解。",
+      "encryptAddressId": "e187ac74e2f891e61HB43dS9E1U~",
+      "address": "武汉江岸区新长江传媒大厦7楼",
+      "longitude": 114.295004,
+      "latitude": 30.657312,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77318975fc1965fa57e4c01d3557e24c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1115a62f76249fbf6063ac0e6e39fda",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "Nginx",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "好医网",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8545b9abc5cf313f0HJz2dW7",
+      "brandName": "好医网",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180813/ea7a8a3abed2aeeb4c24f9ee535d1a992d8160cdc40093d8d4ada08ed267e5f1.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "武汉好医家科技有限公司（好医网www.haoyicn.cn）隶属于武汉长江日报传媒集团有限公司，经武汉市卫生健康委审批， 成立于2015年6月，曾获国家新闻出版总署媒体融合20强单位。\n2013年6月18日，汉网预约挂号平台“蝶变”好医网，首推免服务费预约挂号。 作为湖北省首家居民健康自助门户，好医网以“智慧医疗大众健康平台”为依托，近11年来，创新、设计、优化了“杏林谷药事服务系统、单病种药品销售平台、大师公开课-在线会务直播平台、医聊百科、周医见”等产品。目前，好医网连接武汉优质医疗机构150余家，累计为鄂、豫、湘、赣、粤、皖、冀、苏等众多地区约130余万人次提供了有效的网上挂号服务。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719569827140,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "好医网",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

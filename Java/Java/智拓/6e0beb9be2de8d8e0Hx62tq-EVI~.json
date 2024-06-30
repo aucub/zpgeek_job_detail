@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "v2PosFL3iYsu4-w1IoY4aUXAL1lRewdghTCMK6naeHZ4fPmO4p6TUIhMYMZia13qFDIsemIJNyDtQjsQiiOk8NtZ5KnsTRI3d6rmXfl0UndFd9yO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6e0beb9be2de8d8e0Hx62tq-EVI~",
+      "encryptUserId": "629dc9ea0ef8e7691HB729W8FVY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210300,
+      "locationName": "嘉兴",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、从事Web／钉钉端／微信小程序等应用服务端的开发\n2、负责自己所在开发模块的详细设计、编码和单元测试\n3、向技术经理及时反馈软件开发中遇到的情况，并根据实际情况提出改进意见\n4、参与服务器端的接口设计\n5、负责相关的技术文档编写\n6、有较强的业务理解能力，独立分析和解决各种问题\n任职要求：\n1、熟练掌握java、spring boot，mybaits或jpa，具备面向对象编程思想，具有标准化的代码编写习惯\n2、熟悉spring cloud，spring cache、redis、nginx、oauth2、rabbitmq。了解nacos，sentine优先\n3、熟悉mysql，有较强的sql编写能力，熟悉mysql优化的优先\n4、熟悉钉钉接口或微信公众号接口的优先\n5、熟悉crm系统，pos系统的优先\n6、熟悉商城系统的优先",
+      "encryptAddressId": "788f0e53c3596ed91nd42dm1Els~",
+      "address": "嘉兴秀洲区未来科技广场E座20层",
+      "longitude": 120.693408,
+      "latitude": 30.760926,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3350b66981b8f052c6492f6405931db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e6bc0aad1000462419c35d09ebca382",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "小程序",
+        "JavaScript",
+        "分布式技术",
+        "Vue"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180505/fb9c3ff82ef16b34744e4ca902bba4af8ad2d2d4ddf10e62a632ee5ac33_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智拓",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2b35605a65978a51XF52926EQ~~",
+      "brandName": "智拓",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716080246069,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智拓",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

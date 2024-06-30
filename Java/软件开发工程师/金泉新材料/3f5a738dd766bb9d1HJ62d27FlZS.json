@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JC8oJ4UJIENTh-M1iRlcxVNfSL40EKLBsTOnXUj74xYKs8dyqbm24A14Vn_XyID08OoPEtKMrDE3Tmn-I9DDemEYnCIemuy8JbnasSl_Wh5EKgYtb1PHaWT-CG9mHyOFDgfr3vPnbKKh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f5a738dd766bb9d1HJ62d27FlZS",
+      "encryptUserId": "e6f223b0d2540a470XF63Ni_E1JV",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责公司软件产品的开发工作，包括前端界面设计与后端逻辑实现。\n2.设计并实现高效、可扩展的数据库架构，熟练运用关系型数据库（如MySQL、PostgreSQL、SQLServer等）和非关系型数据库（如MongoDB、Redis）。\n3.开发和维护设备通信接口，确保软件系统能稳定高效地与外部硬件设备进行数据交换。\n4.设计并实施数据采集方案，优化数据处理流程，提升数据处理效率与准确性。5. 参与软件系统的需求分析、系统设计、编码实现、测试部署等全生命周期管理。\n5.遵循软件工程最佳实践，编写高质量、可维护的代码，并进行代码审查。\n6.与团队成员紧密合作，协助解决技术难题，推动项目按时按质完成。\n\n任职要求：\n1.计算机科学、软件工程或相关专业本科及以上学历。\n2.精通至少一种前端开发框架（如React、Angular、Vue.js）及HTML5、CSS3、JavaScript等前端技术。\n3.熟练掌握后端开发语言（如Java、Python、Node.js等）及相应框架（如Spring Boot、Django、Express）。\n4.深入理解数据库原理，具备丰富的数据库设计与优化经验。\n5.熟悉TCP/IP协议，了解RESTful API设计与Websocket通信。\n6.有物联网(IoT)、设备通信协议（如MQTT、CoAP）经验者优先。\n7.具备良好的问题解决能力，能够独立分析和解决复杂的技术问题。\n8.强烈的责任心，良好的团队合作精神，优秀的沟通协调能力。\n9. 英语读写能力良好，能够阅读并理解英文技术文档。",
+      "encryptAddressId": "10d6264322ba0f900H163NS-EFtWxIy2VPs~",
+      "address": "苏州常熟市苏州金泉新材料股份有限公司1号",
+      "longitude": 120.979266,
+      "latitude": 31.58643,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae3a4f270c78f4ae3fcba65e11199e32",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14ecb0763e506ab3ded2dd20b16c4afb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "团队管理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "金泉新材料",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2d54fd3f91e12433nF709u8Fw~~",
+      "brandName": "金泉新材料",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719726371382,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金泉新材料",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

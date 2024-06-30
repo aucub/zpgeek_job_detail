@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kn7Jp0h7IhGra-o1RH0rQca-0gXamguFEu2NY7vBtBBQpgTEIz2sVijbfK-gdSxboz6RQOIaYZ4bYFuvNMt4mKdS7V5EaYBxknU2y6peQxk-TVq3PA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2fa72ae43715b2d61HJ42t26GFdQ",
+      "encryptUserId": "7828a2282a5b19170H1709W_GVU~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、JAVA基础扎实；有良好的JAVA编码规范；熟悉J2EE编程相关技术；\n2、熟悉Spring/Spring-Boot/Spring-Cloud/myBaitis开发框架；\n3、熟练MySQL/Oracle数据库应用及SQL调优；\n4、熟悉Redis、MongoDB、Nginx、Tomcat应用；\n5、熟悉分布式、多线程、高并发及高可用、设计、编码和调优。\n6、熟练使用Maven，Git代码管理；\n7、熟练Linux常用命令。",
+      "encryptAddressId": "8ba2650d049f067f3nV_39u1GVpTx4m_UfI~",
+      "address": "深圳宝安区福森商务中心e311",
+      "longitude": 113.846361,
+      "latitude": 22.603389,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240604/48ba41acc9cef1bf6e8a3ee34b53b11e0ed637d06c63b8d66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240604/48ba41acc9cef1bf2b98af154a0fa21a24595deb1d05d3986bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "盛先生",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191020/2afc45fbc3614c83a9a5f70702ab99104093e8f8e26ce1dc6bbfda0d425_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南北极科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0136067f7484fce80XZy2d27EQ~~",
+      "brandName": "南北极科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718105794610,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南北极科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7cEywz9uAyNMY-01_zfL_XLXvDlJ7PxMnuawkMnsDnhCsQudvfcmMMDXSUQraU46zcT5kCWqFKvQih8KmqrHvtMlmQyK4GgkW_3UmLzC7AlfKI9FAcqC1lG7Wt_cfcaBFBh2MRRbdY6toA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "44e0e995ba4466901XR83tq4FFZU",
+      "encryptUserId": "94a2c29e483c9bef1nR909m5FldZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "[岗位职责]\n1.承担项目产品软件详细设计，代码编写，参与设计评审；\n2.配合各相关部门人员实施产品的技术支持工作；\n3.负责产项目软件集成测试、单元测试及联调；\n4.按计划保质完成项目开发工作，保证项目按时完成实施；\n[任职要求]\n1.本科及以上学历，1年以上java开发经验；\n2.熟练使用spring cloud,spring boot,mybitis等开发框架；\n3.有redis，kafka，mqtt，influxdb等组件使用经验；\n4.熟悉vue前端开发框架，有前后端分离开发经验；\n5.熟悉基本的linux操作命令；\n6.有电力或设备监控相关项目开发经验优先；",
+      "encryptAddressId": "de56dfb24c777118031-2ty-FFY~",
+      "address": "西安雁塔区西安电子科技大学科技园E座(西南门)21c",
+      "longitude": 108.906471,
+      "latitude": 34.225354,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/80eea5d7ec9962d3a3efee1289e90bc3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce87c87665c0ff49a1299af2aaff246c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "软件工程师",
+        "后端开发",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "软件开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "江苏昆一能源科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aea477db90ca575a1nx-396-E1Y~",
+      "brandName": "江苏昆一能源科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210727/08424549a615c4b54c205570d5ab1fd4546a6ae2376f56cdeeed0ab456a199dc.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "江苏昆一能源科技有限公司是最早一批服务于综合能源业务的资深人士牵头于2019年1月在无锡创立的一家企业。\n西安团队承担核心研发业务，核心成员均来自外企资深开发工程师、有资深系统软件工程架构师以及踏实能干的研发人员，团队成员的硕士学历比例高达60% 以上。\n昆一能源紧跟时代脚步，致力于园区级源网荷储控制器、监控展示系统的开发，让数字孪生技术、万物互联技术、能源柔性调控技术更高效率、更智能。 \n公司秉承让能源更有价值的理念，严控产品质量， 快速推产品的迭代和更新， 持续为客户创造价值。\n公司产品主要围绕能源控制方向，向上向下推进微网控制系统、电能替代系统、楼宇冷暖CPS节能监控系统、充电桩群控系统等服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1716258137338,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "江苏昆一能源科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

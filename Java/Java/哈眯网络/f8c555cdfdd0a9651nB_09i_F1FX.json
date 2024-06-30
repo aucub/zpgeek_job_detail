@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mDUiVJFjIehCg-214dZnGxZZkbLHML2x8_zPD2ARFsX9egUkwTnQjbx3VyfCR_-giI6grxJPzmIGYxQA1VzAomY_swDaYkyMxhWIKuO5eYMh3qqCDCI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f8c555cdfdd0a9651nB_09i_F1FX",
+      "encryptUserId": "d4d28035491b6b021HZy3dy7FVc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、根据公司产品要求，参与软件的开发、维护；\n2、与开发团队中其它成员共同开发，有效沟通。\n任职资格：\n1、本科及以上学历，计算机相关专业，1年及以上工作经验均可；\n2、熟练使用idea、eclipse等开发工具、熟悉maven、git、svn等辅助工具；\n3、熟悉Spring/SpringMVC/MyBatis等常用框架的使用；\n4、熟悉Spring boot 、Feign、Java范型等；\n5、熟悉Mysql、Oracle数据库或至少一种数据库；\n6、熟悉vue者优先；\n7、思路清晰，善于学习和思考；\n8、拥有良好的团队协作能力与抗压能力；\n9、熟悉保险行业者优先。",
+      "encryptAddressId": "c457b358e6a5404e03R839i-F1ZQxY26VPg~",
+      "address": "北京西城区金融街中心(金融大街)金融街中心",
+      "longitude": 116.359076,
+      "latitude": 39.919309,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3e91a61689a5fbc5301ba3368289526",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b1c4248a24b08e2308b8f8db72559d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "SpringBoot",
+        "Redis",
+        "Oracle",
+        "后端开发",
+        "Linux",
+        "GIT",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "哈眯网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e270121975a652881nF-3Ny1E1E~",
+      "brandName": "哈眯网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210730/9a418a75d4a25e0b613f056f13b0bb92c8ec4cd5b150de3005e60a6e8212f515.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "哈眯科技以互联网软件开发，依靠的是一个富有理想和激情的团队，以及充满着追求创新的进取精神，为企业降本增效。团队核心成员均来自于一线大厂，曾在58、乐视、KU6、阿里担任重要技术岗位。团队拥有非常丰富技术经验与视野，为企业提供稳定高效服务。我们的客户：国家电网、英大人寿、同方人寿、阳光人寿、中石油、中石化等。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "节日福利"
+      ],
+      "activeTime": 1717088166000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "哈眯网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

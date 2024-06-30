@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oYzMKSnFcuajx-R1XuHM0CeZxOkvmj2tnXS1KS4_KNOt8aaFXh6mtr4sz8PuUSAZPWVpqmNX5TTt2qd-9J5gv2PtuN5eB-WCuFnPvjy1KBI3a9SoEy5E",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b163c1f53ed6717a1nB82Ni6EVZZ",
+      "encryptUserId": "8657996e097782e70nZ83N-6FVNS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "基于springcloud技术体系java项目开发，涉及部分前端界面开发，根项目需要完成开发及基本测试任务",
+      "encryptAddressId": "5e7bdffeeee16d9c03d_0965GVo~",
+      "address": "北京海淀区北京交通大学东校区科教大楼1204",
+      "longitude": 116.346384,
+      "latitude": 39.945842,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb2bb1bf90b52fc2040377088b73fa6c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3424244bd791762a6d1ab59a842a038a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringBoot",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "企业级应用开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郝先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210415/73fdafb9c58dee4fb78a1711804dc1670902e994a4c9138e9762764b592_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京交大思源信息...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2f52edb0b75504f51nF_2du9F1Q~",
+      "brandName": "北京交大思源信息...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070333545,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京交大思源信息...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

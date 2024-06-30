@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8o2yU9k1hmuYE-g1pxqpNHyWIIrJagqBRN_I96FHDYv8zuc3anxa2q_MIrdARJJPWWS33zx66y5HgRy8IsXF3vL7ZDd2PxrjXJxqroFcfdN-lgA-eq0PPaQDFRXZwRTMp_ya5yz1AnOp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d98c7bd8b6056fe91Hdz2N2_F1tU",
+      "encryptUserId": "31e7991191b9ecf903R82d20E1Q~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责软件项目的详细设计、编码和内部测试的实施，对小型软件项目兼任系统分析、设计工作；\n2、与项目经理、系统架构师和其他软件工程师紧密合作，设计和实现系统或软件产品；\n3、 参与软件模块、数据库的设计，解决产品开发中遇到的各种问题 ；\n4、参与软件维护、运营过程中技术问题的解决；\n5、负责相关技术文档的编写（如设计文档、测试文档等）。\n\n岗位要求：\n1、大专及以上学历，计算机相关专业。\n2、2年以上java开发经验，JAVA基础扎实，理解io、多线程、状态机等基础框架，对JVM原理有深入的了解。\n3、熟练掌握 springmvc+mybatis， 掌握数据库标准数据语言SQL。\n4、有银行中间业务系统、支付结算系统开发经验者优先。\n5、具有良好的沟通、团队协作、计划和创新的能力。\n6、能适应出差。",
+      "encryptAddressId": "f8efa87547f2b85f0nN_3d6_FFBZwo69Vvg~",
+      "address": "郑州金水区交通银行河南省分行(北门)1楼",
+      "longitude": 113.683121,
+      "latitude": 34.79672,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/578eb5cde98fcf574c7f9e130234c3e9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ce7b3c28c3875ae6586c6b250fb8fe4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邹先生",
+      "title": "部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "棠棣信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7253703b9a29b2591n1709W1GVo~",
+      "brandName": "棠棣信息",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718187501518,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "棠棣信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

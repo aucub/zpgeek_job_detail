@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YM6XmnUtwgBe6-81RDXN0pVq4OroXVwZNi9fhl17rwbJ9g-dIrTVdd9B6eyCIdkYoiKR3yuLqqKoJftbQP-iWDb6fOBdbjALG_60aPW3MTLqMMZh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0021890f9027e9281HF6096_E1E~",
+      "encryptUserId": "aa0ef23a42ee2ef60nV929u9F1c~",
+      "invalidStatus": false,
+      "jobName": "java后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、与研发组长沟通和确认某个模块的需求和实现方法。\n2、负责某个模块的代码编写、维护。\n3、对其他模块的代码的维护。\n4、负责与测试人员的交互，处理测试人员的问题；\n5、完成web应用系统代码的实现，编写代码注释和开发文档。\n任职要求：\n1、本科及以上学历，一年及以上JAVA开发经验，有扎实的Java基础；\n2、对面向对象的软件开发思想有清晰的认识、掌握常用的设计模式,研究过开源代码优先；\n3、熟练掌握springBoot、springCloud、springSecurity、maven、myBaits等框架；\n4、熟悉分布式系统的设计和应用，熟悉分布式缓存（redis）、消息队列（kafka）等机制；并能合理应用分布式技术，解决问题；\n5、有过dubbo框架开发经验，了解hbase,hadoop,elasticsearch,zookeeper 优先；\n6、熟练使用postgresql进行应用开发，熟悉数据库原理以及常用性能优化技术；\n7、在分布式环境下，有快速定位问题的能力；\n8、具备一定的web前端页面开发能力；\n9、熟练使用 Git、SVN 等版本管理工具。\n \n软性需求：\n1、做事有责任心、有想法，热爱技术，喜欢钻研，工作有激情；\n2、有较强的逻辑思维能力，善于分析、归纳、快速定位并解决问题；\n3、能承受高强度的开发及加班；\n4、主动学习技术的和非技术的两方面知识；\n5、个人工作范围内的决策力和执行力。",
+      "encryptAddressId": "d60b5411f9c91caf1XBz2di4E1M~",
+      "address": "北京海淀区金泰富地大厦",
+      "longitude": 116.3153,
+      "latitude": 40.04287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c885d36d03bc5634b067ae2df086e301",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0184a2a16fa8ab066c59a3c8f0c31887",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "springCloud",
+        "springBoot",
+        "springSecurity"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "安信义恒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "663684b62f5638241XV-2tq4FQ~~",
+      "brandName": "安信义恒",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190314/3b9b58edca26fe889172f14da3547275397921a08b09000bf3511459f0278d5f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京安信义恒科技有限公司成立于2017年10月， 本公司主要以开展与国内中大型企业、网络安全领域设备厂商的合作为主，开展保障企业安全相关工作。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1717070262047,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安信义恒",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Y8C933dyEAOBc-U1-Vc4d3AuH-m2bz1bs_qZ0EjQhzHJCc_LrobJhVd0lVeuMBriwIj5vYTh35G8Hs7BYOW-hmqziCVB9l0KQv2kuZz6WffMmCsfxygSlBxgtg2b-pXV_cNeK7rt7Vo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d48518914d6e6d81HJ50tm5EVRU",
+      "encryptUserId": "e1ca3c96214f1d500XV-0tW8Fls~",
+      "invalidStatus": false,
+      "jobName": "java见习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "招用范围：天津本地院校应届生\n\n职责:\n1、负责公司产品JAVA后端以及界面HTML5的设计与开发\n2、参与公司前端架构的设计以及界面框架布局设计与开发工作\n3、协助前端架构师，整合UI框架，规范界面标准等工作\n4、承担系统模块的设计与开发工作，能够按质按量完成开发工作\n5、解决代码开发中测试出来的问题。\n任职资格:\n1、计算机相关专业，专科及以上学历，2年以上Java开发经验，了解Java底层机制和JVM性能调优。\n2、熟练Spring boot开发，对Spring cloud微服务技术架构体系有深入研究。\n3、熟悉Maven和Gadle工具使用，熟悉在Idea和Eclipse中配置Maven参数等。\n4、熟练掌握高并发开发，熟悉常用消息队列RabbitMQ和RocketMQ等。\n5、熟练使用Html、Css、Javascript。\n6、熟练使用前端框架Vue、Angular，掌握组件、路由、数据绑定、表单、组件间通信等操作。\n7、熟悉常用关系型数据库，如Oracle，MySql，PostgreSql等。\n8、熟悉常用缓存技术如Redis等。\n9、熟悉Linux下技术开发，熟悉Shell脚本命令行开发。\n10、熟悉常用代码管理工具，Git，SVN等。",
+      "encryptAddressId": "0a918b0eaf24c2061nR73t-8Fw~~",
+      "address": "天津滨海新区天津滨海中新生态科技园启发大厦清华大学天津电子信息研究院",
+      "longitude": 117.754913,
+      "latitude": 39.113821,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99dfda7a46c222ad99c9649ae1decea7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08f1881744320ea86f327bef0099b6b5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "架构设计经验",
+        "开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "它思科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "008c4bfa47b9ed5703d73N-7GA~~",
+      "brandName": "它思科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200708/0c560e2d07311bab7fd3a6be97a0f10b47cd9218ea268775374ee17cd8050109.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "它思科技（天津）有限公司依托清华大学电子系主要技术为高效学习的智能语音识别和语义理解技术。核心技术特点为只需进行少量样本人工训练即可迅速提升语音识别引擎的识别准确率。公司主要针对各种特定行业需求进行专用引擎定制，只需相对低的成本即可快速在专业领域能达到98%以上识别准确率。现公司主要深耕政府（智能广告识别系统）、金融（智能语音机器人客服系统、智能质检系统）、医疗（智能语音病历系统、智能辅助诊疗系统）和安防（智能声纹识别系统）四个行业方向。\n它思科技主要业务为语音识别，说话人识别，语音关键词识别，特定领域对话系统，远场语音识别，语音合成方向相关项目。\n公司2018年创立，坐落于天津滨海新区中新生态城，办公环境优越，公司福利待遇佳。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1719569505584,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "它思科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

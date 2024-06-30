@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7N9riWliwzSTB-Z1dMhxqHm1WEuTOMY2SXOp1DoTFqhX1YdlwqgMjeD3obRhJviAOoQco5TJpP0NAaFOBjURVhqbAwoDTrqwEZPOSfookr0mfRwP_gmF1aGsK1NONbXeIjkfOKLlU4Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f1f03ac523c6f1f01Hd_3du0EVpW",
+      "encryptUserId": "59922af67d12b69e1Xx92Ni-FFE~",
+      "invalidStatus": false,
+      "jobName": "Golang/Python后端开发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "关于扇贝团队：\n\n扇贝是国内知名的在线学习平台，致力于成为最受用户信赖的终身学习平台。目前已经拥有过亿用户。\n\n我们一直在努力，秉持“让每个人都能通过学习变得更好”这个使命，为每一个用户提供有趣的、个性化的学习体验，让他们成为更好的自己。\n\n我们在分布式架构，自然语言处理等技术方面也有长期积累，结合精良的内容制作，能够为用户提供独特和优秀的产品服务。\n\n工作职责：\n1. 负责后端服务架构设计、接口设计、算法设计及功能开发；\n2. 负责后端服务的性能调优及故障处理；\n3. 基于 Kubernetes 的日常运维；\n4. 协助测试人员完成软件系统的测试。\n\n职位要求：\n1. 0-3年后端工作经验，计算机相关专业；\n2. Python/Golang 至少掌握其中一种，理解常见的数据结构，算法和操作系统等基础知识；\n3. 熟悉数据库设计，熟悉mysql、redis等数据库设计和性能优化；\n4. 具有良好的程序设计思维，对于设计模式，代码规范性，代码稳定性具有较高的自我要求；\n5. 具有良好的文档习惯、学习能力、沟通能力及自驱力，责任心强。\n加分项：\n1. 有 docker、kubernetes 实践经验；\n2. 熟悉微服务架构, 熟悉grpc协议；\n3. 熟悉性能调优，包括但不限于：缓存的使用，数据库查询的优化，服务的水平扩展等；\n4. 熟悉 CI/CD, Devops 工作流。",
+      "encryptAddressId": "9e9e0a254901bc8c1XF82dm1FA~~",
+      "address": "南京玄武区扇贝网303",
+      "longitude": 118.886667,
+      "latitude": 32.086348,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e85998eb2cbf34651423eeb9ee1d0b07",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9254581741a97354035ac680bfc23f12",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "章女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230324/607f1f3d68754fd0e6421604cf2c6b27fd19009666bef4c0db08422ec6c960f97d6d3a18b9a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "扇贝",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4c73270ea7506e520nZ92N6_Eg~~",
+      "brandName": "扇贝",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211117/7bf6f160950405e9bd00fe174ebfd51bd7568882d2e32f3adb08422ec6c960f97d6d3a18b9a38dde.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "南京贝湾信息科技有限公司开发并运营扇贝系列在线教育产品，主要面向成人进行职业培训，包括数字化技能培训（Python编程、数据分析）；考研培训（英语，政治）；大学英语四六级以及通用英语能力培训等。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1719530752658,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "扇贝",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

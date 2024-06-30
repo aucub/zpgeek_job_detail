@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qQnItOQ68KVkk-C1LhR14nulmHpHbzxF6xFkCy_XS6NOACWpyWvuHCd--ziYReUqUJbyVV5gZhTsfmk6xHVWl7NLTNZ7tNGV7LDV3oCmk40_1--Z5IuU3lg8BddgimcgJeZFp9vqCOrZcRC71CuaTjGP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17babcf3659822621XB83N26EltQ",
+      "encryptUserId": "344780ebf1ace5f50nd439y8GFpV",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.精通Java语言；\n2.掌握Springboot、SpingCloud、SpringMVC、hibernate、Mybatis等开源框架，掌握分布式开发技术，熟悉微服务开发；\n3.精通数据库技术、至少精通ORACLE\\Mysql\\PostgreSQL中一种数据库；\n4.熟悉Rocketmq、Rabbitmq等开源软件的使用及系统优化设置；\n5.熟悉银行系统相关流程开发；\n6.良好的沟通能力和团队合作精神；\n7.具有金融行业从业经历者优先。",
+      "encryptAddressId": "c1dc87275faa301233x92920GVI~",
+      "address": "北京通州区中国邮政亦庄数据中心1",
+      "longitude": 116.537223,
+      "latitude": 39.816755,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4885a9e7a2aec1fad44a6ed668a01717",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b00e70435432ed24d2c8e35c198dbaf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd03891f5e365012df48688757c889ddeca8dab8a06d23bb8fa047593a243f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京南天软件有限公司",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "99f29a2bb38b32001nF_3925FVM~",
+      "brandName": "北京南天软件有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210410/b76aa8354d304fce7130be7993f59c90302315be83e396a4bb4f822d8affda8c_s.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "云南南天电子信息产业股份有限公司（以下简称南天信息），是专业的数字化服务提供商，数字化服务的创领者。公司具有三十多年建设金融行业和国家部分重点行业信息化工程的丰富经验，以软件业务、集成服务业务、产品服务业务、智慧城市业务、创新业务等五大板块业务为主体，积极布局云业务和数据智能业务，发展智慧党建和智慧教育业务，为客户提供贯穿IT建设全生命周期的“一站式”数字化服务。\n\n南天信息分设昆明总部和北京总部，在北京、上海、广州、深圳、昆明、西安、成都、武汉、合肥等地均设有全资或控股子公司，130余个服务网点遍布全国。以“我们与世界信息潮流同步，成为数字化服务的创领者”为企业愿景，以“做专业的数字化服务提供商，DSV赋能数字化变革”为企业定位，南天信息建立起了覆盖全国的应用开发及销售服务体系，可为客户提供高质量的IT专业服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "节日福利"
+      ],
+      "activeTime": 1718257234276,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京南天软件有限公司",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

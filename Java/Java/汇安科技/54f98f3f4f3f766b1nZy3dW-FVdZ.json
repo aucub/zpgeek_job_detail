@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nF_cLfCPMQsgD-e1_35FmTm7R-2XTM6IBQxPGB1eqzqykv-Lam63EF5jde-X5ddpljEvE93siyzBQfsTwUNfVQZ1s1XGqkWDr8jmScI2i_97XTZPSQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "54f98f3f4f3f766b1nZy3dW-FVdZ",
+      "encryptUserId": "6d9a53d19bddc5290nF-3d27EFE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290100,
+      "locationName": "昆明",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、根据开发进度和任务分配，高效率完成相应模块软件的设计、开发、编程任务；\n\n2、根据明确的业务需求，能够以技术的视角设计和描述系统，根据这些设计描述，实现详细设计；\n\n3、进行程序单元、功能的测试，定位修复缺陷保证其质量；\n\n4、协助项目负责人解决系统开发过程中遇到的技术问题；\n\n5、协助项目负责人测试和发布系统，准备相关的技术文档。\n\n任职要求：\n1、熟练使用Springboot，Mybatis,Mysql等框架\n2、了解linux命令，熟悉linux系统下的简单部署、日志查询\n3、对Hadoop及其生态熟悉的优先录用\n良好的团队合作精神，较强的沟通能力和学习能力",
+      "encryptAddressId": "66c6fc9ffe4c2a571Xd42di4EFc~",
+      "address": "昆明西山区怡福园东区4-1603",
+      "longitude": 102.698439,
+      "latitude": 24.989422,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37b1492f016d3a02a71e9f0c4ad3e1e4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d69f0e309bb1d608c2adb2dd0098d743",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "多线程",
+        "MVC开发",
+        "消息队列",
+        "Spring",
+        "Redis",
+        "GIT",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "侯先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190228/f81e1b63c22ba77a9ffdc135f90cb4d038d31154caa6723025d838c0215_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "汇安科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "402735823e4875d71HJ-0t-_FQ~~",
+      "brandName": "汇安科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200910/3e654a2481a4c7eaea06568c1087032838d31154caa6723025d838c021563d8a.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1718954645610,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇安科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

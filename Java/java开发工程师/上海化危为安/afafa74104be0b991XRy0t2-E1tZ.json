@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yA_dZYeIhLEph-Q1gVTI2i4DoBx0nyQzs69cRMl8VEiq6oTueuKiPtxpqEpnkGXSo6uGEtziXBNTduYxSpqhp7EC_2VdzWOpQBLi8GpHl-6uPGLT6YkrOSxiAp2P3K5DCh_lX1knTuaLMA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "afafa74104be0b991XRy0t2-E1tZ",
+      "encryptUserId": "e5d754577d0b41780nV53t21FVFU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师招聘信息：\n1、Java基础扎实，了解垃圾回收机制、JVM调优\n2、两年以上Java Web开发经验,精通Spring boot、Spring Cloud、Mybatis等框架\n3、熟悉常用NoSql技术,如Redis、Mongodb等\n4、熟悉常用消息系统,如RabbitMQ、Kafka等\n5、有高并发、高性能、海量数据分布式系统的设计及应用、调优经验者优先\n6、熟悉互联网、电商网站建设,有相关互联网或电商经验者优先\n7、专注技术,有很强的责任心,能独立分析和动手解决复杂技术问题",
+      "encryptAddressId": "b8c0c5e8ccd9ae33031-09S8GVE~",
+      "address": "苏州虎丘区苏州国家环保产业园36幢",
+      "longitude": 120.504282,
+      "latitude": 31.32159,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65574a00660eb5d388b6ed3f5cd03b6b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ec25a91803f3874c4216683692cbad4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "vue"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海化危为安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e3436bd6511aabac1XR409S6GVE~",
+      "brandName": "上海化危为安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "公司专注于化工园区智能化监控平台、企业安全生产信息化系统、智能化风险分析工具的研发与建设。核心团队成员均来自化工和IT行业高级技术人才，团队历时多年，结合国内多家危化品企业实际运行案例，成功研发出多项顶尖产品。",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "住房补贴",
+        "零食下午茶",
+        "餐补",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1717137679104,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海化危为安",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KjwKt57kPwGdm-Y1WrAkEtTdKtNCiaKsaP71RKGlb2VELZT0_8WGIvevdNTfbTc6OikIEQBkVl2qdGwc5zpN4-LZM_jeHKXSkHWqq0rlyNZmyFIgmoM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b94b9b7b3f47075a1XNz29i7GVFU",
+      "encryptUserId": "253aafb5a005ab7d0XZ42NW8GFY~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n  \t1、负责公司产品线各环境的软件以及其组件部署、数据库维护、系统巡检等；\n\t2、及时响应并处理系统异常,有隐患及时发现并制定应对方案,保证系统稳定性；\n\t3、负责建立代码管理制度、质量管理制度、环境管理制度、配置管理制度、发布管理制度,并参与相关实施;\n\t4、负责完成持续集成的流水线的选代和管理；\n\t5、负责不断优化持续集成流水线的效率、质量和反馈周期;\n\t6、建立并完善研发自动化构建发布平台、构建与持续集成体系、完善运维知识库。\n\n任职要求:\n\t1、具备丰富的系统故障排查和解决经验,突出的分析和结局问题能力；\n  \t2、熟悉ansible自动化工具,熟悉常见流水线工具软件的使用和管理:Jenkins, Artifactory, Gitlab等；\n\t3、熟悉常用中间件、数据库、容器的维护及原理；\n\t4、熟悉Docker/Kubernetes等容器镜像管理及原理；\n\t5、熟悉Devops核心流程,掌握工具链运用；\n\t6、具备推动应用运维的自动化和标准化能力；\n\t7、熟悉各种开发环境的部署、svn/git的环境部署；\n\t8、熟悉shell/python脚本。",
+      "encryptAddressId": "9a9a81a60b610f8c33N63dq9EVI~",
+      "address": "武汉武昌区中南国际城A3座24楼2405",
+      "longitude": 114.329226,
+      "latitude": 30.534191,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a857618827418ef1c0ec6722cdfb8255",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8d8c0905d9d426bec0d540713835339",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维开发/DevOps",
+        "Python/Shell",
+        "Docker",
+        "Ansible/Salt/Puppet",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230624/607f1f3d68754fd07ee63c5ecacf93cab268429cdb912616e02d334b6926cd245a8705667b8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "摄生客",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1264c44a22d8bdfb1XZ_3Ni6FVA~",
+      "brandName": "摄生客",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "摄生客集团——膳达天下.营养万家，首创自主品牌康养膳食外卖平台，本平台更适合于50岁以上的中老年人群居家康养膳食。摄生客集团致力于做“好米，好面，好水，好油，好调味，好食材”的六好膳食良心企业。",
+      "labels": [],
+      "activeTime": 1717105085826,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "摄生客",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

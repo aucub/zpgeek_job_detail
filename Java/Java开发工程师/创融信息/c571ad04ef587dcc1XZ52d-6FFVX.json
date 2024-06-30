@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "q7ZjnwlS5RdyC-A1W02xsO83TlLJ1mmOzn719SccY7-1v89Mkcfx-gWKP1J98fiPeORtju5V5HYwi7igFZSHUQ9mmLIW5tzN07Nivv7Woub3hLW0ESINxFhj-UVdN-qMyNBRQbaOfQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c571ad04ef587dcc1XZ52d-6FFVX",
+      "encryptUserId": "c153ac22b95ce1640Xxy0tm_E1c~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "能熟练使用软件设计模式解决问题；可使用UML工具进行简单设计表达；\n\n熟悉主流Java EE开源框架，并掌握Spring MVC、Spring、Hibernate、Mybatis、spring cloud;\n熟悉JAVA语言基础，封装、继承、多态，java集合、IO并能在适当的场景选择适当的类来完成系统功能实现\n熟悉JIRA、maven、git等相关开发工具的使用\n熟悉SOA架构设计；了解Java EE规范内各项核心技术；\n熟悉至少一款主流数据库设计技术，熟悉mysql数据库;能够熟练编写增删改查语句",
+      "encryptAddressId": "ad43373bf1610fce03xy2t60EVc~",
+      "address": "上海浦东新区泛亚汽车技术中心金桥新园区云计算中心",
+      "longitude": 121.633357,
+      "latitude": 31.282071,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3aabcf9fdf8c8f28ff73b0e40379dd8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41583a2bae1f02c8d0c9424b1ff41f6a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "Spring",
+        "Hibernate",
+        "GIT",
+        "Maven",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "滕先生",
+      "title": "高级技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": null,
+      "bossOnline": false,
+      "brandName": "创融信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9fa048cc5053c2c71XN-09S4",
+      "brandName": "创融信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1717130673023,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创融信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

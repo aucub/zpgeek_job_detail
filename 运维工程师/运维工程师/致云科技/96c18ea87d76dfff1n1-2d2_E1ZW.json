@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3litDc7G9Zhmp-41cUvkuySqhncWdxFBpQvYEEXt88Q3jRa7lONzwzQED-MxJa8X7XJrm60OVYhzUQb-AyJqk80qqsnE1jIQPCBlNTxgkSSvgFUvoWVC",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "96c18ea87d76dfff1n1-2d2_E1ZW",
+      "encryptUserId": "91858663fa800e570nR439q5FlJR",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、 配合开发、测试、产品团队实现项目及产品的IT基础设施落地和资源交付；\n2、负责自动化运维平台、工具的设计、开发，提交相关文档；\n3、负责基础架构运维自动化工作开展，建立运维自动化技术规范，完善脚本库建设；\n4、参与生产系统版本建设与日常维护工作；\n5、完成部门内部和部门之间相关培训工作。\n\n任职要求:\n1、 勤于思考，愿意尝试新的技术和方法论来不断改进和提升计算资源的使用效率和工作流程的有效性；\n2、 熟悉常见的服务器虚拟化技术及其应用：Vmware、KVM、Hyper-V、Xen等 ；\n3、熟练掌握Kubernetes(k8s)技术，熟悉Docker/Cgroup 等容器及其编排技术；\n4、有常见服务软件的使用和管理经验：Apache/Nginx, MySQL, Hadoop, Git, keepalived；\n5、熟悉公有云、私有云和混合云等概念和技术，熟悉和了解分布式计算中心的部署运维，数据备份策略，异地灾备，服务高可用, 以及故障恢复，诊断，验证等等网络和计算中心运维；\n6、精通至少一门脚本编程语言：Shell, Python, Ruby, Perl, NodeJS, Julia等, 能快速编写服务工具 ；\n7、熟悉常见服务器软件系统的配置和管理，有能力协助研发团队做好CI/CD。",
+      "encryptAddressId": "20e8ac59d83eaa591XFy0tu0GVQ~",
+      "address": "南京浦口区孵鹰大厦A座4楼411",
+      "longitude": 118.642333,
+      "latitude": 32.036599,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f626aa6500146faf7ba3cff0eff28958",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8bbe4d2345712b38be04ea1b9c4c52ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "安全运维",
+        "自动化运维",
+        "Linux",
+        "Python",
+        "容器技术",
+        "分布式技术",
+        "虚拟机技术",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "致云科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d5aef685d9838491nV60tS4ElY~",
+      "brandName": "致云科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200925/0863fdc13823291b67d19c91748561c6a1c4aca6f2c47577a4152f8ea4351b72_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京致云科技有限公司专注于云计算和IT运维领域，为客户提供混合IT治理和自动化运维解决方案。\n致云软件产品拥有完全国产化自主知识产权，兼容多种国产硬件、操作系统和中间件，符合信创和其它政策要求。我们一直秉持“与客户共创云计算价值”的经营理念，通过自主创新、卓越管理、和谐发展等战略的实施，全面构造公司的核心竞争力，努力创造客户和社会价值。\n公司与AWS、阿里、华为、新华三、电信天翼云等云平台有着深度合作，在政府、金融、运营商等诸多客户的项目中提供专业的产品和深度定制服务！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "零食下午茶"
+      ],
+      "activeTime": 1719374025864,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "致云科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

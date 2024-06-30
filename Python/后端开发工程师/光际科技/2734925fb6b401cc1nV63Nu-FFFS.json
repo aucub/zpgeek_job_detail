@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BIP7Mxq3aiNbt-o1qhjOPRHU9L4WC-TLOzlRUXl3Lvk8LUiIfPXmLjXFW0YxHLuHxrChFHK86DtLzLgQpdaUgnwcL29uV2Q2vrC7WR5IjI9AQpUCDMUfjv4nJUGFW_BblAmLZpFdpuI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2734925fb6b401cc1nV63Nu-FFFS",
+      "encryptUserId": "06000cd73a0dcb230nx73du1E1A~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1. 全日制计算机相关专业本科以上\n2. 精通至少一门基础编程语言（C/C++）\n3. 精通至少一个主流Python web框架（Django/Pylons/Tornado/Flask）\n4. 擅长提升Python的运行效率（Cython/pylnlne/pypy/pyrex）\n5. 熟悉Python的多进程方法以及GIL\n6. 掌握开发服务和RESTful API的内外部使用；\n7. 精通版本控制工具，如Git；\n8. 熟悉Scrapy和Scrapy-redis爬虫框架及数据库支持\n9. 精通MySQL等关系型数据库\n10. 熟悉RESTful API的设计思想，能够独立撰写API文档\n11. 有使用Docker的经验；\n12. 熟悉Sys Admin（数据迁移，备份的设置和管理）\n13. 熟悉Linux/Windows开发环境\n\n岗位职责：\n1. 主要负责公司人工智能及物联网平台的后端开发，以及其它商业开发中的后端内容。\n2. 参与软件项目的编码实施、测试和文档编写；\n3. 参与服务器环境搭建、项目部署等。",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "C++",
+        "后端开发",
+        "网络爬虫技术",
+        "容器技术",
+        "多进程",
+        "Python工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邱女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "光际科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "44582579f01265a41XZz39W-Fg~~",
+      "brandName": "光际科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200215/8c973a904ed1a732fb43d32091f1cb463d3ab3cca1b1bd9f048fb4b8f1cce806.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "光际科技是为企业提供标准智慧中台产品和便利化人工智能研发工具服务的专业解决方案科技公司。企业致力于成为广大企业由数字化向智慧化转型的最佳技术伙伴，让行业研发者无需掌握复杂的编程知识就可以快速自我创造海量的AI模型和应用，从而为企业提供持续高效的生长动力，实现人工智能的全面普惠化和自我创造力。\n企业自主研发的人工智能平台级产品光际智算魔方先后在军工、金融、医疗、教育等支柱行业实现不同场景的拓展与落地。公司成立两年多来，先后获得国家科技部、国家工信部、杨浦科创之星等一系列国家和地方重要奖项，也是国家认定的“国家高新技术企业”。",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "住房补贴",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1716713423822,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "光际科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

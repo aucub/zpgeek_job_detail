@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NZWk1IJi9i3IK-D17ZrIw60O-uux0fzTIn7utA9mWM7XKiqX8Px2Wcy7sYCfPlo06P9Hgn8lk6CjR3mGMU9Amy4WQaFafPLxTbXX3CVyDoqVXAZl9CY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3b096848a3f39f081HV43dy_FlVU",
+      "encryptUserId": "ca1dfd70b00667d51X1_2926F1s~",
+      "invalidStatus": false,
+      "jobName": "测试开发实习生",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1. 负责滴滴出行地图服务端的测试工作, 制定项目测试方案,计划并实施,保障项目质量和进度\n2. 涉及和执行测试用例,跟踪定位产品软件中的缺陷或问题,推动问题解决\n3. 开发测试工具和自动化测试框架,脚本等进行自动化测试\n4. 评估项目质量风险,与产品经理和开发人员就项目进度和问题进行沟通\n\n职位要求:\n1. 计算机相关专业,本科及以上学历\n2. 至少熟悉一种主流开发语言(Python/C/C++/Java/Go等),熟悉Linux操作系统，熟练使用Shell。\n3. 熟练测试理论与方法，对互联网质量保证领域有强烈的兴趣。\n4. 了解软件工程相关知识,有质量风险意识\n5. 学习能力强,有较强分析解决问题能力,以及较好的逻辑思维和表达能力\n\n时间要求：实习时间不少于4个月，近期可入职",
+      "encryptAddressId": "5be2101552b684241nZ50tS0GVNV",
+      "address": "北京海淀区东软北京研发中心东软北京研发中心",
+      "longitude": 116.281469,
+      "latitude": 40.048146,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d5f0d7b00c23aa49f648fe373ec3f5d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a94cf0bca0542f7bdf42b07ba871bd6e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "自动化测试经验",
+        "Shell",
+        "测试工作经验",
+        "自动化测试",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "测试开发",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170716/03bb9bd3f0aab10f9cedf78e07f9f65b5439655a670c6640c5ab2b74603_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "北京滴图科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ca84e8ea59519de61XFy2Nu1FVA~",
+      "brandName": "北京滴图科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230906/7b5b554d84f9729c51bc3f61aa7702714dea7851480ede3439946b4a5c1a55165db3a516b1cff19a.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司成立于2016年\n\n办公地址在东软北京研发中心\n\n主要经营导航电子地图制作\n\n为滴滴出行全资子公司",
+      "labels": [
+        "交通补助",
+        "免费班车",
+        "团建聚餐",
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1718984958000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京滴图科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

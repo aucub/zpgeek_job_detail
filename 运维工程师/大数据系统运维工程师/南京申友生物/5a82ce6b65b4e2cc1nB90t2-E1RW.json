@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Tae8OShYCXOlW-y1lhgf_AOOu-pWwSR-5f1yAQfR6g1XpWtqvRsxMpfe_aods0TeSh-0WhYNBt18h00EqxsmiSm28I39OAE3BeXaitaB5iw4fDOyxh_pEKQJH5aucZ3dpItdJANebtDr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a82ce6b65b4e2cc1nB90t2-E1RW",
+      "encryptUserId": "f3d2e2fcf6c37e8d0nJ42t6-F1E~",
+      "invalidStatus": false,
+      "jobName": "大数据系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位说明（工作职责、内容）：\n1)负责大数据网站系统的部署及实施；\n2)负责大数据网站系统的日常运维（故障处理，资源调整，日常巡检及功能调整）；\n3)负责大数据网站系统日常变更方案的制订及实施；\n4)快速组织及解决运维过程中发生的异常及紧急故障；\n5)对日常运维中的潜在风险进行提前把控与干预。\n任职要求（学历、经验、技能及其他要求）：\n1)本科及以上学历，计算机、通信、电子、自动化、信息学等相关专业；有2年以上服务器系统运维经验； \n2)熟练掌握Kubernetes、Docker等容器技术的使用和维护；\n3)精通Linux操作系统，熟练掌握Linux常用命令，能快速排查和解决问题；丰富的基于Linux的网络基础设施的相关知识及实践，如DNS，路由协议，TCP、UDP、HTTP，SMTP及FTP等； \n4)了解各类并行或分布式文件系统架构、高速互联、存储及MPI环境，熟悉LSF、PBS、SGE等分布式调度系统者优先；\n5)熟练掌握HAProxy及Nginx等负载应用的安装和使用；\n6)熟悉XEN、KVM等虚拟化技术，具有KVM、XenServer、Hyper-v、VMware等虚拟平台运维经验；\n7)动手能力强，具有较强的应变和判断能力，学习和适应能力强，富有创新意识和钻研精神。\n8)具有主动沟通意识、团队合作精神和职业稳定性，工作积极主动、服从安排，能承受压力，责任心强。",
+      "encryptAddressId": "02897a8f93000c0d03dz3tS-FVA~",
+      "address": "南京六合区申友生物科技有限公司E栋5楼",
+      "longitude": 118.78166,
+      "latitude": 32.27879,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4722c55fab9407d7d64746657f246ad9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8a70f32ddeae07e7c8a594616775b07",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Linux",
+        "服务器配置",
+        "容器技术",
+        "网络协议",
+        "分布式技术",
+        "虚拟机技术",
+        "负载均衡技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190620/fbf991d24289a729ba407c9fdb6cf8a6157fa64ad825f93af123e8ece37_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京申友生物",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bdb75fa9200991e81nF80t61FVY~",
+      "brandName": "南京申友生物",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210416/e9957fea2a628dd012ed8294280c12ac157fa64ad825f93af123e8ece3789554_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100401,
+      "industryName": "生物/制药",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "餐补"
+      ],
+      "activeTime": 1716793592119,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京申友生物",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pMDVGk-voWK6i-J1_S7YhbgJPLM-A-nDYoPXtwh9z0RVziFUPJcNXYk3Ho2Fzus9OOZrtN-WoLidzmyPx310njE_XcD01LFRsx4X9RQjJiAa0W4T9Sg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17e0a8a2a8e6cfee1XJ52Nm4GFdW",
+      "encryptUserId": "4ba48267a4b091f70XJz2tu8GFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、根据需求进行服务端的新功能开发和迭代；\n\n2、参与或主导架构优化和重构，持续提升核心系统在高并发、海量请求数下的处理性能；\n\n3、参与项目技术难点的攻关，参与新技术的调研、分享和应用。\n\n任职要求：\n\n1、统招本科及以上学历，计算机、软件相关专业；\n\n2、java基础扎实，熟悉常用的设计模式，有良好的编码及程序设计能力；\n\n3、熟悉主流开源框架，如spring、springmvc、jpa、mybatis、springboot、netty等，熟悉spring原理和实现机制，了解soa架构理念，熟悉 springccloud、dubbo、zk等框架优先；\n\n4、熟悉sql，熟悉oracle/mysql等数据库，并具有一定的sql优化能力；\n\n5、熟悉memcached、redis、mongodb等常用nosql解决方案、了解各自的优缺点以及使用场景者优先；\n\n6、熟悉常用的搜索引擎技术。如elasticsearch、solr；\n\n7、熟悉tomcat等应用服务器的部署和配置；熟悉linux操作系统常用命令；\n\n8、熟悉多线程、消息队列，有大数据处理经验，框架设计，代码优化，性能优化，数据库优化等能力者优先。",
+      "encryptAddressId": "c10ef6b0f42bfbd30Hx-0tW4FFo~",
+      "address": "长沙岳麓区麓谷企业广场文轩路27号麓谷企业广场F1栋",
+      "longitude": 112.885566,
+      "latitude": 28.207712,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a832937027bc2618d935f22e0357c03",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/521d133cd88862db4950cbd317a89ec4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "湖南青普科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a6e145519936011f1XF629S9E1c~",
+      "brandName": "湖南青普科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717105733284,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南青普科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

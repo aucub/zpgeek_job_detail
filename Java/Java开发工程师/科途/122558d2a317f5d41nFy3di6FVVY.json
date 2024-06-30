@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iAkG8yWrbNz3A-a1FQiBwnqPM1sJSITtH5Su6sjTkVcLxbGX5EP9Q5dqZx6B90McB94oFjgQFb96PbFdNt-UDpCIVAjCSdXq-rw_2XikMIjN98PZ6mk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "122558d2a317f5d41nFy3di6FVVY",
+      "encryptUserId": "95a2f04a996b58401HZ92t61GFs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解，熟练掌握java核心编程技术；\n2、掌握主流开源框架，并了解它的原理和机制；\n3、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理的应用，完成相关需求；\n4、熟练掌握springmvc,springboot,mybatis等开发框架；\n5、了解微服务架构,有分布式为服务架构编程经验者优先\n6、喜欢尝试新的技术，关注新的思维，并能从技术趋势和思路上能影响产品；\n应届毕业生，无实际开发工作经验的勿扰！",
+      "encryptAddressId": "2460676b0001756333B73964EVo~",
+      "address": "深圳宝安区海船大厦11楼1122",
+      "longitude": 113.836853,
+      "latitude": 22.590285,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0cdca880305c5a55046fc090ea1ea05",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e556c32f2051f62e8fac9bcd4536ca4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "springboot",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "科途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "947ad220e60098331nN53dy_GVs~",
+      "brandName": "科途",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717102370703,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科途",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

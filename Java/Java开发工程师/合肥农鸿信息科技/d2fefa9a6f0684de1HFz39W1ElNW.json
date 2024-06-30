@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "y3yilNwmDWeAx-31cPvMWPuOg8CH43kLTFTsAUsDLUUJvJCqMTXjbXCqU174C6KGclmivtgDH9b-0cWQbmc8BKoGprW-aWFNKk7ahwn_cwuwpHBrOIqUJRhnJGKsJ7YY6vMUvtj3iqpT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2fefa9a6f0684de1HFz39W1ElNW",
+      "encryptUserId": "de0193ec36c3cca703Bz2dW8E1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "//1.、精通主流常用的应用开发框架，如Spring，Spring mvc，Springboot，MyBatis、Mybatis-Plus，Spring Cloud 等,有政府相关项目开发经验优先，对微服务架构、分布式系统等有设计与开发经验者优先；\n2.熟练使用关系型数据库，如Mysql等;熟悉软件开发与设计流程、熟练掌握数据库结构设计与SQL性能调优；\n3.熟练使用常用的缓存数据库，如redis，memcached等\n4.熟悉Docker、K8S的使用与配置；能够熟练使用Linux操作系统，以及应用服务器Nginx、Tomcat、MQ的使用，具有相关的调优经验；\n5.熟练使用IDEA、Maven、Git等相关开发工具，对物联网等技术有所了解与应用；\n6.有涉及项目管理经验、开源代码研究经验、能搭建技术框架及解决核心技术难点者优先。",
+      "encryptAddressId": "0b05691767206aa633N_09W9GFBYwou6Vv8~",
+      "address": "合肥蜀山区合肥留学人员创业园1号楼112室",
+      "longitude": 117.204274,
+      "latitude": 31.849391,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf5b72d5e781cbde4e895fd842d8cfcd656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7d36a2cb950cd4dfa6da0a31ff930c4a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Socket技术",
+        "服务器配置",
+        "Kafka",
+        "分布式技术",
+        "Spring",
+        "后端工程师",
+        "SQL",
+        "Java开发经验",
+        "大数据经验",
+        "微服务经验",
+        "MySQL",
+        "微服务架构",
+        "MyBatis",
+        "消息队列",
+        "容器技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "方先生",
+      "title": "人事专員",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210519/19d385e7d40edd5bc3fc876d8e6c133b2eef0bc72db0f8f2da15612ce8b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "合肥农鸿信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e734db16dab63d041HF63dS-FVI~",
+      "brandName": "合肥农鸿信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "包中餐"
+      ],
+      "activeTime": 1718786626064,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合肥农鸿信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

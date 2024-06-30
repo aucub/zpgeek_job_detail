@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cWRFGOMPiQNtD-31c4I0MBCIIZAUYXGuyOWjvO146dvUdysGM7TlDryJ38vxt-NrJ2mYh-I3Y7yWCwJNmPBm2_LeXzP8J3y9wniHXVMpJ4WIKPxpk5oZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4fce8d49fa562371nB509-6F1JY",
+      "encryptUserId": "22ca8d56d3254a4c0nZ-2N28GVZQ",
+      "invalidStatus": false,
+      "jobName": "Java工程师（梅溪湖）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "Java，Spring，MyBatis，ActiveMQ\n1、本科及以上；\n2、一年以上JAVA开发工作经验；\n3、熟悉springboot、springdata、springcloud、spring、mybatis、quartz等开源框架的使用；\n4、熟练互联网常用中间件，如：ActiceMQ、Dubbo、zookeeper；\n5、熟悉工具eclipse、maven、git、svn、idea、tomcat的使用；\n6、熟悉SQL语言，mysql, oracle数据库。",
+      "encryptAddressId": "6f4c51bb0d40d38e03Zz09W7F1Y~",
+      "address": "长沙岳麓区步步高总部大楼1楼（电话联系面试官）",
+      "longitude": 112.862749,
+      "latitude": 28.195879,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/611581aa18a792c0983fad81919e80e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/294fdfec2ea6cfe63f0781fe42cf6c99",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Dubbo",
+        "Oracle",
+        "MySQL",
+        "GIT",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "人事部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/80db2c795d35bdd5d77bfa754bd288e36bfcd6faed0119f0a5dfc649432_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "汇银恒通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b2d6f436ca640f711nF72tS9GFE~",
+      "brandName": "汇银恒通",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717105687243,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇银恒通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FwVVX6i9xgv3O-21DIcl_DBhXsAHTxzgGKiYXehg9TSYFI4Fi7vcH5M95JG7TGJ8pisSYE-4rD1AZ4kdoKhzu1sBsuAU60l7CGA6xjUuoKIuA3a_X3qDO9gCtFUag6YsOiLACLVfWw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ac386f8904f0af90HV62924E1Y~",
+      "encryptUserId": "7a09886b49b89f781HB_29-0EVQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n1、参与公司平台系统产品的后台开发、维护工作；\n\n2、配合开发进度及任务分配，完成相应模块软件开发任务；\n\n3、完成项目相关产品技术文档的编写等工作；\n\n4、协助前端部分开发，以及大数据建模、训练和验证等；\n\n\n\n岗位职责：\n\n1、三年及以上java开发经验，熟悉jvm运行环境、精通Java基本语法、掌握常用设计模式、多线程等，有分布式系统的设计和开发经验；\n\n2、熟悉J2EE编程，对各种开源框架如Spring、SpringBoot、Springcloud、SpringMvc、Mybatis等有深入的应用和经验等；\n\n3、熟练使用Java开发工具，Eclipse、VSCode、Git、Maven、SVN等；\n\n4、熟练掌握CSS3，html5，jQuery，JavaScript，AJAX，JSON键值对封装与提取；\n\n5、熟悉VUE框架，熟悉前端mvc/mvvm开发框架优先；\n\n6、熟悉MQ、Redis、Mysql等相关开发，对Sql脚本优化有一定见解；对范式有一定了解，有数据库表的设计经验；",
+      "encryptAddressId": "9f7fea0aac92d06d3nZ529i6EQ~~",
+      "address": "上海黄浦区海兴广场17楼A座",
+      "longitude": 121.467707,
+      "latitude": 31.204506,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7bcd383dd9e3544b899c3a5f07375372",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39ea0ed1690e6227f908b75db44e04d3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java 开发工程师 平台开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创能国瑞",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1634f4bd62d8dd511nB_0t29Ew~~",
+      "brandName": "创能国瑞",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130652622,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创能国瑞",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

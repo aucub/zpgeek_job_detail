@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Y8sXqezz1PkZt-41yDeBu_gFr1Y5OL-WB4tjM4gjMki8cPQNNN6lpL2Y-vNq2OvSMGCHHlQLWIwy6zoCRfoxAwQNSWW0fyYodRkREdGHJ25YjgUPdiI_tP15ONxfIgKovQ229_z7Pf4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5031346b1be6163e1HFy0ty_E1VX",
+      "encryptUserId": "7834568d751d2ae11HZz0ti4EFc~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.协助梳理业务需求，进行需求分析，提供技术规范及设计方案;\n2.负责并参与系统设计、重构、优化，根据业务规划及技术规划制定应用系统设计;\n3.参与业务及系统功能架构与组件代码编写，开发与维护系统功能及业务功能;\n4.发现和解决业务系统技术问题，保证系统质量、性能和稳定性。\n\n岗位要求:\n1.有红蓝对抗系统仿真的经验优先;\n2.2-3年及以上工作经验，计算机或相关专业本科毕业，有扎实的计算机基础知识和编程功底，良好的编码习惯;\n3.精通Java，熟悉MySQL、Oracle、Redis、消息队列等常用开源软件;\n4.熟练使用spring、springcloud、mybatis进行开发，熟练使用git、SVN版本管理工具;\n5.掌握HTTP、TCP等协议，对性能调优、故障处理等有较强的分析和处理能力;\n6.熟悉GIS相关工具和地图引擎，如GDAL.geotools、GeoServer、Cesium;\n7.精通MongoDB、PostgreSQL、MySQL、Redis的数据库，并有过相关数据库的开发经验。",
+      "encryptAddressId": "98e43debfb188d6e0HB72tq0F1NRxo28Wfs~",
+      "address": "成都武侯区茂业中心B座3007",
+      "longitude": 104.066581,
+      "latitude": 30.590701,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf4f3c71512f9612253731ea3eb8c59fa36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd8a4170550e93fdbfa496221b4ba7faa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240223/607f1f3d68754fd0ac0c12165e4f9ea58ff4b7d14ff8c45f492d5bc54be21303dc12fbf7caa2da1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "振芯自强电子科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3fd1b3f3605c9c5133F62N-4GA~~",
+      "brandName": "振芯自强电子科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240329/7bf6f160950405e939d8c9b19c6807c16cf9118b98bdc16055c46e72daa0b3edcb9f01080ea3aced.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100905,
+      "industryName": "铁路/船舶/航空/航天制造",
+      "introduce": "成都振芯自强电子科技有限公司成立于2014年，是一家民营军工研发、生产企业。其业务涉及航天、航空、船舶等相关领域。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "定期体检"
+      ],
+      "activeTime": 1719310646790,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "振芯自强电子科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xNQJg7rjqqbjU-m1VSfCOsb3mwp3DzvQHrYXq2HJbHJGrddDdTL7jEXEdkJcwOybfx6EwFcx1ZonV3RD3XufBduCh4vz9EKLpqDtGuH2NchqVgS8ihviL5mItWEJ3VC0O9piIUdNOQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "241e06b9a44a7f520XN-09S7Elo~",
+      "encryptUserId": "086537148f40e9a733Fy39m9FFs~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通JAVA语言编程，熟悉主流MVC架构，常用设计模式；\r\n2、熟练掌握MySql、Oracle、Redis等数据库，掌握sql语法、索引、过程、触发器的使用;\r\n3、具备良好的面向对象编程能力，熟悉流行的开源技术；\r\n4、精通B/S架构开发，熟悉SpringBoot、Spring MVC、Hibernate 等架构优先； \r\n5、具备良好的沟通能力，能承受压力。",
+      "encryptAddressId": "4cf059622999f1d51XNz3920FFo~",
+      "address": "杭州上城区高德置地广场",
+      "longitude": 120.208318,
+      "latitude": 30.243292,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/777d4602e4225c49435777ccc62bd77a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb0e1631b2764e0732fbf0524050c9e5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "Hibernate",
+        "MVC开发",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "杭州因素",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8d2f02509821c4500HRy3dq0Eg~~",
+      "brandName": "杭州因素",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127143625,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州因素",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

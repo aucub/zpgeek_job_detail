@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gcpcn6s7c30TM-11184vu43Atis21kWZ6KlDnx3EF_ubNuyFbe1gKPZJZg9Zp0JeB0__Gwj49OnKghcQXUmLpdI0CC7Q--eiwgh0P51mgIo_pFJz8Na7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ae9469192c8bb7cc1Hdy3tm4GFJT",
+      "encryptUserId": "a28b1f255501b1b70XVy2NS_FVpZ",
+      "invalidStatus": false,
+      "jobName": "Mes后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1. 负责分布式iPaaS/SaaS一体化云平台的研发，帮助大企业数字化转型\n2.负责mes功能模块的开发\n3.擅长各类软件平台集成，有集成经验者优先。\n任职要求：\n1、计算机相关专业，专科及以上学历，两年年后端研发经验以上\n2、精通Go、Java、C/C++、Php中一门或几门语言的开发；\n3、开发框架及其技术设计思想和实现方式\n4、熟练掌握常用的数据结构和算法,常用网络的基本原理，如tcp/ip，http/https\n5、熟悉mysql、mongodb、redis、kafka、hadoop生态等技术相关知识。\n6、熟练使用Linux相关命令，熟悉shell常用命令，可以编写shell脚本，了解调度系统原理；\n7、有企业系统集成经验者优先，有ERP、WMS、MES、OA等系统集成经验者优先。",
+      "encryptAddressId": "98516421839856181nVz29m-GVJW",
+      "address": "杭州滨江区保和中心b幢1208室",
+      "longitude": 120.219209,
+      "latitude": 30.171074,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0c7aae4fd1dd489e6764dc141c40d7e76bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa99a3291db7da9cd755739633515d58a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Golang",
+        "Python",
+        "Spring",
+        "SpringCloud",
+        "Docker",
+        "MySQL",
+        "MongoDB",
+        "微服务经验",
+        "ERP开发经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "傅先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230909/607f1f3d68754fd0598564bc28bc6f42f238601ee29121430680ecb4311f187a002ba22aefb83fa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "杭州融新智能科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "54a53e2be55be7071HR73N65F1Q~",
+      "brandName": "杭州融新智能科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718444518815,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州融新智能科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

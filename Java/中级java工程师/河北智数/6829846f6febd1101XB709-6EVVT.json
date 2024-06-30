@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_XhfnywpRuzin-D1fy_4dt6SBl7t73WqgV6tlUC5WaI0Z9ClrHLkWeTUKZhS03SW1r2FkfxRZi9XkV928a5cThF40V-lqjcd-UeyQL8sNgScQJgMerNAlNzSWIkPl5CFaAtmvlobfQ5O",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6829846f6febd1101XB709-6EVVT",
+      "encryptUserId": "72092aeaeade806a0n1y2di-Elc~",
+      "invalidStatus": false,
+      "jobName": "中级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091000,
+      "locationName": "邯郸",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、深入理解微服务产品体系的技术原理、架构和使用场景，负责平台的系统和微服务架构设计\n2、参与项目需求分析、详细设计，功能模块设计、数据库设计等具体研发工作\n3、严格按照开发规范、标准，准确地进行项目编码开发\n4、参与系统技术评估、技术积累、技术难题解决等工作\n\n任职要求：\n1、2年及以上企业及软件开发经验\n2、熟悉Java常见开发框架，有扎实的Java基础，有大型项目服务架构经验\n3、熟练使用MySQL，对数据库的SQL优化、表设计有经验，有分库分表经验，熟悉数据库层访问中间件、数据同步中间件；\n3、熟练使用常用缓存技术redis、memcache等，并理解缓存技术原理和机制；\n5、熟练使用 Dubbo/SpringCloud、zookeeper 面向服务SOA分布式技术和服务治理架构，并理解分布式相关技术原理和机制；\n6、熟练使用Linux系统，熟悉tomcat\\nginx优化等，熟悉基于负载均衡高并发的系统架构设计；\n7、有较强的逻辑/概率思维能力，思路清晰，善于思考分析、归纳、解决问题； \n8、熟悉restful接口的设计及规范； \n9、具有较强的沟通能力和较强的责任心及团队意识。",
+      "encryptAddressId": "cc3a164fbed137da0XFz2N-8EFM~",
+      "address": "邯郸丛台区恒隆广场(陵西北大街)21层",
+      "longitude": 114.484883,
+      "latitude": 36.615768,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8ad7f2fe7d916021982a8b1d801f7cf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/172737b04dad7910529702f37a15432c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "Tomcat",
+        "Docker",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "团队管理经验",
+        "致远"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜先生",
+      "title": "人事/行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220719/607f1f3d68754fd0f4b6695356e807e09b100f23f34089bbf89e98ea551be88e9e25e7be352_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "河北智数",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d2cf33f861bf0581nd-39y4FFQ~",
+      "brandName": "河北智数",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220810/7b5b554d84f9729c92f606ff23461f927c984e07221686eaf89e98ea551be88e9e25e7be352ef1f0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司专注于数据治理，软件开发，团队氛围极好，欢迎加入",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719392783787,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "河北智数",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

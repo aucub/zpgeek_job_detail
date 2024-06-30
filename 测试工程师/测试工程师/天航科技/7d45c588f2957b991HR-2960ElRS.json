@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ezfQxS4Iw9JEu-21LS_lKhYiQWWEpnnPn_u8Oc5kturYlJOLlkvpUArfyi7ofMeApRrlFumIxrZPW6Ps5BFqLbIObKNz--kLO9EIaFw-YfKCVYvx7IUj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d45c588f2957b991HR-2960ElRS",
+      "encryptUserId": "e65eca90be33d1e50nF90tS4E1pQ",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责社交、语音、直播行业产品相关的日常版本迭代的测试工作，包含客户端、管理后台、活动等；\n2、制定测试策略、方案及计划，根据需求梳理测试用例，编写测试脚本，参与用例评审，完善测试用例；\n3、准确定位问题、并跟进，协助研发人员解决问题；\n4、积极发现项目中进度、流程、质量风险，能够提出合理化建议并且推动解决问题；\n5、能不断探索和学习新的测试方法和技术，引入到团队，提升团队的测试质量和效率。\n\n岗位要求：\n1、有1-3年测试工作经验，有社交、语音、直播行业的产品测试经验，计算机相关专业；\n2、掌握软件测试理论和测试方法，能独立设计完善的测试用例及测试脚本编写；\n3、掌握接口测试、熟悉测试相关辅助工具，如Jmeter，Postman、Appium、ATX；\n4、了解SQL语言，了解MySQL等数据库的操作；\n5、有独立分析和推动解决问题的能力，有良好的责任心，具备良好的逻辑思维能力及沟通能力。",
+      "encryptAddressId": "2360c778b2e6517d1nR52Ny6EVtY",
+      "address": "广州天河区三七互娱大厦1110-1112",
+      "longitude": 113.384015,
+      "latitude": 23.117079,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bf17e97e94e6bd53c52ad817ae3858c9c66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf0c72fa77195515eaf84726d3f08033336bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "计算机相关专业",
+        "测试工作经验",
+        "社交",
+        "语音直播"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "天航科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64996cee64819bd51XZy2dy1ElY~",
+      "brandName": "天航科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230801/7bf6f160950405e9bea4a6a64d1305804a16e09734b4787bb4fe7b16c2527b2e48ae9f12643625df.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "我们是一家专注于海外游戏和海外社交业务的公司。致力于为全球用户提供优质的游戏体验和互动社交平台。我们的团队充满激情和创意，不断创新和改进产品，以满足用户多样化的需求。无论您是游戏爱好者还是寻找新朋友的社交达人，我们都将为您打造一个充满乐趣和可能性的全球化平台。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "加班补助"
+      ],
+      "activeTime": 1719571418096,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天航科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

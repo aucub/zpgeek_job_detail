@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eAQzx3QxCL5sR-h1R1EWGY0DuSZAPhE3dEEYdtznCRDnKeopFO2BXj0N-vRs7U4rtXe7tuTk6gqjLpGH6SUBq8kXLfMBJbQgcxHFW4r4E6oQPK4EEp6w6dbLm7vPxwyH-WOJrNXtTVs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a75eb8625b7343921HF839S1EVFU",
+      "encryptUserId": "2d2aecb9da00185d1Xx93Nu1FFU~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、 工作经验：1-3年；\n2、 简历上面至少三个项目描述；\n3、 项目描述中至少有两个项目重点参与；\n4、 熟练使用java开发，对多线程有一定的了解，使用，以及调优；\n5、 至少熟练使用一种java开发框架或分布式架构：spring，springMVC，springBoot，springCloud；\n6、 至少熟悉一种前端环境或前端框架技术：node.js，js，jQuery，es6，vue，react；\n7、 至少熟练使用一种关系数据库与非关系数据库：mysql，oracle，MongoDB，redis；\n8、 能熟练使用linux命令，以及能使用linux独立部署项目优先\n9、 有独立开发/负责模块能力优先；\n10、有运维项目，与设备管理软件开发经验优先；",
+      "encryptAddressId": "b43dce4e526265a20XJ73dm6FFo~",
+      "address": "上海宝山区上海首臻信息科技有限公司3号楼311室",
+      "longitude": 121.478022,
+      "latitude": 31.34629,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f80a97dc4e64e9da81aa00e28c89d5f6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06e839b20aca35a2819c53b91e823987",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190222/47db6cf3ce1b06a719e0b00142ecc8b95651c59542a694e0bf2202a9264_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "首臻",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "82f50b90a0ca768c03x62tW7Fg~~",
+      "brandName": "首臻",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190621/fff7da43dba791cdc7890a42fd60a50c5651c59542a694e0bf2202a9264f3a5a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海首臻信息科技股份有限公司 （简称“首臻”）， 在制造业的信息化管理领域积累了丰富的经验，逐步打造出了MES（制造执行系统）、WMS（物料仓库管理系统）、WorkFlow（流程管理系统）等一系列的成熟系统管理平台。\n成熟的系统软件平台和丰富的行业经验，能够为制造业的客户提供全面的生产信息化管理咨询、生产管理系统实施、物料管理系统实施、人员管理以及自动化系统集成等服务。\n目前公司骨干都是有着多年甚至十几年制造业信息化管理经验的资深专家，多个产品都取得了国家知识产权中心发布的软件著作权登记证书。公司的MES、WMS等系统广泛应用于各企业。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "住房补贴"
+      ],
+      "activeTime": 1717909299000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "首臻",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LRJd1Lr1p4vox-w1pGd-2xZkRUU4UVvJ0cU9XOpSwOx3QUhsHZS4fXsQkfISX2hadcWIy16LSLuRVgVYfUpTIzcMjZjyTxBJUKnoVl9DlKlox5ZKOA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "456e5c5477f314971nJz2t64E1BU",
+      "encryptUserId": "f96d8fbb34fe9cb70XVy2Ni5E1M~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通Java语言，熟悉 HTTP协议，了解分布式应用的各种交互协议。\n2、 能够快速定位Java性能问题并且能够独立解决，掌握并遵守编码规范，正确使用日志框架（slf4j、log4j）进行日志记录。\n3、精通J2EE技术平台及主流框架，具有SpingMVC、SpringBoot、Mybatis、Redis等框架开发经验，对Spring、MyBatis具有深刻理解。\n4、熟悉Oracle常见关系型数据库，精通存储过程、视图、触发器的编写，具有数据库调优的经验。\n5、熟悉使用eclipse、idea、SVN、Tomcat等软件。具有敏捷开发思维模式，能独立分析和解决问题。\n6、责任心强，具备良好的团队合作精神，承压力强，有良好的沟通能力，能够清晰描述自己观点。",
+      "encryptAddressId": "3e411284f43a3e363nN929W7FQ~~",
+      "address": "南京鼓楼区中山路99号815",
+      "longitude": 118.78356,
+      "latitude": 32.046847,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a815e718ade2e0e2a9f6440aec4a55ae",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/906253a17f7dcd5183f1ea684987dc74",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Redis",
+        "Eclipse"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "润易联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "85a505e08679bce41HJ93dS8Ew~~",
+      "brandName": "润易联",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190324/363645376bf7387fbe4b0dd9284b1f189db203883a53b986692b682072b2b988.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "江苏润易联信息技术有限公司是由金融专家、网络专家、安全专家联合发起创办，致力于成为一家新型商务生态系统应用服务平台运营商。通过互联网+为合作各方构建新型商务生态系统；关注不同行业、不同应用，针对不同对象提供差异化的产品和服务；打造开放共赢平台，与上下游产业链的合作各方共建生态产业环境。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权"
+      ],
+      "activeTime": 1717067985294,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "润易联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

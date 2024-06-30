@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pyvweHOyEpCl9-g1y5LOI0k0RZ3zYQvRxXQeOU4fh0dJ00SL6MHsN8MIrCQOgAi_9EY_J8vrWwTW6BbiFVMvslI5tOS_xyVQFrp_vPtMbquhOah6SbizNtPcf1WH9E7940ihgkRcTQfoUA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3eba7fd01427ef1e1HZ-2tm1FFdU",
+      "encryptUserId": "92d8076b613388690XR609m-EVBW",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210900,
+      "locationName": "金华",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.负责报表编写（帆软/积木/T100/泛微OA等平台）\n2.参与集团日常信息化需求或新项目需求开发，主要有：ERP（鼎捷T100）二开、系统集成、若依开源框架开发(Spring Boot + VUE)\n3.负责日常开发及项目相关文档整理\n4.参与erp/mes等系统部分实施工作，为各部门提供技术支撑\n5.根据公司和部门需要，服从上级的其他安排\n\n职位要求:\n1.本科及以上学历，计算机及相关专业，英语4级及以上，对软件工程管理有一定了解（基础扎实者可以降低要求）\n2.入职后需学习4gl语言（4gl为鼎捷T100的开发语言）\n3.精通DDL/DML/DQL/DCL，熟悉常用数据库及相关工具，熟悉视图、存储过程、函数等\n4.精通java se基础。熟悉主流j2ee框架，如：SpringBoot、Spring、Mybatis、Spring Cloud等。熟悉mvc设计思想、熟悉rest风格编码。了解市面常用开源框架，如Jeecg Boot、若依\n5.精通前端js、html等基础，熟悉css，了解前端框架jQuery、VUE，了解mvvn设计思想\n6.熟悉linux常用操作指令\n7.熟悉restfull API 及soap API编写方式，熟悉常用接口调试工具\n8.具备一定网络知识，了解TCP/IP协议工作原理\n9.满足以上要求者，有信息化工作经验者优先，具备linux运维能力（熟悉docker等容器）者优先\n10.集团正处于信息化高速发展时期，职位成长性高，但也需要求职者较高的主观能动性和强烈的责任感。无工作经验者可以跟着团队一起成长，但需有较扎实的基础",
+      "encryptAddressId": "a76fed7da77950113nd43ti7EFI~",
+      "address": "金华永康市中国新多集团有限公司委员会1楼",
+      "longitude": 120.003422,
+      "latitude": 28.887713,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfec9b3f12501cd057459e9b6635a5c6576bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf380f81a3c41c3b87874b1f94656ba0cf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "应先生",
+      "title": "总经办副主任",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230606/607f1f3d68754fd081bb92d2ef625b667d1d57d744571082af7c9549f53dc3f646ccdfe3c6f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "新多集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c8c88adf274cdaa11XNy2ty8ElM~",
+      "brandName": "新多集团",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100705,
+      "industryName": "建筑材料",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "餐补",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718789862939,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新多集团",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

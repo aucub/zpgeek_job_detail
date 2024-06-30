@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xZTW_YvZgQV0c-f1k58zvaa3TKt6n5PEeqxoPZZxN_cfoDjy3NsISwyslYgCvl5JcjFTXyafeAOTiQokiugd7NaPWmQgzb8lXchqY9KsA6BLwpum",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5e7c04c5f577cf7d1XV83t-6GFtT",
+      "encryptUserId": "ad9363a55a31e1b21nF_29q7",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责JAVA研发工作，功能模块的编码\n3、代码自测以及优化；\n3、参与系统软件设计，参与概要、详设等相关技术文档的编写；\n\n任职要求：\n\n1、精通Java基础知识、多线程、同步机制、软件设计模式；\n2、了解并熟悉高并发、高可用、强一致原理与架构，有Saas平台或大数据平台架构设计经验优先；\n3、了解并熟悉基于MQTT消息队列；\n4、熟练掌握数据库MySQL，Redis应用开发;\n5、积极解决问题，具备强烈的责任心；",
+      "encryptAddressId": "d467b6c33346b4ba0nZ72t-4GFY~",
+      "address": "太原杏花岭区鼎盛国际青创城1号楼6层625",
+      "longitude": 112.604657,
+      "latitude": 37.896515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d7c399fd42c1ffd6d6bfca33991b26b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d59607442f7db00ee38e87321d90e131",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Redis",
+        "SQL Server",
+        "SpringBoot",
+        "后端开发",
+        "IDEA",
+        "Eclipse"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山西泰华健康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ce7ca89bff4a2cf51XR92d61E1U~",
+      "brandName": "山西泰华健康",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717058794018,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山西泰华健康",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

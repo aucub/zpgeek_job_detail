@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eShwcs85qx_MW-X1eb0VHueE0PAOCYs0rlevLCpDXGfN2GDejieKzpTIz2xN9kF1MvWTnd0sOzAGzD4goDQCp3SMq4uU3mVXiYGUkbmkeBhCv5UJJlUj4LJpDGuDGa1TilP1-8TEYw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a06aa930f50a576b3nF80tm5FVU~",
+      "encryptUserId": "1b04805630b406d81Hd-29-9FFc~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "熟练使用C#语言SQL server数据库。对面向对象有基本了解，有过winform上位机开发经验优先。具有独立开发项目者优先考虑。\n岗位职责\n1.阅读 分解 客户的需求文件,转化为技术文档,完成代码编写\n2.负责公司设备上位机系统开发\n3.维护完善公司已有的软件系统\n4.负责现有系统与其他系统接口对接\n任职要求\n1.电子,通信,计算机,自动化控制相关专业毕业,专科及以上学历\n2.具有一年以上的开发经验\n3.熟悉 TTL RS232 RS485的异同与使用环境\n4.具有良好的C#(或C/C++)语言编程能力,能够独立编写Modbus/自定义串口协议 (采集/下发/控制) 应用程序\n5.熟悉互联网,无线局域网,以太网通讯技术 网络设备(路由器)的配置及使用\n6.了解Modbus.(TCP/IP.UDP)Socket.HTTP 通讯\n7.至少熟悉 MSSQL/MySQL/SQLite 等一种数据库的使用 有使用过 Sqlsugar ORM的优先考虑\n8.拥有良好的编程习惯 了解基础的数据结构和设计模式\n9.了解 git 代码版本管理",
+      "encryptAddressId": "d5a447dd0adc3a5b33x409y1FFU~",
+      "address": "苏州吴中区汇融万盛科技产业园4幢",
+      "longitude": 120.565444,
+      "latitude": 31.194603,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/656f06fa7d22dd9e2e9fb58009bfd77c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84881893da679453467263176abd9d78",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "C++",
+        "C#开发经验",
+        ".NET开发经验",
+        "Winform",
+        "中大型项目开发经验",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171224/2471a1f453924438cdb5414423472597246f0003735ce48e826a5ebb5fb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "欧伟力自动化",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f74f63a9e10c072e1nd-39-6EQ~~",
+      "brandName": "欧伟力自动化",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "苏州欧伟力自动化设备有限公司是一家集研发、生产、销售与一体的专注于自动化设备，智能化设备和软件的生产型企业。主营自动化设备：在线自动分板机、自动点胶机、自动流水线、自动贴标机、清洗机、自动仓储、自动锁螺丝机、自动焊接机，环保型封箱机，封口机、真空包装机、打包机、缠绕机、收缩机等系列产品，国内拥有专业化的加工生产基地和实力雄厚的研发机构，公司自成立以来始终保持着“诚信、负责、专业”的企业理念。",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1719285758943,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "欧伟力自动化",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

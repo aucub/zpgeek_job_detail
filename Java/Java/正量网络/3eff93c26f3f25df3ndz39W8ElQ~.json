@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tn8s37xNGtb0Z-n17pQ3dzKjy87P40zrXcwFyEzJ_3P0pA9myXqT7U7rmUdfJDOCdJ_A0ml012Rcm8GMbls44U4emgwtaHKewZmBex_39UMdDdj3mw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3eff93c26f3f25df3ndz39W8ElQ~",
+      "encryptUserId": "c21dcc8601fa5f401nZ439y0F1JZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、依据业务需求文档，完成软件模块的分析、设计、开发、测试，以保证能够按期交付，并稳定运行；\r\n2、负责编制技术方案，进行需求分析、系统架构设计、工作量确认。\r\n3、负责进行核心技术的应用开发，解决技术应用难题；\r\n4、分析现有系统产生的问题，并给出解决方案，及时修复问题；\r\n5、参与相关项目的设计、评审、开发，保障系统能够按照需求达到预期效果；\r\n6、跟踪了解业界发展、互联网相关最新技术，参与重点项目新技术研发工作；\r\n7、对低阶岗位人员进行技能培训、指导低阶岗位的技术开发工作；\r\n8、其他任务。\r\n任职要求：\r\n1、三年以上软件开发经验；计算机相关专业本科学历；\r\n2、精通Java语言，精通Spring Boot，Spring Cloud框架；\r\n3、熟悉常用的设计模式和开源框架；\r\n4、熟悉分布式系统基础设施中常用的技术，如缓存、消息中间件、搜索引擎等；\r\n5、熟悉高并发、高可靠性系统的设计、监控和运维等；\r\n6、了解Docker、编排工具、自动化运维相关技术优先；\r\n7、具备较强的责任心和良好的学习能力、逻辑思维能力，善于沟通和团队合作，勇于创新和接受挑战。",
+      "encryptAddressId": "be08217543eb47261Hd939i6GVA~",
+      "address": "北京西城区经济日报社(北门)14层",
+      "longitude": 116.372266,
+      "latitude": 39.878365,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9855baa7aaf5e279c56901ab1b548f25",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af303a63e8251324d00dbf4a5c8ec06a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "容器技术",
+        "Spring",
+        "架构师",
+        "微服务架构",
+        "SpringMVC",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "段先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "正量网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "89a41917a4f5118d0n1539q0FA~~",
+      "brandName": "正量网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "餐补"
+      ],
+      "activeTime": 1717070195317,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "正量网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

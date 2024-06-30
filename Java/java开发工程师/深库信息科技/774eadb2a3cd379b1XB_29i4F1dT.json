@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DdrzPjA5hV9yu-d1J8JEVHHrINSv8bEKvv8E9FIu8rNFDTFIPditYwTEeORRbi0t1juKL3uVnMmgBnZqtlQY9H6y-VrBbVg6ZX71wXT9FemJQan0fOAvkd9GdqEySS-zYdAr-RMdsoV6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "774eadb2a3cd379b1XB_29i4F1dT",
+      "encryptUserId": "0579e9544b99525803N82dS_GVo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、负责用户需求调研，系统体系结构、功能、性能的分析和总结设计工作；\n2、参与项目的开发、计划、管理、跟进与团队技术能力提升管理工作；\n3、负责完成系统详细设计、开发、迭代、维护，解决相应业务、技术难题；\n4、掌握控制项目整个流程，并能协调组织完成项目各阶段的文档与管理工作；\n5、协助技术团队建设与相关技术团队管理工作；\n任职要求：\n1、精通敏捷开发模式、精通ITIL等治理体系精通微服务系统架构的开发，能够基于开源实现方案设计多种场景下的系统架构，熟悉整体开发运维管理体系\n2、精通zookper、Spring Cloud、Spark等原理、部署及多场景使用\n3、精通JAVA设计模式、面向对象编程，精通Spring Boot，熟练掌握spring mvc , mybatis、Hibernate、JPA等框架\n4、精通分布式数据存储相关的架构设计及性能调优，精通MySql等常用的关系型数据，熟悉magodb、hadoop、neo4j等大数据数据库\n5、有网络爬虫、搜素引擎的经验优先\n6、熟知DevOps 体系，并能够组建开发、测试、运维的一体化环境\n7、语言表达能力强，性格较好，主动沟通能力良好\n8、对自己的工作与岗位职责负责，面对突发情况，具备应急响应能力\n9、针对产品现有的程序，使用、开发新的框架，显著提高产品的稳定性\n10、具备较强的抗压能力",
+      "encryptAddressId": "f223c94a648d985f1H1929-4Fw~~",
+      "address": "上海杨浦区杨浦科技大厦2号楼12层1209室",
+      "longitude": 121.518,
+      "latitude": 31.29363,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf76603d0e24a4809337128bbfe620e5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/306fd41a81ce4d2035575373f6b5e460",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "MongoDB",
+        "Java开发经验",
+        "python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢先生",
+      "title": "深库信息科技总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "深库信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a8671e7d533e5d21nZz296-FFE~",
+      "brandName": "深库信息科技",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1718323879000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深库信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

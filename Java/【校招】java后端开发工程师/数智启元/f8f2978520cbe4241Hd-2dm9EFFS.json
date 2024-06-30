@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XeZ0-mGGExUlE-V15ZTeZOQzCWOdXR-jsSFdbr86pixFUMJyD126z41_SwM_3cq_yI-tMpvQPkhHKpyyaJfD-B6n6aldEgxWL32iwkhn8VOKLwg3722plTKJL9fHf963yhMpnsO25FFy9g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f8f2978520cbe4241Hd-2dm9EFFS",
+      "encryptUserId": "924c405b98c7f7571nV93Ny8FFZX",
+      "invalidStatus": false,
+      "jobName": "【校招】java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1.根据项目/产品需求，给出合理的技术实现方案；\n2.根据工作任务要求，给出工作量评估和开发计划；\n3.根据项目任务、进度、人员情况，进行个人或者小组工作任务的分解与下发；\n4.根据分配的开发任务，进行代码的开发、自测试以及互测试，检查自己以及小组内的代码；\n5.对项目负技术研发责任，分析并快速解决软件开发过程中的技术问题，确保提交工作成果的完成；\n6.根据技术需求，能够对新的技术方向和技术栈进行快速的技术调研与验证。\n【岗位要求】\n1.本科以上学历，计算机相关专业，具有Java开发经验；\n2.良好的沟通能力，能够与客户、领导、项目经理、技术经理以及同事进行顺畅的交流；\n3.良好的业务理解能力，能够快速理解领导、项目经理、客户提出的业务需求；\n4.熟练使用Java，精通io、多线程、集合等基础框架，了解JVM性能优化；\n5.熟练使用常用的Java技术框架，对Java Web的各种开源框架如Spring、SpringMVC、SpringBoot、SpringCloud、Mybatis等有深入的应用和优化经验；\n6.熟悉数据结构，良好的数据库设计能力，熟悉MySQL，熟练编写并掌握复杂SQL语句，具备数据库优化以及SQL性能调优能力；\n7.熟练掌握MQ、Redis、Zookeeper、Elasticsearch搜索引擎等常见的分布式存储相关技术；\n8.熟悉Maven、SVN、Git、Eclipse、IDEA、Postman的使用，熟悉Maven项目配置管理工具；\n9.熟悉Tomcat、Apache、Nginx等开源的服务器的配置和高并发下的性能优化；\n10.熟悉项目部署流程，熟练使用docker、Jenkins等技术；\n\n【职位福利】\n五险一金、带薪年假、绩效奖金、出差补贴、优秀员工奖金",
+      "encryptAddressId": "f22b7985318eaea61nVz2N-6EFNX",
+      "address": "北京丰台区房天下大厦A座房天下A座10层",
+      "longitude": 116.301019,
+      "latitude": 39.813699,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76e0beb7b9cb8166d2ec971cf9e11ec7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a1355b50358d8cec8a1a1437633ef09",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Tomcat",
+        "Redis",
+        "Spark",
+        "SQL Server",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "hrbp",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200905/b9cfb8bcb4f5d446b9f6a7ea721bd624015088b79a366070205c48f0191_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "数智启元",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7b0be8bb0777e1e31HR429i5FlM~",
+      "brandName": "数智启元",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240312/7bf6f160950405e928da7b9d3d8fef692425f80f5940c443015088b79a366070205c48f019151a68.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京数智启元科技有限公司（以下简称“公司”）成立于2020年，注册资本1000万元。是一家以大数据、AI技术为核心，以制造数智化和科研数智化为典型应用场景的科技型创新企业。公司始终以用户需求为导向、以研发创新为驱动，致力于为客户提供自主可控、安全可靠、高效敏捷、方便实用的专业化软件研发服务及产品，并可为客户量身打造一站式的数智化转型整体解决方案。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "法定节假日三薪",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1718995031764,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数智启元",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

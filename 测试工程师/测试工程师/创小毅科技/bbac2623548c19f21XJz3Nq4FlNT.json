@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ewk81ljwlK0rR-o1umcgPWdQkKzOk_atO8ntu6czgjB9dfJ3pjagUPDfUxSc2Ph-xAwWSd3Fj9kCyVcNcd-ZDtuer84EkxnFzsAMBU937TRh8njAyI4c",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bbac2623548c19f21XJz3Nq4FlNT",
+      "encryptUserId": "01558bd16d88b9070nB629u4FVRY",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1、掌握测试理论知识熟悉软件测试流程，熟练使用测试用例的各种设计方法，独立编写用例和实施测试；\n2、使用 Xmind 进行思维导图设计，分析需求并编写各个功能的测试点；\n3、使用 Postman 进行接口测试，接口数据配置、参数批量化、数据模拟；\n4、熟练使用 Charles 抓包工具可以对接口进行抓包、断点、模拟弱网等操作辅助测试，帮开发定位解决问题，准确判断 Bug 所在位置，检测接口的安全性，防止请求篡改；\n5、熟练使用禅道工具，可以对 Bug 进行提交、指派、验证、关闭、有效跟踪等操作；\n6、熟悉 Mysql 使用 Navicat 连接数据库，查询测试结果及修改测试数据；\n7、使用 Jmeter 进行服务器性能进行性能测试、负载测试、压力测试；\n8、熟悉 Linux 命令对日志进行查看以及分析；\n9、熟悉主流手机和浏览器对 App 端和 Web 端进行兼容性测试，能够理解产品需求和用户习惯；",
+      "encryptAddressId": "4d4786b70c9666ad33V409W4GFU~",
+      "address": "长沙芙蓉区宽寓大厦22楼",
+      "longitude": 113.031217,
+      "latitude": 28.18826,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ad47678c321b691b579835c8fc7e95a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c08abf2f39e6cf2809bea97b6855454",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "功能测试",
+        "渗透测试",
+        "Python",
+        "Postman",
+        "MySQL",
+        "计算机相关专业",
+        "测试工作经验",
+        "iOS/Android测试经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "章女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210703/dac617fe6d6ae62edff826f3eeb76eacbc03c28642a1545bd3eff22c78d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "创小毅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a016adb6448fcc721XF539y-F1M~",
+      "brandName": "创小毅科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "数字化，智能化，信息化的办公软件系统科技公司",
+      "labels": [
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1718619606000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创小毅科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

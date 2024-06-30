@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EayScUiS54BfN-Q17DeIbbVHqMbKKQvTT-ORfyQ6YBDQf7653oB6yuFCj6r16X3vCmG9zbsCJa8zI8xQ-GpU9VdXmqnKmGJpVwGOE4yIqxmfyjlJxzjxZaFlFdYTjnSybE9y_PUuGM7I",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "681b7c08ed686f511HB439W9EVFW",
+      "encryptUserId": "71c8e2fffa8b15780n172dm0EFI~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n任职要求：\n1.本科及以上学历，良好的计算机及数学基础，熟悉操作系统，数据库，常见数据结构和算法，以及软件设计实践； \n2.了解前后端数据交换的原理和方式;具备较严谨的逻辑思维，严谨的编码风格； \n3.熟练掌握SpringBoot等主流开发技术；掌握docker，k8s等容器化部署方案。 \n4.熟练掌握SQL及主流的关系型数据库Mysql、postgress等； \n5. 熟练掌握Elasticsearch数据库；\n6.了解常见设计模式和编程最佳实践，遵循良好的开发规范；\n7.工作积极主动，有较强责任感、思维严谨 ; 能接受出差 ,学习能力强，有较强的分析、归纳和解决问题的能力，具有较强沟通能力；曾有过区块链节点服务开发经验优先。",
+      "encryptAddressId": "f52f7ce3ad728ea60nB83tS9FFBXwYS2VfM~",
+      "address": "杭州西湖区赞宇大厦501",
+      "longitude": 120.097125,
+      "latitude": 30.310667,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eff635963c3bb9befeb156ad699623ff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84f8494a3bf72bf2708b2bd76050443f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Docker",
+        "Elasticsearch",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "杭州硅铂科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "722437dccfb4ed4c1HZz29q7EFc~",
+      "brandName": "杭州硅铂科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240319/7bf6f160950405e94ff7779ded7d5702506a5f411d37c026c79800ecfdb7cebfedeb7c6cee13071a.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州硅铂科技有限公司由浙江大学数字技术核心团队与计算机科学与技术学院、华东师范大学计算机科学与技术学院共同组建，是一家集技术、管理、市场三位一体的新型产学研综合的科技公司。公司目前拥有300余名研发人员，总部设在杭州，在太原、南宁、北 京、广州、长沙、贵阳、昆明设有分公司。\n公司以区块链、大数据、人工智能等为核心能力，为公安行业提供一体化解决方案及服务。在区块链技术、图神经网络技术、自然语言处理技术方面处于领先水平。以先进技术为依托，为公安、环保等行业提供技术服务和解决方案，经侦可视化建模平台、经侦实战应用平台在实战中得到了专业肯定和好评。\n公司在各个领域不断拓展，比如地下钱庄、传销、打击走私、假币、非法集资、证券期货等方面均有深入研究，在科研上不断进步。科技为先，助力经侦，为打造经侦一体化、服务侦查打击工作将是我们长期努力的方向。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1718353038000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州硅铂科技有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

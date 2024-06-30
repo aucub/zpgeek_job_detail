@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vGxufK7kO0gLq-41-Z5_o-mkDpR94uzlZzIbRln73BOxufxmxtfLPuZG0D-w0oxLnXKd60eYWR97nTt3tLahDYilyBH_wzQCGng-kXvprah8GQWP2xtS-JZdrzV8L_oYuP9lfEvl5PrYpY0nxdMLdFyL82gR9R3iWRLDs86eactUBuc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6554a88d27e2803b1HJ829S0EFBU",
+      "encryptUserId": "4f6a8359b00814851XN739q-FFM~",
+      "invalidStatus": false,
+      "jobName": "python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、使用Python框架进行业务逻辑后台开发；\n2、持续改进现有代码以应对多样化需求\n3、参与团队内部相关产品的设计、研发和优化工作；\n4、制定和开发相关技术规范，提升团队标准化工作流程水平；\n5、制作Docker镜像，并使用Docker进行部署；\n6、AI算法接口开发；\n7、客户端、Shell脚本开发；\n8、自动化运维系统开发；\n\n任职要求\n1、精通Linux平台上的后端开发，有良好的编程习惯。\n2、熟练掌握Python，精通Flask、django框架，具备工程经验。\n3、熟悉数据库原理和技术，熟练使用SQL。\n4、熟悉网络编程、多线程编程技术。\n5、对缓存、队列、存储、网络、代理、配置等各种服务端开源方案有充分了解和实践。\n6、熟悉Redis、RabbitMq、Nginx、Kafka等技术组件。\n7、具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和分析问题。\n8、熟练使用Docker。",
+      "encryptAddressId": "2cb952df4aff7a710XJ629q_FVE~",
+      "address": "上海闵行区新意城A(南门)A栋3楼310室",
+      "longitude": 121.393087,
+      "latitude": 31.170601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e85dcd9f788566aa5dfc770711ab4e1f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c52cb03c7b0155b739ecce23e3567173",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "Docker",
+        "Nginx",
+        "MySQL",
+        "Oracle",
+        "Redis",
+        "Linux开发/部署经验",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "汪女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230523/607f1f3d68754fd0f66544e58d27a8e831f83dac53bdb7884cb153809bfd67c72fef6081b6d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "hiyees",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "619eca49a07e7f501nZ93N29FQ~~",
+      "brandName": "hiyees",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200603/f95166ef24afb9d82944a69b30b02282ef82cceeef6335741d263c1202bef9f3.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "上海翰声信息技术有限公司是一家专注于全媒体通讯及语音智能领域的公司，拥有独立的产品设计、研发和销售能力，创立于2015年2月，至今已为多家大型运营商、保险、银行、支付及互联网等行业用户提供了包括全媒体云通讯平台、智能外呼、语音大数据等解决方案，同时致力于自然语言处理及机器深度学习的研究，力求为企业与用户之间的沟通提供最佳实践。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1719305315837,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "hiyees",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

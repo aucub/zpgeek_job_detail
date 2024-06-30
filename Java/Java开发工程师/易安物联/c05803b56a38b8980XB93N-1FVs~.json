@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tBo5mg5Yjzldo-o1zY27oS-b4XNzcU3sO2kKgvA7NzVB94yzbOt05SyPaq-pmLGVO9e64kyy5wRADK6f4tGfY0tXOzLpNlonmiMahb5C8OwpEBRX",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c05803b56a38b8980XB93N-1FVs~",
+      "encryptUserId": "1fdaa451f5aa98290HFz29W9GVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1、负责项目相关功能模块的设计、编码开发与维护，按时保质地完成所分配的工作任务\n2、遇到问题主动与需求方或负责人沟通，并能提出相应解决方案\n3、保证自己负责代码的逻辑严谨性以及注释的完善\n工作职责\n1、本科以上学历，计算机软件、通讯相关专业优先\n2、2年以上工作经验，熟悉微服务架构\n3、精通Java，深入了解JAVA及相关技术体系结构\n4、熟练使用MySql等主流数据库，并具备实际开发经验\n5、熟练使用html，css，js等web技术，具有开源js框架的使用经验\n6、熟悉后台常见开发框架，如Spring，SpringBoot等\n7、有大型分布式，高并发，高负载，高可用性系统设计开发经验优先\n8、熟悉常用Linux命令，实际操作过线上服务者优先\n9、具备团队开发经验，熟练掌握Git等常见工具的使用\n10、对敏捷流程熟悉者优先",
+      "encryptAddressId": "a0b19b999087d41d1XN53t64ElI~",
+      "address": "成都金牛区成都金牛万达广场甲级写字楼B座312",
+      "longitude": 104.073697,
+      "latitude": 30.689162,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/852e2bf380a58329c242b30edb230370",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d29fefd09d7003dee2cae9c2570e9308",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Spring",
+        "分布式技术",
+        "负载均衡技术",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "Java技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易安物联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b6526a4112e9739003Fz3tq0Fg~~",
+      "brandName": "易安物联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200109/b5b6193181893cb9e175bc8adea70011e6565ff3949ab356eb203f7278265dfe.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "深圳易安物联（集团）有限公司，\n是智能物联网应用平台的运营服务商与解决方案提供商，公司业务横跨智慧新能源、智慧新交通、智慧新媒体三大领域。\n公司现已具备基于智能物联网应用的平台研发、设备建造、市场运营三大核心能力，业务覆盖全国全国20多个省区，超过235个城市。\n公司高管团队分别来自润迅通信、天音通信、科健手机、中国移动、中兴通讯等大型企业，同时具有一支国际化的技术研发团队，先后为三大通信运营商、保利地产等提供了全面、优质、系统化的服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717107717082,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易安物联",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

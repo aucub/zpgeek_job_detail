@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cfPLB9bA4ryVS-M16DfgbaQ6BGz5C-waKxU0X12k5JtKGCNpKnXANSssB_FHp9kJDYTPDSrII4csk9tBmxQC70Eiy8pu6XP-bXox3GzZQKJJrRy0GuLr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "33cdea923326f62f1Xd52t66FVtX",
+      "encryptUserId": "80a56624613a5c6a0nB_3d29FFdX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "后端开发\n1、能够独立承担软件模块的开发；有较强的调试能力；有基于阿里云、华为云部署系统开发经验者优先；\n2、扎实的编程基础，熟练掌握java开发语言，熟练掌握SpringBoot、SpringCloud等主流技术框架，熟悉jvm、缓存等技术特点，拥有微服务、大数据量的系统开发经验者优先考虑；\n3、熟悉常用设计模式，具有一定的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强；\n4、具有良好的逻辑思维能力、良好的表达和沟通能力，具备良好的团队合作精神、较强的承受压力的能力。\n5、认同模型化设计开发理念；具备基于模型设计开发经验者优先",
+      "encryptAddressId": "642262d498dd7bae0XB53tm9FlQ~",
+      "address": "杭州西湖区浙江财经大学文华校区3楼",
+      "longitude": 120.111227,
+      "latitude": 30.285547,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44f3e3681c9e64f5c809d147ed20c6a9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d8b00b5a026202772548998311fb759a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "后端开发",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220630/607f1f3d68754fd065199e2709cbe2220c030fc3c35913dca403b5be319203fc930d432d361_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "杭州续创科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "70e79d01d462b86a1XV83N20EFU~",
+      "brandName": "杭州续创科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717599089947,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州续创科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

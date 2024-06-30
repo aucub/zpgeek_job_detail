@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pDh8l4ZlVPtd6-I1B7MZzHlIEKsIeVcN96IoX4OjdjuUlwwuDUiGK4E9Mc0JgUnSs5G2NfGVBQvZ6gJpfaTXs_66hNOMbWhYDIO7IiDp0BFoDoYx8JU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b12dc49657fd1a221nJ72N28FlBZ",
+      "encryptUserId": "643d85f56042b46f1nRz29S-FlFV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\n1、 有需求分析和系统设计经验，能根据业务需求进行概要设计、详细设计、架构设计及代码实现；\n\n2、 精通Java及相关Spring、Spring MVC、Mybatis、SpringCloud等J2EE技术架构；\n\n3、 熟练掌握Oracle / MySQL / SQL Server等数据库开发，具有熟练的SQL语句、存储过程编写能力；\n\n4、 熟练掌握HTML、Javascript、CSS等前端技术，及Vue、AngularJs、Bootstrap等前端框架。\n\n5、 熟悉Linux操作系统，能完成系统安装、调试及软件部署等工作。\n\n6、 熟练使用MAVEN、SVN、Git等项目管理工具。\n\n7、 熟悉软件开发流程、设计模式，较好的文档能力及良好的编码风格；\n\n8、 有微信公众号、小程序、app相关开发经验者优先。",
+      "encryptAddressId": "732d426e890707451nd82dW-Ew~~",
+      "address": "武汉江汉区福星国际商会大厦26楼",
+      "longitude": 114.275581,
+      "latitude": 30.588618,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82e4b43bc62b1185da7d0eb8d76eeb05",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/889803c0670785a138e0a0bf21e53ac2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "SpringBoot",
+        "SpringCloud",
+        "后端开发",
+        "Redis",
+        "MySQL",
+        "SQLServer"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "尚高软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "54769689848949c5031z0t-8Fg~~",
+      "brandName": "尚高软件",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190823/32c7cead4b5a20c5a0ffeb6a1a98129b251ce1a11793d2ca7a6d85ac946bfea8_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "武汉尚高软件有限公司位于湖北武汉， 长期致力于为企业打造一站式互联网服务整体解决方案，用专业的服务、创新的视角、领先的技术帮助企业快速、低成本建立个性化的企业互联网应用。\n\n我们主营业务：网站定制开发、微信应用开发、APP开发、Web系统开发、应用软件开发等。\n\n目前，公司进入全新的高速发展时期，因发展需要，诚聘英才，我们期盼更多的精英联手开创辉煌的未来。所述岗位一经录用，可提供广阔的发展空间！",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719677368818,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "尚高软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

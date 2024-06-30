@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "02bLeUjoFfAIn-p1b1yEwB_lOHTtYPIkoJiASi0rqxaVZYGmNu2ZD08zy3m7WOqqnNi8xlzeDtOR3pm8RuMzrBDlsv57VG5lp0S0B5lYDLUVApjkdlL-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b238e4853c1877c61nR42N-8FlZW",
+      "encryptUserId": "a065e6c415d726b60nR43Ni7FVpQ",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.参与项目的开发与设计；  \n2.负责后端代码的开发，遵循公司技术标准、规范，高质量完成开发任务，并提供相应的开发说明文档；\n3.负责数据规整，包括清洗、转换、存储等流程\n4.熟练掌握Spring Boot、redis、 mybatis等常见开发工具\n5.具有良好的创新思维、有团队合作精神及沟通能力 \n6.为人谦虚好学、具有较强的学习能力，肯钻研，能够踏实工作，责任心强。",
+      "encryptAddressId": "2bddeb72303905d51HF83N25GFo~",
+      "address": "北京朝阳区大鲁店(甲1号店)甲5号2层2016",
+      "longitude": 116.600045,
+      "latitude": 39.837043,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d147b22b18416b88994bdbb5c2c4c0d9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21e48d23ffc6b4dfb441d8d8102b89d2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "软件工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "融汇数联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "54d2cb3b880935b91nZ60960FlU~",
+      "brandName": "融汇数联",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717069821220,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "融汇数联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

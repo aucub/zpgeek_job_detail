@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GJr89niLwZo4x-A1OoD475hwSRJSBwlkHMG-TlfC4FodaNuKE9N_oGnhES9FwfJbW8T9Th54y468RzVvFCRN8ILNt82mSA8AZnrvnQmV7yHEZLq4ptJn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1fdc823abbd764f41XZ62Nu7EFtY",
+      "encryptUserId": "1e7112ca684f57550nR639u4F1JY",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据业务需求完成前端、后端、应用平台的相关业务；\n2、负责相关项目的设计、开发、优化；\n3、按时高效的完成指定的任务；\n任职要求：\n1、计算机或相关专业本科以上学历，能力优秀者可以放宽；\n2、热爱软件编程，熟练掌握Spring、Struts、MyBatis等主流框架；C/C++, Java 等编程语言软件开发、有良好的编程习惯。\n3、熟悉Linux平台下常用命令操作、环境部署；了解算法如 \n   （CNN/RNN/LSTM等）；\n4、熟悉Caffe/Tensorflow/Mxnet/Pytorch/ONNX等深度学习框架至少一种；\n5、熟悉数据库技术(MySQL/Oracle)，数据库优化及SQL优化；有复杂算法（如图像与视频处理、计算机视觉等）CUDA/OpenCL/汇编级优化经验、有计算机体系结构背景，熟悉处理器架构（如CPU/GPU/FPGA等）者优先；\n6、强烈的事业心和责任心，积极进取的自我驱动能力。\n7、适应团队协作，良好的沟通能力，出色的开发效率，较强的责任心及团队合作精神，能够承担工作压力。",
+      "encryptAddressId": "bba2cbce944e29df0nd43t-4Flc~",
+      "address": "北京通州区信创园B区6号楼6号4层401",
+      "longitude": 116.580306,
+      "latitude": 39.786783,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17d5587a429b88258e51570ea5129ae0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b618b89a99d8f82890088bab72d025f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "java",
+        "MySQL",
+        "C语言",
+        "Verilog",
+        "FPGA开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人事HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "汤谷智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e96fa1a02b5f17461nB70t-1EFU~",
+      "brandName": "汤谷智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211221/7b5b554d84f9729c8d4112af04dfe7ab3a8cfab66575552beb17209323e7ef4d3ec694b001ada0c8.png",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "江苏汤谷智能科技有限公司专注于自主研发的数字芯片前后端设计工具、EDA专用芯片的研发以及集成电路设计服务，致力于成为全球领先的数字芯片设计工具企业。 公司凝聚两代顶尖人才坚持自主创新，拥有多年EDA算法、芯片架构研发设计、原型验证、以及先进制程量产经验，团队来自江南所、海思、比特大陆、CETC，得到多位院士的指导和支持。\n          公司自主研发用于百亿门级数字电路原型验证平台，并长期为CPU/GPU/AI/HPC等超大规模数字芯片提供国产化设计工具、IP以及设计服务解决方案。核心团队成员在TSMC、SMIC、UMC量产过多款芯片，包括两款大规模FPGA芯片，超算芯片，Serdes及PLL等IP，工艺制程涵盖40/28/16/14/12/7/5nm。公司获得国家工信部高质量发展专项支持，建设国家软件与集成电路公共服务平台，发起制定多项团体标准。\n      公司成立四年实现收入规模数十倍增长，2021年合同收入过亿，A、B轮2亿元融资完成，估值19亿。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1716215438711,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汤谷智能",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

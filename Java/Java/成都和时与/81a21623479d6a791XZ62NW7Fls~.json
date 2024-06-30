@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rcSEuEnJPsw2h-X112hVWXOw64aILau0ms1-UpULFkHKZ-wDuFZOgTRb1WZp2sSIDeQro6sKWNG0ij3vR10I2BSNdyAyc3Jf7t6u7I6PRYkS139l",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "81a21623479d6a791XZ62NW7Fls~",
+      "encryptUserId": "68c2d6fe4685c4e71HB83dq6FlA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.具备扎实的java基础，熟练掌握javaweb编程，具有良好的书写规范\r\n2.熟练使用eclipse开发工具，tomcat服务器的使用\r\n3.熟练掌握spring、springmvc、mybatis、Struts2、hibernate等框架和其执行流程\r\n4.熟练使用mysql数据库，了解oracle数据库\r\n5.熟悉ajax，jquery前端技术\r\n6.能使用bootstrap和esayUi的页面开发\r\n7.熟悉：Velocity、Echarts、POI、Quartz常用插件\r\n8.熟练使用lucene，elasticsearch全文搜索\r\n9.熟练使用svn和maven构建工具\r\n10.了解shiro、activiti\r\n11.了解dubbo、springcloud、springBoot、redis\r\n12.了解分布式、缓存、集群、数据库优化",
+      "encryptAddressId": "5b0429472b63d1b633B52NS1EA~~",
+      "address": "成都武侯区菁蓉国际广场6栋B座1楼",
+      "longitude": 104.06277,
+      "latitude": 30.53834,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f37084ab2e8136effedd84f8978976d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ed4cbf020e34623706ab2fd28e64d42",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Javascript",
+        "Java",
+        "系统架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "运营总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180224/218e9970300f1967fd3382053ee4462ccfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "成都和时与",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7a990124344dd9a31nB93dS5Eg~~",
+      "brandName": "成都和时与",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "交通补助"
+      ],
+      "activeTime": 1717107580139,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都和时与",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

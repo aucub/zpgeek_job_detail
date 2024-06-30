@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "R8M1kejEEx-1T-M1wlzrbDCPUNgUKMyjoBeGob37zVlrvFHQGAb62h2yOaAoHNwPp_FJHcv_aEzQPDOW6fV7DVnC_GJp0XoPOxO-5U_O-vJmDIK3wFE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0c850134f5d967bf3nJz3Ny6GFA~",
+      "encryptUserId": "e28fdb7694f35fbe1nZ50ti-E1VU",
+      "invalidStatus": false,
+      "jobName": "物联网开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "一、职责描述：\n1、负责产品/项目研发任务，参与系统设计，编写相应的设计方案、技术文档和测试文档；  \n2、负责产品/项目模块化设计，并能单独承担所负责模块的各项工作。\n3、能独立完成物联网传感器组网、硬件选型、通信协议对接与开发。\n二、任职要求：\n1、电气工程、工业自动化、计算机、通讯或物联网相关专业，全日制综合类大学专科及以上学历，1年以上相关工作经验； \n2、熟练使用Java、Redis、MySQL等技术；\n3、精通不限于TCP/IP、modbus、bacnet、MQTT协议开发和调试；\n4、沟通能力强，较好的团队合作能力，能承受工作压力；\n5、有物联网设备远程监控，运维管理相关项目经验者优先。",
+      "encryptAddressId": "b1e6d5766ee5e99b1nx9292-FVQ~",
+      "address": "北京通州区联东U谷中试区71号楼2层",
+      "longitude": 116.55911,
+      "latitude": 39.729998,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d553b10fedc284e6724f0dd62216f3c0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36eff2c43c3860860d7da80414928872",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "modbus",
+        "mqtt"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200831/721e915503877c275b1a8f0b1db71610155e5ca596f5140663f54e5bc4e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云司图",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60ba9b292c8282c81nV_2tW7GVs~",
+      "brandName": "云司图",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210902/7bf6f160950405e9bbb17e1a452abddb16602ff590e07d6a9343c2b23817d78bce0882e80532f182.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "云司图（北京）科技有限公司成立于2019年，是一家致力于三维数字化智慧空间大数据建设，采用云数据驱动空间节能，提升空间安全运营与维保效率的科技型公司。公司注册在中关村科技园通州园、中关村高新技术企业。\n        云司图自主研发的SITUOS平台，以三维（BIM)数字化、物联网、大数据、云计算、人工智能等前沿技术。目前已经应用在智慧实验室、智慧环保工厂、智慧制冷站、智慧办公等领域。未来持续为业主方、总承包方、传统自动化供应商赋能。\n       云司图提供软硬件的智慧空间设计与建设服务，包括智能化场景设计、智能化系统控制柜定制、三维数字化运维平台。更好的助力合作伙伴打造高效、节能的的智慧空间。\n       公司目前分两地办公，总部为北京亦庄U谷工业园，石家庄为分公司。",
+      "labels": [
+        "交通补助",
+        "有无线网",
+        "带薪年假",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金",
+        "五险"
+      ],
+      "activeTime": 1716668460174,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云司图",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

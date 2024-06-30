@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BZUb19MBJfn0z-k1-s1pJsij3PODsgVwSYhx0-J7ecpJuNAYQnuFCeK_9_npbEjYNcYB4ZKhIx4jS19Xo7nocuvD1ueRByHyLDkPrebIB-WWs1BRqNBI_eoKlB7OatpFbHBIcecJ6x9Vkg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7860eb5d8ab188c31HF80tm1EFZX",
+      "encryptUserId": "0c491cff7e3b2eee0nV93dm9F1dW",
+      "invalidStatus": false,
+      "jobName": "java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用Java编程语言，熟练SpringBoot、SpringCloud、Mybatis等主流开源框架。\n2、熟悉MySQL、redis等数据库开发、熟练掌握SQL语句，有较好的数据库设计能力。\n3、熟练掌握JQuery、JavaScript、Ajax、layui、HTML5等Web前端技术。\n4、熟悉python脚本语言。\n5、熟悉idea,maven,git等开发管理工具。\n6、具备较强沟通能力，较强的学习能力和领悟能力，具有责任心和一定的抗压能力，具有较强的独立工作能力\n7、不接受居家办公。",
+      "encryptAddressId": "4a492df06cc00e543nJ53tm4Ew~~",
+      "address": "北京东城区正东国际大厦A座12a",
+      "longitude": 116.446387,
+      "latitude": 39.944121,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aba11f6b9a9ae874acc924dc107a8810",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1afebb7c56cb3ba07f8ebe0586b9f219",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "有前端经验/技能",
+        "不限",
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL",
+        "SQL Server",
+        "架构设计经验",
+        "分布式经验",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姬女士",
+      "title": "总裁助理、人力资源总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "国创中博",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9f12cfad6733eebe1nB73ti1FlY~",
+      "brandName": "国创中博",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718285882000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国创中博",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

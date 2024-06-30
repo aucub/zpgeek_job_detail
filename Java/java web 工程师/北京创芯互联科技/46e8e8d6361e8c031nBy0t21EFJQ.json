@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NIdLJ43Ir1lP_-31TOpyBiO6BwAFaN1SEJm_6uM9mn7ipIBgYCR2UjAMGj_JWkW_6XISM7EthzzMHDMcMaKUWRFI1aAwAXxAhH4jN5mtUi6ZFDzjZg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "46e8e8d6361e8c031nBy0t21EFJQ",
+      "encryptUserId": "ec7ea4899383e1ad1Hd42Nm0ElQ~",
+      "invalidStatus": false,
+      "jobName": "java web 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "本岗位对工程师的要求如下：\n1.熟练掌握java语言\n2.熟悉面向对象、MVC、Restful等思想\n3.熟悉 spring boot 、spring data jpa、mybatis 等 \n4. 了解tcp.、websocket、netty、消息队列等\n5. 前台熟悉：html,css js,、bootstrap 、angular,ng-alain nodejs 等框架\n6. 了解docker、c、c++ c# 、wpf 、串口、winform 等\n7. 熟悉 git 、gitlab、idea",
+      "encryptAddressId": "d4153a586a5dbad83nV_3Ny0EQ~~",
+      "address": "北京海淀区万和大厦312",
+      "longitude": 116.367607,
+      "latitude": 39.994307,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73f825c9b1ccc16da80eae1dacd3a7de",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da32affe822fdb6b898b90489ebd6b8a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "全栈开发",
+        "Angular",
+        "Ionic",
+        "前后端分离",
+        "Restful"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谷先生",
+      "title": "sales manager",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171216/c11e7986c948404e0842db01a54a9043e695138ca5c95389fd2301c10a5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京创芯互联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bb98a7a2843d76fd0HZ72ty0FA~~",
+      "brandName": "北京创芯互联科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070150949,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京创芯互联科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

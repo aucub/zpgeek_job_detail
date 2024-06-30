@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "t0fvaHSfJjG75-L1nbEjR3QFvn8OHtAsshlhpLOU8CgjDt99oCobsnfeEc3JrSNphowCaTsD1Ia7ZSergfsI7y3dXvIJsJDXcvtOhA2wl3XsGuiMJBGrIm593IhzucF_GyEaOXsuQAs9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "49d96cd23739d78e1nZ73928FFNR",
+      "encryptUserId": "07330c2e1752db841nR-2dq6GVBU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、负责参与公司产品的设计、开发工作，以及技术文档的编写等；\n2、参与客户需求的收集与分析，参与集成平台、HRP项目的技术支持等工作。\n3、按照项目计划,在保证质量的前提下、按时完成开发任务；\n\n任职要求：\n1、本科及以上计算机相关专业，3年以上开发经验，熟悉软件项目开发流程；\n2、熟练掌握JAVA或者C#等编程语言，掌握以下协议或标准：HTTP、Web Service、TCP/IP、XML/JSON等；熟悉J2EE技术平台及主流框架，掌握Spring、mybatis框架的运用；\n3、熟练使用SQLServer、Oracle、Mysql等数据库中的其中一种；\n4、有从事医疗软件行业开发或者实施经验者优先；\n5、 熟悉医疗行业标准HL7、FHIR、IHE者优先；",
+      "encryptAddressId": "92244561a6242da31ndy2Ni9GVY~",
+      "address": "苏州世纪金融大厦320",
+      "longitude": 120.675257,
+      "latitude": 31.315677,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28dd3feafd3a6b5d616fbb93c4d30afe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d8546af9f1fdeaa9ae32ea7b31c2c6e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Oracle",
+        "MySQL",
+        "计算机软件",
+        "管理系统",
+        "分布式技术",
+        "微服务架构",
+        "网络协议"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宁先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200415/93cb03e26e2668669de1169ab92695e8cf94bc7dbd9f189ae2c5a8617fd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "苏州环宇数通信息...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "decda45503f4bb950H163NS7GQ~~",
+      "brandName": "苏州环宇数通信息...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719211622467,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州环宇数通信息...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

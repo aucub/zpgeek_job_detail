@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Y1jOMxZmjAzqy-l111rq9T52XzUDX6xMo1xcCpq-7-jtXtQKAjnpNGiZCX_ECbmXcx0X8G6iHSNch4pRgElZpBYbsLK_66f5XG9Jx-50GCLElRpMAw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab718dc08bb762953nN62t2-F1M~",
+      "encryptUserId": "3871439b9be694741nR90t60FltQ",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n\n1. 理解业务需求，并参与需求分析、设计评审，制定测试计划，设计和执行测试用例，进行缺陷跟踪定位，协助开发工程师解决问题、对外发布版本并且提供技术支持等；\n\n2. 根据需求进行测试设计及测试用例的编写，执行功能、接口、压力、性能及安全测试；\n\n3. 深入理解系统内部的工作原理，从测试的角度提供优化意见；\n\n4. 提交并且进行bug的跟踪，根据测试结果完成测试报告，对测试结果负责；\n\n任职资格:\n\n1. 全日制本科及以上学历，计算机相关专业；\n\n2. 具备丰富的软件工程和软件测试基理论知识；\n\n3. 熟悉开源工具框架及相关扩展应用，熟悉JAVA常用框架，熟悉Linux操作系统，熟悉Oracle或者Mysql等；熟悉网络协议和网络环境的应用；\n\n4. 熟悉Jmeter，Selenium，LoadRunner，Appium，Robotium、Robot Framework等至少一种性能和自动化测试工具；\n\n5. 熟悉软件测试的流程及规范，熟悉各种软件测试技术、方法等；熟悉常用的Bug管理跟踪软件，版本控制软件，发布管理软件等；\n\n6. 熟悉Java/C++等至少一种编程语言，有Shell或Python/PHP/Perl/Ruby等使用经验者优先；\n\n7. 有性能测试经验的优先，比如JMeter；\n\n8. 精通常见的Bug管理工具：如Jira/Bugfree/等；\n\n9. 具备很强的逻辑思维能力和较高的分析、处理问题的能力；善于团队合作，理解和适应变化，以结果和行动为准则，努力追求成功；",
+      "encryptAddressId": "d850767ece40af9e1HB-39i8EFo~",
+      "address": "杭州拱墅区中华保险大厦",
+      "longitude": 120.146513,
+      "latitude": 30.294105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac9a3e94153e7d9641b9ca15f947aefb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67ae06ecf5e82f317a6343b8d241ec1d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "测试",
+        "测试工程师",
+        "自动化测试",
+        "性能测试",
+        "软件测试",
+        "安全测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汪先生",
+      "title": "JAVA软件工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州点赢",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ea7003a3a5a678933Z43ti-Fg~~",
+      "brandName": "杭州点赢",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717061358015,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州点赢",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

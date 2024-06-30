@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MYr52c4X-HSn2-m15c3OoSKiizXRpyz7FHQsvveD9JQ_SjZ5lsvdIXOk1C8uhdv8TSSKhPl7PJ9ZwNtwTmlS2y-5qR9t5quN7uTpNytB_IbtM1y1KQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1fc619ef7b6b7f1a1nF92928FVFQ",
+      "encryptUserId": "4f83d24240186c9f03N73t65GVE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190600,
+      "locationName": "扬州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA开发\n工作职责：\n1. 负责公司业务系统的需求分析、设计、开发工作；\n2. 负责相关技术文档编写工作；\n岗位要求：\n1. 踏实诚恳、责任心强，能接受较大的工作强度，具备良好的沟通能力和学习能力；\n2. 本科及以上学历，计算机相关专业；\n3. 精通web开发的相关技术，精通JAVA语言开发经验；\n4. 精通Java并有较全的知识面，熟悉SpringBoot、SpringMVC、hibernate、MyBatis等主流框架；\n5. 熟练应用Web前端技术，例如HTML、JS、Jquery、CSS等；\n6. 熟悉Linux平台下常用命令操作、环境部署；\n7. 熟悉MySQL，数据库优化及SQL优化；\n8. 熟悉缓存、消息、大数据存储相关技术，例如：redis、ActiveMQ等；\n9. 思维灵活，热爱技术，对Web设计、编程开发有探索精神；",
+      "encryptAddressId": "1d34e64bc17064641XV82du1GVA~",
+      "address": "扬州江都区南苑一村(八组团)一栋306",
+      "longitude": 119.578207,
+      "latitude": 32.418194,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ff6fd0a21d0f21528a8a31fdaca8ffe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a903a328a14bb91faf89bedfa0cfbb4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Linux",
+        "Unix"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "扬州点维",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "58f954407ff7a75f33N7296_Fw~~",
+      "brandName": "扬州点维",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100703,
+      "industryName": "建筑设计",
+      "introduce": "",
+      "labels": [
+        "补充医疗保险",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1716080437756,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "扬州点维",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

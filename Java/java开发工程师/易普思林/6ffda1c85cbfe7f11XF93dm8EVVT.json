@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rete2a_j5EEkv-d1A5XGXEXoL-w9Umgu9AAvzHqB8plW4jUfZnrJibsrXfK4sov7QURdTHvrsAeIJcpZG3PDV4hsWrPjff_vEdix1Z1i4pB6lCuaTVxJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ffda1c85cbfe7f11XF93dm8EVVT",
+      "encryptUserId": "30b8b4942d058e3e0nJ5296-EFtS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "本公司是智慧教育、智慧农业、智慧电力综合业务解决方案提供商，公司研发的电力信息化系统在江苏电力系统获得大规模商用，公司研发的农产品溯源管理系统已接入商家上万户，每年为数十万农户种植的各类农产品提供溯源支持，公司研发的学业预警系统和舆情管理系统已在数十所高校获得应用，服务学生超过百万。随着5G技术、人工智能技术的普及，万物互联的高可靠、低延时的时代已经到来，大量的智慧应用场景不断涌现，亿万规模的市场正在崛起。公司核心成员均具有十年以上软件开发经验，拥有多项发明专利，因业务飞速发展，急需各类专业人才加盟。\n一、岗位职责：\n1、从事java技术相关项目的设计和开发工作；\n2、能够独立开展工作，并完成相关开发任务；\n3、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4、对程序进行单元测试和功能测试，修复软件存在的缺陷并保证其质量；\n5、进行编制项目文档和质量记录的工作；\n6、维护软件使之保持可用性和稳定性。\n二、任职资格：\n1、计算机相关专业背景，毕业生或1~2年工作经验的；\n2、熟悉数据库编程，具备熟练操作和使用MYSQL、SQL SERVER、ORACLE等数据库的能力；\n3、熟练掌握spring boot 、spring cloud、vue等主流开发框架；\n4、熟悉代码管理工具git和inux命令和工具；；\n5、对于面向对象模型和设计模式有比较清晰的认识，对大型软件架构有清晰理解，理解设计模式更佳；\n6、事严谨踏实，责任心强，条理清楚，善于学习总结，有良好的团队合作精神；\n7、语言沟通能力良好，能够和客户无障碍交流业务需求和技术方案；\n8、有企业管理信息系统开发经验的优先；\n9、应届生获得各类奖学金的优先，参加过各类学科竞赛并获奖的优先；",
+      "encryptAddressId": "d2609e45ca35209b0HF829m1EVQ~",
+      "address": "南京江宁区苏源大厦58号",
+      "longitude": 118.807006,
+      "latitude": 31.905343,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b6af58f0ded24f67eb625e87148e632",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66f7279a774c96bb053acf245595a0f2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易普思林",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f4131fa1ab628cb51XB63d64FFM~",
+      "brandName": "易普思林",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717068015954,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易普思林",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

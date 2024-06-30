@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BGScmz6wtHr1a-i15zHxkYuhJarJCI4TZV1ihfsxdKpebV0j337YIC6BX6IsdZ19RsTQrPJH2nu_0d6woLWhtBQ8YPOBHxLzNM_-181fQjlJzoK3VxscHtxdSIkmExAOLQxdBcEkSSKcal9j53VNwznwA57rS5-x8MSvVXxw9QbTyrbh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2e4a99d8c87510201HJ509y9ElpT",
+      "encryptUserId": "e8644a64284080e31XV52ti5EVQ~",
+      "invalidStatus": false,
+      "jobName": "数据采集工程师（初级）",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责开发网络爬虫系统以及优化爬虫策略，进行高并发多平台信息的分析和抓取；\n2、完成数据采集与爬取、解析处理、入库等数据日常工作；\n3、积极主动探索爬虫在实际业务中的价值，参与设计数据有效利用策略，从数据合理性、完整性角度提供建议和方案；\n4、把握网络爬虫核心技术研究方向，研究优化方向，充分利用资源，提升爬虫系统的稳定性、可扩展性；\n5、设计爬虫策略和防屏蔽规则，提升网页抓取的效率和质量。\n\n任职资格：\n1. 统招专科以上学历，计算机相关专业，具备良好的计算机专业知识\n2. 至少精通Python/JavaScript/Go其中一种语言，熟练使用XPath或RE正则等常用模块，了解指纹浏览器、无头浏览器的工作原理，具备扎实的编程功底，具有良好的程序设计能力；\n3. 熟悉爬虫业务流程，2年以上爬虫项目经验，熟练Scrapy、Pyspider等主流爬虫框架框架，能够独立解决封账号、封IP、验证码、JS逆向、网页限制爬取等问题；\n4. 熟悉Appium、Selenium、Playwright、Puppeteer等自动化采集技术；\n5. 有网站采集系统架构经验优先；\n6. 有丰富的App采集经验或网站采集经验，至少精通App逆向或Web逆向之一；\n7. 熟练使用MySQL或PostgreSQL、了解Redis、Elasticsearch、Kafka等技术；\n8. 业务理解和分析转化能力较强，富有进取精神及团队合作精神，责任心强，善于合作沟通，能够承受压力。",
+      "encryptAddressId": "d3140c75ab517e0c3nV_3di8GFNSxY63Uvk~",
+      "address": "北京海淀区国际软件大厦二区104-106",
+      "longitude": 116.297196,
+      "latitude": 40.044416,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf6ed5e5eb49e9170c2a4d105499a280c36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf2d69b5ca2061f950e7660595109ca99a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "独立解决封账号",
+        "MySQL或PostgreSQL",
+        "精通App逆向或Web逆向",
+        "数据采集与爬取"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230927/607f1f3d68754fd07cf308b6279de55dc2f1628ae1566e1145eaddf467967091760817df4695c1f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "意讯无限",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b9fee1e802c079971XZ509i9FVo~",
+      "brandName": "意讯无限",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240226/7bf6f160950405e9f2b5529b9dd3e16cb1806816f8d424f394c8187508323d3218fa3843fcc3f32b.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "北京意讯无限科技有限公司是国内一家领先的虚拟货币数据追溯和分析方案供应商，致力于通过区块链技术、大数据和人工智能解决数字货币监管治理问题。北京意讯打造了先进的链上数据分析平台，构建了链上数据的监控、分析、穿透和治理的一体化服务模式。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719308301552,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "意讯无限",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

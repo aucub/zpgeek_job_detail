@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o6bwH0fhBW1s--L1fbcV6nRzJ4uPZsvjMXJFW8JefVSXJY9l3wgnl2CsyfS5U0bmdT-Lr1uLjXM4cPUbrVrl2B49uMPf4KnXCSbqpccOU41xLFWMeb-G_Su9yVNnR1GWULyNxt9zSq2Q",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cfbb3c22b48ae2011nZ_2tm4E1BT",
+      "encryptUserId": "4b30563335a690dc33B-0925EVU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责维护Filecoin计算、存储集群，保障集群的正常运行；\n2. 负责新集群的搭建、部署和软件维护；\n3. 排查和解决操作系统、硬盘、网络、显卡等出现的故障；\n4. 实时处理集群运行过程中的各种突发情况；\n职位要求\n1. 大专或以上学历，计算机、网络工程、软件工程等相关专业；\n2. 熟悉Python和Shell编程，善于用脚本完成日常系统运维工作；\n3. 熟悉Linux系统操作、安全配置、安全策略、iptables防火墙设置等；\n4. 熟悉Linux网络配置，熟悉DHCP、DNS等的基本原理；\n加分项\n1. 熟悉Prometheus、Grafana等监控系统；\n2. 熟悉Ansible、Cobbler、Docker；\n3. 熟悉分布式存储系统如Ceph等。",
+      "encryptAddressId": "32daaf79753f342903Rz2t-_F1c~",
+      "address": "上海闵行区宝龙城T2501室",
+      "longitude": 121.35313,
+      "latitude": 31.159368,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/292eff4db473206ca4dae5ebf4207e28",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/caafd98206451fa02cc5a6bd13dffc6c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "安全运维",
+        "集群运维",
+        "Shell",
+        "容器技术",
+        "分布式技术",
+        "Docker",
+        "Ansible"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苗女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221108/607f1f3d68754fd027c8c8db8e81c25e8a5d10ec0d88fee985d407d37606e1af25ec903d5c5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "费康恩",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "71ba2860658aa6cd1nB43tS1ElA~",
+      "brandName": "费康恩",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "运行维护服务；数据处理服务（数据处理中的银行卡中心、PUE值在1.5以上的云计算数据中心除外）；应用软件开发；信息系统集成服务；信息技术咨询服务；销售：电子产品，计算机、软件及辅助设备。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1717129676203,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "费康恩",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

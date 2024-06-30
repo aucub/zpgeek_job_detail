@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FsMR4hBpKFGhh-01H0aaxsX0hEYULVyf9WzF8B43hRdYyHp7D4ZoJljCp4cTlZIneKRYd72_HWhrIqd8N9szSOiwArJS243W9PKXC4MuckKRF74CKkOV9QzTpbBGL0_-MGkSuRxiP_-R",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3ba93d85689c23941nB-0tq6FVdZ",
+      "encryptUserId": "2e5e8c071d81cd4b1Hx93Ny8ElU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责后端系统的开发及维护工作；\n2. 负责与前端联调对接工作；\n3. 接口文档的编写、维护及其它相关工作；\n4. 关注行业新技术，新应用，并应用到公司产品研发；\n任职要求:\n1. 本科及以上毕业，1-2年工作经验，计算机或数学相关专业;\n2. 扎实的java 基础、对于java集合和并发编程有深入理解，理解常用的 java 设计模式；\n4. 对网络编程有一定理解、熟悉http常用协议及相关规范；\n5. 对Spring，MyBatis，Hibernate开源框架有一定使用经验；\n6. 对 Mysql 或其它数据库有一定理解及使用经验；\n7. 良好的沟通能力及学习能力，一定的抗压能力； 8. 拥有高度的责任心，热爱编程，有技术追求。",
+      "encryptAddressId": "d16155e5ba073cdc1nx709y6F1A~",
+      "address": "杭州余杭区欧美金融城T4美国中心2803",
+      "longitude": 120.002405,
+      "latitude": 30.281193,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37fda0313eb4d62aff86a4d9e19d7f39",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65fd2baf367a9f78a347ec0755458fef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "初级软件工程师",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陆先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "拉勾拉",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6ac8aa02b4b7932c1nV42Ny_E1Y~",
+      "brandName": "拉勾拉",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210401/07570ac585d1b56021028c2a0ffd396138be38eaa821bf5a782f1642ea48a61d.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1717127017946,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拉勾拉",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

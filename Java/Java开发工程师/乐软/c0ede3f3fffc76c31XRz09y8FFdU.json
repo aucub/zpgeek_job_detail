@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MyYzWj_ZmcVdm-O1H0eQF6E_RKj-FJNoEOvVZlWHvJRE1f9CTaBIBZCI8wlVnkQqzRBDWJs_7e5Azl7nbBd5euuVzXs-J1v6GooI5TI2d6YOnG1Cw_M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c0ede3f3fffc76c31XRz09y8FFdU",
+      "encryptUserId": "ae6d0b93be7f87fa1nV42tS4EldZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目系统设计，完成软件项目的程序开发工作；\n2、根据产品需求和设计进行日常开发和维护；\n3、根据相关规范，编写技术文档；\n4、对系统架构提出优化建议并实施\n任职要求：\n1、大专及以上学历，计算机相关专业；\n2、Java基础知识扎实，熟练使用J2EE编程，了解常用框架原理（Spring MVC、Mybatis、Spring Cloud等）\n3、熟悉常用数据库，mysql、mongodb等;\n4、掌握 SQL、Redis、队列（RabbitMQ、Kafka等）、Nginx等技术框架；\n5、熟悉Linux常用命令，编写Shell脚本；\n6、熟练使用 Maven、Git等工具；\n7、具备良好的沟通能力、对产品需求有个人想法和见解；",
+      "encryptAddressId": "1013e7df025fc08103190t61FFI~",
+      "address": "长沙岳麓区启迪协信中心2栋31020",
+      "longitude": 112.958846,
+      "latitude": 28.244472,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44a9171e65fd263045ef22e931634792",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/964b683160628bbb5ea246cdf8674f65",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "消息队列",
+        "SpringCloud",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "乐软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6e74c02bd52345b1XF52d6_Ew~~",
+      "brandName": "乐软",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200822/a41a58ad4d4cedda27f5d601e81ec3315f6a081907b5d143d41d399c9adb3166.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "乐软世纪（北京 ）信息技术有限公司是一家面向全国的软件系统及研发企业，总部位于北京，有近18年的行业信息化经验，获得国家双软及高新技术企业认证。乐软自始至终专注于 地产经营及物业管理行业信息化建设，是目前国内知名的地产经营和物业管理应用软件及解决方案供应商。分别在北京、上海分别设立研发中心；同时拥有上海、广 州、南京三家全资子公司，在全国多个城市拥有办事处和代理合作伙伴",
+      "labels": [
+        "五险",
+        "生日福利",
+        "有无线网",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "股票期权",
+        "年终奖"
+      ],
+      "activeTime": 1717105708670,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐软",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

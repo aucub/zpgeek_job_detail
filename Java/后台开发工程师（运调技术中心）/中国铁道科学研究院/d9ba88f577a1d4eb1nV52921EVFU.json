@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YGPv7HTKkf3F7-k1xy_CawnhaQ8qP_KGuFpcq_nLCrUOhYMha6L9GGW2abMFBNsBJt04lIsiTKOv-FTEgTioCXHi98fSQ1kXLlDkz-r-74nOCZETHLRPHLDdLCORHsT7DHe9QdEahCY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d9ba88f577a1d4eb1nV52921EVFU",
+      "encryptUserId": "6020a0cdbfa4f6b91HJ93d-9GVc~",
+      "invalidStatus": false,
+      "jobName": "后台开发工程师（运调技术中心）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1. 负责公司后台模块的设计、开发；\n2. 参与公司web项目中系统架构的选型、设计，根据业务需求做出后台实现；\n3. 与前端开发人员进行接口调试，并实时响应需求变化；\n任职要求：\n1. JAVA 基础知识扎实 \n2. 熟练使用 Spring、SpringMVC、Mybatis、Mybatis-Plus 、SpringBoot、SpringCloud等开发框架，对微服务掌握良好；\n3. 熟练使用 Oracle、Mysql 等关系型数据库，能够进行一定的Sql调优；\n4. 熟练使用Redis、 git、maven、rabbitMQ、websocket等技术；\n5. 熟悉Linux下的常用命令；\n6. 有大数据、互联网工作经验者优先；\n7. 熟悉React、Vue等前端技术者优先；",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180330/893834dbc62ea8d0ad29b8506b8669a5cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "中国铁道科学研究院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "68f4328cf8c7957b0HF42tq5FA~~",
+      "brandName": "中国铁道科学研究院",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "中国铁道科学研究院集团有限公司电子计算技术研究所（以下简称电子所）于1979年5月1日成立，是从事电子计算技术在铁路上应用的专业研究所。承担着铁路客运、货运、运输调度、安全、工程建设、移动装备、经营管理等多个业务领域上百个重要信息系统的研发及运维任务，经营范围包括12306、95306、电子支付、中铁银通卡等多个铁路互联网资源平台的经营开发工作，同时还承担了智能京张、智能京雄、川藏铁路等多项重点项目信息化建设。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+      ],
+      "activeTime": 1716716577097,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中国铁道科学研究院",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

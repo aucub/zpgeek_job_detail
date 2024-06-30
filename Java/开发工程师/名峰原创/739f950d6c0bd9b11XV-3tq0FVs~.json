@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pXgPLtarCZ2Hx-x1FW0jpdwXQJP-0ZF6xXtS44C_X6LCkNpshM8UZcsVozVLez8gaOuAFP-5bart2sINb4W0Y5ftuBE35vN07kMoH-La0husX9I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "739f950d6c0bd9b11XV-3tq0FVs~",
+      "encryptUserId": "ff2be4ea36f60e701nZ50tq4F1I~",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通Spring boot、SPRING MVC和MYSQL框架。具有扎实的JAVA基础功底，能熟练使用SSM框架进行项目开发；\r\n2、熟悉spring boot、spring cloud分布式微服务技术；\r\n3、熟练使用独立的MAVEN命令操作，SVN命令和操作，精通myeclipse、eclipse等开发工具；\r\n4、对B2B电商和支付行业有一定的认识和理解；\r\n5、精通MYSQL数据库编程。\r\n6、喜欢钻研，爱思考，有想法的优先。",
+      "encryptAddressId": "64442f5b3a8bb91433R82du6GQ~~",
+      "address": "深圳宝安区名优商品采购交易中心B栋B625",
+      "longitude": 113.86685,
+      "latitude": 22.568327,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d924b63584b2d9616e1426481d5af031",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6954ec833ebc90532015c2fd5dc6b2bb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "名峰原创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "48d78b743b14bf041Hd63Ny7",
+      "brandName": "名峰原创",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716722453982,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "名峰原创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-CuOTKvHIi4Z2-010a_zYebpiEcJD_aU0CWhkxOWCiVsdJGz6DhN4VrPRiH-v5evVjY6P5fZR9ZVWi4zWQS1j4mvFdUi-uUBSSMh56nHMsoSyUBzRkw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "68be59e9d265f47d1HB52928FlVS",
+      "encryptUserId": "f2af1d07897bec0c33R40t-4E1M~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责电表、水表、终端等公司产品配套生产软件开发及现场问题分析处理。\n2、负责软件开发、测试和交付；编制软件测试流程、测试案例，跟踪测试进程处理异常，完成交付；\n3、负责对已上线软件跟踪维护，优化升级；\n4、负责公司各业务部门软件需求的实现及维护。\n\n任职要求：\n1、熟练掌握java编程语言，对面向对象编程有深刻的理解，能够熟练使用springboot、springcloud和mybatis-plus框架开发，了解java设计模式\n2、熟练掌握js开发，熟悉jquery、vue等至少一种前端框架。\n3、熟练使用mysql、redis、influxdb数据库，了解rabbitmq、nginx使用方法。\n4、能够根据业务需求独立设计对应的功能并开发实现。\n5、了解docker技术。",
+      "encryptAddressId": "541e823f8d0cfb8c1nB72dW6FFtV",
+      "address": "武汉江夏区武汉盛帆电子股份有限公司(阳光中路分公司)阳光大道11号",
+      "longitude": 114.36477,
+      "latitude": 30.398712,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13ecf047569329b9de539041137292f1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b2beeda4857e258872296af304ed28a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221114/607f1f3d68754fd0a8165c24d2cbe2751186026d7fb317b8df98419f85cd404f1e640add501_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "武汉盛帆电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "180cd81cb78863331HV92ty5GVE~",
+      "brandName": "武汉盛帆电子",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719315232139,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉盛帆电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

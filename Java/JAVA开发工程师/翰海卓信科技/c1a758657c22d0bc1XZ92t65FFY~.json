@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-xnxRSwszwZ6T--1FAl9fk-nDwCwCeZKJzvqysrl-j2ACGF_0jKlE1nZd9nj0HdgB_WdhZB1AnR6Q4KGhNRDyITeU6THjIbqkfCDQmqKfqwZj_ye",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c1a758657c22d0bc1XZ92t65FFY~",
+      "encryptUserId": "c1bfc56743d5a35c1Hd929u5EVY~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\r\n1、参与部门已有产品的维护工作；\r\n2、参与新项目的需求评审；\r\n3、承接开发任务，能够确保质量如期交付；\r\n4、参与编写项目各阶段的技术文档；\r\n5、协助团队其它成员完成相关工作。\r\n任职资格:\r\n1、1年以上JAVA开发经验，精通JAVA编程，熟悉多线程、网络编程，掌握主流开发框架；\r\n2、熟练使用Eclipse、IDEA、Gradle、Maven、SVN、GIT等软件开发工具；\r\n3、熟练掌握SQL语句，有MySQL、ORALCE、DB2等数据库使用经验更佳；\r\n4、熟悉缓存、消息、据存储相关技术，例如：redis、memcached、ActiveMQ、Rabbitmq、elasticsearch、mongodb等；\r\n5、熟练运用spring、springmvc、mybatis、hibernate开发项目，有springboot,springcloud，dubbo开发经验更佳；\r\n6、熟练掌握常用的Linux/Unix基本命令；\r\n7、良好的沟通技能，团队合作能力，勤奋好学，热爱技术；\r\n8、本科以上学历、有相关互联网行业工作背景优先考虑；\r\n9、能吃苦耐劳、能出差。",
+      "encryptAddressId": "8ae34f03fd65e3851XB539W5E1c~",
+      "address": "北京朝阳区安华西里",
+      "longitude": 116.398858,
+      "latitude": 39.965576,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b983f7ed4badc4cc7421e22dba802a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15f93f3791a52fb2e2f548cd46b05c2a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Java",
+        "JS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人力资源总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240202/607f1f3d68754fd03566cf473c3cb7beef20019de7e1aad9c3f4596afa5ed23eadf6967f67303b5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "翰海卓信科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0b69be338b502d541nB429u_EA~~",
+      "brandName": "翰海卓信科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070327363,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "翰海卓信科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

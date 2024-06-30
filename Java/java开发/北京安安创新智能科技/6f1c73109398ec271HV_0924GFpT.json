@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "L9uCauivIVvTO-e1ll_YdImYHVciFVHu7b8MhCqc-3mq6GbFrwDUtUvcLtdqBqMxLeIcSJLN1-RfHbGpfopNPefWL30EPqPMZlcUuvo83YFCHEYhhVlg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6f1c73109398ec271HV_0924GFpT",
+      "encryptUserId": "e5e2927c36289b820nJ93N-1GVtU",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求： \n1.全日制本科及以上学历，硕士优先；1年以上研发经历；具备扎实的计算机专业知识基础。\n2.熟习Spring Cloud或dubbox、Nacos等开源架构架构；熟练掌握缓存、消息队列Redis,Rabbitmq等开源产品；熟悉docker/k8s相关的生态。\n3.掌握至少一种关系型数据库，如MySQL，熟悉至少一种非关系型数据库，Mongodb，HBase，Elastic Search等； \n4.熟悉大数据处理系统Hadoop，Spark，Storm等，了解其优劣势和设计原则； \n5.熟悉Linux操作系统，可以熟练应用 python，shell脚本解决日常运维问题； \n6.良好的编程素养，对代码美感有追求，熟悉常用的设计模式，架构模式及应用场景并在实际项目中运用过，掌握不同的编程范式，并能很好的理解及运用； \n7.有创新精神和技术热情，乐于钻研，逻辑清晰，具备批判性思维能力和习惯，有很强的分析和解决复杂问题的能力；\n可接受应届毕业生",
+      "encryptAddressId": "2757c4347901822b1nZ92tq1EVdX",
+      "address": "北京中关村壹号B1-15层",
+      "longitude": 116.247329,
+      "latitude": 40.076091,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf93bc84cab04cc969e7fdd31225b6a5e36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2276f7fdeced9f7ba0a103fb25a10f7e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "不接受居家办公",
+        "Java开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡女士",
+      "title": "HRD",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230818/607f1f3d68754fd076ca4ad72f50d8bb8028640b4b7a3f62bc728eca58c33670d76982f92c60c08_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "北京安安创新智能科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "24851ddec02c48921XV_29m_E1Y~",
+      "brandName": "北京安安创新智能科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230726/7bf6f160950405e9fda310d56925ccac0f8c2bd0b72966f32e80229255cf468b5933be10243eb4de.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "以认知智能核心算法为基础，通过综合语义知识库、大数据、自组织解题机制、多学科系统解题、并行推理、多种知识表达等资源和技术，创立的专业、系统、综合、智能的安安智脑，应用于5A企业家乐园各生态业务场景。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "免费工装",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "法定节假日三薪",
+        "夜班补助",
+        "股票期权",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1717126772000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京安安创新智能科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

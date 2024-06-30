@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Jb9uzee6Tef4R-m1BevwbfzA1iU_TXDasa77U4Hgxz0FnyFW85VgNRf0EdppzJU4ieI-InkoxDWX3jmWPDw7TfKfMDPyP2ZE_LNhWyKWM61piinkcpwfQzTi-trkrZTekgT7hqDXNXRD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6e79aed7c65983241nRy3dS4FlNR",
+      "encryptUserId": "ded6effb9c6190213ndz29m4EVo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用Spring、myBatis等常用框架；\n\n2、熟悉 Java 的最新规范，熟练使用 Future、Lambda 表达式、Stream 操作等；\n\n3、熟练运用数据库MySQL、Oracle，并能进行数据库的数据结构设计；\n\n4、熟悉 Springboot、Redis、RabbitMQ等中间件；\n\n5、熟悉HTTPS、Web Socket、TCP/IP等网络协议；\n\n6、熟悉github开发工具的使用；",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211030/607f1f3d68754fd0e216002d0a6293f9145d6e4ee55205ca4232d936c062a5626078b87291c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海鑫诚源计算机",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab540e4c4e5c1f0a1nZ92965ElI~",
+      "brandName": "上海鑫诚源计算机",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130655272,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海鑫诚源计算机",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

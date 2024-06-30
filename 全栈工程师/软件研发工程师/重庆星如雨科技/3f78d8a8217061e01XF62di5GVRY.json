@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "emnIo6MkC0vXM-X1k8w0J3DcaW1ONrktLh7rdngOp5ZUvU_appRNJERwIZigXFKckvhQmHSvcszCf4I8SJSm2N7o7FUnwp0AzvsvjRoAmJFwRwVQA4X4",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f78d8a8217061e01XF62di5GVRY",
+      "encryptUserId": "d25000de87400a431nV63dm7FFVZ",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司运营管理系统的前端、后端架构设计与开发；\n2、按照公司需求完成办公类软件、爬虫类工具开发和测试及维护；\n3、制定后台技术实现方案、服务接口等，实现数据的加载和处理。\n4、解决开发过程中的技术问题，确保代码与后端有效对接，保障系统性能；\n5、跟踪新技术发展，并将其应用于产品中。 \n岗位要求\n1、至少2年以上JAVA软件开发和设计经验，掌握面向对象编程的原则，熟悉常用的设计模式，会使用多线程和锁机制解决资源并发性和一致性问题。\n2、熟练掌握Mysql、Oracle、SQLServer关系型数据库中的至少一种，熟悉事务执行过程，理解数据库索引原则，具有数据库语句调优经验；\n3、了解常用的中间件技术，至少曾经在项目中使用过：Zookeeper、Redis、Memcached、MongoDB、Kafka、ActiveMQ、Netty等。\n4、熟悉Javascript、HTML5、Vue、JQuery、bootstrap、CSS3等技术或框架，掌握其原理，能独立开发封装常用组件；\n5、熟练数据库表结构维护，SQL编写，索引创建（MySQL）；\n6、熟悉Web前端与后端交互数据接口定义，前端Ajax实现Json、XML格式的数据发送与数据解析\n7、具有微服务、分布式、大数据、人工智能、爬虫类软件（python,shell等脚本语言）优先等开发经验者优先。",
+      "encryptAddressId": "182f5db8a2d384890H1_3d-_F1A~",
+      "address": "重庆巴南区木丁丁商城6楼行政人事部",
+      "longitude": 106.561691,
+      "latitude": 29.469685,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3b38298c1650b8a323c8f33ab622e4b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/330cfde75dc9c554bbc1cc9757ebeb44",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "Java",
+        "MySQL/Redis/MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "重庆星如雨科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bc7e05e768c6811a1Xd-2NW4Elo~",
+      "brandName": "重庆星如雨科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716714603744,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "重庆星如雨科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

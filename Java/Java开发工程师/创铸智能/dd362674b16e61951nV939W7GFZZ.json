@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "P5ihX7JeXZRI_-t143NkUTsveLZAsYdTtUqystSLXOr9H2EY8mldu5c39BJLsmDujW7yeJre1YZbktS1jWgVX54U714i_bWr1bFdTa_VHxbd8raYbYuQzmfc-swZuUsMpbv0pXaVr1E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dd362674b16e61951nV939W7GFZZ",
+      "encryptUserId": "b7bb5290bff3940b03By29y5E1U~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位要求： \n1.计算机相关专业本科或以上学历；\n2.具有1年或以上信息化系统开发经验\n3.精通Web编程，2年以上Java语言进行web开发的经验，精通spring、 spring mvc、orm框架（mybatis或hibernate）\n4.熟悉Mysql、SQL Server关系型数据库的应用设计开发,熟悉Redis，熟悉Spring Boot\n5.熟悉Tomcat, Nginx  的操作，熟悉Maven构建 熟练使用Linux常用命令\n6.掌握前端开发技能例如：JS、CSS、Ajax、Vue\n7.熟悉ERP、供应链等相关管理系统开发者优先；\n职位描述： \n1.根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n2.能独立进行开发程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n3.能在项目经理指导下处理和解决所负责的工作任务，保质保量完成工作目标；\n4.解决开发过程中的技术问题；\n5.编写系统开发文档；\n6.现有系统的优化和升级；\n7.对现有客户系统使用过程中的技术问题的维护及解决。",
+      "encryptAddressId": "480203074b58b5d21HZy2Nq_Fw~~",
+      "address": "杭州余杭区中国良渚数字文化社区1幢17层1718室",
+      "longitude": 120.058209,
+      "latitude": 30.3633,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9ae823c554850ab9595654304d44f00c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13f4cc5098e33cc68cff7157512a328c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "CSS",
+        "Spring",
+        "Hibernate",
+        "MVC开发",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创铸智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "11e71d73429dde9f3ndy2N69Fw~~",
+      "brandName": "创铸智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201228/56da6706963d7bf1b155879e752da85d19eda80bda7908a5e00687bcceaa131f_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "定位：\n赋能企业信息化、数字化、智能化转型，规范企业内部业务管理，实现业务运营和生产运维一体化平台。\n帮助企业打造云技术服务中台、云数据服务中台和云应用中心。\n产品内容：\n智能发运云系统：无人值守一体化发运系统\n智能运营云系统：一站式数字化业务运营管理平台\n智能运维云系统：数字化生产运行、能源管控和设备运维平台",
+      "labels": [
+        "生日福利",
+        "免费工装",
+        "团建聚餐",
+        "餐补",
+        "带薪年假",
+        "企业年金",
+        "底薪加提成",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717127122821,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创铸智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

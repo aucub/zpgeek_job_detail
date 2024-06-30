@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xEmmPbVUDxZ9o-c1vZb4BMEMlF3n0KwRoOhIx5sCjTxIFwGUVDGIV-pVRM1WUJfgWSVGoKihWbfsqxTd28vonhR_lz6GD5hcLWCgCvQYDZsvn5ae-3GjkrbjJTUn9O4lYX_1QPnvvvUO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8a3ea3d6552c0d6d1X153N2_FVZT",
+      "encryptUserId": "8a2c1329730de3f91H1-29W0FFY~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与系统的设计、开发、测试等过程；\n2、负责项目中主要功能的代码实现和单元测试；\n岗位要求：\n1、扎实的计算机基础知识；\n2、熟练应用 Java，熟悉 IO，多线程，集合等基础类库；\n3、熟知常用Java框架，如Spring、Spring-boot、Spring Cloud、Redis、ES、Kafka等，对源码有过了解为佳；\n4、熟悉 http、web 相关技术，了解 Mysql 数据库技术，对 sql 优化有一定的经验，了解并应用过其他数据库中间件；\n5、责任心强，具备良好的团队合作精神和承受压力的能力；\n6、熟悉Maven，Git 等工具的使用；\n7、应届本科或以上；",
+      "encryptAddressId": "7eb6f5ede10e2e011nd539-6E1Y~",
+      "address": "杭州滨江区海威·钱塘之星钱塘星宇大厦1幢901-4室",
+      "longitude": 120.224715,
+      "latitude": 30.214605,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27cf0f9c0063bb3e2dfdc14d1b70e53b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62f9f037819c37215f605643735419e6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "Java开发经验",
+        "分布式系统开发经验",
+        "机器学习工程经验",
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏先生",
+      "title": "综合人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210725/7c11cb2524b66a040d98ae573368d0d61205732bb55d97841c210825cf3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "浙江绿动脉科技有...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d389c3c81dd46a51nF7096_Els~",
+      "brandName": "浙江绿动脉科技有...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210727/7c11cb2524b66a040d98ae573368d0d61205732bb55d97841c210825cf36e3f6.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "浙江绿动脉科技有限公司成立于2020年，注册资本1000万元，主要从事医疗健康软件平台的推广和定制服务。公司技术实力雄厚，拥有以两名博士（计算机软件方向一名，健康经济学方向一名）为主的6名专职科研人员。公司以“搭建一流平台，实现员工成长，服务国民健康”为宗旨，致力于成为国内领先的医疗健康服务平台。现公司蓬勃发展中，诚邀您的加盟。",
+      "labels": [],
+      "activeTime": 1718978692000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江绿动脉科技有...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rvBberTLM8hNs-g1MmYpB_BRbk8uqORqhGFJ50yWysexkcZvScfkOWUB4Ki9wEzdExf41C9KWrPu-llAYj4kEj2OZMojsWXZu7ade0ShY0GzfDl6UjQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c14f494995af77861Hd83ty4ElNW",
+      "encryptUserId": "9b68476dfb32ab5a0nF92di_FVRR",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责测试环境，线上环境的项目部署、发布、监控等日常运行维护工作；\n2、负责运维体系搭建，容量规划，成本管理；\n3、负责推进公司自动化运维的搭建和实施，提升公司运维效率和质量；\n4、负责系统服务器和应用的日常维护、技术支持响应、故障定位、事件分析和问题处理并与客户进行信息系统相关的技术交流；\n5、定期进行系统运行状态巡检，异常情况能够及时分析解决处理；\n6、根据用户需要，协助完成数据处理、系统配置、数据统计分析等工作；\n7、负责编写系统运维工作报告等相关文档；\n后续对大数据环境的运维职责\n8、协助 IDC 和各类软硬件供应商完成大规模集群的部署、联调、上线运行；\n9、建设大规模集群的运维能力和运维体系，并对平台客户提供相关技术支持。\n任职要求：\n1、专科及以上学历，工作经验3年以上，计算机相关专业毕业；\n2、熟练掌握 k8s,docker 容器和管理相关技术；\n3、熟练掌握 mongodb,redis,mysql,oracle,elasticsearch,hive等数据库相关技术的性能调优和日常维护；\n4、能够独立搭建本地测试集群环境，熟练掌握Hadoop集群和组件，以及相关中间件，包括k8s,mongodb,redis,mysql,etcd,elasticsearch,nginx等\n5、熟悉 CI/CD 工具，能够使用 TeamCity，Jenkins 进行自动化部署；\n6、熟练掌握 Shell/Python/Go/nodejs 至少一门语言，能够编写提高自动化能力的运维脚本；\n7、熟练掌握阿里云、腾讯云等云平台产品的购买、使用、费用管理；\n8、熟悉运维监控软件夜莺、Prometheus；\n9、在线集群服务的运维和优化上有丰富的经验，有大型互联网公司系统开发、测试、运维、应用工作经验者优先；\n10、熟悉微服务架构，掌握nginx/redis/RabbitMQ/zookeeper/mysql/Hadoop/docker/jenkins/git/ELK/mongdb软件的部署和调优；\n11、具备扎实的 Linux 平台运维和调试能力，能够熟练进行故障排查、配置调优、性能分析。\n\n加分项目：\n1. 有教育行业大数据运维经验优先\n2. 能够独立编写提升效率的脚本或者 vue 等 UI 自动化工具者优先\n3. 有自驱力学习新技术，并有落地和推广能力者优先",
+      "encryptAddressId": "62f3541396f5bd5a0Hx82tW_EFc~",
+      "address": "武汉洪山区李桥创意大厦2楼万域动力",
+      "longitude": 114.319347,
+      "latitude": 30.452488,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/698c380b30c4386f6bc7989f748daa62",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebd227c6929c4627562ef43bc878c1a9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220827/607f1f3d68754fd066000a4393f4dd055a75d40abe84b197a06ed89e788f234c5bbc531876e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "万域动力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "036b046bd4ec577403x42d27FQ~~",
+      "brandName": "万域动力",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220916/7bf6f160950405e9df9cb51b43df4d05b339e332f718910208c309cee69503442884b2451be80134.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "【集团简介】\n北京万域数智科技有限公司（简称：万域数智）是一家专注于大数据、人工智能、虚拟现实技术领域产品研发、技术研究的创新型国家高新技术企业。目前公司开发了数字治理、数字智能、数字孪生、数字平台四个产品系列。形成了具有万域特色的数字产业化和产业数字化的产品体系。致力于为医疗、教育、水利、能源、工业等行业客户提供相关行业咨询、技术支持、实施落地等一站式创新的数字化解决方案，推动行业数字化和智能化转型，赋能产业高质量发展。\n万域数智目前总部设在北京，并在武汉、海口、许昌设有分公司，全国多地设有办事处，全方位服务于全国客户及合作伙伴。\n\n【教育科技板块子公司】\n武汉万域动力科技有限公司成立于2013年，是北京万域数智旗下全资子公司，公司专注于数字技术+教育行业，深耕于大数据、人工智能、数字媒体、虚拟现实等技术在教育教学、产教融合等领域的创新应用，致力于为学校提供专业的教育数字化解决方案。\n      十余年来，公司已累计为200多所职业院校提供数字化解决方案，参与建设省级、国家级在线精品课程500余门。\n\n因处于高速发展期，公司以“广纳贤才、共同发展”为理念，诚邀有理想有抱负的行业精英、岗位能手、职场新秀加入，共创未来。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717105066768,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万域动力",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

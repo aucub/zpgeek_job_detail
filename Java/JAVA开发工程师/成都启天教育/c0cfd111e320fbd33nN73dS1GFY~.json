@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YdTzKLvCnx8EP-91RWgkKKWMh-nA6B41sD6B397YjslyXtjOo2keARSpTn-SHhQxF3npSsFMqG1qYKCfqhGTDue47mdz8dRrQS2Y8onfyMaSUIs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c0cfd111e320fbd33nN73dS1GFY~",
+      "encryptUserId": "e6d00b5de730f0731H143NS9GFU~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 深入发掘业务需求为软件开发提供技术方案设计；\n2. 从事核心部分代码的编写；\n3. 进行业务需求分析和软件设计，并编码实现。\n\n任职要求：\n1. 计算机相关专业；\n2. 有微信小程序开发经验；\n2. 熟悉Java技术栈下流行的通用框架，如SSM等；\n3. 熟悉常用的关系型数据库，如mysql或oracle,对非关系型数据库有一定的了解；\n4. 熟悉常用的Linux命令，能独立部署项目；\n5. 热衷于技术的专研研究，能独立地分析和解决问题；\n6. 责任心强，具备良好的团队合作精神。\n\n加分项：\n1.了解jfinal框架，有实际开发经验优先；\n2.熟悉Redis，Memcached等缓存技术，有实际项目经验的优先；\n3.熟悉springboot，springcloud等分布式框架，有实际项目经验优先；\n4.熟悉mycat,mq等常用中间件。",
+      "encryptAddressId": "12d4fc4db8de76df3nV-3di-EVE~",
+      "address": "成都腾飞大道青羊工业园",
+      "longitude": 103.95508,
+      "latitude": 30.685996,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c2b13f15ee4be163ba97b734376b854",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a647c5964620ec85541785e1ad46cc70",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180614/21806952483c47e570f6adef63c7cf62cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "成都启天教育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b067bc8d4eb40f8d0XB939S5",
+      "brandName": "成都启天教育",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170505/f42ba79a6ab9972cb49d89ea3d0f52be8e1ec20fc89412474b386bc0bcf58d15.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "启天教育成立于2012年",
+      "labels": [],
+      "activeTime": 1717107708537,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都启天教育",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hxvkYU-NCm53O-v10p-S1Hayn1Auwcu8crSP3AyS38P5zdLymX5dtU2ykGGEeYVF10I_wqej5GXFq4PaLvV6Bfg0xkAoUMkxRIa6SNiShDFjMMgxXoeXenx7_mJTqG4CcnTLxdgaw9g~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "46fb10d06c743a951XVy3t24FVZQ",
+      "encryptUserId": "6ffb2cb017daa50f1nVz3tS1GVs~",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "(1)本科及以上学历，计算机软件相关专业；有扎实的数据结构、算法基础和编程能力，学习能力优秀\n(2)有一定Java基础，了解jvm基础原理，熟悉多线程并发，网络编程等技术\n(3)熟悉java web开发，同时了解相关框架（如springboot，mybatis，velocity等）基本原理，同时有一定实践经验\n(4)能够熟练使用数据库（如mysql），有较强的sql能力\n(5)对技术有激情，喜欢钻研，具有良好的学习能力",
+      "encryptAddressId": "1c02e50840865a231nd83d67F1A~",
+      "address": "杭州余杭区中国(杭州)人工智能小镇11-704",
+      "longitude": 119.965839,
+      "latitude": 30.27056,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf4e5a6a00f7d4dafc0e5a4d72a2e26d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7742b3178a3771fc5267edc672a16114",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "SpringBoot",
+        "网络编程",
+        "数据结构",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "拓蜂",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d6ae4fefd94f265e3nV_3dW5Fg~~",
+      "brandName": "拓蜂",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200912/c7ceedaa441f178814b516614b4cdddbb24b7bfc8244f5af05781fa9f94ba6f5.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "获得全球顶级风投机构数千万投资，以大数据和智能化服务于跨境电商企业，为跨境卖家提供从市场决策、获客转化到运营优化的各环节支持，打造跨境电商线上运营OS。\n\n核心团队来自于阿里巴巴，在跨境和ToB领域有丰富的产品研发和商业化运营经验，设计并操盘过数十亿营收规模的业务。\n\n公司关注综合性人才培养，将产研运营人员培养成能各自独当一面的人才；同时也鼓励团队合作，以产品线组织力量快速迭代，使同学们可以在实战中快速反应提升自己。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1718729481164,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拓蜂",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

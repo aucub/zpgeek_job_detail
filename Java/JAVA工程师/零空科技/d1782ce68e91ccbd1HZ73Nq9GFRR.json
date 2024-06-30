@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YbbMMqWnpbQ4_-G10217-DMb9GaxprL147HH4XPwMM1EEJaizUYltiJqfDK5UukJBM2jam6LOEsz29BUS2rH2lOU2dfUrXuv_gj1qxImEN2osnd2Y_gt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d1782ce68e91ccbd1HZ73Nq9GFRR",
+      "encryptUserId": "4373c66489c4d68d1nR-2N66ElFU",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "需求岗位职责：\n1. 负责项目模块的详细设计和软件开发，完成模块代码编写、单元测试和代码维护；\n2. 协助完成项目的测试、系统交付工作，对项目实施提供技术支持；\n3. 完成岗位工作相关的文档编写、技术评审和培训； \n4. 协助解决业务系统使用中出现的问题。\n \n技能要求：\n1. 熟悉JAVA语言，有JAVA WEB应用开发经验；\n2. 熟练使用Eclipse开发环境，熟练使用svn或者git等工具进行团队协作开发；\n3. 熟练掌握Spring、Struts2、Hibernate等框架的使用；\n4. 熟练掌握SQL语言，熟悉SQLServer、MySQL等数据库；\n5. 熟练掌握html、javascript、css基础语法，熟悉JQuery、ExtJS前端框架，会运用Angular框架进行HTML5开发，对Ajax/dwr、ExtJS有实际项目经验者优先考虑；\n6. 具备较强的学习能力和工作主动性，服从工作安排。",
+      "encryptAddressId": "b538a4d34d162dd60XJ53Ny8EVo~",
+      "address": "广州越秀区广东高速公路大厦(东南门)16楼",
+      "longitude": 113.283157,
+      "latitude": 23.119151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d83c7b8eab38bae2b2701fc77db5c21",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/992097c2606be56f5a6bdf94cf82bf10",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "容器技术",
+        "Spring",
+        "SpringMVC",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "行政人事",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=24dfd7f17a365cb7jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5dnXt0t996u41vHAe5neA1Mb_4fJFU4urrXjooZ1xU9SZU_P-lQXBMErfmUBQxw4weSAi2zahc_AlKUtaxgCAkUCcV8U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "零空科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0474b682111b1f521XRy2Nq8EFA~",
+      "brandName": "零空科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718354831000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "零空科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

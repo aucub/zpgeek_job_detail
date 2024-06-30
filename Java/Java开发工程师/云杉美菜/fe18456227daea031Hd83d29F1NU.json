@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8vnImWjLiU4M2-b1Bo9KD8HM-Tit7NldCNedzslOrbf6jlUNUZcUe4qzQ_bIsAGVj30jsuyGphnlw1p16oiNy9F-BoYNU2ZS1Q5pTgx-9ly4qWj3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fe18456227daea031Hd83d29F1NU",
+      "encryptUserId": "a880383f1de35e761HJz3Nq1E1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120900,
+      "locationName": "临沂",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责电商交易和供应链平台后端研发；\n2、根据产品文档或需求文档完成代码编写，按时高质量交付；\n3、参与线上系统性能问题和bug的定位和解决；\n任职要求：\n1、本科及以上学历，计算机、软件工程及相关专业；\n2、熟练掌握Java语言，具有1~3年Java系统开发经验，了解JVM原理，有JVM调优经验；\n3、熟悉主流开发框架（SpringMVC、SpringBoot、Mybatis等）、分布式服务框架（Dubbo、zookeeper等）；\n4、熟悉常见存储方案（Redis,MySQL等），消息队列（RocketMQ、Kafka等）；\n5、熟悉Linux操作系统，可以快速排查、定位、解决线上问题；\n6、熟悉大数据离线和实时相关中间件优先；\n7、有电商交易平台或供应链相关领域知识优先；",
+      "encryptAddressId": "e84ff2150f38285a1nZ53tu6EFJV",
+      "address": "临沂河东区美菜网临沂客服中心4-5楼",
+      "longitude": 118.388857,
+      "latitude": 35.067393,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7202d7a50e679a647b655dbbfa277985",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd5d8c2c529114e23433130519fa2f71",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "Dubbo",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鲁女士",
+      "title": "人力资源HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180415/9729f05b2463b778287681bc71b07067b702c4992caeb81019f4b68baa8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "云杉美菜",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2228844cd3f644931XZz2966",
+      "brandName": "云杉美菜",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161212/b727f4dae48a21b3c4592db1945577c37cb5492f0c71df818dab45edaddfc6c1.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "2014年6月6日，北京云杉世界信息技术有限公司旗下的美菜网成立。\r\n\r\n作为中国领先的农产品移动电商平台，美菜网一直致力于用前卫的理念和先进的科技改变落后的中国农业市场。\r\n\r\n致力于帮助全国近千万家餐厅做采购，缩短农产品流通环节，降低商户供应链成本，减少供应链人力。全流程精细化管控菜品从田间到餐桌的每一处细节。\r\n\r\n同时提高农民收入，减少压货风险，降低农民损失，促进资源合理分配。\r\n\r\n美菜网以惊人的发展速度全国扩张，获得众多投资机构的关注，创造业界神话。到2016年底，美菜将计划覆盖全国100个城市。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1718671369579,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云杉美菜",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YGWIfI1G5vGzN-T1v4WMGhHQtL-MK91WHLla9IP4-afj2g0QJFVWY_NGOCoOWxHYKiV6GdHr8WYUbE2jOvxdTnUcDIJzmcOPEZirA9euQIJWwR5dVTRgHV2EmzxxLoUNecEkaiKOlIo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b5cfaf32f324371b1HZ73Nq-GVJZ",
+      "encryptUserId": "b2b89f3022ea51db0nR-39S0FlY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、根据需求，完成应用模块的分析、设计；\n2、负责具体项目/任务的详细设计、编码和内部测试，软件产品项目规划工作，制定具体项目实施方案及软件开发技术和规范及标准流程的改进；\n3、参与项目/任务的模块架构、数据库的设计，解决项目/任务开发中遇到的各种问题，完成相应模块软件的设计、开发、编程任务；\n4、协助并完成其他各类技术开发任务。\n任职资格：\n1、计算机或者相关专业，本科以上学历，一年以上工作经验；\n2、两年以上的Java开发应用经验，熟悉J2EE技术框架，熟悉Springboot、Spring、Springmvc、Mybatis等技术框架；熟悉SSM的底层原理和机制；\n3、对vue 组件生态，框架api 有一定的了解；\n4、掌握MySql、Redis 等缓存，数据库，了解其常用使用方式；\n5、熟悉高并发、高性能分布式系统的设计和应用，调优；\n6、 熟练使用maven,git,IDEA等项目管理工具；\n7、良好的问题理解能力和自学能力，能够理解以及处理复杂逻辑，具有分析、沟通、解决问题能力；",
+      "encryptAddressId": "6be484eeb56be4e30nR53dW_EVQ~",
+      "address": "上海闵行区中庚环球创意中心3号楼1203",
+      "longitude": 121.39673,
+      "latitude": 31.131234,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1eff4927ebe633923306afa1675cb86d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c35843ea0de44e44fa250329b03e0cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Kafka",
+        "MySQL",
+        "Redis",
+        "架构设计经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "上海锐孚信息有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "42c861bed6e7251b1HZ62967Eg~~",
+      "brandName": "上海锐孚信息有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130674334,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海锐孚信息有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

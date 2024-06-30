@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bmer1Fgr8OU8i-h14UzznUYBZOmnJVvFlRtdqvjC4rtPyEVLqcs5iqITW8zTHd_q3CQQYr1r4Q42a3CY3JQVwncnYlcRPxdGr1mHPgT-o8Gp2qrgMe0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7271c23d268b3eff1nx52du4FltX",
+      "encryptUserId": "0233a5301d73cdd81HVz29y9F1s~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. Java基础扎实，精通多线程、集合、网络、IO等基础知识，对JVM原理有一定的了解；\n2. 熟悉SpringBoot/SpringMVC/Mybatis等常用框架，并了解其基本原理；\n3. 熟悉Oracle/MySQL/Redis/Hbase等一种以上数据库；\n4. 熟悉Linux系统，并熟练掌握其常用操作命令；\n5. 熟练使用IDEA、Eclipse、Git等工具；\n6. 有Hadoop、Spark等开发经验者优先；",
+      "encryptAddressId": "2df808a7f3af5a871nxy3d68GVY~",
+      "address": "北京海淀区中国科学院空天信息研究院北四环西路19号",
+      "longitude": 116.326342,
+      "latitude": 39.986887,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99b714ae6dde60fe126499e0b6f564ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17717c84658b9f172ad8afbac3ccfa28",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "SpringMVC",
+        "GIT",
+        "MySQL",
+        "springboot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "人事总监",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=58c9d90d17adb933jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Sn3505Np5vYxpS1O0mb01Z-r3KZMEt--4DW0vNloF9iFVrPrxE3MaRbK1XkM4kdwdRAnkmPwI-10dBdK20iN6BnFC8yeJacOoxsxwFO9b1uBf6UOOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "中科卫星",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d572c3c834a20c381HB_3t67FlQ~",
+      "brandName": "中科卫星",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101402,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716611569000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科卫星",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

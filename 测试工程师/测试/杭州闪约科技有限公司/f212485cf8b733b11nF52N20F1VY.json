@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wWOSY9dMwTVW2-W1P7E-dh2jYY9StZjvxZysp0Q7ud0uXx_SufCkaj3h_0nZguH8DZb7i1F0QK8_QElbduJI3uVAfHtf1Z0JajiXFP7hlDUmi4UERXxgdgO5lwjuPo8NiAfITPDR3Ds1",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f212485cf8b733b11nF52N20F1VY",
+      "encryptUserId": "c89ca6b3632fb6431HB429u7EFM~",
+      "invalidStatus": false,
+      "jobName": "测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1. 参与软件项目的需求分析，关注项目需求的可测性和设计的合理性\n2. 根据需求进行测试设计及测试用例的编写；\n3. 完成代码走查、测试代码开发等白盒测试工作；\n4. 执行测试用例并进行bug的跟踪，根据测试结果完成测试报告；\n5. 深入理解系统内部的工作原理，从测试的角度提供优化意见；\n6. 发现工作中的效率提升点，开发工作中需要的测试工具。\n岗位要求：\n1. 良好的计算机专业基础(数据结构, 算法, 编程语言, 数据库等)；\n2. 熟悉java编程，熟悉oracle、mysql等db，有互联网行业从业经验；\n3. 三年以上软件测试开发经验，精通测试用例设计方法及常见自动化测试技术，独立承担过大型项目测试负责人；\n4. 熟悉软件开发和测试流程，并有自己的理解，可以推动流程的裁剪和优化；\n5. 性格开朗乐观，责任心强，积极主动，善于沟通，具有团队精神；\n6. 喜欢钻研技术，自驱动&学习能力强，逻辑能力强、思维活跃，接受新事物能力强；\n7. 在某一测试领域比如性能、安全、自动化、大数据等具备很强的专业技能者优先。\n8.熟悉JMeter压力测试工具；\n9:熟悉全链路压测优先；",
+      "encryptAddressId": "8969389f57e35b5f03dy2tW0GFE~",
+      "address": "杭州拱墅区莱茵·矩阵国际(北1门)4号楼405",
+      "longitude": 120.108211,
+      "latitude": 30.293399,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5ee4f3fcc724b919007758aebbc3130",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/31682a6a737aa62f3051ec30db65f151",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件测试",
+        "自动化测试",
+        "性能测试",
+        "白盒测试",
+        "压力测试",
+        "Java",
+        "Jmeter",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230504/607f1f3d68754fd06f83b9116a008d9e290b096d9e08f1cb039a1bf707c0a9ac2182bbd8c92_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州闪约科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ce4a159e0a15d0361nF82Ny4FFc~",
+      "brandName": "杭州闪约科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717121006992,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州闪约科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

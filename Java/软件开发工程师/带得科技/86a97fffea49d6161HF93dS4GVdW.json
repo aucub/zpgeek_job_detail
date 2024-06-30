@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Rr2a5xDdWeSVW-C1JQWVHmUz5RyraDnU4lfn6XobHelt2nLAZzcnFZB2v0HwRB2KUDBUtsgh5LtLXdQVkYi5x1hYWN1X_A5rwre0pJIJ6UlIyOLiMthWHkKDoJe-f36aGHkHYrtt5SQj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "86a97fffea49d6161HF93dS4GVdW",
+      "encryptUserId": "4d4c37d0ebd6d50b1Hxy0924EVI~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.大专以上学历，2年以上java后端开发经验；\n2.熟悉springboot,springcloud开发框架；\n3.熟练数据库技术，熟悉Oracle、MySQL设计和优化；\n4.精通HTML/CSS/Javascript/Vue等主流web前端技术。\n5.熟悉面向组件的开发模式，对组件规划封装有相关经验。\n6.能够应用切图工具进行切图，将UI设计转化为符合W3C规范的DIV+CSS静态页面者优先。",
+      "encryptAddressId": "e5be76131dfd35aa33B92d2_EVBTyo66Uf0~",
+      "address": "北京海淀区枫蓝国际中心A座10层",
+      "longitude": 116.35615,
+      "latitude": 39.95373,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230424/48ba41acc9cef1bf2f0c3c477055710cdc48a90343ad4c5c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bfeac7abba5e3718939dfb3f8d0a1b17ef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "业务总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231123/607f1f3d68754fd0292168f8654a0f2c8c1be1ad2b1437f586e351bc5fc6394ed8e0046b104f65b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "带得科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "52960d9063c6c0391HV82tW5FVY~",
+      "brandName": "带得科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719497600502,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "带得科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

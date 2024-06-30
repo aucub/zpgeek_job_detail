@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_tAVPmYNbeoj_-V1lmsyDz-ZnZIePcqYQt5zP5rcxDVVcyXr734YzakG24_ziMDgQBT2LCaZEoWY_rz9pmToueVJxjT9bm71TZXp9VCNskNT9UWQ9l-S3AJ6Zb9WgC2uiSADnS28GnPzvA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "45dd1f0ca2d605c91HJ509u6GFJS",
+      "encryptUserId": "4a5a6426b70245c30nd_29i5GVpX",
+      "invalidStatus": false,
+      "jobName": "全栈软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1．参与产品／项目的需求分析、需求评审，参与收集市场、客户需求，为产品的总体规划提供资料；\n2．参与系统的概要设计，参与设计文档的编写，负责模块的详细设计，并编写设计文档；\n3．根据设计文档、进度安排和编码规范实现软件开发，对平台的其他模块进行代码审核。\n任职要求：\n1.2年以上经验，大专及以上学历，计算机相关专业；\n2．熟练掌握SpringBoot、SpringCloud、Mybatis、SpringMVC等Java开源框架，熟悉Spring核心原理；\n3．熟悉各种Java设计模式，并在实际工作中应用；\n4．熟悉Vue2、Vue3，熟悉如Element-UI、Antd等前端UI框架，熟悉vuex、vue-router、封装、混入等技术；\n5．熟悉多线程、缓存、消息队列、NOSQL等相关技术，了解高并发、高性能分布式应用的系统架构设计。",
+      "encryptAddressId": "538c1364987e75700X1_2NS8EVI~",
+      "address": "济南历下区齐鲁软件园创业广场E座B409",
+      "longitude": 117.132514,
+      "latitude": 36.670948,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6e6557cac5eaabd47dedefcec5f23ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e006ef0bbe67367a7e04c140120dea00",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd012253fbda4e66a61707b84a2ead8eb54cec6a1ed92e454879841a40dfe50233_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "合天智汇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b718f3b76b181d191nxz3tu1E1o~",
+      "brandName": "合天智汇",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180531/c9c7b0eefe91fb43412186bf8545aacfcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "山东合天智汇信息技术有限公司位于济南市高新区齐鲁软件园，公司成立于2014年，是以大数据分析和应用为核心的高科技创新型企业。公司秉承“创新驱动变革”的发展理念，为用户提供专业的互联网大数据分析、数据可视化和网络安全应用等服务，并且公司多次受到山东省公安厅的表彰。目前公司所拥有授权发明专利21项、计算机软件著作权登记37项、软件产品登记11项，是山东省高新技术企业和山东省优秀软件企业。",
+      "labels": [
+        "生日福利",
+        "零食下午茶",
+        "带薪年假",
+        "法定节假日三薪",
+        "五险一金"
+      ],
+      "activeTime": 1718792947398,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合天智汇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

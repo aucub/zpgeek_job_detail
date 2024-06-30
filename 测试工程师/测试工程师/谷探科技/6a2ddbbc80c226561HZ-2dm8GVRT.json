@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FHjZTCh9ouIlA--13qht9te6LGMGe3vCxNbsgwG8ceTWvKqukMu1R5CQGDng426r__iiButeMkrWBjX_VhnUurG6WdMkTQ_kXUtDHJhrO9oLzBf-PvY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6a2ddbbc80c226561HZ-2dm8GVRT",
+      "encryptUserId": "d9d7490f32c6a6b933Z_39y1EFs~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、物联网、电子及计算机等相关专业毕业，统招本科以上学历；\n2、了解嵌入式产品、了解docker和微服务，有1-3年测试工作经验优先；\n3、熟悉TCP/IP、HTTP，及物联网通信协议等，具有一定的网络抓包分析能力；\n4、熟悉Python等编程语言一种，了解pytest测试框架，可以自主编写接口自动化测试脚本，了解CI\\CD，熟悉计算机网络和Linux基本操作，\n5、熟练使用Postman和Jmeter等接口测试工具和性能测试工具，有成熟的接口测试和性能测试经验\n6、积极乐观，认真负责，乐于协作，有较强的逻辑分析能力和探索学习能力。\n工作内容：\n1、根据产品需求，对负责产品的质量负责，构建并落实标准化的质量过程（需求梳理澄清、测试用例评审，测试用例执行等），提高团队运作效率，提升产品质量。\n2、指导制定项目测试计划、测试策略、开展系统测试、自动化测试、压力测试等、输出测试报告或相关专项测试文档。\n3、能主导负责公司产品功能或性能相关的测试。\n4、通过测试相关流程、策略、方法和工具等创新，提升测试的质量和效率\n5、与开发共同协作，推进故障解决，评估质量改进效果",
+      "encryptAddressId": "6e415ee2add37ede03Vy0ti1FFA~",
+      "address": "深圳宝安区宝源华丰总部经济大厦B座525号",
+      "longitude": 113.861776,
+      "latitude": 22.572344,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53a0b01e502b65b2fc9a218ff8dfd14f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74eaabf181bb35c7f763422b5e3ecf35",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "功能测试",
+        "自动化测试",
+        "Python",
+        "JMeter",
+        "Postman",
+        "嵌入式测试",
+        "计算机相关专业",
+        "测试工作经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "戴先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "谷探科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3f0623ea793c4e0b1nB92dW0F1Q~",
+      "brandName": "谷探科技",
+      "logo": "https://c-res.zhipin.com/jrs/9_9920833218356095eba056ba728456c8.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "深圳谷探科技是一家专注于数据中心综合监控运维管理系统的高科技创新型公司。\n公司在数据采集、有线无线数据传输、综合运维管理平台等领域有一支经验丰富的专业技术队伍，开发人员占公司总人数60%，公司员工多为行业内资深人士，对行业发展具有前瞻性，具备极强的开发实力。\n公司的数据中心综合运维管理系统已广泛应用于电力、通信、金融、民航、水利、农业等行业。",
+      "labels": [],
+      "activeTime": 1718637635811,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谷探科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

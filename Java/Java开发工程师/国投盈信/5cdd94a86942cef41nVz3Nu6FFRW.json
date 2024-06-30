@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "99y76tFKyituE-_17ZtKfTUyMRS5dHTzvTVQJQ0YrOaGT4KkMEx-8HmI4jXk6L_q4Yu2Zp7pCY2dAGV5caRZYKgLNqOqMgG1T_uKvm61Q1LQAnaG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5cdd94a86942cef41nVz3Nu6FFRW",
+      "encryptUserId": "90f76b0da6b7d1af1HN83Ny5Elo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091100,
+      "locationName": "秦皇岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n运维工具软件后端开发，基于Java的后台系统开发，数据库设计，运维工具软件维护管理\n\n任职条件：\n1、本科及以上学历，计算机相关专业；英语四级及以上；\n2、具有JAVA开发经验，熟练使用idea等开发工具，精通JVM原理，精通JAVA主流开发技术，如：spring boot、mybatis等；\n3、熟悉微服务实际产品开发、熟悉spring cloud技术栈的微服务开发技术优先；\n4、熟悉MYSQL等数据库的处理机制及应用场景限制；\n5、熟悉Linux系统开发环境，熟悉常用命令等；\n6、熟悉高并发、分布式技术框架，精通redis、kafka、rabbitmq等中间件的设置、调优等技术优先；\n7、能够快速学习、灵活解决问题、有上进心和创新思维。",
+      "encryptAddressId": "f594f496a01375a80XV-39m7ElE~",
+      "address": "秦皇岛海港区恒诚·知谷A座9层",
+      "longitude": 119.456565,
+      "latitude": 39.920252,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6de926d3969e1a9c2ca86b4c787e8452",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c35596b3da4fc79bd4960e709b26f56",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "SpringBoot",
+        "MySQL",
+        "Linux",
+        "Redis",
+        "软件工程师",
+        "IDEA",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210226/3d907015430fb1ba1a4fd20b2e2011463c58895395b1aed3b242da58e65_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "国投盈信",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4c752be5bfe981d503xy0ti5",
+      "brandName": "国投盈信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171107/0b40244b50fbb04749e6ced3d8dbed7bcc777318e770bfdc157a337ab9dfa5bc.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "国投盈信秦皇岛科技有限公司于2016年成立，位于中国秦皇岛市经济技术开发区，由秦皇岛开发区国有资产经营有限公司、北京中盈信合科技有限公司和北京通达联信科技有限公司共同出资组建，为企业与个人用户提供定制化“居民身份证网上应用”(CTID)接入与高并发系统建设的咨询、开发服务。公司拥有多项互联网身份认证领域的知识产权，并于2017通过CMMI3国际权威认证，项目的研发与管理能力与国际接轨。\n作为具备时代使命感的创新型科技企业，国投盈信通过丰富的项目经验与全新的技术解决方案，使合作伙伴变得更具创新性与高效性。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "加班补助",
+        "项目奖金",
+        "工龄工资"
+      ],
+      "activeTime": 1718264205610,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国投盈信",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

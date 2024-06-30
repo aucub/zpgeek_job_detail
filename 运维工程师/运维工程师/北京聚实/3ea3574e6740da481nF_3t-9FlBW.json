@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zUWXaLVyxmSmM-41R1c4VdxjIL4E3GR3ahCUEzqtXJWtsKQZnDy9Llpu7E7c3xm-WXGbv5-elU_G6pDrQCqFhzSe-af2RsWjEf16kuJ4YK7B_MA4HI4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3ea3574e6740da481nF_3t-9FlBW",
+      "encryptUserId": "46e5b15f4295a1861n1z39W1GVU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责公司服务器及系统的安装、调试、维护、监控和故障处理等日常工作，对公司现网应用服务提供技术支撑,保证服务器的稳定运行;\n2、负责公司网站应用系统环境安装、优化和维护,以及应用系统的备份和故障处理等工作;\n3、服务器部署架构的研究和优化，自动化技术研究;\n4、服务器、存储资源管理分配，集群搭建和管理;\n5、服务器集群硬件解决方案，硬件替换，硬件设备管理，系统补丁，安全管理等日常运维;\n6、虚拟化平台管理，网络管理及网络布线，网络优化;\n7、使用监控、日志工具对复杂问题定位和分析;\n8、编写服务器集群自动控制脚本。\n\n岗位要求:\n1.一年以上企业运维工作经验;\n2.熟悉linux系统，具备shell编程能力；\n3.了解区块链基本原理；\n4.熟悉各种挖矿软件部署，并能解决遇到的问题；\n5.了解服务器集群及灾备方案，具备集群开发经验者优先。\n6.熟练使用linux及常用命令，k8s 等容器应用;\n7.熟练使用shell, python, go 等脚本语言",
+      "encryptAddressId": "01db43fd216af8060HN52tS5EA~~",
+      "address": "北京朝阳区蜂巢CBD传媒艺术工作区园蜂巢传媒艺术工作区7-10号B-02",
+      "longitude": 116.503868,
+      "latitude": 39.909589,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a1c3160d84a6dfc7aa7dc0bcbb959f8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e73bb7d83618f43c1cf53b746a569f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "系统运维",
+        "存储运维",
+        "集群运维",
+        "Linux",
+        "Shell",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220407/607f1f3d68754fd02b899542ad498ee01e8c6e9d7701be5696a8d57f46b35bc86f8bfb7d9e4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京聚实",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a38c2e0b51946e5f1nF-2N61E1U~",
+      "brandName": "北京聚实",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "从事软件研发、科技创新，大数据挖掘、数字挖矿等业务",
+      "labels": [],
+      "activeTime": 1717071739836,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京聚实",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

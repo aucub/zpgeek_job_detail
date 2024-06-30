@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tXAb2nw5-v21u-e13_wDb0IS5r8CnXXNRS0iEn5NwnrlVW_60_OWDAUh3Wlj6J0vgZUpUeQDSanBX6WyYGrvYpTYiWVm9uyaohesvIj2m8u2OB33Gp5NoTbeM054Wn5F6fZeoZSv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "09c652a099144aab1H153N-_FVU~",
+      "encryptUserId": "b58c65abaedc40351HJ73ty5FFM~",
+      "invalidStatus": false,
+      "jobName": "Java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-6K",
+      "payTypeDesc": null,
+      "postDescription": "在读大三、大四学生\r\n岗位职责：\r\n \r\n1) 负责产品的开发设计；\r\n \r\n2) 参与产品及相关项目的需求讨论、制定开发计划、进行系统框架和核心模块的详细设计、上线计划等工作；\r\n \r\n3) 带领初中级工程师完成产品相关项目的核心编码，配合项目经理做好项目管理。\r\n \r\n任职要求：\r\n \r\n1) 扎实的计算机专业基础，包括操作系统，计算机网络，计算机体系结构，数据库等；\r\n \r\n2) 具有扎实的Java编程基础，理解IO、多线程等基础框架等；\r\n \r\n3) 精通spring mvc、orm框架（ibatis或hibernate）、模板引擎（velocity）、关系型数据库设计及SQL；\r\n \r\n4) 掌握java流行的开源框架Spring Boot/Spring Cloud/Zokkeeper/Dubbo等；\r\n \r\n5) 具备良好的面向对象编程经验，深入理解OOP、AOP思想，具有较好的分析设计能力，熟悉常用设计模式；\r\n \r\n6) 熟悉常用前端技术，如jquery、bootstrap、easyUI、vue、react，熟悉react、vue优先；\r\n \r\n8) 熟悉SOA，有大型分布式、高并发、高负载、高可用性系统设计和开发者优先；\r\n \r\n9) 具有金融行业背景者优先；\r\n\r\n10) 在读大三、大四学生优先；\r\n\r\n工资面议\r\n工作地点：上海陆家嘴/徐汇区/张江塘镇",
+      "encryptAddressId": "e0b7a59c10deb5d01XF73dW0GFM~",
+      "address": "上海黄浦区雁荡大厦",
+      "longitude": 121.469947,
+      "latitude": 31.218501,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7770eee4cd67d0e11722f7b1289da1f6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d32d02e263c13bace83f510469d23133",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海慧岍",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b6b9e925cb1c2eb803x50t21",
+      "brandName": "上海慧岍",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180727/fb71f36b8d5397df52c9696a247403537f86efd9a6d3913def4304d85c1a55fe.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130905160,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海慧岍",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

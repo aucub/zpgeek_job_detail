@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GACfoXMQpd6cT-r13gCFHcAp2YQMTe-PSYPRus3ktz1c9Lf-AWJ2ousXlZh3lD5Bh2abfS09-tANXT-Rou2R6jNqdsbz_wRuuLGAH2O3PmEFzTPnUdM7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6898c00df6dcd77c1XF609u5EVVW",
+      "encryptUserId": "c81db40039f079cc0nd63tm7FlVR",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、独立完成日常项目发布、常用中间件部署，编写相应脚本实现发布自动化；\n2、部署监控系统，针对不同业务需求，配置相应的监控策略；\n3、系统运维保障，出现故障及时响应并处理；\n4、梳理部门服务器资产信息，管理各服务器root和其他服务账户密码\n\n任职要求：\n1、统招本科及以上学历，两年以上linux系统运维工作经验。 \n2、熟练使用Linux系统的基础命令及熟悉 nginx/apache/tomcat/redis/LAMP 等配置和性能优化；\n3、至少熟练使用Shell、Perl、Python等脚本编程语言的一种，应用脚本解决相关问题；\n4、熟悉服务器文件部署、日志文件备份、网络流量监控、防火墙技术，熟悉基本的安全常识；\n5、熟悉集群和热备系统架构模式，对实现linux系统高可用、可靠性、可拓展性有自己的方案与见解；\n6、熟悉常见IT监控运维工具，至少了解使用过一种 (如：nagios/cacti/zabbix软件等配置与使用)；\n7、部署过数据库服务（oracle/mysql 至少一种），熟悉数据库常用基础命令；\n8、熟悉交付部署的流程，熟练使用Git，Jenkins，maven等工具；\n9、熟悉Docker、K8S安装部署，了解基本原理，熟悉Ansible等自动化运维工具。\n\n注：该岗位需要去政府部门现场驻场维护（南京本地驻场）",
+      "encryptAddressId": "d362407e7b23553433B-29i6FFo~",
+      "address": "南京鼓楼区凤凰广场鼓楼区湖南路1号凤凰广场4楼（玄武门地铁站1号口）",
+      "longitude": 118.783027,
+      "latitude": 32.068656,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cae9e2b8d5c0b68ffba5d8e0c41db976",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9d81a779658dfd1e1a1e4494da65889",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "DBA",
+        "Java",
+        "MySQL/Oracle",
+        "Python/Shell",
+        "运维经验",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "人事经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f5e3904517f90505jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5fnXp0t997uNlmTgO7m-dgNuT4e5FWtea6Vj8tZ14H83cJrf2nEHBLRLK2XkUxx9tJTQzqn_oE-FIXVILj0CQtDSQRoU-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "阅点点",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "09c8ba45fb40e1131nJ43tu-GFc~",
+      "brandName": "阅点点",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210510/c2ca87ff6ada0efeeacb2fc51873a81b735dc4e739325059ce95982b75b18fae.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司自运营阅点点电商平台，拥有70多万的会员用户，打通全省1000多家新华书店。自营门店3家，预计2021年覆盖全省。其书商一体化解决方案，已在今年实现南京大地区全覆盖，无锡，徐州，南通，镇江，宿迁等大市落地。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "员工优惠",
+        "定期活动"
+      ],
+      "activeTime": 1719568891803,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "阅点点",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

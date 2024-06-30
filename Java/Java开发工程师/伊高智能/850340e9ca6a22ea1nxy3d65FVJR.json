@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yynwgzecxhfig-f1O_Y5mnH6bK1bz9lB1EGtV-OymQs41xkSV6_z98Nof6MnY3LUaZZC0xV2Fz0-et1z_0PHjeErfIuueb1U1XfbOaeXLRqC1WAZ2Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "850340e9ca6a22ea1nxy3d65FVJR",
+      "encryptUserId": "bf2cd9b4d4c55b8b03J-39W0ElQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "需要spring boot项目经验 全栈需要能写自己的业务前端代码。\n\n岗位职责：\n\n1.负责业务应用软件开发，进行业务需求的调研、分析、设计及开发工作，需符合重用、扩展、安全、性能、伸缩性、简洁各方面的开发原则；\n\n2.负责完成系统需求分析文档和设计文档的撰写；\n\n3.负责业务系统开发、单元测试，进行代码审查及软件缺陷修复，确保软件程序符合系统设计要求和软件代码规范。\n\n\n\n任职要求：\n\n1、计算机软件、计算机应用、信息管理等计算机相关专业本科以上学历，4年以上的java/J2EE实际项目开发经验；\n\n2、有良好的clean code习惯，有过高并发、海量数据处理，熟悉异步通信、事件驱动、多线程、内存调度等机制者优先的经验；\n\n3、有需求分析经验及系统设计能力，主持过系统或重要功能模块的设计，了解UML，并能熟练使用；\n\n4、熟悉主流框架编程技术：springboot/springcloud/mybatis/springMVC等，熟悉Oracle/mysql等主流数据库，熟悉tomcat、websphere等常用web容器，熟悉互联网前端开发常用技术框架；  \n\n5、熟悉RocketMQ/RabbitMQ/Kafka，Redis，MongoDB，ElasticSearch等相关组件，并具有开发经验，熟练使用git、maven等版本管理软件；\n\n6、至少负责或参与过两个以上的中小型软件项目的总体设计、技术实施及项目管理，熟悉软件产品研发过程，有金融行业或第三方支付类产品开发经验者优先； \n\n7、良好的学习能力和团队精神，工作热情努力、积极主动、诚实负责。",
+      "encryptAddressId": "79552e2da40553b81XV429m1EVQ~",
+      "address": "成都成华区万科·钻石广场B座B座2409",
+      "longitude": 104.104228,
+      "latitude": 30.670136,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/987e39526f267dd9b132ac4c6d256c75",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/367c6192123f8f81699213014ecf735c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Maven",
+        "GIT",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高女士",
+      "title": "行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "伊高智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bceeffd8d6a54e3f1XNy3NS8GA~~",
+      "brandName": "伊高智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "来吧来吧 相约钻石广场",
+      "labels": [],
+      "activeTime": 1717627436000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "伊高智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

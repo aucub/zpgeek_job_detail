@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SWXPCX1TQauNt-S1B3bWdfEKe9otYibd3GTb_7hzu7KxQGyzVvixQeAqpsA2Eo9yhPe_f-Suy_pQtAbQ7OYzzCj9HTBgIVqt3EbMLKje4_5HMqxjZWh8Jdgyn1Pv1ekZDsYyL9LxhR53",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e2435cbafa2bf03a1nF62N69FVdX",
+      "encryptUserId": "2e5e8c071d81cd4b1Hx93Ny8ElU~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责Web、移动端H5产品的功能、兼容性、接口自动化及性能测试。\n2. 参与产品的评审，审核产品需求；协助产品经理完善产品需求，提取隐形需求点。\n3. 制定测试方案，编写测试用例,主持落实用例评审工作。\n4. 提交产品bug和改进建议，对其状态进行跟踪及维护。\n5. 落实测试流程与测试规范，负责测试相关文档的输出和维护。\n6. 与产品和开发团队进行有效沟通，推动测试中发现的问题及时解决；协助开发人员定位和解决问题。\n7. 完善编写测试平台建设工作，编写接口测试框架与ui自动化框架。\n8. 从用户的角度审查产品功能、用户体验，并且提出改进意见。\n任职要求：\n1. 2-5年及以上左右互联网产品测试工作，承担过至少1-3个大型项目的测试任务，行业电商、支付、大数据、互联网教育，非外包。\n2. 熟悉Java、Python、JavaScript语言，对常见测试工具和测试框架（testng、pytest）有一定了解，并熟悉自动化测试selenium、appium、HttpClient等。\n3. 熟悉前端框架（vue、react），浏览器基本原理，http网络协议。\n4. 熟悉linux、docker能独立维护测试环境，熟悉常用工具postman、jmeter、charles、fiddler等测试工具。\n5. 拥有快速定位问题的能力；能分析原因帮助开发快速定位解决问题。\n6. 良好的学习能力和自我驱动力；善于分享。\n7. 热爱软件测试工作，对待工作细致、认真、富有耐心，拥有良好的沟通能力。\n8. 团队合作意识好，沟通能力佳，具有高度责任心，能承受一定的工作压力。",
+      "encryptAddressId": "d16155e5ba073cdc1nx709y6F1A~",
+      "address": "杭州余杭区欧美金融城T4美国中心2803",
+      "longitude": 120.002405,
+      "latitude": 30.281193,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37fda0313eb4d62aff86a4d9e19d7f39",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65fd2baf367a9f78a347ec0755458fef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件测试",
+        "自动化测试",
+        "性能测试",
+        "接口测试",
+        "接口自动化测试",
+        "UI自动化测试",
+        "Python",
+        "Jmeter"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陆先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "拉勾拉",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6ac8aa02b4b7932c1nV42Ny_E1Y~",
+      "brandName": "拉勾拉",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210401/07570ac585d1b56021028c2a0ffd396138be38eaa821bf5a782f1642ea48a61d.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1717121011359,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拉勾拉",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

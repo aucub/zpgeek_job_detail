@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "T2iu7SQVsrsz0-H135Jx7ALkJ35HxPVEByrtBypSKjCGCyhr13H8BnzYQ3sLDVq8Ued95bBvXnju3oH5tkih1qeHW7jIWmkSpp_atebUz8K_wOoimg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "96cdca2de4080a621nJ_29y1EVRX",
+      "encryptUserId": "2c3365e1304fd3391H172dm1EVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 至少1年左右Java开发经验。\n2. 逻辑清晰，积极主动，有责任心。学习能力强，不抵触学习新技术、新语言。\n3. 熟悉微服务架构，熟悉Spring Cloud、Eureka、Dubbo、Spring Boot、Maven、MyBatis等开源框架、工具。\n4. 熟练使用主流关系型数据库(Mysql，Oracle)。\n5. 熟练使用JS、Jquery、Vue.js等前端开发语言。\n6. 熟练使用Redis、消息中间件(RabbitMQ等)。\n8. 有较好的文档编写能力，可以独立编写项目开发设计的各种技术文档。\n9. 具有MES开发经验。\n10. 具有良好的语言沟通能力。",
+      "encryptAddressId": "2823c980f1a2f5e40Hd73d61FFU~",
+      "address": "苏州虎丘区芯图大厦5层/508室",
+      "longitude": 120.739269,
+      "latitude": 31.264564,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3aa990bb36e0cc19e1d9cf166023518",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66097c833d61a194bfda0c9f24c8b496",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "NoSQL",
+        "微服务架构",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "苏州微智汇",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b127ff089214f0801n182tS5FQ~~",
+      "brandName": "苏州微智汇",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180601/5dd830f423633a26cc26c2d62ae4ef46cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司定位于工业4.0浪潮下制造业企业信息系统的开发，在制造业执行系统MES与上层企业资源规划(ERP)及底层电气设备PLC之间通讯与连接有多年的实践经验，同时提供Java和.Net环境下的B/S和C/S项目开发服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "交通补助",
+        "零食下午茶"
+      ],
+      "activeTime": 1715391710603,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州微智汇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

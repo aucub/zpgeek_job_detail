@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mhDhNYv9HucGQ-X1QCzlAo_PAo9eaAdRsF85EyhdDkuHbq6NEKxYoFLnytTudqKiGuUk9up7R-xSiWB-WJtmNv3vvABlAegkvUKoa_k9yDMYdkEH4D4Z",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c43890ff4d4835661Xx52t-0E1NY",
+      "encryptUserId": "3d5f1afe2482ce740n182d28FVRU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1，熟练掌握JAVA,具备2年以上JAVA开发工作经验\n2，深入理解Spring Framework框架，熟练掌握Spring Boot，Spring ，Cloud等技术框架\n3，熟练掌握分布式技术，如分布式锁、分布式事务\n4，熟练掌握RabbitMQ消息中间件、Redis缓存、ElasticSearch搜索等开源技术框架\n5，熟悉JVM原理",
+      "encryptAddressId": "1cb4d9919e77db0c331-0t-_GVA~",
+      "address": "广州番禺区巨大创意产业园2期15楼",
+      "longitude": 113.285766,
+      "latitude": 23.013877,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3087008195c62a9ce5b979164e9e1779",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b93a63f236b6102a309af963afbc1cc4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "技术",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "盛销科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "516c9bc64d2061901XN739W_F1c~",
+      "brandName": "盛销科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717072746484,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "盛销科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

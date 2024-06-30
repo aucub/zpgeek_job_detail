@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FR_zMx7qtCbjc-Y1BSKJgdsTXBWsMiNFdtovE19TdsEcL4ozdhTvvk688NwjgEv-sJoHM4u4PenhATVcQMecDp3gOod4MImwGsJ7vc1jBKK_sPHem7FtMUEWHEBteiBamq-KYAP9jyA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eab39b070f95576a1HF-29m8EFpQ",
+      "encryptUserId": "b092d4595aab44cc1HF83969ElM~",
+      "invalidStatus": false,
+      "jobName": "数据中心技术运维岗",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1、负责Linux系统服务器及应用环境的调试、维护，负责Linux平台上相关数据的传输、备份、系统恢复等工作；\n2、分析优化服务器操作系统，优化提高应用环境的速度、性能；\n3、解决排除数据中心各种软硬件故障，做好记录，定期编制数据中心各平台运行情况报告；\n4、协助解决排除各种网络故障、网络安全、信息系统安全问题，做好记录，定期进行关键数据的备份；\n5、完成领导交办的其他工作。\n二、任职要求\n1、本科及以上学历，具有计算机专业背景，有数据中心及算力平台管理运维工作经验优先考虑。\n2、具有较强的学习能力、热爱工作、吃苦耐劳，具有较强的责任心及团队合作意识。\n3、熟悉Centos、RedHat等Linux操作系统，能够对相关服务性能调优、定位故障并处理；\n4、熟练掌握Nginx、APACHE、mysql、redis等常用软件的安装,配置和管理；熟悉zabbix、Cacti等运维监控系统的安装、配置；\n5、熟悉docker创建镜像，有k8s使用经验优先；\n6、年龄一般不超过35周岁。",
+      "encryptAddressId": "b6b671f3be8af0c91XV93N68GVI~",
+      "address": "武汉洪山区华中师范大学南湖校区综合实验大楼11楼",
+      "longitude": 114.359184,
+      "latitude": 30.508548,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d581aee5a3d5cee8cc993311b5da5722",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c7964e21b2688a271f25f02e20f1f8e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "Kubernetes",
+        "大数据运维经验",
+        "数据及算力平台运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "武汉华大国数公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d9b35fe1c9efa6d1nF9096-Fg~~",
+      "brandName": "武汉华大国数公司",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719414425192,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉华大国数公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

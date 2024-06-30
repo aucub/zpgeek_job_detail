@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "39-Pk5zsmGVyU-Y1bLuWOxmibhsInHU4nS13ACAYrwoUZhKhR-ElKGHGu8s80ksO9X6RuZw63EpHpv5uYQK-G6zggbJICu6iFT-mYvHkcBXO9S_fiWgHIxGqJ8KQo6H-TaFVkcsbusVo",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d02716040ca87a0c1Xxz2d29GFZT",
+      "encryptUserId": "fd018b06b60eb9e70XR42Nu4FFE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的架构设计、需求分析、概要设计、详细设计等工作； \n2、作为公司项目主要后端开发人员； \n岗位要求：\n1、计算机、通信等相关专业专科及以上学历，具有1年以上相关经验； \n2、精通Java语言，熟悉主流开源框架，如SpringBoot、SpringMVC、Activity、MyBatis 等，熟悉Spring原理；\n3、有B/S开发经验，熟悉WEB开发流程；熟悉Vue、Jquery、Javascript以及HTML5/json/REST等前端技术；\n4、精通MySQL数据库，熟悉数据库调优技术；了解主流开源NoSQL系统（Redis、MongoDB等）使用和原理，有redis或其他缓存系统大规模使用经验； \n5、了解和熟悉分布式系统设计、Java中间件、微服务架构等相关技术和实施方案，精通分布式架构和主流微服务框架（如：Dubbo、Spring Cloud）； \n6、熟悉各种 Linux 系统（Centos\\Ubuntu）的基本操作指令，有负载均衡和优化配置经验，有DOCKER容器部署经验； \n\n8、工作积极主动、认真负责，具有较好的团队意识和协作性。",
+      "encryptAddressId": "0f71a393b85c3fad33x52N66Elo~",
+      "address": "杭州萧山区杭州市公安局萧山区分局萧山分局",
+      "longitude": 120.272037,
+      "latitude": 30.13913,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6055f2f71dd3a0ebe3ff68f9e5c61c4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d980a66fff4ed32e91be70404eafea61",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "SQL",
+        "分布式技术",
+        "微服务架构",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钟先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "集立科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2fb30b13909d4b061XJy0tS1GVc~",
+      "brandName": "集立科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717552785000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "集立科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

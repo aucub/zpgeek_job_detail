@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hg3l42IwMOsLS-C141QycZMl_zT40UgvTOQ65UheAjrNAjwJihTsU2EjL386PB74Wi3UL-ZrhPY2l970IGOgItepRgPRapqBiS2kPj9oPRAx_P14x6WL-xPLbstnj5oYEtUd8ggPGuGV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85b7f1de65d11f301XN92d25GFJZ",
+      "encryptUserId": "22b1d3e1e1893e960nZ63dS6EVE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "1.具有良好的开发能力，熟悉Spring，SpringBoot，SpringCloud，Mybatis等开发框架，熟悉Redis，Mysql，Oracle等数据库，熟悉中间件Mq，Kafka等。\n2.有较好的文档编写能力，具备良好的编程规范和文档编写能力。\n3.具备良好的服务意识、责任心、有较强的学习能力、优秀的团队沟通和协作能力。\n4.熟悉异步编程、多线程、高并发系统设计等知识者优先。\n5.能熟练使用常见的Linux发行版系统，具备独立部署能力者优先。\n6.了解Docker、k8s等相关技术者优先。\n7.能熟练使用Python优先考虑",
+      "encryptAddressId": "07e1d6ccdb3c1ab803Zz39u9E1pRxI6-Vvw~",
+      "address": "南京江宁区江宁开发区总部基地34幢1003室",
+      "longitude": 118.832486,
+      "latitude": 31.931663,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfbddd2b3e3ca20b09e3b4d98d4234a2826bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfaed0f0deab2c0ec66eb078281d82b3a76bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190314/b67976c7bc4f311352a9ac85ec0a9281a45975261ffe16f6b5fd9cd4e42_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "星恒数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff2840b74cbadeed1Xd62Nu5FFM~",
+      "brandName": "星恒数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240109/7b5b554d84f9729c5006bb4adb7fccfdac88a1cb8fe7600e96366e9b81f42d385027e5ec17bdc2dd.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "团建聚餐",
+        "餐补",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717747166000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星恒数据",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JZ82iPa5jKtHG-y1Oc9Em8WcgRAOpYKMsOZYznFqkONK0bHG0Lm9JBcAypK-PvwexKCrjsBYNXQfohLdgncTO_j81hlK1KYidmDsXE2LBFEcRbVv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d922d867aac7b910HZ53d-5EVU~",
+      "encryptUserId": "c0809c951885e4720nZ63tW1EVQ~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190500,
+      "locationName": "南通",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、后端JAVA程序的开发；\n3、根据设计文档或需求说明完成代码编写、调试、测试和维护工作；\n4、分析并解决软件开发过程中的问题；\n5、协助测试工程师制定测试计划，定位发现的问题；\n6、进行定期的code review，保证代码的可持续发展。\n\n任职资格：\n1、计算机及相关专业本科以上学历； \n2、应届毕业生需要有半年JAVA开发实习经验；\n3、知晓Spring MVC，Hibernate ,Mybatis, Struts2,spring cloud，redis缓存\n4、懂HTML（DIV+CSS）、Html5、JavaScript/AJAX、 Jquery、easyUI等技术，确保脚本代码对各种浏览器的良好兼容性；\n5、熟悉微信企业号及公众平台开发流程，具备微信产品开发经验，负责微信各种接口设计、开发和维护\n6、熟悉主流Web Services框架dubbo及JSON、XML接口交互\n7、熟悉微信公共平台接口和微信开放平台API\n8、能够独立完模块的编码\n9、具有金融/支付/等行业背景的优先考虑",
+      "encryptAddressId": "baf3cd1a2daa795c0XN429W_GQ~~",
+      "address": "南通崇川区南通农村商业银行总部大楼工农路89行",
+      "longitude": 120.891628,
+      "latitude": 31.972144,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7dc7b43f6112d4dbee2b6522e3161adb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ed3505d33c2b6871cacf6b86774fbf4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "篆言信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "820eaaf50d2f6e2b1Hd_3dq4FQ~~",
+      "brandName": "篆言信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/a98bb2202461bed524cdcc1e64027600cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海篆言信息科技有限公司（简称：“篆言科技”），成立于2017年，公司致力于为金融机构提供IT与运营的专业化服务。\r\nIT服务主要是软件开发和硬件销售，软件开发的范围包括银行核心业务系统、各业务条线管理系统、直销银行系统、供应链金融平台、物联网技术应用、网贷平台、市民卡系统、银校通、银医通等等，硬件销售的范围包括金融机具、物联网设备等等。\r\n运营服务主要是承接金融机构的非核心业务的外包工作，包括为直销银行提供保险、基金、理财等产品的内容服务，为商业银行和企业提供供应链金融业务的技术和运营支撑服务，为商业银行提供产品营销与推广服务。\r\n篆言科技有良好合作基础的金融机构客户主要包括中国建设银行、中国银行、中信银行、民生银行、华夏银行、多地农商银行和城商银行等等。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "餐补",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717037535392,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "篆言信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

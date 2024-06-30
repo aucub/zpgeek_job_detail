@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JeZB1EurVMeUj-E1UaRBs06r_GTh33usN44xzB3_6ZwJcc2gUBz47zLyY9rslQEqHCnA-2Z1hyNeC7l6GC9gl3SnvM5srJEbYBQUBIvMyj9vC5mtnViLoz4NudwTvCDI556q5H4OJxw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af721d743997c6b91HBz2NW9F1FW",
+      "encryptUserId": "c7ce2c78dfa7f81a03J63964FVo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.JAVA基础扎实，熟多线程、IO、JVM原理、网络编程、软件设计模式； \n2.熟悉微服务开发，熟悉SpringBoot、SpringCloud、SpringMvc、MyBatis等开发框架； \n3.熟练使用关系型数据库如MySQL； \n4..熟悉Linux常用命令； \n5.熟练使用Eclipse开发工具。\n6.熟悉Maven、GIT、SVN等工具使用； \n7.了解大数据相关技术，如Flink、Kafka、Clickhouse、K8S、Docker等；\n8. 2年以上的JAVA开发经验及计算机相关专业毕业。\n9.有电商行业的软件开发工作经验及有进销存系统或财务系统开发经验者优先考虑。",
+      "encryptAddressId": "9906d4130e43eb1d0n1439W4FVZZxY22UP8~",
+      "address": "杭州滨江区拓森科技园3号楼B207",
+      "longitude": 120.195481,
+      "latitude": 30.183153,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b652c3d87a0b5a43edc50c651f5ee75f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/916437950ca61dff1e6046d650402ff0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力资源部HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "嘉俊华科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "321a2a5acc55e4dc1HF_3N64FA~~",
+      "brandName": "嘉俊华科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201015/3ece86ff92e45116ac6a80453ad914c5c5ddec4d8edc1b16f3b6c39ba3028efd_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "嘉俊华科技有限公司成立于2017年，团队主营网络设备、家居方向，办公地点在杭州市滨江区。公司管理架构设计：支撑平台+业务平台模式，由管理团队领导。管理理念：“极致运营”，团队成员在职责框架内追求效率和结果的最大化、简单化、模块化，使整体运营效率最优。\n     2020年我们总销售额达到6000万，2021年有望突破1个亿，因此我们的既定目标是五年内销售额超3亿！公司目前运营平台有京东自营、京东pop、天猫、拼多多、唯品会等，目前拥有官方旗舰店及品牌售权店8家。我们需要更多的愿同公司共同创业、有理想的年轻人加入我们，与公司共同成长，分享创业额激情和成果。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1719634159669,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嘉俊华科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

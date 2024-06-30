@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-f8NMoGfpcj3u-A1B8sz42Xnbxr8DahpDqq0CRP-TC5h29WvIkoXCJwG0JLF0ZtARHEQumfZ8yPZgKE2W9ryKGXVmTOy2ovCO2KGmfg8kmb-EHZCoxSqW-5aG_-n0IrB5DgV1aG9mcEiEg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f40d0a00a8a2c94d1XVy3N6_F1FY",
+      "encryptUserId": "1c2053775c9fc5c60nV82d24EldV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "2023年毕业校招生实习招聘\n技术类：算法、JAVA/C++、前端、测试、数据研发、安全等\n非技术类：产品、运营、风险策略、BI、体验设计等\n\n1. 主导产业金融系统分析与设计工作，承担核心功能或组件的代码编写；\n2. 作为团队核心成员带领团队与业务团队背靠背解决行业问题实现行业升级的需求，沉淀中台能力和行业解决方案。\n3. 对行业现有的系统和应用进行梳理重构，抽象出底层业务模型和能力，满足业务快速奔跑的同时建设和丰富底层模型和能力。\n4. 参与团队的稳定性建设和安全生产，保障日常大促的系统稳定和线上问题的预警监控以及应急解决方案。\n\n1. 熟悉Java/J2EE， 基础扎实，熟练掌握常用Java技术框架，能编写高质量简洁清晰的代码。\n2. 熟悉分布式技术，了解微服务、容器、缓存、消息系统等技术者优先。\n3. 熟练掌握常用数据结构和算法，具备良好的面向对象编程、设计能力；\n4. 具备一定的架构能力，对常见的中间件有使用经验，并理解其原理和适用场景；\n5. 良好的系统化思考能力，沟通协作能力以及owner意识；\n6. 有行业解决方案相关系统开发设计经验者优先。",
+      "encryptAddressId": "293754d408bab3220nZz3dq9FVA~",
+      "address": "杭州西湖区蚂蚁集团元空间E座",
+      "longitude": 120.107822,
+      "latitude": 30.267023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69c3856aff86951bdf916d971cbd5404",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/288064a9f8e673b512084230fc890587",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "MVC开发",
+        "多线程",
+        "数据结构",
+        "Unix"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "蚂蚁集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf6885d3e6e69ba41HR609m-GVU~",
+      "brandName": "蚂蚁集团",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b10345f203d9c0270a26df28e9c00429cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "蚂蚁集团创办于2004年，是移动支付平台「支付宝」的母公司，也是领先的金融科技开放平台，致力于携手合作伙伴，为消费者和小微经营者提供普惠、绿色、可持续的服务，为世界带来微小而美好的改变。 旗下产品包括支付宝、蚂蚁森林、余额宝、蚂蚁链、OceanBase等。",
+      "labels": [
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "夜班补助",
+        "加班补助",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1718355475577,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蚂蚁集团",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

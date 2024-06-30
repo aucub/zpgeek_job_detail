@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YOuKkE8ZaqVAv-_1y2CiZ84bH9FdqvjkwCmjx5PDW1rCjz-t0EZCxh6vcKcTcD7uJCSAPDjpQnlALKTL96kv_BXYZSewVFuKO9PmNqwybZacaG6hgMYkCpvv5QQZ7Y7z33XiPRQdGPFM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cd2a8a94c5766a6f1HB83NS-FFJZ",
+      "encryptUserId": "830da8a0cbf524041Hd839q0FVs~",
+      "invalidStatus": false,
+      "jobName": "python 数据分析",
+      "position": 100104,
+      "positionName": "数据挖掘",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责用户画像建设，基于海量数据，建立、评估、持续优化数据模型，产生用户标签；\n2.深入参与用户体系建设，包括但不限于社交潜在关系挖掘，用户分层等；\n3.协助公司重点业务使用画像数据，发现价值点，深挖并产出正向收益。\n4.参与相关算法工作等\n岗位要求：\n1.计算机或相关专业本科以上学历，具备扎实的数学、统计学以及计算机基础；\n2.熟悉常见的常见机器学习、深度学习、数据挖掘方法，有用户画像领域研究经验；\n3.至少精通一门编程语言，包括但是不限于python/java/scala；\n4.熟悉大数据常用工具(spark/hive/flink)，有大数据开发经验；\n5.熟练使用至少一种深度学习框架者优先，如tensorflow、pytorch等；\n6.有良好的沟通的能力、协作能力，较高的开发效率和承压能力，责任意识强。",
+      "encryptAddressId": "99880966680aa7990Xx72Nu6GVBTw4i5U_8~",
+      "address": "武汉蔡甸区武汉经开区人工智能科技园R栋",
+      "longitude": 114.146845,
+      "latitude": 30.480692,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45fcccc0651812fa0c76a96147098fb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdd35203215a077ea27978ca33f0db64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Spark",
+        "Kafka",
+        "数学/统计相关专业",
+        "机器学习经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "高级运维工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180105/82058a3b5741e589846d5e17e01025ca9904341a3cb63623aba3141204e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "数增科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e7e597922bb0c13a1n143N26EFc~",
+      "brandName": "数增科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "数增科技是一家大数据咨询及产品服务商。公司具有在大数据行业20年的经验。",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1719305850158,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数增科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yG0UXm2xoMLkZ-91A5tkqj4wfI-5_UCtHF1QI60JjLoMwmoyiZFbYABe1YQfLR6aURIeHQmqSXI20Rk8IDrqpsq9HNeNs4T9BCIt4nr7zsdIPK-O4A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cf862135a8405b8a1nF63d67E1tR",
+      "encryptUserId": "a60faf827d8cb7e30nVz2tu1FQ~~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容/职位描述：\n1、参与需求评审及方案确认 \n2、参与相应的概要设计、详细设计等文档； \n3、参与日常开发和测试工作，解决开发中的技术问题； \n4、解决日常和线上系统问题，及时处理系统问题。\n\n任职资格：\n1、 1年以上Java实际项目开发经验。 \n2、 熟悉主流开源应用框架，如Spring、MyBatis、XML、JSON、Maven等开发技术。 \n3、 熟悉设计模式、OOA/OOD。 \n4、熟悉Tomact，Nginx。 \n5、 熟悉关系型数据库MySQL，SQL优化 。 \n6、 工作态度端正，勤恳踏实，能承受一定的工作压力。 \n7、具备良好的学习能力、团队协作能力和沟通能力；",
+      "encryptAddressId": "c22353c1d03b620503B_0921E1M~",
+      "address": "成都武侯区菁蓉汇1C座4层",
+      "longitude": 104.063372,
+      "latitude": 30.538169,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02c42cebdf5124ba0bdc9ed8f6b50a6a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2bec60e8b99cac52a9e7890417214f54",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "服务器配置",
+        "网络协议",
+        "Spring",
+        "MySQL",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f2da8922bd94d3dfjzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoHNxdgnw9s9p5t9BmTAfrnrE2Z-SifMIBs-bpWTksaA1dpXEO9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "量子视角",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bbaf5c1cd74f91161nJ62t-5EFM~",
+      "brandName": "量子视角",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司主要以青少年教育设备、内容平台为核心产品，为青少年教育行业提供软硬件整体解决方案，目前在北京和成都两个研发中心。核心团队来自一线互联网大厂，技术能力强、工作氛围好。公司致力于用技术能为青少年教育提供解决方案，让青少年快乐学习和成长。",
+      "labels": [
+        "五险一金",
+        "带薪年假"
+      ],
+      "activeTime": 1719652383465,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "量子视角",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

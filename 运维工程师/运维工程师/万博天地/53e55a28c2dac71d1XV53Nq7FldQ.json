@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rWFJ8PxXy4_XN-516B46s3cQYdQq-Z90ByVy25_cU-oi2URNwIemjvTJvwHr3LQ76_iK-unFPQuyvGd3ia6Xu_JDAdHyqlvTsKHZHxnFQX6XMDP3DS0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "53e55a28c2dac71d1XV53Nq7FldQ",
+      "encryptUserId": "ec1c9c2aa9076c6f1H1-39m5GVI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.\t根据公司提供的技术文档实施相关系统的部署实施。\n2.\t处理常见的系统故障，并做好记录，定期汇报给主管领导。\n3.\t协调客户与运维研发同事完成各项工作\n4.\t记录并反馈客户需求给主管领导。\n5.\t为客户进行系统使用培训。\n6.\t管理和控制项目进度，向项目相关人汇报项目进度。\n7.\t公司安排的其他工作。\n\n招聘条件：\n1.\t计算机及相关专业毕业的本科及以上学历，1年以上的工作经验(优秀的应届生也可)。\n2.\t了解windows和linux 操作系统，能进行常见的服务安装（例如：LNAMP，IIS，TomCat、IIS、AD等）。熟练使用shell/python脚本语言。\n3.\t熟悉Docker容器技术，实际的Dockers容器集群运维经验者优先\n4.\t熟悉MySQL，能使用常用的SQL预计操作MySQL数据库（例如，增删改查）。能使用常用的命令行，对mysql进行数据备份等。\n5.\t工作主动性强， 有良好的沟通能力，学习能力强，有一定的自我约束和控制能力。\n6.\t有较强的事业心，能承受一定的工作压力。\n7.\t具有阅读相关技术需求文档能力，具有一定的系统软件类文档编写能力。",
+      "encryptAddressId": "33845fbdfa837eb70nV-3tm-EVs~",
+      "address": "成都成华区万科·钻石广场A座1513",
+      "longitude": 104.104967,
+      "latitude": 30.670068,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6b98f2509266bfc1b035c86c607501b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9939dd2fefdb13b514da73f2715784a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "负载均衡技术",
+        "Windows",
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "系统运维",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "软件服务部技术部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180528/562c0edc3d24df6944455a63dabbf68795df4e4423a05024830e35f8c45_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "万博天地",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7f82891ec7318e251n182tW_FlM~",
+      "brandName": "万博天地",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717109068644,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万博天地",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

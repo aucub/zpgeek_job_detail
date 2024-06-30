@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eToV5TreS5yzA-C1HqWdHnxNIWBOrH0yLuGTR3Gj_OFZ8w93iDCuygFHNZBbPSKNyg_pMpxyRHfIZknC-gfC39gxZ0USnFCr55q9vnUjJB6ujGP8f-4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "820b559de46ce5e61HF709S_EFJW",
+      "encryptUserId": "0756d9e732a237ee0nJ80ti4F1o~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、具有1年以上运维经验，熟悉Linux系统和命令，能熟练使用Shell进行复杂任务处理和分析，熟悉Python，go，Java语言优先\n2、具备基础的网络知识，了解TCP/IP协议，对应用服务器、负载均衡有较深入的理解。\n3、了解腾讯云/阿里云/华为云等云平台软件运维，熟悉常用的PaaS/SaaS/IaaS服务的使用。\n4、熟悉Prometheus、Grafana、elasticsearch、Kibana等常用监控工具，熟悉Nginx,Kafka,ES,Redis等配置及优化。\n5、熟悉常用数据库操作，如mysql、postgresql等数据库，具有一定的SQL优化经验，故障定位和处理能力。\n6、了解应用服务和主机常见漏洞，并能针对漏洞提出可行性修复方案。\n7、具备良好的沟通和理解能力、文档编辑能力，能完成运维和安全文档的编辑、整理。\n8、具备安全和预警意识，能够系统性总结和实际处理常见的系统隐患和故障，包括监控、容灾、备份等方面。\n9、能够及时响应并解决系统问题，主动发现现有系统和流程中的不足之处，提出并实施使工作更高效的流程优化方案。",
+      "encryptAddressId": "7b645081731bf4480nVy0966F1o~",
+      "address": "成都青羊区清江东路电信大楼大楼",
+      "longitude": 104.027153,
+      "latitude": 30.668956,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67b028ba24334d75f53247286eb460c2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/411cafddc5b8cd905c639ee7eaebaf62",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "项目管理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "智威尔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4b5a0dca54e9145d1XR80t64EVs~",
+      "brandName": "智威尔",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717577675000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智威尔",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

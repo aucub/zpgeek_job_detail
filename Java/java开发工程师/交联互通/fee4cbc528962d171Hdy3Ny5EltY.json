@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xkrSsdwyPtSyz-b1t01NIC01fnj8Jw_kOgaV-iu93uFpLBKuUTv_rvL-b_rvOoPJzZkQu57cxlXDliznv2N5UJJrsCr4kPq8G_HFajkRGWddYTBKXicy",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fee4cbc528962d171Hdy3Ny5EltY",
+      "encryptUserId": "da081663d2ecf2000nN93Nu-EFVW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责局部模块的任务开发，并按照项目设计和进度要求编码和单元；\n2、根据开发规范与流程独立完成编码、及相关文档；\n3、维护系统的正常运行和应急响应； \n4、与团队其他成员一起及时决项目开发过程中的关键问题和技术难题。\n任职要求：\n1、精通大规模系统的JavaEE架构技术，熟练掌握常见开源框架和技术，如Spring、Springboot、SpringCloud、SpringMVC、MyBatis、TKMyBatis、Dubbo等，熟练使用Eclipse、MyEclipse、IntellijIDEA、GIT、SVN等开发工具及插件(中间件)如Maven、Redis、MQ等；了解常见的JavaScript前端脚本，如jQuery、EasyUI等；\n2、熟悉主流应用服务器的架构体系，精通关系型数据库（如Oracle，MySQL等）； \n3、精通常用设计模式和主流设计工具，能进行系统建模、总体设计； \n4、熟悉大规模系统的负载均衡、缓存、网络存储、网络安全、数据库高可用设计及性能评估机制，熟悉TCP协议、Http协议； \n5、具备良好的文档撰写能力、编写习惯，良好的抽象思维和逻辑思维能力，独立分析问题解决问题的能力； \n6、专注于技术，精益求精，并对业界的发展动态有比较密切的关注； \n7、个性乐观开朗，激情、愿意分享，自驱能力强，良好的结果导向和抗压能力。",
+      "encryptAddressId": "82787b73502234ce1nZy3Nq6ElBT",
+      "address": "武汉江汉区阳光城·央座43A层43A10室",
+      "longitude": 114.283967,
+      "latitude": 30.605166,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bfcb4f469f597c57d4880512e5e36254836bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf2c9c2b2fee2b2114b9b0bc1aa898290d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "团队管理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "交联互通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5704b69d87ac31251XJ83N-1E1o~",
+      "brandName": "交联互通",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230602/7bf6f160950405e92e6d7eb1e7e94209f6cc255a79eb07e04752ffc510969c1cb4ca4b003f533c52.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1719309454423,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "交联互通",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

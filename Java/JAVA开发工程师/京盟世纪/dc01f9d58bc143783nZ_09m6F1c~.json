@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qnrd3Dpp-K0CH-01AGXhA-kQRvp96P2w0ICCXH5bubl5rYXtfgKBDnR6UQkdHwGsdZAdEVQvads-xMwMP3lPyBEMuQB0_0nw_1NWl7SiwkdPqnzk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dc01f9d58bc143783nZ_09m6F1c~",
+      "encryptUserId": "3edaa3df688b67fc03Bz3t6-FFA~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n 1. 参与广告平台和AI平台的业务对接、数据建模、架构设计和核心模块编码。\n 2. 负责广告业务和AI平台的项目需求分析和技术实践。 \n3. 公司现有业务系统整合与优化。\n任职要求： \n1. 统招本科，计算机相关专业，3年以上相关工作经验。 \n2. 具有良好的学习能力以及理解、分析和解决问题的能力，有团队合作意识。 \n3. 对于Java基础技术体系（包括JVM、线程池、JUC、NIO、网络）有深入的理解和实践经验 ，精通Spring生态、MyBatis、SpringBoot、SpringCloud等开发框架，具有扎实的Java编程经验。\n 4. 具备基础的应用运维能力，熟悉Linux操作系统下的常见命令及工具，能够利用相关工具定位线上故障，完成性能调优及快速问题定位。 \n5. 对待工作认真负责，责任心强，始终保持对工作的好奇心，能够承受一定的工作压力；\n6. 具有大流量、高并发、高性能的分布式系统的研发、维护、调优经验，优先。 \n7. 熟悉Python/Go等其他1种或多种编程语言，优先。",
+      "encryptAddressId": "53c215617cff465933J_09i6EFBRwom3WPs~",
+      "address": "北京丰台区丰台区四合庄路2号院3号楼6层602",
+      "longitude": 116.310964,
+      "latitude": 39.829782,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230718/48ba41acc9cef1bf7640e0fc273d8e3f945d2a942d54a0926bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230718/48ba41acc9cef1bf4ea806095a169eef38a248a15814e2c26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "段女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210714/95a53f0ae09beb02bfaf85b4ef1d714f625c3b5dadec44e989b31bcfdac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "京盟世纪",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a4f675ca60d5a9861XJ60924GA~~",
+      "brandName": "京盟世纪",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718243191136,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京盟世纪",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

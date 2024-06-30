@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iODWCiaORKK7h-k1lKXjfcjcPMzM7s3FmI5DhrkPgdidvIQnOSLlLZx78rgm8k_5dDLLyRiWBe9ezTcWVGUrYn-TRcOsw0Jn1YR-VTBUMebFcfYy",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c0daeb9a47ff57443nx42N65E1s~",
+      "encryptUserId": "f5cca35fad88f3250HR-2Nm9EVA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、技术支持人员岗位，在上级的领导和监督下定期完成量化的工作要求；\n2、能独立处理和解决所负责的任务；\n3、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4、具有良好而规范的编程习惯和技术文档编写习惯；\n5、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n6、进行编制项目文档和质量记录的工作；\n7、维护软件使之保持可用性和稳定性。\n\n岗位要求：\n1、具备Java开发经验或相关工作实习经验，计算机相关专业；\n2、熟练使用Eclipse,IDEA等集成开发环境,熟练使用SVN,MAVEN等开发工具；\n3、Java基础扎实，熟悉Struts2、Spring、Hibernate、myBatis等开源技术框架，熟悉http、webservice服务接口编程；\n4、熟悉html、css、javascript、ajax、jquery等web前端技术，会使用extjs技术优先；\n5、熟悉使用Oracle、MySQL、SQL Server等常用数据库,具备常用sql编写能力；\n6、良好的沟通能力，责任心强，具备良好的团队合作精神和抗压能力\n7、有移动端app开发经验、会使用Dcloud相关开发技术优先；\n8、具备开发erp经验优先。",
+      "encryptAddressId": "ea4acbe55d4361f20nBy2Ny0FA~~",
+      "address": "广州黄埔区绿地中央广场C2栋1001室",
+      "longitude": 113.430498,
+      "latitude": 23.163753,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81e886a5bfad4fc24c214af09b5f08bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22d0748ee99f7f0fb0e9ec854d7d23a9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "CSS",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190720/25a7faca4e58a72fb59ba506e5068680d1be59237334a8d054c420cb601_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "拓必胜",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "28a0e782f01650580nV83t61Fw~~",
+      "brandName": "拓必胜",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190820/a96e30bd6fcfc85df7f72e4c1e89e0c7d1be59237334a8d054c420cb601fd0dd.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "广州拓必胜信息科技有限公司成立于2017年，注册资本500万，立志成为国内领先的场景化解决方案服务商。公司以“共建场景化应用生态，赋能产业互联网发展”为使命，借助云计算、物联网、移动互联网等手段和工具，为制造、零售、物流、政府公用事业等行业打造平台化、组件化、轻量可复制的场景化解决方案。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717072403791,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拓必胜",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

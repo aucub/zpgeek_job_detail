@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SK3O0LsSBRx8i-P1LRxWFUcEWp-JpoXg2gLhr4MewSPOHwNMLIVtp-VV2PdJhde34utPdvK27efcRu28ULzeOhPl0pI2TrGWy38VtwUTvOM-meKWUrPVW0Je_U4VBzFxBz5qjSwzFvwh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "24d47c3118757fcb1HJ629q7E1NU",
+      "encryptUserId": "6aead056474427940nd50t-8FVFU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与服务端业务开发与系统架构及模块设计；\n2、根据产品需求设计技术方案，完成技术设计并高效实现和交付；\n3、通过对业务的理解，实现对现有产品和系统的改进和优化；\n4、负责技术预研和技术难点攻关，保障系统可用性、稳定性、可扩展性。\n\n岗位要求：\n1、1～3年开发工作经验，本科以上学历，计算机相关专业；\n2、2年以上Java体系技术经验，熟悉常用的Java开源框架；\n3、熟悉Spring/MyBatis/Spring mvc等开发框架并具备开发经验，Spring Cloud和SpringBoot实际项目开发经验1年以上；\n4、熟悉MySQL数据库，具备复杂SQL编写能力及基础调优经验， 熟悉Mongo数据库，熟练使用Redis；\n5、掌握Linux环境下Tomcat/Nignx的集群环境搭建及配置；\n6、具备良好的沟通能力及业务分析能力，具备良好的文档规范；\n7、具备较强学习能力，能独立研究及解决技术问题的能力。",
+      "encryptAddressId": "23c0ee41e92086aa0nxz3ti-EVdSwI29V_M~",
+      "address": "杭州西湖区云起·西溪谷国际商务中心G座13层",
+      "longitude": 120.074548,
+      "latitude": 30.290812,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1be928062314cdeb25c45de6fea741a2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e860f2e147a4175b6ea1c41561a898a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杭女士",
+      "title": "招聘专家",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220830/607f1f3d68754fd0814118d9c69b7b3566a51fc8459ca5fdfefb151daa686a6f3428dc3b412_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州玖仟通科技集团有限公司",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0e6a594deec8453c1nJz09-1EA~~",
+      "brandName": "杭州玖仟通科技集团有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220408/7bf6f160950405e9c147bb29ba466c934ac1f71aef9e8c97e15ead92431291a4ca21a8f16297baa0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "杭州玖仟控股集团有限公司，主营业务包括资产处置、知识产权法商服务，智能终端、酬金垫付、共享手机等，长期与国内运营商（中国移动、中国联通、中国电信）深入合作，同时与国内外多家渠道伙伴保持着紧密的合作关系。\n公司成立业务模式不断创新，高管团队稳定，研发团队完整，随着业务发展不定时会补充优秀人才，期待有才华的人加入，共同努力，在平台上得到成长的同时促进公司的可持续发展。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金",
+        "出差补贴"
+      ],
+      "activeTime": 1718656992306,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州玖仟通科技集团有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

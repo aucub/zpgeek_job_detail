@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Kra1hV4Qcil36-j1yOQRufolZhS5HLyM_ymtbrf_HlQnBzMf1_QrrycYUshNRQzNYlj_tkaM-Q8ok5TF7_-UEEjMo01N4WIOIheYJpgZGATQSeKL5Rc3hFFxHiY5l9XXe4Dh_nCrZsvj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "072cbd3439fab7841XV60t-9FlFW",
+      "encryptUserId": "a9e8de3b851051a903V93dq1GVc~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、保障业务平台稳定、安全运行，做到及时快速响应，并包括架构设计、资源交付、配置变更、CI/CD、端到端监控部署等；\n2、保障应用系统可靠、稳定、高效运行，处理故障，满足业务快速稳定增长；\n3、积累运维最佳实践，为业务架构设计与组件型提供指导，输出运维技术档案；\n4、运维驱动业务提升，精细化数据运营，包括可用性指标、历史故事、资源利用率等，挖掘系统薄弱点，落地改进项目；\n5、参与设计与开发，包括但不限于监控系统、容量规划、资源管理、故障分析等，并持续优化和改进;\n6、对数据库的管理和维护。\n\n任职要求：\n1、本科及以上学历，计算机相关专业，3年以上运维相关经验，对高可用、快速迭代有实践优化经验；\n2、精通Windows系统、linux系统，熟悉MySQL数据库类型，能独立解决突发和疑难问题；\n3、对常用开源的技术熟练部署，配置、优化包括但不局限于apache、nginx、redis、es、kafka、zk、mq等技术有大规模应用经验，有1-2个中间件架构优化、问题中结、标准化能力；\n4、有过大并发部署经验，可以独立评审方案，部署，熟悉安全策略，网站配置等；\n5、能独立分析系统（PC小程序）网络问题，熟悉信息安全攻防技术；\n6、接受创业团队应对变化和高成长的要求；抗压能力强，有良好的团队合作精神，善于跨部门、组织、沟通和协调资源。\n优先考虑：有健康管理平台系统、医院管理系统处理背景优先；",
+      "encryptAddressId": "2db3fcf29cafc6d70nR73t20Fls~",
+      "address": "成都武侯区威斯顿联邦大厦196602",
+      "longitude": 104.067554,
+      "latitude": 30.624581,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4606ede050a799e212b386e8c3c857d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04a7bc45a7ece12cb25c355ca756425b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "MySQL",
+        "Nginx",
+        "Windows",
+        "应用运维",
+        "系统运维",
+        "Apache"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "企康科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0a06dad463d09d201Hd72tu4EVY~",
+      "brandName": "企康科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "夜班补助",
+        "加班补助",
+        "企业年金",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719283036686,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "企康科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

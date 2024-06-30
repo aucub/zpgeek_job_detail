@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6koWWS7FOeaay-E1i0Oz3W53n86xubOA02n_v1XLKz-fsuQPg1VivTF3EiGgdtPE9iDKKxwdhYf9fqBF82P8yrGaElwyoDm9HHhP-lsh0cacqmEOMvYlRbdqhp9oi9ni2oRdGL5oPJk0mw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0d6776b4d51a88d51HJ92tS7FFRY",
+      "encryptUserId": "b807b80ce5a45a8e0XV82d2-GFpW",
+      "invalidStatus": false,
+      "jobName": "java开发-郑州",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "主要工作：\n\t1、负责与省内有开发需求的地市对接\n\t2、负责根据地市的需求，对平台进行二次开发\n\t3、负责省公司和地市平台维护、测试、部署等等\n\t4、负责摄像机或其他物联设备的网络排查，码流抓取，站址寻址，技术问题沟通\n\t5、负责对接总部各个老师，协调、处理对应问题，有相应的沟通能力\n\t6、处理省公司和地市的日常事项包括不限于（组织地市培训，技术文档编写，需求评审，风险评估，对接文档编写和其他PPT等材料编写）\n\t\n技术要求：\n\t1. Java基础知识扎实。深入了解集合、多线程、反射等相关知识；\n\t2. 熟练掌握spring、springboot、mybatis、springCloud微服务研发框架；\n\t3. 熟练常用网络协议，如TCP/UDP，流媒体协议RTSP/RTMP/HLS等；\n\t4. 熟悉kafka、redis、Netty等常用中间件；\n\t5. 熟练掌握Docker、Kubernetes等容器化技术和相关编排工具；\n\t6. 熟练掌握数据库相关知识。索引、事务、相关SQL性能优化；\n\t7. 有解决并发安全问题的实际经验，对分布式、微服务架构有一定理解优先；\n\t8. 有对接过第三方物联设备厂家API/SDK（如海康大华大疆等）和SSO单点登录的经验者优先；\n\t9. 熟悉HTML/JS/CSS，和VUE框架，有相关前端大屏开发经验者优先；\n\t10.有独立使用MQ中间件搭建数据采集服务者优先",
+      "encryptAddressId": "0c7c59ac528ea73803Zz0tm6FFpRwo28VvM~",
+      "address": "郑州金水区中国铁塔股份有限公司河南省分公司金水东路",
+      "longitude": 113.750747,
+      "latitude": 34.762122,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240119/48ba41acc9cef1bf0d84e64c532f8fe31a098fb4d793fbec6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240119/48ba41acc9cef1bfbb936a0e7a50d5224a23f6e83f6110bd6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "运营经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "长天世纪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "930724044568e6d21X1_0tm9FlM~",
+      "brandName": "长天世纪",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719563413841,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长天世纪",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

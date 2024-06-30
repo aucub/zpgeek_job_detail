@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9kpOfzAncW2hX-R1A3wabRW4RlH8IAnxmxGSlJOEN7Qi2prvmDQG3Bw-2RQXwHz2-xzZR30Bwy1K5rsFTpKREoATO1KL6ZnDiz3s3Z2nuNrYq2WJv3Z-zEmave_vRj13SfaWa1gQuT5wh1bzcyA4W_gBEyJA1z5WyHn7pp7X8hmpKw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c1a3318351c8f4d41HJ50t-8EFE~",
+      "encryptUserId": "c4e2d85eed5efda90nZ-2t64E1o~",
+      "invalidStatus": false,
+      "jobName": "系统开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、扎实的JAVA编程基础，对SPring、Mybatis、Shiro等有深入的了解。 \n2、有面向对象设计和编程理念和扎实的设计功底，对面向对象设计原则有较清晰的理解，并掌握部分设计模式； \n3、熟悉主流的数据库产品，能根据需求进行相应的数据库设计和开发，熟悉MSSQL、ORACLE等至少一种主流数据库的存储引擎； \n4、熟悉unix /Linux操作系统，能熟练运用常用命令，能够根据实际需要编写shell脚本； \n5、熟悉JS、CSS、H5等HTML相关语言, 至少熟悉一种Javascript框架（React、AngularJS、Backbone.js等）；\n6、熟悉多线程、socket等开发； \n7、较强的表达和沟通能力，工作认真、严谨、敬业，对代码有洁癖，对系统的质量保障有较强的意识； \n8、有大型互联网app应用、微信公众号后台系统、分布式多层系统设计和研发经验背景的优先考虑； \n9、工作经验要求2-3年 , 参与过HIS系统开发，有丰富的开发经验者优先考虑",
+      "encryptAddressId": "78b11d73b9bfa6801XBz0ty1FVo~",
+      "address": "长沙开福区泰和医院(芙蓉北路)",
+      "longitude": 112.9615,
+      "latitude": 28.30401,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/499c04e04e109513c4774762686dd609",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89a9ed4f362700db6a58914ef21de421",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力资源部部长",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "泰和医院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "61e87a113dcd7d5f1Hdy29S4EQ~~",
+      "brandName": "泰和医院",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "免费工装",
+        "团建聚餐",
+        "餐补",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719387068604,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泰和医院",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

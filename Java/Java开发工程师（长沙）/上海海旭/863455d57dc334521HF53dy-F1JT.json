@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oFprDqMQq9anc-61VT_RmaHe6bKr-4y-j15CaveVZjB28K2p48mGTF9vfG9gyX0pedXZBwanQs8dj8ou15CChEigjqBbNCoeb94i_7LFfacqpDwyKA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "863455d57dc334521HF53dy-F1JT",
+      "encryptUserId": "2118be7349d294831HNz3Nm-EVQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师（长沙）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与需求评审，确定设计方案并最终实现；\n2、按照设计要求及代码规范编写程序代码，编写相关技术文档，对其质量、性能负责；\n3、独立完成模块的设计、编码、自测工作，解决开发中遇到的难点问题\n\n\n任职要求\n1、计算机或通信相关专业本科毕业\n2、JAVA基础扎实(集合、多线程、IO等)，熟悉JVM原理，具备面向对象设计、多线程和高并发代码开发实践能力\n3、熟悉常见第三方框架/工具集，熟悉常用设计模式\n4、熟练运用Spring，SpringMVC，MyBatis，Netty等开源技术框架，精通http，webservice接口设计和实现\n5、精通springboot、springcloud、微服务架构和分布式系统开发原理和方法；\n6、熟练运用Kafka、Redis、MQ、ES等常用中间件\n7、精通RESTful API和常用网络协议，比如 TCP/IP、HTTP、SSL、WS、SOAP等\n8、熟练使用SQL语言，精通MySql或PostgreSQL，具备较强数据库模型设计能力；\n9、熟悉Docker/Kubernetes等容器及容器治理技术\n10、熟练使用Linux操作系统、SHELL 脚本编写、系统可用性、性能检测排查常用工具\n11、有较强学习能力，工作积极主动、认真负责\n12、对技术有强烈的进取心，具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力",
+      "encryptAddressId": "e62f06e38209bc750nB70ty1FFI~",
+      "address": "长沙芙蓉区荷花园中国电信大楼11",
+      "longitude": 113.02023,
+      "latitude": 28.192017,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c67fe6a34f6aaa8f9ca16b8dd5739c54",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9ed4f0acea992d2a610998992196f32",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Netty",
+        "MySQL",
+        "PostgreSQL",
+        "其他"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "顾女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/abb9ab0c64cf9ef628c25a1f3dad5db6cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "上海海旭",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3529b90efbbd8e0d1nx5392_EA~~",
+      "brandName": "上海海旭",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1719650768107,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海海旭",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

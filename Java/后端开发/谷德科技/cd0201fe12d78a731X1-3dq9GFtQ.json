@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hvQG4n2u2G-RY-l195gcN48_hsQTBuvFRDQEtuKBfgXyOCHCHJ0sSt7gLj4MD2E6cpv4QAeBQUil4EXtlwVVA_wEW72i8QmtXPKvxPUZVV33l0z-UStUfsMd7NJOboTQeshx_d9l",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cd0201fe12d78a731X1-3dq9GFtQ",
+      "encryptUserId": "5ce73611704ca9af0nZ62Ni7GVQ~",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、本科及以上学历，计算机、电子信息工程或相关专业，2年以上项目经验；\n2、扎实的java编程基础、熟练使用开源技术架构，如spring，springmvc，MyBatis或springboot等；熟悉rpc相关框架，如dubbo，springcloud等\n3、熟悉缓存服务框架，如redis或memcache；熟练使用mysql，oracle等，熟悉nosql数据库，如：mongodb等\n4、熟悉linux环境部署及常用命令,了解docker，kubernetes等服务部署及监控技术的优先；熟练使用svn、git等版本管理工具 \n5、了解CSS、Html5、Jquery、javascript等前端开发语言或框架； \n6、强烈的责任心和良好的分析问题、解决问题的能力，良好的沟通能力，良好的职业道德及敬业精神。",
+      "encryptAddressId": "d90b799e9e69179c1XJ40tS1Eg~~",
+      "address": "天津西青区中国尚赫生产研发基地B座2层",
+      "longitude": 117.092406,
+      "latitude": 39.074684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30118473c75dc8d6f433f24b2727ac93",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e380ebff2b6e8c43b33f94d31bfe0cb5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "谷德科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60d171009781e9fe33x83d4~",
+      "brandName": "谷德科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200304/8cdc8a871c2caa9d30281479476bfe74ddfab8e5f71899ab8cc15174dbc07614_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "天津市谷德科技有限公司成立于天津市滨海高新区华苑产业区。公司由怀着共同信念的专业设计师、研发团队和市场精英份子组成，公司始终坚持以“认同感、归属感、尊重感、成就感、幸福感”的五感企业文化，倡导积极的团队精神，公司具有相对完善的专业和管理双通道晋升机制，为员工提供更广阔的成长和发展的平台，期待有追求有信念的你加入我们。\n      公司主要从事软件技术开发和文化传媒设计两大板块业务：\n      在软件技术开发方面，从事应用系统开发、信息安全服务的技术支持。公司一直本着需求主导、灵活变通、以人为本、智能至上的理念。为客户提供全方位解决方案。\n      在文化传媒设计方面，从事展览展示、视频片、新媒体、活动策划等方面，为客户提供一站式服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "住房补贴"
+      ],
+      "activeTime": 1719220972629,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谷德科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

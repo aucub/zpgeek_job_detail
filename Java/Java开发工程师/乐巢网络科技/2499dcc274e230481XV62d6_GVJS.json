@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "a29carykAqnPD-X1PmZwDUYw9dKQuX6Fuqcd76JDR-5CfCLikVMoOUJtRIgYtM770tvok_zT_HPDCg1aK1ONCDwG1uAzE179gavoSZ4j1MWibLgD0ZBdw4VAcgp8jHHvm1tnihhWuWYr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2499dcc274e230481XV62d6_GVJS",
+      "encryptUserId": "23facd829b9957140nd82N66F1tW",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与项目需求评审并能够完全理解产品需求\n2、根据需求进行表结构设计、代码编写、调试、自测，交付高质量代码\n3、配合测试岗位定位Bug并解决Bug\n4、撰写开发相关文档\n5、参与线上系统维护和问题解决，保证系统稳定性\n6、完成领导交代的其他任务\n\n岗位要求：\n1、全日制本科及以上学历，计算机相关专业，2年及以上工作经验\n2、工作态度端正，做事积极主动\n3、Java基础扎实，熟悉集合、多线程、IO，了解JVM原理\n4、熟练掌握应用Spring、SpringBoot、MyBatis（Mybatis-Plus）等框架\n5、熟练掌握MySQL数据库的使用，熟悉常用的SQL性能优化策略\n6、熟练使用Redis、MQ、Elasticsearch等中间件\n7、熟练使用Git进行代码管理\n8、具有较强的逻辑思维能力、沟通协作能力、抗压能力\n9、具有较强的责任感和交付意识\n10、遵守公司规章制度&服从领导管理。",
+      "encryptAddressId": "f189e150d68ffb7f1nFy3d2-EFY~",
+      "address": "杭州萧山区杭州湾信息港(建设三路)e座7楼",
+      "longitude": 120.247718,
+      "latitude": 30.203515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5db7b8a08927946c511c87ad5798d611",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73ddfd92a2ea613910db96b7c89f3391",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "搜索引擎技术",
+        "多线程",
+        "SpringBoot",
+        "Spring",
+        "GIT",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乐巢网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7719b69ab4d5fad61n142Ny6GA~~",
+      "brandName": "乐巢网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100008,
+      "industryName": "O2O",
+      "introduce": "浙江乐巢为王力集团子公司，我们开发和运营的产品包括互联网家装平台（小鸟家装）、集团新零售平台互惠宝（为集团现有上万家经销商门店新零售赋能）等产品；\n集团在萧山信息港边上（七号线明星路站）自建大楼，未来几年内建好后将搬入大楼。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717127074942,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐巢网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

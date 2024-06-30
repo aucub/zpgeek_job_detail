@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "w41HmNsdJ5f1y-H1tPm7Yxm-6f_lSkfZaYR_EVFN8ThInaFjzf0xZlOwFUSgf1bbsBcgE6LFgrDb-y261ytbXzW8cL-733e0Gpc1h2cjuBBQa8EGM6OT01Q2Vvgu2NLfWiIN31xHMyo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "84d0c8d3a6d2aac41Xd529W5EFBY",
+      "encryptUserId": "928a266e0c722f5c03N409u9GVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发应届生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责软件模块的开发测试；\n\n2、负责实现具体的功能模块，代码编写、测试；\n\n3、负责故障排除，bug修正；\n\n4、负责相关模块开发文档的写。\n\n职位要求：计算机相关专业，熟悉以下1-2种即可。\n\n招收应届和上届本科生、研究生，英语四级或六级。\n\n1、熟练掌握一种面向对象编程技术（Java，C#、C++或PHP）语言；\n\n2、熟悉html，css，JavaScript，Jquery；\n\n3、熟悉Redis、postgreSQL，或者MySQL、SQL Server；\n\n4、对时序数据库有一定了解：influxdb等；\n\n5、熟悉Spring MVC、Spring boot、Spring等常用架构；\n\n6、了解Spring Could微服务开发框架；\n\n7、掌握常用的Linux命令，会写简单的shell脚本；\n\n8、熟悉docker，有部署spring Cloud项目经验；\n\n9、有良好的职业素养，积极进取、团结合作的精神。",
+      "encryptAddressId": "5343458ea281e0191HJ829W_Fw~~",
+      "address": "上海浦东新区宝龙广场2期7号楼201",
+      "longitude": 121.6508,
+      "latitude": 31.26579,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0cadc789d557b2c2d52bbfdba62703f1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/666d1ad7cd56f0693d24e20edb53b44e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "MVC开发",
+        "容器技术",
+        "Spring",
+        "MySQL",
+        "IDEA",
+        "大数据",
+        "influxdb"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "市场总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "长庚信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4cca7a1d2d2704d71Xx909W1EQ~~",
+      "brandName": "长庚信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181116/dce48aec22e9df2645b1f56fb6e171bacfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海长庚信息技术股份有限公司2005年底成立，2017年底在上海股交中心科创板挂牌，是一家从事工业数据管理、分析的高新技术企业；是发电行业智能智慧解决方案的开拓者，在设备故障预警、智能监盘等应用方面处于业界领先地位。在电力行业，已经进入了9个发电集团，安装了近百台发电机组；在油气行业已经进入石油天然气开采和输送领域。公司在工业大数据、行业高级应用系统方面拥有核心技术，形成了一系列自主知识产权的软件产品。公司秉承“业务引领开发、知识创造价值”的理念，将软件团队、业务团队、算法团队有机组织在一起，经过多年的探索形成了高效的开发和实施流程，开放、高效和人性化的企业文化。工业智能智慧的旅程刚刚启航，美好的未来等待你我共同探索和创造。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1719482001000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长庚信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

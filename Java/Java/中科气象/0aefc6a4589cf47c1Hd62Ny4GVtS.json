@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jQVVeIt10v0gA-o1V-YdMvkSYSdKFvvK84pqiK3RdJUEMuaffx7gznek-o536vuMATGgChuf97YLZozOfZfgocep3QDEwjaAjy0GNVmHQcLhSBixPNfs1pfGd4M6FDgxWkDj_ISW_OvECg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0aefc6a4589cf47c1Hd62Ny4GVtS",
+      "encryptUserId": "8eb7f9db7ec428730nZ_2dq5GVBW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "一、个人素质要求：\n性格合群，理解能力优秀，具有良好的团队协作及沟通能力；\n全日制本科毕业，211及以上第一学历、计算机相关专业毕业、具有一定的B端项目开发经验者择优考虑。\n二、职位技能要求：\n基础开发： 能够设计、开发和维护高质量的Java应用程序，确保其稳定性和安全性，能够对性能进行优化。\n\n系统架构： 在现有系统架构的基础上进行开发也能够针对新的项目根据需求搭建系统框架。能够理解并应用面向对象设计原则。\n\n技术栈：熟悉Spring框架及其相关组件（Spring MVC、Spring Boot、Spring Cloud等），熟悉mybatis等ORM框架、熟悉shiro安全框架。熟悉各类数据解析的脚手架如apache poi等。\n\n数据库： 熟练使用关系型数据库（如MySQL、Oracle）进行数据建模、查询和优化。熟练使用redis。\n\nWeb开发：了解RESTful API设计原则，熟悉前后端分离的开发模式。\n\n测试与调试：能够使用测试工具确保代码质量。具备调试和问题排查的能力。\n\n性能优化： 具备对应用程序性能进行分析和优化的能力。 \n\n服务器：熟悉常见的linux系统如centos，Ubuntu等、熟悉linux的基本命令，熟悉docker能够在linux服务器上直接部署项目也能通过docker部署项目。",
+      "encryptAddressId": "e56d960d5a2e19fa0X1_29u_GFFVy4i6VP0~",
+      "address": "西安未央区旺景国际大厦1312b",
+      "longitude": 108.947868,
+      "latitude": 34.335011,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53d3c8d8faf29371ad8eb0502e0d9009",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c04f1f75deabd3a9189f41c0759ca3c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Docker",
+        "Tomcat",
+        "Spring",
+        "MySQL",
+        "SQL Server",
+        "Redis",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "中科气象",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d6eac9c152b122741nF43NS1FFY~",
+      "brandName": "中科气象",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240104/7bf6f160950405e9c3f33e8e83b5d1a3d6551edb985d817a95e71813884441df99a8d310ca595b0c.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司具有国家高新技术企业、二级保密资质、科技部科技型中小企业、ISO质量体系认证等系列资质，和中国科学院、清华大学、南京大学、北京航空航天大学、国防科技大学以及国家气象局、上海气象局、陕西省气象局等国家一流科研院所与事业单位有密切合作，具体优秀研发及市场团队且正在极速发展中的涵盖气、海、空、天四大业务板块的B端服务商。\n\n目前公司研发团队成员第一学历毕业于中上985及头部211高校占比超过80%、其中70%毕业于北大、南大、复旦、中科大、浙大、上海交大等C7高校。现在公司的密切合作方与客户均为业内优质单位，业务发展迅速，公司发展势头良好，团队规模刚开始扩大，亟待优质人才加入我们一起成长发展并展望未来！",
+      "labels": [
+        "带薪年假",
+        "股票期权",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719577541227,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科气象",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

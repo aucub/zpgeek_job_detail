@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PxX6bMTBWNxHH-k1Sve5SVzgjSy1fHRbpqNWfU3leOf61EqRQrtIdbEDzpppteFrVjfwwCnVdHt9CNNd4LX32V-lbfoBM9A9J79m4xzoLYCRHyfax9Z_FCyyekjQT8qd5P6F7rDzV7J3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab5e5a5927aaaa8c1nF70ty-EVJR",
+      "encryptUserId": "97bd1c3f0daca8cf1XN829m8ElA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责项目模块的开发，能按照项目设计和进度要求编码及单元测试。\n2. 负责按照项目的数据库结构进行编码及测试。\n3. 能独立模块任务，并编写技术文档。\n4. 对重大的或批量的质量问题进行技术攻关，与团队其他成员一起及时解决项目开发过程中的关键问题和技术难题；\n5、完成领导安排的其他任务。\n\n任职要求：\n1. 计算机相关专业毕业，二本及以上学历。\n2. 三年以上大，中型Java项目经验。\n3. 精通Mvc框架，熟悉SpringBoot，Mybatis，Springcloud等开发框架。\n4、熟练掌握Oracle,SQL Server 2000,MYSQL等关系数据库,熟悉存储过程、触发器、函数等用法;\n5、熟练掌握 Tomcat等应用服务器;\n6、熟练掌握redis，nginx，Lucene，activity等原理及其使用方法者优先。\n7、能接受偶尔出差。",
+      "encryptAddressId": "ee6779e688dd1f9d1ndy3du8FFA~",
+      "address": "杭州余杭区衢州海创园D座3楼",
+      "longitude": 120.012851,
+      "latitude": 30.276998,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fd60e21b30f28901cdf442229c62c3fe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/593f6d0d4bf9dbd8f983cc06cd8a891b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "服务器配置",
+        "MVC开发",
+        "搜索引擎技术",
+        "Spring",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "江先生",
+      "title": "项目部总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210705/e2e36b38eccd9e4eaf1c5d1e2777493d2d1fd472ff1371d80d961982b40_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "谷德数据科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "efc4b2883a09a81b1nB72d-_EFU~",
+      "brandName": "谷德数据科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "浙江谷德数据科技有限公司，主营政务项目，与各大头部公司均有项目合作。对于数字驾驶舱，大屏，及各类政务政策的模型设计为我司亮点业务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1717127143183,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谷德数据科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

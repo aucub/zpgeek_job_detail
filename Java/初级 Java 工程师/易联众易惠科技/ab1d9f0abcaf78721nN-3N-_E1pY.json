@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qejmVGaM8F_bI-I1dXkBAi2RRrKYUIEUiJWMFJixbh6Ttd-oLByRWVMGkejU8xG-fKsVkqHXYUhnxQGlHShUYhHjdHgl3c8Uuzo5lQ-90wWG5dj8acg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab1d9f0abcaf78721nN-3N-_E1pY",
+      "encryptUserId": "6a766381979cb38c1nZ809u9GVM~",
+      "invalidStatus": false,
+      "jobName": "初级 Java 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n* 熟悉Java语言编程，掌握JVM优化方法，网络编程。\n* 熟悉公司常用第三方开发库；\n* 掌握分布式编程(Dubbo、Spring Cloud)\n* 熟悉Spring、SpringBoot等各类开发框架；\n* 熟悉数据库(Mysql、Oracle,MongoDB)开发；\n* 掌握各类中间件(Redis、memcached、MQ、zookeeper,nginx、tomcat)的运用；\n* 熟悉Linux操作系统的操作，掌握Shell脚本编程能力；\n* 掌握 UML 面向对象设计语言，能够输出概要设计、详细设计文档、用户使用手册文档\n\n岗位职责：\n1. 参与公司统一框架、开放平台、运维平台的设计、开发;\n2. 负责公司微信支付宝基础平台、消息平台的开发，相关模块功能的实现\n3. 根据产品需求进行软件设计和编码实现及相关文档的编写; \n4. 参与系统稳定性、性能调优，不断优化改善系统;",
+      "encryptAddressId": "c881a8cf0f6d3ee31nJ_3N64EA~~",
+      "address": "厦门思明区易联众信息技术股份有限公司102",
+      "longitude": 118.178364,
+      "latitude": 24.486309,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/822b1618bda5a43bb792cdcf2bb90986",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2eda6a11c2be4d0fe1cc616de5ab048",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "分布式技术",
+        "服务器配置",
+        "网络编程",
+        "Spring",
+        "Dubbo",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "庄先生",
+      "title": "部门执行经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230102/607f1f3d68754fd025bc22b0d3395a1187fd4eb0946cf5b678658a3283e449b8916e1a4ad89_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易联众易惠科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "491a6c5f816a666e1nd70925GVM~",
+      "brandName": "易联众易惠科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201204/bad4fd0a1e89a26b96a16484fb5342061f9b2ea4bb651a3eef959ae0bffc2cea.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717058608665,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易联众易惠科技",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

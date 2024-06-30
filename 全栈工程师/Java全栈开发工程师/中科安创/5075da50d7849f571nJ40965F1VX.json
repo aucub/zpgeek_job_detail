@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M3kWEd43M8YvF-p1WuX7K8cvnZoA4-M6J9yEp1JENRY7zz1DlInWhh3vluGbLLvsAQqyK0eRsbT8AAtvyUdyPmAijTP5MaVb5-P-iFd6124PULZ7IVWa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5075da50d7849f571nJ40965F1VX",
+      "encryptUserId": "15f3d11afaf943c20nVz3Nm8E1VU",
+      "invalidStatus": false,
+      "jobName": "Java全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1）计算机相关专业，熟悉软件开发过程,会编码相关开发过程中产生的文档，如详细需求说明书、操作说明书等。\n2）精通Java编程，对J2EE体系有深刻的理解。熟悉SpringBoot、SpringCloud、MyBatis、Redis等技术。\n3）熟悉Vue、Jquery等前端技术，有Ant Design、iView、ElementUI 使用经验者优先。\n4）熟练使用 SVN、Git、Eclipse、Webstorm、MAVEN、Tomcat等工具\n5）熟悉数据库设计规范和Sql优化，了解常用的数据库如MYSQL\\Oracle\\Sqlserver\n6）有jeecg\\jeecg-boot\\jeewx\\jeewx-boot开源项目经验者，优先录取，最好是能现场演示开发过的项目。",
+      "encryptAddressId": "e8e4c20e47888d2f1HVz3dS8GQ~~",
+      "address": "广州黄埔区中科安创(广州)信息科技有限公司2号楼8楼",
+      "longitude": 113.436131,
+      "latitude": 23.170798,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c746a26fe19436dc6be92679e1cb39eb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/696eba9aad678ee35d331b80e9eb9d2b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "前端开发",
+        "Redis",
+        "Oracle",
+        "SQL Server",
+        "Spring",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中科安创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f442f9a33c8b02c91nB-39S0ElU~",
+      "brandName": "中科安创",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210616/3a1fedede950b294a8f44ef99c89a7a52b035b8f3aedb5f82d1b0f9a0043ddd9.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717072830535,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科安创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

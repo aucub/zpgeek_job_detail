@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ekLrDiBVpIb3W-C1GsH4Y9IXj9hrqqT5ZYOFG2ltMKK8UtEShBmMVlWRBfhgtklE0SF3v2GWSDiJxJZ2D4vwgE_hb3K_KiRefmBER-YXih6Wad-R",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ca4eb93a09c2e9f81nN909W8EVs~",
+      "encryptUserId": "8361dc157ac37f021HV62927F1Y~",
+      "invalidStatus": false,
+      "jobName": "Web开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\r\n1、负责企业级软件后端系统的设计开发及测试维护；\r\n2、配合移动端完善公司测试系统；\r\n3、根据产品需求完善后端架构及模块设计与开发，以及文档编写工作；\r\n4、后端系统部署\r\n\r\n任职要求：\r\n1、计算机相关专业本科及以上学历，具有Web开发经验者优先；\r\n2、熟悉主流前端框架，熟悉主流移动浏览器的技术特点；\r\n3、熟悉模块化、前端编译（typescript、babel（es）等）和构建工具（ gulp、grunt、webpack等），\r\n熟练运用主流的移动端JS库和开发框架，并深入理解其设计原理，例如：ReactJS、Vue、AntD等；\r\n4、熟悉Nodejs开发框架express、koa等， 理解异步流程处理；\r\n5、熟练使用MongoDB/MySQL/PostgreSQL；\r\n6、对Redis, RabbitMQ熟练使用者优先；对微服务架构有经验者优先.",
+      "encryptAddressId": "b6611b3be4caef431XB72d20Fls~",
+      "address": "深圳南山",
+      "longitude": 113.906419,
+      "latitude": 22.49691,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b076ea047c1fc07f04d2b41bfed9f1a0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3c761db8cc6e71053c7b5c67d266e86",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Web前端",
+        "Node.js",
+        "JS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170907/0ddf7b2ffb8d5a50cf1e4a4322f5317f8610b6079646d0b583ef2fd6fb9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "逗号互联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b89117b88e0257551nR-3dq0Eg~~",
+      "brandName": "逗号互联科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220106/7bf6f160950405e90e9cef274158d2fb1e56e698bb9b928cd369afa5bc5599a2d4df9606194e1acd.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "逗号科技成立于2016年，是一家致力于人工智能和决策优化技术赋能物流数字化与智能化的尖端科技公司，中国领先的数智城配算法专家。曾获平安系、联想创投、盈峰资本、中集集团等知名机构投资。\r\n公司创始团队由香港大学黄国全教授作为首席科学家，以及5名香港大学工业工程专业博士组成。该团队在供应链优化、制造与物流联动等领域拥有深厚的学术积淀，研究成果在国际学术界获得高度认可。\r\n依托于独特的“硬件+软件+算法”一体化的技术架构，逗号科技以智慧物流决策优化算法为核心，集成IOT、运筹优化、云计算、人工智能与机器学习等前沿技术，推出了C-LINK物流数字运营平台、推出C-ROS物流智能决策平台，为企业提供“一站式、可落地”的智慧物流整体解决方案，实现企业数智化转型。\r\n逗号科技聚焦智慧物流供应链领域，不断开拓医药物流、快消零售、食品饮料、3C电子、制造等行业，主要客户有HAECO、联想、美的、华为、中远、盛世华人、国药集团、顺丰供应链、松冷科技、上药科园、南冠物流、富润德等。\r\n目前，逗号科技在香港设有子公司，在北京、上海和广州设有办事处，正逐渐构建起强大的营销网络，为客户提供高性能的技术、产品和解决方案。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1716722389000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "逗号互联科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

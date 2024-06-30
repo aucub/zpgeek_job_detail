@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "x4yuEYOhW4kB--81ZSiajBkOnCD9ZG4fWHqxfTX8hEDdD5U-nSY68cuvtfGBIpS6Sv08Dl9tNF2nxpOZSSl_COcloJJMiuHn4z0VBNMVQnoeDdkUwSP77AYLGWJ_nSG1Lm9doyst8948GQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "68c95b23c10001bc1HF93t-4F1JR",
+      "encryptUserId": "d337e6201a3fc80a0nx929m1GVJQ",
+      "invalidStatus": false,
+      "jobName": "中级软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101301300,
+      "locationName": "北海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.根据项目计划完成系统功能的设计和实现，并完成单元测试；\n2.解决产品中存在的需求、技术缺陷及做定期的版本升级更新；\n3.负责新项目、新产品中的技术预研；\n4.完成团队交待的其他工作。\n职位要求：\n1、专科或以上学历，计算机软件或相关专业；\n2、3年以上的Java开发经验；\n3、精通数据结构和算法实现，熟练掌握设计模式，能够编写具备良好可读性的技术文档；\n4、JAVA基础扎实，对JVM有比较深刻理解，熟悉IO、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制；\n5、熟悉常见框架SpringBoot、SpringCloud、Spring MVC、MyBatis等；\n6、掌握Memcached、Ehcache、Redis缓存、Tomcat、Ngnix、消息队列等中间件的使用；\n7、熟悉Oracle、SQLServer、MySQL等主流数据库中至少一种；\n8、具有良好的沟通、学习能力，有团队精神，能承受工作压力，富有责任心、进取心；",
+      "encryptAddressId": "16baa2cdc92f333d33d50tW0EVo~",
+      "address": "北海银海区望阳·绿茵广场2楼",
+      "longitude": 109.119673,
+      "latitude": 21.447768,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3a4d941bcd6e6490b9df52f2aef560f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5be6b7f9f18bad05914723898a02f17d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "Oracle",
+        "SQL Server",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "金律法务",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "396c33fc79865e0b1XRy09u5Els~",
+      "brandName": "金律法务",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100602,
+      "industryName": "法律",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718095460119,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金律法务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

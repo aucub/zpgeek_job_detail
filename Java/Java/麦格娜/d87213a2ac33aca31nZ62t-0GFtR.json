@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NTRWmM_g986ML-81w9LLDRS8O8WQo6GDg2hWYOygpIwRscjHvqX8RQq0kQGI079I9jxYENdL20BMMwV4iYj5PPLQrAtyQZfAcgkpMpi0hlq9HXyRiZM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d87213a2ac33aca31nZ62t-0GFtR",
+      "encryptUserId": "11af0ba5499801e00nR-0tW4FFJX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "【工作职责】：\n1、负责研发公司软件的设计、开发和交付；\n2、负责自己或其他开发人员开发的模块进行单体测试及平台的发布部署；\n3、负责部门内操作手册等文档书写，并配合上级主管进行实施；\n4、跟踪并研究新技术并能应用于产品。\n【职位要求】：\n1、 本科及以上学历，2年以上Java开发经验\n2、 有智慧医疗和智能化集成平台开发经验者优先\n3、熟悉Java基本语法,熟悉基于java的io、多线程、集合等基础框架；熟悉常用的设计模式；\n4、 熟悉Java开发和高并发分布式系统架构，熟练应用Spring、Spring boot、MyBatis等框架，了解网络相关知识；\n5、熟练使用Mysql、Mongodb、Redis等数据库与缓存中间件，掌握基本的SQL优化技术；\n6、熟练掌握MQ、Cache、NoSQL应用及原理；\n7、熟练使用 linux 以及 熟练linux下的系统部署与调试。",
+      "encryptAddressId": "825260e67cd0fa671H183dq5EVM~",
+      "address": "徐州鼓楼区易龙大厦8001",
+      "longitude": 117.266166,
+      "latitude": 34.28806,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1f8b0136921f3e0d82443e4265bbe31",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/317d0fa6709961dd695f67c2170f5cea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "Redis",
+        "NoSQL",
+        "互联网医疗",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孔女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "麦格娜",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ae90c46e62eb40970nF53d-4Ew~~",
+      "brandName": "麦格娜",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717058795202,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "麦格娜",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

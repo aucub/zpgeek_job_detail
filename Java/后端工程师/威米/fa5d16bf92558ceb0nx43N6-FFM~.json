@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KSrFMo0Ztg7V5-o1VNz73mZG9f68pf9HUhJnlccWtmVmtC25ZWJwAjGli8FkbMUIm8J3pI5DGkJn1SINUMzNHeBAGgoi76M7QNCHDoAWqf-WW8aScDvngoDGP6u80_kafEVosEWB",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa5d16bf92558ceb0nx43N6-FFM~",
+      "encryptUserId": "6ffc49143bd706be1nJ93t68Eg~~",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、\t参与产品组件的需求分析与设计；\r\n2、\t负责研发产品的基础构架设计、开发和升级维护；\r\n3、\t独立负责后端服务开发，并提供完整的接口文档； \r\n4、\t能按照项目计划，按时提交高质量的代码，完成开发任务； \r\n5、\t主动关注并学习新技术，并能够在实践中应用。\r\n\r\n任职要求：\r\n1、\t热爱编程，计算机相关专业专科以上学历，具有良好的编程习惯；\r\n2、\t2年以上J2EE开发经验，精通Java/JavaScript/SQL/XML；\r\n3、\t熟悉面向对象化编程思想和设计模式，熟练使用/Spring/Springmvc/Mybatis等常见开源框架；\r\n4、\t熟练使用主流关系型数据库（例如：Oralce、Mssql、MySQL、PostgreSQL等），对非关系型数据库的使用有一定的了解；\r\n5、\t熟练使用JavaScript，熟悉vue、react等前端框架；\r\n6、\t在大规模后端服务的设计和开发方面的经验，对unix/linux有深入的了解；\r\n7、\t具有创新思维，良好的主动性和责任感，良好的逻辑思维、沟通能力、学习能力；能够独立开展功能模块的设计研发；\r\n8、\t有企业信息化类项目和服务平台的开发经验，熟悉制造业生产、物流、供应链、财务流程,熟悉集团级MES应用整体方案者优先。",
+      "encryptAddressId": "71f30e41f29116b11nF93NW8FVo~",
+      "address": "苏州翡翠湾产业园N307",
+      "longitude": 120.738138,
+      "latitude": 31.368549,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/596650c778cbf2bdc24fb72836b9a5d0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a503af56f1c5473de08533b220670afd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Spring",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "威米",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff9d99c10fffaa0e1HJ-3NW1FA~~",
+      "brandName": "威米",
+      "logo": "https://img.bosszhipin.com/beijin/upload/tmp/20190426/52b88546fac199cf2ecbe075b6c5e50047603797ddb452fde4365bc96f714918.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "威米是一家自主研发公司，主要致力于智能制造业务流程咨询、软件研发、系统集成、信息技术服务、数字内容、互联网服务、集成电路设计、工业设计。助力企业推进深度两化融合，为企业智能制造提供全方位的系统解决方案。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717138858204,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "威米",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

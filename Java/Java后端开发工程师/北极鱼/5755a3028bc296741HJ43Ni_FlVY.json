@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zsir7RijmPKDl-P1Ps38I-d_Nh96nfkN2YPqvrezxVS3VY9DAcsML79MM3PjRgel8TXB-hToUobj3y-htX5-J41kiMMEVCHDXqo5xUPmAwjGSnFiSGNAcfYp9wDAz4Zr5r39kBUaI051Hw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5755a3028bc296741HJ43Ni_FlVY",
+      "encryptUserId": "d00eb4d62d71bbe61nRz3d-7FVRZ",
+      "invalidStatus": false,
+      "jobName": "Java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、参与服务端系统的设计与开发，根据产品需求文档实现相关功能;\n2、参与业务API接口的开发、维护优化工作， 并和App端同事联调测试;\n3、负责服务部署、数据库维护等工作，保障服务正常运行;\n4、根据产品统计相关需求，完成常规数据统计及报表可视化。\n\n任职要求:\n1、2年或以上Java后台开发经验，有良好的代码编程习惯;\n2、JAVA基础扎实，熟悉网络编程，理解IO、多线程、集合框架、JVM原理;\n2、熟练使用SSM，SpringBoot、Redis、MQ等框架或中间件，熟悉JavaWeb开发流程;\n3、熟悉Json、Protobuf序列化协议、Websocket和Http等传输协议，了解网络数据传输的过程原理;\n4、熟练使用Idea、Maven、git、jenkins等常用开发工具;\n5、熟练掌握Mysql，熟悉复杂Sql的处理及优化，具有数据库设计能力，有大数据处理经验优先;\n6、熟悉Linux系统运维操作和常用shell命令，了解服务部署的安全防护知识;\n7、有娱乐社交相关项目的开发经验优先。",
+      "encryptAddressId": "12ef75783bf9d18e0XF40t20GVZRw4m8Uvs~",
+      "address": "广州天河区汇鑫商业大厦(中山大道西)4层/417室",
+      "longitude": 113.380946,
+      "latitude": 23.124791,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf990befc5cd317e31e799b1f3b438841c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa799c3badba717e597e6a70ad4eb78876bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "游戏后端经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "HRBP专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231226/607f1f3d68754fd09f8eaea780e1d8948eb9392d8ec979fefaa3d3be2d36cab7535b8fb77a89d74_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北极鱼",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "19460319302fe48b1HZ73d-9FlY~",
+      "brandName": "北极鱼",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231225/7bf6f160950405e9df9a4cdb876c201bef2a1fd7e6cbd10b94268d1c05d02719c2dfb14207e589a1.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718880618692,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北极鱼",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

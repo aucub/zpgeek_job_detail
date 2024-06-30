@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ohmMKxEHEbiot-b1f6rnFBGHTn0JZ2pUsV25OQfeNt-TrQ6HKGoy6k38M5dKqzGr8rrzh_by11zm9-9kZHxnSilQ5p3VLkVzc9bAV_HpybwQdYjpEKVLpS1kDApVAekeobt3QGr1NhPfyRyBTBowdQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ca7f2fd69b380061HJ_29S_GVRX",
+      "encryptUserId": "9cfd1538b2573ed703dy2N6-FFE~",
+      "invalidStatus": false,
+      "jobName": "数据开发",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、辅助数据开发工程师开发运营商级大数据平台的相关研发工作；\n2、持续改进和优化大数据计算和存储，提升海量数据的查询性能和用户体验；\n3、根据业务需求进行大数据平台的数据仓库模型调研、设计、开发及验证工作，并持续进行模型的优化；\n\n任职资格:\n1、应届毕业生\n2、熟悉ETL工具如Sqoop、kettle、DataX等；\n3、熟练使用Hsql、Scala；\n4、熟悉Hadoop基本技术如 HDFS、MapReduce、Hive、HBase、Spark的基本原理。\n5、熟悉shell脚本编程；\n6、熟悉ORACLE、mysql等至少一种主流数据库；\n7、有较好的沟通理解能力，态度端正、工作积极认真。",
+      "encryptAddressId": "c31479822f1ef2e333V43NW6ElI~",
+      "address": "南京江宁区丽宁科研楼16楼",
+      "longitude": 118.792809,
+      "latitude": 31.930868,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c9ad65ceb5f1c9a8fd3d68fffc777ff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9fca59fce47c67bae0458b9d3b98d7d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "ETL开发经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220626/607f1f3d68754fd0d0a0c1eed34081fc10216c14783983057bb2836514781870a70e4d05c6f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "博晟宇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b88ab3afa4f6ebf933R90ty9EQ~~",
+      "brandName": "博晟宇",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211117/7bf6f160950405e9d9364c8a18e377ec6e882362f5e5d75c3752aaba5d059c48325686dbef9c9301.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "博晟宇(BosonSpace) 是一家提供反欺诈情报服务的公司。公司拥有各领域的顶尖人才，核心团队拥有多年行业领域内的服务经验，一直坚持以技术为驱动，提供物联网、大数据、机器学习等服务能力，提供智慧数据赋能行业领域的创新服务。\n       南京博晟宇网络科技有限公司于2016年8月成立，公司总部位于南京，并在无锡和盐城设有分公司。目前公司拥有员工260+人。\n       博晟宇(BosonSpace) 为了促进科技落地，一直注重产学研用相结合，与国内多家高校和研究机构成立合作联合实验室。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1719554006579,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "博晟宇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

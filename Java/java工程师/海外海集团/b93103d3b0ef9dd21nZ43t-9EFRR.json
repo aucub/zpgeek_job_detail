@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NqXQaxXIgMsNs-q10xcnnBDDi3uf9fksDd83pmTjKk9H75PtCCYEFmn7mcA6NEUV9FTe7tAj5nawveSqu0cJGU0CtOnZyrlK7y-jB7uU06EnJuXFzA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b93103d3b0ef9dd21nZ43t-9EFRR",
+      "encryptUserId": "39b6fee9172887d11HZ_09i4FlY~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责技术架构设计，根据业务规划和技术规划持续改善系统架构方案；\n2.参与需求评审，负责后台接口开发，并于客户端合作，保证上线；\n3.解决各种日常研发问题，如bug修复、性能调优、技术攻坚等；\n4.负责线上部署的稳定可用，能够远程快速解决修复；\n任职资格：\n1.统招全日制本科及以上学历，计算机或相关专业，2年以上酒店管理系统（PMS）相关工作经验，1年以上C端java服务器相关开发工作经验（可接受23届同学）\n2.JAVA基础扎实，深入了解io、多线程、集合等基础框架，了解JVM原理及基本调优；\n3.熟练掌握spring家族各种框架，熟悉各种设计模式；\n4.熟练掌握MySQL的使用和SQL优化；\n5.熟练使用常见的微服务框架dubbo/SpringCloud，以及其他常见的开源框架；\n6.具有较强的编程能力，能够完成较复杂的交互流程设计和实现，具备良好的编程习惯，能够编写高质量技术文档；\n7.具有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感，良好的沟通表达能力和团队协作能力。\n该岗位为集团下属网络科技公司招聘岗位",
+      "encryptAddressId": "8b466583fa5e58f51nV-3Ny6Flc~",
+      "address": "杭州拱墅区海外海集团有限公司石祥路579号",
+      "longitude": 120.122278,
+      "latitude": 30.32806,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e727097e9d3d192a314e662e7f087234",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b27b704e84435f9ddccd785d90f5131a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Spring",
+        "MyBatis",
+        "Springboot",
+        "spring-cloud",
+        "dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "鲍女士",
+      "title": "人力资源部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "海外海集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "89433a939c6a2d8e3nB62925GA~~",
+      "brandName": "海外海集团",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200723/253409e50e808d4568524d6d0f667691bd3b83c3b94fa5cbce6bfd080b2e2580_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 101102,
+      "industryName": "酒店/民宿",
+      "introduce": "海外海集团创建于1984年，随改革而生，与改革同行，已有35年的成长历程。目前，集团拥有40余家子公司，在职员工10100余人，总部设在杭州市石祥路579号。主要经营：宾馆酒店业、汽车商贸业、会议展览业、地产业。海外海集团是“中国民营企业500强”、“中国服务业100强”单位，“海外海”商标为“全国驰名商标”、“浙江省著名商标”、“浙江省知名商号”等。",
+      "labels": [
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "包吃包住",
+        "入职缴纳社保",
+        "年度调薪机制"
+      ],
+      "activeTime": 1719219598074,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海外海集团",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4JMDuMpbyDO8I-o1v5I49bFZNQQLaP2WtGZ3IB4f9MRyaXIclU4vnth08caYVYTnUB3q289LkHCHREdoRbfLy5HnVhqHEjieh6GoNH0IxPiKMSY8arcbipqQjILpQq7DDZh9doH065Ywfg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7c3b144da8e21f4f1Hd50tu-EVJX",
+      "encryptUserId": "8ef6d5a23ef1111a0nFz2Ny0GVZZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n\n1、与产品经理沟通详细功能需求；\n\n2、负责功能模块的设计、开发；\n\n3、负责单元测试用例的设计、开发；\n\n5、整理详细功能流程图、类图；\n\n6、编写软件详细设计文档；\n\n7、调试、修复系统疑难问题。\n\n任职要求：\n\n1、全日制本科及以上学历，一年及以上的 Java 系统开发经验，有Java 认证者优先考虑；\n\n2、Java 基础扎实，熟悉Java 多线程开发，有并发处理开发经验；\n\n3、具有面向对象设计思想，熟悉设计模式，熟练利用 UML 工具进行详细设计；\n\n4、熟悉 Web 应用前端展现技术，熟练掌握JavaScript、CSS、HTML;\n\n5、熟练掌握 Servlet 原理，掌握JSP、JSTL、EL 使用，掌握Servlet 容器集群技术；\n\n6、掌握 Web Service 开发技术，SOAP、JSON 通信方式；\n\n7、具有良好的编程习惯，熟练掌握 JUnit 单元测试用例的设计、开发；\n\n8、精通 Spring、Spring MVC、Spring Security、Hibernate(JPA)、Mybaitis 等开源框架；\n\n9、熟悉 Oracle、Mysql、NoSql 数据库的使用，熟练掌握SQL 操作和调优；\n\n10、能够熟练使用、配置 Tomcat 服务器，熟练部署应用系统；\n\n11、了解 Apache Nginx 服务器，了解负载均衡技术和缓存技术；\n\n12、能独立撰写与整理详细设计文档，具有较好的文笔功底；\n\n13、工作积极主动，勇于承担责任，能承受工作压力，有上进心；\n\n14、良好的沟通、协调能力，出色的学习、钻研能力，具有团队合作精神。",
+      "encryptAddressId": "bf2407a8ca6a158433R92tW-GVA~",
+      "address": "杭州桐庐县桐庐科技孵化园B座401",
+      "longitude": 119.719437,
+      "latitude": 29.797882,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28e05ae9927740d65f0507f7d241576d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fce248d596bcbe8dee46ccd12d8e27c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Tomcat",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd0c36cdc7b6aef7eca8df1fbc861caac581f4ba7feb3fff2900158e6c3840_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "杭州乐橙电子有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69f9aa464bbf22e31nJ709y1EVc~",
+      "brandName": "杭州乐橙电子有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127370698,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州乐橙电子有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

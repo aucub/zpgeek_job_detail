@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-VQ1ldT6Gfy8o-21vWBG7sBN-ymad7evM_5QqOVRB2yAj7l9hkcIgAnmcyjHZsg67elRnXWYrkMUdoANoIcm86oeeBgNI7pnbDxuvSQIdOETRr7lyFso",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d9ca6c3323701141XZy096_E1ZZ",
+      "encryptUserId": "cc6219accabdb02e0nd809-_GFpY",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师3",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、计算机及相关专业本科及以上学历;\n2、3年以上开发经验；\n3、熟悉Java语言，具备扎实的Java基础，熟悉IO、多线程等基础技术，对多线程使用、并发处理、JVM基本原理有一定认识；\n4、熟悉常见主流框架,如Spring MVC、Spring boot、spring cloud、MyBatis、Redis、ElsaticSearch、Nginx等；\n5、熟悉使用关系型数据库,如Oracle/MySQL等数据库，并具有一定的SQL优化能力；\n6、有较强的问题分析和处理能力，如Tomcat、JVM等问题排查、调优经验；\n7、熟练使用linux常用命令，具有基本的系统运维能力；\n8、具有良好的逻辑思维能力，工作认真负责、积极主动；有良好的团队合作能力，善于沟通。\n9、具有药物警戒或者药物临床试验业务经验者优先。\n10、熟悉使用react，antdesign等前端技术者优先；\n岗位职责 ：\n1、负责技术组件、业务组件的设计研发；\n2、快速掌握项目架构和项目迭代流程；\n3、负责研发任务的跟踪及进度总结，发现技术风险及时上报，并跟踪解决；\n4、负责与项目经理、产品经理共同推进软件开发项目；\n5、分析系统瓶颈，解决各种疑难杂症，对系统进行性能调优；\n6、参与需求讨论。",
+      "encryptAddressId": "997d8990464ff25103142d26E1s~",
+      "address": "北京海淀区恒兴大厦(中关村东路)3层",
+      "longitude": 116.332744,
+      "latitude": 39.983032,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cd0a02ba574c16fc89197048596861b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76fe6b5582da822dbbf431a41a719056",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MVC开发",
+        "服务器配置",
+        "多线程",
+        "Spring",
+        "Oracle",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数聚工研(北京)...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6c7a480cb71f03311nF-09i9FVA~",
+      "brandName": "数聚工研(北京)...",
+      "logo": "https://c-res.zhipin.com/jrs/201c12d422140178547de85cd26e2d36.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "数聚工研（北京）科技有限公司（DFusion Technology）是一家从事开发人工智能技术的医疗领域高科技公司，位于清华大学信息科学技术大楼。公司拥有人工智能深度学习的核心技术，致力开发医疗领域的应用。团队由多名博士硕士医学博士和高级科研人员组成。与国内多家各等级医疗机构保持长期科研合作。公司处于高速发展阶段。公司提供良好的福利待遇和具有吸引力的现金奖励机制。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "交通补助",
+        "现金奖励"
+      ],
+      "activeTime": 1716719136800,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数聚工研(北京)...",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

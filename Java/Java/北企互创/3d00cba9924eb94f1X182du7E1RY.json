@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Coumh5kVtgihS-X1jcMkhBCdSk9Fo-lYAOJqiHH5iQ_WSVcKvRnrN2aThYICcE5oVeFjshTgvwjoQJQr7bK-8iTZAYJkf5OLR2Pbc5X4STJaID0eVnjw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3d00cba9924eb94f1X182du7E1RY",
+      "encryptUserId": "1360f98cc00e7e340XRz0t-9EFNR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、参与业务系统设计开发、文档编写；\n2、按项目计划要求独立完成开发工作任务；\n3、配合其他岗位完成开发、联调等任务\n\n任职要求：\n1、本科及以上学历，计算机、软件工程、自动化、通信工程、电子信息等专业；\n2、有项目开发经验，能够独立完成开发任务；\n3、精通SQL，熟练使用MySQL等数据库，并具有很强的SQL优化能力；\n4、熟悉常见Java Web和微服务框架，如Spring MVC、MyBatis、Spring Boot、Spring Cloud、Restful等；\n5、 熟悉ActiveMQ、Kafka等消息队列；\n6、 熟悉linux系统，熟悉svn、git等代码版本管理工具，熟悉maven等项目工具；\n7、 有技术文档编写的能力、良好的代码书写习惯；\n8、有较强的责任感、上进心和良好的团队合作精神；\n9、加分项：zookeeper、redis、kafka等",
+      "encryptAddressId": "b065239adb90ee291nR739-_EFZY",
+      "address": "北京海淀区中关村软件园二楼",
+      "longitude": 116.286164,
+      "latitude": 40.043725,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bfdb3c5e195bf3b9bd88d092b85ccfc49f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3426428098f8e6ad3ef1ede05a1e7e536bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "不接受居家办公",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230711/607f1f3d68754fd0fe663cd32ddad41bd3552db6f564712f93213ba7ef0e20103c96eccbd5ff895_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "北企互创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b49b2600431c52ff1Xx929q4EFo~",
+      "brandName": "北企互创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "住房补贴",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "全勤奖",
+        "工龄奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "夜班补助",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718762029780,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北企互创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zANy32PWZXgn8-J1ACip0Uc0ErhyDoPZnIg6vCwh_KX-FtAXZC2OUAdATEhA3bdKRQpqDUA9mi-3YBWzrbEFISpL8WxbP9TBNfbiI1tvLVGMRoPsno0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "57967657eedce3641HB-29m-GFtU",
+      "encryptUserId": "54ac8df3385bd3420Xd-29S4EFdQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "公司简介：\n南北科技是中国信创测试龙头，深圳市信创联盟理事长，广州市信创产业链信息安全链长，2023中国软件和信息服务业年度十大领军企业。南北科技是中国主要的代码安全审计，开源治理，软件供应链安全，代码仓库建设，制品库建设，CI/CD，DevSecOps平台建设，软件测试，信创咨询，信创测试能力建设方。\n\n岗位职责：\n1、负责产品的后端系统开发；\n2、负责后台技术攻关，参与后台开发的技术创新研究；\n3、深入理解产品和技术方案，持续提升系统性能稳定性，优化产品使用体验；\n4、与技术开发团队及产品部门协作，推动产品及技术方案实现及落地。\n5、具有技术钻研精神，具有对Java进行深入技术研究的兴趣，乐于接受有挑战的任务。\n\n岗位要求：\n1、公办全日制本科以上学历，应届毕业生/3年以内的Java开发经验，熟练掌握主流Java开发框架、Web框架的使用，熟悉设计模式；\n2、具备扎实的Java基础，具备扎实的面向对象开发技能，具有规范编码意识；\n3、熟练掌握SpringBoot，通过MyBatis或Hibernate进行数据库操作，能够独立承担功能模块的开发；\n4、能够熟练设计REST API，能够独立编写简单HTML页面；\n5、熟悉常用的Linux命令操作, 能胜任应用部署、应用排错等基础工作；\n6、熟练掌握 Spring Cloud/Dubbo等微服务框架, 了解其原理和其存在的优缺点, 具有实战经验；熟悉Spring/SpringBoot/SpringCloud/架构；熟悉MySQL/PostgreSQL数据库；\n7、掌握NodeJS、Python、Shell等语言优先。\n\n\n公司优势：\n1．地理位置：公司位于天河北广州科技公司总部集聚中心，地铁公交均可直达，交通非常便利。\n2．上班时间：每天8小时工作制，每周双休，国家法定假日。\n3．休息休假：1）带薪年假5-15天。2）司龄假。\n4．工作环境：公司实行扁平化管理，团队年轻活跃，工作氛围舒适。\n5．福利待遇：\n01）入职即购买五险一金。\n02）省内外年度旅游。\n03）举办员工生日活动。\n04）重要节日发放员工节日礼物。",
+      "encryptAddressId": "ad78fe1403a4edbe03B72Nu1FFtZy4y7Ufo~",
+      "address": "广州天河区大都会广场39层/06室",
+      "longitude": 113.322622,
+      "latitude": 23.141773,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf44de713046a02ab770d027e9d9d60e456bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bff5ef28fd4426c3f01d6b73455ca5614e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "不接受居家办公",
+        "分布式经验",
+        "DevSecOps",
+        "java开发",
+        "应届生"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240122/607f1f3d68754fd0588cefc892a8d83f0225ff554c84dc3d68dd98bdcc60d89b9973d010c60930e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南北科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c862172abc71210b0nd72dy1Fg~~",
+      "brandName": "南北科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210301/3bc2e7020ffbf862d8b8879848b26b2e50354b0f8975ec743bd9c11100f42362_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南北科技是中国主要的DevSecOps专项能力建设方，中国信创测试龙头，深圳市信创联盟理事长，中国代码安全审计，制品库管理能力建设方，建设了华为2012实验室、平安、顺丰、美的、康佳、TCL、富士康、CVTE、中广核、南方电网、唯品会、广东省教育行业信创适配测试中心、广东省各地市检察院信创迁移等大型集团级代码安全审计/制品库治理/ DevSecOps /信创测试专项能力建设。     南北科技是中国信创测试龙头企业，立足于新一代信息技术的中国软件高新技术企业。南北科技是深圳市信创联盟理事长单位、中国软件供应链安全及信创测试权威品牌、数字广东信创测试战略支撑单位、中国电子工业标准化技术协会信创工作委员会成员、工信部重点实验室基础软硬件质量技术研究工作组成员、中国信通院3S-Lab软件供应链安全实验室、中国信通院数字化转型推进中心、中国信通院业务安全推进计划单位、中国证券基金行业信创联盟首批创始单位、中国联通集团、广东产互信创服务信创合作伙伴、广东省部分地市人民检察院信创政务开发及整体信创迁移方。     南北科技业务主要覆盖信创测试，信创软件安全，信创软件工程质量体系建设等方向，业务主要包括软件开发、软件测试、信创测试、技术咨询和技术服务，提供DevSecOps，SDLC方法论指导下的专项能力建设。我司通过自主研发，形成了以软件供应链安全及信创测试为主要方向的技术服务能力体系，包括信创测试、应用安全、应用质量画像，新技术过程优化，流程改进等系列专业信创产品和技术服务，建立了专业领域内的专业品牌形象。公司竞争力在技术能力、产品能力、市场认可度、品牌认知度等方面具有强大的优势，成为了该领域的龙头和领军企业。     我司信创产品矩阵包括以下业务方向：信创应用功能/性能/安全测试、南北科技IAST平台、南北科技DAST平台、南北科技RASP平台、二进制文件分析BinSCA平台、应用安全总台AppSecX平台、应用质量画像AQM平台、信创测试CNTest平台、信创测试SinoTest平台、南北科技网络安全靶场、南北科技应用安全靶场、南北科技数据安全靶场。     我司技术服务方向主要包括：信创测试、代码安全审计、开源治理、软件供应链安全、信创应用安全、信创软件工程质量体系建设等方向，软件开发、软件测试、信创测试、技术咨询和技术服务，提供DevSecOps，SDLC方法论指导下的最佳实践和专项能力建设方案，形成了以软件供应链安全及信创测试为主要方向的技术服务能力体系。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1718102106008,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南北科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

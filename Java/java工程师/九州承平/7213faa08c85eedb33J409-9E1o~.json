@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "a6IKO6F2i78pd-w1uRqW3dyBxtj4WU5C1lPLnTkPDZxFVouMHgpyLnqh_YZ8hI0Q0EyZupvC8wVUNbGSw4AVANrH8MAzgKuKaUytRkLOc87UjV9yuA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7213faa08c85eedb33J409-9E1o~",
+      "encryptUserId": "2d15a4aa1b8fadcc1nV509m8F1FW",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "负责或参与公司项目的开发工作；能独立完成模块的设计、编码、测试以及相关工作；\n精通Spring、Hibernate、MyBatisd的应用框架，熟料掌握至少一种数据库Oracle、Mysql,有数据库优化经历者优先；\n本科以上学历，计算机相关专业；Java基础扎实，精通IO、多线程、集合等基础框架，精通分布式、缓存、消息、搜索等机制；",
+      "encryptAddressId": "3da341c67990e6f13nV50924GQ~~",
+      "address": "北京朝阳区渔阳置业大厦501",
+      "longitude": 116.409314,
+      "latitude": 39.979632,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d51d43cc68ca57b63c10a08ba4f3af13",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93329b442370f32e433c2a2220cd482d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Spring",
+        "Hibernate",
+        "Mybatis",
+        "Struts",
+        "PC端",
+        "移动端",
+        "全栈开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "九州承平",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3485563de2264da53nZ-2NS1GA~~",
+      "brandName": "九州承平",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070235216,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "九州承平",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

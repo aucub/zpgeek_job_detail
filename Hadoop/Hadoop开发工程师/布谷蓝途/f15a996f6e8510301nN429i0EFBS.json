@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FH_baVTW8Ovlx-J1U9ELWmQdZ_ebKHosR4jiHPEcqTR78HDEQan09iYQziqZ1nYhZzzepB225sJecxJ3qfP3CGspLqPj9CB7-eYmPasdDXFkk7ysvqOBMPe8x66rEJ_KDZDPVSqCcXnb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f15a996f6e8510301nN429i0EFBS",
+      "encryptUserId": "c3274a50e4073aa31X172dW5GVA~",
+      "invalidStatus": false,
+      "jobName": "Hadoop开发工程师",
+      "position": 100108,
+      "positionName": "Hadoop",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责基于Hadoop体系的大数据基础平台的架构、需求分析与设计\n2、负责教育行业数据分析数据挖掘以及算法开发\n3、维护和升级现有软件产品，核心技术问题分析处理，快速定位并修复现有软件缺陷\n4、理解业务，指导业务产品使用大数据基础平台\n\n岗位要求：\n1、全日制本科及以上学历，计算机相关专业，一年以上开发工作经验\n2、熟悉Java，对多线程、高性能、高并发有一定了解\n3、熟练掌握sql开发能力\n4、熟悉mysql / Oracle / Sqlserver 等关系型数据库中的一种以上\n5、熟悉HDFS / Hive / Impala / Spark使用以及调优，熟悉其它大数据组件\n6、熟练使用Linux系统，熟悉Shell",
+      "encryptAddressId": "58c1d6e4f7cf4af41ndz3tu9GFA~",
+      "address": "杭州余杭区EFC LIVE欧美广场美国中心南楼2601",
+      "longitude": 120.001809,
+      "latitude": 30.280821,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2f93bed7372068b2ffd132b8ac56277",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e9f01cb3bd62fa8e7cb58770a709016",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "MySQL",
+        "HDFS",
+        "计算机相关专业",
+        "Spark",
+        "Flink",
+        "Yarn",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "大数据开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190506/4a7b59f7b2128df8a6b48035dc75aa794f9d5fc5228469da04f2bac3156_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "布谷蓝途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2a52eb53ca3381b1nd83NW1EFs~",
+      "brandName": "布谷蓝途",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210227/996d478248831954679b994b37bfeebc61dc649bda2a60dfe2bd8a141cf5d285_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "布谷蓝途面向教育行业，是国内前列的应用及数据服务提供商。结合大数据、云计算及新一代人工智能技术，立足于\n5G+互联网教育、物联网等新基建发展端口，通过“业务应用+数据治理+平台化服务”，盘活全量数据，促进教育质量和教学效果提升，构建更智能的教育行业新生态",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "定期团建"
+      ],
+      "activeTime": 1717044135979,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "布谷蓝途",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

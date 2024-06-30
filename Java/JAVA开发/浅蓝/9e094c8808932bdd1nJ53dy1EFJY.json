@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "g9tjNfIodMqCj-R13H5K84NopiF9qRUrANyF-cVhmZbNDSmg7thz72LS36XLi96TVnfjYnZXGhEFSHgGFUrCSTY5zNe5IRLZzWug6SWiYtpjasrvrW4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e094c8808932bdd1nJ53dy1EFJY",
+      "encryptUserId": "c972a3eba23da71d0HZ439S1FVE~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、大专以上学历, 2年以上java开发经验\n2、熟悉Java Web开发技术，对常用框架如SpringBoot、SpringCloud、MyBaits、BeetlSql有较多的项目使用经验。\n3、熟悉CSS、JavaScript、Jquery等前端开发技术，熟悉Bootstrap、vueJs、layui等前端框架。\n4、熟悉常用关系型数据库Oracle、Mysql、SqlServer, 并能够熟练使用sql以及相关优化，具备数据库系统的设计能力；\n5、熟悉常用Nosql如Cache、Redis、Memcached、Leveldb、mongoDb等非关系数据库中的一种，能够熟练配置及部署。\n6、熟悉WebSocket通讯及熟悉MQTT协议，具有quartz定时任务和Activiti工作流开发经验\n7、熟练使用Linux系统的常用命令及shell有一定了解；\n8、有良好、规范的编程习惯，善于学习，较强的分析、解决问题的能力\n9、善于团队协作，思路清晰，具备良好的沟通能力和理解能力，能够承担较大压力。\n10、有PHP经验者优先",
+      "encryptAddressId": "644bba79555625e41XJ93tu9FQ~~",
+      "address": "武汉江夏区光谷金融港B22栋6楼233",
+      "longitude": 114.428813,
+      "latitude": 30.456721,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4401458462bea18327b5f07972f10a9f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe0a5435d9af8b99aac1eb10d353b96d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Shell",
+        "PHP",
+        "Socket技术",
+        "Spring",
+        "SpringBoot",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "巴先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200915/31f42fead8f76c7bb96ae9349c5c587088afe62892afa62e3b2add48b79_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "浅蓝",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d01bb179ab2470531nN92Nq_GVQ~",
+      "brandName": "浅蓝",
+      "logo": "https://c-res.zhipin.com/jrs/4_e88aeba6d5f7ccd4fd6e947d7669184d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "浅蓝网络成立于2011年2月，现有开发人员接近50人，其他部门共计150人，公司业务涵盖：微信saas软件，定制开发项目，企业智能办公系统。业务多元化，市场覆盖广，体系完善。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1717103812428,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浅蓝",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

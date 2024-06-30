@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IGlOUeNCeCLcM-v13uUfGXoHzFQY6dsOkgSWRxdDxU2yb4s9jUH6zgQ6TVzm5hWCojTKdVKqwdvb-iXRonEBq0q5mA_-dFrTl5etVFb4-t6_kgpTdn39l3bZwPqxG4B2XfcCVci464A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e654283417e27f251Xx_09y8FFZQ",
+      "encryptUserId": "6229dd9d5f7478b303Z72d20FVQ~",
+      "invalidStatus": false,
+      "jobName": "初级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉Java主流框架（包括：Spring，Spring MVC, Spring Boot，MyBatis等）\n2、熟悉SQL主流数据库（包括：MySQL、Oracle等）\n3、熟悉开源主流中间件（包括：RabbitMQ、Redis等）；\n4、严格遵守团队的代码格式、结构的规定，编写易读、易维护、高质量、高效率的代码；\n5、有责任心和团队意识；",
+      "encryptAddressId": "6f25cd9181ec0a7f3nZ53dy_EVU~",
+      "address": "上海徐汇区创业中心大厦(桂平路)680号创业中心大厦33幢808室",
+      "longitude": 121.402953,
+      "latitude": 31.17361,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bf70f822b49b642ed3a5cde7dcb3ea93406bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfacb693214a00118e30ac054897e8383c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "兰女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "有启",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "878926bb7e11669f1HZ83N64GA~~",
+      "brandName": "有启",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190212/6e29f02c8854aadaf96c828cd756f596cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "有启（上海）信息科技有限公司，成立于2014年，是专业的物流信息化全面解决方案服务商。有启致力于帮助企业构建更敏捷、更高效、更智慧的数字化供应链网络，实现供应链全流程可视化。同时有启与国际领先的供应链方案提供商曼哈特（MA）合作，为国内企业提供国际化的最佳应用实践。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "通讯补贴"
+      ],
+      "activeTime": 1717046601512,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "有启",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

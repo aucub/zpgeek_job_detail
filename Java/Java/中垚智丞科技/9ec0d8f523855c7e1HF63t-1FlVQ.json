@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qBtvS3BCfbnD9-K1HnKKQ3roX2gs0-Dx7DUhQbRjsUjFIGvlET1fK6mWKs_w233k-fXP3ukJAGyZX0HoQTo01H-7oD-dC7j028S0QDEeGLk8t7s7kV3r",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ec0d8f523855c7e1HF63t-1FlVQ",
+      "encryptUserId": "844dfe0aef094d440XB62t--F1FT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与业务部门需求讨论和分析。\n2、负责撰写所属模块的设计和开发文档。\n3、负责所属模块的功能及接口开发，测试等。\n4、功能及接口升级维护。\n5、BUG修复。\n6、完成上级交办的临时性工作。\n\n\n任职要求\n1、大专及以上学历、至少1年JAVA开发 经验，扎实的JAVA基础，良好的编程习惯；\n2、熟悉 Java设计模式，熟悉流行开源框架SpringBoot，SpringCloud，Mybatis等；\n3、熟悉MYSQL数据库开发、 熟悉大数据量应用的开发部署；\n4、熟悉Tomcat 或Apache\\Nginx等服务器环境 的开发配置， 了解linux操作平台下各种应用 的部署；\n5、精通MAVEN、SVN、Git、Junit等辅助 开发测试工 具；\n6、具有移动端应用、微服务开发经验者优先；\n7、有nodejs、vue/vue3、typescript 相关开发经验优先",
+      "encryptAddressId": "f8b0ab566a2369e30HF429q6GFBYxYm2Uf4~",
+      "address": "北京东城区方家胡同46号C座3层",
+      "longitude": 116.412136,
+      "latitude": 39.943692,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230911/48ba41acc9cef1bf30f961cd0bb71c9fa4dd72eac77f055c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231127/48ba41acc9cef1bf3f3aef54e29e821e3399e6398dc7cd346bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "侯女士",
+      "title": "人力",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "中垚智丞科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b9b59fe4985bbf451Hd43N2-Elo~",
+      "brandName": "中垚智丞科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717149137000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中垚智丞科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

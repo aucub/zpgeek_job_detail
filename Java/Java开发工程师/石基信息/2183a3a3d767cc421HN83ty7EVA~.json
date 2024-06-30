@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B9udYywAZ6etJ-Y1JVYKQnBfIBzthhhUk0IlpQ-_SxtumyTujxy_AIlbbf_rBhMk0NnftWFQrQUIjALzsuPQ1yXIQgmLbz61zGoR-f2vb8Ghl04~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2183a3a3d767cc421HN83ty7EVA~",
+      "encryptUserId": "e23eb658c091c9e40nx_2du6F1o~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1 JAVA基础扎实\r\n2 有ssh，ssm，spring boot开发经验\r\n3 熟悉并掌握RESTFUL API，SOAP的开发设计\r\n4 熟练使用Eclipse，Subversion，Maven等开发工具\r\n5 熟练使用SQL Server，Oracle，PostgreSQL等关系型数据库，有良好的数据库设计能力和sql编写能力\r\n6 了解常用的缓存技术，如redis/memcached等\r\n7 掌握常用消息队列，如kafka、rabbitMQ、activeMQ等\r\n8 掌握html、javascript、css、xml等web前端开发技术\r\n9 了解tomcat、nginx等应用服务器和Web服务器优先\r\n10 熟悉数据湖和数据仓库建设如Delta Lake，Clickhouse，Greenplum优先；有大数据项目开发经验，熟悉spark、hive、hbase等开源框架优先；做过流式处理的优先；\r\n11 具有3年以上中等规模项目或产品开发经验者优先\r\n12 了解酒店行业相关业务背景者优先\r\n13 具备良好的表达和沟通能力、具备团队合作精神，学习能力较强，有一定的抗压能力，有责任心和独立分析能力\r\n14 有年终奖",
+      "encryptAddressId": "8a4c8f5d5f90ab2b1nV62t68FlQ~",
+      "address": "长沙湖南省长沙市岳麓区长沙芯城科技园3栋10楼",
+      "longitude": 112.874894,
+      "latitude": 28.229497,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a60ea796d508bf69ca614fcadc2401e5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2381c053cfb6b0ad18cdd24a3c8176d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "高级系统分析师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "石基信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73d703d2900973001H180tS4",
+      "brandName": "石基信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180701/eb6d8a2de62013e8ab1151efe92ddb39cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京中长石基信息技术股份有限公司（ “石基信息” ）成立于1998年，目前石基集团在全球范围内拥有超过5000名员工，80+子公司和品牌，服务于超过9万家酒店，20万家餐饮和60万家零售企业，是一家数据驱动的大消费行业应用平台运营商。公司为酒店、餐饮、零售和休闲娱乐行业提供软件解决方案和服务，涵盖一系列的酒店管理解决方案，餐饮和零售解决方案，支付解决方案，数据管理，分销解决方案等。\n石基致力于构建一个云技术服务平台，在不同业态之间建立横向和纵向的联系，实现数据的流动和交换，我们的目的是基于该平台，让系统间的充分集成简单易行、安全高效，从而让我们的用户能够聚焦为其终端客户提供更好的服务，不断增强竞争力。\n\n石基官网：http://www.shijigroup.com \n股票代码：002153",
+      "labels": [
+        "通讯补贴",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717105724791,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "石基信息",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

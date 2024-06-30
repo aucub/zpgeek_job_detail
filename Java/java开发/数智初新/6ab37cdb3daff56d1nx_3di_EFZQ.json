@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WGHbdWV1pdzeW-b1E-HvAsNasPQcsQxfbk-jsp3ORo-40Fu6TyTItQXsyPmYYd3lCOizWS2kuGqUm0FBcPQG-ZfsukoWGuMcXj04Pm1kNRlV57ot1yek",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ab37cdb3daff56d1nx_3di_EFZQ",
+      "encryptUserId": "05fcd266c2367a9b1nRy3tq4FFJQ",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科以上学历，工作能力优秀者可适当降低；\n2、精通Java语言、熟悉主流开源应用框架，协同开发，如SpringMVC3、SSH、SSM等；\n3、熟练掌握主流的数据库及数据库编程语言，例如：Oracle或SqlServer；\n4、熟悉Tomcat的配置和管理；\n5、熟悉web前端技术（HTML、Javascipt、CSS、JQuery、Ajax等）；\n6、良好的代码、技术文档编写规范习惯，拥有良好的逻辑思维能力。",
+      "encryptAddressId": "4e226d21535000f71n190tW5GFY~",
+      "address": "北京朝阳区艾维克大厦A211",
+      "longitude": 116.462741,
+      "latitude": 39.905045,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f15c8b052a9f26b6f3428ff5c67221f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/284790b6e680cf1584e1c19afb6e74f4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "MVC开发",
+        "Spring",
+        "SSM",
+        "SSH",
+        "Oracle",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210607/c03337c23c4e9d6e72a54b32e84a149d72dd82c5093d03cd8a898c44799_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数智初新",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dee23dbab71217871nF-3tq1F1E~",
+      "brandName": "数智初新",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070220804,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数智初新",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

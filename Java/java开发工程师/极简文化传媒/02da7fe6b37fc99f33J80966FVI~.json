@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "joUK1iSZhU80W-d1xYfGcIOkeVLXRwKzPqDe3dIggQGTxwMObnomyYdHd-a4Z1qRzItyDwAFpGXiwui87JWKETTJ8IZ-VEsSceFJMRACQFTqCrgd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "02da7fe6b37fc99f33J80966FVI~",
+      "encryptUserId": "9277d69081a99c251X193dq0FVI~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位：Java开发工程师\n职位描述：\n1、负责网站后端开发、测试及发布工作；\n2、参与项目功能详细设计、工作规划及实施。\n3、参与系统稳定性、性能和扩展性调试。\n \n任职条件：\n1、熟悉Java编程语言；\n2、熟悉Web编程技术（Html5、Css、JavaScript、Jsp、Vue）；\n3、熟悉Spring 框架；\n4、掌握MySql、MsSql、Oracle等数据库的基本用法；\n5、掌握Tomcat、Jboss、Weblogic、Docker等服务器中间件的基本用法；\n6、有分布式、多线程等架构相关开发经验；\n7、能独立完成模块设计、编码、单元测试和相关技术文档编写工作；\n8、有良好的表达、交流和沟通能力，有团队合作意识，有较强的学习能力，积极进取、踏实肯干、富有责任心。",
+      "encryptAddressId": "5e5f47350ed862d11nV90tm0GFM~",
+      "address": "北京东城区中国航空工业集团公司(交道口南大街)中航环球文化传播（北京）有限公司",
+      "longitude": 116.408391,
+      "latitude": 39.936808,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36af29cae363248b2c14fe7b0439f261",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e4fe070787298f54de096ca221bc3379",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "容器技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180113/6ec87e0ebb1dbf51ae12953486a087cab9ea335aab390e2adab17418b2f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "极简文化传媒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d82bdeae2acc928b1XV92NS1EQ~~",
+      "brandName": "极简文化传媒",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181009/ca1e8ad48174190dfa4158d5ea10ab07cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100103,
+      "industryName": "广播/影视",
+      "introduce": "哈尔滨极简文化传媒有限公司，是一家提供定制企业IP文旅、\n动画制作、影视后期、密室、场景还原、虚拟交互等新型文旅科技项目的专业化服务公司。其中影像制作业务包括企业及产品宣传片、形象片、专题片、培训片、活动、会议，二维三维动画等影像制作，应用技术包括影像拍摄、原创动画、VR技术、航拍等，目前业务范围已覆盖北京、深圳、上海、杭州等省市。极简正在快速壮大，奈何求贤若渴，这里为大家提供了足够的创意与发挥的空间，同时为员工提供优越的办公环境及福利待遇，让优质的人才与资源投入到更优质的项目中去，用专业的水平突破业务的地域局限，我们始终相信创新引领发展、专业决定高度，态度造就未来。",
+      "labels": [
+        "全勤奖",
+        "餐补",
+        "节日福利",
+        "五险"
+      ],
+      "activeTime": 1717070264827,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "极简文化传媒",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

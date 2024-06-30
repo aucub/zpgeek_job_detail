@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2UekqqpQdMdYr-31r_ZvWiiuuj4wD_kbsQkCuzSV1SzwiQU7GNdm-SEhuUDonr-BfEHagFab0Om5_yjugQyzFK0dHl0K9SVN3_MI_9FucG_5uVUU7xwBd0VDoBiFix2Nth3LFoJEOgJ4",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4e0689ec6245c5ae1Hd80t25FlNX",
+      "encryptUserId": "34078dcae4f032e50nd439-1FFRR",
+      "invalidStatus": false,
+      "jobName": "Ai开发工程师（初级）",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作说明\n1. 参与生成式AI相关工作中提示语、RAG工程的开发、调优。\n2. 参与RAG类项目中的embedding、re-rank、index、search环节的相关开发。\n3. 参与相关AI选型、组件选型等设计调研工作。\n4. 日常工作中至少会用到两门不同的开发语言至多会用到三门不同的开发语言。譬如说：Java + Vue js或者是Java +微信的生态（微信小程序或者是基于微信的H5+微信SDK）或者是Java + Android的开发，或者是Java + Python3.\n工作要求\n1. 全日制本科计算机科学专业毕业，工作时间在1年内。在校成绩中面向对象编程、高等数学、英语、计算机原理、数据库原理、计算机网络（TCP、Internet）、数模电路分数平均分在75分或以上（100分制），面试时需要展示近1年成绩单。\n2. 国家4级英语。\n3. 具备良好的计算机科学原理科学知识、数据结构算法、英语科技类文档阅读能力即动手能力。\n4. 具备良好的逻辑思维能力、高压心里承受能力和语言表达能力。\n5. 全栈式开发工程师（不受开发语言限制）的真正计算机科学爱好者。\n6. 如果你是技术控、技术热爱者并希望紧跟AI大模型最前沿潮流者，那么欢迎加入。",
+      "encryptAddressId": "efc9cad05a8ef7eb0nB80tS5FFdUx4u5V_w~",
+      "address": "上海徐汇区芒果广场A栋3楼302",
+      "longitude": 121.463287,
+      "latitude": 31.160962,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bfcafdda00e062a9d9469ddf4d2d680e856bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230802/48ba41acc9cef1bf939c0b7566495348d6f6a6121b02d9e46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Vue",
+        "Java",
+        "Python",
+        "计算机相关专业",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240223/607f1f3d68754fd026ea07dfebf54c5644e9f292c2591382cc02b70ee95f5f3c5ef9c2e1d5a2dea_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "大启科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8641ef9e38d55a4d33N93tS7Eg~~",
+      "brandName": "大启科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200610/468eb5eaba1646c1358c078057ddc070cb85917edbe21c9a668d93bf716eefb3_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "大启科技（Datsch Technology）作为企业数字化转型咨询及服务供应商，立足于新兴的云原生技术平台，提供敏捷、DevOps的IT咨询与外包服务。主要服务领域包括新零售、金融、汽车等。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717046672135,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大启科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

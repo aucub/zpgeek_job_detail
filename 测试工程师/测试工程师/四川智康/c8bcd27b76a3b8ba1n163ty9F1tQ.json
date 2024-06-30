@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VyPJxWjIde5ZL-c15a1MrD0j9E2qg_hGNTLPD2yzrKoybnJtooe1oPkRk3EtzlxNjOAGPClN9Ov8YBJ7MnImsW91hl2a8zfDBg1KQHBEbUaKh4_2Sw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c8bcd27b76a3b8ba1n163ty9F1tQ",
+      "encryptUserId": "ff04c3095508eaca0nZ83Ni7EFY~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1、参与测试全过程，包括参与需求分析、设计评审，制定测试计划，设计和执行测试用例，进行缺陷跟踪和软件质量分析等。\n2、对bug有很强的跟踪意识，能够深入到代码层面了解bug产生原理并对开发规范提出建议。\n3、深入理解系统内部工作原理，能根据架构变化调整整体的测试策略设计并输出方案。\n\n岗位要求：硬性要求：必须要有医疗行业经验\n1、有丰富的web / 移动端测试经验。\n2、具备很强的沟通能力，不仅是推进开发的bug fix，还能推进产品、设计的需求原型修改。\n3、熟悉Python编程语言，能够通过工具或编码的形式提升工作效率及测试质量。\n4、熟悉缺陷管理原则及流程，能够胜任敏捷迭代模式下的质量管理工作。\n5、熟悉Linux、数据库（MongoDB，MySQL）、Http协议等知识。\n6、熟练使用常用工具，如：Fiddler、Charles、Postman、JMeter、Git、xshell等。\n7、对测试有浓厚兴趣，有较好的自学能力，会主动学习探索性能测试、安全测试及相关知识。\n8、具备很强的适应能力、抗压能力及团队协作能力，能够快速融入团队，并承担高标准的测试任务。\n9、独立思考，自我驱动，有非常强的责任心。",
+      "encryptAddressId": "6663ece5dc0c16661nR62Ni5EFs~",
+      "address": "成都武侯区高发大厦B幢502室",
+      "longitude": 104.041598,
+      "latitude": 30.620564,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a72020d67238fa8700fee8307a80dc51",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7b9d2a7062394c47f1f25b847c0905a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "移动端测试",
+        "安全测试",
+        "Python",
+        "Jmeter",
+        "Postman",
+        "Charles",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210309/ee7178b83314a5b878405538e0a4908037c389077debd8d2df1d367ecae_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "四川智康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f8b286987089d4931nR93ti1Fg~~",
+      "brandName": "四川智康",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191212/893ac9d32d398928ec8ed6419da298b2128fe2521373d48e4569b785ce6148ea_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "医疗软件开发公司，一个获得国家高新技术企业称号的小微创业企业，踩着“互联网+医疗”的热点，努力争取在大健康和大数据中求大发展。",
+      "labels": [
+        "五险一金",
+        "交通补助",
+        "包吃"
+      ],
+      "activeTime": 1717108760679,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川智康",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

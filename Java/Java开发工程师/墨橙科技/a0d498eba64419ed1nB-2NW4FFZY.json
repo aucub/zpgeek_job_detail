@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Zo0r7pmugmlgm-q1YwVBmsN_8N5dk1kZOBI8yKGXuCaL5dHFsL8edSY0CvFYnYeo3sOYH8gE1QamU5x44KlDOlnhlHrSkBKgjocTQU99iDMY7g0WIbU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a0d498eba64419ed1nB-2NW4FFZY",
+      "encryptUserId": "2493c59f2b25b3720nZ609q7FlM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与相关的项目或需求开发，根据项目要求承担相应的开发任务，并按计划完成任务目标；\n2、参与项目过程中的接口设计与讨论，完成接口文档编写及接口开发任务；\n3、协助测试人员完成软件系统及模块的测试，并在时间要求内完成负责范围内bug修复；\n4、根据业务需求或技术发展要求，对负责的模块进行优化；\n\n能力要求：\n1、掌握JAVA语言，熟练使用servlet、JDBC、多线程、网络、IO等技术，熟悉常见算法及数据结构，有良好的编码习惯；\n2、熟悉面向对象设计及常用设计模式，具备一定uml基础；\n3、熟悉Linux/Unix系统，熟悉mysql数据库，SQL功底扎实，有一定SQL优化意识；\n4、熟练掌握JavaSE、JaveEE基本知识，了解文件操作、并发、多线程、事务等高级特性；\n5、熟悉常见企业级开发技术，如SpringBoot、junit、redis、zookeeper、dubbo、json、MQ等；\n6、熟练掌握Ajax技术，熟悉JSON、JSONP相关基础知识，有一定HTML/CSS/JavaScript基础；\n7、良好的需求分析、系统设计、代码编写及技术文档编写能力",
+      "encryptAddressId": "bcec2be34113fa7103d729q_EFI~",
+      "address": "南京江宁区麒麟人工智能产业园4号楼",
+      "longitude": 118.923074,
+      "latitude": 32.027597,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06932d4cb5851119f2b240910aa17850",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fd9ebc8ba9fa161ddb5a9b1d83fbb9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Oracle",
+        "SSH",
+        "后端开发",
+        "Linux",
+        "高级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "墨橙科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "975911a19d9df0a81nF40t28F1E~",
+      "brandName": "墨橙科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717068151134,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "墨橙科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

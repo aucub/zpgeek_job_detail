@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zmzU60zKpqwCL-s1F59zrCsAhTFKPRTd8bP1z_vapgucoiNTe2wWT6R3PQvDScvxKL0kxQ6gRHFF8tkDvHkfVPYrMy_nQcP00ZuOv_7HD6GrEYk8m7Xoh68-6wxxKGA0VhBRL3LpHLiwVw0iMUkIjdY3qTCeoQp81iVEZ_nK5yCQl6OK9A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2c0a10abf77d468a1HJ_3dq0GVJQ",
+      "encryptUserId": "d671b40facd8d3c80nV92tW9EVpT",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用Java语言，对JVM运行原理有深入的理解。熟悉Python或基它一种或多种编程语言优先。\n2、熟悉SpringBoot、SpringCloud等框架和相关技术生态，有微服务项目开发经验\n3、熟悉MySQL数据库，掌握数据库的基本操作和SQL优化等，能熟练使用MyBatis或其它类似框架。\n4、熟练掌握Redis或其它非关系型数据库框架，有系统优化经验优先。\n5、计算机或相关专业本科毕业，3年及以上工作经验\n6、对计算机基本原理、操作系统，Nginx配置有一定的了解。 熟练使用接口调试工具、代码管理、系统集成相关工具；有物联网对接开发经验、熟悉MQTT等相关协议优先",
+      "encryptAddressId": "4b2b889e0b0cded83n1z2t-9GFA~",
+      "address": "杭州滨江区元巢科创园1",
+      "longitude": 120.177231,
+      "latitude": 30.186612,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb1d2b489108d7d98bef192b32b81642",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a6a1be98cc17bd503a1ace1cc60488c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231113/607f1f3d68754fd09039ade33af49bb6acd39ffe71ec7646fe7003d9e6a786ae38716bb5df85033_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海瀚若轩公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "878a2f8f0554a10e1XN92di9EVM~",
+      "brandName": "上海瀚若轩公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1718951715821,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瀚若轩公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

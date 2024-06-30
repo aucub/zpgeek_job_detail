@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uVIbNVCmCvNQW-V1lCkntBd4Earnkd3D9fnl5XaBCRppB1U0Q31BlwRwHW9pFgq2t73jXXdpK2ROqPQ8_UU18Ezxkb7xdwH26rbQ6Ww5TobIpI1kcjqldJc-iVJtp3j6SQVo4PpAhEUe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6d3b6411538fc65d1XV-2tS7E1NV",
+      "encryptUserId": "315237753eb782320nx62NW_F1M~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据产品项目需求，完成需求分析和设计，代码实现和测试交付，保质保量按时完成开发任务；\n2、能够编写项目的设计文档及相关文档；\n3、维护优化现有系统及日常故障处理；\n4、完成直接上级交办的其他工作任务。\n\n任职要求：\n1、计算机或相关专业专科以上学历，从事软件研发工作经验2年以上；\n2、具有Spring MVC、Spring Framework、Struts、mybatis等框架开发经验；\n3、熟悉Web页面开发，能开发微信小程序；\n4、熟悉Tomcat等主流J2EE应用服务,能在Linux上布署服务；\n5、熟悉MySql等数据库，熟悉关系数据库应用设计开发及优化；\n6、熟悉了解Memcache、Redis等缓存的特性，熟悉FastDFS等分布式文件系统，具有相关实际项目经验者更佳；\n7、具有良好的技术文档习惯，具有规范化、标准化的代码编写习惯；\n8、具有较强的敬业精神，对工作认真、细致、负责；积极主动；具备较好的语言表达和沟通能力，较强的逻辑思维能力和团队合作精神，并能在一定压力下完成工作。",
+      "encryptAddressId": "35cf560b624bb5310nV4096_E1s~",
+      "address": "广州天河区粤港澳大湾区(广东)创新创业孵化基地B栋B406",
+      "longitude": 113.419311,
+      "latitude": 23.178575,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b14ae818218f10fcc0236699b5a9a322",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/496fc6e71920284188f85f9978f3a27b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "微服务架构",
+        "SpringCloud",
+        "WEB开发",
+        "服务器端开发",
+        "服务器配置",
+        "MySQL",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "业务经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220228/607f1f3d68754fd0190a459cbeeb70244d2851985210949535f37b9058177c9a7821bfec72f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "My Platform",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "822e1ddd883a2dc61XR829-1Elo~",
+      "brandName": "My Platform",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220302/7b5b554d84f9729ccbd2205ed5c2e3464909512555772ee735f37b9058177c9a7821bfec72faad5f.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "带你进入医疗科技生态的新时代",
+      "labels": [],
+      "activeTime": 1716752922381,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "My Platform",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tOvKxHtkVTJ0Q-B10NwOP15yNVG0Cz5JjOmSdxU7D6B51cZGZLG-UilJE7xy6r64k1dysDAYP0U-JMZSqGO_91Ls6EZUObn9jdxYdDj25qMNsnEYz0VvkNlr8mH5_JiJ2Wf5YKhUZ8X3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "32de02556ac891431HVy09u9ElZW",
+      "encryptUserId": "a7835fbea7d809ec0Xdy39-8EVo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "技术栈： Spring boot， MQ， Redis， Mysql，uni-app，Vue， 本科岗位职责：1、参与相关业务需求评审，需求迭代开发；2、根据开发规范编写接口文档，并进行单元测试；3、有技术中长期的规划能力，有产品意识，能从技术侧输出观点，并关注产品效果；4、技术全面，对技术有热情，在某个技术领域有自己的见解，关注技术发展方向。任职要求：1、本科以上学历，2年以上工作经验；2、熟悉Spring boot，Spring Cloud, MyBatis, OAuth，缓存，分布式微服务架构；3、熟悉 JVM 指令，可以快速定为系统故障，排除故障；4 具有一定的建模能力，能够设计复杂业务，完成相关业务平台组件沉淀；5、精通 Mysql， 能主导数据库优化工作；6、有扎实的Java开发基础，对Java代码优化，JVM 性能调优能熟练操作；7、熟练常用的开源框架, 如: Spring、Reids、Mybatis等；8、具备良好的沟通表达能力，较强的责任心和团队意识；9、工作主动，可以承受一定的压力。必备项：1、有小程序开发经验者；2 、有前端开发经验者；",
+      "encryptAddressId": "547ebd603260e9fa1nd52dS4FVJQ",
+      "address": "北京大兴区绿地缤纷城101",
+      "longitude": 116.33415,
+      "latitude": 39.764158,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f345b92daa65f7f42bdb6f2c6a14cd9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a069a865d81952602ce50485054acf04",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "vue",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "穆先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北京小羊驼科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b19e13aa4c635ef31X143Nu8EVo~",
+      "brandName": "北京小羊驼科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "绩效奖金",
+        "保底工资",
+        "底薪加提成"
+      ],
+      "activeTime": 1719665812326,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京小羊驼科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

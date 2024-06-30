@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_mVBPSVSCmzVj-B1eVrORpq_QQTv4Gjb6MmFFaduJWXC63SdPN5HAQZt8n23OxkbSonkXvfqQE88sg9lIgAA0Anan6PfwWK_ADm-O-psASGtbkAW8w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dfe60cbc97ce3bfc1HZ50tm0FFNY",
+      "encryptUserId": "bf6459c6b90c8b180n152du4F1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与需求分析；\n2、进行软件、系统的概要设计和详细设计； \n3、负责核心功能的开发、单元测试等，保证代码质量；\n4、根据公司文档规范编写相应的技术文档；\n\n岗位要求：\t\n1、计算机相关专业本科以上学历， 2年以上专职软件开发经验\n2、精通JAVA语言，有良好的面向对象设计能力，熟悉常用设计模式和主流设计工具；\n3、深入理解并能熟练使用IBatis, Spring Boot, Spring Cloud等开源框架；\n4、熟悉Redis、MongoDB、HBase、Kafka等开源中间件；\n5、熟悉MySQL数据库，并由一定的sql优化能力；\n6、良好的编程习惯和文档习惯，追求代码质量，有较强的的学习能力；\n7、踏实有责任心，有良好的沟通能力和团队协作精神。\n8、有运营商项目经验优先。",
+      "encryptAddressId": "134bcc832cd0bef81nd-09W4F1NS",
+      "address": "长沙芙蓉区万家丽万家丽国际广场15楼1510室",
+      "longitude": 113.033921,
+      "latitude": 28.189094,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230505/48ba41acc9cef1bf84313ae3bd7df2fda957122c0e77092a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8ce950d592f0d581fbc52d8cb77e02a96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201230/c3c841916a965c2d1f8874c0a185217f8f01b91c13769d8af5d295306bc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "普坤科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "92c2386764af74981XB_3dW5Eg~~",
+      "brandName": "普坤科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190218/fa61cf93c786764a4bb806aa9b6941d702ccdb9a45bec3e20b8183f4d1e08e2e.png",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "普坤科技是业内领先OSS软件平台提供商，致力于实现通信网与互联网的跨界整合价值的高科技互联网公司，致力于向国内外客户提供业界领先的OSS产品和互联网与通信网的跨界整合方案，提供卓越、价值服务，公司总部位于上海市张江盛大天地源创谷。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717105703945,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "普坤科技",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

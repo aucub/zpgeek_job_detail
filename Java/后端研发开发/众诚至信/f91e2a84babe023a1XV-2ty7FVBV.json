@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7hSBw1joLL8sM-l1eAsTfMtTnwFdFey5fzUZR2qbZGVY3zrfwWLfzSDg15-WNLgaTdlVYER2DRs8GcPbGDe2-saUVFh6kFpPNko8zzd-4NYhUoyDEw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f91e2a84babe023a1XV-2ty7FVBV",
+      "encryptUserId": "432a3c21a87587fd03B-2tm5F1A~",
+      "invalidStatus": false,
+      "jobName": "后端研发开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1,精通Java EE技术体系，熟悉Spring （Cloud、 Boot、MVC）/MyBatis等常见的开发框架，有架构升级到微服务的开发经验者优先。 \n2,具备Spring Cloud一年以上的研发工作经验。 \n3,熟悉常用设计模式，熟悉高并发、高负载、高可用性系统设计开发及调优 \n4,熟悉数据库设计和优化，了解常用的数据库如Oracle、MySQL；有NoSQL 数据库使用经验者优先。 \n5,熟悉分布式系统的设计和应用，熟悉分布式缓存(Redis)、消息(Kafka)、搜索引擎(ElasticSearch）等机制和实现\n6，熟悉VUE前端\n7, 制造行业设备管理、资产管理相关系统熟悉优先\n8,接受短期出差，服从公司工作安排，工作经验年限不包含实习期\n9,沟通能力强，稳定性高择优考量",
+      "encryptAddressId": "38adcb5d5f0bada93nZ70ty1EA~~",
+      "address": "北京通州区绿地中央广场(通州)绿地一期604",
+      "longitude": 116.65773,
+      "latitude": 39.915542,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81a8b2fcfa0211fff6c2a49f522c1897",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/914605a199c1a52b1b6338742fe633fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "众诚至信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f5e69fc37dc63a411XF529u4GA~~",
+      "brandName": "众诚至信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "通讯行业，运营商业务",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1719197487548,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众诚至信",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

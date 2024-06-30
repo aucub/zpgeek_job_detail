@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "et41EMr1N73UM-W1Cb0Mcb_iZpyEbR5ROrvftL6G6ushLqlpbWAxEA1kW9v1JfA8l42Vq-Ny--FvM9RaYqJNqKW8G4QkIrNex0gRu01zQfBtuDerBBXQ775b2ONd_FT5fcZ3VQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e0f53a681873704d1nx53tW0ElE~",
+      "encryptUserId": "2a8a1199792b85261nJ_3Ny5",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉Java语言，掌握Spring，iBatis/MyBatis等开源框架和工具，具有一定的业务系统研发经验\r\n2、 熟悉Spring boot进行微服务业务和前端页面开发\r\n3、熟练掌握MySQL、Oracle等数据库系统的设计和优化技术\r\n4、熟悉Tomcat、Jetty等主流应用服务器 \r\n5、具有医疗健康行业经验者优先",
+      "encryptAddressId": "67e641f8bac6cf7e1Xd92NW-GFc~",
+      "address": "杭州西湖区中国智谷西湖园区",
+      "longitude": 120.065379,
+      "latitude": 30.309571,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb52aecab820ef741a0fb4264ea1ad52",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7ef649a1f7d9e15690518a195229098",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "行政人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240506/607f1f3d68754fd026026c99d9f71cd8ae2ba7d177efb83b25a9421c4fb7b83e78f43254a79b6b1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "银江云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aacf99858491cc8403Bz09u0",
+      "brandName": "银江云计算",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200618/b83cc898e359bfcab0262d45a4830ec1428cca2b2a6afe8a6046cf1d4564dc06_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "浙江银江云计算技术有限公司，创立于2005年，系银江股份旗下医疗卫生行业的参股子公司，是智慧城市发展战略的重要组成部分。多年以来，潜心致力于云计算应用领域的产品研发、系统建设和运营服务。\n    \n    公司定位“基于云计算的行业智慧应用解决方案提供商”，专注于云计算应用、智慧应用的创新模式，用一流的技术成为国内最具影响力的智慧应用解决方案提供商。我们拥有一支业务精湛、充满活力的专业化团队，核心成员都具有十年以上的行业经验。具备30多项自主知识产权的产品，非常注重技术研发和产品创新，公司研究院还拥有国家级企业技术中心、国家级博士后工作站等高水准平台，并依托其作为技术支撑，规划产品与AI人工智能技术进行结合。近年来，公司打造由医院、区县到城市级的全链条服务体系，采取“两手抓”的市场战略，逐步建立全国渠道营销网络，业务涵盖西北、东北、华东等多个领域的同时重点深耕长三角地区。\n    \n    公司依托智慧医院、公共卫生、全民健康、应急指挥、院感防控等产品线，为客户提供全方位的医疗、健康一体化解决方案。在未来发展道路上，将以更先进的技术、更全面的解决方案和更优质高效的服务，不断为客户创造新的价值，互利共赢。\n\n    公司地址：浙江省杭州市西湖区西园八路2号银江软件园D座",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1718673092000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "银江云计算",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

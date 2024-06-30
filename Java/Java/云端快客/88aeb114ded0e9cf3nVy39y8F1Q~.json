@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X2B44QxCbouUc-u1WIcv2m3AsWH5f5NCMB9Uyk9fULBxBHVScYQxMB2pV6dxhfNA1WXhBF-VireqITJg_rMo8O5WkpJqZCGL9oczUCiQ4vF5Pq_lEQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88aeb114ded0e9cf3nVy39y8F1Q~",
+      "encryptUserId": "a60d53eea8c940dd03x-3dW1Elo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.java基础扎实，熟练掌握io、多线程、集合等基础框架，并能熟练运用、熟悉JVM原理，包括内存模型、类加载机制以及性能优化等；\n2.精通spring、Spring MVC、MyBatis、SpringBoot等框架，理解其运行机制，并能熟练运用；\n3.精通MySQL，有较强的数据库分析和设计能力，对数据库性能优化有深入了解；\n4.具有良好的面向对象设计思想，熟悉面向对象设计原则，掌握常见设计模式及应用场景；\n5.熟悉分布式、缓存、消息、搜索等技术及运行机制，Dubbo、MQ、Redis等；\n6.技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作；\n7.有一定到linux基础，熟悉常用软件的部署环境；",
+      "encryptAddressId": "de07c347f16fcc531nBy2dq0FlE~",
+      "address": "贵阳云岩区未来方舟F1博学郡3栋2501",
+      "longitude": 106.753447,
+      "latitude": 26.602291,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6af2ba9501e259626bbe44e29e8d119",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ffff7cd5e02d25b2f88f5efac4209b68",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Dubbo",
+        "分布式技术",
+        "MVC开发",
+        "MySQL",
+        "Redis",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190325/6d3444799f08b1dfe62077190703c97c115593db8b5ee940048ecb46499_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云端快客",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "16cfbfd70eeba9ab1nRz39W6FFo~",
+      "brandName": "云端快客",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖"
+      ],
+      "activeTime": 1717050983776,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云端快客",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

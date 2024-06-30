@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JrASlXXqpgw3Z-L1CGEp6t5TSbuzEZqEau8vAtmqia7d1hn9GzcXLeHF422GgkFvsfhfMIFek9okhRS2vnQNQKuIJpsw5MZCDWNYCmMK_YNVwmcqyss~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f3a5c1b50e16fa831HB50965FlVU",
+      "encryptUserId": "4cf357f71486351e0n1z2ti0GFtZ",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "- 参与公司Web产品的前后端开发工作，能够独立完成模块设计、编码和单元测试。\n- 使用主流前端框架（如React.js, Vue.js等）进行页面开发，并确保良好的用户体验和性能优化。\n- 熟练掌握Java后端开发技术,并能基于相关框架Spring Boot、Spring Cloud构建RESTful API。\n- 熟悉MySQL/NoSQL数据库的设计、管理和优化，能够编写高效且可维护的SQL查询。\n- 遵循良好的编程规范，编写高质量、易于维护的代码，并协助进行代码审查。\n- 积极参与团队内的技术分享与交流，具备良好的沟通能力和团队协作精神。\n任职资格：\n- 至少熟悉一种主流前端框架，有实际项目开发经验。\n- 至少熟悉一种后端开发语言，并具有一定的后端应用开发经验。\n- 熟悉HTTP协议原理，了解前端与后端交互流程。\n- 对Web安全有基本的认知，了解常见的安全问题和防范措施。\n- 熟悉Git等版本控制工具\n- 具备快速学习新技术的能力，对全栈技术有浓厚的兴趣和热情。\n- 有解决复杂问题和排查线上故障的经验者优先。",
+      "encryptAddressId": "4fad1250bc9829391nR63968GFtW",
+      "address": "无锡锡山区红豆财富广场1",
+      "longitude": 120.45904,
+      "latitude": 31.593424,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f9336d94ec62bbcc8b85981c14aaf92",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3566fd1221ae7f8955f572138ec3e3d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重",
+        "Vue",
+        "React",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd00a0646761c2f37944f6dfc2719bc606ef0892391fc5e993043bd2c3356d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "云网天下",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ac532be9b5c2cee1nJ62d-_GQ~~",
+      "brandName": "云网天下",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1716714556735,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云网天下",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

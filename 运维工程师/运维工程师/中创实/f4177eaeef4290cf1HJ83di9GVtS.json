@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WxiiDARoWyvhz--1sHn_xoO6FjDN69uzlmJX5rIm36EjLtEzmOz_4CnnZqDgrJImaANXtpgSVWTfvqHoeLEGzv2Hczgk2IbbRYCOV5HEjnAloYSLdzZxZszL8h9Ex6ElZd3yd1Y1pq3c",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4177eaeef4290cf1HJ83di9GVtS",
+      "encryptUserId": "56f93d4e32f4f2601XR839W_Fls~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1.本科学历以上，工作经验3年以上，计算机相关专业毕业；\n2.熟练掌握k8s、docker相关技术；\n3.熟练掌握nginx、openresty、lvs等负载均衡技术；\n4.熟练掌握zabbix、promethus等监控及自动化配置工具；\n5.熟练掌握mysql、doris、mongodb、redis、kafka、zookeeper等主流数据库及中间的高用性架构部署、性能调优及日常运维；\n6.熟练掌握Shell/Python等至少一门编程语言。\n7.掌握网络交换机路由器的调试设置.对网络架构有一定了解。\n8.掌握maven等私有仓库搭建与维护。\n岗位职责：\n1.负责业务系统的部署、发布、监控、日常运行维护工作；\n2.负责日常运维，服务器容量规划，精通云服务器运维工作；\n3.推进自动化运维平台的搭建和实施, 提升运维效率；\n4.熟悉openstack 等私有云产品日常维护。",
+      "encryptAddressId": "f456e91c7a5d2cbb0ndz3tq7GVdQxI64WPo~",
+      "address": "北京朝阳区中冶霄云中心B座25层2505",
+      "longitude": 116.464033,
+      "latitude": 39.959937,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59c68be49d8122a8a15776840b184948",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82dee21f0524d2b0d3fe07de1f31824a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "实施交付运维",
+        "运维经验",
+        "计算机相关专业",
+        "Python/Shell",
+        "Nginx",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd0fbfb8048c7ac1d69a505850a22d573f78e23fc0744ce17e7f6de80d3bfcd924_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中创实",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "429a85a498b33be81nd82tS5FFc~",
+      "brandName": "中创实",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210323/d40861f6a556dfed73235305d8abfb8135fae294c733adf7155285f16cf92e1e_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101203,
+      "industryName": "矿产/地质",
+      "introduce": "中创实（北京）科技有限公司成立于2020年，是一家充满活力的创新性技术企业，公司是集研发、制造、安装调试及运行维护于一体的选煤厂智能化系统及新型高效智能矿井水处理系统供应企业，是致力于将智能化、自动化引入选煤厂生产过程及矿井水处理过程的专业化创新型公司，是依托国内顶级矿山设计研究院及知名软件与信息服务企业而打造的一站式问题解决平台，秉承至诚至信、利人立己的经营理念，可为用户提供从系统设计、系统供应、现场调试到生产运营的全流程服务。我们始终把为客户提供满意的服务作为最高追求，在前进道路上愿能与您携手同行，共创辉煌！",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "有无线网",
+        "团建聚餐"
+      ],
+      "activeTime": 1719294638142,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中创实",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

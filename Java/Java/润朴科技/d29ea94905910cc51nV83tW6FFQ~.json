@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nxTqwyq8Ee3e8-q1bS-Uzk2ze7lgpSzA1Zc7RrSgBmn1sKkm9boPtQH5wo36olaVUsj3PGA0Ql_ZQUe_iu72_jcZUlq996bIKnk0C3nimt9OwYk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d29ea94905910cc51nV83tW6FFQ~",
+      "encryptUserId": "b9c3f90d4935db361XR-092_Els~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1、负责开发和测试工作，及软件工程全生命周期内指定的工作任务；\n2、根据项目总计划执行开发计划和测试计划；\n3、编制及在指导下编制软件开发过程文档和用户文档；\n4、全面执行产品开发质量、进度；\n5、对系统质量负责，确保功能按期按质上线。\n\n任资要求：\n1、一类全日制本科学历，计算机相关专业；\n2、一至三年 JAVA 开发经验；\n3、精通 JAVA，了解 JAVA 特性，掌握 Spring MVC，Spring，Mybatis 等技术原理；\n4、熟练掌握 brower/server 交互原理，熟练掌握一些常用的接口调用方式，如 HTTP，Web Service 等；\n5、熟练掌握 MySQL 数据库；\n6、熟悉 MAVEN、SVN；\n7、有 Redis、Elasticsearch或Solr实践经验者优先；\n8、熟悉linux操作系统，熟悉网络安全、多线程编程技术优先；\n9、认同公司的价值观，具有强烈的责任心、优秀的挫折承受能力和良好的抗压能力。",
+      "encryptAddressId": "c6f014eb597b1f2b0nJ42ty6Fg~~",
+      "address": "北京西城区万通金融中心B座902室",
+      "longitude": 116.354637,
+      "latitude": 39.922721,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a601ede6a4f93f81eabf5d9a01e72e98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e785bbd5030a2820bb9540c37f00cc0d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "企业软件",
+        "系统集成",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "安女士",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161219/90efdf7c2127f97a70754ba7d2827abd8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "润朴科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8fd8a6c5485edd471nx92dy-",
+      "brandName": "润朴科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170923/8e501a253d6c1a350ab7d616ec5f57c631b3422a3542545e2d5c31240cbf70a3.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "北京润朴科技是以智能平台建设，平台大数据处理，智能模块开发为己任的服务型科技公司。",
+      "labels": [],
+      "activeTime": 1717070194708,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "润朴科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

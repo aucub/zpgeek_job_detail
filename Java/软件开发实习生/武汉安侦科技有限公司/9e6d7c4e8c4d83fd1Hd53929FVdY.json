@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Mx-DEtx1EumbO-d1DEzLIJoAkQWMKP5Xlwa2adqmWYr4M3-tjU81ckBZ7xt7oCIuW30p9Hv3jWeQMHiWDTr2U_CGNLKXS2gQYUQ-OAypAuSodR-b_p6s",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e6d7c4e8c4d83fd1Hd53929FVdY",
+      "encryptUserId": "30f86cd6ad1baeac0Xd-2d-_FVZS",
+      "invalidStatus": false,
+      "jobName": "软件开发实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、具有2-3年及以上软件开发工作经历。\n2、熟练使用一门编程语言(java、python、 go、c语言、javascript、 Objective-C等)，编码能力强，基本功扎实:\n3、熟练关系型数据库和非关系性数据库(mysql、oraclemongodb、tsdb) ，具有整体数据模型设计或性能调优能力;\n4、熟练使用一个主流技术架构 (spring-cloud、springboot、vue、elementui）且具备良好识别和设计通用框架及模块的能力;\n5、熟悉Redis、Elasticsearch、Kafka，ZooKeeper、 RabbitMO等中间件，能够灵活运用;\n6、熟悉软件设计流程和软件工程规范，负责软件项目功能开发，能够使用 Git、SVN进行代码协同管理和单元测试具有编写规范的设计和技术文档的能力;\n7、工作严谨负责，具有良好的团队意识，办事效率高，执行力强。",
+      "encryptAddressId": "eb03cf4d8db934ef03B92dq7FldVxI68V_I~",
+      "address": "武汉洪山区中国航天科工集团中南物资供销站1层楼",
+      "longitude": 114.351356,
+      "latitude": 30.525211,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bf1954b041a708b450c1dacc2a2ef37aff6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240124/48ba41acc9cef1bfe100aa584bee72fcbe460e0409cd6cd06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "分布式经验",
+        "Docker",
+        "MySQL",
+        "SpringCloud",
+        "Kafka",
+        "Redis",
+        "架构设计经验",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "章先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "武汉安侦科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "616bbe1fa2db7f541HZ_3tu_F1c~",
+      "brandName": "武汉安侦科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717104454536,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉安侦科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

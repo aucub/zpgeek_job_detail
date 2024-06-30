@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BK89ovwJ-NYPk-R10bLn0iN5IfZQWPF778z7gyvgxkYwx9u1ekbesFSEOauCVk3f_yCM58Mz9RDyhhK5kpTDY4n36pT-3TZTIhoKxNdxVh_yxwyvqg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9582aac883673aa01HRz39--F1dX",
+      "encryptUserId": "006b90f74046cdba0XJ739y1Fg~~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA研发工程师（初级）\n职位描述：\n1.\tjava应用系统后端研发，互联网APP、AI大数据应用方向；\n2.\t根据设计文档或需求说明完成代码编写、调试、测试和维护；      \n职位要求：\n1.\t计算机及相关专业全日制统招本科及以上学历，211，985院校优先；\n2.\tJava基础扎实，了解spring技术体系，了解面向对象的分析与设计；\n3.\t熟悉MySQL等关系型数据库，掌握SQL编写；\n4.\t熟悉常用的数据结构与算法，了解TCP/IP、HTTP等网络协议；\n5.\t熟悉常用系统对接实现方法，如SOAP、REST、HTTP、Web Service、RPC调用等；\n6.\t熟悉常用开源技术，如Nacos、Eureka、Redis、Spring Cloud、Dubbo、MQ、Sentinel、Spring Boot、Docker、Jenkins等；\n7.\t热衷技术，有较强的责任心，做事积极主动，能够承担一定的工作压力；\n8.\t具有良好的学习能力和逻辑思维能力，有良好的沟通能力。",
+      "encryptAddressId": "7483540a605f5de61nV629q1FVRT",
+      "address": "北京朝阳区非中心2501",
+      "longitude": 116.612393,
+      "latitude": 39.929888,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfbafc5ec052ecb8070965a25df31d302e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230628/48ba41acc9cef1bf0ba2b08e997433dbd7e6b1230df82d6b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "大数据处理经验",
+        "MySQL",
+        "后端工程师",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "轻子科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "251f348f465c0a301X1-2965EVQ~",
+      "brandName": "轻子科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230810/7b5b554d84f9729c9d393276baf645c57f12cef504f53dc050655533c283768359e30802473e4838.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716719251015,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "轻子科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

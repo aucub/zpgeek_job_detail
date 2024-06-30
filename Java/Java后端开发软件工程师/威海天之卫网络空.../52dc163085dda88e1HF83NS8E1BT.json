@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tv6jxk3IsGlxe-G1PyNFO8Q-1hoHPRYCDWC7kQdOWeghPcEA0XHVkjj8ShErf0Mmy6BmheTvE8YLqUt91bNSw3OiedHGx-cbdBNTvXT6oeEiCJN6cxaOdxx2SyhPR5QHiVNUfogE5UV-kg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "52dc163085dda88e1HF83NS8E1BT",
+      "encryptUserId": "10b3e2327d7cdee60nR93du1EVtW",
+      "invalidStatus": false,
+      "jobName": "Java后端开发软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121300,
+      "locationName": "威海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责本部门的平台开发、维护，与硬件部门、前端开发进行联调。\n2、负责安卓、ios app开发、维护，并提交维护应用商店。\n3、负责开发环境运维和部署，配合运维进行线上部署脚本编写等。\n\n岗位要求：\n1. 掌握Java相关技术和框架，Spring Boot, Spring MVC, Spring Data JPA。\n2. 熟练使用Maven项目构建工具，Git代码版本控制工具。\n3. 熟练使用Nginx，Tomcat等工具。\n4. 加分项: Spring Cloud, docker, k8s。\n5.熟练掌握Objective-C或者Swift语言、iOSSDK、XCode开发环境，熟练掌握iOS界面和交互开发。\n6.熟悉Android操作系统，具有Android手机、平板、宽屏终端应用的实际开发经验，能熟练使用Android SDK及底层API调用。\n7.熟悉掌握HTML5、CSS3、JavaScript(ES6+)等前端开发知识。\n8.熟悉TypeScript，了解基本的类型系统，有初步的使用经验。",
+      "encryptAddressId": "3a6c622764b5ade71HN_2Ni6GFU~",
+      "address": "威海环翠区哈尔滨工业大学威海校区双创园6层",
+      "longitude": 122.083277,
+      "latitude": 37.534325,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00cd34b7473e98aae8fa585cdad57ebf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfc372b49b70706b9ebab60cf45df6b0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "不接受居家办公",
+        "架构设计经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宗女士",
+      "title": "人力资源部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "威海天之卫网络空...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e20b24dad706302d1HBy39W8FFQ~",
+      "brandName": "威海天之卫网络空...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719532609764,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "威海天之卫网络空...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

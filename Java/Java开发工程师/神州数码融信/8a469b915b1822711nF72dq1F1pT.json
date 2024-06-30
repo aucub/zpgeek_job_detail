@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0GsxNDuVVI0MW-H1h7iME6pNd-hw-jR6oUTRmiGouphhuHEV7G0O2S1rq6ykcXIlnwXWLBZ9oomzp1PNMVGgEAaLgnEAclOHs8HFbf-hKDo24NvBhg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8a469b915b1822711nF72dq1F1pT",
+      "encryptUserId": "4ffed00e26e16fa60nZz3ty0GFZU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091100,
+      "locationName": "秦皇岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1.负责系统分析与设计，完成后端接口及底层服务的开发\n2.持续学习微服务及其他开源技术，负责相关功能模块的研发\n3.理解客户业务需求并进行开发和交付\n任职资格\n1.统招本科以上学历，计算机相关专业；\n1.2年以上开发经验，JAVA基础扎实；\n2.熟悉后台常见开发框架，如spring,springboot,springmvc,springcloud等\n3.精通面向对象设计方法和设计模式\n4.熟练使用SQL，至少接触过一种关系型数据库：Oracle、SQL Server、MySQL\n5.熟悉多线程\n6.熟悉linux操作系统，熟练使用常用devOps工具集，如git,nexus,jenkins等；\n7.熟悉微服务架构，有dubbo/spring cloud使用经验者优先。",
+      "encryptAddressId": "d416356b5944674003B80tW-GFQ~",
+      "address": "秦皇岛海港区秦皇岛银行(横断山路)秦皇岛市河北大街560号",
+      "longitude": 119.524979,
+      "latitude": 39.895965,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e379bb48f615e16bd420555e948b8589",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89d7f1ebe26c8c4a98bf491fe2988603",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot",
+        "Oracle",
+        "软件工程师",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210428/0720834d3b0648cce4bbe5c8a89191e75d99a78355e236e8beab0ffc87f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "神州数码融信",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "de75b9dbc402b6ad1nx43d28",
+      "brandName": "神州数码融信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161124/d14b596049e51b62f188205f7b3a9cbba7ff9d8150e9066a0176b1c7c169d561.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "神州数码信息服务股份有限公司[中文简称：神州信息；英文简称：DCITS；股票代码：000555.SZ]是中国信息服务产业的领导企业，30年来一直以业务模式和技术产品创新引领和推动中国信息化进程及信息服务产业的发展，为金融、政企、电信、农业及制造等重点行业提供技术服务、农业信息化、应用软件开发、金融专用设备及集成解决方案等专业的IT服务。神州信息以云计算、大数据技术为支撑，以产品化、平台化为重点，布局产业互联网，促进跨界融合，构建产业服务新生态，以专业的服务和负责任的态度为用户提供整合的IT服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1715532148087,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "神州数码融信",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KqDuqhAfu18Lj-V1mHoFzCxlcL-dG_1z7EV489Nz1Ir3h4VEps28YqBRqlk4Uf0JHDtGPOzpX6jfj7lQf4tEQeLXht5c8xlYk7Z6yZrTq6tK6tkN1U11",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b86635595fefe21b1nV72Nm8FFBS",
+      "encryptUserId": "e25929edd9169bdc1nZ-3di7GVNY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通JAVA语言、精通J2EE架构，搭建多种MVC等框架技术快速进行系统编程；\n\n2、熟练掌握HTML、CSS、JS、JQuery、EL表达式、JSON、AJax等Web技术；\n\n3、精通数据库设计与SQL语言，具备数据库应用系统的规划及设计能力；\n\n4、熟练掌握数据结构、算法与多线程，并熟练使用设计模式重构代码结构；\n\n5、熟练掌握SVN、Maven、JIRA/BugZilla、Project、UML等工具管理配置；\n\n6、责任心强，具有良好的表达、沟通技巧，具备良好的团队合作精神。",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "CSS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201109/aab61814a9ac2b4f44857da87b86a1d05594bcba9199477457d3ae22f5c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "屹海计算机系统集成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cc37304581bce3891nZ90968EFs~",
+      "brandName": "屹海计算机系统集成",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717063563039,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "屹海计算机系统集成",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

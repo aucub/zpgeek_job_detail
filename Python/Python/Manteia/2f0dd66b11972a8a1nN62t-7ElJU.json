@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GgK7LDmLkg0Lm-P1mhnVe8Cwwna4728QeAbS5rYjDOLvfDdWKHjnM6cVGSUByYmqT1NtoSloGz0tPaIX8C9N0gUqcB8JXv5mZtCdnhJ7gP_zx7XpJSlJocWK2WLW31oSrM44clmd1qo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2f0dd66b11972a8a1nN62t-7ElJU",
+      "encryptUserId": "e686e238fdadfb6f1nZ62Nq4ElU~",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责建设公司的医疗信息系统相关产品业务逻辑和技术接口开发；    \n2、负责系统的整体技术架构设计和优化并发性能；\n3、负责相关系统的线上问题定位和解决；\n4、负责相关系统的自动化部署方案设计和输出。\n任职资格：\n必备条件：\n1、精通Python开发，熟练使用Python标准库和流行的第三方库 ；\n2、精通Linux、Shell、以及其常用命令；精通TCP/IP协议及HTTP协议；    3、熟练使用mysql和各种存储引擎，熟悉索引工作原理，有丰富的mysql性能优化经验；    \n4、熟悉Redis，Docker等相关中间件；\n5、有完整的线上系统开发和维护成功经验。 \n优先条件：\n1、熟悉Flask开源框架优先；\n2、熟悉DevOps并有相关经验者优先；\n3、有医疗行业相关产品开发经验者优先；\n4、熟悉DICOM相关标准和协议者优先。",
+      "encryptAddressId": "e0fa2b176c9d19600XR-2Nu4FVQ~",
+      "address": "厦门思明区中航紫金广场B栋1903",
+      "longitude": 118.191875,
+      "latitude": 24.4753,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94d969da36008b5ae44c06c22dc4f9a7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e6d8c73e384fef8d1cf7b4940db96e0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "GIT",
+        "PostgreSQL",
+        "MySQL",
+        "服务器配置",
+        "架构师",
+        "软件工程师",
+        "Linux开发/部署经验",
+        "容器技术",
+        "Flask",
+        "Python",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160616/0e1fd00afc08076e8075305924731c196260f073b08e2a4dd62f940d8cd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "Manteia",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "53a3fe28f018bc951nx72t-0EA~~",
+      "brandName": "Manteia",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190715/1f583d92d763488b7f029e507cb0e6a4512865c42afaaffc38552b3fc6bcc551_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "Manteia数据科技有限公司成立于2017年8月，目前员工110人，总部位于福建厦门，分子公司位于上海及美国密尔沃基。公司主要围绕深度学习、数据技术及传统算法研究，核心产品为自适应放疗（ART）计划设计系统及放疗常用功能软件、算法组件以及基于深度学习的实时分析及算法拟合系统。\n主要产品线包括AccuContour（放疗计划辅助设计工作站）、MOZI（自适应TPS系统）、Acculearning（AI算法自主训练平台）、Radius（深度数据管理系统）等核心产品线，先后获FDA、 CE、NMPA及全球主要国家的销售许可，目前覆盖海内外医院1000+家。\n公司目前承担国内联合课题30+项，国际联合课题20+项。申请国内专利34项，拥有ART国际专利2项，课题组累计发表SCI收录论文170多篇。\n诚挚邀请更多优秀力量加入，创造精准放疗新未来。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "节日福利",
+        "免费班车",
+        "带薪年假"
+      ],
+      "activeTime": 1719221091320,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Manteia",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

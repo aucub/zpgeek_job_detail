@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Eh2h-OAUcqDQe-K1HKjCnnbUH4E7BA0zd5XUC-AWkUyet55mU-uiWaBa4HmXp6kFK-VTpeWy2P9BkOlZnWxQU0DqxI5s6JxzzlmuP49sQS9jU-8v7zSFOzGAmIxsoFez7OyoHpyz-Xsn8tmqPUHdF3unvET2AfIjkb9L5dhmvGVBEesI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1fe7d21c8a48643f1HZy2tS6E1NV",
+      "encryptUserId": "df39c3dc4513bac40nF42N61F1dT",
+      "invalidStatus": false,
+      "jobName": "初级JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 参与公司日志审计、运维审计、漏洞扫描、主机加固等产品的开发、调试、测试、维护和优化。\n2. 完成软件项目的程序开发相关文档编写,保证软件正式上线。\n3. 分析解决产品的难点技术问题 ，按照制度要求完成软件的研发、自测等工作，确保软件的性能、质量和安全。\n4. 工作主动性高，能承受工作压力和责任，并具备独立完成开发项目的独产功能模块\n岗位职责\n1. 全日制专科及以上学历，计算机相关专业，具备扎实的计算机专业基本功。\n2. 具有扎实的java基础，熟悉常用的设计模式，根据需求完成系统设计、输出高质量代码。\n3. 精通常用的开源框架，如：SpringMVC、SpringBoot、SpringCloud、Redis、RabbitMQ、ElasticSearch等有使用经验及其原理。\n4. 利用良好的基础技术体系(JVM、类装载机制、多线程并发、IO、网络、数据结构等)编写高质量简洁清晰的代码。\n5. 精通 Oracle/MySQL/SQL Server 等关系型数据库和 MongoDB/Redis/Memcached 等非关系型数据库。\n6. 熟练掌握web前端相关:HTML/CSS/JavaScript/Aiax/JQuerv/vue等相关技术。\n7. 熟练掌握 Linux 平台常用运维操作系统,熟练掌握Git/svn使用。",
+      "encryptAddressId": "cae8ceaeb450404c1nZ73du5EVRV",
+      "address": "北京昌平区北京大数据智能产业园123",
+      "longitude": 116.303277,
+      "latitude": 40.108749,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bfe5b3f9c5bed5faf6f4c1edf86a18c1a96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bff232a5288c2cec45ee91fb1af320f4b56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "后端工程师",
+        "不限",
+        "Java",
+        "Java开发经验",
+        "计算机/软件工程相关经验",
+        "Java",
+        "Redis",
+        "Spring",
+        "不接受居家办公",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230825/607f1f3d68754fd02e04817b0cd259e3405b299187fde964f9a24f7664f766b5c650a5d1d5cbc79_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "三三云软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "37d1837621907bd21H180tm-FQ~~",
+      "brandName": "三三云软",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210923/7bf6f160950405e9ffb8f378845d5fc31d2a6ae7ff42fc1acf4694e6b966e7834b6c5c8371b95fd4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京三三云软信息技术有限公司（以下简称\"三三云软\"）是由多名运维管理专家（拥有多年在知名互联网企业运维管理的从业经验）组建的，致力于提供专业的、实用的信息安全类管理产品。\n网址：www.33cloudsoft.com",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "餐补",
+        "全勤奖",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719370884089,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三三云软",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

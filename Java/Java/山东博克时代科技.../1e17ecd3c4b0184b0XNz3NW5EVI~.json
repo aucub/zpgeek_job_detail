@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6ug8BSfQUkLh--f1WaaTYHNXqBwak_S23u7qr-sioIdmgPb_IiSKbnby-QFw2XXEJKvVHDyQqBPC3ryNzgqz0YirPbAD_22PDAajcptzooozhLf7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1e17ecd3c4b0184b0XNz3NW5EVI~",
+      "encryptUserId": "a25b50493939a64f33B53dm7Elo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、根据开发规范与流程完成模块的编码；\n2、独立进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n3、完成开发组长布置的量化工作，独立处理和解决所负责的任务；\n4、不断提升高效完成工作\n任职资格:\n1、熟练使用Java开源框架SpringMVC,SpringBoot,JPA, 熟悉SpringCloud各组件；\n2、掌握Java基础知识（常见类， IO，多线程），熟悉常见设计模式\n3、掌握常见接口开发方式（RESTful,Webservice）\n4、熟悉简单的前端开发（html，jquery，bootstrap）\n5、熟练Linux基础操作，掌握常见命令，能独立部署常见的tomcat，mysql等中间件；\n6、熟练常见关系型数据库上开发（mysql，oracle）\n7、熟悉常见网络传输协议：http,https，websocket\n8、了解Servlet容器（tomcat、jetty、apusic）原理和使用；\n9、了解分布式、缓存、消息（MQ原理和使用（rabbitmq））等机制；\n10、可适应短期出差。",
+      "encryptAddressId": "99cd859fabfcbeb703R-09i5FQ~~",
+      "address": "青岛李沧区百度创新中心B区-16",
+      "longitude": 120.407805,
+      "latitude": 36.187098,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3bff5418dafabf1f2fd27fef5a70edb7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/614dbed4b2404b469bdac8ee4852c149",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "任先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191219/7a1ae14a427a1d67681dfad55577827acfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "山东博克时代科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9dfd8f72e04f0c580X143tu1FQ~~",
+      "brandName": "山东博克时代科技...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191219/f28f95b71255608a6ed463f7ad823287f47c0733eeb0b16f48347c4abc237385_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101003,
+      "industryName": "服装/纺织",
+      "introduce": ".\n博克时代科技开发有限公司，成立于2003年7月，获得“国家级高新技术企业”以及科技局和信息局认证的软件产品和软件企业“双软”认证。公司专注于服装数字化解决方案与互联网平台研发与推广，拥有一批计算机、互联网以及服装专家相结合的复合型人才团队，拥有四十余项知识产权，服务海内外三万多家服装企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1717050976316,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东博克时代科技...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

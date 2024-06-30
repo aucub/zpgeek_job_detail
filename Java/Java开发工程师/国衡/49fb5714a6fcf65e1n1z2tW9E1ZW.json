@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vuPnl30Fi6HDR-n1svYvhxh_Z5PoEcbC7Uqy0j4c8X4_rTv7TBnrgm237K1k4aWAFOPTwxxhLIkkbnKFSw5b7Kf562FiZqRjPku5FwKKH7yluGWQnw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "49fb5714a6fcf65e1n1z2tW9E1ZW",
+      "encryptUserId": "54d6826e5d7ea9921Hx_2tS-E1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 拥有一定的JAVA（B/S）开发经验\n2. 深入理解面向对象编程，有数据、网络管理相关项目开发经验者优先\n3. 熟练掌握SpringBoot、Struts、Spring、Hibernate框架使用及其原理。\n4. 熟练掌握Javascript和Ajax技术，熟练使用JQuery。\n5. 熟练掌握Linux的基本命令，了解在Linux部署项目的过程者优先。\n6.熟练掌握HttpClient，WebSocket，json。",
+      "encryptAddressId": "1935f5b5eba98d7a1nZ53du9EFZT",
+      "address": "北京强佑清河新城A座938玻璃门",
+      "longitude": 116.346734,
+      "latitude": 40.030384,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230510/48ba41acc9cef1bfce533aaeb20f4c6d19af6e4446779d656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf81a38fa387df2da1a010a37870e382c46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "Socket技术",
+        "Spring",
+        "Linux",
+        "SpringBoot",
+        "SpringMVC",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾先生",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180509/6494a06290d803ce3d045be1911260adcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "国衡",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dbbdc3395873f5581nxz3dS8Eg~~",
+      "brandName": "国衡",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201029/1e517ed29ef3cfaf952990d7dc795ae9f63b368db8cc179f28624d37581929c3_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070324413,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国衡",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

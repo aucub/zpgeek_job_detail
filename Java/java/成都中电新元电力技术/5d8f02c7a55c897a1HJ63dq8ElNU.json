@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EInumcssvjsrW-l1RahNcgAjPLEddwkqaC8Nie883W242fD-QrWe-a7KDfg-6xtxReMr82_lnmgxzOXvjKYPU0AvZjqLvr9aZJwvod6Z5-zhkfmmMNN-YI6hsw3Z3VzBAkhLDiA_1eoYrQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5d8f02c7a55c897a1HJ63dq8ElNU",
+      "encryptUserId": "4412e1a63d465fa10XB73tS8EFJY",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290100,
+      "locationName": "昆明",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "1. 对 JVM 有深入的理解，包括内存模型、垃圾回收机制，熟悉其基本调优技巧，有相关调优经验.\n2. 熟练使用 MySQL 关系型数据库，熟悉 MySQL 数据库主从复制，读写分离及性能调优。\n3. 熟悉 MySQL 其底层数据结构，索引原理，基本调优技能。\n4. 熟练掌握 Spring、SpringBoot、Mybatis 等主流开源框架，对 Spring 核心原理有一定研究\n5. 熟悉 SpringCloud 微服务框架，SpringCloud Alibaba 微服务，熟悉 ActiveMQ、Nacos、Redis 等中间件\n6. 熟练使用 Linux 操作系统， Linux 服务器项目部署经验丰富。\n7. 熟练使用 docker，docker compose，docker swarm 容器技术，了解 kubernetes 技术。\n8. 熟悉 HTML、CSS、JavaScript 的使用，了解 Vue 前端框架，了解 NodeJS",
+      "encryptAddressId": "25552abad7daa04d331-29m8GFdTxIu9WP0~",
+      "address": "昆明盘龙区益新万象城1幢2406",
+      "longitude": 102.73131,
+      "latitude": 25.047324,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe46e0a8c8d54595364a15a522ac88d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2603363c10cbe2c94b88c5fe0ce9439",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "成都中电新元电力技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e5c2422d376078c51XVz09-8FFs~",
+      "brandName": "成都中电新元电力技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "总部位于北京，成都公司主营软件研发；\n重庆有硬件研发团队及人工智能研究院；\n在云南有云南分公司，主要面向是市场也在云南，客户群体为电力行业各电力单位；\n上海目前有一个办事处，主要负责营销接待工作。",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "全勤奖"
+      ],
+      "activeTime": 1719216927046,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都中电新元电力技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "d2RbrGYtWDyws-A19aQOz1WLcLgj4tqCNXGZHx-jQSfrxBhVzG19ElRu7tEbn0Y4PNGenA0WqYaEWImm0Bl90xx7SDjQV3bxfFkWLHEZXO537VYrA9TmPg1fB9LasOo7aCDI_AZFzA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d64d9abe50fb1f541nx-2dq0FFdX",
+      "encryptUserId": "146ae7b80d1172201HV-0tW_GVc~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101170100,
+      "locationName": "银川",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据产品或项目需求独立完成模块的编码、注释、单元测试以及相关文档； \n2.对所开发模块的安全性、健壮性、性能、代码质量负责；  \n3.参与分析并解决软件开发过程中的问题；  \n4.配合前端工程师，设计数据接口协议，实现数据的输出\n任职要求：\n1.计算机或相关专业专科以上毕业，3年以上JAVA开发经验； \n2.精通JAVA语言，具备面向对象的开发思想，对设计模式有一定的了解；  \n3.精通hibernate,struts,spring等JAVA技术；  \n4.熟练掌握spring cloud等相关微服务技术框架；  \n5.熟练掌握ORACLE、MYSQL等主流关系型数据库及PL-SQL、T-SQl；  \n6.熟悉windows操作系统；了解linux/Unix操作系统；  \n7.具备良好的沟通能力，协助能精神，具备良好的学习能力，思维敏捷；  8.具备良好的工作态度，有责任心、进取心。",
+      "encryptAddressId": "b614396b9a15c79b1n153tW0FVI~",
+      "address": "银川兴庆区宁夏发展改革委员会培训中心5号楼",
+      "longitude": 106.255696,
+      "latitude": 38.470094,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/222c28fc2b6ca47150cfde9adedcdb17",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a88d73d3255e0397426b1e13362fb5cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "微服务架构",
+        "Unix",
+        "Linux",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191018/00b70ddd0699fc668cf0534687a08c3ecbcde37044ab1ed6abbe9cb7402_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "三零卫士",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4dd47b67cfd0caf31nV72N25",
+      "brandName": "三零卫士",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181010/0f47a77399124bc3776d49916cbe74decfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "上海三零卫士信息安全有限公司成立于2001年7月，是中国网安旗下专业的网络安全服务提供商。作为国内网络安全行业的前瞻者和领军者，三零卫士以一流的人才实力、富有远见的经营模式，为我国党政机关、医疗、卫生、教育、能源、金融、交通等行业客户提供全面、系统的网络安全服务。公司业务主要由网络安全服务、信用与大数据、工控网络安全、互联网情报四大板块构成。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "旅游基金"
+      ],
+      "activeTime": 1718102331992,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三零卫士",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

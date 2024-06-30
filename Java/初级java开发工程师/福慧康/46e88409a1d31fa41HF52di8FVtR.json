@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pU8GhCgIsxz8Q-o1W9huY7GGjnoqSfUVL8CZJb6RA_WJweWdDiDASmC6stVHu2-W8TtrQVg964yEdlK9QFLCZcG2Ppo-QN9C0Y3FU1fL5h7mliF7yTG7-daHA8O0PLmfv9kJiGsfFHOUcw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "46e88409a1d31fa41HF52di8FVtR",
+      "encryptUserId": "a509cc22635398b00XB609S-FlZW",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责根据产品方案、系统设计方案进行软件功能设计、开发及单元测试工作。\n2、配合相关的产品人员、测试人员完成开发功能的验证。\n3、按照开发流程编写相应的技术文档。\n4、软件故障问题的排查与解决。\n5、发现工作中影响效率和质量的问题，总结并提出项目质量改进方法。\n任职要求：\n1、计算机相关专业，本科及以上学历。\n2、具有1年及以上Java开发经验。\n3、熟悉Java服务器端编程，熟悉B/S结构开发模式、及Java主流开发框架（Spring、Spring MVC、Mybatis、Mybatis-plus等）。\n4、熟悉SpringBoot、SpringCloud，有微服务开发经验。熟悉Redis、Nginx、Kafka或RocketMQ等中间件。\n5、熟悉常用数据库Oracle、Mysql，熟悉常用ORM和连接池组件,对数据库的优化有一定的理解。\n6、熟悉软件开发流程，熟悉OOP理念，对设计模式有自己的见解；\n7、有Web、HTML5及前端技术（包括 Javascript、ajax、json、jQuery、Vue.js等）经验优先考虑。\n8、具有强烈的责任心和良好的沟通协调能力，具备良好语言表达能力，较强的团队合作精神，抗压能力强。",
+      "encryptAddressId": "04e1ad19be6eef720XR72dy0EFNVwY22Ufw~",
+      "address": "厦门集美区厦门软件园3期(建设中)-",
+      "longitude": 118.052346,
+      "latitude": 24.607498,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bff8c1a5fdeb1673bcd647e1c7008af9ed6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfc03961a44bef0d950158fd7417393b406bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240307/607f1f3d68754fd055f52cc17755e9e4f96cf19b9cc733708ff61d4009d9457d1575287cb83f0d3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "福慧康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "12b8aefcefe198f41Hd539W5FFo~",
+      "brandName": "福慧康",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100029,
+      "industryName": "云计算",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718256075130,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "福慧康",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

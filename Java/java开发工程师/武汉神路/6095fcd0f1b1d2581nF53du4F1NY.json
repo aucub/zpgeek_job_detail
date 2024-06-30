@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5k1W8mqCvaWcx-W1qcYr0yArdCmm0YYgNlqL5rqez3FUEJGuVijFOYYR6vBjsrlV34FnqOlAJBITSaZm7hKPQaKHCbm3drpIzwMdk8QEhsEyB4ts6LNl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6095fcd0f1b1d2581nF53du4F1NY",
+      "encryptUserId": "ef35648d974fd8590nd72tm-EVpS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1) 计算机、通信、电子或相关专业毕业；\n\n2) 掌握Java语言,掌握Spring相关技术,具有SpringMVC，SpringBoot，SpringCloud等技术的实际项目经验，并能独立搭建后端开发框架，熟练掌握并运用三种以上设计模式\n\n3) 熟练使用Oracle，mysql等常用数据库，具有处理SQL语句的能力，熟悉Redis等中间件产品应用，熟悉数据库设计；掌握mybatis持久层框架，包含性能优化、调优\n\n4）对前端技术h5、js、jquery、bootstrap/webui等UI框架比较了解，熟悉了解VUE更佳\n\n5）有良好得沟通能力，有良好的编程规范、开发技能及撰写技术文档能力；\n\n6）有大型项目经验、具有2年以上JAVA开发经验，熟悉运维及部署者优先。",
+      "encryptAddressId": "4721fce2f8d2e5241Xd_3d60",
+      "address": "武汉武昌区南方帝园A座1203",
+      "longitude": 114.336069,
+      "latitude": 30.531197,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d088146d81b0d719d213838a49d90e68",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bfb5f9b5ef1b885ed972bb99f8d5c62",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "Spring",
+        "SpringMVC",
+        "Oracle",
+        "MySQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210511/3d763afd4eb3f1cd4900796dcdad7eef9df0d339c047b45be0e60f9fd48_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "武汉神路",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d4ed1c29182055891nJ53N65FlI~",
+      "brandName": "武汉神路",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717103858374,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉神路",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Drao6UpgTYv36-Q1GZU-jBU3QUrcJfO0-oOdj1q_6TnM6MDrJVEv2Z01E4u61DkSrsWiW0g3Zv4LNpUfJBhFcjrLtnwFxErH-4oWsA8XW8pJgqypOeua7KTKVzAnOhRU_vvVexAe5TGS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c50f20b12fe752401HJ63dS6EFZU",
+      "encryptUserId": "449e7584a2ad33651HZ_0t-_GVo~",
+      "invalidStatus": false,
+      "jobName": "java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "欢迎2024年应届的同学投递简历\n\n主要职责：\n1.参与产品项目的需求分析、设计、编码、测试和维护工作。\n2.负责Java应用程序的设计、开发和优化。\n3.编写高质量、结构清晰、易读、易维护的代码。\n3.与团队成员合作，确保项目按时交付并符合质量标准。\n\n技术要求：\n1.熟练掌握Java编程语言和Java生态系统，包括JVM、JDK等。\n2.熟悉Spring框架，包括Spring Boot、Spring C、Spring Data等。\n3.熟悉数据库技术，如MySQL、PostgreSQL、NoSQL数据库其中一个。\n4.了解中间件技术，如Redis、Kafka、RabbitMQ等。\n\n任职资格：\n1.计算机科学或相关领域本科及以上学历。\n2.良好的面向对象编程能力，熟悉设计模式。\n3.具备良好的代码版本管理习惯，熟悉Git等版本控制工具。",
+      "encryptAddressId": "ee4df84abee399a733J_29q7EVNVyou8Vf0~",
+      "address": "成都郫都区IC设计产业园2栋一单元",
+      "longitude": 103.927895,
+      "latitude": 30.760272,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bfa147e2f736d578ff0395fd63fa60a27d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfebc53cc51cd824fcac048052252430e86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MyBatis",
+        "Oracle",
+        "MySQL",
+        "Redis",
+        "SpringBoot",
+        "RabbitMQ"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "HRM",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231127/607f1f3d68754fd01c93dd156a2b7d3934db5e5af3050bc7ea8731880058c871e10f78ef33ceef2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "成都它思科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cef0e4bcbadae3801HBz0tu7GVA~",
+      "brandName": "成都它思科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240523/7bf6f160950405e9bae006cd59c679c1f86f398d5e4f27aaea8731880058c871e10f78ef33ceef22.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "它思科技公司依托清华大学语音处理与机器智能实验室(THU-SPMI)研究成果，专注打造高效学习的智能语音语言技术和产品，赋能于智慧商业、智慧安防、智慧医疗、智能机器人等智能行业",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1719645213678,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都它思科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

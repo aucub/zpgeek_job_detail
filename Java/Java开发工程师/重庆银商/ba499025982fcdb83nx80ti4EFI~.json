@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FbJL2Dyw1Lxkn-q1mk8cvQ8XShZmj46f1OF7PbFwo1XJGVjJ5KYPzD9NtFn0oXuWv6GKVLNJwWLaoThz7A7obuVt5NS7vuoby1zBwMsCTH4Y3uLOKYJLXf4eBxenRJm3jl31IV2um20~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ba499025982fcdb83nx80ti4EFI~",
+      "encryptUserId": "63895d8974e624461nVz09i4EVtS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n计算机、软件相关专业，1年以上工作经验：\n1) 熟悉B/S技术架构，熟悉Web服务器原理。\n2) 精通面向对象开发，熟练掌握java，熟悉多线程、I/O等java高级特性；\n3) 熟悉常用开发框架，包括Spring Boot、Spring Cloud、Mysql、Redis、Vue等常用皇框；\n4) 熟练掌握Element-UI等样式框架\n5)掌握后台权限框架例如Shiro",
+      "encryptAddressId": "b31cbb55c3b44bfc03V939W8GA~~",
+      "address": "重庆渝北区中渝·香奈公馆新溉大道99号香奈公馆7栋",
+      "longitude": 106.528366,
+      "latitude": 29.600452,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/323afafe51b33cf81f6ec319baff8647",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3a26432a2a54015eb8ba08009eb816a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "重庆银商",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "77cd7cedce858e0b3nJ52967EQ~~",
+      "brandName": "重庆银商",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101106,
+      "industryName": "其他生活服务",
+      "introduce": "银联商务股份有限公司（简称：银联商务）是中国银联控股的，专门从事线下、互联网以及移动支付的综合支付与信息服务机构，成立于2002年12月，总部设在上海市浦东新区。\n       在中国人民银行领导下，在中国银联的指导下，银联商务始终坚持“服务社会、方便大众”的理念，积极履行企业公民的社会责任，致力于改善中国银行卡受理环境和电子支付环境，竭诚为发卡机构、商户、企业和广大持卡人提供优质、高效、安全、规范的线下、互联网、移动支付服务、信息服务以及普惠金融服务。\n      根据全球支付行业权威市场研究机构“尼尔森报告”发布的《2017年度亚太地区收单机构排名表》和《2017年度全球收单机构排名表》，银联商务在： \n\n       ——亚太地区收单机构排名位居第1位。\n\n       ——全球收单机构排名位居第12位。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "包吃",
+        "节日福利"
+      ],
+      "activeTime": 1715504900348,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "重庆银商",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

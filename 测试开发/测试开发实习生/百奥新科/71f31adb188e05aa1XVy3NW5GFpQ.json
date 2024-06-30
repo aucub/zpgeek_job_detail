@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gWDvV1pZ0TcOv-812Qk1HtjU3hBxHW-k1MN3HZD6jPzgVCC9q-lHFovWy83k1iDSCLfKcsg_k94Le1VF8DcOYJ3RPnsXoCdC4pCnQG62Dj2KPr6iWc39",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "71f31adb188e05aa1XVy3NW5GFpQ",
+      "encryptUserId": "d093d600adc50b8e0nZy3NS9EVFU",
+      "invalidStatus": false,
+      "jobName": "测试开发实习生",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n• 参与公司产品测试开发工作\n• 有大厂导师指导工作\n技术栈：golang、javascript、vue \n岗位要求：\n• 熟练掌握常见数据结构、算法\n• 熟悉DB操作、HTTP协议等\n• 熟悉web自动化,selenium框架\n• 为人踏实，具备较强的学习能力和自驱能力\n• 能稳定实习3个月以上（可以用公司项目做毕业设计）\n• 加分项：在ACM比赛取得一定名次；有一定项目经验\n\n\n此岗位提供以下福利：\n1、房补；\n2、不限量零食、下午茶等。",
+      "encryptAddressId": "6df368b13b2140150XB42Nu9ElA~",
+      "address": "北京海淀区中关村创业大厦418",
+      "longitude": 116.311152,
+      "latitude": 40.037141,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8091701c2b151f31af3a1806f9eef86c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/725efa20fe241dc499cd0dae73616258",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "阮先生",
+      "title": "人事主管 HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "百奥新科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d3234c28f808a89e1nFz2tm7E1Q~",
+      "brandName": "百奥新科",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210426/46522272a635e5f70a933eef8dd9a049d53756a56484517bf99ad18ff9b10b08_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "Bio-protocol于2011年由斯坦福大学的研究者在美国硅谷成立。公司致力于用互联网+AI技术赋能生命科学领域，搭建一个全球权威的生物实验方法社区平台，为行业降本提效，做生命科学领域的“GitHub”。创始团队既有美国名校毕业的生物博士，又有人工智能领域的大咖。\n目前Bio-protocol平台已拥有20万+优质用户，2万+杰出专家, 2千多名来自50多个国家的编委和评委，并且同8家国际权威学术出版机构深入合作，其中和《科学》杂志出版社建立了长期战略合作关系。公司得到头部创业孵化器的大力支持和一线美元基金的投资。\nBio-protocol(中国)诚邀你加入，一起打造“21世纪生物的新纪元”。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "贴心生日福利",
+        "弹性工作时间",
+        "加班车费报销"
+      ],
+      "activeTime": 1717072058759,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百奥新科",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

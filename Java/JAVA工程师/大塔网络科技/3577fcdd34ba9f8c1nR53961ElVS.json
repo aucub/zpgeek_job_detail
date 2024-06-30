@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ozCaEV1qw3_ZL-c1xzuM0_lQeFAWR4q8JNqU6cqDAJ7ZIKmOraepBTbERr6BQkop88xh207cYRF81ucdngA20tDAUTdiDXOlXzH8kAlrafNi-xzKhqE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3577fcdd34ba9f8c1nR53961ElVS",
+      "encryptUserId": "37518d17e15b27ca0Xx83967F1o~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191000,
+      "locationName": "连云港",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、JavaEE项目设计和开发；\n2、参与客户需求沟通、分析；\n3、基于现有产品根据客户需求不断迭代产品\n职位要求：\n1、2-3年以上JavaEE开发经验，精通spring/hibernate/ibatis等开发框架，熟练掌握Maven、Ant等常用工具。\n2、具备良好的面向对象设计思想和扎实的编程基本功；对java技术有深入研究。\n3、有高并发 大数据量的开发经验优先\n4、熟练使用Mysql、Oracle等数据库设计、开发和调优；\n5、熟练使用spring cloud，以及相关组件\n6、工作积极主动，较强的学习能力、理解能力及逻辑推理判断能力，对开源技术有浓厚兴趣。",
+      "encryptAddressId": "af54bd1d8f3600d91n143Ny9F1o~",
+      "address": "连云港海州区连云港国家高新技术产业开发区2号楼17楼江苏大塔网络科技有限公司",
+      "longitude": 119.23265,
+      "latitude": 34.605155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4b63d37d295d7e95d33242502503c4c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac7c916a91ebde88ebf51d828c0a010a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "软件工程师",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汤女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210811/827fd1231e359c39f99c7bf256c5a005111113cf9270b8cd5ebab2eea63_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "大塔网络科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5babdff1a4e04e361nd83ti6FVc~",
+      "brandName": "大塔网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210113/843e5e243274317b3fd3b665fd1829961fa32149439c310bf7dad0a5f64d01a6_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "江苏大塔网络科技有限公司成立于2018年3月，前身为江苏鸿奥大数据，公司具有雄厚的技术研发实力，专注于智能应用开发、软件定制、硬件集成等全方位的信息化服务。\n公司经过多年的经验积累，总结出了针对各行业、不同规模和不同阶段的企业提供智慧城市、智慧园区、智慧工厂、全域文旅、城市运营管理中心IOC等专业的信息化解决方案，并提供符合软件整个开发生命周期的过程服务。\n大塔将助力客户企业发展，帮助客户不断创造价值，实现共赢。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1715884226290,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大塔网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

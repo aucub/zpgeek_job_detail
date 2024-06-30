@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Skf7SdI1OOHAh-S1qzjDugZ_CqFuEUYOo1FkbJc9H9R8qP_u9ktcOSWUdQuYmaJoe2iPQmodRU-DvESzdZzAQi8mEkT42x1UnvMg0TPwFXrp4z6B",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4483874aa3641cb533Vz3927E1E~",
+      "encryptUserId": "5f3cf999072445c133F73Ni6Flo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与业务系统的设计、开发、维护等工作；\n2、能够独立完成一个中小型系统的设计和开发工作；\n3、参与业务逻辑模块设计、数据结构设计、API接口设计及性能优化；\n\n\n职位要求：\n    1、全日制本科；\n    2、1-3年JAVA开发工作经验；\n    3、对面向对象的软件开发思想有清晰的认识、熟悉常用的设计模式；\n    4、熟练掌握Spring、springboot、springcloud微服务开发；\n    5、熟悉MySQL，有过SQL调优经验，能根据业务需求设计合理的数据模型；\n    6、熟练掌握Git、Maven等项目工具的配置和使用,熟悉linux操作系统，掌握基本的操作命令；\n    7、熟练一种前端框架优先，如bootstrap、layui、vue等；\n    7、具备良好的表达和沟通能力，以及团队合作精神，有工作热情，能够独立进行需求场景分析及详细设计能力者优先。",
+      "encryptAddressId": "e02818bfc9da24e61HV72dq9FVY~",
+      "address": "北京海淀区学研大厦B座1101",
+      "longitude": 116.335696,
+      "latitude": 39.998495,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c434d8b9b0506f41fd22a1c890ac7e44",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93e4766df4201991c66057d1cc4da1af",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "JQuery",
+        "Mybatis",
+        "MySQL",
+        "NoSQL",
+        "GIT",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200407/b23485947cb9622ea4c577d3bb7504f36de97272a53c9aedaf11bce40c1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "清大紫育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ef75d9f9c511fa7d1XB-2d-0FQ~~",
+      "brandName": "清大紫育",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191114/013ed3f542cdbab88f1d2afea5120f08d48a56c3bce3bf1c6ea1a4b14dfef8c5.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100304,
+      "industryName": "学术/科研",
+      "introduce": "清大紫育（北京）教育科技股份有限公司（股票代码：839278），是一家专注于中学创新人才培养，助力大学尖优人才选拔，在新高考政策的引领下，为学生和学校提供综合评价、自主选拔、生涯指导等升学规划和服务的高科技教育企业。\n清大紫育致力于强化核心竞争力，提升品牌优势，持续打造高品质教学产品。以新高考为方向，采取线上+线下相结合的业务模式，为莘莘学子和生源合作学校提供一如既往的高品质教育服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1717070276343,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "清大紫育",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RRZy6cWAXvEML-z1XVOZUvSfep2kYWTfBkgiU3SLTaEIy5WueToKEfkcov4NJLYLkCsURQ_sN7FFE1eKqHoUjh-1phfdlZdrI5FgSMNHGi0QUNB7ABlJOD-Ce136qXKsBZGvbvPZz1akzg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0214d4fe6229b3d21XZ_3t-6FFZV",
+      "encryptUserId": "98039bd064351d640nZz09i-E1VQ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.完成软件系统代码的实现，编写代码注释和开发文档；\n2.辅助进行系统的功能定义，程序设计，系统优化；\n3.根据设计文档或需求说明完成代码编写，调试，测试和维护；\n4.分析并解决软件开发过程中的问题；\n5.协助测试工程师制定测试计划，定位发现的问题；\n6.配合项目经理完成相关任务目标。\n任职要求：\n1.本科学历及以上，计算机相关专业，3年以上Java Web开发经验； \n2.具备良好的编码基础，熟悉多线程编程，多种设计模式，具备面向对象的分析和设计能力；\n3.精通SpringMVC，Spring，Spring boot，Mybatis等开源框架；\n4.具备Oracle、MySQL关系型数据库的使用及优化； \n5.熟练使用Redis、Memcached、Mongodb等NoSQL的开发及性能优化；\n5.熟练使用RabbitMQ/RockedMQ、FastDFS进行系统开发； \n6.熟悉JavaScript脚本语言，熟悉VUE前端框架者优先； \n7.熟悉Tomcat应用服务器的部署及JVM调优； \n8.具备良好的编码习惯，结构清晰，命名规范，逻辑性强，代码冗余率低； \n9.良好的技术沟通能力，团队合作精神；对技术有强烈的兴趣，喜欢钻研。；",
+      "encryptAddressId": "b3af41088160edc20nZz39W5EVU~",
+      "address": "太原杏花岭区王府商务大厦A座19A",
+      "longitude": 112.55888,
+      "latitude": 37.874112,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e29d390fe5c60ef4d9f8b9dfc9d01d08",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d9e065b3bd635347ac99f189f567521",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "多线程",
+        "Spring",
+        "NoSQL",
+        "Oracle",
+        "MySQL",
+        "Memcached",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240229/607f1f3d68754fd0ba417f198783d95712e1e7c4f27da61dfe3cdfc30b4ff2eebe6feee465d7894_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京麦迪克斯科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cd77930deb35a0b91XR-2tu9Flo~",
+      "brandName": "北京麦迪克斯科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718095578818,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京麦迪克斯科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

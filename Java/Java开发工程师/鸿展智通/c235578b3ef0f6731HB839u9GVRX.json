@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GW-cOaqJ02ndd-l1Q5O8xqFFQCrBK06Qbeo5zcDKqceJnX0mfgpKRQmZuVDJTsQ5P0FwMRnI8t98F8mLhyv0GnxzenlhdlGDfqQ5Csq5rvOQvqVLOHmL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c235578b3ef0f6731HB839u9GVRX",
+      "encryptUserId": "ff15d162d8ba13e10nJz29y_GVVZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 参与项目的开发、测试等工作；\n2. 参与相关技术研究、选型、验证、应用；\n3. 参与系统分析与设计工作；\n4. 完成相关业务和技术文档的编写；\n5. 参与方案讨论和开发/测试环境维护；\n6.完成领导安排的其它任务。\n\n任职资格\n1. 大专及以上学历，计算机相关专业；\n2. 两年以上Java开发经验；；\n3. 精通Java语言，，熟练掌握Java（EE）平台开发相关技术，理解面向对象机制，了解面向对象常用的设计模式；\n4. 熟练掌握SpringMVC, Spring, spring boot,Spring Data,Mybatis等主流的开发框架，有良好的编程习惯；\n5. 具有MySQL/Oracle（二者选其一即可）数据库的设计和使用经验；\n6. 具有消息队列（如Kafka）、缓存机制缓存机制（如Redis)、NoSQL（MongoDB）、Elasticsearch的使用经验者优先；\n7. 熟练使用Git、Tomcat、Idea/Eclipse等工具；\n8. 对SOA有较深的理解，熟悉分布式系统的设计及应用优先，熟悉spring cloud等分布式框架；\n9. 有大数据开发者经验优先；\n10.有强烈的上进心和求知欲，善于学习新事物，良好的团队合作精神，较强的沟通能力和学习能力。",
+      "encryptAddressId": "9e5437f769fc1cd70HF-09m1F1M~",
+      "address": "成都武侯区成都武侯龙湖星悦荟1栋1单元1119室",
+      "longitude": 103.983339,
+      "latitude": 30.620977,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2650e030cf4083f06451cf0ed8625064",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76aebe7ed298582e8217ff017a7e65b4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Elasticsearch",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "司先生",
+      "title": "综合部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "鸿展智通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8acc1ab9bdfe17271nVz0t21FFE~",
+      "brandName": "鸿展智通",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718962935000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿展智通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

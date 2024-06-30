@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JlWX4r86EU0bi-d1SMPRB1_Bngj8gzVe5GHzflDuoeBZfrnmf5RWlXnxOhWsAra-RsdK6XBCr3U3FTm1suKPVdN0ZO7JnOccVknqWbqUS88h5fZkoDHv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ce008c43f637b93b1nF43Nu0FFFU",
+      "encryptUserId": "f822c773914ead900nd63d-7ElNU",
+      "invalidStatus": false,
+      "jobName": "Python后端工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.负责产品的服务端研发;\n2.深入发掘和分析业务需求,撰写技术方案和系统设计;\n3.根据产品需求,进行系统设计和编码;\n4.持续对系统架构进行改造和优化;\n \n任职要求:\n1.至少一年以上的Python开发经验;\n2.具备良好的基本功,熟练使用基本的数据结构和算法,深入理解多线程、Socket等相关技术;\n3.熟练掌握Django,Tornado,Sqlalchemy,Celery等主流框架,深入理解框架实现原理及特性;熟练使用python的常用库\n4.熟练掌握MySQL/SQLite/Oracle数据库;\n5.熟悉分布式系统，熟悉Elasticsearch、Redis特性及开发；\n6.熟悉Internet常用协议,如HTTP、TCP/IP、熟悉RESTful规范;",
+      "encryptAddressId": "74e140736384d3b203Bz3d-5F1M~",
+      "address": "广州天河区富力盈力大厦北塔(西门)1805",
+      "longitude": 113.317138,
+      "latitude": 23.126995,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64b55e3115e2b863f860c8805f5ef2e6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c3e290e39ca62531b1033ce97c0dbf0e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "Python后端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230803/607f1f3d68754fd010a7fd0ba0351003ca8d74e70e85d2313fe77817573851ba7a6c7861635812a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州华安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8836ca14e549ac51nFy3N25FFU~",
+      "brandName": "广州华安",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210421/15b45a2a9de724e80d98e16bf091f599df4c354b70bd7f44f6ead86a87ace582.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "广州华安信息科技有限公司成立于2006年,位于珠江新城富力盈力大厦北塔1805。公司全面致力于互联网网络安全侦控产品的技术研发、系统集成以及技术服务，为社会网络公共安全领域和社会网络管理服务领域提供专业智能化产品和系统解决方案。公司坚持技术创新，着力开发具有自主知识产权的技术产品，至今已取得多项软件的知识产权证书，并被认定为广东省“双软企业”和“广东省高新技术企业”“涉密信息系统集成单位”。\n      公司坚持“以人为本”的管理思想，尊重科学、尊重人才。将现代规范的管理制度和优秀科技人才的勤奋进取精神相结合起来，为用户提供技术先进、功能完善的优秀产品。与国内一流的科研机构合作，创新“产学研”道路，针对不同实用场合需要，提供完善、适用的系统解决方案，更好地为国家和社会服务！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1717073454990,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州华安",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

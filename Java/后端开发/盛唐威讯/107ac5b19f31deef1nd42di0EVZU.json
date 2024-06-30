@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-FScTFPrDhq77-N1oPxEgqZmQXmafxUJvcaeAzsJhO7kjFvIwnlp3piDTKbAHDrVEssfWKFcqVd3ZQcIP0x8XrsbtdyBZEda0L4m-7A48sTl-6-_kWs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "107ac5b19f31deef1nd42di0EVZU",
+      "encryptUserId": "b0564c4c4581586a1nV73dS0GVBY",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述： \n1、负责后端功能及接口开发，完成所承担模块的集成、部署、调优，与产品设计师、前端工程师一起探讨、设计实现产品的新功能及改进；\n2、维护线上产品稳定运行，快速定位并修复缺陷；\n3、精通Node/Java/Go中的一种或多种语言，有良好的编程习惯和编码风格；\n4. 有以下任一经验优先：以太坊、Hyperledger等公开区块链项目研究或参与者－主导或参与过其它网络方向大型开源项目\n\n\n任职资格： \n1、参与过互联网相关工程项目，熟练掌握Javascript(Node.js)、Java、PHP、Python、go中的1~2种； \n2、熟悉MySQL/NoSQL，对数据横向、纵向划分，数据库调优等有一定心得；\n3、熟悉Linux常用命令以及Linux常见运维技巧；\n4、对hadoop、spark有了解 ；\n5、熟悉TCP/IP、HTTP等通信协议，具有Socket网络编程和大规模并发服务器开发经验者优先；\n6. 对以太坊、Hyperledger等公开区块链项目研究了解",
+      "encryptAddressId": "9c773721d21c220203Z839i9FFY~",
+      "address": "北京海淀区大唐高鸿数据网络技术股份有限公司一楼",
+      "longitude": 116.354275,
+      "latitude": 39.980199,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef881bea0f16d0b049511cb9ceb32ffc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/536030691d8c35f60e3b221984975d53",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "MVC开发",
+        "Linux",
+        "后端开发",
+        "GIT",
+        "IDEA",
+        "Eclipse",
+        "区块链"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "耿先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200603/e982fdfe2c2c39026bf81d5cec555e751ed2c0ce8b312f26bea7af265a4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "盛唐威讯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a7d28e143bf5b7a31HJ909y_FA~~",
+      "brandName": "盛唐威讯",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/22d451159e671803dbed4e48e28df5ac182f3af13bd9be246359c7639d6f993a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1716719255937,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "盛唐威讯",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

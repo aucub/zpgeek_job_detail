@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KSOvj8U6SMdka-S1yBPaCvhgu5njt0Oc44IqQEehkkYU1dEiPQdT0sYzMIwF2PBqM5jgL0a29clcFtUXzOrcNZd-0klwjd7mQWBjPyUkLE4uPrwp_GY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8f80435261850b351nx42Nu5EFdU",
+      "encryptUserId": "449fb7bd7e288be41HN83di4EFY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟练掌握java语言，具有扎实的java编程功底，深入理解面向对象思想并且能编写可读性强、整洁的代码。\n2. 熟练进行基于SSM框架组合的Web产品开发，熟练使用SpringBooot，有模块接口设计能力。\n3. 熟练使用SVN，Git进行版本控制，熟练使用。Maven/Gradle进行项目管理，会用Docker、Jenkins\n4. 熟练使用MySQL数据库，可以进行数据库的设计，能够进行复杂的Sql语句编写，可以进行Sql语句优化；\n5. 有SpringCloud或者Dubbo+Zk分布式系统开发经验者优先。",
+      "encryptAddressId": "4503b102e8a7e6361nx-0ty9EFI~",
+      "address": "潍坊奎文区世博国际商务大厦B151501",
+      "longitude": 119.151046,
+      "latitude": 36.696426,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aacd5be9894d3cb3395fe4c0835c6e95",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33c5d150aa6b1ddaa32b0e65d7b5f4a2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宗先生",
+      "title": "ui设计",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鸿唐网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3dba7cfd9a0416191nZ509q0F1I~",
+      "brandName": "鸿唐网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220216/7bf6f160950405e96c64fcf7d3ea462ce65f1228860f1f921a01c2f27050a2f32c2b736233a5db17.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100604,
+      "industryName": "人力资源服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717050998134,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿唐网络",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

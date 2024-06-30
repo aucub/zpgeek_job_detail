@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wQXBY3SKPkNyK-d1X7-hQcmFgUUNnFm0XBq7_x1wqn3cscT8BvEpytOJeXTEfVXM1vauBbXyQKEBjwSOqccCpIP7_VkwOqFnHrDRgllDLmEzpfo4MDGM9AML4ahzahf1C6H3pYrjiYp5",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ab7b9c35cf949fd1nR63tW9F1FR",
+      "encryptUserId": "11b415aa987df9ec1HF62N--EVA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "高中",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、按系统设计完成功能模块的编写； \n2、遵循工作规范，和编写要求； \n3、编写模块详细设计文档，和相关技术资料； \n4、按规范进行模块功能单元测试； \n5、维护所开发的软件模块代码； \n6、能够与客户有效沟通，充分理解和整合客户需求与流程、参与设计与演示工作；\n7、熟练运用Project、Visio等Office办公软件，有较强的文档撰写能力；\n任职资格：\n1、计算机软件及相关专业，2年以上实际项目开发经验；\n2、具有丰富Java开发经验，精通java网络编程、缓存设计、设计模式、消息队列有深入的理解；\n3、熟练使用Spring boot、Spring Cloud、Mybatis、Redis、MongoDB，Netty等开源框架；\n4、熟练使用IDEA、svn、maven等常用开发工具；\n5、精通MYSQL，熟悉ORACLE等主流关系数据库，熟练使用PowerDesigner等设计工具；\n6、熟悉LINUX操作系统，熟悉shell、python 等脚本开发优先；\n7、熟悉HTML、CSS、CSS3、HTML5、JavaScript、Ajax、Jquery、VUE等相关技术，并有实际项目开发经验；\n8、熟悉现有主流分布式系统架构，有分布式大型系统架构和实现者优先，能设计和实现大负载高并发系统，熟悉系统优化；\n9、能适应高强度工作，责任心强，工作积极主动，善于学习和交流，挑战未知，具有良好的团队合作精神。",
+      "encryptAddressId": "d655137b6dfc7bd41HF43di_ElM~",
+      "address": "武汉洪山区保利·华都B座304",
+      "longitude": 114.384388,
+      "latitude": 30.505828,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b08d803147780be9a39d2dd6c8e182f4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f535269815b97985385186d14111fa40",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "后端开发",
+        "软件工程师",
+        "Oracle",
+        "Spring",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "捷顺茂快递有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8bfe99f2751879e51n1529m7EFA~",
+      "brandName": "捷顺茂快递有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100502,
+      "industryName": "物流/仓储",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716793825542,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "捷顺茂快递有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

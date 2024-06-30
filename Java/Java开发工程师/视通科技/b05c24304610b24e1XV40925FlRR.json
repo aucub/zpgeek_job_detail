@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8bcjVJNoMOBX_-t1HGkiA_ArD39HL3m8ajp8NoixcJu7WGZByE0wNxcYRlPwvWGeiTPw4EwIMfSHRCiP-mU6NFDVfor80NQkBuJR71zEtxc6pQEsJQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b05c24304610b24e1XV40925FlRR",
+      "encryptUserId": "b19c1c21c2c8b2dc33R73dq6Fls~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "基本要求：\n  1）学历：大专及以上\n  2）专业：计算机相关专业\n  3）性别：男女兼可\n  4）年限：0 ~ 3年，实习至有1~3年相关工作经验\n  5）素质：为人诚信、务实、乐观、与人友善\n  6）学习：爱学习、对新的技术和知识有强烈的学习意愿\n  7）思维：理解能力、逻辑思维能力、沟通表达能力较好\n  8）合作：有较好的团队合作精神\n  9）敬业：有敬业精神；有一定的抗压能力\n\n专业要求：\n     熟练应用Spring、Hibernate或myBatis框架\n     熟练应用Web开发技术(JSP、HTML、CSS、JS、Servlet)\n     熟练掌握MySQL、Oracle、DB2中至少一种数据库的应用及开发\n     熟悉Linux开发环境，熟练配置维护Apache/Nginx/Tomcat/Jboss等\n     具备较好的编程基本功和良好的编程习惯，熟悉面向对象设计，具有一定的文档编写能力",
+      "encryptAddressId": "bdb4eaf836957bcc0XV63Nu0GFE~",
+      "address": "广州天河区粤港澳大湾区(广东)创新创业孵化基地B栋314",
+      "longitude": 113.420445,
+      "latitude": 23.178413,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a84dba69c5df8a0089520db7ef649e7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c053399b4e177a8c75cd97054289e14",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "MVC开发",
+        "分布式技术",
+        "SSH",
+        "Spring",
+        "Hibernate",
+        "Dubbo",
+        "Mybatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "视通科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "820d7500c58f1df30Xdz3Ni6Ew~~",
+      "brandName": "视通科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广州视通网络科技有限公司（简称：视通科技），我们专注于音视频通信前沿技术的研究，致力成为国内领先的音视频平台服务提供商，自主研发VideoComm音视频平台产品。视通科技核心研发成员均来自国内音视频通讯领域顶尖人才，在音视频通信行业有长达十多年的核心技术积累。技术团队成员长期服务于金融、教育、医疗、智能硬件等行业音视频应用项目工作一线，为近千家客户提供优质的服务，赢得客户的信赖和认可。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "交通补助"
+      ],
+      "activeTime": 1717072738714,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "视通科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

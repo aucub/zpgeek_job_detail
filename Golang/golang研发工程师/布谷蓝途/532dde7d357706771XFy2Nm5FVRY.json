@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ol5hMKqRBohc5-A1kIPcZ2L_OtA2z2jT76QFZpsM3KDQdbugnf_etBHSlyZG-vQtDuv5cgpNbGZrZH3z485Vptiy_7A5euy8GAKPioF1D40nn4o5sfSFBmgMZmSFkdWcEzWyfC5EDvIRvw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "532dde7d357706771XFy2Nm5FVRY",
+      "encryptUserId": "c0dfe8a390cf45e31nR-0t-1E1FZ",
+      "invalidStatus": false,
+      "jobName": "golang研发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n负责部门监控平台、运维平台、演练平台的架构、设计、开发等工作，包含大规模监控数据和日志的处理、流式异常检测平台开发、数据可视化、自动化等工作。通过打造自动化、智能化的运维体系，提升监控、运维效率，降低运维成本。\n\n职位要求\n1. 精通1-2门主流程序设计语言，java，go优先，扎实的编程基本功\n2. 具有大中型分布式系统的架构设计经验、大规模数据采集和处理经验者优先\n3. 熟悉关系型数据库，熟悉influxdb、tsdb等时序型数据库优先\n4. 良好的思维逻辑性、语言表达能力\n5. 熟悉常用的监控系统优先，如 Prometheus 和Open-falcon等\n6、良好的设计和编码品味，热爱写代码；编程语言不限，若有 Golang经验更佳；\n7、积极乐观，认真负责，乐于协作。",
+      "encryptAddressId": "bee55071bdcdec911nd70tm4EVQ~",
+      "address": "杭州余杭区EFC LIVE欧美广场T4-2603",
+      "longitude": 120.002966,
+      "latitude": 30.281021,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/34203819d6204d197d9b626eb42fd8bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bec1b7a907bf52f17e96df3021b9ea10",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Java",
+        "Golang服务端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "布谷蓝途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2a52eb53ca3381b1nd83NW1EFs~",
+      "brandName": "布谷蓝途",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210227/996d478248831954679b994b37bfeebc61dc649bda2a60dfe2bd8a141cf5d285_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "布谷蓝途面向教育行业，是国内前列的应用及数据服务提供商。结合大数据、云计算及新一代人工智能技术，立足于\n5G+互联网教育、物联网等新基建发展端口，通过“业务应用+数据治理+平台化服务”，盘活全量数据，促进教育质量和教学效果提升，构建更智能的教育行业新生态",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "定期团建"
+      ],
+      "activeTime": 1717127434819,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "布谷蓝途",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

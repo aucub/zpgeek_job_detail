@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4UsZ6cC7cHQa7-41mh4j-qA_7_rjJr2-v2fH3oThntTf3xxwleZXlmszAlIqeb-7FFh2HRSIy4Khsisv47_6kOulC5Ln1YhO0bYHO8VJalTCQI6A",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4d093b808b76a1c1HF62d26GFpS",
+      "encryptUserId": "966927a30b02d3ba1HV40t6_ElE~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据PRD、设计说明书进行软件编程、调试及优化；\n2、项目相关技术方案编写；\n3、软件单元测试；\n4、辅助工程师定期汇总问题，并提出优化建议；\n5、完成部门交办的临时工作。\n岗位要求：\n　1、本科以上学历，计算机相关专业；\n　2、1年左右开发经验，热爱软件开发事业；\n　3、熟悉Java编程语言和思想，扎实的编程基础；熟悉Flink开发者优先；\n   4、了解Redis、Kafka等技术中间件使用和原理；\n　5、了解 MYSQL、ORACLE其中一种数据库;\n　6、具有良好沟通协调能力和学习能力；\n　7、具有良好的团队合作精神，工作责任心强，积极主动；",
+      "encryptAddressId": "23627241af9fd7380XZ90t2-GVFTwIS8WfM~",
+      "address": "北京朝阳区富力中心1103",
+      "longitude": 116.460653,
+      "latitude": 39.896751,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c94b51856f2750a8e8981a7b8870444b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98ae4f4101dde5800c14d3cfb4e3e257",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Kafka",
+        "Spark",
+        "Hive",
+        "Hadoop",
+        "不接受居家办公",
+        "大数据经验",
+        "flink"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "应先生",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190326/5bd5abf9fecb999c8df2e81d49f2ac2ca505d532046575e91747594905c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "迅策科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01a85912d1d89c100HV_3tm5",
+      "brandName": "迅策科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180526/07dbe3b96e51a9643ca882e0a1bf9bcff1bb291d71f380539bff60c8fa92a5d9.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "迅策科技成立于2016年，是中国领先的实时大数据基础设施及分析供应商，开创至今获得腾讯、高盛、大湾区基金、KKR、中金等知名机构投资。公司以专有实时数据基础设施为基础，利用大数据及AI技术，实现云原生大数据层面的革新与开创，开发了于应用层面上具有战略性行业重点的实时数据分析，为全行业企业提供涵盖数据基础设施及数据分析的高效数据实时及定制化解决方案。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "年度调薪"
+      ],
+      "activeTime": 1719224191173,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迅策科技",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

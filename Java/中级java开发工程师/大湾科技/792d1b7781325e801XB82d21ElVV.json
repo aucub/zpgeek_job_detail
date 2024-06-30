@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mR0XEFX9BD4kg-B1RXvb8NXSJLXuo5f17hs--X2JBFWpwLstgTVQj6vl2bEtzhGP8j2ikoVqN80DXCInUxHFCjl5SZ6H-YQbr0EH2wWtR0v02uJ-Ocn5Bd9f9GomFA-k-SUsDLWu5xsw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "792d1b7781325e801XB82d21ElVV",
+      "encryptUserId": "7b402f11aaaf40cb1nRy29S7EFJR",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、完成项目经理和项目组长交代的gis 相关项目工作.\n2、根据功能需求和设计完成spring cloud spring boot 架构以及原有老系统框架后端代码的实现，使用linux、windows系统进行项目部署；编写代码注释和开发文档；\n3、分析并解决软件开发过程中的问题；\n任职资格：\n1、计算机,gis 相关专业，有1-2年实际开发GIS项目优先；\n2、掌握spring cloud微服务架构 、spring boot、MVC等框架，了解分布式、缓存、负载均衡等高性能架构相关开发技术；\n3、熟练使用kafka、activeMq消息中间件等；\n4、熟悉ORACLE、PostgreSql等数据库，熟悉redis、mongodb等非关系型数据库，具有良好的数据库基础，熟练使用SQL语句和优化；\n5，独立分析问题和解决问题的能力,热爱技术，沟通能力强，乐于进行团队合作，执行力强。",
+      "encryptAddressId": "cb0683d4e24fba4f0nZ_3d20EVE~",
+      "address": "成都锦江区泰合·国际财富中心6栋2单元902",
+      "longitude": 104.107472,
+      "latitude": 30.636136,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6530216eabb6e81d4e50f5feecb0784c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8f327233fa414cfbaa8fc64f6682180",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "JavaScript",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "熊先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "大湾科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abe62a7441421fd233B60tq7FA~~",
+      "brandName": "大湾科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200610/0b51a8bd8f87a6d21e4006c7b3d6d9c3afb1337a1cc270090ac6e4fdbfc99a74_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广州大湾科技有限公司主要从事GIS与智慧海事解决方案定制开发。目前有启航者APP软件，拥有全国8万艏船舶动态数据，注册用户2万个。易航通微信公众号可以搜索船舶，查看当前位置和历史航行轨迹。可以智能根据起点终点推荐航线。查询水文气象信息。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "餐补"
+      ],
+      "activeTime": 1716798734440,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大湾科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

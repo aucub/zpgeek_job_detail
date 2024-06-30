@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PXycnN6gcB-A7-11vCY3E3RaITxHKLh2kDX0BgJQbdPMMjZY0RfwKqbb_RunoYH3Qex38AlPyoKrtoLNCGx94YmRSnjPgpxS4j0k--HuJ6XhX1h_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db2ffe2916083c1803Nz3dm-EFQ~",
+      "encryptUserId": "6f53a096c89daf1803192tm8ElI~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "web前端，有项目经验，有可以演示作品",
+      "encryptAddressId": "91c9abb6a638b0b81XBz0ty6EFo~",
+      "address": "武汉武昌区武汉大学",
+      "longitude": 114.3652,
+      "latitude": 30.53786,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e4313317d73bf9f10f1d0965399525a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a56b7d8f25b346776a4792f8b99bf6e7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "java爬虫",
+        "Web前端",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "武大计算机学院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b9c8451237180b1a1HV43ti8EA~~",
+      "brandName": "武大计算机学院",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230404/7b5b554d84f9729c144cddbf0cfa8ca65cce6007ea5cf23599fb936f01c61853f7c40702ab5e4aae.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "夜班补助",
+        "加班补助",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719389980561,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武大计算机学院",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

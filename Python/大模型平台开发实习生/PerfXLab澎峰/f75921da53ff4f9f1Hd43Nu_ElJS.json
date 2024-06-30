@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rSidhQYbnCDoD-e1pV8BgeHBiaIYf18WWGqBjgd7QjelHu2k0LH22_LMKHMdCMPcizjJ1oect6lTz8VjjlsGY_MTJ8-Sd4EB_IS2LjIh-rmgbd-jP70ho_I4TpYlL62d7O9O_szrtw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f75921da53ff4f9f1Hd43Nu_ElJS",
+      "encryptUserId": "711e2dd7c1e193171Hdy39W5FFA~",
+      "invalidStatus": false,
+      "jobName": "大模型平台开发实习生",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n•\t主要涉及开源/闭源大语言模型接入、推理、评测，要能快速跟进最新的模型进展和推理算法/架构的改进，完成新模型接入或者新推理算法/架构的接入；\n•\t涉及prompt优化、RAG等prompt engineering工作，负责开发数据、prompt模板、badcase等大模型资产的管理工具以及策略优化和提升的实验平台；\n岗位要求：\n•\t计算机、数学、物理、通信等等相关专业大学本科或研究生；\n•\t有一门熟悉的编程语言，Python尤佳，有良好的编程基础；\n•\t熟悉至少一款深度学习框架如TensorFlow、Pytorch、MXNet等；\n•\t熟悉Ray、DIFY、BentoML等相关开源项目尤佳; \n•\t具备强烈的责任心和良好的抗压能力，做事积极乐观主动；\n公司优势：\n•\t公司是国家高新技术企业、专精特新企业，所在领域是国内龙头，在世界范围内也有很强影响力。\n•\t公司领导科学计算基础软件OpenBLAS(https://github.com/OpenMathLib/OpenBLAS)，有机会参与到顶级开源项目中，成为核心开发者。",
+      "encryptAddressId": "1736a8910d7b3b5d1nRz0921Eg~~",
+      "address": "北京海淀区翠湖科创平台304",
+      "longitude": 116.173661,
+      "latitude": 40.055861,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/680c773142a69004ad092d0acc736eca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6412c41ed43735bc7e75bfbd3c76dbd0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Linux开发/部署经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人力行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "PerfXLab澎峰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "59b05b92a86cfa650n153d29",
+      "brandName": "PerfXLab澎峰",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170713/70f6c30f74cb5193eb353954ed3ac76a7548e34a56f274a08cfd51f22571c56e.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "澎峰科技（PerfXLab）,核心团队来自中科院，致力于计算软件栈技术的研发，聚集HPC、AI、RISC-V三大领域。 国际领先的加速计算机技术解决方案商，赋能计算芯片、科学计算和高性能计算应用软件企业。澎峰科技在高性能计算领域有着上十年的技术沉淀，致力于算力基础软件研发。即使是在计算技术体系被国际巨头所把持的时代，仍坚持进行底层和基础技术的软件研发，因为我们坚信中国必须构建自主可控的计算技术体系，计算硬件技术和算力基础软件是新一代信息技术的基础建设。今天，我们厚积薄发，正在积极与各大国产计算硬件伙伴携手迎接新一代计算技术的挑战。\n\n公司网址：www.perfxlab.cn",
+      "labels": [
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1718620349000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "PerfXLab澎峰",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

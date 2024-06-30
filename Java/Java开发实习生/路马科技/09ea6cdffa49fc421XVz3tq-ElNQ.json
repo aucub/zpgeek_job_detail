@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O6YdIaKNKC_zd-A1TV-08dN56xracUaLpsF2VY3TXlaSQH2QsM-cqfUeiznlMfL61PFeHAHCcKIFbt-ov0IjqnseAZa1UyCMiE3y703TcnWudxvPRUY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "09ea6cdffa49fc421XVz3tq-ElNQ",
+      "encryptUserId": "d33a6211e40701951nZ_09u9F1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责公司线上项目的日常运营维护，开发需求处理，BUG修改\n2.负责三方平台的维护运营\n3.负责参与需求调研\n4.良好的沟通理解能力，能够独立思考，能够承受一定程度的工作压力\n5.负责新项目的开发业务\n\n技能要求：\n1.熟练掌握java开发语言，熟练使用mvc，boot框架\n2.熟悉物联网规范协议，有mqtt，tcp，udp等相关技术使用经验优先\n3.熟练掌握redis缓存技术，及使用规范\n4.会使用mysql，sql语言功底，了解触发器，视图等数据库相关技术\n5.了解linux操作系统，要有基本的线上运营能力\n6.了解jquery，js，vue",
+      "encryptAddressId": "52e5e4ac605162bf0nd43Nu4GVE~",
+      "address": "合肥蜀山区赛普科技园(南门)1号楼405",
+      "longitude": 117.14829,
+      "latitude": 31.835458,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/885d485f4c755ac8d04b2694a56523d2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4231f64def2cbdfcd073d2f67d74885a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "后端开发",
+        "Linux",
+        "SpringBoot",
+        "Spring",
+        "IDEA",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "豆女士",
+      "title": "项目主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220815/607f1f3d68754fd0a32e759b726b6c29bdc732b959a12fc83e2ab5c16af8698736135e59523_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "路马科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e538d7adf2838b1d1XRy09y8ElY~",
+      "brandName": "路马科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717037696243,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "路马科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

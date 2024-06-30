@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pE1THRucPA1A1-Q1Q1SJH40-7rwRhole4pKtR27Br4Z29I-RYveO-ydSVlzqzat-cmYKTQm8QrAQT6ArDivNqdjKRbbEfsm_r0_2Tet_k2S_3-qk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b04473119704a131HZ73Ni8ElU~",
+      "encryptUserId": "a1a7cceb85dfcaa103N73Nu8ElI~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n\r\n1、负责软件产品需求分析、设计及原型实现和研发。\r\n\r\n2、根据需求进行技术设计，编写设计文档。\r\n\r\n3、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务。 \r\n\r\n4、做应用产品研发或者ETL数据清洗工作。 \r\n\r\n任职要求：\r\n\r\n1、全日制本科及以上学历，计算机或通讯相关专业一年以上工作经验。\r\n\r\n2.良好的数据结构和基础算法\r\n\r\n3、熟悉 SSM 开发框架，具备maven实际项目使用经历，具备接口编程思想。\r\n\r\n4、熟练应用MYBATIS持久层技术以及JPA、Spring、Spring cloud等。\r\n\r\n5、熟练掌握Java Web应用程序编程技能，参与过至少一个分布式架构项目研发。\r\n\r\n6、熟悉SQL语句，至少熟悉一种关系型数据库，熟悉MySql尤佳。\r\n\r\n7、熟悉redis、mongodb等非关系型数据的使用，熟悉至少一种消息队列框架。\r\n\r\n8、熟悉 Tomcat，对高并发调优有所了解。\r\n\r\n9、有dubbo或者spring cloud框架使用经验优先，有高并发性能调优经验者优先。",
+      "encryptAddressId": "7f7be2d6cf53316d3nFz3Ni-Eg~~",
+      "address": "成都武侯区西部智谷B区5栋1单元9楼",
+      "longitude": 103.973342,
+      "latitude": 30.633439,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4021ff2e35df14b8c9d2eba3f0a3241",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e572db2c8e164a314fcff0bf68ccb10c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "数据库",
+        "中间件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181009/17fbbc13ba6e37173ddc73da648119e3cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "启迪数字医疗",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "def778a7f36f3be31Xx809q8Fg~~",
+      "brandName": "启迪数字医疗",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181009/ec576e62816fc10e52880a299dff2059cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "成都启迪数字医疗科技发展有限公司是北京启迪数字集团（清华控股）新近投资成立，注册地在四川省成都市武侯区的一家专注健康、医疗大数据及相关产业应用的高科技企业。 \r\n      公司依托相关科研院校雄厚的科研实力和数字医疗水平，致力于建立区域性的健康医疗大数据应用平台，并拓展相关政府、保险、医药、健康管理等应用。因发展需要，欢迎相关人才的加入。",
+      "labels": [
+        "五险一金",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717107712537,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启迪数字医疗",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

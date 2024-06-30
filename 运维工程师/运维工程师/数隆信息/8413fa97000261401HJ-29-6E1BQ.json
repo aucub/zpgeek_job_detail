@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NW_4talDbXtwO-F1J6vPiHvMNDmL7y85EzPxgMKldMk-QlP3fofOMlwnPPzYSxii9B6X-kBQPnWVd7efubxl_tuJfgWydw97lYoSZCAo5QrQy8qpc266XOIMLu8_WW_CDTUiXkHlfNHZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8413fa97000261401HJ-29-6E1BQ",
+      "encryptUserId": "42dc186f6d7597551Hdz2tm7F1o~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "该岗位为短期驻场，周期4-6个月，可接受短期项目的再投递简历\n一、岗位职责：\n1、对软硬件的周期性的监控巡检及维护工作（包括硬件状态指标巡检、应用访问情况、各基础组件的各项指标巡检、备份等 ，并提供周期性运维报告；\n2、协助完成各基础组件及各应用软件的安全测评评估、风险漏洞加固等；\n3、协助完成安全运维审计、安全测评等工作；\n4、根据业务需要进行应用软件的配置调整工作；\n5、协助处理问题故障以及应急演练等工作；\n二、岗位要求：\n1、本科以上学历，通信、计算机、网络等相关专业，具备2年以上相关工作经验；\n2、掌握主流国产化操作系统、中间件、数据库等安装、维护等工作；\n3、熟悉网络设备的管理和维护，了解TCP/IP协议、VPN、防火墙等网络安全知识；\n4、熟练使用至少一种脚本语言，如Java、Python等；\n5、了解系统高可用、负载均衡等架构模式；\n6、了解docker、ELK的基础知识和使用；\n7、具备较强的问题分析和解决能力，能够独立处理复杂的技术问题；\n8、能够及时响应客户的相关需求并解答问题；",
+      "encryptAddressId": "12ffe9f50bb301001nZ629W8FFRS",
+      "address": "上海冠捷科技大厦(舟虹路)503",
+      "longitude": 121.315093,
+      "latitude": 31.191502,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf25966c832268be5e36793381c1e8e00e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf683152df5245e52e9f57a85acbaacb986bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "计算机相关专业",
+        "通信相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230313/607f1f3d68754fd0873117f21940acb6dc361e07abb56e2ae82568e1c11a8226749c3bd0616_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "数隆信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "602cc89b1fd76e2e1XZ40ti7EFE~",
+      "brandName": "数隆信息",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230314/7bf6f160950405e99c31346781d2e2d1e0519afb1294fd69e82568e1c11a8226749c3bd0616d1da6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司成立于2013年，IT行业领先的综合服务提供商，在高端定制、人力现场、行业方案上拥有10年的经验和积累， 为超过300多家合作伙伴提供优质的项目服务，以及输送超过1000人的行业精英；立足IT行业，我们以服务为本， 不断的给我们的客户在IT领域提供咨询、规划、执行、测试、升级等全方位、高价值的IT服务；",
+      "labels": [
+        "交通补助",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1719309966108,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数隆信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

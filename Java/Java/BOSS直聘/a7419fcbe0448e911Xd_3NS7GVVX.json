@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l6SEehnM-XkSS-C1O3zbToj39fzYGhi5vu-TWqQHJ4-TEjOMrlvYkOCaVUvQ0S-h4EbwFszbO8cfEQZDwfT41djl4UPmcH0L56yt7IJ-OLw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a7419fcbe0448e911Xd_3NS7GVVX",
+      "encryptUserId": "0abf4fadaa29c1bf03N40tm4GVY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "精通Java语言，熟练掌握SpringBoot、SpringCloud、 MyBatis等开源框架以及Oracle，MySQL等主流数据库，掌握Redis等内存数据库\n熟练掌握HTML、JavaScript、Ajax等前端开发技术，以及JQuery 、EasyUI等一种或多种前端框架\n了解或熟悉Zookeeper、Tomcat、Nginx、MQ等中间件，了解CAS等开源单点认证方案\n深刻理解J2EE系统架构、面向对象的编程思想，以及常用设计模式\n具备良好的代码规范、文档编写、学习沟通能力，以及团队合作意识",
+      "encryptAddressId": "c26decebf45e905b0XF_0t66GFo~",
+      "address": "北京朝阳区冠捷大厦(太阳宫中路)5层",
+      "longitude": 116.44583,
+      "latitude": 39.970243,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0d829153fb72928d1c6cbdeb12e28b3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a776527eed71f7e6307616abb63dd08",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "分布式技术",
+        "架构师",
+        "Spring",
+        "Oracle",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "解决方案组销售",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181011/71af8209b62f6db3b9b36153ca2445e8a914cfb95ef2c2d50c4a3488707_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "BOSS直聘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fa2f92669c66eee31Hc~",
+      "brandName": "BOSS直聘",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100014,
+      "industryName": "人力资源服务",
+      "introduce": "BOSS直聘是一款在全球范围内率先发展移动互联网“直聘”模式的在线招聘APP，于2014年7月上线，2021年6月在纳斯达克上市。\n\nBOSS直聘致力于用技术的手段和用户第一的服务理念，为招聘者和求职者搭建高效、便捷、易用的求职招聘的平台。\n\nBOSS直聘产品的核心是“移动+智能匹配+直聊”，通过将在线聊天功能引入招聘场景，让应聘者和用人方直接沟通，让招聘最终决策者直接参与线上招聘，跳过传统的冗长环节，提升效率。\n\nBOSS直聘应用前沿人工智能技术，不断追求岗位与人才的多维度的智能匹配，提升招聘效果。",
+      "labels": [
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "住房补贴",
+        "节日福利",
+        "交通补助"
+      ],
+      "activeTime": 1718881820000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "BOSS直聘",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

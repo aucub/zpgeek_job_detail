@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZT_SySoi9VcEA-21iAZ9fSKH_qYPAHFB57xf0DPf_P1T9sXvI9a7sbU7mhyrkXZO1264XqnZ3P0pEhNCPQsLXGGKJzhZQe6OwqkgG2Vz6ouM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "376c54cb984f26af0HF60t28Els~",
+      "encryptUserId": "6845ed6ae5579a411Hdy0tw~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121300,
+      "locationName": "威海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\njava，MySQL数据库，ibatis/mybatis框架，SPRINGFRAMEWORK，SPRINGMVC，SPRINGBOOT\n职位要求：\n1、熟悉java语言；\n2、掌握常用服务器配置，如tomcat，nginx等；\n3、熟悉常用数据库，如mysql，postgre等；\n4、熟练运用springframework,springmvc,springboot,mybatis等常用开发框架，具备Web项目开发经验；\n5、熟悉svn和git两种代码版本管理工具；\n6、良好的编码风格、文档编写能力、口头表达能力和团队协助精神；\n7、拥有微服务架构思想，有微服务开发经验优先；\n8、有CentOS或Linux操作系统的相关经验的优先考虑；\n9、对行业内新技术、新知识具有敏感性。\n岗位职责：\n1、负责完成软件系统代码的实现，编写代码注释和开发文档；\n2、辅助进行系统功能、程序设计；\n3、根据需求文档完成代码编写、单元测试及维护；\n1、协助测试工程师定位发现的问题；\n2、配合技术经理完成相关任务目标。",
+      "encryptAddressId": "0b670a8a8eec2f491X182dS1GFA~",
+      "address": "威海环翠区威海云计算中心三楼",
+      "longitude": 122.057755,
+      "latitude": 37.52147,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/888c47195b49eed867b52779985acb12",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a6b9a96364a80711b8a154173b9cfd0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Spring",
+        "SSM",
+        "Mybatis",
+        "容器技术",
+        "服务器配置",
+        "负载均衡技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智慧北洋",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4bd3ceea290a92800Hd_09i1FQ~~",
+      "brandName": "智慧北洋",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717051344102,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智慧北洋",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

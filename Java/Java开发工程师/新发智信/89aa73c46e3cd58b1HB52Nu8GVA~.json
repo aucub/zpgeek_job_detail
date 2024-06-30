@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U5MzEFk909gLn-a1XY0WEeak0PCNvlcv2dOy05OAJpF9zNZxuvAnv3lUxs8_4aGyQHzLONGFfkvmukkJ3___GFX3zEtxgJJ7YdHwm3-dG-wb9IA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "89aa73c46e3cd58b1HB52Nu8GVA~",
+      "encryptUserId": "3936c13faf4fd11d1nZ_09i5E1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、2年以上项目开发经验，本科及以上学历，计算机相关专业优先；\n2、熟练掌握Java，熟悉i/o、多线程、集合等基础知识，有扎实的编程功底，具备良好的编码规范，熟悉面向对象和数据结构；\n3、熟练掌握Spring、SpringMVC、SpringBoot 、Mybatis、hibernate等开发框架，对框架原理有一定的理解，熟悉 SpringBoot、SpringCloud 优先；\n4、至少掌握一门 NoSQL 技术，如：Redis、Memcached、MongoDB 等；\n5、熟悉Mysql数据库，有良好的数据库设计能力和sql编写能力，熟悉消息队列、Redis等中间件的使用；\n6、熟悉Linux操作系统，可以熟练使用常用的Linux命令完成日常工作。服务器环境部署和性能调优(包括Nginx、Tomcat等)；\n7、有责任心，良好的沟通、合作能力，乐于分享，有较好的抗压能力。\n\n我们提供：\n\n-  极具竞争力且不断增长的薪酬待遇；\n\n-  完善的企业福利（员工社保+年底双薪+绩效奖金+餐补+带薪年假+定期体检）；\n\n-  良好的工作环境与平等、和谐的人际氛围；\n\n-  为员工提供发展机会，注重员工潜能的发挥和价值的持续提升。",
+      "encryptAddressId": "00a1919b869576821nB70966Els~",
+      "address": "北京海淀区学院国际大厦5层509",
+      "longitude": 116.353166,
+      "latitude": 39.977304,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ae2282ea65a3c9bab1abe7c9372118b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cefecef54daa1b45f781b2257a21b758",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "项目实施"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "席先生",
+      "title": "技术部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "新发智信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "96282851fe83fd2c1Hd42dW4",
+      "brandName": "新发智信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180525/54f47bb443d43ce5dbf3e0ef46f46509cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "北京新发智信科技有限责任公司成立于2011年，是国家知识产权局中国专利信息中心的全资公司，致力于为知识产权创造、运用、保护、管理及服务全过程提供解决方案，作为全国知识产权服务品牌机构和国家级高新技术企业，依托中国专利信息中心的品牌优势、资源优势和人才优势，面向政府、科研院所、行业协会、金融机构和企事业单位等服务对象，提供专业化的知识产权服务解决方案。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1718618061000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新发智信",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

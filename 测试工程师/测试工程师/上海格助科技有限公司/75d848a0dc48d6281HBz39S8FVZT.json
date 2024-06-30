@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VKYAsXsCS7DAK-z1EbxJGHKxs-fkEpn2d-HUDZXdXQViK8qeV3I3pBTtAsU70xJS1gK3PzwHVeGSfdA1PH9B8CVt8kn-DRYst_YmCphUbD2BgOKPaDsg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "75d848a0dc48d6281HBz39S8FVZT",
+      "encryptUserId": "d02b6cd9f63cf60c1nVz09W1EVBR",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1.与开发人员一起参与业务需求讨论与设计评审\n2.根据项目计划要求，编写测试方案与计划\n3.根据业务需求，设计与编写测试用例\n4.根据测试用例编写测试脚本，进行系统测试，并出具测试报告\n5.记录、追踪每一个系统中的bug直至流转至关闭\n岗位要求\n1.本科及以上相关专业毕业，两年左右软件测试领域工作经验；\n2.熟悉MYSQL/ORACLE数据库之一，并能编写SQL\n3.了解TCP/IP、HTTP等协议\n4.熟练使用LINUX基本指令\n5.使用PHP/JAVA其中之一编写测试脚本的能力\n6.了解测试体系中的各类基本概念\n7.拥有强逻辑分析能力，协助开发定位问题\n8.拥有强学习能力，可根据实际要求学习新技能、框架和工具\n9.细心与责任心兼备\n可选经验与要求\n1.熟悉GIT或其他源码管理工具\n2.了解NGINX反向代理部署和配置\n3.会使用BUG追踪系统，如redmine、JIRA等\n4.会搭建JENKINS持续集成，使用JMETER做压力测试，并在压力测试上有项目经验者更佳\n5.有互金行业经验者优先",
+      "encryptAddressId": "699b63a09b01dfe01nd90t25GFpT",
+      "address": "上海闵行区万科·七宝国际1期24幢525室",
+      "longitude": 121.337112,
+      "latitude": 31.151424,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230428/48ba41acc9cef1bfbab649c8bb6210c77a935670e15b99216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf6440367070adbdec29ba00a936f735ea6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "压力测试",
+        "Java",
+        "Golang",
+        "MySQL",
+        "计算机相关专业",
+        "测试工作经验",
+        "掌握软件测试理论和流程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201124/68208caaba7a019cfdf9af768ae04795d01d82850289522d07c24592510_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "上海格助科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5bfbe2ed9f69d8561HV_2t64ElA~",
+      "brandName": "上海格助科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717055300221,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海格助科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

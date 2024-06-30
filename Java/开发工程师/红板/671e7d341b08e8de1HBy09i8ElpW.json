@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M0gMJkXp4MCJP-H1yYJPeRsHZ5p0Bpe8Xpu4CuVLjt_4UzfW4zYfDeUFSTx9o_EGK-ITHbYhGNehz2FHsBnajSGKGGENVCw0ezOwOtTseX_ImGd4vkDfkSjVK4DCW5TTQnR6e_i9ihnRQO20ZaTuMI7G",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "671e7d341b08e8de1HBy09i8ElpW",
+      "encryptUserId": "fa5b95d116d9309a0nZy0tm6FVpS",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240600,
+      "locationName": "吉安",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位信息\n1、参与公司前、后端系统相关功能设计；\n2、负责具体业务系统的需求实现，细化解决方案并编码实现；\n3、负责对现有系统进行持续的优化，能提出意见并落地解决问题；\n4、配合产品，理解业务，按照公司项目研发规范进行设计与开发工作。\n任职要求\n1、本科及以上学历，计算机相关专业毕业，两年以上的大型Web应用开发和架构经验；\n2、理解并掌握Javascript语言核心技术DOM、BOM、Ajax、JSON等，精通JavaScript开发，包括模块化开发，单元测试，性能测试，压缩混淆等；\n3、熟练使用Vue JS前端框架以及相关工具、有Ant Design UI相关经验者优先；\n4、掌握Node.js、webpack等前端工程工具的运用；\n5、Java基础扎实，能熟练使用Java语言进行Web应用开发，有高并发Web应用的开发经验优先；\n6、熟悉主流Web应用相关的框架，熟练使用SpringBoot应用框架；\n7、对设计模式、软件工程等有一定理解；\n8、熟悉Oracle应用开发、配置、维护及性能优化，有MyBatis使用经验优先；\n9、熟练使用Git或SVN等版本管理工具；",
+      "encryptAddressId": "497061b8594a640903J_29y7E1I~",
+      "address": "吉安吉安县江西红板科技股份有限公司京九大道281号",
+      "longitude": 114.938298,
+      "latitude": 27.015588,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99fed8546451b186d87fa8c27f18b6ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf194ad4ad945174e5ab7996770d9edd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Oracle",
+        "不接受居家办公",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211014/607f1f3d68754fd0ad3e71c556992528177837ddc15a018b8d00c67062c9286fb4e06c95ff0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "红板",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5f3ece3b765b0f201nxy2dy-F1o~",
+      "brandName": "红板",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718326335367,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "红板",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

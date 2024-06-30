@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pwH8BHYeVBkD--j1CBCgwcDq9v4NyacSaSbQ5A-FBvHXGX4IKBBhrCgA4Hz6j-tLZhUfXN1ZEfncNc-k0xbjcGYi1O6RIk0651Tg0f0nAvTxv2XeiL4G7ag-8BLPGTn_nGkPU0WIETS8uQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4c78f0a247462811HBy3Nq8GFRY",
+      "encryptUserId": "d3f41c8a508dd81d0nBz2N-0FFdW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责大型企业各子项目相关系统的后端开发工作；\n2、负责招标人安排的其他开发工作。\n\n岗位要求：\n1、大专以上学历，计算机相关专业毕业；\n2、实际从事2年以上系统后端开发工作，承担过至少3个信息系统核心开发任务；\n3、熟练掌握JAVA后端编程语言；\n4、掌握目前主流的WEB系统开发框架如SpringBoot、Struts2、MyBatis、Redis等；\n5、熟悉MySql，Oracle等数据库开发；\n6、有中大型WEB或移动端系统后端设计开发经验者优先；\n7、有环境治理、供应链管理等相关从业经验，熟悉物流、售后、客服等业务优先；\n8、诚实可靠，强烈的责任心，具有团队精神和创新精神。",
+      "encryptAddressId": "c78174bb84af239d0HV82NW0EFZUxYq7UPw~",
+      "address": "广州黄埔区中马科学园南云三路",
+      "longitude": 113.449905,
+      "latitude": 23.143487,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230416/48ba41acc9cef1bf7c163f93d261ad3a67e31ac6adaf27266bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf795305b0fe27115f23a47d604e1215eb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "SpringMVC",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯女士",
+      "title": "副总经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=e2bd80f5587f31a3jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95dnHx05Np5vYxpS1O0mb01Z-r3KcdV4um9V2MgZgsApCcP__-oRXVOErKyXUZpxItPHADrmq1c_Q4ZB4Hl3HEqV3dC8XPVbJaqw8xxEOoJjOZbvReOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广州远弘科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dea103c8153055f61XVy3dS5GFQ~",
+      "brandName": "广州远弘科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220712/7bf6f160950405e95a2347c823972d66d302a8edaef88781f2a0e6aa1976b525c8a47da6254c73fa.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "广州远弘科技有限公司是专注于区块链技术项目开发的互联网科技公司。公司的创始人、合作伙伴及研发团队成员均具有丰富的互联网行业和前沿行业的项目管理经验。公司愿意为不同个性的年轻人提供自由的平台，一起玩、一起探索、共创数字新世界！",
+      "labels": [
+        "员工旅游",
+        "节假日加班费",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717585849000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州远弘科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

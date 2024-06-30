@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_BTVe80nzYQZu-i1QU6ua4uz_XSL93QkLLuB_9e_1nvcSpbLs7_4lqvHEMjESeAyVRje_6TJaN2XzvDZwY8jHk7zpKJPISKbcaD-aRwc6nSj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db4c4c020b9c29241Xd53Nm9EVA~",
+      "encryptUserId": "fee3d705a6f983c00XV409S9Ew~~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责公司后端开发与优化；\n2、负责为公司移动互联网产品提供稳定、高效的后台服务；\n3、参与项目的需求分析、概要设计、详细设计，技术文档的编写；\n4、公司安排的其他工作。\n\n\n任职资格：\n1、 拥有java后台开发经验一年以上，有较强的沟通能力和学习能力；\n2、 熟练使用MySql数据库；\n3、 熟练使用SSH，springmvc，mybatis等主流框架；\n4、熟悉Linux环境以及操作，熟悉Tomcat，Apache等开源的服务器的配置和调优；\n5、 熟练使用javascript+css+html进行前端开发者优先；\n6、 熟练安卓开发者优先",
+      "encryptAddressId": "27da4f8ef426ac3a33173di0EQ~~",
+      "address": "北京海淀区善缘街立方庭",
+      "longitude": 116.3137,
+      "latitude": 39.98306,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ae1fbaa4ba7c423576fbcd8761e5bbb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f597c2919a36679abfcd9ac71973417b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java",
+        "Android"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190816/64e07c3cc9b3e443d7423abc27ca97b8dd07415e48dd8aa288f3b6cf5c7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创益行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "39630c914c824c5c33J_2Ng~",
+      "brandName": "创益行",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070213594,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创益行",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

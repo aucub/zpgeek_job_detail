@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rAn6WTv4XboA1-91DOdjgcwPO7shIBc3_UbUdz5JcjBoaCm6o8By4J74sKPq3ntmFkBlTspfmXPfEC1qe8CC0kXyeW5PG_pEsxj-YHPMNTSywLV8RJGSZyyuUo-O1nsMb0tNIpyEjuslFwA2EqnsMuqua7HR-2p6B7m7pJFqt9UNP9Xg7A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0aeaafb3f36dfc941HFy2N-_EFRV",
+      "encryptUserId": "6f882fa2e70c0c340nd-2tu0EVVS",
+      "invalidStatus": false,
+      "jobName": "初级Java开发（现场一面）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1、本科或以上学历，计算机相关专业；\n2、有2年及以上Java项目开发经验；\n3、JAVA基础扎实，面向对象概念清晰，具备良好的编码规范；\n4、了解软件开发流程及方法，能独立担当需求分析与开发；\n5、熟悉Spring、Springboot、mybatis-plus、gateway、nacos、consul等框架；\n6、了解consul、MQ等开源项目基本使用；\n7、了解nosql数据库，如Redis、mongoDB；\n8、熟悉Mysql 、Oracle等关系数据库；掌握Redis、mongoDB等数据库；\n9、了解Linux常用命令；\n10、保险经验优先",
+      "encryptAddressId": "26a52f32f78030ba03N839--EVdQx4W2V_I~",
+      "address": "北京华泰保险股份有限公司1",
+      "longitude": 116.378077,
+      "latitude": 39.952275,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230731/48ba41acc9cef1bf6f62e0d440cae9cf9ee635001e71f1c16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230731/48ba41acc9cef1bfd5cc9559c0ddce3d9d70d9204e15f14d6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "保险经验优先"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220702/607f1f3d68754fd0982c9c02768930e4295e210b884b1ce84601ad74c14ed2250fb92cde038_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海复深蓝软件股份",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c0fa48a8107a38c21nN-0928FVs~",
+      "brandName": "上海复深蓝软件股份",
+      "logo": "https://c-res.zhipin.com/jrs/f28f80093b9d38b23168ad332005c00d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "复深蓝创立于2004年，一向遵循：“复蓝创造软件，软件通向未来”的理念，经过十余年不懈努力铸就卓越品质，已为数百家行业翘楚企业提供上万个软件系统服务。 复深蓝依托研发高新技术在保险、银行、零售、电商、互联网、智能制造等行业发力，将软件科技赋能企业创新，促进企业数字智能化的转型升级。复深蓝依托强大的科研团队自主研发了数百项软件产品，并获得CMMI5软件成熟度认证、上海市科技小巨人企业、国家及上海市创新基金等荣誉。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补"
+      ],
+      "activeTime": 1718927643495,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海复深蓝软件股份",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

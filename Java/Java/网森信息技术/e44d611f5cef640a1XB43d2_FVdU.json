@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JaDLmuuBxoaDV-J1eCRxtoRgJfh5hmZA4wfVAQqW2xo4P_1tr7s73c86QjXF3FBBnNGGo1qk7TSg-qZ4_J4ApaA-xt9ST_dgb9o2XKCLc5FYs0Wra0u7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e44d611f5cef640a1XB43d2_FVdU",
+      "encryptUserId": "31969ba74167a6290nF-3ti9EVBW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "要求\n1. 大专及以上学历、计算机相关专业，0年以上Java 实际开发经验；\n2. Java基础扎实，熟悉IO、多线程、集合等知识及基础框架，对底层原理有较为深入的理解，对JVM有一定的熟悉；\n3. 熟悉Spring和Mybatis、SpringBoot、SpringCloud等开发框架、微服务框架；\n4. 熟悉关系数据库(Mysql)或Oracle、Nosql数据库，有一定的优化能力；\n5. 熟悉Maven/Git的使用， 熟悉Linux环境，解决过生产故障；\n6. 业务理解能力强，熟练掌握软件设计原则；\n7. 熟练编写开发中涉及的文档\n8. 有消息中间件如：ActiveMQ、RocketMQ、RabbitMQ等开发经验；\n9. 熟悉列式数据如: Clickhouse、Greenplum等开发经验\n10. 熟悉分布式、高并发、高可用大型系统等开发经验；",
+      "encryptAddressId": "bef0bebf9d7546460Xx839m9FVc~",
+      "address": "南宁青秀区保利·童心缘门面",
+      "longitude": 108.410856,
+      "latitude": 22.828762,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb58eb808b2d5d84634b2d55f75b0c45",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eada991cb8571bc4456a41bda60bdaa5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Java开发经验",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "秦先生",
+      "title": "综合办公室主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220809/607f1f3d68754fd0299bc831b572366f751186bb732c0d5bce30514c0776d061e0f50470e67_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网森信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e26848d2ad7683381XZ-2d6_Elc~",
+      "brandName": "网森信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717037341855,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网森信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

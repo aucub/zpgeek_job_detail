@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "d02K-xpfr5iMQ-y1mZHvUbQyZc4S_QsAPS5jTIMqUaJ9nXcnLeKzgMAa02TIJmg57UDZQAjZSBE_Z1fnWB4RV_3Aqvla_Ch_WvQMVth6ysoE-fs_LMfg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b1d672e76d1f201b1n1y09W-GFtQ",
+      "encryptUserId": "0d7821ff1debe7980nZ92dy0GFVW",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责linux 服务器平台的搭建，安全体系建设，维护和优化；\n2、负责互联网产品上线、部署、监控报警处理等常规运维；\n3、负责为项目搭建服务器开发环境、测试环境、准上线环境、服务器系统性能调优与日常维护、服务器运行数据的采集等；\n4、负责系统安全评估和安全加固。\n岗位要求：\n1、专科或以上学历，计算机相关专业，2年以上的服务器维护经验；\n2、熟悉linux下 apache、tomcat、mysql、php、fastDFS等常见服务器环境架设,安全配置与安全检查,掌握Linux平台常用服务配置，能够快速部署、配置及排错；\n3、熟悉数据库软件及SQL语言,以及数据库(mysql)备份,优化以及灾难恢复者优先；\n4、熟悉Shell编程，善于使用脚本来完成日常系统运维工作,熟练掌握Shell、Python等脚本语言的一种并有相关开发经验者优先\n5. 保证项目服务的正常上线。\n6. 必要时担任项目的售后工作。\n7. 根据领导安排，编写相关文档。\n加分项\n熟悉openfalcon、zabbix / grafana+prometheus 等监控系统",
+      "encryptAddressId": "628d57d294d406520XFy3t-5GA~~",
+      "address": "成都锦江区华润时光绘4栋23楼",
+      "longitude": 104.087852,
+      "latitude": 30.592944,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/68faf30554366e2778d4ecc94f8373f4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac081a2b1609044cff3a7d3c43d0238a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "安全运维",
+        "Linux",
+        "Shell",
+        "SQL",
+        "Tomcat",
+        "MySQL",
+        "NoSQL",
+        "Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210727/09a8d9ea9f7c6b417901851168507950588165e209a863e617366284868_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云魔方",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1c23ddfb8f49239a1nd939-6EVE~",
+      "brandName": "云魔方",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210604/5a2ea4181a49153db87842bd4c8d19dab8b82d7ab429646477e1deab03b35b51.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "致力于退役军人信息化应用和服务的政务平台的搭建。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "全勤奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717109061859,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云魔方",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

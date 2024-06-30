@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "V9D6aNBbreBN6-k1fe6zsqea_ECr14k19MUYL__-0Y217qGH2-Hq4acV8v7plu4gc75AKQXUXdngTxdwLO7a6KIgmx7zFNkXTWeX-7OsMx6wRl7NPxWppdFadjdwl4vcoH6w6VqQc1w~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "58b5383054f3e0bc1HJ83d2-EVRX",
+      "encryptUserId": "b3cf64bfb09c8dc20XB-2N-6GQ~~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1.根据业务需求，快速完成系统功能的开发；\n\n2.独立完成模块的设计、编码、自测工作，解决开发中遇到的难点问题；\n\n3.保证所负责系统的安全性、稳定性及可扩展性；\n\n4.深入了解业务知识，并能敏锐发现业务痛点。\n\n\n\n任职要求：\n\n1.全日制本科以上学历，理工科相关专业，3年以上 Java\n\n开发经验，有实际项目经验；\n\n2.扎实的Java基础（集合、多线程、10等），熟练使用Spring、SpringBoot、Mybatis等框架，并了解其原理；\n\n3.熟练掌握mysql、postgres等主流数据库，具备sql调优能力；\n\n4.熟练使用Vue、Angular等前端开发框架，能够独立完成前后端业务开发\n\n5.掌握JVM、缓存、消息中间件等核心技术，拥有分布式、大数据量的系统开发者优先考虑；\n\n6.责任心强，沟通能力强，具备良好的团队合作精神和承受压力的能力；\n\n7.有webar，webrtc相关经验的优先考虑。",
+      "encryptAddressId": "a664ab96fbf004801H160t21FldTxoW8Wfo~",
+      "address": "南京雨花台区中兴通讯南京南站研发中心2号楼",
+      "longitude": 118.786175,
+      "latitude": 31.975492,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230415/48ba41acc9cef1bf3de5221aaa14a413e0c708a3a9b984f06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfdc4cb1988883ab22f07b5e890f39776f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "PostgreSQL",
+        "大数据经验",
+        "webar",
+        "webrtc"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "肖女士",
+      "title": "人资",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231124/607f1f3d68754fd012f6e02442f90016759c235b44e6fd5f0394cb4abb0eb0c3a82e5ed8c67b085_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中展数智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4d8a7798554aa95b1HZ529S1FFU~",
+      "brandName": "中展数智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719309209450,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中展数智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

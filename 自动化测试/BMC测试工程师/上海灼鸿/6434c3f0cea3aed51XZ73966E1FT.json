@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QcrEAWnLs8d9_-A1tsNWqOpma1IXVZaZtV3Hk4D8ijXF75RLOL6r9Cts9j3dwQeuNHZWNlyv-kKBjvfA5RBsftvu22ZAeYcJopaYjmB4mDxSFYJAVPm_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6434c3f0cea3aed51XZ73966E1FT",
+      "encryptUserId": "5dfc944126e41db20nR42ty-ElBR",
+      "invalidStatus": false,
+      "jobName": "BMC测试工程师",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.熟悉服务器BMC功能以及相关IPMI协议规范。\n2.根据产品特性与开发计划，完成服务器的BMC测试任务\n3.善于和其他硬件、软件、项目同事进行沟通，分析定位测试中遇到的相关问题，按计划推进测试项目的进行。\n4.学习新的BMC技术，如OpenBMC，Redfish的等功能并更新测试用例。\n5.编写python测试程序实现BMC测试自动化\n任职资格：\n1、本科及以上学历，计算机、电子信息、自动化相关专业，2年以上服务器BMC测试经验。\n2、熟悉BMC的相关协议，如：IPMI、SEL、SOL等，熟悉I2C、SMBUS、UART、USB等协议。\n3、熟悉AMI BMC等产品的功能以及测试方法.\n4、了解BMC相关硬件知识，如ARM，BMC芯片，熟悉NCSI，常见的设计方案。\n5、熟悉Linux常用测试环境搭建，并能独立编写python测试程序。\n6、具有较强的动手能力、设备操作能力，以及测试环境的搭建能力如PXE, DHCP, Jenkins, Docker等。",
+      "encryptAddressId": "79b6e25dfaf746b40nB629S6FFo~",
+      "address": "上海浦东新区张江·创新园1栋",
+      "longitude": 121.590161,
+      "latitude": 31.204899,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df5f7cca2357ab6a0b601ac2d1241ee2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1366c82b31165fb2de7b719264101cc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "移动端自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海灼鸿",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "38129e5d17ca28061nVz09q8E1U~",
+      "brandName": "上海灼鸿",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "从事手机相机软件开发\n目前团队30人，\n和国内一线手机品牌合作小米，oppo,vivo,荣耀以及国外三星合作",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "五险一金",
+        "加班餐"
+      ],
+      "activeTime": 1717064398393,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海灼鸿",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

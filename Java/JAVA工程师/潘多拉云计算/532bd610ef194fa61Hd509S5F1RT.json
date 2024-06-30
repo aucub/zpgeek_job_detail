@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FEz1VjF9pYLMK-11OGN5SRbTDJNX7la4C7T3RWJaxM0KaQdbpaGmeYrpd4zo6cNtRS2x8k5NHdSieud0WxS2h_-tC-Mn8QC4v1tPgJe2liovxCF8DxiPZWnxwKFJ2ddDKpmezu2KVEMUIg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "532bd610ef194fa61Hd509S5F1RT",
+      "encryptUserId": "b379784389f5e2b60nd-3tu7FFZV",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "Java编程能力：精通Java编程语言，包括核心语法、集合框架、多线程编程等。\n\nJVM和内存管理：了解JVM的工作原理，对内存管理、垃圾回收等有一定的了解。\n\nSpring框架：熟悉Spring框架及其各个模块，包括Spring Core、Spring MVC、Spring Boot等。\n\n数据库：熟悉SQL语言和至少一种数据库系统（如MySQL、Oracle、PostgreSQL等），了解ORM框架（如Hibernate）的使用。\n\nWeb开发：熟悉Web开发技术，包括HTML、CSS、JavaScript，以及相关的前端框架（如React、Angular、Vue等）。\n\nRESTful API：了解RESTful架构风格，并能够设计和实现RESTful风格的API。\n\n测试：熟悉单元测试、集成测试等测试方法，熟练使用JUnit等测试框架。\n\n版本控制：熟悉Git等版本控制工具的使用。\n\n软件设计模式：了解常见的软件设计模式，并能够在实际项目中应用。\n\n系统架构：对分布式系统架构、微服务架构有一定了解，熟悉常见的通信协议和技术（如HTTP、RPC等）。\n\n问题排查和调优：能够进行系统性能调优、故障排查和优化。\n\n项目经验：有较丰富的Java项目开发经验，能够独立完成项目开发和维护。",
+      "encryptAddressId": "88be6498371c807e1X1y3ti0EA~~",
+      "address": "徐州铜山区徐州国家高新区大学创业园A座9楼",
+      "longitude": 117.14216,
+      "latitude": 34.20552,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13c0bbdca3d2d065f50e25393db8b139",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0a96060390ecca9210b6c4b769f91d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Elasticsearch",
+        "MongoDB",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "潘多拉云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2efdd0382db432701nN93dW9FVI~",
+      "brandName": "潘多拉云计算",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717375415000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潘多拉云计算",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

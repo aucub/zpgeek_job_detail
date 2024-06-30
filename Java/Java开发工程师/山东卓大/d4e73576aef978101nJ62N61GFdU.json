@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bmWkMTtZfl8lG-I1deDPxBAw6lQdZ-1lPtNsMk-YcdVa81vS8B9RMz7-8-53JLYm5dhJs5uLHzky_5Nt-KLpfjccCFB85YAXih9py5d80LsVmK3F7wJld5InxSA4c6nF8DvKdn0CWsA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4e73576aef978101nJ62N61GFdU",
+      "encryptUserId": "413d02f3157c3e2b1HR83tS5GFI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120500,
+      "locationName": "烟台",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责产品软件设计与开发实现，优化现有系统及功能升级；2、参与系统的需求分析、设计、编码、单元测试、BUG解决等工作；3、配合各业务部门，从技术上给予指导；\n1、计算机相关专业本科及以上学历；2、一年及以上JAVA开发经验，JAVA基础扎实，熟悉IO、多线程、分布式、负载均衡、缓存等技术；3、精通JAVA EE相关技术。熟悉Struts、Spring、MyBatis等主流开发框架；4、熟悉Oracle、Mysql、SQL server等数据库，有数据库优化经验优先；5、熟练掌握常用的Linux、shell脚本。",
+      "encryptAddressId": "abc5bf4bca25e9a203J63tu6GFc~",
+      "address": "烟台莱山区蓝海软件园D座710",
+      "longitude": 121.48191,
+      "latitude": 37.454989,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c296fa482c2e72ea6ab7e66a8e0206d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9aa24bbb083ae2fb84981693370d0c1b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Shell",
+        "分布式技术",
+        "MySQL",
+        "MVC开发",
+        "SpringBoot",
+        "Hibernate",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170826/1e3af01d98058b098c7bd8bfb7e63c5b00b21308044851ea94e13ba2fb9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山东卓大",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6e02315e666bd21b0nZ62ti0FA~~",
+      "brandName": "山东卓大",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司专注于政务服务系统，农业，应急，海洋等方向的系统研发，包括web，app及微信小程序方向。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717042935192,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东卓大",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

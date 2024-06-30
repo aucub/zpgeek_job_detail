@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FS7Ivs_QioKgO-T1z6rKnjST6KKqgbOJJtleWTeYLuCgPSA2wxFLnf70f53l-Q5G1XhMQZw-0P7nyRuIe4krxrnEq9vJ900Aqm7C533s8VzbetMf3RFnmaR4-fWWj_FWrahLtR98e_rD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e1a5421233064a201nx72N--GFpR",
+      "encryptUserId": "0c8365164d35672c0nRz0t20EFtR",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1:计算机相关专业本科及以上学历。\n2:1年以上运维相关工作经验。\n3:熟悉Linux各个发行版本(Centos,Ubuntu)。\n4:熟练使用python编写运维脚本和爬虫脚本\n5:有运维监控经验优先，如influxDB，grafana。\n6:掌握Docker容器技术，熟悉Kubernetes容器编排。\n7:熟悉服务器硬件，GPU，CPU，内存，硬盘等\n8:有良好的服务意识、团队意识和沟通表达能力",
+      "encryptAddressId": "d89c8ba4405cb4501nNz2dq1E1I~",
+      "address": "上海浦东新区聚鑫商务园1号楼502室",
+      "longitude": 121.614502,
+      "latitude": 31.253594,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/344699e4dc46da5cbbe1b325a08c87bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c0bf539f98820c94a8081c4b7d3d17d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Python",
+        "容器技术",
+        "Kubernetes",
+        "Docker",
+        "Ubuntu"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余女士",
+      "title": "行政人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201208/20aa81b79967246a887b473cb674bc749eb117f9b4400c74cc61f402d95_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "储迅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "85331bb23d0e011e0XB83Ni1Ew~~",
+      "brandName": "储迅",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200629/e435e225ade0b75e6ba1fb22598b63c229fa9f99addaadfc0d757dccc064f25a_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "StorSwift是一家软件技术创新公司，成立于2014年，总部在上海，另外有武汉研发中心。\n\n公司专注于分布式网络和区块链技术，立足高性能计算和分布式存储，构建Web3基础设施、NFT市场\n等基础设施，开发和使用去中心化应用(dApps)工具和框架，为企业提供区块链解决方案。\n\n公司关注区块链安全和隐私技术，联合高校研究所致力于开发和推广零知识证明技术，以确保区块链交易\n和应用程序的隐私和安全性；深度参与众多Layer2扩容解决方案，优化性能，提高网络效率。\n\n公司深度探索数据分析业务，结合区块链和人工智能等技术，为社区和企业提供大数据分析解决方案。\n\n公司和Intel、AMD、NVIDIA等厂商建立了长期技术合作关系，积极开拓可扩展计算平台和异构计算在分布式计算以及边缘计算领域的应用。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "包吃",
+        "餐补",
+        "零食下午茶",
+        "团建聚餐",
+        "通讯补贴",
+        "节日福利",
+        "生日福利",
+        "交通补助"
+      ],
+      "activeTime": 1716878889015,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "储迅",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

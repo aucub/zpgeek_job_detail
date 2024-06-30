@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "riUo8Lmyr7yOD-t1T2eJ50Dq1VD8wtnPm5Y3zuogV5GQruHdYCivstRljhbb2GogaWHp7rvLV08YgfMsS9qycO6yYtDJ6IXASX-mHf18DvW3qxr9S95ZNfJvA2BP73bKue8ySQx2APDZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "02e8044fffba83e11HFz2dm9FVJS",
+      "encryptUserId": "2591a0ce5513c29c0nB_2dW4GVNU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责公司应用业务平台及相关产品的java后端研发工作；\n2、理解需求、参与系统设计，编写设计文档；\n3、重点项目的设计方案评审与技术支持，平日技术难点攻关；\n4、参与团队开发人员code review工作，并能提供性能优化、安全性建议。\n5、具备良好的理解和分析业务需求能力，良好的表达和沟通能力；\n6、依据设计文档编写单元测试和集成测试用例，并执行单元测试。\n\n任职要求\n1、至少2年以上JAVA研发经验，扎实的JAVA技术知识，熟悉IO、多线程、异步处理、集合类等基础；\n2、熟悉Spring、SpringBoot、SpringCloud、mybatis等开源框架，热爱开源技术；\n3、参与过较大规模软件项目开发，具备高效、健壮、简洁的设计和代码风格；\n4、精通Mysql等关系型数据库的使用，熟练掌握SQL语句，熟悉数据库设计与性能调优；\n5、熟悉互联网主流技术，对cache、消息队列、负载均衡等有使用经验；\n6、对HTTP、TCP、UPD网络协议有清晰理解，熟悉Linux开发环境；\n7、学习能力强，思路清晰，具备优秀的沟通能力。\n8丶熟悉redis、netty、rabbitmq等常用中间件",
+      "encryptAddressId": "6c57e70660e9397633N43dS4GFBZw4i8UPs~",
+      "address": "成都武侯区商鼎国际1号楼1-1-2506",
+      "longitude": 104.067717,
+      "latitude": 30.618555,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d10917fcd850e75c64303c3348430fe1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3717ea4f7d61ef34fd3c5b3362ffe31d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MES开发经验",
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "卡普",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b260844d628d86961HBy3dS-EA~~",
+      "brandName": "卡普",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190813/64a7321b82370b9e50f3cdcde9b2722e31bc2088997c044a0c7558f81091e7c6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1718164775000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卡普",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

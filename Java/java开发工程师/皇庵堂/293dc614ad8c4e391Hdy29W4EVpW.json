@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jWhpwOHSAfczo-S1SDp2H9qwAxG_VhkM0uU5lmE1Ow7cny2roxFO3TJJw1-bigq3_PGEomrnOALXPtV1Ewyacj35a1B31mEsskye4hKWSSaBXF7pEHRs",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "293dc614ad8c4e391Hdy29W4EVpW",
+      "encryptUserId": "091233218d4cbc890nV62t20GVJS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120700,
+      "locationName": "济宁",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、参与业务需求设计、项目设计及评审，负责后端服务核心功能代码开发与维护，并编写相关的概要设计文档等； \n2、解决项目开发中的问题，保持专业的态度和行为，有计划性的规划和完成日常任务，对项目产品进行持续优化和改进，用户体验等方面持续优化提升；\n3、持续改善和优化相关系统体验、性能、安全性；\n任职资格:\n1、大学本科及以上学历，计算机相关专业；\n2、一年以上Java Web开发经验,精通Spring Cloud、Spring Boot、Mybatis等框架；\n3、熟悉常用NoSql技术,如Redis、Mongodb等；\n4、熟悉常用关系数据库，MySQL、Oracle；\n5、熟悉常用消息系统,如RabbitMQ、Kafka等；\n6、熟悉Vue等前端框架；\n7、有高并发、高性能、海量数据分布式系统的设计及应用、调优经验者优先；\n8、具备较好的沟通、理解、表达、逻辑能力、学习能力和执行力；\n9、有php等其它语言开发经验者优先；",
+      "encryptAddressId": "ec84c6c8b5748f1a03B72NW4F1FYxoW8Vf4~",
+      "address": "济宁任城区兴唐大厦20楼",
+      "longitude": 116.595681,
+      "latitude": 35.420799,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf6bc7f2455371e11146e8a2c55cc600ed6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfc0cf2a53c41c40a512e2b7079cbb6f3b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240425/607f1f3d68754fd0753bc471b32fd7240da0b762dbe8747746471e231ec081bba2459f86c558304_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "皇庵堂",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a285b3339010ee651HZ_3927EVE~",
+      "brandName": "皇庵堂",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100401,
+      "industryName": "生物/制药",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718873076597,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "皇庵堂",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

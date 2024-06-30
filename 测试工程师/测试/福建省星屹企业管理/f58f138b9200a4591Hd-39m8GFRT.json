@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aprqksoOVXjdu-41nGcdwMv2Ckq5K_7pHss4pQrSVuf7naqPjgfdtEebML1iiXDdeVdEHi4-jwYIW-ZadoudHkZ8dv0B2vg7ILvyRjaJ_T0eyab_A9Pd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f58f138b9200a4591Hd-39m8GFRT",
+      "encryptUserId": "0e2cb4aecdc03d2e0n152tu8FltZ",
+      "invalidStatus": false,
+      "jobName": "测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "测试\n岗位职责：\n1、参与产品需求评审,理解产品需求,测试用例编写；\n2、熟练使用相关测试工具,有效的执行测试用例,完成项目各阶段任务,并对测试结果负责,输出测试报告；\n3、独立编写测试计划,测试方案,熟练使用测试用例方法,完善测试用例场景；\n4、规范提交bug,回归验证bug,对测试中发现问题跟踪反馈,定期梳理,偶发问题重现日志跟踪,协助开发分析问题,从用户体验角度提出有效的建议；\n5、负责产品系统测试,包括功能,接口,性能,压力,兼容性,安全性,稳定性测试\n任职要求：\n1、深刻理解测试流程及规范标准,能对中大型项目进行方案设计及进度规划；\n2、熟悉测试流程与规范,熟悉前后端测试,自动化测试,性能测试等；\n3、熟悉Mysql,postman,jmeter等测试工具；\n4、熟悉操作系统(linux,windows)并能熟练运用sql语句；\n5、具有java,python,php,c#等一种以上编程语言优先。\n\n1. 参与系统的需求分析、架构设计、代码审核；\n2. 撰写技术文档、uml模型、功能拆解、模块封装，准时高质量提交代码；\n3. 负责核心模块的架构及开发，对现有系统的规划、改进、升级；\n5. 对团队技术进行积累和沉淀，定期在团队内对新技术学习引进，并指导和培训他人；",
+      "encryptAddressId": "414602246e2df82b1nd729-5FlpY",
+      "address": "福州仓山区亚博士集团1",
+      "longitude": 119.291393,
+      "latitude": 26.009041,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d7e3c4cac5f6784fa60bbd5dc60a144",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4367b29bcdfa4850e6c886852ec275e9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "Java",
+        "Python",
+        "C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230415/607f1f3d68754fd0d751a9f5b788bd24b26b3276eb2604c5c16cd783b8a693f95b9e844e2e4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "福建省星屹企业管理",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1469d204d82fdb641XN42d-0FVM~",
+      "brandName": "福建省星屹企业管理",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101104,
+      "industryName": "美容/美发",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716301698734,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "福建省星屹企业管理",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

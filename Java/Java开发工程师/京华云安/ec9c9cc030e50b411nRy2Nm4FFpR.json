@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WCwGLA00Tgo7M-Q1MZMGEcV2z5OPgRzf6VYQ2zpwE0O8yMnBpdxDhY50-lkCtCTFf2K_Kvrqixj0bBfYtqpyQ5-o09geENL4sZHbHwqTDmkE8qjmKYMLjq99bykGsSqkwSndmJkNNr-I",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec9c9cc030e50b411nRy2Nm4FFpR",
+      "encryptUserId": "9fde485395f19f3e0nR82NS_FVZT",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\nJava，MySQL，Maven，jQuery\n工作职责:\n1、负责相关平台方向，主导相关系统的架构设计与研发；\n2、优化系统架构，提高服务稳定性、吞吐量和性能；\n3、负责架构设计、模型设计、核心代码编写、产品代码质量、产品文档等；\n4、能够帮助团队成员快速成长，改善团队工作流程，提高工作效率。\n\n任职资格:\n1、本科及以上学历，3年及以上相关经验；\n2、精通java语言，精通spring boot、mybatis等开源框架；\n3、熟悉分布式中间件，如mq、elasticsearch、fastdfs等；\n4、熟练掌握mysql、mongdb、redis的使用，有过相关优化经验；\n5、熟练使用easyui、jquery、bootstrap、vue等常用前端开发框架；\n6、熟悉快速迭代和持续集成开发模式，熟练jenkins、gitlab、maven等配套工具；\n7、对高并发、高可靠有深入的理解，有实际经验者优先；\n8、熟悉Linux操作系统，可以熟练使用常用的Linux命令完成日常工作；\n9、喜欢技术，肯钻研，有很强的学习沟通及领悟能力。",
+      "encryptAddressId": "b3d195ced5428d6b1HN629S4Flo~",
+      "address": "北京丰台区诺德中心6号楼1003",
+      "longitude": 116.302539,
+      "latitude": 39.826728,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9936ff4d4deeb348d9473d968add29a3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5bcf6d128b9f4575137e516fb0a7b5e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "总经理/技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201104/583f08c8f47a2a6c7c66a56d1cf6420c5a50d2b7186fa3d64518b82a2b2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "京华云安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5260ec80fc64c2aa0X1-2dy0Fg~~",
+      "brandName": "京华云安",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716780567364,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京华云安",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

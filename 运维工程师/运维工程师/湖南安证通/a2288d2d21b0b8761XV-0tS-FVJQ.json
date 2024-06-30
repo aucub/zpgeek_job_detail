@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rIEvUnn1HZIAA-z1XgBZyk_H-FeUQfO_MDl2WSpsMtjBTxG6sR5xRjHRdHlwd3B0hoEUlD99-Xe-SJJx9hdibwleXEJJbq8fPOwXXVGHXdxMGJ9JF0E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a2288d2d21b0b8761XV-0tS-FVJQ",
+      "encryptUserId": "784f7c29dea585bc1Xx93d26FFY~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位要求：\n1、主要负责公司一签通云服务平台的版本维护，系统升级，日常监控，性能优化。\n2、负责公司机房服务器及相关网络设备的运行维护及故障处理。\n3、负责日常桌面系统、办公电脑、网络打印机等办公设备的安装、配置、维护。\n4、对突发事件的快速响应和处理，排除故障。\n5、完成领导安排的其他工作。\n\n二、任职资格：\n1、大专及以上学历，计算机或相关专业毕业，2年以上互联网或IT类公司运维经验；\n2、熟练使用Linux操作系统，熟悉各种常用命令，熟练编写shell、python等脚本语言。\n3、熟悉Tomcat,Nginx MySQL,MQ等服务的部署、使用及调优。\n4、熟悉k8s/Docker/efk/gitlab等技术架构。\n5、熟悉主流网络设备，如锐捷、华为的配置与管理。\n6、具备良好的沟通、协调能力与服务意识，良好的团队合作精神。\n7、有漏洞扫描或者安全产品检测经验，或者有安全类证书的优先。",
+      "encryptAddressId": "908fc82fd93a37c10Xx92tW8FFM~",
+      "address": "长沙岳麓区麓谷·新长海中心A2栋11楼",
+      "longitude": 112.890351,
+      "latitude": 28.209528,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4d4596dd8b526dd594cd0f5f7e4a106",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a8c321cd6a91233eaf07f702010d22e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Shell",
+        "服务器配置",
+        "容器技术",
+        "Windows",
+        "Linux",
+        "MySQL",
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd06b0c586468b0445c03a9769a6f52078ca0eef874e0c02746d4b5dc3fc164694_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "湖南安证通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "80fe2af05283bb531XR52du_GVA~",
+      "brandName": "湖南安证通",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "一签通提供实名认证、数字证书认证与管理、电子印章认证与管理、云签章服务、电子合同会签与管理、电子数据保全及司法鉴定服务。",
+      "labels": [
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717107197348,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南安证通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

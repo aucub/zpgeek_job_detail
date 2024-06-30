@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IBYUtof253oRU-v1E6nSjTdKrwDrx1p9vHtduaMpgYKTbJsWktut1sfauxSzBagmLyb1qR4Eu9WCKR0V_lk_a7P968QInfSdeZW_d4ZoNWAFyZoZuZbk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9219db503e1dc4b81XB42NW9F1JW",
+      "encryptUserId": "95a413988498fa530nF-0t25EVdS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "1. 1年以上JAVA开发经验\n2. 具有计算机相关专业专科及以上学历\n3. 扎实的JAVA SE功底,至少掌握一种Web容器或中间件技术 如：Tomcat\n4. 熟悉SSM（Spring、springMVC，MyBatis），SSH（Struts，Spring，Hibernate或SpringMVC,Spring,Hibernate） ，SpringCloud\nspringBoot，springCloud，等Java框架和多种开发模式\n5.精通Oracle，MySql，SQL-Server 中至少一种，熟悉MongoDB, Redis ，Memcache等NoSql产品优先\n6.熟悉使用Linux环境、配置、命令\n7.有大型项目开发经验",
+      "encryptAddressId": "c70ac7b2cf21fc450Xx_3920E1E~",
+      "address": "杭州临平区以勒产业园11层",
+      "longitude": 120.26273,
+      "latitude": 30.448355,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91efce90ef97828f31e5c0a7a5fee10b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cde02633206264bb506ded6be392176d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "百壹科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dcc661d1cf3fe4711Xdy3N69E1o~",
+      "brandName": "百壹科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716792999000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百壹科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

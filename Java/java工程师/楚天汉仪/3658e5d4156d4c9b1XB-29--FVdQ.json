@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EjzNXIce_CtBR-s1YcfYYl5S1K3cPplQvg--_v2cGKvmRnA2dHi6g1R6aN9Ey7NHRsAKnGqL5cx3cJpCvaxdpSDmQgfMhWkqNwYI7plImQgGkeTz0g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3658e5d4156d4c9b1XB-29--FVdQ",
+      "encryptUserId": "b58a39d4d09acee803B609S0EFE~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、1-3年JAVA开发经验。\n2、熟练掌握Spring、SpringMVC、MyBatis、Shiro等主流框架。\n3、精通html,css,javascript,熟悉bootstrap、jquery等web前端框架，了解前端组件化开发。\n4、熟练使用SQL Server、MySQL等关系型数据库，能够独立设计并编写高效的SQL语句。\n5、熟悉Gradle/Maven、Git、Junit等工具。\n6、对缓存、NoSQL、消息中间件、RPC框架等有一定的了解，熟悉RESTFUL编码风格，并能够熟练使用。\n7、熟练使用html5、VUE、Typescript等常用的前端技术 ，有微信服务号或小程序开发经验优先。\n8、有Docker、Kubernetes、SpringCloud、ELK 使用和开发经验者优先。\n9、熟悉软件设计流程和软件工程规范，具备良好而规范的设计和技术文档编写能力。\n10、具备强烈的进取心、责任心、求知欲以及良好的团队合作精神。",
+      "encryptAddressId": "7ce68e3f135a01100Xx90t61Els~",
+      "address": "武汉东西湖区中南高科东西湖科创中心A14-2",
+      "longitude": 114.134314,
+      "latitude": 30.685157,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2dabdd04b969a8800d36fc5ccfd8144",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/50c71455461dfc80d1f762536e63f6ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MyBatis",
+        "Redis",
+        "Java开发经验",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "楚天汉仪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "378b5922df6646201XBy3N-0FA~~",
+      "brandName": "楚天汉仪",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "湖北楚天汉仪科技有限公司是一家以智慧能源管理平台和大数据为主，集研发、生产、销售为一体的高科技型公司。主要致力于智能仪表技术和智慧城市建设。       公司现拥有一套完整的研发、生产、经营体系，特别是在微电子领域、系统管理、机电一体化方面，拥有先进的生产工艺和生产车间，SMT车间、水表热表高科技校验台、系统软件研发中心、有着国内外先进数控车床的机加工车间等。      主要产品有智能水表、智能电表、超声波热量表、智能燃气表以及各种阀门等，产品广销全国及世界各地。",
+      "labels": [
+        "零食下午茶",
+        "餐补",
+        "免费班车",
+        "带薪年假",
+        "年终奖",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1717103838186,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "楚天汉仪",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

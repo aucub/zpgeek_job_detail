@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lJZQ2LtDUfpfC-91X05avp0oRs7ptusRhk2MLY_LjOEWCwuTI--ZaIy6MjQIbJUUazwKd_emPET_um4vp1PgyR5CURP_v39lICYQClrGG0AmQx6TYt8I",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "edca075e6b2bac721nJ43dq4E1FX",
+      "encryptUserId": "c64b44e2d64c2ce00nd83ti6FFJU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位信息\n\n1、根据研发进度和任务分配，完成复杂模块的开发工作；\n\n2、参与项目的需求调研和需求分析、软件概要设计和详细设计编写及编码实现；\n\n3、根据公司技术文档规范编写相应的技术文档；\n\n4、指导帮助初级软件工程师解决开发中遇到的难点；\n\n5、兼顾项目软件开发、由于组织结构或业务流程变化所产生的新工作任务、领导交办的其他任务；\n\n\n\n任职要求：\n\n1、具有计算机、数学、通信相关专业本科及以上学历，1年及以上Java开发工作经验；\n\n2、熟悉并掌握JAVA开发语言和工具，扎实的程序设计和软件开发基础知识；\n\n3、熟练掌握基于Web的应用程序开发,理解SpringMVC，SpringBoot、Hibernate、Mybatis、SpringCloud等主流框架开发过程；\n\n4、熟练掌握Web前端技术Html、Css、Javascript、Ajax，了解Bootstrap、Jquery或其它框架中的一种；\n\n5、熟练掌握MYSQL、PostgreSQL和Oracle数据库其中一种，有一定的数据库设计能力，了解数据库的体系、开发、性能优化等技术者优先虑；\n\n6、熟练使用SVN、Git和Maven 了解Redis、ActiveMQ， 具有一定文档撰写能力；\n\n7、熟悉Nginx 和Tomcat其中一种应用服务器的部署；\n\n8、编码规范，结构清晰，有效编码能力较强，做为储备干部培养；\n\n9、熟练掌握Vue者优先考虑；",
+      "encryptAddressId": "828b784c47385ee91HR939y4Ew~~",
+      "address": "南京建邺区新城科技园国际研发总部园2栋8层",
+      "longitude": 118.741431,
+      "latitude": 31.995427,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d80f2783959f81e06a64c98c5875c81",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d12181657855ae304c5cde72fb9252b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "SpringMVC",
+        "SSM",
+        "SpringBoot",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=3615b13c578db230jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1BRd7-LyuB7YNT-vh97SNxcyChusNp7vNpqSAa9mecyMO6hKcVX5-m5DToraFYGqHVd-q-oQiYaReC3XUZuxowaSFjkxLFNoww~&radius=15",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "艾泰克智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7a391fa9187a454d1nN93Nu8Elc~",
+      "brandName": "艾泰克智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719478866968,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艾泰克智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

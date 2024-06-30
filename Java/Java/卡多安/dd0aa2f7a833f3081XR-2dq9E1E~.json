@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "svZb_xRi8jWlZ-Q1YLzfBc511QjZP-zjBmXR9KacAPhTSYiBV56iR3k9UoB6O2ft7MhpPk8XqTZu4Gv3JFCkpkfrK6QoOlBeAfQaJVgGXh2yXPVv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dd0aa2f7a833f3081XR-2dq9E1E~",
+      "encryptUserId": "53f6f9cadcfee45f1X1-29y0GFE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机及相关专业毕业，2年以上相关软件开发经验；\n2. 精通Java程序设计，熟悉springmvc、Springboot、Hibernate、MyBatis等开源框架；\n3. 精通JavaScript程序设计，对当前流行的前端框架（如bootstrap、easyUI、extjs3.2、vue、angular等）有实践经验；\n4. 熟悉MySql、Oracle等数据库，熟练使用 SQL语句；\n5. 熟悉Apache、Tomcat等J2EE应用服务器；\n6. 熟悉SVN、Maven、Junit等工具；\n7.参与过项目的设计与研发；\n8.能适应短期出差",
+      "encryptAddressId": "7b57824f59a287000nRz0tq5ElE~",
+      "address": "西安未央区公安厅住宅小区陕西公安特种证件制作中心",
+      "longitude": 108.940541,
+      "latitude": 34.297333,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0df3c58381cfd4a2f84e9856de1cc33f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2032333aeed61df321e75c9246a03316",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "数据库",
+        "系统架构",
+        "NoSQL",
+        "Linux",
+        "软件工程师",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "关先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "卡多安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4f85374c901f3241nR739S-GA~~",
+      "brandName": "卡多安",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/0015b6c1a43dfc549a244592e9b2a3b3271caf4306eb55d9e37f7c07769026e6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "安全，安全，安全，\n政府合作项目\n个人有不良嗜好的，勿扰",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1719568490890,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卡多安",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

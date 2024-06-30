@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yqQ9xqnw27oun-V1YsE-BeS0vDB1ZZOrFzCltLnrhq2Ajd7ZlLy-RF8uqLbYlOzY2BObaQ5pUwyB6sJgwcxqrCaaWDZU_jKGjqZzDn9oiu8k0pA4S-r9_n2YVggTRTaGQVsdrqLlcyafWw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "384f7e9922f1087a1HF53ty5EFdQ",
+      "encryptUserId": "cfdcb21dba3996cd1nR629u_FVNZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\njava，Spring，后端开发，MySQL\n1、负责根据项目经理安排的任务模块的开发，并按照项目设计和进度进行编码及单元测试；\n2、根据公司的代码编写规范和开发流程独立完成代码编写、测试及相关文档；\n3、参与底层和重要模块的详细设计，控制质量；\n4、负责对重大的或批量存在的技术或质量问题进行攻关。并具备一定的指导解决项目开发过程中的技术难题的能力；\n5、协助项目经理进行系统开发过程的功能模块及代码规范的审查工作，确保开发结果不偏离最初的设计；\n6、负责公司平台及相关产品的开发、优化、升级等工作\n任职要求：\n1、计算机相关专业，1-3年以上JAVA开发工作经验；\n2、有独立设计并开发大中型系统的公共模块或组件的开发经验；\n3、Java基础技术扎实（JVM、类装载、多线程并发、IO、网络、性能优化、事务机制）；\n4、熟悉分布式系统的设计和应用，熟悉分布式缓存、事物、消息\n5、精通Web编程、熟练使用spring mvc，spring boot，springCloud，mybatis，spring security，shiro等框架，熟悉thymeleaf ，jquery，bootstrap，vue等前端技术或框架。\n6、熟练掌握Oracle、MySQL等关系数据库开发与设计，熟悉大型数据库性能优化及扩展方案的设计与实施，对于流行的非关系数据库熟悉其特点及应用场景。能使用Linux操作系统常用相关命令；\n7、熟悉常用的web技术解决方案，如：单点登录、分布式缓存、SOA、全文检索、消息中间件，负载均衡、连接池、 nosql，服务化，微服务.\n8、有较强的分析问题和解决问题的能力；\n9、有良好的沟通能力和代码编写规范习惯。\n10、有电厂相关经验者优先",
+      "encryptAddressId": "664f787b2482770a0Hx53Nm-F1tRwIu6V_M~",
+      "address": "西安雁塔区西安国家数字出版基地1期b栋304-305",
+      "longitude": 108.833844,
+      "latitude": 34.210756,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2ba7398092b7a3ad8eaafd0a059637926bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf8f606bc2aa1e4157c053bbba2d7e6d9d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Oracle",
+        "软件工程师",
+        "Redis",
+        "SpringCloud",
+        "SpringBoot",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "商务经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200806/029d28a96f96b5167892f012efb5a6cad58602ae79574fc2e7464c33ae8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "西安索思",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d3c7014f9419e6da1HB_2du8EVE~",
+      "brandName": "西安索思",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719559156984,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西安索思",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

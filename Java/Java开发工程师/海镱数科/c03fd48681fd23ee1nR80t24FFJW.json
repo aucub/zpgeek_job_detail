@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pMC7Gla7Vp0L4-Y1yN7yEkiOa1vMLILOHxP8Hh6i2aQtF8B__fbarXdjn37h7ImCiClIXHV4U4KBpGnNwYU7hV39Nv_O07Wf4s3wRTMDHUQcJ9pAh5PSy1-vpJT_lzMeiSVAga0rSg-G",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c03fd48681fd23ee1nR80t24FFJW",
+      "encryptUserId": "6de78ff4528a0be63nJ839S5FlA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1）计算机软件相关专业，本科及以上学历；\n2) java后台技术开发3-5年，有深厚的java基本功；了解常用的设计模式，并在实际生产中用过；\n3) 熟练掌握Spring Cloud、MyBatis、springboot、springMVC ；\n4) 数量掌握mysql,能写出复杂的sql,对sql优化有一定的理解；了解常用的nosql数据库；\n5) 熟悉消息队列（rocketmq）、缓存（reids）、多线程，定时任务框架等技术的原理和使用场景及限制；\n6) 熟悉前后端分离、微服务开发模式，熟悉VUE+element-UI框架；",
+      "encryptAddressId": "96b23a84ef38bd691Xd_3tS9Eg~~",
+      "address": "上海浦东新区银桥大厦1105室",
+      "longitude": 121.599168,
+      "latitude": 31.25174,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c6dc56d2554801db00fa728bd95092bb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/02edc62b0d7148d82c625a4b8bf5c44c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "多线程",
+        "微服务架构",
+        "消息队列",
+        "Spring",
+        "SpringMVC",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "首席运营官",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210804/72cc3c6b8ecfe078ed196d8db3303dedd7fc4d177d4f2f3558a19754e3f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海镱数科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "311882d3735e5e601nZ_3ti1F1U~",
+      "brandName": "海镱数科",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201027/1eb8174d3707d9e83dead51e41be6ecdd7fc4d177d4f2f3558a19754e3f02899.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "HiYi.cn于2020年7月创立于上海，是船舶备件跨境交易平台。立足国内，面向国际，利用互联网和自身资源信息优势，为全球船东，船舶管理公司和代理商等采购商提供线上一站式交易服务。公司拥有专业的“互联网+船舶”团队，未来将深耕“互联网+船舶”行业应用与创新，竭力为全球船舶相关用户打造更加便捷、专业、高效、安全的船舶线上交易平台",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1717130782746,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海镱数科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

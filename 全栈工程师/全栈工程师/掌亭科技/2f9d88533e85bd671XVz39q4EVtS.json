@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PooE6xK93T76I-M1neNmVrHafHWf4qyD5rKC_dxWX_1iLSHLLn2oDbpGAiM1FzqiZFs0mn3lXWr-iO-YLcDBowyPFy_PWz2a8tymYXqqeFkxteVP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2f9d88533e85bd671XVz39q4EVtS",
+      "encryptUserId": "31f8b4681cd52a540nN72dq4FFo~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "掌握Java全栈涉及的技术体系和架构与前端开发技术。\n工作内容\n1.业务模块开发，涉及PC端、移动端（微信/小程序/APP）；\n2.参与产品设计、系统架构、数据表设计、模块开发；\n3.自测和联调，对模块开发的进度和质量负责；\n4.完成领导交待的其他事项。\n技术要求\n1.扎实JAVA编程基础，精通Spring Boot、Spring Cloud、Thymeleaf、MyBatis、Redis等技术栈；\n2.精通Mysql、Redis、Mongodb 等关系及非关系型数据库（至少各一种）的数据结构设计及数据处理；\n3.熟悉服务器配置及发布：Linux、宝塔、FTP、域名解析、Nginx、Tomcat/Apache等；\n4.熟悉HTML/CSS/响应式/浏览器兼容性/Vue前端框架；\n5.良好的沟通能力和团队协作精神，责任心强；",
+      "encryptAddressId": "5d683cedd96228fc1nF93N-0E1c~",
+      "address": "重庆江北区文华天成小区5楼平台",
+      "longitude": 106.532556,
+      "latitude": 29.585174,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e71ef9396eb1a2f310454109b8bafb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7328bd4244ed5830b6e6289c73614ada",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "全栈开发",
+        "Java",
+        "Vue",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231025/607f1f3d68754fd0d310c31ec2e7c0fbe612e0cd9e12ba5ebe9adda1d4c509e4c60d13aded7611f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "掌亭科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c6608a1fb1e0b4763nJ93dy-",
+      "brandName": "掌亭科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190814/58ceb3e24e7fd26d09ceba251dba720bbe9adda1d4c509e4c60d13aded7611fb.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "重庆市掌亭科技有限公司专注于打造全国城市级停车数据平台。同时，该公司所属集团还涉猎到文旅行业，环保行业，艺术培训等行业。欢迎社会各种人才加入团队。\n我有平台任你飞，有行业内中偏上的福利，你来不来？",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1716714490873,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "掌亭科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

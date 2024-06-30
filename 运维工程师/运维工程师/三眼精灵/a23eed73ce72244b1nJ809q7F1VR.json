@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "olfs2YZr1w5PP-q1W5cN9qp0v_PBog2imV8PFF1_D0LFMxLTOch1k5mbbahBwlYlyH8rNyw9ZvNYVmZbFhpisLwfq2p0qMCobzmTzKKivFE0Si3d0nHokF69rRZa34tyKJG-k6IxxA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a23eed73ce72244b1nJ809q7F1VR",
+      "encryptUserId": "9f3a73c11ed2e6e70XR80ty6Eg~~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1. 负责公司产品、相关组件的部署、配置和变更工作\n2. 负责公司产品大数据环境的配置和维护等\n3. 日常监控及巡检,及时进行故障排除,确保系统的问题、业务的连续\n4. 协助完善运维的工作流程和制度\n\n任职要求：\n1. 热爱运维工作，性格温顺，有解决问题的责任心和耐心\n2. 熟练使用linux命令行及其脚本编写。\n3. 对centos与ubtun系统熟悉并掌握调优，扩盘，故障排查等基础能力。\n4. 熟练使用sql与数据库（mysql、oracle）部署，扩容，运维等。\n5. 熟悉Java应用部署和运维排查，熟悉Nginx、Redis，了解 Kafka，Zookeper，ES等\n6. 了解大数据常用中间件运维优先（Hadoop、HDFS、Yarn、Hive等）\n7. 了解docker，有k8s经验做过Pass平台运维经验优先\n8. 有搭建devops流程优先",
+      "encryptAddressId": "5d943fb40ee6d88b0XF_3ty8Fg~~",
+      "address": "南京雨花台区南京软件谷科创城B区B3栋7-8层",
+      "longitude": 118.741602,
+      "latitude": 31.936874,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8762c6fd7059d7baff5b92c60d2de428",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e808048fd49a80464e35a7df13ae4d54",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "容器技术",
+        "分布式技术",
+        "Nginx",
+        "Docker",
+        "K8S",
+        "DevOps",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "技术支持",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190813/a853c8180366e9121566eb4672d48b4d3a25dccf587e9ad333b796045d4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "三眼精灵",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4582d53a4f22115c0nN90ti5Fw~~",
+      "brandName": "三眼精灵",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200903/5f9aa5f2f1a48c1c7c0f01dd3c1504a54156be07ef27559702da5bfce030a6ae_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "三眼精灵是一家以群体智能和场景知识管理为核心的人工智能公司，通过互联网+的模式为用户提供AI产品和服务。\n公司深耕公安行业，自主研发出法眼、云眼、神眼、超脑四大产品，满足政府、行业用户在知识社会下的行业知网、跨区协作、场景商店和智能助手的需求，通过行业认知（HI)+机器智能（AI）打造行业的智力共享（SI）平台。支持行业用户应用创新、支撑行业催生新模式和新业态。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717049082319,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三眼精灵",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

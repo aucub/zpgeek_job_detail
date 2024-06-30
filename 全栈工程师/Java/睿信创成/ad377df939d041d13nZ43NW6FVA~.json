@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HciJK9w9SO02B-Q1wiDZNWYE_444hIJH79Tf9MLOZgi_yyJOZZ4o6_0T9JOfFDQNS7uS3JD2TTCZSRQcm39jl54uqq1qS5dmqkzbceZzMR4w2d-p-Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad377df939d041d13nZ43NW6FVA~",
+      "encryptUserId": "520dbb0c1bc3faa11nR-2ty8FFpS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\nJava，前端开发，全栈，移动开发，后端开发，系统架构\n岗位要求：\n1、产品需求梳理、技术框架搭建、代码和文档开发与维护；\n2、主持开发电商平台PC端、移动端、微信端、小程序前后台;\n3、负责项目接口开发跨域互联互通；\n4、与产品经理对接完成项目实施。\n任职要求：\n1、全日制大专及以上学历，计算机相关专业，2年以上Java开发经验。\n2、并可独立模块开发，熟练掌握OOP开发，熟悉MVC架构，有良好的编码习惯\n3、可二次开发、模板改进和系统重构，代码编写规范，熟练源码加密；\n4、熟悉saas平台开发、微信公众号、小程序；\n5、精通Mysql，编写sql脚本，能根据数据特点设计，优化库表结构.\n6、熟练并能手写H5、CSS3、JavaScript、精通Vue框架、element组件库、Ajax技术，全面掌握浏览器兼容性，有跨域开发实战经验；\n7、精通Redis等缓存型数据库;\n8、精通springBoot，mybatis；\n9、熟练掌握Linux基本操作和shell脚本语言;\n10、能不借助字典快速阅读英文文档；\n11、工作积极主动，具有良好的沟通能力，团队合作精神，能承担工作压力;\n12、沟通、抗压、责任心、执行力。（必备条件）",
+      "encryptAddressId": "66350a6da9bee95a1HZ43dm-F1A~",
+      "address": "成都郫都区九川花园总部15栋二层",
+      "longitude": 103.949809,
+      "latitude": 30.798458,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54c5cd353912108a21bf2781db701de6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6c9879aef37d0db7c7ade062fdce8c7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Redis",
+        "Vue",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "睿信创成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c68ccd03bb4c46160nJ72N-7EQ~~",
+      "brandName": "睿信创成",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190906/8bf93b199b816b9ac43b804e07407bfbaca92df71b08d35bd90fa3ef495e4b03.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "我们是一家网络科技公司。主要对接政府部门，开发政府部门信息化系统。目前公司电商分部团队刚刚起步，晋升空间巨大。",
+      "labels": [
+        "加班补助",
+        "全勤奖",
+        "交通补助"
+      ],
+      "activeTime": 1716730958047,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "睿信创成",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

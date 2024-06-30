@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "C7GomWywsDDIV-w1oC0seoqxrenYDs-Yb54nBgDRgOX4IZgUiTKS_pSnAaYP1cptaDuCC6h4_TR1Ku9RM-Twhi0E7yAM93Tx-KMygmr5hEdRyRCXrslyczBjiWnLW-RAsR3pi8DJcQvT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "20d3be02814e4f591Xx52dq-EVFX",
+      "encryptUserId": "6fc5a79e9d035a3e1nZ52t24FFA~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科毕业，2年以上java软件开发经验；具有很好的代码编写规范； \n2、具有很强的学习能力、理解能力和问题分析能力； \n3、java基础扎实，熟练掌握Spring，SpringMVC，MyBatis等框架。\n4、熟悉spring boot,spring cloud等框架\n5、熟悉nginx、tomcat等应用\n6、有微服务开发经验者优先（dubbo,springcloud）\n7、熟悉大型数据库如 Mysql、Oracle、Sql Server 等的开发； \n8、使用过常用的开源中间件者优先，如Redis、Zookeeper、Memcached、Nginx、Couchbase、MQ等\n9、具有良好的团队意识和协作精神，具有很强的责任感和危机感和使命感，有较强的内外沟通能力； \n10、喜欢有挑战性工作，根据项目需要，协调对其他团队的支持。",
+      "encryptAddressId": "7da7dcb2637196dc33182926E1A~",
+      "address": "杭州余杭区杭州科技城宝龙广场2幢816办公室",
+      "longitude": 119.98679,
+      "latitude": 30.278696,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9bc7157bb9ef387ee9ba36ba75732db3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/333c00acf9fd3543dce8047fb54e60aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "中大型项目架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "祝先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd0351ba26bd11b1b26976beee7223aaaf9e3c84ae4b53512685f9e10d9ced_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鲸道科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e570412705532da71nx42tu4FFU~",
+      "brandName": "鲸道科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127121488,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鲸道科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

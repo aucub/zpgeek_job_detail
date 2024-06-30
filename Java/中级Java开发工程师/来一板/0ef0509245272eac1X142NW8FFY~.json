@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0mzMrQTvoIsia--1L9i9R33OB8_u10Dfee0fINWhAVPys9NIbpPGQ_zS3GEJti0WDi4GrAuCbJAeWYmk9Jy7Ivq60vXskO0Wrum4EQTC3xFYrFUulViG5IjIsEUVwlDZpNrscS8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ef0509245272eac1X142NW8FFY~",
+      "encryptUserId": "d90698846b59d9370XFz0tq6Fw~~",
+      "invalidStatus": false,
+      "jobName": "中级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、为网站和APP提供后端架构、服务；\n2、开发相关产品功能的运维后台；\n\n\n任职要求：\n1、本科及以上学历，1年以上开发经验（不含实习期），计算机相关专业，热爱互联网，有责任感；\n2、熟练掌握Java基础，掌握J2EE基本架构，有大型Java web开发经验，熟悉I/O、多线程、集合操作等基础技能；熟悉缓存、消息队列等中间件技术；\n3、数量掌握消息队列、Dubbo、SpringMVC、SpringBoot、Redis、MySQL；\n4、熟练在Linux环境下开，熟练使用Linux命令行，如能够管理docker的manager/node，能够使用命令行构建jumperserver等，而不是仅限于拉取Java服务的日志；\n6、熟悉Maven项目配置管理工具，熟练使用Tomcat、Nginx等应用服务器；\n7、熟悉至少一种容器化工具部署，如docker、swarm，会使用排布工具。\n\n\n\n福利待遇：\n\n1、五险一金以及正常双休；\n2、不定期Outing；\n3、明确的薪资结构与每季度提薪计划；\n4、期权奖励；\n5、超大办公区域。",
+      "encryptAddressId": "68ef6a4be28382dd1n163dq6Ew~~",
+      "address": "杭州余杭区梦想小镇(东北1门)7号楼301室",
+      "longitude": 120.0049,
+      "latitude": 30.28845,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da1b8ea808c77fdb7594e3579841f1ae",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4047c130b3a28b7f5e997f8b451d241",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "springboot",
+        "Dubbo",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "来一板",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b1c19ce60ce173c20XB72dq7",
+      "brandName": "来一板",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170503/dc97aeffc283a02e2eeecdd9eca5ff8143d16fcf476baa6e3258e1f71ee63cb2.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司成立于2016年，是一家汽车前市场互联网创业公司。总部位于余杭梦想小镇，在北京、天津、波士顿开设有办事处。拥有一套完整的新车交易解决方案。包含电商平台、ERP、物流管理系统（TMS）、汽车金融服务等。 部门：产品技术部、用户体验部、平台运营部、市场销售部、后勤部、财务部。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "住房补贴"
+      ],
+      "activeTime": 1717567815000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "来一板",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

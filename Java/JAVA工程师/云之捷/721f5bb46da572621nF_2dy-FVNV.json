@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oL4Jau8NlX-9n-814GTVpRdGEv731BydHNnXIjKyyriBJaewTequ_ntRiiFNaVbJB01cK008jgaiLmSg4uHrUfbl9An50wvCaew_KYjJ2Fz03iUpROHG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "721f5bb46da572621nF_2dy-FVNV",
+      "encryptUserId": "05a0ab99e004c3e00nZz2du9FVNU",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n\n1、负责微信小程序商城研发；\n\n2、参与需求分析，提供解决方案；\n\n2、负责代码的编写、测试、维护，及相关技术文档的编写。\n\n任职要求：\n\n1. 大学本科及以上学历，计算机相关专业，软件开发经验2-3年，较强的自主学习能力，有相关行业开发经验优先；\n\n2. 基代码风格良好，熟悉常见的设计模式，具备中型系统的规划设计能力，具备运维问题的分析定位及文档编写能力；\n\n3. 精通Java开发语言、熟练掌握IDEA开发工具,使用maven、git、svn等开发工具；\n\n4. 熟悉掌握Spring MVC、Spring、MyBatis,Hibernate，Springboot等常用框架；\n\n5. 熟悉一种或多种常用消息中间件，例：Kafka 、Active MQ、Rabbit MQ；\n\n6. 熟悉redais缓存运用;\n\n7. 熟悉mysql、oracle、sqlserver等数据库，了解SQL性能调优；\n\n8. 具有责任感，良好的逻辑思维、沟通能力，有高度的责任心。",
+      "encryptAddressId": "da83b4163a2fbff503F539W_FlQ~",
+      "address": "南京雨花台区天合广场5楼",
+      "longitude": 118.753184,
+      "latitude": 31.997708,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0a0393a113feffe84c7ba1c8e01e7c9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3cd10f62ff34e5fb8e1981fe27870d7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "MVC开发",
+        "Spring",
+        "Hibernate",
+        "Oracle",
+        "SQL Server",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邹女士",
+      "title": "客服主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=01fcdf65753a1d22jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95ZnXR05Np5vYxpS1O0mb01Z-r3KZRW5OazXWIqZAkFqSMIqvzzRXVJF7DrXEU4w9oeGAu1y6wM-FgbAITh0XR5ByFFoCmMbsClwskmFOxc1uVZ7BKOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云之捷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "652cd914318a97ea1nd93du4F1s~",
+      "brandName": "云之捷",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210125/2daca51a3743caecc5cb517e020d3c5e56bbdc7c9bcf8bfe909daf2408dec533_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "公司旗下W4PLAY游戏平台产品，官网：www.we4game.com",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假"
+      ],
+      "activeTime": 1717069598596,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云之捷",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

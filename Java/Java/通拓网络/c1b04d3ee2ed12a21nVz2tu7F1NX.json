@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ATyUXwtdNiPMr-w1n0ggmODd0GTYNwAkWMa2H72rhAnGNckSYHXekieGxeoOK2rppdT4tjNAbvJyFC8tIezuKJUM3DK4G8ljJjRArLMsqcOYpXnqQg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c1b04d3ee2ed12a21nVz2tu7F1NX",
+      "encryptUserId": "4f8329d1a1ea335303F70tm4Flo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职责:\n1、参与公司软件项目的研发，承担功能级、模块级任务；\n2、参与数据库设计；\n3、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n4、进行程序单元、功能的测试、压力测试；\n任职要求：\n1、具有扎实JAVA基础，熟练应用常用设计模式，有良好编程习惯；\n2、熟练使用一种或多种主流数据库系统、如mysql、postgresql、oracle等，至少掌握一种NOSQL的使用\n3、熟练使用springboot、mybatis等框架，并理解他们的工作机制和原理，对spring原理有一定了解；\n4、熟悉Linux/Unix操作系统，熟悉与开发有关的各种命令；\n5、熟悉HTML、DIV/CSS、Javascript、Ajax、jquery等Web编程技术优先；\n6、据有GIS方面工作经验，或GIS方面学历优先\n7、有较好沟通能力，责任心强，具备良好的团队合作精神；\n8、自学能力强，对技术感兴趣，善于在项目实际运作中不断学习新技术和解决各种技术问题；",
+      "encryptAddressId": "76f1eb976b0fcd021H153N2_ElA~",
+      "address": "长沙天心区鑫远杰座828号",
+      "longitude": 112.986069,
+      "latitude": 28.123669,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2dc4314ccf49682752359be1ee2be6a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/187bcf2d02fb5b3f6f47942ce2441409",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "Spring",
+        "MySQL",
+        "Oracle",
+        "NoSQL",
+        "PostgreSQL",
+        "Unix"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220816/607f1f3d68754fd01315abc8fedda7364e44f75c6c5a161d5df92e747e800762d576c5c0093_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "通拓网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aeff3cb90a44fe090HF62965FQ~~",
+      "brandName": "通拓网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200409/e53c1e84aa254f8f7af81144278ef33a249205d3df784e3917fd049d57817e04_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100025,
+      "industryName": "运营商/增值服务",
+      "introduce": "",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "底薪加提成",
+        "绩效奖金"
+      ],
+      "activeTime": 1717105646820,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "通拓网络",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

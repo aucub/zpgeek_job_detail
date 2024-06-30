@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lP9NqCZ3hyRE6-D1wu3VDXqqL9LKFLXTbDjbDnVHB8_5grd0y96WoPX1k7T3z5GRncpVlYHYN4Ih1usU_PWQddBSec6u97sMoRK4kMAH4Nu1h3i1",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f1ffdc5c765fd09f1n173tm_FlI~",
+      "encryptUserId": "c5cb49696a9043281HJ4092_FFU~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1，JAVA基础知识扎实，熟悉IO，多线程，集合类等基础框架，熟悉缓存，消息，搜索等机制；\r\n2，精通Java EE相关的主流开源框架，如Spring，SpringMVC，mybatis\r\n3，后端服务的设计、开发、单元测试及日常维护工作，了解Linux服务器\r\n4，必须熟练掌握常用的关系型数据库mysql或oracle的使用\r\n5，需要了解或使用过dubbo分布式框架的基本原理，了解zookeeper的使用，必须掌握redis或memcached一门内存数据库的使用.使用过了解过\r\n6，有大型分布式系统开发经验者优先；",
+      "encryptAddressId": "318fdda2a4bbc3c50Hx739m8EA~~",
+      "address": "武汉江汉区顶琇国际城C10栋2623室",
+      "longitude": 114.269539,
+      "latitude": 30.619405,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b02577d8655ade21eee9455d204a573f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/702ae1a8bf86cbb2463542707d71bd43",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Java",
+        "Javascript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180507/acd77a35959fbb6645775f8ffbc30d4ba3e157a62c6d4d68eb8dd2d765a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "湖北捷行科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "535bed207d35ddef1nN829W5GA~~",
+      "brandName": "湖北捷行科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717103837733,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖北捷行科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

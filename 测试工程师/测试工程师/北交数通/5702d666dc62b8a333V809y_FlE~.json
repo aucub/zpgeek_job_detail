@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fhoz4xfHT4c8x-i1T-kt4V6wpgmCdi6yLSSEm_dQpDidBj2alRETayWI8sH2S_xybhil3oszAX16FGaiWwZPNJcD8dh8jFFwRHxRsWiLzILtvD48",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5702d666dc62b8a333V809y_FlE~",
+      "encryptUserId": "58e9acd54e0724c61XJy2ty5EVo~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "【工作职责】\n1、根据业务需求及相关开发设计文档，进行测试需求分析、设计测试方案、编写测试用例、组织和开展测试、搭建并维护测试环境、监控测试进展等工作。\n2、独立完成系统测试、API接口测试和功能测试、性能测试、自动化测试工作，熟练常用的测试工具如：postman、Jmeter、selenium等。\n3、参与测试平台建设，总结完善测试方法，对业务功能实现脚本自动化测试以及优化和维护原有脚本，尝试研究新方法、新工具提高测试效率。\n4、能够完成领导交给的其他工作任务。\n【职位要求】\n1、全日制本科及以上学历，计算机、自动化及通信类等相关专业，英语四级。\n2、3年以上测试经验，熟悉软件测试流程和测试用例设计方法;\n3、精通主流的自动化测试工具和测试框架，如：selenium、python编程语言、JMeter，有搭建测试自动化平台经验。\n4、有开发经验或自动化测试开发经验优先。\n5、熟悉Linux优先。\n6、熟悉服务器、路由器、交换机、安全等设备优先。\n7、熟悉至少一种数据库，熟练操作SQL语句优先。 \n8、熟悉scrum敏捷开发流程优先。\n9、有良好的沟通能力：与开发、产品等部门沟通,保证测试的正确性和完整性。\n10、有事业心、责任心、工作激情和团队合作精神。",
+      "encryptAddressId": "c5d0e9734df1ed153nF929y7GQ~~",
+      "address": "西安雁塔区西安软件园-秦风阁A座106",
+      "longitude": 108.883323,
+      "latitude": 34.225258,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef2ae092db36327a301ac7b7e0e50549",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb5fca1d54bdafacc3abdf28d2449765",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "测试工程师",
+        "软件测试",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "系统测试",
+        "web端测试",
+        "UI自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北交数通",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c4fe38e2952e019d1Xx43Nm8Eg~~",
+      "brandName": "北交数通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190425/c25da4b56f3e01ed3561f22447fba9d29552216850fcf3156fae96cef56ba8d0_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "主要致力于虚拟化、云计算、大数据、物联网、安全方面的产品研发和应用推广。\n\n核心团队成员具有互联网、分布式、大数据、工业控制系统、安全等领域的多年技术积累和经验，曾经承担了多个国家级大型项目。\n\n与客户、用户一起紧密合作，通过科技手段，解放用户的生产力和创造力，使用户专注于其核心业务，为客户创造价值、实现价值。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "节日福利",
+        "十三薪",
+        "项目奖"
+      ],
+      "activeTime": 1715533138993,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北交数通",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r6K300qG8uWja-N1gfx144Vs1keuHtUGxecqsQdEVGFzZzjQLgz-Yvq4hRYe7scNXqkIJLKA9Qz_t5jTOEIZDFMgYOMG3mV2E2AIw4B-Xa-ZWfSaya_S",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1f83228e472021231nJ-0tW1E1BQ",
+      "encryptUserId": "29122cadeccc70b50ndy3NS-FVpV",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n\n1、 计算机相关专业本科以上学历，有2年以上开发工作经验；\n\n2、 掌握和熟练应用 Spring、SpringBoot、JPA等流行框架，并对其核心思想、实现原理有比较深的认知；\n\n3、 熟悉Oracle等大型数据库，能熟练编写Sql语句进行数据库操作，了解触发器、存储过程、视图等编写方法及调试、执行方法；\n\n4、 熟练使用Git源码管理工具，熟练使用Redis、了解流程引擎、RocketMQ等常用中间件的运用场景及用法；\n\n5、 有ERP、SCM、MIS、CRM、HR、财务系统等软件项目开发经验者优先；\n\n6、 有上进心，有较强自学能力和团队意识，能主动与团队成员进行沟通合作。\n\n\n职位描述：\n\n1、参与基于JAVA技术的Web应用系统后端开发，对于上级安排的开发任务能高效率、高质量完成。\n\n2、对于需求冲突和业务难点，能主动积极的与上级、同事或关键用户交流，解决问题。\n\n3、能融入团队，积极交流，默契配合，能主动分担团队工作。\n\n4、善于学习新技术，并向团队推广。",
+      "encryptAddressId": "f7777e7cc5d26e2e03N72Nm_Ew~~",
+      "address": "广州海珠区广州之窗商务港12楼",
+      "longitude": 113.31219,
+      "latitude": 23.053599,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac09bf61e0b1f9e78c8e0a89589834e2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1f1fe9b51530c8e3c6247916d81e7a8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "SpringBoot",
+        "NoSQL",
+        "后端开发",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240520/607f1f3d68754fd04a14dda9f6a29393b5863904cff0596d63639178a0650ef24215602ee8aeb5c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "猿猿软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "487ec498f21e486a1nx62966FVM~",
+      "brandName": "猿猿软件",
+      "logo": "https://c-res.zhipin.com/jrs/33688180ef6143be1c9b9f3385553a2e.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "专注汽车后服务市场软件一体化。",
+      "labels": [],
+      "activeTime": 1716626658848,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "猿猿软件",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oHWuZO2GcYOfW-O1arSSRZ13QNSSGpwOCRY45MwRg6Gij9bRNhKw7nJTo2_cD9BIZ899MAE0hX8MOq6hVBVPNVESFbnvdER8NO13wnGRmXB3C79SNrBtn1eMhakMhIto1-c4diAZ2HHD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9e51e9c3f4b75841XV72NW4E1pU",
+      "encryptUserId": "41db37f3c517a1bd33V82t60ElM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "java开发工程师\n学历要求：大专及以上\n薪资范围：7-10k\n\n任职要求：\n\n1、大专及以上学历，计算机软件或相关专业，2年及以上工作经验；\n\n2、2年及以上使用JAVA开发的经验，JAVA基础扎实，能够熟练应用的Spring、Spring WEB MVC、Spring Boot、MyBatis、SpringCloud等开发框架技术；\n\n3、熟悉分布式系统的设计和应用，掌握主流开源中间件；\n\n4、掌握Linux 操作系统和大型数据库（Oracle、MySql），对sql优化有丰富的经验；\n\n5、擅长领域驱动设计和敏捷开发的思想和方法论，具备微服务架构、设计和开发的项目经验。\n\n岗位职责：\n\n1、负责系统后台功能设计、评审、开发工作； 并产出对应设计文档；\n\n2、负责系统部署、运行/维护；\n\n3、维护和升级现有软件产品，快速定位并修复Bug问题；\n\n4、和公司团队各个角色针对项目需求进行沟通，配合推动项目进展。",
+      "encryptAddressId": "ed697dd7380af3c40XZ93t20GA~~",
+      "address": "上海浦东新区尚街Loft上海双创产业园232",
+      "longitude": 121.521004,
+      "latitude": 31.214318,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f69cf8ad737ce61dbe1f15c7158640ea",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d2d50034d84f9d33c0325ee9001eeb6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "软件工程师",
+        "WEB开发",
+        "Linux",
+        "SpringBoot",
+        "SpringCloud",
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd09fbf67d139056e5a52599dbcf3c5b0527c9ca610ee84477eaf0a878768d1e4e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海诩舜",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "477adc9adf5d2ddc1nV93ty6FlM~",
+      "brandName": "上海诩舜",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130842108,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海诩舜",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

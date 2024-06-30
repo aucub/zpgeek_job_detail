@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sr4IXW6Hhbn1s-O1jpBmPVR0Z2We3otMrnAwFMktcIUg4RqbiJwcnZjM8hiW5LD1yZg7p5C3e9YR5pY2wjMuya7ILfbhW2JFUJeVNeIq0sWRVK5rynvF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d6dfbd64fd1a3da21XF739q_GVJQ",
+      "encryptUserId": "9ad26b3b06e7531d0nF93di0FVNS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 完成软件系统代码的实现，编写代码注释和开发文档；\n2. 辅助进行系统的功能定义,程序设计；\n3. 根据设计文档或需求说明完成代码编写，调试，测试和维护；\n4. 分析并解决软件开发过程中的问题；\n5. 协助测试工程师制定测试计划，定位发现的问题；\n6. 配合项目经理完成相关任务目标。\n\n职位要求：\n1. 计算机软件相关专业，本科及以上学历，学信网可查，能力优秀者可适当放宽该条件；\n2. 思维严谨，工作目标明确；\n3. 2年以上的J2EE平台开发工作经验；\n4. 精通微服务+springboot+mybatis组合\n5. 熟练掌握MySql、Oracle、Sql-Server等数据库，sql语言，索引、过程、触发器的使用；\n6. 熟悉WEB前端技术和常用的前端框架，如React、Vue等；\n7. 有规范的编程习惯与文档编写能力，积极配合公司各项规范化建设工作；\n8. 较强的分析设计能力，能够独立完成项目经理所分配的软件开发任务；\n9. 良好的沟通能力及团队合作精神，责任心强。",
+      "encryptAddressId": "405ad9f656f83df20X143t24ElM~",
+      "address": "长沙岳麓区景秀江山三期4栋1603",
+      "longitude": 112.953959,
+      "latitude": 28.214219,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0159bfcf79c2f5d0431c476ce87dc98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87896898540bd9d12ac8279dd0df2213",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "MyBatis",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "慧门信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f31fc3d33fb3f52e1XZ90920EVc~",
+      "brandName": "慧门信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717105709137,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "慧门信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

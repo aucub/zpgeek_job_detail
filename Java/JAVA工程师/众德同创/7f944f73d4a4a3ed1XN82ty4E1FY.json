@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kkFPX4Tjp7J59-K183O1BDx8mzmuobnAfubwf_2Siz_SnvHxRGq-BBgBBKx2rLigKTLZoq5C0sBTFEr5yYVnlfnvsA_atuelI9Brtq7SgTISET7oBA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7f944f73d4a4a3ed1XN82ty4E1FY",
+      "encryptUserId": "3eacceb4c4b889231XN729S0FFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.分析用户需求，设计系统架构方案并撰写系统设计文档；\n2.负责团队技术攻克；协助解决项目开发过程中的技术难题和性能调优；\n3.制定编码规范，参与代码评审。指导开发团队提高项目质量；\n4.参与新技术调研与引进；\n任职资格：\n1.本科及以上学历,3年以上大型软件系统分析，架构设计经验；\n2.熟悉Spring boot、Spring Cloud、Dobbo等微服务应用框架，具有前中后台应用设计经验;\n3.熟悉常用的关系数据库如MySQL, 有SQL优化经验;\n4.熟悉Redis、Mongodb、Elastic Search等常用NoSql中间件的原理和使用，参与和主导过数据库优化和分片架构经验更优；\n5熟悉Kafka、RocketMQ等MQ中间件原理、使用场景及限制；\n6.熟悉 docker以及 kubernetes容器编排技术优先考虑\n7.工作积极主动，有责任心，具有良好的团队精神;\n8.有工作流与自定义表单开发经验开发经验优先;",
+      "encryptAddressId": "33af84e8d146c7f703Z72NW4FA~~",
+      "address": "成都武侯区D5东方希望天祥广场A座3207",
+      "longitude": 104.06785,
+      "latitude": 30.552964,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/411d470f923b1531c8f91771a8d96c3f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48a801441e0e7481866763bc15df97c0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾先生",
+      "title": "副经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "众德同创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "787642a140efa46b1nd-09S7FA~~",
+      "brandName": "众德同创",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171226/7e81853f2423bb21e4829142b907af7acfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权"
+      ],
+      "activeTime": 1717107641809,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众德同创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

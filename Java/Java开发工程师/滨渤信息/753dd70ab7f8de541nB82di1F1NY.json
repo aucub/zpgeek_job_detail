@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j01IKMibyPjc_-n117-ZCGtvz_X1QEcOMfvctwQzSXVflPupdI-g5tCnSpzxlrCCWOtLHlzG068hCvc5MUXw-IjZ_-G1S3zBOmJjV_9ua2aWEoIZ8S5W",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "753dd70ab7f8de541nB82di1F1NY",
+      "encryptUserId": "418f81d002fb2f800nVz09m5E1NS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121100,
+      "locationName": "滨州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "【任职要求】\n1. 计算机或相关专业本科及以上，具备3年及以上Java开发经验\n2. 精通java开发语言，熟悉多线程，高并发，具备spring/spring MVP/Batista等开源框架应用经验\n3. 熟悉面向对象和设计模式，能使用常用的设计模式开发(OOA,OOD,OOP)\n4. 熟悉前端开发技术：H5、jquery、H-ui等\n5. 精通mysql的开发和优化，了解底层原理，如索引，表存储引擎等\n6. 熟悉 redis、Websocket、MQ等技术\n7. 能够根据产品特点设计架构，并对框架进行优化",
+      "encryptAddressId": "eedab06e6783b0e903d_3tW4E1Q~",
+      "address": "滨州滨城区渤海先进技术研究院A1楼",
+      "longitude": 117.940459,
+      "latitude": 37.345539,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d453ee1a3d0e6b24aedc67b001356b13",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a73c4fd3f40b58a91b67614172957ce",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "MVC开发",
+        "Java",
+        "工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "滨渤信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d95d0b15b422b121nB-3du7FlM~",
+      "brandName": "滨渤信息",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717037699113,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "滨渤信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

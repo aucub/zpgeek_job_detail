@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0SU1JU0PKe0h4-u1DJlCbiKsUr3xLVeWHMBUewRQm7sHsVe6GSi9r_Pyw6FGrgTSwjPGgruDtF2fYhTbrP-N9yuV9pCNLkC_XsZ1y0Au1ArOpzBY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "29e7d996c103e2a61nx40tu5EVBS",
+      "encryptUserId": "17e48d79449af76003V50tW_GFI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、 根据产品需求协助产品提供前期技术支持，根据需求转换设计技术开发方案\n2、 推进系统架构的设计与迭代、编写代码实现产品功能，完成项目开发，撰写相关文档，参与需求分析\n3、 负责核心技术问题的攻关，架构设计、系统优化，协助解决项目开发过程中的技术难题\n4、 了解互联网的技术发展、评估外部技术与解决方案\n任职资格：\n1、 1年以上Java开发经验， 具有扎实的程序设计基本功，能够独立担当功能模块的设计开发,有高并发应用处理经验。会Golang优先。\n2、 理解Java常用设计模式，并且能够合理运用，基本技术特性，如Java数据结构，多线程编程，Java IO等。\n3、 熟练使用Java常用框架和工具，如 Spring等，熟悉缓存Redis、Memcache/Couchbase，缓存设计和模式及其应用；\n4、 熟悉数据库原理并熟练掌握相关优化方案，熟悉MySql数据库开发技术及相关工具，熟悉数据库设计，熟练掌握SQL语句。熟悉clickhouse等时序数据库优先。\n5、 好的沟通能力及团队合作精神，具备良好的理解能力和表达能力，能够承受一定工作压力",
+      "encryptAddressId": "63085f788d4c9bf11nx429S5FlM~",
+      "address": "武汉江汉区ICC武汉环贸中心B座1105",
+      "longitude": 114.262569,
+      "latitude": 30.589789,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2c5190445283285c8ebe642765dd69e2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6322e0153f56bca91ef420acb00e426e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "数据结构",
+        "Linux",
+        "golang"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "研发岗",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/63b03ec974512195e965870400754e810a137d67ee3d907e0392083754b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "元清",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "758f8a115dcea80a0HN_2d61",
+      "brandName": "元清",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181126/d42758b9ba03dcb320bd1d4109e16100cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "元清信息技术（上海）有限公司成立于2017年4月，是一家专注于智能安防和信息安全交叉领域的产品型公司，2019年入选国家高新技术企业，入选获猎云网“2019年年度最具投资价值企业”，2020年入选上海市“专精特新”企业，多次入选IDC《中国视频物联安全市场份额》、中国网络安全产业联盟《网络安全专用产品指南》、数说安全《中国网络安全市场全景图》、安全牛《网络安全行业全景图》。\n公司坚持\"守卫视频隐私，规范视频调用\"的安全理念，在国内首次提出并自主研发了全系列视图应用安全审计产品，其中视频安全审计系统针对视频监控系统进行审计，图像应用安全审计系统针对图像应用平台的以人搜人、以车搜车、身份核查等结构化信息检索和非结构化信息检索行为进行审计，视图库安全审计系统对视图库系统的订阅、级联、布控、撤控等行为进行审计。\n产品拥有公安部销售许可证、公安部检测报告、中国国家信息安全产品认证等资质，已广泛应用于公安、检察院、政法、交通等关键领域，并在多个省、市、区县视频专网、雪亮工程等项目中落地实施。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "通讯补贴"
+      ],
+      "activeTime": 1719359992343,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "元清",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

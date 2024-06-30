@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6pLcPo0qYf2iU-y1rV4mKaVNEYVYFXYWWEJ2MF1dSXuWIABzxTjRSquMKS4_az5WrdC3seGsBR9pSCQpnW9QqDAf-ERH0u15Nq4Zi-gl2zfG9aXitBMp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bbfb1380fc11bf041XVy2t65GFBT",
+      "encryptUserId": "7c69b8e5d17255610nZ92tq8EFNU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、能快速理解并融入公司中台产品研发。\n2、根据产品设计进行代码编写和单元测试。\n3、负责技术开发和支持，能解决项目中的问题。\n4、迅速修复开发过程和生产环境的bug。\n5、编写和维护软件文档，如详细设计，开发规范，模块管理规范。\n6、按计划完成分配的任务。\n\n任职要求：\n1、本科5年及以上JAVA工作经验，能独立承担功能模块的设计、开发工作。\n2、熟悉 Restful api接口开发，并有一定的开发设计能力。\n3、熟悉主流开源框架的使用及原理，如 Spring、spring boot、SpringMVC、JPA 、 Mybatis(ibatis)。\n4、熟悉分布式系统、缓存、消息等机制，能对一种或者多种分布式常用技术（如Dubbo/Spring Cloud，Memcache/Redis，RocketMQ/ActiveMQ/RabbitMQ）进行合理应用。\n5、熟悉sqlserver,oracle等数据库技术，熟悉数据库原理和常用性能优化。\n6、善于学习，对业界技术保持敏锐触觉。\n7、具备良好的团队协作精神和优秀的解决问题能力。\n8、有医疗行业工作经历的优先考虑。\n9、熟悉领域驱动设计(DDD)优先。\n10、能接受适当的出差。",
+      "encryptAddressId": "d804e3973c695e3403d92NS1GVs~",
+      "address": "合肥蜀山区机电产业园11栋6层东室",
+      "longitude": 117.162499,
+      "latitude": 31.81865,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0417f423667a34f5e47f7bb8b29ec1ae",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4da23048dfc199ef287ccf888cc65477",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Spring",
+        "SpringMVC",
+        "Dubbo",
+        "Oracle",
+        "Memcached",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "百视达",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5e59552fd0ba7b8d1nZ62t25EFA~",
+      "brandName": "百视达",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220509/7bf6f160950405e926becc276a86ad6d843a8216cb6feceebf317847dc27b703cc74e1f5477b47c0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "安徽百视达科技有限公司基于行业领先洞察力、利用专业的知识与技术、结合跨领域精耕最佳实践经验，致力于为客户提供杰出的业务咨询服务与产品化解决方案，成为企业数字化转型可信赖的绝佳合作伙伴。",
+      "labels": [
+        "节日福利",
+        "包吃",
+        "带薪年假",
+        "定期体检"
+      ],
+      "activeTime": 1718619096433,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百视达",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

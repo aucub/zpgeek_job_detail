@@ -1,0 +1,122 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rs72JUTxOGzrc-310uT8aZbGcZHVhDi3ew4p-3k_L9ICmb0_4DkBhATCFW2ULpKmlDacr_DB335HlZvCRFEHAkZXvcgCUCaBMtnsbMt6P33NYzix",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "036bf15f33f8b61d3nV_3d65GVo~",
+      "encryptUserId": "9c0a97e62f610be50XJy09q0FFY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\nJava，C#\n岗位职责:\n1、负责Web构架，为业务开发提供方案支持，负责业务功能的设计与开发；\n2、与产品经理，前端工程师紧密工作，实现Web产品后台研发；\n3、对开发的接口功能和性能进行测试，确保能为前端提供优质体检的技术支撑；\n4、完成核心重要模块的设计、编码、测试以及相关说明文档的撰写；\n5、编制项目相关的各类技术文档，参与团队内知识传递，承担对同事的技术指导工作；\n6、负责或参与已运行软件项目的维护及升级工作；\n7、完成领导交办的其他工作任务。\n\n任职要求\n1、拥有一门以上后端语言编程经验（Java、C#），具备快速学习新语言的能力；\n2、基础知识扎实，熟练掌握面向对象的编程思想，了解常用的数据结构及算法，有良好的编码习惯；\n3、熟悉T-SQL，至少熟练掌握Oracle、MS-SQL、MySQL中的一种，能利用其编写较为复杂的SQL语句；\n4、了解MVC模式，能熟练在该构架下编写WebAPI，熟悉EF者更佳；\n5、有Redis、RabbitMQ等开源组件设计、开发、测试、维护和调优经验者优先；\n6、喜欢钻研、有较强的学习能力和分享精神、团队合作能力等；\n7、有一定Web前端编程经验，熟悉Html、CSS、JS、Vue前端框架者优先；\n8、有良好的团队协作和创新意识，具有良好的团队合作精神；\n9、有车联网、智能交通、视频监控、应急指挥等项目经验者优先考虑。\n\n薪资待遇及福利：\n1、五险一金、双休、带薪婚假、产假、病假，晋升渠道。\n2、公司内部不定期聚会、野外生存、户外拓展训练假日旅游、生日party、水果福利、带薪年假等。\n3、节日福利（端午节 中秋节 圣诞节 春节 情人节等等）会有很多小惊喜。",
+      "encryptAddressId": "fcc9bd38488fa6c70XB_0tW7F1o~",
+      "address": "武汉江夏区徽商大厦(武大园路)B座1105",
+      "longitude": 114.403022,
+      "latitude": 30.455052,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86d7b9e60b025fcde051a394347cd83c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4dbb427d86dd9a06816ca2167c7063ed",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "Kafka",
+        "Dubbo",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "大数据经验",
+        "ERP开发经验",
+        "C#",
+        "Java",
+        "CSS",
+        "JavaScript",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "占女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "羿畅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5a23930f67827650031y2N2-Fw~~",
+      "brandName": "羿畅科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190709/43df4c64705ceeefadba22b32e1d4dfab85aed6277fe2f9317a28e9c23a7a7f8_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉羿畅科技有限公司位于湖北武汉，公司自主研发智慧交通系统产品拥有完全自主知识产权和专利技术，致力于以“交通大数据领跑者”为企业愿景！作为交通大数据的新生力量，我们将以\"科技创新，服务社会\"为企业使命，秉承合作共赢的发展理念，探索信息共享、联动合作、共同受益的有效发展之路，助力国家乡村振兴战略。",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "住房补贴",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "节假日加班费",
+        "加班补助",
+        "企业年金",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719195540666,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "羿畅科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

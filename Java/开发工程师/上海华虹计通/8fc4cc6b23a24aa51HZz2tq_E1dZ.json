@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "83cFL6JFKm1Yj-k1JeFlisjZPolhtcayf0pcIaVcnEXeK2SqDweoYYheuEqhnRbkpRA_-Ss1kzbIna1_7NBfZ1ByOE0FWIlXctZra4iw7NiF7__jrxlSGPAfThaboeLyEWijPdWFkA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8fc4cc6b23a24aa51HZz2tq_E1dZ",
+      "encryptUserId": "ea8014da7c4f9d350nF809i0FlQ~",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、根据产品业务设计要求进行软件设计、开发、调试等相关工作；\n2、负责独立功能模块的分析、技术设计和开发任务；\n3、进行跨系统间的接口设计，包括接口内容，安全验证和接口文档；\n4、参与对运行系统的性能调优、BUG分析及修正等优化工作。\n\n岗位要求:\n1、大学本科及以上，应届本科计算机专业或1年以上软件开发相关工作经验；\n2、计算机相关专业，熟悉基于java的服务器端系统开发经验，Java基础扎实，注重代码质量，有良好的编程规范；\n3、熟练掌握Spring技术栈，熟练使用Spring Boot, Spring Cloud等开源框架，以及Spring框架与其他常用框架的整合使用握SOCKET/HTTP等协议的编程；\n4、熟练使用常用的中间件，包括但不限于redis, rabbitMQ, mongoDB, kafka，mybatis，elasticSearch等，有实际项目的使用经验；\n5、具有良好的编码习惯，注重性能，有一定的性能调优经验，包括代码层面与数据库层面；\n6、加分项：熟悉基本前端知识，包括vue、 微信小程序等，熟悉常用中间件的部署和配置，有APM监控系统的使用经验。",
+      "encryptAddressId": "c4a7d98c1c4017f60ndz39m0EFM~",
+      "address": "上海浦东新区锦绣申江金桥华虹创新园9号楼",
+      "longitude": 121.623302,
+      "latitude": 31.243893,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e6537ee0d599701b00d7a2e79763aa2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77af15c14fc8fd2e8f09be5bbb5a7882",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姚女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "上海华虹计通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "de97c44c035dacdc1XZ-2ti7",
+      "brandName": "上海华虹计通",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海华虹计通智能系统股份有限公司成立于1997年4月，是华虹集团旗下成员企业之一。华虹集团是中国目前拥有先进芯片制造主流工艺技术的8+12寸芯片制造企业。\n\n华虹计通是专业从事大型信息化系统设计、开发、集成、销售和服务的系统方案解决供应商，可为AFC系统、智慧城市应用系统等多个集成领域提供完整的整体解决方案。公司主营业务向智慧交通、智慧人居、工业互联网、信创产业等行业应用和重点解决方案领域延伸和布局，充分发挥自身在“行、住、政、工、游”方面的智慧技术开发优势和成功案例，致力于打造城市数字化管理平台，统筹大数据、物联网、AI、GIS、视频云、融合通信等各种新技术，并打通各类数据、向上可支持应用的快速开发和灵活部署，向下打通连接，实现“云-管-端”三者的协同。\n\n华虹计通坚持技术先行与行业专注，致力于运用领先技术为行业客户提供全面可靠的解决方案和专业细分的行业产品，不断提升企业的信息互联和服务创新活力。",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719564437117,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海华虹计通",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

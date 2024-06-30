@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "f8jTxRXpXAsWZ-d1MHUBlClIrJoBiDuq8JhhH7F1QIVTlQmZxHquPyqgGvph0LeBiqBIbkOiy_ZrvcjEwzr7sVWlQzGEw3Ip9AuHaGpIfnh72o1LlMTnY0kSV4755fCR6X1lRJciYgI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ac4adea8f10b2eb40HN52N21GFo~",
+      "encryptUserId": "3871439b9be694741nR90t60FltQ",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 保险公司驻场开发，参与保险行业核心业务系统的设计和开发；\n\n2. 参与技术和模块代码的迭代；\n\n3. 紧跟前沿技术并定期交流培训，积极尝试新技术在应用上的探索。\n\n职位要求:\n\n1. 1年以上工作经验，良好的编程习惯；\n\n2. java基础扎实，精通io、多线程、集合等基础框架，了解jvm；\n\n3. 熟练使用springmvc、spring、spring cloud、mybatis等常见框架，熟悉机制和原理；\n\n4. 熟悉分布式相关概念和技术，掌握hadoop、spark、hbase、mangodb、kafka、elasticsearch、redis其中部分框架；\n\n5. 熟悉前端前沿技术，熟悉react、vue、bootstrap等主流框架，熟悉ecma\"script\" 2016以上版本的新特性；\n\n6. 熟悉Linux系统，了解shell编程，熟悉常用软件的安装与调试；\n\n7. 精通常见网络协议，熟悉restful风格；\n\n8. 善于沟通表达，掌握常用的团队协作工具svn、git等工具；",
+      "encryptAddressId": "8ac2d934a06e3b8b1HR739S8EFQ~",
+      "address": "杭州拱墅区中华保险大厦505号",
+      "longitude": 120.146513,
+      "latitude": 30.294105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac9a3e94153e7d9641b9ca15f947aefb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67ae06ecf5e82f317a6343b8d241ec1d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式技术",
+        "微服务架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汪先生",
+      "title": "JAVA软件工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州点赢",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ea7003a3a5a678933Z43ti-Fg~~",
+      "brandName": "杭州点赢",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716307792115,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州点赢",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

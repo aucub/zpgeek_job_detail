@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s9v3emtOhM20w-S1e3hl9pEp1hy_gXVkvHq7pAVBBhTmNi45tCvKMI1N81_xuDoT1yLlS90s451TIq0Yc-PiZ_vgjx3chOke4SnHLaUzDijUJuaW2w-WVMqMz-teVvKG_xoiRT_X",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7608968ba5b4d2531HB529y9E1M~",
+      "encryptUserId": "16122bfbfb2f033c1HN92N6-FFA~",
+      "invalidStatus": false,
+      "jobName": "中级JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述:\n1、参与系统的需求分析负责功能实现和后期维护；\n2、快速学习并理解业务知识，准确的实现业务需求，确保安全、质量、性能和可扩展性；\n3、解决项目开发过程中遇到的技术和业务难题。\n任职资格:\n1、计算机相关专业毕业，至少两年以上实际java编程工作经验；\n2、熟悉J2EE相关技术，熟悉springboot、mybatis等开源技术框架；\n3、熟悉svn，maven开发流程，具备Maven模块化开发经验；\n4、熟悉ORACLE、Mysql、SQL Server或其他大型数据库的基础知识，熟练掌握SQL；熟悉缓存技术（如Redis、memcache）;\n5、高度的工作热情和工作积极性，较强的责任心，喜欢挑战、学习探索能力较强。",
+      "encryptAddressId": "4ded2d02736c848203V42N-7GA~~",
+      "address": "北京海淀区青云当代大厦1508-1510室",
+      "longitude": 116.329719,
+      "latitude": 39.968887,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5dca262cb18d95eb51d24f786c0cc790",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b29a85bd82c634ad42c5c1b758305e0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "SSM",
+        "SpringCloud",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "成先生",
+      "title": "总裁",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "中科达奥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6fd049557fb81680HR609S7",
+      "brandName": "中科达奥",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191206/645ef87a5c08138c81523b3032a89cb559bb185f98cedcc4bda5b781d38c083e_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京中科达奥软件有限公司（以下简称中科达奥）是一家集计算机软件产品研发和技术支持服务于一体的高新技术企业。\r\n\r\n中科达奥专门致力于电子政务及办公自动化领域软件产品研发和服务。强大的技术研发能力、持续的技术创新能力、成熟的具有自主知识产权的软件产品以及以客户满意为导向的完善的技术支持与服务体系是我们的核心竞争优势。\r\n\r\n中科达奥在电子政务领域及办公自动化软件开发与应用领域积累了大量的经验，我们总结和综合了国内外许多相关软件的经验和优点，并结合多年来我们在国家政府部门、大型企事业单位的实践，精心铸造了myDo协作平台以及DO系列、myDo系列软件产品。这些产品集中突出了以知识管理、信息共享、业务协同为核心的“新一代办公自动化”的理念，旨在现有信息资源的基础上，加强用户单位的信息流转，支援内部工作人员有效获取有用信息资源，提高工作效率，以期获得办公自动化、电子化的最大价值。\r\n\r\nmyDo软件，给您的办公室插上想象的翅膀！",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1719300310988,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科达奥",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

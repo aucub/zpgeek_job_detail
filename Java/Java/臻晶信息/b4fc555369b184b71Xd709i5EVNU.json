@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zA6JRvezndIp0-O10pvstzlVBa8dH1MuJTbo94uU99WWAgEqJtAOYA1S3bbya6NWRCiZIr1B8jP3X-DUJ0cGnMEeSTVWbJiSyU38WyEEEUbinuCqflLR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4fc555369b184b71Xd709i5EVNU",
+      "encryptUserId": "48d836e77d6b88e00nZ_2925EFpV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、专科以上相关专业文凭，1-3年及以上 Java 研发经验；\n2、具有良好的逻辑思维能力，工作认真、敬业、细心，有责任感，具有较强的理解能力，良好的沟通及协调能力，能承受一定的工作压カ;\n3、熟练掌握 springboot 、 springcloud 体系相关技术，熟悉 spring 、 mybatis 、 springmvc 等框架，并了解 redis 、 MQ 等相关技术；\n4、熟练使用 SQL 语法及基本原理，以及常规的 SQL 优化；\n5、熟悉前台 web 技术，能够独立完成 HTML , CSS 和JS 的编写，了解 vue 与 layui 者优先；\n6、熟悉使用软件开发工具，包括IDEA、GIT、Maven ，了解 jenkins 和持续集成。",
+      "encryptAddressId": "4b41dab3b6f5c0e70Xdy2N65GVE~",
+      "address": "广州黄埔区东城广场(摩登百货)1003",
+      "longitude": 113.449085,
+      "latitude": 23.101195,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15c183728a8e4c274d015d5c9632bd5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b275d09ceb643a88bef8e590bc046403",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "SpringBoot",
+        "SpringMVC",
+        "DB2",
+        "MySQL",
+        "Oracle",
+        "Java",
+        "Vue"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "项目主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "臻晶信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d9e472b2d8f8b3951XV_09i4EVY~",
+      "brandName": "臻晶信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719477422494,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "臻晶信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

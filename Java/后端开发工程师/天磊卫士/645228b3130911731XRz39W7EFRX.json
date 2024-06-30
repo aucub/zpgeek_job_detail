@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_3YmtW8nSSJV7-e1XjkfQGr3ZTBJseJoWUReTQtBKIzBO3ej-pYMOT_SYfRRAClJ2ID18h7d2PtxnMBFd4AXZTvzrWEm9_I6EepG2Xus-4JQucAbkLo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "645228b3130911731XRz39W7EFRX",
+      "encryptUserId": "a53f71b4d6ee85b61nZ_2di5F1o~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作城市：海口\n工作职责：\n1. 负责根据具体的产品需求进行充分地预研、沟通和分析，设计相应的系统架构和工程方案。\n2. 负责对具体的系统架构和工程方案进行工作量评估和任务分解，制定开发计划并且执行。\n3. 负责对具体项目的后端工程进行编码实现和调试，通过功能自测及联调后移交测试。\n4. 负责对具体项目的后端工程进行持续的开发迭代、优化和维护。\n5. 负责研究和解决具体项目中的所有后端技术问题。\n6. 跟进前沿科技，持续进行技术改进和创新，驱动产品设计，提升用户体验，适时进行分享与交流。\n7. 协助丰富和优化研发基础设施和工具集，撰写及修订相关技术文档等。\n\n任职要求：\n1. 大专及以上学历，计算机相关专业者优先，一年以上后端开发工作经验。\n2. 基础扎实，熟悉计算机原理、网络通信原理、微服务架构、分布式计算、高并发处理、多线程技术等。\n3. 精通至少一种后端开发语言，如Java、Golang、Python、Lua等。\n4. 精通后端开发语言对应的主流应用框架，如Java的Spring系列、Guice，Golang的Gin、Echo，Python的Django、Flask等。\n5. 精通至少一种数据存储检索技术，如ElasticSearch、MongoDB、Oracle、PostgreSQL、MySQL、SQL Server、Hive等。\n6. 熟悉nginx/OpenResty、tomcat、redis、kafka等常用的容器或中间件。\n7. 有网络/信息/数据安全产品项目研发经验者优先考虑。",
+      "encryptAddressId": "b935097d792a7aee031809-0EFU~",
+      "address": "海口龙华区南洋大厦605",
+      "longitude": 110.31503,
+      "latitude": 20.029458,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54d5e15a73eb90068d40e48db6ed984f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f08e71a57a2418d64ec00ea84c9572a6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "分布式技术",
+        "软件工程师",
+        "后端开发",
+        "容器技术",
+        "Linux",
+        "SpringBoot",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210505/f1461438774c6113ee8c3696b71c5f50a33cf08804605f1a2a82c65bf14_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "天磊卫士",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d546d9affb3ed3191XR52dm0FFY~",
+      "brandName": "天磊卫士",
+      "logo": "https://c-res.zhipin.com/jrs/35049caced539518b85318a680f7aab9.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "零食下午茶",
+        "工龄奖",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1716713342840,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天磊卫士",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

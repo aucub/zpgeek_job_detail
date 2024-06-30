@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dgSQmw4KihK9v-r1awdugSsUhIWD0kEDqyMBaUkEgW05gj-ieLi2hQbN4QfuJaRPzwtFiSPttgJ7yzhT8W4HLij1paClR8ttAkeNc-JRd10ATM87",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9e9f0af8bd1151b33dz2tq1Fls~",
+      "encryptUserId": "09c31796ab8971f81HJ_3t61EVU~",
+      "invalidStatus": false,
+      "jobName": "应届毕业生技术储备人才",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、学习并熟悉主流的通讯协议及开发，如： Modbus, TCP, UDP， Bacnet, OPC等\n2、学习并熟悉物联网协议的对接及开发，如： MQTT，Lora, Zigbee, 蓝牙等\n3、学习并熟悉消息队列，Docker等技术开发。\n职位要求：\n1、\t统招本科以上学历，物联网相关专业。\n2、\t掌握C、C++、JAVA、Pathon、Go等一种或两种语言的开发\n3、\t有硬件开发经验者优先\n4、   熟悉Linux系统等。",
+      "encryptAddressId": "3ee9d1852064b4071HV_2Ni-EFU~",
+      "address": "北京朝阳区金海商富中心B座",
+      "longitude": 116.495475,
+      "latitude": 39.894789,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21a040b665a23330c515aa54f4ac393c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ade1f038a70a1de7795ff74915959db5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "容器技术",
+        "物联网",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180325/95d61f315544043c5057b7a65b954b36027df9addeb0024ab1266b5da19_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "加油吧科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "10830e69eb11ad491nN809m8Fg~~",
+      "brandName": "加油吧科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180419/2caf448492f3eec4d7a99f5313524316027df9addeb0024ab1266b5da198d28e.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "加油吧致力于\n\n提供集规划咨询、设计、实施和系统的综合低碳节能数字化园区产品和服务。 \n\n专注于绿色低碳智慧园区解决方案的部署和实施 \n专注于四型智慧机场解决方案的部署和实施 \n专注于节能智慧工厂解决方案的部署和实施\n\n\n目前总部设在北京市场营销中心，广州为研发中心",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1716719144697,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "加油吧科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

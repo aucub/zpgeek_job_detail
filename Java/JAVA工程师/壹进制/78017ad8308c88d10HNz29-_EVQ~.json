@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mZpjh0tpUDjNX--1sPVLEl0UwI23ioyZtleeOByDF-tgRuQyFs3hsGpH1Mwtfj5kJTr6_UilKOsJPn4Owy98BTKT7WjKn75dixgNZYY5LtWLiCp9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78017ad8308c88d10HNz29-_EVQ~",
+      "encryptUserId": "2bf026e179bc463503B70ty-EVE~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "1、精通java基础，熟练掌握分布式架构、多线程、高并发、负载均衡、消息队列、IO、网络通讯等相关知识；\n2、熟悉常见设计模式，熟悉Spring，MyBatis/IBatis等流行开源框架；\n3、熟练使用Linux常用命令；\n4、熟悉网络通讯协议TCP、UDP等，熟悉三层交换、二层交换等相关技术；\n\n熟悉云平台者优先，华为云、阿里云、深信服、openstack、easystack、KVM等\n\n有云平台和虚拟化备份、恢复和容灾经验者优先",
+      "encryptAddressId": "6dd9873fd79c0e391HR43dq8FlU~",
+      "address": "南京浦口区航天壹进制(南京)数据科技有限公司南京市江北新区星火路14号长峰大厦1号楼10层",
+      "longitude": 118.694663,
+      "latitude": 32.156975,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a7d11ee92f75c97b1ec6a2156dbe7e5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad1c18212b287ddd67a67361f9f1867b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JAVA应用开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "产品开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "壹进制",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "660d63cc246678f003Jz2N2-Eg~~",
+      "brandName": "壹进制",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200516/a85987285fdb0edabc7f7f283f331aa0415d9d9c298ed13ed8d909f445b5a47e.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "南京壹进制，核心团队成立于1996年，作为中国航天科工集团有限公司旗下上市公司航天工业发展股份有限公司的全资下属企业，是一家专注于数据安全领域，主营自主研发的数据保护与业务连续性管理产品、解决方案及服务的高科技企业。\n在数据保护和业务连续性保障方面，公司拥有核心产品和核心技术，可有效应对勒索病毒等各类恶意软件、人为因素和系统故障造成的数据丢失和业务中断，全面保障用户业务数据安全与业务持续运转。\n为了更好地服务客户并创造价值现，目前公司总部在南京，设立了北京分公司1家，且在浙江、广东、四川、陕西、山东、河南等多个省市设立了分支机构，构建了一张覆盖全国的服务网络，为各类用户信息系统的数据安全与业务连续性保驾护航，人员规模达到350+",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "免费工装",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1717067959895,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "壹进制",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

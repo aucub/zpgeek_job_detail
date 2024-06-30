@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yw45yIMes7irJ-l12G2uVe9lRZ-aM3fHbFrBaIQbMLoIwIcd-Qe4fqhlMqj0rx17gO1fTM6s9IC1d-pbeoVz_oJsMBf-VdhgQ81WzWWvkw_coR2Yh7vQMIHDSr5A6-qzfZpfF4nOveI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9573e64128cfb9e11XNz2Nu5GFZT",
+      "encryptUserId": "0dca1d7505d81fa90XJ43961EFI~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师（后台）JAVA",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "软件开发工程师（后台）\n岗位职责：\n1、 根据业务需求实现平台功能的开发；\n2、 参与方案讨论、技术调研、模块设计，进行系统框架和核心模块的详细设计；\n3、 项目代码编写，确保研发进度、系统性能、质量和安全，按时交付，并解决开发中的技术难题；\n4、 与前端,业务人员保持良好沟通,快速理解、消化各方需求并落实为具体的开发工作\n技能要求：\n1、 java，ssh，spring boot ，spring cloud，mybatis，springMvc，dubbo，activeMq，linux，Web Service，XML，maven，git，svn等\n任职要求：\n1、 本科及以上学历，计算机相关专业；\n2、 至少3年的实际java开发经验，精通Java，具备良好的编码习惯；\n3、 熟悉主流技术框架spring、springMvc、springboot、spring cloud、mybatis，mybatis-plus等框架。\n4、 熟悉至少一种缓存技术（如redis，memacahe），熟悉Oracle，MySql等常用的数据库；\n5、 熟悉分布式服务dubbo，zookeeper等，了解hbase，熟悉消息中间件activeMq，kafka等\n6、 熟悉XML、Web Service、Security及多线程",
+      "encryptAddressId": "ae0159550fd713431XJy3dq5EVA~",
+      "address": "郑州二七区郑州市绿城广场",
+      "longitude": 113.629817,
+      "latitude": 34.746382,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e4b76e3179168dfde461fa0b954001e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6ec7cd20ff29770328f7b17c194f209",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "软通合力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dac872bbc7d5eb831nd53NW8EA~~",
+      "brandName": "软通合力",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180116/a36ae5282f9917d5884aeddc27cbe9befe7d7b42825eb594816aaad698c9d36d.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719569086329,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "软通合力",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

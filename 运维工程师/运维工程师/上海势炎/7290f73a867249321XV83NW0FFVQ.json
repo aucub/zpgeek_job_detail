@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bi9XVHK8xwype-O1nvBxHsUW8gRTGtSbmN15sg5wXY69To91ZE7-5yy_IxL8i2QZz11ZOQ_-3NlG50EuEgJViKV6goS5bde8W6tb_wqfwvOz4fNiOx1sBuosQXoZ9W9gsH0kKUMM7g0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7290f73a867249321XV83NW0FFVQ",
+      "encryptUserId": "a6e9b3f24c28290a0XNz3t64GFI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责编写脚本实现自动化运维；\n2. 负责监控系统相关性能和运行情况；\n3. 负责快速定位系统故障，并第一时间解决或协调相关人员解决；\n4. 负责产品维护手册以及相关文档的编写。\n任职资格：\n1、本科及以上学历，计算机相关专业；\n2、熟悉Apache、Nginx等常用web服务器的安装、优化和维护；\n3. 熟练掌握Linux的基本命令，熟悉Tcp/IP协议、熟悉linux防火墙配置，对常见的系统性能问题有初步的认识；\n4. 熟练使用shell，python，golang其中一种语言，并能编写相关脚本，具备数据库的相关基础知识，最好有操作经验；\n5. 熟悉负载均衡，有高并发的负载调优的经验；\n6. 了解iptables规则及相关基础知识优先。\n7. 了解docker、k8s等容器技术或具备开发经验者优先。",
+      "encryptAddressId": "7e9afaa114b7e43303Fz3tu-EFM~",
+      "address": "上海长宁区中山广场B座2208",
+      "longitude": 121.415505,
+      "latitude": 31.197891,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0156d03a850dcdebf165aa6ff06e8712",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdf686db12eb4bb455778ebc044827fa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "容器技术",
+        "网络协议",
+        "Shell",
+        "Linux",
+        "网络交换技术",
+        "系统运维",
+        "机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "研发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210605/ea774c09355503ba111ee91c6d2335aed83bdb6b446e2504b79c5eb6a14_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "上海势炎",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "08ecd2636b2f6c7103d_2dm4Fg~~",
+      "brandName": "上海势炎",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190703/8df644eda9469d9abb4822be4b13851db737a61af3f5a858198e672c18409233_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "上海势炎信息科技有限公司（Firetech Technology）创立于2011年，是一家专注前研网络安全信息安全技术的科技企业。以创新为使命，研发为根本。\n上海势炎信息科技有限公司拥有一支以安全信息相关专业博士、硕士为核心的研发技术团队，致力于智能硬件安全、工控安全、大数据可视化分析、自动化智能产品等多个方向的技术研究，并在多个领域研发出全球独有技术，始终在技术上保持这核心竞争力和技术先进性。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "零食下午茶"
+      ],
+      "activeTime": 1718188367000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海势炎",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

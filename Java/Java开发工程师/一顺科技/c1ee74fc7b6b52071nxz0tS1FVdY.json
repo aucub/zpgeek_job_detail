@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "b3bSWE8n6jJKY-c16-cABlGHDuk_5xgpBzCP7MVYl4wi4tLMV6yiSuj96Y4jBHiIyuPVg3Us-d8EV0WFLI4R3PrZVvbNHoaeh-laRORFXYA4qT25esvx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c1ee74fc7b6b52071nxz0tS1FVdY",
+      "encryptUserId": "7020904b0646664f1nR43ty0E1ZV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、大专及以上学历，计算机或通信相关专业，热爱开发工作；\n2、熟悉JAVA语言，了解常见算法 ；\n3、熟悉web.xml配置，熟悉SSM框架配置，了解SSM框架执行机制 ，使用过springcloud相关组件优先；\n4、熟悉SQL语句 ，有简单调优能力；\n5、熟练使用svn、maven，git 等工具 ；\n6、熟悉linux常见命令及简单配置 ；\n7、熟悉Tomcat,Mysql,Nginx等服务器配置 ；\n8、1-3年开发经验，思维敏捷；\n9、具有较强的学习能力、执行力，良好的逻辑思维能力和沟通能力，有责任心，有团队精神；",
+      "encryptAddressId": "4fd9610e5fac1bd41XV82d27EA~~",
+      "address": "广州白云区广州嘉禾创意产业园6栋305",
+      "longitude": 113.279815,
+      "latitude": 23.224811,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a4c031c8ee2968f3b658f35a2e20741",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d45c6c3ce716ad7acc0307a90cd09ac0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MySQL",
+        "SpringBoot",
+        "SpringMVC",
+        "Eclipse",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "研发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230504/607f1f3d68754fd0f2b90eba941c407ad5788d42120e20fd791e5788b88927feb19b1f31c3b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "一顺科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2386685ee8a9f7ff1ndy3N-9FFU~",
+      "brandName": "一顺科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210219/f35eb5982229e5dfc52c4ad12002413926c810de4da545975bfa89239e07120c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "一顺智能科技（广州）有限公司成立于2013年，是集智慧工地，弱电工程的研发、生产、销售、实施于一体的科技公司。\n公司专注于：门禁实名制系统、TSP扬尘监测系统、视频监控系统、智能停车场系统、用电监测系统、塔吊监测系统、升降梯监测系统、弱电工程，智慧展厅、国际会议报告中心等整体解决方案。\n我们企业拥有专业的技术团队，有些多年丰富的实施经验，秉承客户至上、诚信服务的理念，竭诚为客户服务！\n\n官网首页 www.yishun618.com",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "提供住宿"
+      ],
+      "activeTime": 1715533921134,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一顺科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

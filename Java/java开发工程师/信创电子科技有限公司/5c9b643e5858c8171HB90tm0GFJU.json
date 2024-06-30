@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l0CLmh_P_yGwg-w1LLCFjovJ7fz5q_BPLpW_tZ8yNKyrJyz9OrFAs_mgAQR3jPFn3_N9ZXYKqpqCuLFILyAmNWYTeuoc-lYGyn5LaTsis4HkvHgBESio",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c9b643e5858c8171HB90tm0GFJU",
+      "encryptUserId": "5d51e88130a63efa0XB839m9E1pR",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机相关专业大专及以上学历，具备一年及以上Java开发经验，对编程充满热情；\n2. 熟练掌握Java、Javascript等编程语言，深入理解面向对象编程思想，具备扎实的编程基础；\n3. 熟悉Spring、Spring-mvc、springboot、MyBatis、spring-data-jpa、hibernate等主流Java开发框架，对微服务架构、分布式系统等技术有一定了解；\n4. 熟悉MySQL、SqlServer、Oracle等数据库操作，掌握SQL优化技巧，能够高效地进行数据库设计和管理；\n5. 具备代码安全优化经验，熟悉常见的安全漏洞及防御措施，如SQL注入、跨站脚本攻击等，能够确保软件的安全性；\n6. 具备良好的团队合作精神和沟通能力，能够与其他团队成员有效协作，共同解决问题；\n7. 能够在一定压力下保持高效工作，具备抗压能力；\n8. 对新技术充满热情，具有较强的学习能力和解决问题的能力，能够持续自我提升。\n\n加分项：\n\n1.有使用Spring Cloud、Docker等技术的经验；\n2.有大数据处理、高并发、高性能系统开发经验；\n3.具有良好的英文阅读能力，能够阅读和理解英文技术文档；\n4.参与过安全漏洞扫描、代码审计等安全相关工作。",
+      "encryptAddressId": "a9bf3f4cab79e22a0HR40ti8EVNYyo27WPs~",
+      "address": "广州越秀区广州交易广场16层/1601单元",
+      "longitude": 113.262633,
+      "latitude": 23.131154,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfcb6b6f9e8337429aea36ea10d1cb9e286bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf14bd048050ac74ebd7c8df4a16869f006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "微服务经验",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "信创电子科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f52ea335f5f28c231nx839S6Fls~",
+      "brandName": "信创电子科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719383741202,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "信创电子科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

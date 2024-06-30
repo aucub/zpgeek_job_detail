@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fHsnoZbj_w_Cw-n1OFxQguA2_0VtFj5CeCI9K16DtCFoGCCDiKcfTQwHh_zfQHG4kCbN4wU7PO90XYi8FEWS7H4BzDaHFx4uuxxaYTi-ux88dZaeZvg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fb8e31c7347842b01nBy3di0GVNX",
+      "encryptUserId": "ccabc55f0d44b2081HJ-39i5EVo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250400,
+      "locationName": "衡阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "1.一到三年的java开发经验,有过物联网平台开发的经验优先\n2.熟练掌握Spring、Mybatis、SpringMVC等常用开发框架，熟悉微服务架构\n3.必须有微服务实际产品研发经验，如Dubbo、Spring Cloud,SpringBoot,了解Docker容器技术\n4.熟练使用消息中间件及缓存技术（Redis，Kafka，Rabbitmq,activemq等)\n5.熟练使用Mysql等进行数据库模型设计,扎实的Java编程基础\n6.熟练主流Linux系统， 熟练操作系统，并具有一定的故障排除能力\n7. 热爱技术，善于思考，积极主动，责任心强，沟通能力强，有良好的团队精神，能够承担压力,能快速上手代码",
+      "encryptAddressId": "4d8a851d8d547cc703B72Nm5GVY~",
+      "address": "衡阳蒸湘区星美CC PARK城市综合体CC公寓501室",
+      "longitude": 112.556276,
+      "latitude": 26.917117,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/066e947caf96eb9bf546bd7dcc31d2de",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39f38b61fdd719e9c2e0199b0c624663",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "SpringBoot",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210810/6985b351f561b7814fbea033719f44cc301f3f87853763df142cae3b8ee_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "湖南纳容",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "93a35ebfb7a3d2f71nB92Nq9F1o~",
+      "brandName": "湖南纳容",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210604/c46ade4ea1af188197d76350365fec0d301f3f87853763df142cae3b8ee9f387.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "致力于智慧政务、智慧教育、智慧园区、智慧社区、智慧党建、智慧消防等综合管理系统研发。",
+      "labels": [
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "五险"
+      ],
+      "activeTime": 1717058780464,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南纳容",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

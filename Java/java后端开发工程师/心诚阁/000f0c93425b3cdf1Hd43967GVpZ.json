@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "buE5lLAO1LZe1-_1irzGPgXzdEtJdV8bhZZOyfNTVI7Uua-Nsra_k34l44Te3dshqXCc1n1C6c___NrPj3tljQOHV9cDqp8RhgGy2vf5w-wDu9LcUQA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "000f0c93425b3cdf1Hd43967GVpZ",
+      "encryptUserId": "848bb62c3dc8ab101HFy2dy1FlA~",
+      "invalidStatus": false,
+      "jobName": "java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据产品需求等文档，进行产品开发；\n2、根据设计文件进行业务逻辑设计，开发核心业务模块；\n3、负责完成软件产品的编码实现（编码、单元测试）、集成测试，并按项目管理规范编写相应的技术文档；\n4、配合研发组长完成复杂项目的拆解，并能独立完成相关模块的开发工作。\n\n任职要求：\n3、熟悉Spring boot、Spring cloud、Mybatis等主流JAVA框架，并在项目有实际应用经验；\n3、熟练掌握关系数据库的相关操作和SQL语言，至少熟悉MySQL、SQL Server、Oracle其中一种数据库；\n4、熟练使用Eclipse、IntelliJ IDEA等IDE开发工具；\n5、熟悉Web端开发，包括CSS、JavaScript、Ajax等相关技术优先考虑",
+      "encryptAddressId": "b331a2a5029fc5851nd40t-6EVFU",
+      "address": "广州南沙区中海联南沙国贸中心写字楼",
+      "longitude": 113.544791,
+      "latitude": 22.794581,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230416/48ba41acc9cef1bfae1ae49ea56858528269ff3f36445c4e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf5b81769e8cf9f430ee7e71632b2851d96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "Java",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230927/607f1f3d68754fd0b24830828a49999370a9c6843b4760735e8fc99cc0047bb8a87c05973579071_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "心诚阁",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b379954c61d56cba1XJ_0926GVY~",
+      "brandName": "心诚阁",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1719304257612,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "心诚阁",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

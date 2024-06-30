@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NAN6Rd4JuK8JQ-01ZYAilZC_DGJcnZfu-xeSmUoJpAuj-eGvB3pbgnj8ywm-6wvD9TEyaQmo0bvXcfx8EZZ6sVseyaN0E4iG4KkRvOTGKw8XM5hPxxL9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78afc2ed512ddfb61XZ629y8EVVZ",
+      "encryptUserId": "5068f4bb6056c89a0ndy09i8FFdV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101221500,
+      "locationName": "池州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "招聘要求：\n1、二年以上Java后端开发经验；\n2、Java基础扎实，熟练掌握数据结构、多线程编程，掌握常用的设计模式；\n3、熟练掌握Mysql或Oracle，熟悉MQ等消息系统，Redis等缓存中间件；\n4、能独立高效完成一个复杂功能模块的开发，并高质量产出；\n5、熟悉springboot、springcloud优先；\n6、具备很强的沟通能力，分析和解决问题的能力以及团队协作精神，有强烈的责任心和使命感；",
+      "encryptAddressId": "d71aaed6e39be77a0XZ829u4FFs~",
+      "address": "池州贵池区中兴云·道洲创新创业园3楼",
+      "longitude": 117.536746,
+      "latitude": 30.702071,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/368dba86a4f71c0479f99a7f9139bab9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f78968eb8b2268f0c5cc0100fe20abd2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "PHP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钱先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "池州云栖网络科技发展",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d43981dc6ee229211XRz2924EVY~",
+      "brandName": "池州云栖网络科技发展",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719280819051,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "池州云栖网络科技发展",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

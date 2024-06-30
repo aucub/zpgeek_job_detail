@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_FX01wSYu3-w7-M1X2Kdi6wJAHa04hJhkiB8EG0eMRrlrDaaUdakxr9Cb83oS7b9K2TN7dps9k7k5e52ZCCvUn4kWn1XRNIIuCPodSIDFAnF8u7V870lSyTBpOuCspHSnr3Rtm3i2oQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "986b8718d7ed4c171HB-3d-4EVBX",
+      "encryptUserId": "36dcd989b1a3219b0Xd62ty-EVRS",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责服务器的系统安装和网络服务配置；\n2、负责公司产品的现场实施交付，日常维护保障，客户技术支持保障；\n3、解决客户运维过程中遇到的技术问题，不断完善问题处理流程和机制，高效解决客户技术问题；\n4、持续跟进客户业务运行状态，进行周期巡检并输出巡检报告，并对突发事件进行及时应对处理；\n5、负责客户PoC测试、问题解答、故障处理、培训等支持工作；\n6、收集客户对产品的反馈和需求，配合研发跟进解决问题；\n7、参与安排的其他运维工作\n\n任职要求:\n1、精通网络基础知识掌握Iptables防火墙，熟悉CentOS等主流Linux操作系统和Unix操作系统；\n2、熟练掌握Nginx/Java/MySQL/PostgreSQL/Elasticsearch等开源项目安装部署、配置、使用；\n3、熟练掌握开源JumpServer堡垒机、Zabbix、Prometheus、Grafana等监控服务；\n5、熟练掌握Docker有落地经验优先；\n6、掌握ESXI、Vcenter等虚拟化管理技术；\n7、有分布式存储经验者优先，moosefs存储；\n8、有一定的脚本语言如Shell/Python等编写能力者； \n9、有较强的沟通协调与理解能力、具有独立分析解决问题的能力、有责任心。",
+      "encryptAddressId": "22b24732600d593b0XBz3ti6EFtTx4i4V_o~",
+      "address": "北京东城区北京金霖酒店南楼五层",
+      "longitude": 116.402451,
+      "latitude": 39.889686,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf7ef7c70e9e73fc6aa1c7fe3a8f19aa9e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230629/48ba41acc9cef1bf77e5b853fb6a3d4b0f20f6a8708aa3046bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "实施交付运维",
+        "Python/Shell",
+        "Nginx",
+        "Elasticsearch",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "MeePo",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c7d8afa12d3b1ac61XFz3Ni9",
+      "brandName": "MeePo",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160524/5eee2f07cf39b43f3d78e554e56dbb1a7f9634b2eafcad801f7e91cc2295be4d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京麦谱影随科技有限公司（下文称麦谱科技）成立于2012年2月，是一家拥有自主知识产权，以云存储为核心技术，集方案设计、系统研发、运维管理于一体的高技术企业。麦谱科技长期专注于云存储和分布式存储关键技术研发与系统级优化，始终以卓越的技术创新推动中国云存储产业的发展，立志成为全球云存储产业的领先企业。",
+      "labels": [
+        "团建聚餐",
+        "餐补",
+        "底薪加提成",
+        "五险一金"
+      ],
+      "activeTime": 1719306835993,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "MeePo",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

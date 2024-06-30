@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "H7VbJkMjrZxKt-D10dGfRAHiGd9BJz3YQEJComZPffzn7NDqL2SR3ielfXS9NAjENIDyo-vuOHca1GbBcG2a33WqbFuJzQDnVd64--11PUWesJhiPhg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "50aec3b632526f821XB429W0FFpY",
+      "encryptUserId": "e950f33a09d59bd90nF_39u8GVJW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、java基础良好，具备面向对象思维，熟悉常用java设计模式。\n2、熟练掌握MySQL数据库，熟悉SQL语句句和常用性能优化技术。\n3、熟练使用Spring FrameWork、SpringBoot、Mybatis等常用技术框架。\n4、熟悉缓存组件、消息组件、任务调度、定时处理等技术，并能在项目中熟练使用。\n5、具备较好的表达能力、沟通能力和学习能力。",
+      "encryptAddressId": "3c6458616f2d1d350Xx639-_EVY~",
+      "address": "成都武侯区大鼎世纪广场3号楼1单元601号",
+      "longitude": 104.068818,
+      "latitude": 30.601368,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e48180c572798aebd759e4b11bc44271",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05c317d03bae8021f7af2b5734df4216",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230330/607f1f3d68754fd0c9a6222067e9de496b01d3d93b96ddb2d04b4183f84acec44ab53333ad4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "成都浩天",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "383a1ec0bc6a52141nZ43Nu8FQ~~",
+      "brandName": "成都浩天",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1717107669648,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都浩天",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lJ-E8GiKa9ZMM-H1i4wqxZRSCyJ54_GIo5OnkaLQ1cHVEdlfI5HIOZhHTZ05d_M5icytMhQRKacgDdKRd7l7EEltBZ3cUSqqEVoiGjovHvmAsJu2GCvGk-Vq1WUVGxzHaJ0MgQ2zWE47",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d2078d1932f39101HJ73N24EVVX",
+      "encryptUserId": "140f981132b504821nZ52924EVJU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司产品后端开发工作，完成相关的项目开发，\n2、根据项目许完成系统后台设计并开发实现；\n3、负责系统的性能优化和缺陷修复；\n4、参与新技术研究和应用持续改进系统性能；\n5、负责系统的维护和升级，提供技术支持，\n6、领导交办的其他事情\n任职要求\n1.本科及以上学历；计算机、软件工程等相关专业；\n2.熟练使用Java编程语言，有良好的编码习惯和代码规范，有1-3年实际项目开发经验；\n3.熟练掌握SpringCloud/SpringBoot等框架的使用；\n4.掌握关系型数据库的基本概念和SQL语言，了解NoSQL数据库；\n5.熟悉Linux命令和简单shell脚本的编写；\n6.熟悉React/JavaScript/HTML5/CSS3等Web前端技术；\n7.熟悉redis、kafka等中间件者优先；\n8.熟悉分布式系统设计与开发、负载均衡技术、系统容灾设计、高可用系统等相关知识者优先；",
+      "encryptAddressId": "51f2e9615ac9471c33x929-7EVtSxo-8UPM~",
+      "address": "成都武侯区腾讯成都大厦B楼5楼",
+      "longitude": 104.061326,
+      "latitude": 30.54574,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1afbf68255708fde91d8969a49db7490",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa4bd116737162ab1ac5b7285633b2ef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Kafka",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陶女士",
+      "title": "平台负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200823/adbd7e0da92cd57104b14018618887a3b032b9c149ea3aa584ad01399dd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "吉易付",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dd07b14241e1bccc1nx52dm9Fw~~",
+      "brandName": "吉易付",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "成都吉易付科技是腾讯集团子公司，目前主营业务为QQ浏览器中搜索内容相关。",
+      "labels": [
+        "免费班车",
+        "团建聚餐",
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "夜班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719287122479,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "吉易付",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

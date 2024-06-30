@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4dvqBy9qiDVM8-Q1MlEF2mXsdqsKhBR6WUD2Bf-RgTAr8eZGW248zcWaZ20DQrQqEvCXd6j3p3JokxUJEvpi9pchug5NJWlYCkZHJgVPPOx_u4AQQNfaeF0najsYunv1H85ysNz_WQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "258999a4c5f99b883nV-3Nu8GFM~",
+      "encryptUserId": "f502828b4f3f6add0XR73tu6GVA~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、 熟悉面向对象设计，熟悉Spring Boot， Spring cloud , hibernate, DataJPA 等开源框架,熟悉常用的设计模式； \n2、熟悉maven项目开发，能够使用maven搭建模块化项目结构，快速进行业务开发； \n3、熟悉java多线程，熟悉java反射机制，了解Java nio，了解JVM内存使用优化； \n4、熟悉redis缓存技术，了解缓存机制，有redimavens缓存使用经验尤佳； \n5、熟悉MySQL、MongoDb等数据库，熟悉事务管理机制，熟悉SQL索引优化，能编写存储过程； \n6、能熟练使用SSH 进行linux操作，部署应用，查看日志快速定位问题；\n7、了解nginx，flume等相关服务器端应用，具有flume使用经验者尤佳；\n8、有团队开发经验、git、svn等版本控制工具使用经验尤佳；\n9、需要统招本科",
+      "encryptAddressId": "09c6507a4edce0a70XF63tq_EFc~",
+      "address": "杭州余杭区海创科技中心3幢909",
+      "longitude": 119.996503,
+      "latitude": 30.276096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/579bcebe5f2ea5752d83e5da86a44175",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b4642de0aaafb0881f543845ac54793",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "C/C++",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "Java",
+        "企业级应用开发",
+        "服务器端开发",
+        "分布式技术",
+        "多线程",
+        "SpringBoot",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "单先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "巡天科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f6258de704bfd23303V_2dy4Ew~~",
+      "brandName": "巡天科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230522/7bf6f160950405e9c29f0dab7f033baf8695ce6a1c64a1618328562d73a06c0ac254a80dd348a794.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州巡天科技有限公司成立于2019年。致力于服务新时期智慧城市建设、自然资源管理，为各级政府部门、企事业单位提供专业的大数据可视化技术服务，以空间地理信息技术和计算机技术应用为手段，构筑软件开发、数据工程、地理信息工程、自然资源与环境监测咨询和互联网应用的集成优势，为用户提供成熟、安全、适用的信息化解决方案和地理信息软件产品。公司是浙江省中小型科技企业、杭州雏鹰计划企业、国家高新技术企业。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "夜班补助",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1718365974961,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "巡天科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mu0QkaMvldjzQ-E16bZJJ2vo72G5DNT1FfrQ2ZseXty0dE0yp1UZUEO4xK2IEjqfCrP9Nu7pEfTWTsfr0-7dgYZIut4GCWrKgoRPnSpJgr66Rg-9OT7b_wjBcAKDsjjicOTb_FD6ZPcG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ef4af04dbd1d4c011HV-0t66F1VU",
+      "encryptUserId": "99bfc42a1e7c447b1nZ4292-E1U~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1. 根据项目规划，负责项目子模块研发迭代工作，根据开发规范与流程，独立完成模块的编码及测试；\n2. 参与方案讨论，设计以及技术调研，参与软件需求与设计审核、代码测试、检查；\n3. 搭建系统开发环境，完成系统框架和核心代码；\n4. 与项目组成员配合进行模块间的联合调试，负责处理和解决线上产品出现的问题；\n5. 按照要求完成日常开发工作，维护相关开发文档；\n6. 完成交予的其他任务。\n\n\n任职要求:\n1. 本科及以上学历，2年左右相关工作经验；具有良好的技术背景、开发思想和业务理解能力；\n2. 了解Spring、Springboot，Spring MVC、MyBatis其原理和实现机制，并能在实际工作中熟练运用；\n3. 具有扎实的Java功底，对JVM的原理有一定的了解，具有较好的Java IO、多线程、网络等方面的编程能力；\n4. 熟悉SQL，熟练使用MySQL等数据库，并具有一定的SQL优化能力；熟悉Memcached、Redis、MongoDB等常用NoSQL解决方案、了解各自的优缺点以及使用场景；\n5. 熟悉Linux操作系统常用命令；\n6. 具有一定的沟通技巧和自主学习能力，性格随和，思路清晰，态度端正。",
+      "encryptAddressId": "3689c2bd278a51b21nB73dS0GVpT",
+      "address": "杭州滨江区香溢大厦676号25楼",
+      "longitude": 120.214281,
+      "latitude": 30.211869,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf07fbd5ec2e59c89f1831f9d5dc301bb06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf87e0e0530fe93819768f403efd7543c56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖女士",
+      "title": "HRBP人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220706/607f1f3d68754fd08ccb779ca7f59de1f6b1965a723d3bc05def8d2051ddf0c25de16237e70_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "网垣科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e729d5d0429ca7b51nZ829y8Els~",
+      "brandName": "网垣科技",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "创业公司，专注快销品领域的信息化服务。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1719552091079,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网垣科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NeaM9XaPWwLCi-B1WOgBKTouzCBBx_UEa3iM-hXHIRo7dFovZeubY1yXFuOFyz_gUtLjMEiPiLF6wcqqGG92wPURdojXky3b99SshUxIQBXGOD1chqC8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "21a10e547f9c7ec31HZ80ty0ElVX",
+      "encryptUserId": "3eef94b80aff0d9a0nB_3NS_FFtQ",
+      "invalidStatus": false,
+      "jobName": "研发工程师-Go/Python",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "职责：\n- 负责制定和实施软件开发效能策略，提高团队的开发速度和代码质量\n- 设计和维护自动化工具，用于构建、测试和部署流程的优化\n- 制定和执行持续集成和持续交付流程，提高软件发布的可靠性和可重复性\n- 协助团队解决性能问题，进行系统调优和性能分析\n- 导入和维护Docker容器，简化开发和部署流程\n- 参与制定和执行单元测试和集成测试，确保代码质量。\n- 负责构建和部署过程，确保软件的及时发布\n技能要求：\n- 使用Go和Python等编程语言进行软件开发\n- 编写和优化SQL查询\n- 熟悉K8s，docker，docker-compose等容器化工具的使用，具有AWS经验的优先\n-2-3年相关经验或者具备扎实计算机和软件相关功底的应届生",
+      "encryptAddressId": "fd79e9f0f361f3a21nZy3tm0FVpU",
+      "address": "上海杨浦区瑞安房地产·创制天地项目创智天地10号楼",
+      "longitude": 121.513,
+      "latitude": 31.306289,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230502/48ba41acc9cef1bf94cba6e06865ef1e39bea4928de772766bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231017/48ba41acc9cef1bf8bed841ad3fb8f0027c79857e2c2fa6d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Python",
+        "计算机相关专业",
+        "SQL",
+        "docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "阎女士",
+      "title": "HR Head",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海时加跳动软件技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "773085353ac85a8c1XV809y6FVc~",
+      "brandName": "上海时加跳动软件技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220712/7b5b554d84f9729ccd6d683429210c022296063bf835e3b0c577e01c685136923110a38b3cb0e60d.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "流式数据实时分析平台",
+      "labels": [
+        "生日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "股票期权",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719636285937,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海时加跳动软件技术",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

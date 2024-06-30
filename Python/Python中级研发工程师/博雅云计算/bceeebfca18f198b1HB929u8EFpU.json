@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JWHdLMSbZCzaP-y1Os8V3P5Z5788GdsXL_rQ9zu4ac-qYdv4Y5PJL0PbcIa3dJlQEjs7b0fdX96SBeIbTRdU3njYdd5Q3gW2s8Wp9JhzzwqHQTo0obUmONZ1WRa1kiTefrtz9JZsGQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bceeebfca18f198b1HB929u8EFpU",
+      "encryptUserId": "90bd938e14f5e3ec1HJ-3dy8EVo~",
+      "invalidStatus": false,
+      "jobName": "Python中级研发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司自动化产品的需求分析分解，系统架构设计；\n2、负责核心代码开发，保证产品的稳定性及性能；\n3、负责业务需求沟通、项目进程把控及管理工作等。\n任职要求：\n1、本科以上学历，计算机相关专业，1年以上开发工作经验。\n2、优秀的python语言的开发能力；\n3、熟练使用django，flask等Web框架中的一种或多种，熟悉常见设计模式； \n4、熟练使用常用数据库（例如MySQL, MongoDB, Redis,ES等）；\n5、熟悉WEB UI自动化测试开发者优先;\n5、熟悉前端页面HTML,CSS,XPATH技术者优先。",
+      "encryptAddressId": "2a6f3d6e9a8346920Xxy2dm9EltSxYi3WfM~",
+      "address": "北京朝阳区健翔大厦北入口410",
+      "longitude": 116.381641,
+      "latitude": 39.980438,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8612480229f8d57ad31dc58372d6b7466bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfac4f90bdc0ee2d7f4e52d91ab86500776bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "Django",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "综合办公室经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "博雅云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7281e756dffb78863nN60t69",
+      "brandName": "博雅云计算",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180827/56509ba043e6ebedf5705435769b4a3acfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "博雅云计算科技（北京）有限公司，隶属于博雅软件集团（原北大青鸟软件股份有限公司）。博雅云计算科技致力于新型云计算数据中心多态运维管理解决方案的研发和市场推广，其核心产品OneSRM存储资源管理系统、CloudAtlas私有云管理系统，广泛应用于金融、能源、制造、政府等企业数据中心。特别是OneSRM存储资源管理解决方案，填补了国内相关领域解决方案的空白，成功应用于中国农业银行总行及全国36个省一级分行、中信银行总行、中信银行信用卡中心、太平洋保险集团、上汽通用集团、湖南中烟集团、新华社、国家地理信息中心等大型数据中心，获得客户广泛好评。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "带薪年假",
+        "通讯补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1716716089694,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "博雅云计算",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

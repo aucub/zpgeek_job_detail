@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vReN6wIx2CnOT-11RYM4fyxUJvIM7qIOZfpf4JUxlx1_v7_ccZznm209zQdvKk--kdskhItRruUcG46r5qE8xFllbxFXSNX88Jeg3NFjSZjkLn8quJ2f",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aefb97b80b5f4e1b1XV-29W5GFRV",
+      "encryptUserId": "6dc397357ce36d410nZy3dy9ElZS",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "#工作地点：\n长沙市天心区南湖路东怡外国A座1613（碧沙湖地铁站旁）\n公司总部在南京；长沙分公司目前10余人，主要承担开发及实施。\n公司主营业务为工程项目建设信息化软硬件和技术服务，项目多为高速公路、国省道等基建项目建设期或改扩建等养护期工程，内容包含施工设备的数据采集处理、信息化平台建设等技术服务。\n\n#薪资：\n3年以上工作经验，参考月薪7K-11K，条件合适待遇可谈。\n\n# 工作内容：\n- 完成日常迭代需求开发，跟踪处理线上问题。\n- 参与代码评审及技术培训 。\n- 独立设计并完成中小型项目开发与上线。\n- 协同PM完成大型项目开发 。\n\n\n# 技能要求：\n- 从事开发相关工作2年以上，具备 Java 开发经验，前后端都有一定了解。\n- 熟悉常用框架如 SSM、SpringBoot、SpringSecurity 等。\n- 熟练使用 Maven、Git 等工具及 Tomcat、Nginx 等服务器。\n- 了解Mysql、Redis，对数据库调优知识有一定了解。\n\n\n# 其他\n- 软件开发基础扎实、学习能力较好。\n- 小团队会有一定工作压力。\n- 有工程信息化系统项目经验、计算机及土木工程相关专业优先。",
+      "encryptAddressId": "b388466b5aefd4d40nV_29q1GFU~",
+      "address": "长沙天心区东怡外国A栋1613",
+      "longitude": 112.970119,
+      "latitude": 28.164294,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a46f3f5787d0e3c7d1247f5bef848df2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39361cb9d17df885054259734aa52fec",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "JavaScript",
+        "Redis",
+        "计算机/软件工程相关经验",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "文先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "逸久信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "97b9e37e44f6ffbf1nd52tW-Fls~",
+      "brandName": "逸久信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210427/66252c83a5491df6baf2396644cfa417b12c2cc408a0f87eebb3bc2e06d91c32_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "专注于工程信息化数字化垂直领域的服务型技术企业。目前以工程信息化领域的施工过程数字化提升、物联网技术应用和在线管理系统为主，具备完整的项目设计、开发、实施能力；可依据客户需求提供信息化整体解决方案、子系统级别应用产品、接口级数据服务等灵活的产品和服务。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717107217736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "逸久信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

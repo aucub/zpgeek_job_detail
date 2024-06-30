@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6M92WRH7_9cGD-n13_4ZN3nSNh28r2v0fl1RxmJYfk_SvRuqrwZh2wSJOCHlQ_Zlfau_TB7LhKeQFaWvzJye-_Dh5vXCBKavmJTYBxcYduxgttycBEr6BNi_yr_RFjpyMUoJrUO1SUzmonfXlCHKuo6xsL06geIgu95BFSq5dBuED_6b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "15334547c0a1f3461HB739q9FVtT",
+      "encryptUserId": "aa61e23710ab226f0HF42N66GVE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（TS）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位职责：\n1、根据产品需求完成系统设计，和程序开发工作，完成系统的详细设计、编码，并对程序进行单元测试，集成测试；编写系统的用户手册、安装手册、操作手册等软件说明文档。\n2、持续对系统进行优化，迭代和维护，解决客户问题；\n3、高质量完成项目经理分配的开发任务，保证按时，高质量完成。\n职位要求：\n1、本科及以上学历，计算机相关专业；\n2、掌握Java语言，具备JVM调优经验，熟悉SpringCloud等微服务架构\n3、编程功底扎实，掌握网络协议，多线程，数据结构算法，分布式开发；\n4、掌握SQL开发，SQL调优，熟悉Postgresql/Mysql/Oracle其一；\n5、熟练掌握各种开发工具、构建工具和管理工具，Git、Jira、Maven、Jenkins等；\n6、有docker，k8s使用经验；\n7、熟悉分布式框架，缓存技术，具备高并发架构设计能力。\n8、有产品化模块化思维，责任心强，抗压，好学，喜欢钻研新技术，能进行跨团队的沟通协作；\n9、熟练使用JPA/Hibernate，了解DDD领域驱动开发",
+      "encryptAddressId": "265e852baff9b3970HV62ty1E1FZxYm6VvI~",
+      "address": "深圳福田区中国太平金融大厦8楼",
+      "longitude": 114.055494,
+      "latitude": 22.542092,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfd32f070b264d319f646f150b4bb9fd6b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf90ea2a3dc60beafcac84348d1e2318166bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "SpringCloud",
+        "JVM",
+        "MySQL",
+        "PostgreSQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240308/607f1f3d68754fd06f1b62da429f0fe43e5ec9f710d5c9e66b4a5b71bc3324e75133bf8e3a6b50a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "皓羽科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "09a7425dd2dc046e1XR72tq_F1Y~",
+      "brandName": "皓羽科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719374545899,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "皓羽科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

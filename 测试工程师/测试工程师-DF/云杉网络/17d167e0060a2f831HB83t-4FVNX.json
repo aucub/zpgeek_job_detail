@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0qsoPNofU4miR-Q1I0t4bS-WI4jm9R28DNfzr_gzpLvZosNADF3BypEG-sYUUfFugKiwDIztNEtVkKSqBgLL6SGJmHa1BTyqaa8arNAGr_Kv0rs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17d167e0060a2f831HB83t-4FVNX",
+      "encryptUserId": "de2b6cf01a50b41a03R_0ty9Fg~~",
+      "invalidStatus": false,
+      "jobName": "测试工程师-DF",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与测试用例的编写，并进行测试环境的搭建与维护；\n2、负责产品以及解决方案的功能测试和系统测试，并提交测试报告；\n\n任职要求：\n1、熟悉网络或云计算相关的工作，熟悉软件测试流程；\n2、熟练掌握TCP/IP以及各种网络协议，能够独立完成网络问题的排错；\n3、熟悉网络流量构造工具，能都独立搭建测试环境；\n4、熟悉OpenStack/VMware/K8S云平台产品；\n5、有工作热情和工作积极性，有独立学习、解决问题的能力。\n\n优先条件：\n1、有虚拟化及k8s使用经验\n2、有长期在linux环境工作的经验；\n3、有NPM或APM产品测试经验。",
+      "encryptAddressId": "47b3224ce0ed52230nV72t20FFs~",
+      "address": "苏州苏州创意产业园11栋302",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2ecd6f65902807820f6947325f36b80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/292b5354832fd263af9c929b29dbbf61",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "linux",
+        "网络",
+        "测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人力",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190321/f41cf65477fda279d5b28e784a3d8fd4cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "云杉网络",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8568a1452ec57ccc0HF93du4",
+      "brandName": "云杉网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180622/3f2a85ea02bac00fa2334be9feea8b42327fd7fef041148671524277f34a382a.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "云杉网络（北京云杉世纪网络科技有限公司）是一家SDN实践创新企业，成立于2011年12月，专注于数据中心虚拟网络监、管、控方案及SDN软件产品的研发。秉承“技术创造价值”的核心使命，以开放网络和x86架构为基础，深耕虚拟化网络的可控与安全，为云时代的业务提供安全、稳定和智能的网络。\n\n公司始终坚持自主创新，在SDN控制器软件、高性能虚拟网络流量采集、深度包检测和基于DFI的云网分析等技术上获得了多项软著和发明专利。近9年来先后为金融、电信、能源、运输等多个行业的近百家头部客户带来云数据中心网络方案的创新与新技术的赋能。\n\n云杉网络通过其核心产品DeepFlow云网分析和NSP云网服务构建数据中心智能网络。DeepFlow通过精准高效的网络流量采集和数据处理，帮助企业在混合云环境中构建全网流量监控分析平台，为业务和安全提供网络全景图、性能分析和端到端诊断。NSP数据中心网络服务平台，为企业和运营商混合云建设中存在多地多中心、异构资源池、多厂商交换矩阵的网络环境，提供统一的逻辑网络编排和网络服务管理。\n\n公司创立伊始便获得了北极光、红点中国的天使轮和A轮投资，并在发展过程中连续获得经纬中国、联想创投、华创资本等创投机构的B轮和B+轮投资。在得到市场与客户认可的同时公司的产品和方案也与AWS、微软、Intel、腾讯云、绿盟科技、EasyStack等各领域的企业建立合作，共同拓展SDN在数据中心和云计算中的产业化应用。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1718186028091,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云杉网络",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

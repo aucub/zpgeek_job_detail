@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vviXGASozkp5Q-N1xIAPfJOcURVUHFzoF9hqpD0XkDeIe3Fb7EhAHMgdcEcKH4OTOs3vtxMRGi3ok0TsAjaVsNRoNm_jKioG6Xlof9YF2Amvz2hZ8y3Rc41NTFO_m_zAKsjnt3z1ilhATg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0e4f0022dad5b9a91HFz2ti7EFJZ",
+      "encryptUserId": "b8aba23103340cee1nZ42NW-ElBW",
+      "invalidStatus": false,
+      "jobName": "java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责设计高可用，高伸缩性的后端架构;要有足够强的沟通能力，懂产品，\n2、 最主要懂一些前端的VUE和低代码和原生，会开发就行\n负责后端框架的设计，开发，规划技术架构方向，指导研发团队;\n任职要求:\n1、全日制本科学历，5年以上Java、大数据、物联网相关开发经验，具备系统设计能力，条件优秀者可适当放宽:\n2、精通Java语言，熟悉分布式存储技术，掌握\nMySQL以及NOSQL数据库技术，拥有商城平台解决方案和系统设计经验优先；\n3.独立开发编写后端业务代码，独立设计API业务接口并且能独立部署后台；\n4.对linux了解，掌握Nginx，熟练使用阿里云后台，可自行配置服务器，进行项目上线，并对线上运行问题进行定位与解决；\n4.熟练掌握Spring/SpringMVC/\nSpringCloud、Tomcat、Netty、MyBatis等技术框架，熟练运用Nginx、Redis、ES、MQ、ZK、Kafka等企业中间件:\n5、了解NLP及大数据相关技术，有数据采集、数据清洗、数据可视化，数据分析能力等经验者优先;\n6.良好的团队合作精神和沟通能力，能够在快节奏的环境中高效工作",
+      "encryptAddressId": "c4e5ddeb68ba2e2933Vy09S9EVVYwo-6U_g~",
+      "address": "深圳龙岗区魅园207",
+      "longitude": 114.074915,
+      "latitude": 22.632142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230423/48ba41acc9cef1bfc8510b09f550a5536fd3f73de649921e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd0d09132b2e1e5958d6c96d88d1329786bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "SQL Server",
+        "不接受居家办公",
+        "架构设计经验",
+        "物联网经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230805/607f1f3d68754fd0feeca14d4ce610722d1847587fe6000624bc7483644af820d09eec9a6786372_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "厦门市九投十科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c204ebd4e38c1a071HB92t61GVU~",
+      "brandName": "厦门市九投十科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101406,
+      "industryName": "电子/硬件开发",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718434379000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "厦门市九投十科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

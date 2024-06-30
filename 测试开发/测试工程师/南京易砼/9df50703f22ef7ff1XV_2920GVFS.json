@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qH3vLSrz-4QBN-K1yF1u5Ek8whzPqAxF7GNt5oFnmYJ7YGWxoTPjw9FLGHlWOzQ7j4nS5njv_WQ0GkllL4ZJ74v_3RoV-SlqkH1_oMXmOu5IIxikBrY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9df50703f22ef7ff1XV_2920GVFS",
+      "encryptUserId": "2d745a01dfbc415e1XJ529S4Flo~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责产品的全流程测试，参与需求分析和评审，制定测试方案、测试用例设计以及执行；\n\n2、参与搭建测试环境，保证测试环境的独立和维护测试环境的更新，做好测试前的准备工作；\n\n3、保证产品测试工作的计划性与规范性，分析并推动解决测试中发现的问题；\n\n4、与开发、产品团队密切配合，提升产品整体的研发效率；\n\n5、实施集成测试、系统测试、环境及老化测试等，参与自动化测试开发，包括UI和API方向；\n\n6、对测试结果进行分析，整理测试文档，编写软件测试报告，编写测试总结，为软件开发成果提供总结性意见；\n\n\n任职要求：\n\n1、大专以上学历，1-3年Web/APP/API测试经验，计算机、通信、电子、自动化等相关专业优先；\n\n2、掌握测试用例编写和执行规范，能够编写完备的测试用例，掌握BUG生命周期和缺陷管理；\n\n3、熟练使用测试工具和缺陷管理工具如Jira，Postman，Jmeter，Fiddler等，能协助开发定位问题；\n\n4、熟悉常用编程语言者优先，如java、python、js等，能编写测试脚本，设计UI、API自动化脚本或性能测试脚本并落地执行的优先；\n\n5、具备较强的学习能力和表达交流能力，有ERP、CRM、物联网项目经验者优先",
+      "encryptAddressId": "87e61ae6431f8c793nJ93tS0Fw~~",
+      "address": "南京江宁区南京易砼科技有限公司612",
+      "longitude": 118.874054,
+      "latitude": 31.974987,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41183416d5961c814744b4a104556120",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f5fbeddb4fa66c2618f090cf06e9c12",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "软件测试",
+        "Jmeter",
+        "Java",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郝女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230915/607f1f3d68754fd00918f6fe5ebc88f4219236723d74a5065f69cb9ff2f10ef25d7f57f514be936_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "南京易砼",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dec4189de699dd871nZ929i8FVE~",
+      "brandName": "南京易砼",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201105/192214e16d25061b7a0f09978274f2d35f69cb9ff2f10ef25d7f57f514be9363.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "研发软硬件结合的新一代智能运营管理解决方案，将物联网，大数据和人工智能AI技术混凝土行业车辆融合，赋予车辆自我感知，自动交互，自动学习三大核心能力，实现混凝土泵送运输设备的远程监测和智能化管理",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1717068721184,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京易砼",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

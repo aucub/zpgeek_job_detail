@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VgR4YATUVM4ii--10xQRfG8ittORv3jFl23ONwGcju2riEJulSjFXapr3en2_jaIHawdqna3vZKVrd1bRZHMVuq5VWylZ8g58wFR6BRvDomxO7J0ig~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7559565082a83a6d0HJ62d25E1o~",
+      "encryptUserId": "96d9d237128e043e1nR82Nq6F1JY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "Java后端开发人员：\n1、本科以上学历，计算机相关专业；\n2、3年左右开发经验；JAVA基础扎实,理解IO，线程，集合等基础框架；\n3、熟悉dubbo/dubbox，Spring，ibatis，netty，Ajax等开源结构；\n4、对自动化部署方案(svn/git+jenkins+artifact+maven)有一定了解；\n5、熟悉mysql数据，有阿里云RDS使用经验，理解分库分表方案；\n6、熟悉分布式框架 dubbo/dubbox， spring cloud , Spring, ibatis,netty,Ajax等开源结构\n7、了解TCP/IP协议，有软硬件结合工作经验为佳；\n8、理解RPC调用方案；\n9、有较强的需求理解能力，问题解决能力，有较好的团队协作能力；\n10、有大型企业级应用或大型互联网产品开发经验优先；\n11、熟练使用Spring Boot、Spring Cloud、Mybatis、Hibernate、JPA、Spring家族等主流Java开源框架；\n12、熟悉前端技术，有前端开发经验优先；\n13、熟悉消息中间件技术，有实际使用经验者优先；\n14、熟练使用Linux常用命令，熟悉Shell脚本以及常用的管理命令；熟练掌握Ngix、Tomcat等应用服务器部署及优化；熟悉性能调优者优先；\n15、对新技术有强烈的探索欲望，善于团队合作和管理，执行力强，能臭手工作压力，有前列的责任心和上进心；\n16、具备良好的编程习惯和文档撰写能力，具备良好的沟通能力，思路清晰，善于总结归纳；",
+      "encryptAddressId": "0091cfc2cdea88f01X1y39u_F1Y~",
+      "address": "成都武侯区中航国际交流中心A座1308-1309",
+      "longitude": 104.06053,
+      "latitude": 30.577874,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc6943aef202b9d3de571b19d299cdc5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa5a8ca9a2a5bbed63811c1f5c7d92c7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Shell",
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Hibernate",
+        "Dubbo",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/79ee15e3f1194269ac5a4663fafe1e2c61606b57088a07a22ed31a80397_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "华创碳云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fac9a66894da5e4833R_2tW7Ew~~",
+      "brandName": "华创碳云",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200725/983da080001cc0594e049a222e7e932361606b57088a07a22ed31a80397bb545_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "集团总部在深圳，技术团队在成都。\n目前的主营项目为酒旅系统。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717107665990,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华创碳云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

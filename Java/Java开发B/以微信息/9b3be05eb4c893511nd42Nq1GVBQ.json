@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UUHCyu-gHtvrw-21eEe1XnlOvT1aykjUpNpGY7CvO5kDIKzo92e_hoBPm36zAi8c3RpJzcVNz8nXJp59yGByplluRSjwJgIbHDX8gVkDDOvY1lN_h7qxNSHF-ydOrSG2toCALb6kgA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9b3be05eb4c893511nd42Nq1GVBQ",
+      "encryptUserId": "48f21844c0ec7d741nV90966E1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发B",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责行业领先的云平台的开发和创新工作；\n2.根据行业客户的业务场景和技术架构，提供基于产品和技术解决方案的服务；\n3.挖掘用户需求，提供具有价值的云产品。\n\n要求：\n至少有2-3年有效工作经验（不满2年有效工作的，请勿打扰）;\n基于Spring的微服务架构。\n主要技术框架包含：\n1.集成服务平台Mule\n2.消息服务器ActiveMQ\\RabbitMQ\n3.Job作业工具Kettle\n4.缓存服务Memcache\n5.索引服务器ES\n6.工作流引擎Activiti\n7.Web UI组件基于React.js\n8.批处理Spring Batch\n9.有高并发平台经验，处理过大数据者优先\n10.注重团队协作，有良好的沟通能力。",
+      "encryptAddressId": "916c4ede849482be03Z83di5FFQ~",
+      "address": "上海浦东新区涛飞国际广场A区",
+      "longitude": 121.660868,
+      "latitude": 31.237763,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c26527a146b4c721ac004bcb12f150a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a708c4eeca38b0a74110156d59f16414",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "Spring",
+        "架构师",
+        "大数据",
+        "云计算"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160527/0b593cd4bfcf0e6f35be848d0fee0c848c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "以微信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e1a305dc2983d6201Xx709m5",
+      "brandName": "以微信息",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717130614384,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "以微信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

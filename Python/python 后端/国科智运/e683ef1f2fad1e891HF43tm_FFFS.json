@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IpjyvKvakuzUi--1A2Zxxag2rMwKYP0JoBnvUYn_qji4Hmg-Hvv24LamzsBLxBETIs4VLcWB-lDmeJGLtSZPcraVqXmPZ-rxkWkXYWGJ-9F-m6_q6XwDOpGu-WFKywKuYsxonjSYxsyoAj-8Gontrep2QlT9jGwktPkUwfU-4bQJQIHmOw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e683ef1f2fad1e891HF43tm_FFFS",
+      "encryptUserId": "ca03d499c00e9df50nBz0t69EFVW",
+      "invalidStatus": false,
+      "jobName": "python 后端",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101120900,
+      "locationName": "临沂",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、参与公司车辆租赁系统后端功能设计、开发和代码维护；\n2、参与团队内其他相关系统的后端设计、开发和维护；\n3、参与API设计与实现，配合前端开发工程师的调试工作；\n4、系统日常bug的修复，性能调优、系统重构等工作；\n5、相关文档的编写和维护。\n\n任职要求：\n1、本科以上学历，计算机相关专业；\n2、有3年Python开发经验，具有面向对象的设计能力和良好的编码风格，熟悉使用Python标准库和流行第三方库。\n3、熟练掌握Django、Tornado,Flask等Python web框架\n4、熟练使用MySQL，PostgreSQL，Redis，\tInfluxDB等，了解MySQL的数据库原理，具有数据库设计和SQL优化能力；\n5,  熟悉Docker容器化技术\n6、熟悉Linux系统，掌握基本的操作命令，有一定的系统运维经验，熟悉Nginx的配置和使用，如负载均衡等；\n7、熟悉web前端开发技术，Html5, JavaScript，AJAX等；\n8、有较强的分析与独立解决问题能力，有良好的沟通能力及团队合作精神；",
+      "encryptAddressId": "66b61cf1c3933ea53nZ429q8F1BQwYW7Wf0~",
+      "address": "临沂兰山区临沂应用科学城B",
+      "longitude": 118.304593,
+      "latitude": 35.134552,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24911bb8d12b2117fc985e49e866ca63",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db094cd630cb97597cf5ddc851d1927f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Django",
+        "MySQL",
+        "爬虫经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "国科智运",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "76523b2884a7bb5d1HV82NW7FlQ~",
+      "brandName": "国科智运",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719283131563,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国科智运",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

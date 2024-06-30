@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6ewttMQluWQEs-11gSDtYBrzsr6kvi5xZsH9Rs6X9ocYmddmmxlxnzLZ4J64pcPFwR-wXA8CXyJWewYFEjzhLPotJleO8Kq8bvwp5jYW021JkHVR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "11d84ca678e621e13n1-2Ny0F1A~",
+      "encryptUserId": "8683b463a5a115a70nR60t-9FVZR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "使用spring boot完成后端服务开发\n熟悉postgresql或mysql\n对go和grpc有了解",
+      "encryptAddressId": "e97f3b535c41f61c1HF62960FFc~",
+      "address": "北京朝阳区阳光100国际公寓1",
+      "longitude": 116.474821,
+      "latitude": 39.912631,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f06c4cb5a20e6f7a4a5417c8487fdfa6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39c59373929831189ce4ccd6c204cc8f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "PostgreSQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "研发主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "商智通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64303f4e72cefbe603Ny2dm6",
+      "brandName": "商智通",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231117/7bf6f160950405e9c31d6f805b1eec60d747846cd532378300e56475e1e6f4a7a22bd91bb176b3c7.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "北京商智通信息技术有限公司，成立于2005年，是业内领先的大数据调研采集处理系统解决方案提供商及中国前沿的数据分析与咨询服务机构。北京商智通致力于帮助企业挖掘数据财富，开启商务智能，为企业提供数量化管理软件和咨询服务，帮助企业获得数量化管理能力。北京商智通依据全球经验和本土实践，依靠首席统计学家长期探索，结合统计与商业智能专家的实践经验，累积员工知识结构（跨越数据挖掘、管理学、 IT 等多个领域）；创新与稳重兼容。\n\n我们已获得了100多项完全自主研发的产品和知识产权，在中国和全球合作建立了6个大数据联合实验室，我们的大数据系列产品服务于中国大陆，港、澳、台以及全球3000多家著名高校、政府部门和世界500强企业，涵盖政府、金融、互联网、传统制造、文化娱乐、零售连锁、通信和国防科技工业等20多个领域。\n\n典型客户：国家统计局、国家旅游局、中国石油、中国石化、中国移动、中国电信、中国联通、ABB、GE、施耐德、海信、中远集团、长城汽车、北汽集团、南方报业传媒集团、中国银行、建设银行、招商银行、中国标准化研究院、中国中医科学院、中国互联网中心（CNNIC）、中远海运物流供应链有限公司、中国外运股份有限公司、北京外企人力资源服务有限公司（FESCO）、福建联合石油化工有限公司、中国石化扬子石油化工有限公司、中国旅游研究院（文化和旅游部数据中心）、中国社会科学院、北京大学、中国人民大学、厦门大学、新疆财经大学、陕西延安市12345市民服务中心等。",
+      "labels": [
+        "加班补助",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1717070158356,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "商智通",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

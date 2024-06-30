@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jD73YMA9vSVVB-y1vb9yN3iycAB74k3MD5AWrSxy977wACmmpoqKfIUjet5sUpt8JTNapQxVDOi1J3rs-j4LCNIb_fZiRxbbca4HFYBXC16k9ExfiA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "99d5aab2237dc3611Xxz09W9FVBU",
+      "encryptUserId": "c17e1618d8e0217003x909--GFs~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、参与公司产品设计工作，按需求分析保证产品的质量；\n2、与产品、设计、前后端等合作方协同工作，讨论技术方案；\n3、参与前端组件设计、编写，优化流程提高开发效率；\n4、对产品和框架做分析、优化，提升体验和可靠性；\n5、前后端联合开发，实现模块功能。\n\n岗位要求：\n1、本科及以上学历，计算机相关专业；\n2、有1-3年全栈相关工作经验；\n3、对前端技术掌握全面，对javascript、css、vue、webpack有深入了解；\n4、熟悉一到两种Java的MVC开源框架，有前后端联合开发经验者优先考虑；\n5、熟悉chrome内核、http/tcp、websocket等常见协议；\n6、会使用常见的开发、分析工具，如：搭建mock、抓包分析等，有网站爬虫经验优先。",
+      "encryptAddressId": "2791a70ee3a448a51XNy29W8FQ~~",
+      "address": "天津南开区天津市科技创业服务中心225-232",
+      "longitude": 117.151604,
+      "latitude": 39.107297,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ceb877eae0b86b7beac10ebb6f6c03ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dc8ef99c36528abe4515a2a5a56d533",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Vue",
+        "全栈侧重前端",
+        "MySQL/Redis/MongoDB",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200907/36b63aeff32dad0e4169969314f135d99d4e39d13ea31ce3dd50bed3a5f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "中怡",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e7ea2c6968e397610HZz29S-EQ~~",
+      "brandName": "中怡",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "中怡是人易宝旗下的医疗公司，提供互联网技术为核心，致力于为客户提供互联网医院诊疗平台。目前已于天津多家医院达成合作。",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1718419633000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中怡",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

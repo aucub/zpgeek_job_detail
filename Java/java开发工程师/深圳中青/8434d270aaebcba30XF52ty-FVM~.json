@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "R5D5dXUv6puRN-U1c0f8H93WN43JEbG_Q51kZX2UJEVTn62l0lxxDjCktVZ3LXmRJSGa45HflC-AIauRGVRMF_A4ewoaWzueDouNKvqv7atTmB-x",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8434d270aaebcba30XF52ty-FVM~",
+      "encryptUserId": "a4beb78c435be8b033dy2du4F1E~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责1. 负责OPPO手机内置应用OPPO APP、营销活动等平台的服务端开发工作；2. 参与服务端平台架构的优化； 技能要求1. 熟练掌握Java语言，具有互联网Java后台开发3年及以上经验，熟练使用SpringMVC（SpringBoot）、Mybatis开源框架，有Dubbo微服务开发经验者优先； 2. 熟练使用Redis、RabbitMQ中间件解决业务问题；3. 熟悉Zookeeper、ElasticSearch中间件;4. 熟悉mysql数据库，具备一定的Mysql索引优化、查询优化能力，了解常用的Java数据库连接池组件;5. 熟悉常用的Linux命令，能独立完成Java的linux环境搭建和容器部署;6. 能熟练运用Git进行协作开发，了解自动化构建技术；7. 具备较强的团队精神、良好的表达和沟通能力，有强烈的内驱力和责任感。49",
+      "encryptAddressId": "85701712ebaaacf61XN-3tu9F1o~",
+      "address": "深圳南山区茂业·时代广场10层DEF单元",
+      "longitude": 113.930331,
+      "latitude": 22.519729,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e111d57759f7f1ba70744ef6f2a06851",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0773ebb7d7e5b8c6241bd9e712011163",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Dubbo",
+        "分布式技术",
+        "搜索引擎技术",
+        "MySQL",
+        "Redis",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "深圳中青",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9c4d28a774e97caf1nZ53dm1GA~~",
+      "brandName": "深圳中青",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191218/3351b27815c0c12eafc4cc0adad92291deaf5d34dda308a73244951b9f8dc0dc_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "深圳市南山区中青信息技术职业培训学校自2001年成立以来，迅速而茁壮成长，2002年招生人数突破800人大关，就业率高达96.5%；于2004年荣获“全国十佳授权培训中心”。\n       经过三年的成长，北大青鸟APTECH(深圳中青) 授权培训中心从深圳400多家培训机构中脱颖而出，荣获培训行业“代表25年深圳形象的深圳名片”荣誉称号，并荣获北大青鸟APTECH合作伙“2005年度市场开拓奖”。2006年7月培训中心被深圳市评为“职业教育突出贡献奖”，同年被提升为职业培训学校。",
+      "labels": [],
+      "activeTime": 1717103520661,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳中青",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

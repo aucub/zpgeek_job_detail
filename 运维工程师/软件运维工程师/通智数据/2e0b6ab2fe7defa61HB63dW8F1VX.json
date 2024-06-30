@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-3DZ_W4WQVdGT-U1rCxCK_wd9msqorocSmOUWd_qrDBZJoXHd4QGnnaeQyBPCezODVyxUQ7QhmhR82843gLFeKKFE_CKUHvxkjx5xjBokS9AZAurkiCfizf-w2ITJeyLrFyWGJxdvmo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2e0b6ab2fe7defa61HB63dW8F1VX",
+      "encryptUserId": "329bf824d7c2136b0X1709q5EVs~",
+      "invalidStatus": false,
+      "jobName": "软件运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101191200,
+      "locationName": "泰州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "软件运维工程师的主要岗位职责包括但不限于以下几点：\n1、负责公司内外部网络和服务器的管理维护工作，确保公司网络畅通、服务器运行稳定、数据安全可靠。\n2、参与制定系统的调整和优化方案，提高系统的健壮性和服务效率。\n3、负责软件项目的日常运维、测试及升级，确保软件系统的稳定运行。\n4、负责软件系统的现场实施部署交付工作，以及各个业务平台下应用系统的运维和应用部署。\n5、巡检工作，制定巡检计划，并按照计划对公司内外部网络和服务器进行巡检，并出具巡检报告。\n6、服务器安全检查，制定服务器安全策略，定期对服务器进行漏洞扫描，并及时修复漏洞。\n7、服务器程序管理工作，按照运维、研发要求，安装部署服务器软件，并确保服务器内部应用程序的正常运行。\n8、数据备份工作，按照备份策略，及时备份各服务器数据，确保数据安全。\n9、负责软件系统运维相关流程的规划、设计、推行、实施和持续改进。\n10、负责编写运维相关文档，包括用户操作手册、系统管理与维护手册等。\n11、负责客户问题的收集，分析并反馈给公司相关人员。\n12、参于客户需求的调研，负责确认项目开发需求。\n软件运维工程师的任职要求则主要包括：\n1、计算机、软件工程等相关专业优先，具备相关专业背景和知识。\n2、具备一定的软件系统运维工作经验，熟悉主流数据库和网络体系结构。\n3、熟练应用自动化运维管理工具，如Puppet、Chef、Ansible等，以及shell、Python等脚本编程语言。\n4、熟悉常用中间件（如redis、rabbitMQ、zookeeper等）的集群安装部署，以及服务器优化和Docker或K8S等容器化技术。\n5、具备良好的沟通协调能力、文字表达能力和团队精神，能够积极主动地解决问题。\n6、工作认真、细致，具备独立工作能力和良好的抗压能力，能够适应突发性加班。",
+      "encryptAddressId": "2d730292327fe46d33B7296_ElM~",
+      "address": "泰州泰兴市泰兴人才科技广场20号楼附楼",
+      "longitude": 120.102376,
+      "latitude": 32.179229,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60e9c741c131d43e85685050b2529252",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ec13546a10ec5d3221de5da7d432360",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Java",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "凌先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190722/9083a019f78a2bb2a5a2834831e9c2ac1ce3105c08adb37d9652acf04b5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "通智数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "531bb06cb565cf2533Ny09i9GQ~~",
+      "brandName": "通智数据",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1719373680638,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "通智数据",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

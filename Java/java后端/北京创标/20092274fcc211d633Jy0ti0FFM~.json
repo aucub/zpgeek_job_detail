@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "I9oZGu_LF5qHv-01Fs8Q4pLfEdrCIKtixpUQDgurN89toMNgLABUsFhxaB0YSoMaziylUt8YBdoYcAQnFJheSZQUCGheXqyoZBJfdL95_gQtJKc9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "20092274fcc211d633Jy0ti0FFM~",
+      "encryptUserId": "ba57eb687e2b5c1803d62tq8E1M~",
+      "invalidStatus": false,
+      "jobName": "java后端",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "有java工作经验2年以上者；\n熟练掌握Mysql等关系库，熟悉常用的SQL优化方案，了解redis、MongoDB等NoSQL开源产品；\n对各种开源的框架如Struts、Spring、mybatis、springBoot等有深入了解；\n熟练消息中间件，如ActiveMQ、RabbitMQ等在适合业务场景使用适合技术优先考虑;\n熟悉js、jquery、html5等前端技术；熟悉Linux系统；\n有分布式架构设计开发经验，熟悉Lucene、Hadoop、springCloud等开源产品的优先；\n有对接相关支付产品、熟悉使用elastic等大数据相关经验者优先；",
+      "encryptAddressId": "c9f6bd415a4a4f481HZ73dW-FVA~",
+      "address": "徐州云龙区帝都大厦(和平路)1904室",
+      "longitude": 117.19245,
+      "latitude": 34.250704,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f26f4d41f2dda9e56b3331bcce8f7da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/01362bfe9f33662a71c65351162fb740",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200824/84ea34feb3c2934b66fe4f8a6d2002ca24e82b2d0f2f7b2ccbd64ba6a11_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京创标",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2ef1f47519cd81db1HJy39W0GQ~~",
+      "brandName": "北京创标",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190328/be70cb0aa09d636bf60be51f14460d4c5c4fed7bf9bb3a63109220962276d8ff.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100609,
+      "industryName": "检测/认证/知识产权",
+      "introduce": "北京创标知识产权代理有限公司是一家专业从事知识产权代理服务的综合性公司。随着经营规模的扩大及国内电子商务模式的兴起，公司从2015年开始布局互联网平台，通过资源整合和技术对接，力求为全球客户提供极致的知识产权服务体验。商标服务;版权服务;企业管理咨询(中介除外);专利代理。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1717051322867,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京创标",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

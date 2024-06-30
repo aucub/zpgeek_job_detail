@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lHj90gXZwLp0s--17VOnSoytplMfAyb-5uUIjJKvlqCI70gRJOCtEbQLhH5rNEPVA_8n3qJYgUMD_RWJ3ZXuxaApWKfxeBW4vNibVqGlBDc8p8GRg9AO99bSUHGPpdP9VtUj7LJRZkOv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6c52b4949ee9475f1HF63d21F1FR",
+      "encryptUserId": "264d06c8d446eaed0nZ43t25EVRX",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "→岗位说明（必看）\n    1.合同为劳务派遣形式；\n    2.工作常驻地为衡阳；\n    3.双休（特殊情况可能加班，如系统突发问题，项目上线）；\n    4.非衡阳本地，工作日衡阳-长沙报销往返高铁票；\n→技术要求\n    1. 1～3年Java全栈开发经验；\n    2.熟练掌握Java后端开发技术，包括但不限于Spring Boot、MyBatis，RocketMQ等；\n    3.熟悉前端技术栈和常用框架（会使用RuoYI框架优先），能够熟练使用ElementUi进行界面开发；\n    4.有. Net，C#开发经验。\n    5.掌握常见的数据库操作基础，如SQL语句的编写和调试、数据库设计和优化。\n→其它要求\n    1.能出差，工作主动性强，服从安排，有责任心，保证工作质量；\n    2.有钢铁行业ERP系统开发经验优先。",
+      "encryptAddressId": "0f2f585198b613740HB709m9EFpXy4i2Vfk~",
+      "address": "长沙天心区湖南钢铁集团有限公司商务楼12楼",
+      "longitude": 112.968677,
+      "latitude": 28.113535,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf5c680dc039ee07df574b10df64cbe3f86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf07390e3d3b3bd14b22522172ea482c776bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C#",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "全先生",
+      "title": "软件开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "华联云创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5db4bbfa066e64c00HV_2d25Eg~~",
+      "brandName": "华联云创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "湖南华联云创信息科技有限公司是湖南省最大国有企业湖南华菱钢铁集团有限责任公司下属全资子公司。公司不但服务集团所属四个钢厂，还有效的开拓了省国资系统所属企业、省经信委所联系的企业的信息化业务。通过项目实施，深耕云计算和大数据、管理软件开发和外包、工业软件和智能制造应用、信息技术咨询和系统运维四类服务，有效的培养了人才，锻炼了队伍，正急速扩张发展，真诚欢迎各位有志人士加盟，共同奋斗出一片新天地。",
+      "labels": [
+        "五险一金",
+        "绩效奖金",
+        "餐补"
+      ],
+      "activeTime": 1719284150551,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华联云创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

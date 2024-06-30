@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GseuPT0DoRoFY-U1Ia9xLu4579AW53vDDGzNLumMoyHJjI5WS6RoYJ9fglk4mjs4J0rR3xPf4683wjkSVxjrO4wV5gQxumNvpKSSvRL3KD-Ksl7Syb23r_V7DjUSqGayLOsao3Gz25SP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "905a87c166a79a6c1Xd82d67EVZW",
+      "encryptUserId": "9bb9adfd0a1300731HR839q4EVU~",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、据库类组件实施运维\n2、分布式消息、缓存类组件实施运维\n3、日志、监控类组件实施运维\n4、容器类组件实施运维\"\n\n任职资格\n1、Linux运维工作经验2年。\n2、Linux系统基础,安装分区,raid阵列,相关网络的配置,基本的目录结构。\n3、常见的网络服务软件的安装和配置,如FTP, DNS,SAMBA, LAMP,LNMP(趋势),Apache模块的编译,https的配置,Nginx模块的编译,PHP扩展的安装。\n4、Linux常用的命令,文件管理,文本处理,grep,sed和awk工具,shell基础。\n5、Linux环境下熟悉常用软件运维：MySQL、LVS+keepalived、Nginx、Redis等。\n6、Linux环境下运维Redis、RocketMQ、Docker、hbase、hadoop、Prometheus监控、ELK、maven、git、jenkins可以优先考虑。\n7. 具备良好的沟通、学习能力及团队合作精神，有较强的独立分析和解决问题的能力者优先。",
+      "encryptAddressId": "da699e1a6c07871e03Z939-6Elo~",
+      "address": "上海静安区北泰电信大楼819号",
+      "longitude": 121.459433,
+      "latitude": 31.231544,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dab4f7d7f5dae0584a644044d1053798",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/695b6d309d77e38ac41900d15ac9e86d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190820/e6121d9abe0cc7ec6605e3083213974e104a163f62e1c7efd67136589e6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "速林网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "869aaf8d9517eb1e1nB-2t-8Fls~",
+      "brandName": "速林网络",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717455767000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "速林网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

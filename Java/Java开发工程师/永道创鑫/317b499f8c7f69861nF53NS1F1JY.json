@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NvcTg9gZrLAYX-D1GgUjlo_QRAEOmgMaPicEOLvl-OKyZPbLRJ9kwUPqGE4nsglbIHmQvbxyo2NMID8o-JzZeKMS60COu7xBakrv15xpAQRfSzQVHuU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "317b499f8c7f69861nF53NS1F1JY",
+      "encryptUserId": "3a2c1f81239774ba1n182dm_F1Y~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n\n 1、后台相关业务的系统设计开发；\n\n 2、项目的需求分析、概要设计、详细设计；技术文档的编写；开发框架的搭建、改进等。 \n\n任职要求： \n1、 Java基础扎实，熟练掌握数据结构、多线程编程，掌握常用的设计模式；\n\n 2、精通Web编程，精通Spring MVC等Web框架；\n\n 3、熟练掌控后端技术并能依据业务场景做好技术选型，例如负载均衡、弹性扩容、微服务、缓存、分布式存储、分布式事务、消息中间件、RPC框架等；\n\n 4、熟练掌握MySQL，熟悉Kafka等消息系统，Redis等缓存中间件； \n\n5、熟悉高并发、分布式系统设计，对JVM、数据库性能优化有独到见解；\n\n 6、能独立高效完成一个复杂功能模块的开发，并高质量产出；\n\n 7、具备很强的沟通能力，分析和解决问题的能力以及团队协作精神，有强烈的责任心和使命感。",
+      "encryptAddressId": "611e8169ee4b83ff0XJ73Ny_FQ~~",
+      "address": "北京东城区启达大厦2层",
+      "longitude": 116.450883,
+      "latitude": 39.891826,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9d979ce1bb4586e69a2de15dcd207939",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7e778f3bd4f778c5d974782a593c221",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "消息队列",
+        "SpringCloud",
+        "MySQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210504/e38a2d181c91136206ba0e3ea5d675c91ea7162cf6543b66abe1859c204_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "永道创鑫",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2ce3c01b4f657381nV72dm5GFU~",
+      "brandName": "永道创鑫",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719196188803,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "永道创鑫",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

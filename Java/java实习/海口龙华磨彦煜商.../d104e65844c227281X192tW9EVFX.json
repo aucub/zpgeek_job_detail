@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mxtLV5lYMn347-Z1r4fOLmQKQnQLgQNAIEqwgK6dRlEcY1qWIZ_77-pRe3G6-3EdIXbY6QU4usXwOZo9ISamzsSYnuBQME6H1j33WdZVCg5MGXpyw_-I",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d104e65844c227281X192tW9EVFX",
+      "encryptUserId": "a35e352f66bec2311nV83di4ElFQ",
+      "invalidStatus": false,
+      "jobName": "java实习",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、java基础扎实，完成公司业务后台的代码编写、优化工作；\n2、依照需求设计文档编写设计文档，实现业务核心模块；\n3、确保开发的功能模块通过测试，平稳上线，保证系统的正常运营；\n岗位要求：\n1、本科2024届，计算机、网络相关专业优先考虑\n2、熟悉分布式架构、缓存、消息队列等主流框架和技术，对数据库使用、调优有较深理解；\n3、 熟悉spring cloud或是dubbo分布式框架、spring ,mybatis plus开发框架、 nodejs语言,vue 的element框架、熟悉linux的命令行操作，熟悉linux上面nginx,redis,mysql,maven的使用；\n4、 具备较强的逻辑思维能力，学习能力和良好的系统思考能力；\n5、 具备良好的编程习惯，对代码质量有精益求精的意识；\n6、 勤奋好学、积极主动、勇于承担责任迎接挑战，并具良好的团队合作精神。",
+      "encryptAddressId": "22558f0f1329cfcf1nR439-7FVFS",
+      "address": "广州黄埔区鱼珠智谷E-PARK6013",
+      "longitude": 113.436616,
+      "latitude": 23.103675,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bfb168d3f16112bb5323229123d1fdfd826bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf60f9599b5d81b97af29d3bee4de4565a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "Java开发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230919/607f1f3d68754fd09ba23dbfd30cd723cd836edc1cae48a241149fec01c1a9a3a8d287452cd6576_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "海口龙华磨彦煜商...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8bf7ff65e9cbe8c91HB63N60FFA~",
+      "brandName": "海口龙华磨彦煜商...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717072799971,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海口龙华磨彦煜商...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

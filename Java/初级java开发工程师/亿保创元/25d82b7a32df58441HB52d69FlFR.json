@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oWs2tR-w4GoK6-41CNoK00mT7pX4rsoaS9IRadjlkLYe407WpQU3LNbz6DcA917O4NNx2jFM1NVvydEeto1nY-9CnL40z1UBCWsfldmmJyfOsesAv2dMcZMr8T2McbqRlQ9bVzYIVa7W",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "25d82b7a32df58441HB52d69FlFR",
+      "encryptUserId": "785dd263533abcb60XZ629i1EltU",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：根据公司需求进行程序开发、维护、文档撰写、技术支持等相关工作；\n 任职要求：\n Java基础扎实，有良好的编程习惯，具有编程思想。\n 熟悉Spring家族、MyBatis等常用框架。\n 熟悉MySQL、Redis等数据库。\n 熟悉Nginx、Tomcat等服务器。\n 熟练使用IDEA、git、maven、docker等工具\n 了解分布式、微服务。\n 良好的沟通表达能力。\n计算机相关专业，工作经验0-2年的",
+      "encryptAddressId": "e7300cea0b1c16971nB729m8EFVS",
+      "address": "北京丰台区石榴中心2号楼1605",
+      "longitude": 116.423382,
+      "latitude": 39.841,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b959fe07dd2fc7b12ca4a4249a1b60fd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2aa88a11dc5688a4e15be2d8ec8f779b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "MyBatis",
+        "Spring",
+        "Tomcat",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "亿保创元",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bb29abf1d8e3154a1nF92dy4EQ~~",
+      "brandName": "亿保创元",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190623/4d4952f8ac140ce7438a7d938dfbfe041d17275fc218e5a6ab6aa139201f2abd.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "亿保创元（北京）信息科技有限公司成立于2016年9月，总部位于北京。公司专注于为商业保险公司客户提供基于保险大数据分析的风险控制、客群分析、客户保障缺口分析、客户大健康信息管理等在内的一站式立体风险解决管理方案和配套服务。通过应用最新的互联网及数据分析技术，建立连接商业保险公司和保险消费者保障需求之间的桥梁，使中国保险消费者获得符合自身实际需求的低成本个人专属商业保险保障计划，让保险回归保障本源。\n亿保创元（北京）信息科技有限公司目前产品主要包括保险客户个性化分析平台以及保险两核大数据风控模型。\n亿保创元致力于为商业保险公司客户提供基于风险控制、客群分析、客户保障缺口分析、客户大健康信息管理等在内的一站式平台服务。我们将创造一个属于保险的新世界，新平台，为有保险保障需求的人创建个人保险元码，成为连接商业保险公司和保险消费者保障需求之间的桥梁。让商业保险公司了解保险消费者实际保障需求，让几亿的中国保民更加容易的进行商业保险投保，为提高我国商业保险的深度和密度贡献一份力量。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1719302180905,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿保创元",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

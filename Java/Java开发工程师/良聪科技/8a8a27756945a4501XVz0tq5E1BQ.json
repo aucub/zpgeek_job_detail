@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DF_sNQxGtPsxU-81A5fNv2SMOdUuUy-ZDYegTDvtT5ptJUpNB3vZfDarafdoJnmofjsvinrBifjGn1rPG1FNIfM5e6OrtWYGVt7v-16VJTmr72nWoTAAVTwsefjBriymVtVLZEj6btO8Hg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8a8a27756945a4501XVz0tq5E1BQ",
+      "encryptUserId": "04bb6eae1a1c0ec50nV70ti0FVZX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1：负责接口设计\n2：负责接口对接；\n3：梳理需求（技术的实现方式上）；\n4：负责和客户方对接过程中的一些问题，并反馈给团队，根据难易程度来解决问题；\n\n任职标准：\n1.Java基础扎实，1年以上Java开发经验。 \n2.熟悉面向对象思想和常用设计模式。\n3.熟悉常用Java开源框架，如Spring，SpringBoot,myBatis等；\n4.熟悉html,jQuery等Web开发技术。\n5.熟练掌握Mysql数据库。\n6.了解内存数据库Redis。\n7.有一定的需求分析、数据库设计和系统设计能力，良好的编码风格。\n8.思路清晰，有良好的沟通和学习能力，良好的团队协作精神。\n9.有ERP、HIS项目开发经验优先。\n10.了解前端框架如：Vue或Angular的优先。",
+      "encryptAddressId": "353c28eeb2e185f50nR-3ty_F1M~",
+      "address": "杭州西湖区杭州高新节能环保科技园(华星支路)5号楼",
+      "longitude": 120.120738,
+      "latitude": 30.281348,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5aa99700380a486be145dfd318ac861",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83b0691184472539f659b8205198ef29",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "WEB开发",
+        "SpringBoot",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "顾女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "良聪科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3619fc81b13148491XR-3dm_E1U~",
+      "brandName": "良聪科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127122382,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "良聪科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

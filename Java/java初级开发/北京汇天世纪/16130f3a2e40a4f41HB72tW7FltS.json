@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ppM9JSXbmeZOq-31IOi-0j-F8C2n2cTnBIeeyw9VvQpFRkgx5zcCOEuaR-291y-HQd4XJtAkvUyk_yLBQJpHQdiqrLDbvJUjQSac0K4wbzBYwpAjnXsd9AAOJgwUZMQ7M9jXrnqXjK8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16130f3a2e40a4f41HB72tW7FltS",
+      "encryptUserId": "2ff7180ae139194603V93d60FlA~",
+      "invalidStatus": false,
+      "jobName": "java初级开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、学历、专业及工作经验要求：\n1、全日制统招大学本科（学信网确认）、计算机相关理工科专业、1年（含）以上相关工作经验（从毕业时间开始计算，实习时间不算）\n二、能力要求：\n1、以下基础能力具备其一：\n(1)基础类编程：熟练使用1种(含)以上基础类编程语言及技术(例如JAVA、C、C++语言等)，并能熟练使用1门脚本语言，了解基本的数据库知识及基本操作，熟练使用SQL语言，熟练使用常用开发工具、中间件软件。\n(2)UI设计：熟练使用1种(含)以上UI设计技术，并能熟练使用1门脚本语言，熟练使用UI设计工具。\n(3)数据库开发：熟练使用1种以上大数据开发框架进行软件开发，具有软件组件抽象能力；或熟练使用GreenPlum数据库开发数据批处理脚本;熟悉至少1种如Hadoop/Storm/Hive/Hbase/Spark等相关技术;熟悉至少1种主流数据库例如MySQL，Oracle，DB2等，熟练使用SQL语言。\n(4)移动/互联网技术：熟练使用1种(含)以上移动/互联网类的编程语言技术(例如IOS、Android、Web前端开发等),并能熟练使用1门脚本语言。\n2、了解金融行业基本业务知识。",
+      "encryptAddressId": "aa1ac82cd805c96033xy39S_FVU~",
+      "address": "北京丰台区丰科中心B座",
+      "longitude": 116.30408,
+      "latitude": 39.829215,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11615ef53f97fc878f3243b9e537b6e7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d52d109789860951c1fba13140648c28",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "MySQL",
+        "SQL Server",
+        "Hadoop"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "闵女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180703/7b8c4f9f9d1df9a6a4ace004aaa899a12e35e3b1fff78e79465fe9f298b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "北京汇天世纪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5be77f77259868121nR92t6-Fg~~",
+      "brandName": "北京汇天世纪",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170919/9cf4a65fbf50e2da21a6240353075b0b0dc2892d0f6e31ae75e40fe7e89abf93.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京汇天世纪科技有限公司成立于2010年，注册资本1000万元，是一家独立的企业级软件产品经销商、服务商和开发商。公司在2014年获得国家高新企业认证和质量管理体系认证证书（ISO9001证书），已经拥有16项软件著作权和软件产品。目前公司客户主要集中在金融和制造领域。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "13薪"
+      ],
+      "activeTime": 1716780527184,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京汇天世纪",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

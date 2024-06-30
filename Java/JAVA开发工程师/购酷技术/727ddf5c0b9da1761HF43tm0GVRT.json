@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hTo0mIkXaiu5c-G1oOtxdpD_PbYne8zgkpKHVtUABu9B0I0LfuJELscojBdHnpqP3EOokbHHwW6DH21sXcAnPB4dbUy6k7X4cI59_FhMWve5i1SOwYi7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "727ddf5c0b9da1761HF43tm0GVRT",
+      "encryptUserId": "fb2ddd2f9a0364380XB-3dq6FVFU",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、从事java方向的开发和技术实现工作；\n2、参与产品需求的沟通、讨论与协调，撰写设计开发及实现文档；\n3、负责产品功能模块设计、编码实现和单元测试工作；\n4、协助测试人员完成集成测试、性能测试和预发布环境测试；\n5、维护负责的产品模块，对产品进行持续迭代优化；\n6、规范文档的编写、维护，以及其他与项目相关工作；\n\n任职要求：\n1、2年以上Java开发经验，统招本科以上学历计算机相关专业；\n2、具有丰富的J2EE项目开发经验，熟悉主流技术框架，设计模式，具备较强的技术整合和突破能力；\n3、熟练使用Spring Cloud、Spring Boot、Spring MVC、Dubbo、Mybatis等框架；\n4、熟悉算法、数据结构、多线程编程、IO、网络编程等，有扎实的JAVA功底，具有良好的编码习惯；\n5、熟练使用Mysql/PostgetSQL等主流数据库开发，并具有一定数据库设计及性能优化经验；\n6、熟悉常用的中间件，包括Redis、RabbitMQ/RocketMQ、Elastic Search等等；\n7、熟悉linux服务器环境部署，熟悉常用linux操作；\n8、具有良好的言语表达能力，善于与人沟通、合作，有良好的团队意识及高度责任心，具有一定的抗压能力;\n\n加分项：\n1、社交、直播，通讯，电商等社交方面java开发经验优先；\n2、有参与过高并发业务场景优先；",
+      "encryptAddressId": "ed18febbd770f1fe0XJ80t-5FVpQx4i7VP0~",
+      "address": "广州海珠区保利世界贸易中心G座202号房",
+      "longitude": 113.365604,
+      "latitude": 23.095789,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf65bb43c2fd2f677e43b32d0ea79f50396bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfc0770b18d8256a9a48adb84a1d2bc5336bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Elasticsearch",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公",
+        "微服务经验",
+        "音视频经验",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "钟先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "购酷技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9e650f5be9297b21Hd93du1FlI~",
+      "brandName": "购酷技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719660511942,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "购酷技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

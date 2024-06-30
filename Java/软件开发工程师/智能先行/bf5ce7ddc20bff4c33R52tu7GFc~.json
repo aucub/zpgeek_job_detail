@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ETJhWsdZzjI1s-a1X6sdNs5M5-dC9G_ZO4tQo1yMcYD6syKEc9AhF7uZ_wvL4YlIoSs4oUdg9j04FptsIfPubUD2wGQH9vUvmFZXEK0Ks7ULvgO5yAhWoVUKjE_RQxc6A-6Sp_C6EA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bf5ce7ddc20bff4c33R52tu7GFc~",
+      "encryptUserId": "5bd32e5a0ce71cf503J60ti_GVs~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机相关专业本科及以上学历，扎实的java语言基础；\n2. 熟悉 Spring/SpringBoot、Springmvc、Mybatis 等主流开源框架，并具有相关开发经验；\n3. 熟悉前后端分离技术，熟悉 VueJs等前端框架者优先，熟悉Ant Design/Element UI 等前端UI者优先；\n4. 精通SQL语法, 熟练MySQL、Oracle等关系型数据库；\n5. 熟悉 Redis、Elasticsearch 者优先；具有消息中间件使用经验，有 RabbitMQ/RocketMQ/Kafka使用经验者优先\n6. 具有良好的单元测试、自动化测试习惯，熟悉Junit、JMeter 者优先； \n7. 强烈的责任心与团队精神，具有系统运维能力，较强的抗压能力和良好的沟通、协调、组织能力。",
+      "encryptAddressId": "149549aef62e3e751HR93NS-EVE~",
+      "address": "青岛城阳区希尔景园兴阳路308号",
+      "longitude": 120.400166,
+      "latitude": 36.288112,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2482453983e8742622ba8b17bf53703a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e2a73d8a5b86080f11c54f64cd69976",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "Mybatis",
+        "junit",
+        "VueJs"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "运营",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180913/24355ce4334965c7bd7eaa1680b0f1b0fcf81b27fa6a2c7fbdf4c0fc8b5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智能先行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "073beeae7baf3e821HRz0960Ew~~",
+      "brandName": "智能先行",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717118494156,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智能先行",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JC_iM1TtQnpSY-Z1c5XLnn5-uEY4_9VOgPc5Jr1x9a7jxzv1hm9nn4lFe0gqVjCPbEyXERzwdwnH3a9INWPqPWusxXFT9mz2q_dEYdRpAA23aq0id6cv_Aub88Ox8A_x7-uSmASOtIO5AvUoQYkHijdyKeQkAlG-hew-eXzglaSRG2I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d61584ca4515a1171HJ80t27FlFU",
+      "encryptUserId": "949eb74ff55949001nR-2ti1GFNZ",
+      "invalidStatus": false,
+      "jobName": "交付工程师",
+      "position": 100606,
+      "positionName": "实施工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责客户现场环境勘测、做出勘测报告判断是否符合部署条件\n2、负责根据不同项目客户制定部署实施方案\n3、完善内部知识库、问题记录等\n4、根据公司安排完成其他技术支持任务\n工作要求\n1、熟悉系统管理Linux（Centos、Ubuntu、suse至少一种）\n2、熟悉shell、python其中一门脚本语言\n3、熟悉掌握（DNS、TCP/IP、NTP、DHCP）协议\n4、熟悉k8s、docker技术架构原理 并有相关经验\n5、熟悉分布式存储ceph、glusterfs等\n6、熟悉常见中间件（nginx、mysql等）\n7、熟悉ansible自动化\n8、有实际项目交付经验者优先\n9、良好的沟通能力、问题分析能力",
+      "encryptAddressId": "811f5b5d4113bff133Jz09y7F1A~",
+      "address": "北京海淀区金隅嘉华大厦A",
+      "longitude": 116.307951,
+      "latitude": 40.036804,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f8ee88357524c4d605117a36c64ecab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d531f0cdb2d3f25a5c747cc35013662",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "可适应出差",
+        "计算机相关专业",
+        "软件实施经验",
+        "k8s",
+        "docker",
+        "linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "招聘主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=0820bb309e0f3f54jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5SnH90sNAo7N46SVO9neRgZLryf5Ndt-y5XGJ4ZV9WpnAL_Pr1FnFMELbgXRc4kd9LT1-wzKxbrlgaXtXkhiQrB3YSpk-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "中宇华兴",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02cd93afbfed15441Hxz2NW_",
+      "brandName": "中宇华兴",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719308110979,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中宇华兴",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

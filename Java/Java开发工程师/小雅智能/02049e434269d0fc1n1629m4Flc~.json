@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QP_reFripdXIY-A1dYjwjm3cy4ITWnlIRopEYmqP_GXpc5dvOS1ICAxiUxGaijugm4KZyPkreiDTwJbJ90h0d5W81kFOcMM384xCQhhOGytD-s_0",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "02049e434269d0fc1n1629m4Flc~",
+      "encryptUserId": "00e5cba75364bea91HN709y7F1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\r\n\r\n1、负责产品模块的技术研发，按照项目设计和进度要求编码和单元测试；\r\n2、负责按照项目设计的数据库结构进行编码和单元测试；\r\n3、根据开发规范与流程独立完成编码、测试及相关文档；\r\n4、对重大的或批量的质量问题进行技术攻关，及时解决项目开发过程中的关键问题和技术难题；\r\n职位要求：\r\n1、 大专及以上学历，熟练Java, 并有2年以上实践开发经验，能够独立开发和维护Web项目(有App接口经验者优先)；\r\n2、 熟悉Struts，Hibernate，SpringMVC、Mybatis等开源框架，有架构设计经验者优先；\r\n3、 熟悉面向对象软件结构知识；\r\n4、 熟悉J2EE体系结构，熟悉JBoss, WebLogic, Tomcat等至少一种应用服务器系统的开发；\r\n5、 具有网络应用软件开发的经验HTML/CSS 3/jQuery；\r\n6、 熟悉项目管理工具，如：SVN/Git；\r\n7、 熟悉Linux项目部署优先;\r\n8、 具有关系型数据库（MySQL、SQL Server、MongoDB等）的开发和设计经验；\r\n9、 熟练使用Eclipse开发工具；\r\n10、有良好的沟通表达能力、学习能力，高度的工作责任感，具有团队精神、进取精神。",
+      "encryptAddressId": "08d80cc8c34b0a7a0HNz29-0EA~~",
+      "address": "深圳南山区东华园5栋206室",
+      "longitude": 113.927896,
+      "latitude": 22.522037,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2fbc851e38b01d0687e8e9571c24f08",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/01860b5e6aeba409e8b943bb98e2f798",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Node.js",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180409/4a987183eef99e5c1f47b0a5c865d5afcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "小雅智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5085fe7d98072e1b1nN-2d-6FQ~~",
+      "brandName": "小雅智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/446037673a045b05457e31bb46f3e6506522b558f00c4c9bd355e8292f0f6d3e.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "音频独角兽喜马拉雅旗下深圳智能平台公司，总公司在音频领域处于市场绝对领先地位，目前正在野蛮生长，在知识付费的风口下，发展前景良好，子公司小雅智能平台 （深圳）则会结合AI智能语音和精品音频内容为众多的音频类硬件厂商提供智能和内容服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717102243009,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小雅智能",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

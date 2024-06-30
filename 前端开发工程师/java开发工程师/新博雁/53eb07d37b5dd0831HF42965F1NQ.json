@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LR5pIZYcIWZ9I-Y1na3oiFCN1hwFI2UHhrycV7U825Fx5xlUgH9Ty57wJalmJwmg-3x_yG8NP-WDue62Fso2rlolkemiNdU3kCbAmBStuOmTm-mxhXKK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "53eb07d37b5dd0831HF42965F1NQ",
+      "encryptUserId": "768799c3602d0d050XZ-0tm7FFBQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100901,
+      "positionName": "前端开发工程师",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、执行开发工作  \n2、根据项目计划安排，完成需求编码任务\n3、根据设计文档编写代码，并遵守公司编码规范\n4、 反馈设计文档存在的问题\n5、 根据项目计划安排，参照公司流程规范，完成单元测试和集成测试\n6、 根据项目计划安排，参与开发应用于单元测试或集成测试的调测框架和工具\n7、 根据项目计划安排，参与代码走查工作\n8、 根据代码走查报告，修改发现的问题\n9、 按照配置管理规定，提交代码和其他交付物\n10、协助测试工作  \n11、参与测试案例评审\n12、 协助测试人员完成系统测试、验证测试和上线测试\n13、 分析并处理测试人员发现的问题，按缺陷处理流程进行修改、生产故障处理  \n14、参与生产系统故障处理，根据安排参与编写故障处理报告、参与方案制定\n15、协助产品经理完成需求方案制定、评审\n16、完成上级交办的其它工作\n任职要求\n1、本科及以上学历，计算机相关专业，一年以上开发经验；\n2、java基础扎实；\n3、熟悉或使用过SpringBoot框架；能够基于上述框架独立进行应用的创建，构建，测试与部署；\n4、熟悉主流数据库并熟练使用，如mysql和oracle等；\n5、工作主动，有责任心，有良好的沟通能力和团队协作意识；\n6、能够熟练使用redis、MQ、nginx等;\n7、了解微服务框架，分布式服务框架，或有相关开发经验者优先；",
+      "encryptAddressId": "763d45de163c2b391nd53t-7E1pV",
+      "address": "福州鼓楼区华润置地中心三期S10#23层2336室",
+      "longitude": 119.277349,
+      "latitude": 26.076353,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf04ef1c7c87284ef621003ce20f65feb36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf30104feb8a3d9cf751fcd82caeeb09126bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "新博雁",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ad6c4784e30c9051HV43tS7FVc~",
+      "brandName": "新博雁",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718184150945,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新博雁",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

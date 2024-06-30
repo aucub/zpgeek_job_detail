@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yH8TrkRNqtfqq-K1UAQJemitdyM-wMpngw6-nehptyZSOnRGrHhuqu-b9l-pc2Ht1TeGSLjSWBAI4sHfI-kUT5s-Hajcikbq_QGgoZXBV2li_J_a7f2M",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "732cf6cf30fce0961n1_2NS5EVdU",
+      "encryptUserId": "5d164591609fc6801nV43tm5GFtT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "国企、双休、入职就缴纳社保\n1.JAVA工程师，有支付和互联网金融工作经验。\n2.具有3年以上Java开发经验，能够独立完成工作；\n3.有springboot + springsecurity +jwt +mybatis plus开发经验者优先\n4.了解数据库开发并具备性能调优能力，能够熟练编写SQL；\n5.性格开朗、善于沟通、有良好的学习能力、良好的团队协作能力、较强的承压能力、有良好的编码规范意识、勇于接受挑战、善于自我激励；",
+      "encryptAddressId": "642c89c57b5d6bc81Hd429i9FFI~",
+      "address": "西安雁塔区Class国际公馆B座10层",
+      "longitude": 108.891077,
+      "latitude": 34.216904,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b5404b061279d3c4997d893bfdf1d15",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7758c1d5e5c4297fd855cf412fa62408",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "服务器配置",
+        "数据结构",
+        "微服务架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "摩宝科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "82b25dfaef70052b1nJ-2t67FlQ~",
+      "brandName": "摩宝科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210512/634d8047da3e2f6bd2ba98a31942830c7959fa98cd23d17d6d58a8a9497d5f08.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "成都摩宝网络科技有限公司（以下简称：公司）成立于2010年3 月31 日，注册资本：17000万元。\n\n        摩宝公司以B端支付业务为基础，在供应链金融、供应链管理、跨境支付、企业风险数据管理等领域为合作企业提供安全、专业、高效的金融科技解决方案。解决企业在转型升级过程中遇到的资金融通、降本增效、交易安全以及支付数据多样化的问题。\n\n        近年来，摩宝公司秉承技术、市场、管理与服务、创新并重的宗旨，持续扩展支付通道受理范围和交易应用场景。运用大数据、云计算等金融科技技术，构建支付结算、融资理财、供应链、现金管理于一体的产业生态化模块，打造基于多元化账户体系的线上新型“交易银行”平台，致力于成为企业全球线上交易的引领者及全球性综合金融服务商。\n\n        摩宝公司自成立以来，2016年接受了“力帆股份”的股权并购重组。对核心业务作出了相应调整。同时为了响应监管机构“断直连”及备付金缴存等政策的要求。积极与网联、银联等清算机构展开业务对接。同时加强对合作企业风险管理等方面的投入，做到了合规经营。\n\n        在此基础上，积极与股东单位及合作伙伴开展深度的业务合作沟通，目前涉足多个领域：\n        （一）互联网支付、移动支付\n        （二）异地支付\n        （三）产品创新\n        （四）产业金融\n        （五）数字货币\n        （六）普惠金融",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "员工成长规划"
+      ],
+      "activeTime": 1715734034663,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "摩宝科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

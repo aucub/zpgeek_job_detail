@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YvvUPJHc-33wz-S1xGIEPjnUjnQRyaPJK-jmeA4lDS6xpjX4gar5OzWbyfq_prbd5c_0Ru5t48TTXNQHDwGH9mUddZPdibDD38zewPWsXcwHF-XGQLEipESuBoIELXWiNHzF8Ho6-A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1288de4f4b3413940X143N2_FVA~",
+      "encryptUserId": "0ade3238f34568100XF72ti6GFs~",
+      "invalidStatus": false,
+      "jobName": "软件系统开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\r\n岗位职责：\r\n\r\n1. 负责参与公司云平台架构设计、实施和持续优化；\r\n\r\n2. 深入分析和理解业务，通过技术和平台工具等手段，提升用户体验；\r\n\r\n3. 优化系统平台，提升系统性能和可靠性；\r\n\r\n\r\n任职要求：\r\n\r\n1. 精通java语言，熟练掌握Eclipse开发工具，熟悉使用Struts, Hibernate, Spring等开源框架，熟悉Playframework尤佳;\r\n\r\n2. 掌握java的多线程、并发处理、分布式开发、I/O与网络通讯等大数据开发能力;\r\n\r\n3. 了解Web应用的性能瓶颈和调优方式；熟悉分布式系统架构、熟悉微服务框架等技术优先；\r\n\r\n4. 熟悉UML设计, 能够使用Rose,PowerDesigner等工具;\r\n\r\n5. 熟悉SQL语句, 熟悉Oracle, MySQL中任一种数据库;\r\n\r\n6. 了解HTML5, JavaScript, AJAX, CSS, Bootrap等相关WEB技术，熟悉HTTP通讯协议;\r\n\r\n7. 良好的文档写作能力、语言表达能力、沟通协调能力，以及团队合作精神;",
+      "encryptAddressId": "a3fdf4e32cb1f9591Xx52dm7GVU~",
+      "address": "广州天河区广淘城5栋5306",
+      "longitude": 113.410853,
+      "latitude": 23.156753,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48f6e8bfb4400f177a42cab03a09d578",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51bf1eb0731e32a930f296d281c59b59",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机软件",
+        "Java",
+        "Python",
+        "SaaS",
+        "云计算"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "康先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "乐图科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "857c82feb063f0ce0HZz2dq8FA~~",
+      "brandName": "乐图科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717933873000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐图科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

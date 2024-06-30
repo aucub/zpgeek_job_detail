@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XOaYDhkUee6eO-C1fqRR8n9kTXdRCaYGzBhFbafje6zSISTE_NvEPdXtdBSQFXL8fQQFU6jm3EOAnxrs2HP8VcAYmtPwUawhzRvzzXAHtIUtpWX2EFN_IoGMr8bEPZOUkDySrspsiO6P",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a2cb252c6c4c6b891XV-3t6-FVZY",
+      "encryptUserId": "c3635b105968d7031XJ72Nq5EVs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.参与业务系统的需求分析和设计。\n2.负责宠物saas业务,小程序系统功能开发、调试和单元测试工作。\n3.参与系统中设计评审和代码评审工作。\n任职资格：\n1.全日制本科及以上学历，1-3年以上工作经验，35岁以下。\n2.熟练掌握Spring、Mybatis、SpringMVC、Springboot等开源框架，熟悉MongoDB、Redis等缓存数据库。\n3.了解Dubbo、SpringCloud分布式微服务框架。\n4.熟练使用Git、Maven等开发管理工具。\n5.有大型系统开发经验，小程序开发经验优先。\n6.熟悉互联网系统的业务及系统实现。\n7.责任心强，工作认真，积极主动，有良好的表达和沟通能力及团队合作精神。",
+      "encryptAddressId": "1c9de220b365c7c60nV50tq4FlE~",
+      "address": "上海闵行区伍信禾风广场1号楼5楼581",
+      "longitude": 121.514213,
+      "latitude": 31.084969,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7cadcd3d92eb4064f1d1156852b42037",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9fec8176473145e23d67736424298b64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170320/bdc06b0ae8512b7e77380cde40ac7f911bd8c0e9864b7626d238bfdef8a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "宠飒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f87bd6b0824d05721nx82tS1E1I~",
+      "brandName": "宠飒",
+      "logo": null,
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717130653950,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宠飒",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "G82t8gW8ya5pr-l1_fC7slTNJF9AYbMzgS2EAW00CsV-iPiMcC6AfCgB8GnbVDHibGnftpof4Mojh5Zh7UZcIZ2pp-VKlwguL7TH-zXNih6WXPyiFA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9dfc8033ff5bb8c61Xd73du7FVZQ",
+      "encryptUserId": "516042d2e14c15a71XR939i1FVQ~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1、负责整个项目的测试工作，客户给到需求后，参与需求评审; \n2、编辑初步的测试计划，对项目进行初步测试评估;\n3、根据项目需求，编写测试用例，确认需求并执行;\n4、数据库导入测试数据，搭建测试环境;对于发现的 bug，提交禅道并随时跟踪 bug 状态，确保项目按 时完工;\n5、上线前进行完整回归测试，查缺补漏，编写测试报告，进行测试;\n内容\n1、熟悉业务，参与产品需求评审; \n2、制定测试计划，设计测试用例，搭建测试环境; \n3、执行测试，进行功能、性能、兼容性、安全性等各类测试; \n4、使用禅道对BUG进行管理和跟踪，并对研发修复的BUG进行回归验证; \n5、使用Navicat连接MySql数据库执行Sql语句; \n6、使用Linux命令查看日志定位问题; \n7、使用Fiddler抓包校验请求数据的的正确性; 8、根据项目要求搭建和配置测试环境，参与功能、性能、接口、自动化等测试; \n9、根据测试结果编写测试总结。",
+      "encryptAddressId": "968d70bb9cc18c930nR629S1FlE~",
+      "address": "贵阳南明区贵阳国际中心1号11524",
+      "longitude": 106.686655,
+      "latitude": 26.56276,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/289c32dcf48e141dc95efec83096c2e1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76255e4a18f5e1bef1faffdbdf77f497",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "禅道",
+        "测试开发",
+        "软件测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170125/bc01c9e90c9f2e1339e61de4ca78de20cd805082d9c9cfb47b7d4226960_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "复繁信息科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "83e31e32448810551Xx62tm-EA~~",
+      "brandName": "复繁信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221011/7bf6f160950405e9a7fe6b916fb05437a653ad9602ca0b235feb90b1e5aa748e3fc4703da2ecbf65.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "复繁科技是一家聚焦专病领域的健康大数据公司，充分利用大数据技术，为患者提供更加优质、便捷、精准、实惠的医疗服务，公司目前已经服务全国上百家三级甲等医院，公司产品团队技术雄厚，客户服务体系完善，得到了全国大三甲医院各科室专家教授一致好评。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "餐补",
+        "住房补贴"
+      ],
+      "activeTime": 1715603665522,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "复繁信息科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

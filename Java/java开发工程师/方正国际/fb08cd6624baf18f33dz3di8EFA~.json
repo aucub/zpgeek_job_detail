@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vKrJLQNxk1Hiw-H1vMfyyYkptpDAhQTV2ZVAsGFBwCia8Sz1PXLgR8ljcd-rxm5j_9FMNETnhIx4DnlMJxYNDl3NAcfwAl3dBgCej74WQ-nwBzJZGA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fb08cd6624baf18f33dz3di8EFA~",
+      "encryptUserId": "6561049a9c0973261nR-39q5E1NW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、维护现有系统的稳定，参与客户会议，持续对系统进行迭代更新。\n2、新项目的需求调研、分析、设计，参与架构设计及代码编写，对系统进行测试及优化，确保项目的进度和质量，并撰写相关文档。\n3、对系统重构有一定的经验。\n4、掌握常用的企业GIS解决方案，熟悉ArcGIS系列产品的使用，对开源GIS软件有一定了解。\n\n岗位要求：\n1、计算机相关专业，三年以上Java开发经验，对于Java基础技术体系（包括JVM、类装载机制、多线程并发、IO、⽹络）有⼀定的掌握和应⽤经验；\n2、熟练掌握Spring相关技术、Mybatis、JPA等主流开源框架。 \n3、熟悉分布式框架及RPC远程调用，有SpringCloud微服务开发经验。\n4、熟悉前后端分离的开发模式（Vue+SpringCloud），并能对JSP项目进行一定的修改。\n5、熟练使用Oracle、MySQL数据库，并对国产数据库（达梦）有一定的了解。 \n6、熟悉Elasticsearch、Nginx 、Redis、RabbitMQ等中间件的使用及调优;\n7、熟悉常用的Linux命令，能独立完成Java的Linux环境搭建和容器部署;\n8、熟练使用Maven和代码版本管理工具Git等。\n9、有地图系统相关开发经验优先。",
+      "encryptAddressId": "b2373ad22b1e18c21HV72Ny8ElQ~",
+      "address": "深圳南山区招商局广场",
+      "longitude": 113.9154,
+      "latitude": 22.481076,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7bf958db4b6309fd6eb0c0f61b99482b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fd97925a18d26b3123e9ceecf621b72",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "计算机/软件工程相关经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230926/607f1f3d68754fd0bda23bd2a89c5c880cb20ca7547de42ebe991cc0ba311eaccafd2703debbaf7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "方正国际",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "042fff155cfeff0c33F72Ny7Ew~~",
+      "brandName": "方正国际",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "住房补贴",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717102362205,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "方正国际",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

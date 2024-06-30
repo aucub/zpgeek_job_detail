@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Jaap6Ghp-XJOr-B1MFdu6Bfycf3XDyBsD3bvRfm-gojQHKZv4bXRpmxQp4JBtogUOqHxNu3w4nb-VCKiR9SkcHTQc0SYRaZfx_iwrdBzrT-XwiC_p7Y~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f2dcd463d24942b31nJz2dW9EVBY",
+      "encryptUserId": "6f032daa6faf23c11HN_09W5GFA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "技术要求：\n1..一年以上Java开发经验，Java基础功底扎实。熟悉Java基础知识和核心类库。\n2.具备良好的面向对象编程经验，熟悉常用设计模式。\n3.熟悉使用SpringBoot/SpringCloud等开发框架，并有相关的开发经验。\n4.熟悉Linux操作系统以及JAVA应用服务器维护。\n5.熟悉mysql数据库，以及数据库设计，了解常见SQL调优。\n6.熟悉（Mybatis/SpringJPA）数据持久化框架。\n7.熟悉常见缓存技术，使用过Redis等缓存框架者优先。",
+      "encryptAddressId": "9bc29e37273066541XBy29-8Fg~~",
+      "address": "南京雨花台区软件谷科创城A区A3幢五楼",
+      "longitude": 118.742418,
+      "latitude": 31.93781,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5df70bc559bf1b2c7f728597d433f611",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37319fa5fa70f4174031bc92ac3e295b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringCloud",
+        "SpringBoot",
+        "Redis",
+        "MySQL",
+        "后端开发",
+        "Linux",
+        "GIT",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "公先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180417/257938ee300c2e5fa35c35cc23807cc2cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "鲸动科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5096413dfbbb0a521nZz2Ni9EVc~",
+      "brandName": "鲸动科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210413/06ff8e52a36497726b0c7d259ddca0a92e58fe69b525d49c389a1ad2f43f09f4.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "鲸动实验室，产业科研全球定制服务平台，以市场需求为导向，汇集科研资源、信息和数据，专注于为科研供需端提供定制化的服务，企业以APP与PC端作为服务载体，构建企业与科研机构之间的快速合作渠道，以科研需求为出发点，为其量身找到匹配的技术，提升科研机构商业化科研的运作效能。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1717068012576,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鲸动科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

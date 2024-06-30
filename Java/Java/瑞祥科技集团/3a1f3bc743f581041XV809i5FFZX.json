@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sfDiSIeL1Can7-J1IIxBuk9jBlLB7RFNcZnsGgFxghXe36JZVYoM_ChY8zzE2eDu0VSBnf8QAnV_lyaIMpofwLGRLpQX5IGgruxoMafWU2BCWOvOxQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3a1f3bc743f581041XV809i5FFZX",
+      "encryptUserId": "70899dbf0b30fe051XR629q0F1I~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190300,
+      "locationName": "镇江",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、大专及以上学历，熟练掌握Java开发语言，熟练掌握常见设计模式和数据结构以及算法；\n\n2、熟练掌握spring、mybatis、hibernate等框架;\n\n3、熟悉消息队列的使用，了解一种以上常见的MQ产品；\n\n4、熟悉基本的linux系统的基本操作命令；\n\n5、熟悉Redis的使用，有缓存的使用经验；\n\n6、熟练掌握一种数据库，Mysql、Oracle、MSSQL等，了解SQL语句性能分析和调优的基本方法和索引机制的原理；\n\n7、有分布式系统开发经验，掌握分布式事务的解决方案；\n\n8、能读常见的UML图表；\n\n9、有账务、交易类系统开发经验优先；\n\n10、有高并发有分布式系统开发经验优先",
+      "encryptAddressId": "959970650de64c780nZ42N65GFE~",
+      "address": "镇江润州区江苏瑞祥科技集团有限公司二楼研发中心",
+      "longitude": 119.451445,
+      "latitude": 32.184297,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2011108c188a03e4ce2a3c00f82be771",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55da3bbd49e1e17de1b882a025404cdd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验",
+        "服务器端开发",
+        "微服务架构",
+        "分布式技术",
+        "Netty",
+        "MyBatis",
+        "Redis",
+        "Spring",
+        "后端工程师",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "研发主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161104/bf39f62b39659f0cbfa1e10a380bb7b08c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "瑞祥科技集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "62e45f5cedfad88003By39S5EQ~~",
+      "brandName": "瑞祥科技集团",
+      "logo": "https://c-res.zhipin.com/jrs/1_b91dc8918a075a673c6d38344981eb0f.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717037112640,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瑞祥科技集团",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

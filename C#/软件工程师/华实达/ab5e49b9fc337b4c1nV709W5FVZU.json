@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3yCpnNx0G4WVs-z1sov1KG4u7eHcVBOTkhAGDlIsf79JeqmSAfhl8pQ6pEWyHKSiP_83OBLMWqB7A-cgFrVoqZzNVF6c4QGzqdnayOYdygi01Me7yg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab5e49b9fc337b4c1nV709W5FVZU",
+      "encryptUserId": "4e6c2132a839a1581H152ty8F1M~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、后端.net工程师（2人）1.熟悉asp.netcore，对abpvnext等开源架构熟悉者更佳。2.熟悉常用关系数据库及redis的使用和实践，对influxdb等时序数据库有研究更佳。3.了解工业领域数采网关的架构，了解物联网基础概念，了解OPCUA、Modbus等通信协议更佳。4.有前后端联调经验，有微服务架构经验者更佳。5.熟悉docker自动化部署，有DevOps经验更佳。6.有良好的编程习惯，包括好的设计文档，单元测试，代码审查，适应敏捷开发模式；二、前端工程师（2人）1.精通html5、js及css3等前端基础知识。2.熟练使用react框架，有使用typescript的实际经验。3.对antd、elementUI等有使用经验，对数据可视化等有开发经验。4.有前后端联调经验，对前端生态如babel、webpack等模块熟练配置。5.有良好的编程习惯，包括好的设计文档，单元测试，代码审查，适应敏捷开发模式；三、UI设计师（1人）1.负责公司产品PC端和手机端的UI设计与优化，负责运营海报及各类活动物料的设计；负责公司网站整体的美术设计和创意工作；2.熟练掌握PS、AI、视频剪辑等相关软件。具有较好的手绘能力，对色彩及细节的把控到位。3.熟悉Web、Android、iOS等平台的设计规范，能把握移动端UI设计趋势和变化；4.有画册、广告、手绘、网页设计、UI设计、H5设计经验者优先考虑；5.熟悉Html、JavaScrip和div+css等技术更佳；6.有产品原型设计经验者更佳；",
+      "encryptAddressId": "c6cb09f78097940f1nx43di0FlQ~",
+      "address": "西安雁塔区西京三号6号楼901",
+      "longitude": 108.911853,
+      "latitude": 34.206016,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a2e7ea01010c73fd0a4b445a20f0879",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ecfad84dfd773fc1dbcd483adefa43cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "HTML",
+        "C语言",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事管理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180524/82f114ca396cb00ff3839425fc86bc490eeb5e413234ca8213ee8f7ab43_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "华实达",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "52d5a5896e4707471n1y2Nm4EA~~",
+      "brandName": "华实达",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201214/0c09f107fc81389fceb409b3e4b1c93e0eeb5e413234ca8213ee8f7ab4357453_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100914,
+      "industryName": "自动化设备",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1715619215471,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华实达",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

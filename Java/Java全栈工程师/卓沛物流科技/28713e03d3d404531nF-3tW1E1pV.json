@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2nDaruoCcX2PJ-71XSSJWHFBrlH06kph5htYk9o2rgtJpzSdeCi0MrlAk7P9W52j-4edJ2rhrezkP-Ij43zT1jjixztrxxBF2nSUSmZDBr9tIipElhrKIOC9hnVfsxQPx0Xfe1vieow~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "28713e03d3d404531nF-3tW1E1pV",
+      "encryptUserId": "4a0802c397188df90HZy29y9FVo~",
+      "invalidStatus": false,
+      "jobName": "Java全栈工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.\t负责公司核心系统（多渠道统仓共配平台系统，包含OMS、WMS、BMS、TMS、CRM这5个核心模块，支持微信端、安卓端的移动应用，主要应用Java开发）的技术架构优化、设计及功能开发，确保系统的功能能够适应、支撑运营业务的要求和变化。\n2.\t参与开发需求调研、讨论和分析；并能输出设计文档、部署文档、需求文档等相关文档；\n3.\t参与建立完整的系统、产品、技术架构、项目档案等文档工作；\n4.\t基于运营要求，进行系统分析、方案设计和代码开发；\n5.\t协助完成系统测试、上线工作，并对系统运行提供技术支持；\n6.\t参与产品方案讨论、技术预研等工作。\n\n岗位要求：\n1. 大学本科及以上学历，计算机、软件工程相关专业毕业；\n2. 熟悉主流框架Spring、SpringMVC、VUE等，熟悉mybatis、Hibernate等数据库组件；熟练使用Maven、Git、JMeter、Jenkins等工具，有ERP、OMS、SCM或WMS领域的Java及Web系统设计和开发经验者佳；\n3. 扎实的Java基础、设计模式、数据结构、关系型数据库理论知识；\n4. 精通J2EE技术体系，有SOA或ESB等分布式系统开发经验，熟悉微服务架构者优先；\n5. 熟悉Redis、MQ、Zookeeper的开发应用；\n6. 熟悉MySQL、SQL Server、Oracle等数据库一种或多种，有数据库设计和调优经验；\n7. 熟悉Linux或Unix操作系统；\n8. 熟悉面向对象开发方法和设计模式，熟悉敏捷开发流程，有较强的逻辑思维能力，思路清晰；\n9. 对技术有热情，能主动根据工作需要钻研、学习新的技术；\n10. 工作态度认真踏实，有积极学习的心态，具有较强的责任心和耐心，有良好的沟通理解能力及团队合作精神，具备较强的抗压能力。",
+      "encryptAddressId": "3f7086d48b07b5d70nR629u5GQ~~",
+      "address": "苏州吴中区人工智能产业园G1栋",
+      "longitude": 120.7758,
+      "latitude": 31.291872,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e638479735a06fcd7c1b859f16fb77b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9191cec74502e2d82f059e28a7b831c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "微服务架构",
+        "数据结构",
+        "Spring",
+        "SpringMVC",
+        "Hibernate",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "总经理助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200710/ab97d5520e6aeb34cb93db22239f1a22428a368d19d305a28288ec4468e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "卓沛物流科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7076f4487035fd3d0nBy2t64Eg~~",
+      "brandName": "卓沛物流科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190815/036091e2d4a25e6348856c53ebf454e8428a368d19d305a28288ec4468ed42b9.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100507,
+      "industryName": "公路物流",
+      "introduce": "卓沛物流科技是一家专注供应链管理、仓储及配送履约服务的物流科技企业，主要为零售供应商提供多渠道跨区域（传统零售，电商，新通路）的供应链服务。\n\n公司以敏捷、精益为指导思想，以科技、数据，绿色环保为经营理念，透过智慧信息系统、物联网技术及智能自动化，促进供应链采购、仓储和运输作业的优化整合，为零售供应商提供高效率，低成本，有竞争力的供应链服务。\n\n我们的使命：为客户提供超值的供应链服务！！！",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "餐补",
+        "社保"
+      ],
+      "activeTime": 1717137742808,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卓沛物流科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

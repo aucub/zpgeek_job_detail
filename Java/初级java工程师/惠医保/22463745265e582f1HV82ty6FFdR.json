@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "i3XGm0MNsulUK-01Q5EsMD_yDqmKyHd-MUc85P-C1S91WrgDrOAeQjDHx9_FuQBH6fDWPZcaJp-p8yEa-AHxNyAy75YWqBlku1umnVpkY14MNRFDE1bzMlh_hF4H1OsKwh5sBenKBXY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "22463745265e582f1HV82ty6FFdR",
+      "encryptUserId": "b6b6d914b6ea74d71HF43NW1Fg~~",
+      "invalidStatus": false,
+      "jobName": "初级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据公司软件开发规范按时、按量完成系统模块的编码工作、单元测试、系统集成测试；\n2、负责系统的日常维护，保证系统的性能和稳定性；\n3、完成上级交办的其它工作。\n\n岗位要求：\n1、统招本科及以上学历，计算机相关专业；\n2、Java基础扎实，掌握基础类库，熟悉常用的算法、设计模式；\n3、熟悉Spring Boot、Spring Cloud、Dubbo、MyBatis等技术框架；\n4、熟悉AntDesignPro、React、VUE等技术框架；\n5、熟悉MySQL、Order、SQL Server其中一种数据库；\n6、具有高并发、多线程、缓存等开发能力；\n7、具备缓存数据库、消息队列等开发能力；\n8、熟悉基本的Linux命令，并能够进行日常的维护。",
+      "encryptAddressId": "303c9135e30b158a1H173dm4FVU~",
+      "address": "广州天河区富力盈力大厦北塔802室",
+      "longitude": 113.317351,
+      "latitude": 23.127011,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f65d7a129873f0635123d99f650d8fc1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5f20b580c0b165cf0c56f0f91f36930",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd0cf49b23311a0fc5d77778c088f5b09babc593b71516d3b0f482849c54aa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "惠医保",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b2567a63507829ec1nd_3tW-Flc~",
+      "brandName": "惠医保",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230726/7b5b554d84f9729cb7388dbbd6d69ef2d06f37fe8ba0925bbc593b71516d3b0f482849c54aa11be0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "惠医保是运用现代数字技术，聚焦“以直付结算为核心，医疗服务为抓手，数字驱动为B端客户及员工提供医疗健康场景下的综合服务平台”。",
+      "labels": [],
+      "activeTime": 1716752968483,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "惠医保",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

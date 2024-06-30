@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FCJ5ReWjaf5oI-B1Iy1BWeKyHqOkrMA33oY-_9AYopchaWzicyzezPml9UVbxc2yJhmaRzGZqanqOWr-y7i7PVnd-7VHZ6tI6P2ho_TUToAnY0a-Zs4G97J6yL2lHd5XbYlOrb6_lQBm3Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0aae7ee57f957f921HF82NW-GVZU",
+      "encryptUserId": "6cf683e54650ea260XF43dy9E1NX",
+      "invalidStatus": false,
+      "jobName": "java后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "Java编程基础。应聘者需要具备扎实的Java编程基础，包括熟悉IO、多线程、分布式、集合等基础API，对JVM原理有一定的了解。\n\n框架和技术栈。应熟悉并掌握主流的Java后端开发框架和技术栈，如Spring, Spring Boot, Spring Cloud, MyBatis等，了解并能够根据业务特性进行技术选型。\n\n数据库技能。应聘者需要熟练掌握至少一种关系型数据库（如MySQL, Oracle, PostgreSQL等），能够编写高效SQL并具备SQL调优能力，同时了解数据库连接池、事务管理等相关技术。\n\n开发工具和环境。熟悉并熟练使用常用的Java开发工具和环境，如Eclipse、IntelliJ IDEA、Maven、Git等，能够进行代码管理、构建和调试。\n\n问题解决和逻辑思维能力。具备良好的逻辑思维能力和问题解决能力，能够针对不同的问题进行分析和处理，找到最优解决方案。\n\n团队协作能力。具备强烈的责任心和进取心，良好的沟通能力和团队协作能力，能够和其他团队成员合作开发项目，协调各种工作。\n\n学习和自我提升能力。具备不断学习和自我提升的能力，对新技术保持好奇心和研究动力。",
+      "encryptAddressId": "afda717d70e3478f33d52NW8ElFWx4-3WPs~",
+      "address": "深圳宝安区旭生中心6栋820",
+      "longitude": 113.864039,
+      "latitude": 22.583199,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230623/48ba41acc9cef1bf7b9d35236d20b072276e06e96329f4636bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230623/48ba41acc9cef1bfaa9bb9c6403253af4a03357786fb80396bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "深圳市华馥科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "32606866689aa0911HBy29S0F1s~",
+      "brandName": "深圳市华馥科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101208,
+      "industryName": "光伏",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718943159082,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市华馥科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

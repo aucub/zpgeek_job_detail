@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ooj5GSMY2CGfk-t1Wd1zKxUFjjsCtECXVuBj5h-5pe839QZp1GGZAOroVMYiuL00dbyA2twBOVg4dqwclXtvBWrNX_5cieGvjnceUetV3d_c6AHR8nOaJfxvt50RqdksE1lTsFt9dA8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1655d8f284f4b6e41nF82928EFFX",
+      "encryptUserId": "08b971c20a00b2890nV439y8F1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握Java语言，熟悉http、socket、多线程相关知识；\n2、掌握HTTP协议、HTML、JavaScript；\n3、熟练使用Spring、SpringMVC，SpringBoot、MyBatis、freemarker，apache poi等框架，熟练进行web应用开发；\n4、掌握MySql、oracle，熟悉redis等技术。\n5、有医院项目开发经验优先。\n6、具备较强的沟通和学习能力，有团队和敬业精神\n7、计算机相关专业毕业，大专以上学历",
+      "encryptAddressId": "f9683fdde5826aff0XF829q1Fw~~",
+      "address": "杭州滨江区浙江爱特东方通信科技园5号楼5楼",
+      "longitude": 120.142808,
+      "latitude": 30.176873,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3fd69fadd74ac79e77ae3a84dc1c5d66",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb35428cc31a3b4d6af01cb032a4ec52",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringMVC",
+        "SSM",
+        "SpringBoot",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钱女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "爱特电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "491f4aeb15d3a7c00HZ82960EA~~",
+      "brandName": "爱特电子",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210520/5da7b12253ef818fd17590c7524d804a94e11317ae1c661c4f442e4b1b02c1ee.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "浙江爱特电子技术股份有限公司是一家成立于2004年的新三板创新层上市公司，专注于IT综合运维服务和医疗行业软件，爱特电子拥有包括ISO20000 IT服务管理体系认证、ISO27001信息安全管理体系认证、ISO9001质量管理体系认证、省级软件企业、计算机信息系统集成二级资质、建筑智能化工程专业承包贰级资质等多项资质，2016年被评为国家高新技术企业，2019年被评为杭州市高新区优秀贡献企业和瞪羚企业，2020年被认定为杭州高新区（滨江）上市后备企业。\n    公司主要业务领域集中在医疗卫生，金融，教育、政企四大板块的系统集成与研发以及IT综合运维服务。爱特电子是省内医疗行业信息化和IT综合运维服务领域的龙头企业，服务网点覆盖全省11个地级市。 \n   不断成长中的爱特，始终保持与时代同步，将为客户提供理更新的技术、更好的服务，致力于与客户共同发展为行业领航者。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1719710844421,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱特电子",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

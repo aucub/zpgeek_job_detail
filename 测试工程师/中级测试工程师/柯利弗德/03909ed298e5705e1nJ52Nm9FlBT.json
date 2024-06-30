@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UR5nLo3VlXqyE-91Z1HJhILZb-t4_UUBpf1mdD2LKn4PHf_UhUvI2kUxVuHbteaJSK-c82SM_lyq-zw7J-eFhhuKPihyusJfHlSy3FUS5xS0-7D6LIItPMxNZS476I2E9ShL8N8IlCNz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "03909ed298e5705e1nJ52Nm9FlBT",
+      "encryptUserId": "8bdb52f73003886a1HN_29S1EVA~",
+      "invalidStatus": false,
+      "jobName": "中级测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责公司产品研发过程中各阶段的管理端、手机端、web端软件的测试；\n\n\n\n2. 参与产品的需求分析，并根据需求分析或设计文档，能够独立制定合理的测试方法、分析测试场景、设计测试用例；\n\n\n\n3. 执行及跟踪和定位产品中的缺陷或问题，针对复杂模块，深入了解代码逻辑，熟练运用相关工具和方法，进行接口测试和单元测试；\n\n\n\n4. 根据测试结果，编写测试报告，并向相关人员及时反馈，跟踪并推动问题解决；\n\n\n\n任职要求\n\n1. 本科统招及以上学历，2年以上软件测试工作经验，熟悉测试工具，有自动化测试经验优先；\n\n2. 拥有基本 JS、CS 相关知识：计算机系统结构、网络原理、常用数据结构等，掌握Linux的常规操作，熟悉redis、kafka、MongoDB、mysql并熟练掌握SQL语言；\n\n3. 熟悉测试用例设计,熟悉单元测试、功能测试、性能测试、安全测试等方法；\n\n4. 了解虚拟化相关项目的基本知识，包括 Openstack、VMware、XenServer、Kubernetes 等；\n\n5. 熟悉Python/Shell/Node.js/java等一种语言优先；\n\n6. 熟悉接口，UI等自动化测试经验者优先（Jmeter,postman,soupui,selenium等）;\n\n7. 有测试环境搭建，参与配置管理，并有CI持续集成测试工作优先;\n\n5. 认真负责，具有良好的沟通能力、文档编写能力和执行力，追求极致的软件质量，能根据产品需要编写产品培训文档、产品手册、产品运维手册；",
+      "encryptAddressId": "b788e9e63d41e9c71XJ-0tW5Eg~~",
+      "address": "武汉江汉区泛海国际SOHO城2栋903室",
+      "longitude": 114.247262,
+      "latitude": 30.599104,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54426684fe987321b038051390606527",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10c29657ad6186820963e9e91627e71e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件测试",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "接口测试",
+        "安全测试",
+        "Java",
+        "Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "毛先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210616/0bde42f1a6c4eb480d0347b50d2a7d0a1f5309d4652fc79cddc93b30c39_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "柯利弗德",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "25f12bf722578b581nN92Nm_EVU~",
+      "brandName": "柯利弗德",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210616/5804e120291db666031371da6aea15e91f5309d4652fc79cddc93b30c39cbfef.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716794220213,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "柯利弗德",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "w4cLyKCrSqi0Q-E1e5BEwwB3OF3gjE99uFszy4hOH_lxz20fcRoh-8j00pgGSzRswhChDymQypXMYuzPCqCcFqK5yOE_buZaBT_HReZdumBQaJyKdkA3Da3P3cV02kQdJvVzzbDXUwtopa45RHY_R_zwC0uFyOLhQ6cDKzbPreVktTA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e080e9bda03fb39e1HF53dS5FVZX",
+      "encryptUserId": "b08aa5c6868150783nxy0921E1c~",
+      "invalidStatus": false,
+      "jobName": "web全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "精通 web 基础语言： HTML/CSS/JavaScript 及熟悉 W3C 网页标准；\n熟悉 web 数据传输：Ajax（XMLHttpRequest）、Fetch、XML、JSON、XHR 等；\n熟悉网络协议：TCP/IP、HTTP、HTTPS、WebSocket 等；\n熟悉至少一个 MVVM/MVC 框架的使用，如 Vue、React 等；\n熟悉前端工程化：Webpack、Gulp、Vite、VueCLI、create-react-app 等；\n有较丰富的网页制作经验与动画效果等，\n熟悉不同浏览器的兼容问题及页面优化；\n熟悉移动端开发，了解 iOS 与 android 浏览器内核的不同，熟悉自适应布局，了解小程序及公众号开发流程；\n了解 web 安全基础：SQL 注入、XSS 攻击、CSRF 攻击、非对称加密等；\n了解项目工具：git、svn 等；\n了解一定的后端技术：Java、SQL 等；\n对前端新技术和新应用有浓厚的兴趣。\n现在使用的技术：前端: Vue2/3后端：JAVA, SpringBoot, JPA\n版本管理工具：Git2.",
+      "encryptAddressId": "8ac96d07dfbcec491nV-09q-GVE~",
+      "address": "上海浦东新区中远海运科技股份有限公司研发中心办公楼738号",
+      "longitude": 121.541251,
+      "latitude": 31.236993,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8867a5962c2858abc7d22c31ae6aedfd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b8e85b31db400f90104ba9815d0d5c0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "CSS",
+        "Vue",
+        "Spring/Spring Boot",
+        "Java",
+        "前端开发经验",
+        "全栈项目经验",
+        "后端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "艾女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200702/9e4dcf1c15466a55e423370e8161a51f52be39b5706dcad0f7d8fc1e671_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海弘雅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "47c119bb2493d2101nd_2N25EQ~~",
+      "brandName": "上海弘雅",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211014/7bf6f160950405e922593d948af077f99d4f7cf69f50d61f12123381e9a7c5e9aa06f743fc9c7d16.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海成立于2017年，注册资金1000万，总部位于上海，是一家面向国内知名企业提供领先的ITO人员外包服务、金融科技解决方案、RPA白领机器人解决方案以及区块链技术解决方案的高科技公司。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719200096189,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海弘雅",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

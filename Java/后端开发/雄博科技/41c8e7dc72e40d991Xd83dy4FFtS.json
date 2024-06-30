@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tTrKtG6EULADj-T1fNE_ervVuFBv0kb1i-2Z03KB4eeE-gnUVHHVaSb54xt7xvXLYD6gtbMAPFGMyOJIn392SbhDrCbeXvVFwIF4y3VTWCvs7l4oBw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "41c8e7dc72e40d991Xd83dy4FFtS",
+      "encryptUserId": "a4693fc3f813653a1HN_29y9EFU~",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "要求：\n1、计算机或软件技术相关专业，良好的设计与编码习惯，热爱编码开发工作。\n2、java基础扎实，熟练掌握IO、多线程、集合等基础类库、熟悉各种网络协议，熟悉Redis、memcached等技术。\n3、熟悉springboot、mybatis等常用技术框架。\n4、熟练使用mysql数据，熟练sql编程。\n5、熟练使用kotlin编程。\n加分项：\n1、熟练使用linux系统，docker使用经验。\n2、熟悉前端开发，熟练使用react技术栈。",
+      "encryptAddressId": "30975c502e6393fa0Xd_3tW7GQ~~",
+      "address": "成都武侯区环球中心W5栋1106号",
+      "longitude": 104.063402,
+      "latitude": 30.568744,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e454b64ff307fa200195943659ea3e8a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/754618be3b1d9f78a3fe9a5d9a2e7ecc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "Spring",
+        "Java开发经验",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "熊女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200516/c5cafd4dc9b829ce725151d4058df114d3f75dfad4735afb3525bb34245_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "雄博科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "447ee9ce520a3bac1nF73967GA~~",
+      "brandName": "雄博科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210802/92346ccd948aa4c2cbcfebb86120df54d3f75dfad4735afb3525bb34245fde66.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "成立17年，专注提供通信行业的全面维护解决方案。",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1716730621743,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "雄博科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

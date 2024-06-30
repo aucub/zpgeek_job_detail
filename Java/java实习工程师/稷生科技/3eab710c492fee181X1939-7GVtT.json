@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BqPy5HcP4PyTB-r19ax2uMDSEAbxWQkOFIcToksrUTRtE8Hp5sWK7N33D1v8oB8_pHtJf2DGBK7N_fj8tpNgw7Ki7LVA572mzSELgSt6SJVoRhLpIIs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3eab710c492fee181X1939-7GVtT",
+      "encryptUserId": "4f0d9fad7bc5fe4f1nVy0tS6ElBX",
+      "invalidStatus": false,
+      "jobName": "java实习工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "【职位描述】\n1、熟悉Mysql、MongoDB 等数据库，掌握标准的SQL 语法；\n2、熟悉面向对象的设计思想，JAVA 语言基础扎实； 3、了解Spring\\spring boot,mybatis；\n4、了解前端相关技术（如HTML5、CSS3、JavaScript 等）；\n5、协作团队完成软件的设计、开发、测试、修改bug 等工作。",
+      "encryptAddressId": "5fb2724d0878e2ad1nVz09u1EQ~~",
+      "address": "广州天河区国家软件产业基地天河华景园区A栋15F南8-9",
+      "longitude": 113.356725,
+      "latitude": 23.135109,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c75c809b696dca895e30b3e92f0caa90",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9beebb52312efe4b5a02ff035e7cf810",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "稷生科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "318236b39a0447a403V629W6Ew~~",
+      "brandName": "稷生科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190411/7f7ca6b9f08723547be0cda308197c6ed9f68ed4de8affff371ff9398e23f28f_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "广州稷生科技有限公司成立于2017年，位于广州天河华景软件园，致力于大型智库建设与运营，为地方政府、企事业单位提供高效解决方案和渠道平台，不断发展成为具有全国意义的创新型知识型的高等级咨询公司。公司与政府部门、中央企业、高等院校、名优企业建立了广泛而紧密的战略合作关系。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1718789870000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "稷生科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

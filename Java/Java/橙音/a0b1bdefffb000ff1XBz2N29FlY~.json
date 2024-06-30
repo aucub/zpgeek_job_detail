@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hcmZyG3E-zNzP-X1G5zt6j18Wmm2DGE-6dvR7hBgP-zfTe9u0W2rvumQnJiFiVv5Zof2oNdLweH-fjvy-uGGWOPOoytz0_y2W9D2yAk7w7OpfPiuL27WQC6yfJh9JGV5Hw7QHq-n7Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a0b1bdefffb000ff1XBz2N29FlY~",
+      "encryptUserId": "c3debce30c56161503B82dW7FFY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解 \n2.1年及以上使用JAVA Web开发的经验，对spring,mybatis,spring boot,spring cloud,dubbo,redis等开源框架熟悉 \n3.熟悉常见的设计模型和UML使用\n4.熟悉常见的数据库开发和SQL语言编写\n5.有全栈开发经验的优先考虑 \n6.具有一定的项目规划和决策能力，善于捕捉业务需求，并给出有效的解决措施和方法",
+      "encryptAddressId": "b36d3e422ba44a141XB-39S_F1Q~",
+      "address": "杭州西湖区花蒋路与西园路交叉口",
+      "longitude": 120.068871,
+      "latitude": 30.306133,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35835d8462651d4bf1b88ac90020f365",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af037b2ac9d3998f19c1c20b3e8b892d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "橙音",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bc798756ee56ca941XF82tu7GA~~",
+      "brandName": "橙音",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717127044233,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "橙音",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

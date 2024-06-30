@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZUd7DybJgE2tH-I1mcfCDI0xn621-qZDPXHLWV5H0B7BHFgDqOIiG92bU6tUQhPhqosum_ewnV-w8x3FJ_9c1DiqmK61UWSQuZKnuMhtGhv6WQcW4A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d796b4c2aee9487a1HR83Nm-FlJR",
+      "encryptUserId": "30d29768e2ae7eda1HB52t-9FVA~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.1-3年以上java开发经验，对于java基础技术体系(包括JVM、类装载机制，多线程并发、IO、网络掌握和应用经验)；\n2.对JavaEE有较清晰的认识，熟悉spring cloud技术栈，熟悉Maven、Git;\n3.熟练运用Spring、SpringBoot、Mybatis、Shiro、等框架进行开发工作；\n4.具有MySQL等数据库应用开发经验，具备数据库应用系统的规划及设计能力；\n5.熟悉分布式、缓存（redis）、异步消息（rabbitMq）等技术的原理，能运用分布式常用技术进行合理应用，解决业务问题；\n6.掌握多线程及高性能的设计与编码及性能调优，有高并发，高可用应用开发经验优先；\n7.熟悉常见的算法和数据结构，对常见的设计模式有深刻的理解；\n8.具备较强的分析和解决问题的能力，代码逻辑清晰、整洁，具备较好的软件工程意识。\n9.热爱技术，有良好的沟通协调能力及团队合作精神，具有跨部门协作的经验、推进能力强，责任心强；",
+      "encryptAddressId": "f20047bfda9d5bad0HJ53921Eg~~",
+      "address": "杭州西湖区杭州数字信息产业园D座515室",
+      "longitude": 120.060017,
+      "latitude": 30.318519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3614827c02e53ce2c9503ade660c3055",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8d3850f1756f05c368b721fa3b7f515f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "国内院校优先",
+        "Java",
+        "Spring",
+        "JavaScript",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "不接受居家办公",
+        "后端工程师",
+        "外派驻场开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "虞女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211112/607f1f3d68754fd0b586aba9298b8d8b1e466a12a2a72e786481190fe9cbe79ae62666a0daf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "优航信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "93cc8b79c29986d01nB-39W8EA~~",
+      "brandName": "优航信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180221/7dedb9e3be43a77b500f7da471ac9a6d6481190fe9cbe79ae62666a0daf92036.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "杭州优航信息技术有限公司成立于2010年，目前主要从事银行智慧化网点数字化转型软件开发，公司最近三年得到迅猛发展，开发的软件产品亦得到了业内肯定！",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1716428911000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "优航信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

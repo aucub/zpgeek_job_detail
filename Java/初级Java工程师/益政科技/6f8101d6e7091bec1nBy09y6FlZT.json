@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "w9m5XoEx6vm6H-t1QAdujMMTRS6R7wTzaE8zVTKVN32kKQUJhoZrHIgyzWVRZqZFZWkixm3EbSthwXUxMZH7s4e0RHfeIRA9TwAZCgM864F2PxhPJ-o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6f8101d6e7091bec1nBy09y6FlZT",
+      "encryptUserId": "1f7d823dcc446e6e1HZ839y5EVo~",
+      "invalidStatus": false,
+      "jobName": "初级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、根据产品需求，开发相关的软件系统；\n2、保证开发的进度和代码质量；\n3、负责系统后端的维护和优化；\n岗位要求\n1、能接收出差；\n2、大学统招本科及以上学历，计算机相关专业，1年以上研发经验；\n3、JAVA基础扎实，掌握反射机制；多线程；IO/NIO； 网络编程等；\n4、熟悉主流开发框架，如Spring SpringMVC MyBatis SpringBoot 等，并读过其中之一的源码，对其核心思想、实现原理有一定认知；\n5、熟悉Oracle、MySQL等数据库开发与设计，具备SQL调优能力；\n6、了解并使用分布式应用系统的相关框架及技术，如rpc框架、消息队列、缓存等；\n7、学习能力强，沟通能力强，业务理解能力强；",
+      "encryptAddressId": "272bce190514607233190ti-EQ~~",
+      "address": "长沙岳麓区长沙芯城科技园5-802",
+      "longitude": 112.875279,
+      "latitude": 28.230876,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57f206b2f90e06ec6fc01208a1a8036",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4107cc44000a89c7525835075069bed0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "MVC开发",
+        "消息队列",
+        "网络编程",
+        "Spring",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191119/53d072a93637b65049b79a11617eeae20006188af14bd4cbf33003c1463_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "益政科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1438031aa61d91e81nN409i-F1Y~",
+      "brandName": "益政科技",
+      "logo": "https://c-res.zhipin.com/jrs/15_3b65cb849afb7a0525c4947deb837778.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717105705824,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "益政科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

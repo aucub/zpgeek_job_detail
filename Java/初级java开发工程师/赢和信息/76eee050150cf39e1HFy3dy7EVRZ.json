@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gi0wjfEXEFjiA-Y1-gpzuAKZnoy6RioivQqGrXiFhZn4-JNmUL5Qjk_lw_qbMUJo87Gl7LwRfs3Msbii9F4S8xshKl1QU5wTrADvkC5McJWWWlcVeQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76eee050150cf39e1HFy3dy7EVRZ",
+      "encryptUserId": "d3db7741b51e4e801n1z2N68Elo~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格：\n1、Java基础扎实，理解IO、多线程，socket编程等基础框架，对JVM的原理有一定的了解；\n2、熟练使用Linux系统，熟练使用系统常用指令，熟练使用Shell，能对应用的瓶颈进行分析定位；\n3、熟悉Spring Boot及其微服务治理框架，熟悉Spring Cloud经验优先；\n4、熟练SQL，对数据库的SQL优化、表设计有经验，有大数据量/分库分表经验，熟悉数据库层访问中间件等；\n5、熟练应用常用中间件redis、kafka、zookeeper、elk等，熟悉分布式、缓存、消息、搜索等机制；\n6、参与团队核心系统设计，有开发高可用的服务平台经验者优先，比如统一网关设计、分布式日志系统、基于日志指标的监控系统等；\n7、[优先]有过网络编程经验，对netty中间件精通者优先考虑\n8、[优先]熟悉docker、 K8S、Istio等开源项目，有云原生、微服务项目参与经验者优先；\n9、[优先]对系统架构、分布式系统有浓厚兴趣，热衷于追求技术极致与创新，敢于迎接挑战",
+      "encryptAddressId": "bbff41f661256efb1nZ43NS0E1tV",
+      "address": "北京国雅大厦9",
+      "longitude": 116.440304,
+      "latitude": 39.916174,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfc5d687f9ec3caf97beff82760c0376a56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf37b40b0ac249fe1170fa71a565958d516bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210508/fc66943f772928bff99d81443b81bb1c7fcf4c4a9db8cb4ebc610955fa8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "赢和信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "082e58aad4c8d5ed1XB639S8Ew~~",
+      "brandName": "赢和信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200810/ebc82c138f233e60c3bac817c5641186e5311d7f2f890740e2ab8e705869f9f3_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市 赢和信息技术有限公司以金融投资管理软件服务为核心，专注于金融资管业务和数据治理的金融科技公司。为基金公司、证券公司提供新一代的智能资产管理平台。涵盖：数据治理、风险管理、投资管理。致力于将公司领先的IT科技能力与丰富的金融行业经验相结合，为金融投资机构及金融投资者打造：智能、高效、专业的金融投资系统。\n\n我们拥有一支在中国金融领域资深的研发团队，不仅对投资软件研发有丰富的经验，对投资业务同样专业。团队有近10年资管行业研发经验积累，专注行业动态，持续为客户提供优质服务，不断快速迭代提供最新的信息化服务。这支队伍是有想法、敢于创新、专注执着的团队，发扬工匠精神，坚持专注做好一个事情：应用信息化技术让金融投资工作变得更便捷。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1718185566342,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "赢和信息",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

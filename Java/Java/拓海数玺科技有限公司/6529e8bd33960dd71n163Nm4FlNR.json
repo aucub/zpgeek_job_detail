@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QyT0kq8iuDOfk-C1U14R9pj1pfqrM__R-VzPYSkkM-TG2znwn3qz0BIlsxMXDeoQr4Nb27r3cj0suKbuwnQKCst0cBtB_jCDSLNcBk1H0dYjhXSmY_Y~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6529e8bd33960dd71n163Nm4FlNR",
+      "encryptUserId": "3825edf61e33ac821XV72dS0Flc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1.具有扎实的JAVA基础，熟悉JAVA技术体系，承担关键技术的攻坚任务，完成系统核心代码编写；\n2.能独立完成系统的需求分析并能敏锐发现业务痛点，具有整体性的ERD设计能力，保证业务逻辑闭环；\n3.能配合Team完成代码编写、单元测试、上线，并且高质量、高稳定、高性能交付项目模块；\n4.知识面广，思路开阔，对新技术有敏感并愿意致力于新技术的探索研究；\n5.负责核心代码的开发和维护，编写相关技术文档。\n\n【任职要求】\n1.1年以上java开发实习经验，能独立主导系统功能模块设计；\n2.java基础扎实，对jvm，多线程有一定了解，了解设计模式；\n3.熟悉Spring、Spring Boot、MyBatis等主流开源框架及基本实现原理；\n4.熟悉Linux常用命令，具备部署实施经验；\n5.了解Docker等容器技术；\n6.熟悉数据库设计，熟悉MySQL、PostgreSQL等关系型数据库，并具有较好的SQL编写及优化能力；\n7.熟练使用Maven/Gradle/Git等软件开发工具；\n8.有大型系统的设计和开发经验，尤其在有大并发、高可用经验者优先；\n9.有Spring Cloud, Dubbo等分布式框架经验都优先。",
+      "encryptAddressId": "763d93f77119f3630HBy2du9EFI~",
+      "address": "北京大兴区兴创国际中心S座702-2",
+      "longitude": 116.328202,
+      "latitude": 39.783246,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99f760a698b2a0678a3bc1b907b17170",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b9efd420036df6169cb30ed85b612f0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "多线程",
+        "Spring",
+        "SpringBoot",
+        "MySQL",
+        "后端开发",
+        "初级软件工程师",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/87be6c1d4902a27adecd12754088c0b621410e99152d6176220fca5ff8d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "拓海数玺科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ea424149125bbdec1nB50tS1E1s~",
+      "brandName": "拓海数玺科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司主要做海外金融业务，主要业务团队在墨西哥，北京为技术支持团队！公司有着雄厚的实力，期待有识之士能够加入我们，共同发展，力求将业务拓展到全球！",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719550166770,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拓海数玺科技有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

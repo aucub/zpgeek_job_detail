@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ll5gpn0OS7vzd-N1-GO_4KALzxmuWce26tHbh_Tw2af47bueDSS6P2Zi7xFj2tC-jm7vr7FGRW2_D1M70WjMAQb114M3LzkqbIPruw2ec4ENurW1NAXn775rSatMku8tyCpvftYUjpA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f3e3b5b142b9d0ae1XVy09S1EVBW",
+      "encryptUserId": "e9185af5fd250a2a0HV-0tS8EFc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、基础开发平台研发工作、包括开发中使用到的各个组件\n2、微服务组件的研发工作\n3、熟悉消息模式的开发、性能调优等工作 \n\n任职要求：\n1、计算机相关专业一年以上软件开发工作经验\n2、java基础扎实，熟悉jvm原理，了解多线程编程、设计模式等\n3、熟悉spring、springboot、mybatis等主流开发框架\n4、熟悉关系型数据库至少一种、mysql、oracle\n5、熟悉linux系统\n6、熟悉springcloud主流组件，例如gateway、sentinel、nacos等",
+      "encryptAddressId": "db29540db060ca901nR_3ty4Ew~~",
+      "address": "北京西城区冠华大厦冠华大厦",
+      "longitude": 116.367872,
+      "latitude": 39.940161,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7dcbc7ff6fffa018b5959c067d5f2a4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8706874b85151baf14b46d5182c0b701",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁先生",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210512/7a872c7776793cce413e964df0b1596f83675351cb6c884433b754f0c1d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "先勤科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d463ce53f88fbfd103x739-4EA~~",
+      "brandName": "先勤科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190618/6007a22ec5fdb16842697c11ca2547797c9a18be7b89f2bb79950fa15d0ce49f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京先勤科技有限公司办公室地址位于中国的首都，政治、文化中心北京，北京 北京市海淀区中关村东路18号1号楼C-1503-019室，于2007年注册成立，注册资本为500 万元，在公司发展壮大的12年里，我们始终为客户提供好的产品和技术支持、健全的售后服务，我公司主要经营技术开发、技术推广、技术转让、技术咨询、技术服务；计算机系统服务；软件开发；",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假"
+      ],
+      "activeTime": 1716780529457,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "先勤科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

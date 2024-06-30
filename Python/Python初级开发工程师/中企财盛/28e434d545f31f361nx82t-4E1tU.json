@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DSgPelFU7uyJf-x1N6hCVE-PctOrUbPziaaIZ3HdzPaLdqZR6LXSO8d6vHaS0pqxDWuNgHfnr6X4VHPe1AD05YnJOeWQpr8CLT6R_p9ztZU_frkKbnZ906Z4vmyaZb4ATd2pDcbEnxA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "28e434d545f31f361nx82t-4E1tU",
+      "encryptUserId": "7e0d8d850fb21e7e1nZ609y7FFs~",
+      "invalidStatus": false,
+      "jobName": "Python初级开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 开发和运维高频交易系统，风控系统，行情系统，理财系统。\n2. 收集现货，期货，期权tick级市场数据，进行量化分析，提炼信号，编写自动交易策略。\n3. 对接交易所，银行，做市商接口抓取信息或者执行下单。\n\n任职要求\n1. 有金融产业基础，对订单簿，交易周期，各种金融产品，盈亏计算等概念有了解。\n2. 开发过量化交易系统，贷款系统或者银行系统。\n3. 有至少一年Python开发经验。\n4. 使用过Postgres，Redis, Git, ssh。\n5. 有Go，Javascript, Ruby, FIX协议经验者优先。\n\n补充说明\n工作地点为100%远程。",
+      "encryptAddressId": "4fee950f236cf7e21XR73tW_FFI~",
+      "address": "北京朝阳区世奥国际中心B座1709",
+      "longitude": 116.432048,
+      "latitude": 39.988328,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d83ee6b90220c20fe5a25e6422df358",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/07da72d87b5f38b95e3885735589c87b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Go",
+        "PostgreSQL",
+        "python",
+        "ruby",
+        "vue"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钟先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160619/302eb30c2a21cf58f119172dc48e551b8344fd5462fdb1cda35c60366b5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中企财盛",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9976cc64d69f5e350n183N20Fg~~",
+      "brandName": "中企财盛",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190921/457c0d82acd7b2c53f0e042dace8310346002f8fa8849aa403674b6f5043879d.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100204,
+      "industryName": "基金",
+      "introduce": "团队专注于稳健型量化投资、合规阳光私募投资管理公司\n\n在对冲、分散风险的基础上，利用科技优势捕捉股票、股指期货、基金等类产品的各种套利及相对稳健的趋势投资机会，力求在各种通道的宏观环境中都能为投资者带来长期稳定的投资收益。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1716716106149,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中企财盛",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

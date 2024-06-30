@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aS5bCW5Wvmm0H-51xi02LVG6KppdC0xlCy9tq3y0zy7jLTUYY-ZbxGThKGufjHhS_MB2IPvNDfgcOlTQIJJIZgLICZj-7loISsjDkuGNidYqHHv7CHF_ho5tpT927RSxK6p4UDcjiGtGgw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad0d67009b2bcc7c1HJ82920F1tY",
+      "encryptUserId": "2fcaad29560df7730XZ73t-6FVRZ",
+      "invalidStatus": false,
+      "jobName": "java全栈工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机软件或相关专业，1年及以上项目开发经验；\n2、熟悉SpringCloud/Boot微服务框架开发使用，熟悉SSM架构，熟练掌握多线程、锁、Socket等相关知识；\n3、具备Javascript开发经验，熟练掌握Vue；\n4、熟悉linux相关操作，熟悉网络、IO、内存等监控排查手段；\n5、熟悉Mysql、mongodb、redis相关操作使用；\n7、有hadoop大数据相关开发经验者优先； \n8、责任心强，具备良好的团队合作精神和承受压力的能力； \n9、具备优秀的学习能力，沟通能力，卓越的团队协作精神。",
+      "encryptAddressId": "f9afc440478540741nZ_3t-7ElNS",
+      "address": "北京嘉悦广场2号楼13层",
+      "longitude": 116.323649,
+      "latitude": 39.786903,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf212de4f7bc8421404dca0ffd9e5b459d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf42d1e083dd287d1c78519a9d400c1abc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "不接受居家办公",
+        "微服务经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "融智天",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a3c2b880a624e5e31HR92dq7FVM~",
+      "brandName": "融智天",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231007/7bf6f160950405e9d22ab53ddb04dfcd15101a82a90656e94bfc40f158b3e0a8b60838c3cb76b4aa.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京融智天管理软件有限公司成立于2010年1月，是一家专门从事财务智能技术运用和推广的企业。公司以全面预算管理为中心，致力于用信息技术和专业能力推动财务管理进步，着力提高财务管理效率和有效性，打造智慧型财务，让客户的财务管理在事前规划、事中控制、事后分析与考核等关键环节发挥重要作用，全面提高管理水平，以增强客户的核心竞争力。",
+      "labels": [
+        "餐补",
+        "夜班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719156073733,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "融智天",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

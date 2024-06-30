@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Uwv8xi2XKSncL-n14KMKUs4yYRxFWtMaRPf_NpBzb6Tdi_FIRSPdoZGu8MmSKlVz2QcT3f0UJdm1jgCLdLNAEJvRePBmZD7SjNwnllMUu-YXq91K0nE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f59ae87ce22267ce1XBz09i4EFVU",
+      "encryptUserId": "e0d663340ae1560c03By3d24FVs~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.公司各产品线系统运维，保障业务线系统稳定运行。\n2.系统性能管理和优化、网络性能管理和优化。\n3.配合客户调试，处理客户反映的相关问题。\n4.负责编写和实施自动化运维工具。\n5.负责业务系统升级、部署。\n6.网络设备维护。\n7.适应短期出差。\n\n任职要求： \n1.2年以上Linux运维经验。\n2.熟悉主流云服务，有相关维护经验。\n3.熟悉shell,Python能熟练编写维护脚本程序。\n4.精通Nagios,Cacti,Zabbix,Prometheus等监控软件的配置和管理。\n5.精通nginx,Tomcat,php等参数优化。\n6.熟悉docker/Elasticsearch/Kafka/redis/RabbitMQ等功能及配置。\n7.熟悉主流数据库mysql、pgsql等，能力完成日常维护及编写sql。\n8、熟练使用cisco、华为网络设备。\n9.了解voip原理，有FreeSwitch、Opensips、中继网关维护经验者优先。\n10、熟练使用excel、visio等软件",
+      "encryptAddressId": "b4444969e06174a21nR709q5F1RV",
+      "address": "北京大恒科技大厦南座303",
+      "longitude": 116.305225,
+      "latitude": 39.982383,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf27afcaaef1106d27e1ba6716d8e9b1686bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bff7bb896524ab22a7ddf6d46c981a40c86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "运维开发/DevOps",
+        "Python/Shell",
+        "Nginx",
+        "Elasticsearch",
+        "计算机相关专业",
+        "通信相关专业",
+        "运维经验",
+        "cisco",
+        "linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "运维经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "北京天舟通信有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c7fb7dcbfc114eff1XV90t69GVI~",
+      "brandName": "北京天舟通信有限公司",
+      "logo": "https://c-res.zhipin.com/jrs/27_aa36b48f8d0064a4d673e6e8ba7f3ecc.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "北京天舟通信有限公司成立于2004年，总部位于北京，是国内领先的融合通信、信息安全服务提供商。公司自主研发了智能联络中心和融合通信中心PaaS产品，为用户提供融合通信服务、安全通信服务、物联码号服务等通信交互解决方案，广泛应用于快递、电商、互联网、金融、政务、物联网等领域，目前已服务数万家政企类客户。",
+      "labels": [
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1719568231068,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京天舟通信有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

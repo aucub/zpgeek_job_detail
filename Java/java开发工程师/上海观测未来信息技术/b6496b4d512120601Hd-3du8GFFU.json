@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9NrQgbML-QEfp-R1K6pXZW4HdALGbFJeFQeT95-PwJOXWMsboQNlGJFmW1ZsJx7cCosnAbcH7jJO7rVyzF7y71w8hGVoZVd259DOIHNbbzIQnaBEmA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b6496b4d512120601Hd-3du8GFFU",
+      "encryptUserId": "72d12b8f0bac3d8e0HZ92N-8Fw~~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司多云管理平台的开发，优化和持续迭代；\n2、能够独立按产品需求进行技术方案设计和编码实现，确保质量、性能、可扩展性；\n3、在负责的业务上有独立的见解和思考，对业务产品具有独立沟通，完善业务需求，识别风险的能力。\n\n任职要求：\n1、全日制本科及以上学历，计算机相关专业，1年以上开发工作经验；\n2、Java基础扎实，了解JDK常用类库，熟悉Spring，Spring Boot，Spring Cloud、MyBatis等常用开发技术；\n3、熟悉MySQL、Oracle、PostgreSQL、SQL Server等至少一种关系型数据库，了解常用DML、DDL操作，对数据库设计有一定的理解能力；\n4、熟悉一种NoSQL数据库，Redis、Memcache等\n5、熟练使用git，Maven，Nginx，Tomcat等工具和应用服务器；\n6、了解JavaScript、HTML、CSS等Web前端常用技术；\n7、有良好的编程风格，为人踏实，积极主动；\n8、热爱学习，长期关注技术的发展趋势，对技术有追求者；\n9、熟悉k8s等相关技术原理、有k8s和docker实际使用经验者优先；\n10、熟悉服务器IPMI、Redfish协议，有相关使用经验者优先；\n11、熟悉云计算，通过ACP认证者优先。\n\n公司福利：\n全额缴纳五险一金、带薪年休假、8小时弹性工作制、双休、团建、旅游、员工体检、生日会、节日福利、项目绩效、14薪、每年调薪一次",
+      "encryptAddressId": "bc564a0a92c98c971nV93dm8EFc~",
+      "address": "宁波鄞州区宁波研发园南区C12幢12A",
+      "longitude": 121.640674,
+      "latitude": 29.882736,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f771cc0ec1d09d35794c0e61a893473",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b3f605ef317418ec69f434d08a41fd9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Docker",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "微服务经验",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "行政人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海观测未来信息技术",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a0683e06c24d570b1Xdz3ti9F1M~",
+      "brandName": "上海观测未来信息技术",
+      "logo": "https://c-res.zhipin.com/jrs/b4733132c93413c462a31075f9212d6b.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "上海观测未来信息技术有限公司（简称：观测未来），成立于2013年7月，是由红杉资本、阿里巴巴、复星集团、张江高科、深创投、华业天成等知名投资机构投资的高新技术企业。 \n其自研产品「观测云」，首批获得中国信通院颁发的「可观测性平台技术能力」与「根因分析技术能力」先进级认证，实现对云、云原生、应用及业务的统一监测需求，可为互联网、零售、金融等行业用户提供统一高效的数字化可观测服务。观测云作为一款数字化生产力工具，助力实现用数据驱动的现代软件工程体系，用可观测性改变软件全生命周期管理。\n立足于云时代，观测未来将持续提升技术能力与服务质量，为中国 SaaS 基础软件的发展注入希望！",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "法定节假日三薪",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718177020656,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海观测未来信息技术",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

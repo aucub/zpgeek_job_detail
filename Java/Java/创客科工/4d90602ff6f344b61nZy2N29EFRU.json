@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fPdLC6WqmACVp-a1UHLeP0wsQAU7g5LjbH_LUFx96aihaOFVzkkLE-4VrVANWVo2e8hX6otLlDAJmdh35wrIh4V1sVX9uTZj6gH0wOhqeHgdgXNjZA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d90602ff6f344b61nZy2N29EFRU",
+      "encryptUserId": "e6b867b51f40e16003Vz3N68Flc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、需要对springboot springmvc有一定的经验\n2、对mybatis有使用经验\n3、有一定的vue使用经验，熟悉jquery",
+      "encryptAddressId": "bd1186c9933213b903d63Ny-EQ~~",
+      "address": "北京海淀区航空二院仿真楼302",
+      "longitude": 116.267113,
+      "latitude": 39.911068,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/851376ec3fb251044be9e8e565c71d3c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f98545c66eae56c2c829ce2aa9a8e850",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MVC开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/cdec76f1bb42fdad639edcffa1cbef888391313cddfef7687c4e4fdb105_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "创客科工",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6dea1528487ed6d43nd439S_EQ~~",
+      "brandName": "创客科工",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719277858174,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创客科工",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

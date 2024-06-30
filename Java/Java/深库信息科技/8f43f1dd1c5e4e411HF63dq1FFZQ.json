@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kZEGuH8Otl_PJ-j1e_qutEjc84COkeYuhj-KQIJnhGokHz357szoY-UR2vghS1ChkFkYi0jtJ1deXKI96RNgwf-tQIf5BSuKVXa18DkZjLpuA0sKcwV-BfICl73R0_bN99ga2qLTdc3U",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8f43f1dd1c5e4e411HF63dq1FFZQ",
+      "encryptUserId": "3fb58a40517111821n192tm6GVs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与项目需求沟通；\n2.维护、升级及优化已有的程序，编写技术文档；\n3.负责部分功能模块的系统分析、程序开发等；\n\n任职资格：\n1.计算机相关专业，1-3年工作经验，有扎实的Java语言基础，对Java面向对象程序设计有深入理解;\n2.熟悉主流框架,具有SpringBoot、SpringMVC、 MyBatis等开源框架有实际项目开发经验； \n3.熟悉Tomcat，Maven，Git，SVN等开发工具的应用； \n4.熟悉MySQL，DB2、Oracle等数据库;能熟练运用 SQL语言， 具备一定的SQL调优经验； \n5.熟悉unix/linux操作系统的常用命令； \n6.具备较强的学习能力和解决问题能力， 有较强的协 调、沟通能力和团队精神 ；\n7.有较强的沟通能力、文档撰写能力、团队合作精神、高度的责任心； \n8.有开源框架源码研究、SQL优化相关经验者优先。",
+      "encryptAddressId": "1097e357cd9d7d7c0Xxy2dW5GVNXw429Uvw~",
+      "address": "上海宝山区同济创园501",
+      "longitude": 121.490953,
+      "latitude": 31.333142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf83d0e368755b0ebbd0bb281429220e996bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfd9a17fab06af82e47819c74bd2ade9666bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170125/f4ed3b8cd67fdc3b686f2b7e85ca6dbd4e2794a7cf04ddff127eb9cd1ae_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "深库信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a8671e7d533e5d21nZz296-FFE~",
+      "brandName": "深库信息科技",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717335046000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深库信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

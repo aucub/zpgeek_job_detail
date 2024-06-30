@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LTXAtYRnHAmV3-n1xBta7bHx_FXkGqWm4uSxjwU2_TqQV4NS4D7QohgqXBXVpYSVT7i8SFMlPWP_U-z_vI9s-t4-AhbhJI-B27ObwIjLNDujFeWVvg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e09892f59fb825e33nVz39m-FVM~",
+      "encryptUserId": "099a9a8d8c6770c71nV_39i6EldY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机技术、软件工程相关专业，专科以上学历；\n2、5年以上JAVA开发经验，熟悉J2EE技术体系,熟练掌握Java，VUE，H5，JavaScript，CSS等，精通sql语句；\n3.使用过主流第三方框架：springcloud,springboot,mybatis,struts2.spring,hibernate等\n4、熟悉主流数据库系统如Oracle、MYSQL，SqlServer等；\n5、具备良好的团队协作精神、具有较强责任心和自我驱动力、具有独立解决问题能力；\n6、熟练使用idea、eclipse、git/svn、powerdesigner、axure等工具；\n7、有C#,jeecgboot、uniapp、小程序开发者优先",
+      "encryptAddressId": "d55089cc79c8481f1n1-2dq_EFA~",
+      "address": "北京昌平区珠江·摩尔国际中心5号楼1单元305",
+      "longitude": 116.291621,
+      "latitude": 40.09685,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3ade7fe67f8c8fc78cf0e7598abc481",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b3192c4c08dba07fe1b14a0fa77bf2d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "Maven",
+        "Web端",
+        "全栈开发",
+        "GIT",
+        "MySQL",
+        "SpringBoot",
+        "后端工程师",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200629/5b9481d1eb3d7190a95b8fac77389bfd762e8266f9ecde54890a4f63d16_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "睿信毅城",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ebda52187ef0124b3nV60t21Eg~~",
+      "brandName": "睿信毅城",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070347738,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "睿信毅城",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

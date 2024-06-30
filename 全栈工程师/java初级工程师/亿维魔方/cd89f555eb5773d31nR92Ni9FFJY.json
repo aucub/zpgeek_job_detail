@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ch1chDjvChW8Z-m1L_883X7XUzNltAUXvIk1bew-fuP9ff8259JdmZPDzkU7ppATCDxjzre1HKSwdsDKuS861v3GwssPq2TDmd9spKji3LgfB_kamw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cd89f555eb5773d31nR92Ni9FFJY",
+      "encryptUserId": "94d8d19086999bf003B82t64F1Q~",
+      "invalidStatus": false,
+      "jobName": "java初级工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.spring boot开发\n2.熟悉掌握io，线程，tcp开发\n3.熟悉oracle，mysql，pgsql等结构化数据\n4.了解k8s相关知识\n5.了解elasticsearch，mongodb，redis等非结构化数据库\n6.了解kafka等消息中间件\n7.熟悉react框架开发",
+      "encryptAddressId": "ee9b6ce014a7c6551HR-3d69E1Y~",
+      "address": "南京雨花台区云密城K栋4楼",
+      "longitude": 118.750727,
+      "latitude": 31.96928,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d0fd544e512624c0039a3c912972f96",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/479be51b8aa656e64da2d8e3032746d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "Node.js"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "亿维魔方",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8cc7362fffd808bc33dy39y1Ew~~",
+      "brandName": "亿维魔方",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210709/b3f07c70910fb810705ba3d12ccee6e7fb7d903b7e9b974d4818e0f6d2d5883b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京亿维魔方数据技术有限公司成立于2019年，是一家专业从事数据集成产品与服务提供商，公司自主研发的Malacca数据集成引擎，致力于帮助行业客户解决数据互联互通、数据集成和数据应用的问题，公司针对医疗行业具有医院集成平台、数据中心、数据标准化、数据应用等全线的产品线，以及医疗IT咨询规划服务，为医院、医疗卫生行政部门等提供整体集成解决方案。  \n        亿维魔方是一家年轻、充满朝气的高科技公司，公司技术团队成员来自于一线互联网公司及医疗信息化知名企业, 在数据集成、数据治理以及医疗信息化行业具有丰富的经验，产品研发及项目实施服务等技术团队人均超过10年以上的行业经验积累，曾为国内多家大型三级医院提供整体的数据集成产品与服务，对于医疗信息化咨询规划、医院互联互通成熟度评测、电子病历应用水平评级等具有丰富的实战经验。\n        公司一方面继续强化在行业场景下的业务经验优势，另一方面充分汲取互联网思维和技术能力，使公司产品具备很好的技术先进性，同时具有行业业务深度和易用性，真正为行业客户解决数据集成应用的需求，帮助客户加速数据利用和数据价值释放！\n\n        公司产品采用完整的技术中台解决方案，基于云原生（微服务、容器化、DevOps），提供开箱即用的技术组件和产品，快速部署应用，以主流开源技术栈为基础，非侵入式定制，确保标准化、开放性、定制化能力和可持续升级，避免绑定平台/客户，全面提升IT对业务的匹配和支持能力。\n        Malacca数据集成引擎产品采用新一代声明式的服务总线技术，基于租户概念的设计和k8s容器编排技术，能够很好的进行服务资源的隔离和动态扩容，保证集成平台产品的稳定健壮性，通过Docker、Redis、ElasticSerch、Keepalived+Nginx、xxl-job等技术的运用实现产品的一键化部署、灰度发布、故障转移，负载均衡、平台集群化管理、可视化运维、高效检索等功能优势。\n        除此之外公司还具有数据标准化、主数据管理、身份主索引、数据中心、临床共享文档管理、患者全息视图，决策支持系统等全线数据集成及数据应用产品。\n        通过全新的技术和业务架构，整合机构内外部各类IT能力、资产和数据，使得更为复杂、新型的业务模式创新在IT层面得以支持。提升业务需求的响应度，业务的全面互联互通、数据资产的沉淀积累，数据价值的体现释放。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1716725941907,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿维魔方",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

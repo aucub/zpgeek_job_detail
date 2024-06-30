@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B0x6DhgRqsAJ0-T1yheoyfZgA-yjSDK7dry7sFSwqbDUAVedW9ja0IMsfS28Dj-Eg_gDHkDMxMzk9iUYUz9C41mUrCc7H0xhb0-_k0NNOVd8fARE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ab5ab8c75e073091nx73dq-GVVX",
+      "encryptUserId": "cc2970ed4e6c8bcd1XV-3t68",
+      "invalidStatus": false,
+      "jobName": "宝马初级java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.1-3年Java开发经验\n2.有使用Java主流框架的项目经历，掌握常用的设计模式； \n3.熟练使用Spring、Mybatis、Spring Boot、Spring Cloud等框架；\n4.熟悉Java多线程、Redis、MQ等技术；\n5.掌握PostgreSQL、SQL Server等关系型数据库及非关系型数据库；\n6.有良好的英语读写能力；\n7.参与过分布式系统项目优先。",
+      "encryptAddressId": "a7eb0c8c1d183d841nx73t61FVM~",
+      "address": "南京浦口区南京软件园·创智大厦B9901",
+      "longitude": 118.696963,
+      "latitude": 32.155846,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7997301dfa9925b53b8bba8254f91c8c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/452944bdc00fdbfa43a1504ce3c8cb30",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "Redis",
+        "NoSQL",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191022/08016947be58bdc750fa5ec3ceded1f1646a90c790a9d95a687c16fbbba_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京有恒科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abefe368e63de49a1nxy39-_E1E~",
+      "brandName": "南京有恒科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717067968116,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京有恒科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

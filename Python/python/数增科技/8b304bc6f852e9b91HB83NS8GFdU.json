@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k2wGVCp1R7DR9-E1Z2GuTh_082lINcKMJQHakowjXGck4oLFrbpMG3mBk5TUbVRr587NoliPi8QQV-A-jOT4X1LRvehI4PeFlAj2fXONCVxjw8CzjuU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8b304bc6f852e9b91HB83NS8GFdU",
+      "encryptUserId": "830da8a0cbf524041Hd839q0FVs~",
+      "invalidStatus": false,
+      "jobName": "python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 精通Python和主流web框架，熟悉asyncio。Java或Go经验者加分。\n2. 全面了解后端技术体系，包括但不限于缓存、消息队列、负载均衡、搜索引擎、存储\n3. 精通SQL，了解数据库事务、索引和存储引擎。数据库设计和SQL优化经验者加分。有NoSQL、Hadoop、Cassandra和ElasticSearch开发经验者备受欢迎。\n4. 熟悉k8s及其生态，能独立部署和维护k8s服务。Linux系统经验者受欢迎。\n5. 了解分布式系统架构和原理，具备开发开源分布式系统经验者备受青睐。\n6. 具备快速学习新领域的能力，能维护个人技术博客。具备阅读、学习英文资料的能力，积极参与开源社区项目和讨论者备受欢迎。",
+      "encryptAddressId": "99880966680aa7990Xx72Nu6GVBTw4i5U_8~",
+      "address": "武汉蔡甸区武汉经开区人工智能科技园R栋",
+      "longitude": 114.146845,
+      "latitude": 30.480692,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45fcccc0651812fa0c76a96147098fb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdd35203215a077ea27978ca33f0db64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Flask",
+        "Numpy",
+        "Pandas",
+        "MySQL",
+        "Spark",
+        "Hive"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "高级运维工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180105/82058a3b5741e589846d5e17e01025ca9904341a3cb63623aba3141204e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "数增科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e7e597922bb0c13a1n143N26EFc~",
+      "brandName": "数增科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "数增科技是一家大数据咨询及产品服务商。公司具有在大数据行业20年的经验。",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1719632417916,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数增科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

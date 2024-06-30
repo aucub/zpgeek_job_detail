@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AQD6JuaqFa1lK-61n4djo4f77YmItVeIcc4q4wmOR87eBfdCK6DWT7_kNdsbvJk5zm-2n519BAkkD2Hn0PzoAX5193TM0FiB_Ear3vS8-4K-pQK7fD-ooRCNwGUF12oNZl_KKuRDgtlbRg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1de0bccbad99f76c1HRy2du0ElZZ",
+      "encryptUserId": "68d1455744e1bf960n1-29S5FFdW",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 管理和维护Linux操作系统，包括安装、配置、更新和性能调优；\n2. 使用Docker技术进行应用程序的打包、发布和运行，确保系统在不同环境中的一致性和可移植性；\n3. 负责公司产品的部署、维护和优化，包括基于Docker的容器化部署和管理，容器编排工具的使用，如docker-compose、kubernetes；\n4. 跟踪容器相关的技术发展趋势，关注新技术和工具的应用，提出相应的改进和创新方案；\n5. 撰写相关的技术文档。 \n\n职位要求：\n1. 全日制本科学历，3年以上相关工作经验，接受出差优先；\n2. 具备扎实的基础知识，熟悉Linux系统操作和常用命令；\n3. 熟悉Docker容器技术，具备容器化应用部署和管理经验；\n4. 熟悉容器编排技术，如docker-compose、docker swarm、kubernetes等，能够进行集群管理和自动化运维；\n5. 有DevOps实践经验，熟悉CI/CD流程和工具，如Jenkins、Git、Ansible等；\n6.熟悉监控系统和自动化运维工具的使用和配置，如Zabbix、Prometheus、Ansible等；\n7. 具备一定的编程和脚本能力，熟悉Shell、Python等脚本语言；\n8. 具备故障分析和排查能力，能够快速定位和解决问题，善于总结并提出改进措施；\n9. 具备良好的团队合作精神和沟通能力，能够与开发团队、运维团队和其他相关部门有效协作。",
+      "encryptAddressId": "1e0ab3106f321d833n1_0967Fls~",
+      "address": "广州天河区方圆E时光东座1302",
+      "longitude": 113.372452,
+      "latitude": 23.125973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bfb90e408dc4d02f8d1295a3f071b6c3276bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bf851292899d0eb6ec2f132bfa08219d8f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "DevOps/CI/CD",
+        "实施交付运维",
+        "私有化部署",
+        "Docker",
+        "docker/k8s",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邱女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "享娱科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4cc09998c4151c0b1XJy2Nm9FFs~",
+      "brandName": "享娱科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "广州享娱科技有限公司成立于2019年，公司主要业务涉及品牌电商运营、品牌孵化、网红孵化，商务合作、品牌数字营销、IT解决方案等，以食品（休闲食品、三农、大健康食品等）大健康品、保健品、服装配饰、鞋包、美妆、IP运营、异业合作等多个垂直领域内容创作为一体。公司小伙伴多数为90后和95后，团队氛围轻松，扁平化管理。",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1719317204488,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "享娱科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

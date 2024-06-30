@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xfI7hb9L1ynu6-y1DrG7JsWhDIi8dBA2Mqouxrgd7TsJmQhaMS-losLAGwWiKSOrnNpeNXB9jj81wo3YrMg6-PD2eJpQ2CJWHxPPXxFn-GHdBpq_jHm_lBoMstluxI9ip74tXryjQAsM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1c1cc7f183b2c9bd1nJ92t6-EVdX",
+      "encryptUserId": "aa318f462f2b55090nV70tu6EVZZ",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1.负责容器化平台的运维、开发及容器集群的维护。 \n2.为公司容器化产品提供支持，推动容器技术在生产环境中落地实施。 \n3.进行Docker关键技术的应用、研发和优化，实现动态容器负载均衡和性能提升。 \n4.负责Kubernetes等编排服务框架的开发和维护工作。 \n5.撰写相关的技术文档。 \n任职要求： \n1.本科学历，3年相关工作经验。 \n2.深入理解kubernetes、docker等容器技术，熟悉云原生生态体系。 \n3.掌握 kubernetes ，mesos等编排服务框架，能对其进行二次开发。 \n4.熟练掌握Java/Spring开发，有Golang、Python开发经验优先。 \n5.熟悉Docker的生态体系，对于容器技术有浓厚兴趣。",
+      "encryptAddressId": "c5aa6311edb60cc43nV639i7F1A~",
+      "address": "广州天河区方圆E时光东座1302",
+      "longitude": 113.372452,
+      "latitude": 23.125973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bfb90e408dc4d02f8d1295a3f071b6c3276bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230512/48ba41acc9cef1bf851292899d0eb6ec2f132bfa08219d8f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Docker",
+        "运维经验",
+        "负载均衡技术",
+        "k8s",
+        "容器技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "江女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240228/607f1f3d68754fd0364ec97821085f43b443d7207d0a983b621fb9705a3e5e0867f2fa83a30fc1f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "趣渔科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79f400de5189691603J_3ty4EQ~~",
+      "brandName": "趣渔科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "趣渔科技有限公司是一家专注于提供一站式私域流量解决方案。拥有全栈自研的技术解决方案。旗下产品广泛应用于互联网+企业、家装、金融、教育、线下连锁门店、医疗、电商等行业。核心成员均来自知名互联网企业，合作的客户包括中国电信、土巴兔、轻松筹、平安金服等知名企业。我们提倡亲切、开放、严谨的工作态度，营造轻松和谐、富有激情的工作氛围，期待您的加入。",
+      "labels": [
+        "全勤奖",
+        "交通补助",
+        "底薪加提成",
+        "年终奖",
+        "生日金"
+      ],
+      "activeTime": 1716782681495,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "趣渔科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

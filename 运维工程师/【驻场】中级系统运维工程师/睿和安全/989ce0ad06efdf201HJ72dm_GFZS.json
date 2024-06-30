@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "i2yiN0EIvqS37-L1qJoMeuQ8pNar1wzAj9DYjVBikGuBKU_ZUGRuRXCwwGlOu1kvkJBWhyli2k6LvoSlC9npV8lfyyw-P_wlQL7XlRKdacG0uKnvGBRlidGJbGlQ66LQOApia4M85HSC",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "989ce0ad06efdf201HJ72dm_GFZS",
+      "encryptUserId": "2fc79ffdf289c30a0nR_0927F1pX",
+      "invalidStatus": false,
+      "jobName": "【驻场】中级系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.资产管理包含IDC和全园区设备盘点\n1)定期对数据中心（IDC）和园区内所有设备进行物理盘点，确保设备数量与记录相符。\n2)使用资产管理软件记录设备的序列号、型号、配置、位置等详细信息。\n3)维护CMDB信息，记录责任人、IP地址信息\n4)对于新购置的设备，及时进行登记并更新资产数据库。\n5)对于报废或移除的设备，执行资产注销流程并从数据库中移除记录。\n6)定期进行资产价值评估，确保资产折旧计算的准确性。\n7)维护设备维护记录，包括维护日期、维护内容、维护人员等信息。\n8)服务器硬件和系统层日常维护：\n\n2.服务器硬件和系统层日常维护（含600多台服务器）\n1)执行服务器硬件的定期巡检，包括风扇、电源、硬盘等关键部件。\n2)对于硬件故障，及时进行更换或维修，确保系统稳定运行。\n3)负责服务器的上架工作，包括硬件安装、系统配置和网络连接。\n4)实施故障响应机制，快速定位并解决服务器故障。\n5)配置和维护服务器监控系统，实时监控硬件状态和性能指标。\n\n3.虚拟化vsphere、hyper-v日常巡检和故障处理\n日常巡检：\n1)检查VMware vSphere环境的健康状况，包括资源使用情况、性能指标和系统日志。\n2)确保虚拟机（VM）配置正确，包括内存、CPU、存储和网络设置。\n3)监控虚拟机的备份状态，确保数据备份的完整性和可用性。\n4)检查虚拟网络和存储配置，确保网络连通性和存储性能。\n5)更新虚拟化平台的补丁和固件，保持系统安全和稳定。\n故障处理：\n1)对于虚拟化平台的故障，快速响应并进行故障诊断。\n2)执行必要的故障恢复操作，如VM迁移、存储恢复等。\n3)分析故障原因，制定预防措施，避免同类问题再次发生。\n4)提供故障处理报告，记录故障详情和处理过程。\n\n4.监控中台维护工作，业务监控统一推送各产品线\n1)设计和实施监控策略，确保关键业务系统和服务的高可用性。\n2)配置监控工具，实时收集系统性能数据，如CPU使用率、内存利用率、磁盘I/O等。\n3)设置报警阈值，当系统性能异常时，及时通知运维团队。\n4)分析监控数据，优化系统配置，提升系统性能和效率。\n5)定期审查监控策略，根据业务变化调整监控重点。\n6)提供监控报告，为管理层提供系统运行状况的可视化展示。\n\n任职要求：\n1.专业认证：持有RHCE或HCIP等中级以上认证。（有最好，无也可，但要有经验，不接受无经验、实习生）\n2.Linux系统管理：熟练进行Linux系统操作，包括网络配置和磁盘管理。\n3.脚本编程：精通Shell和Python脚本，用于自动化任务。\n4.硬件维护：了解主流服务器硬件，能进行日常维护和故障排查。\n5.虚拟化技术：熟悉华为FusionSphere、腾讯云、KVM、VMware vSphere等虚拟化平台。\n6.存储技术：具备基本的存储系统知识。\n\n其他：\n1、上班地点：在知识城：CVTE第五产业园\n2、人员要求：大专毕业2年以上或本科\n3、上班时间：早九晚六（双休+节假日放假）",
+      "encryptAddressId": "36a142ff0ddd066b3nR72ti0EFpSyoW8Ufg~",
+      "address": "广州黄埔区广州视源创新科技有限公司CVTE第五产业园广州视源创新科技有限公司CVTE第五产业园",
+      "longitude": 113.518404,
+      "latitude": 23.365697,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21965b1987d012816ee8885bd76d9b6e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4fd31aaa0b2c2e364fb3ed76188e1ad1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "熊先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "睿和安全",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c4b077a651bbfb8533F729i1EQ~~",
+      "brandName": "睿和安全",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "广州睿和安全科技有限公司是一家一网络安全为主的高品质、好服务的民营企业。公司自2020年创立以来，一直致力于网络安全方向，始终以“诚信、专业、沟通”为企业宗旨，以“优质服务、团结与共”为立业之本的团队精神。并形成了一套完成的考察了解、导向沟通、解决方案、相互合作、跟踪完善的一站式服务体系。\n  其中我们的服务内容包括：信息技术咨询服务;数据处理和存储服务;计算机房维护服务;信息系统集成服务;软件开发;人工智能算法软件的技术开发与技术服务;信息电子技术服务等。\n    公司与国内众多政府部门、大型国企建立了良好的、稳固的合作关系，公司也在逐步形成强大的人才、技术优势。先后成为西安未来国际科技有限公司、穗能通、南方电网、各地市供电局、北京绿盟科技有限公司、华大基因、汇丰银行等各大国家企业的亲密合作伙伴。公司拥有一支朝气蓬勃技术全面的技术团队，其中高学历人数占百分之90以上。在国家护网、各地市网络安全方面取得优异成绩。扎实的技术水平、知识储备，以及年轻朝气的学习性团队，定将为您提供更专业的技术支持与服务。\n  公司本着以客户三个满意为基本原则：“质量满意、技术满意、服务满意”  不断加强企业内部的综合竞争力，公司在竞争中求发展，在挑战中谋机遇。相信我公司会给您提供最完整全诚信、专业、沟通”为企业宗旨，技术支持。为您提供最优质的技术服务。“诚信、专业、沟通”是企业宗旨。",
+      "labels": [
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "五险"
+      ],
+      "activeTime": 1718892536588,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "睿和安全",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

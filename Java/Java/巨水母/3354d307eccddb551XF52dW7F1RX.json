@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1B6gR7OUBShwU-r1omR4tWlmuOmpQh9i0vRxPGDmI6GPQ-wX0roVtovzxi2J-e3bhILYLjPsmLFKQVVo5RojJY3bG2ODNeaHSC-XNUatm4THZ93iEuP0",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3354d307eccddb551XF52dW7F1RX",
+      "encryptUserId": "5030c1974a3792f00nF939m_ElVV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与需求调研和需求分析，相关技术撰写文档工作；\n2、参与系统功能设计和数据库设计；\n3、负责配合协助解决日常工作中的技术瓶颈问题；\n任职资格：\n1、熟悉Git,Maven,Jenkins, 能够独立完成项目骨架搭建 和分布式项目Jenkins发布配置；\n2、熟练掌握linux操作系统，对常用命令运用娴熟，能够根据实际需要快速编写shell脚本；\n3、熟练掌握JavaEE系统架构SpringBoot等相关技术架构，掌握dubbo、spring cloud优先；\n4、熟练应用Oracle、MySql、SQL SERVER之一数据库的软件应用开发；\n5、具备企业级项目经验，包括工作流/表单/集成等，有互联网2B经验优先；\n6、熟练应用Redis、MongDB、ES 等Nosql数据库的开发；\n7、熟悉RabbitMq,RocketMq\n8、具备独立分析和解决问题的能力，有较强的沟通协作能力、抗压能力；\n9、项目需要与客户当面沟通，调查客户情况，有经验者优先",
+      "encryptAddressId": "72ec4dcffcbe29251nd52N21FlVW",
+      "address": "成都武侯区环球中心-E2环球中心2栋一单元1408",
+      "longitude": 104.065084,
+      "latitude": 30.568146,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf171b607a9faddae596d1a96db86e6a096bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf175d60d924257a98ef274e19636c35816bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "巨水母",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d5e611b3d33c7a261nd82dy7GVA~",
+      "brandName": "巨水母",
+      "logo": null,
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1719310464875,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "巨水母",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jubg5IYe9baL--q1ui9e_3V16Npqxs0VvkZXp1p0DiGWptWcqQo0ON50_1aBYpGvgwlJUprB3MynQT3hy9sHPtbTuN2aFwdxNVOX6LRam-ddw9P_60w~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "efe3cedeab389deb1Hd53d61FldU",
+      "encryptUserId": "c8013fb0296396521HBy09q8E1s~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 根据业务需求，实现接口业务逻辑，编写接口文档；\n2. 配合性能测试优化代码和sql； \n3. 处理日常bug和在生产发生的紧急问题；\n4. 日常版本的发布及紧急回退；  \n5. 参与新需求评审；\n6. 参与产品设计。\n\n职位要求：\n1、本科以上学历，计算机相关专业，\n2、有2年以上JAVA编程、界面开发的实际研发经验，熟悉设计模式，\n3、熟练使用IDEA、Eclipse、NetBeans等主流开发工具，熟悉Spring-boot，Mybatis，并能熟练运用相关的框架进行编程；熟悉docker，熟悉微服务架构，有Http后台服务开发经验者优先。\n4、至少熟悉以下服务器中的一种：Tomcat/Nginx/WebLogic/JBoss/WebSphere；\n5、熟悉MySql、MS SQL Server、Oracle等主流数据库系统；\n6、具有规范的开发文档写作能力及良好的分析问题及解决问题的能力；\n7、有较强的学习能力和责任心，能够承担一定工作压力；\n8、具备极强的团队合作精神，具备良好的表达和沟通能力。\n9. 熟悉前后端分离开发模式，具有良好的面向对象编程思维、良好的编程习惯和代码风格。",
+      "encryptAddressId": "a532b484f3bdfc3b33dz2tm6FlQ~",
+      "address": "北京朝阳区元辰鑫大厦E1座1",
+      "longitude": 116.385861,
+      "latitude": 39.974181,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f609a56fbb77b6823b2d92a8ad75fc09",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40786c6797699f7b184fb0718c89c305",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "Oracle",
+        "微服务经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "青岛软件所",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2eb9064c467ed39c1nx62dm5E1A~",
+      "brandName": "青岛软件所",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "青岛工业软件研究所（以下简称“研究所”）成立于2013年7月，前身是中国科学院软件研究所青岛分部，是以中国科学院软件研究所工业软件、制造业信息化等领域技术研发团队为主体组建并部署到山东青岛的工业软件研发培育转化基地。\n研究所主要从事工业技术软件化方法、工具环境和服务模式研究与开发工作。旨在通过工业技术知识的模型化、软件化封装，实现工业活动链条知识沉淀、自主可控，保障国家产业安全；通过推动工业基本活动的数字化，实现研发设计、生产制造、远程运维、经营管理等关键环节的数字孪生，促进行业制造资源共享，推动区域工业企业协同，培育工业领域数字经济。\n研究所先后承担或参与了国家科技重大专项、科技部重点研发计划、工信部智能制造、发改委“互联网+”重大工程等近15项国家级项目。面向海尔家电、中车四方、潍柴动力、山东能源等大型制造企业的具体需求开展合作60余项。\n研究所建立了面向最终用户的工业软件赋能服务平台，初步形成工业软件培育环境。能够为工业企业提供装置设备物联、工具软件共享、主题数据洞察、技术知识协同、软件定义环境等基本服务，实现了设备、软件、数据、知识等企业基本资源的复用、共享和协同，成为有效整合国内碎片化工业软件资源、满足工业企业柔性需求的群智协同型工业软件生态环境。",
+      "labels": [
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718186066000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛软件所",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uKIJqFITWndZp-y1Tz74cBloSnazFGfhvRDmhaRPd4DCkBKSxJ6_fLY7sr9bGPl0k9pxy_-R5Nm7s8H2o58KzSp1KVi6k3YEkOXn3n1S8DrB1t8Nsc05",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db0dd750ad9a8c2c1Xd-3ty-ElNV",
+      "encryptUserId": "13398ddc02b44f330nB909q0FVdS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、JAVA或安卓基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；\n2、 2-3年及以上使用JAVA开发的经验，对于你用过的开源框架，能了解到它的原理和机制；对Spring cloud, ibatis等开源框架熟悉；\n3、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题；\n4、掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验；\n5、掌握Linux 操作系统和大型数据库（Oracle、MySql）；对sql优化有丰富的经验；\n6、学习能力强，适应能力好；具备耐心/细心的品质；\n7、喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；\n8、具有供应链、ERP、仓配体系经验优先",
+      "encryptAddressId": "50dc4f5294e65bf50XBy29S1FVc~",
+      "address": "杭州上城区西湖银泰4楼",
+      "longitude": 120.164801,
+      "latitude": 30.244023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/396d38233eafb7a8f59518096afdd49b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3a95c1a466bfcd6f5789d61f38be57b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "Linux",
+        "Android",
+        "Spring",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "繁胜科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c4aeb279aac4df1c1ndy3N-1E1s~",
+      "brandName": "繁胜科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210414/b4a43ec136eae2821d2d9afd8af24b41269b8c285325351ddcf01c22df65764e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100510,
+      "industryName": "装卸搬运和仓储业",
+      "introduce": "繁胜AI科技是一家专注于供应链管理、企业数字化转型、绿色降碳赋能的综合解决方案公司。\n\n繁胜AI科技依托大数据，利用 大云物移智链 等相关技术，以“智能AI”为核心，推出 “管理咨询服务”“智能硬件采购服务”“运营管理软件”“决策支持软件”“运维建设服务”企业级服务产品。\n\n总部设在杭州，成立于2005年，是国内最大跨产、学、研联盟的电力物资供应链综合解决方案服务商，立足于能源行业，覆盖200+家全国客户，致力于物资需求驱动的供应链管理模式创新和数字化转型。以管家式主动服务为宗旨，落地在能源企业中的综合应用和研究。",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1716715991415,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "繁胜科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

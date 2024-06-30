@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uoEU2Iaq7juR4-J16lcxejL9RNiInHu_gb_qHO4Qe9L0DFj4JlW5IKK8tIyFdN43jZeSwAf4ZvseKEmbcM-Zm0bFfXUbzDaVuKWnTeafWXEIjrYr-xgFd-ZPPMIyiDhD9pFvu2OHYGxk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8905b63ba078c6e91HJ92N66EVdU",
+      "encryptUserId": "a87adc531952431e0nV62dq1GFo~",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\t\n1. 作为团队核心成员，参与需求评审，提供技术解决方案并参与落地。\n2. 单元测试并改进，对现有的系统和应用进行梳理重构，抽象出底层业务模型和能力。\n3. 负责车险、意健险开发相关工作。\n4. 紧跟前沿技术并定期交流培训，积极尝试新技术在应用上的探索。\n岗位关键挑战\t\n1. 了解保险行业知识，能快速学习，掌握业务知识。\n2. 熟悉领域建模，具备高并发编程能力\n3. 具备POC方案落地能力\n\n任职资格\n1. 本科及以上学历，计算机相关专业；\n2. 1年以上工作经验，良好的编程习惯；\n3. java基础扎实，精通io、多线程、集合等基础框架，了解jvm；\n4. 熟练使用springmvc、spring、spring cloud、mybatis等常见框架，熟悉机制和原理；\n关键经验\t\n1. 有过大型项目或者高并发系统设计开发经验优先\n2. 要保险核心项目系统设计开发经验优先",
+      "encryptAddressId": "8a0568d3503649fd1nJ_3dq-EA~~",
+      "address": "杭州拱墅区中华保险大厦505号",
+      "longitude": 120.146513,
+      "latitude": 30.294105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac9a3e94153e7d9641b9ca15f947aefb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67ae06ecf5e82f317a6343b8d241ec1d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220923/607f1f3d68754fd0551a5589e6386796edf975f6a790e6523675a66e3d84ea5f68c5ffe721b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "馨橙科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/106595933d5d5266e549d27df09c94eeafa57f1b9e07a647f8c4bb919f5863fe.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2f450c71096c5b9c1nZ-2dW7GVY~",
+      "brandName": "馨橙科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201020/14765794e06ea2a35a3a50b3da996b26042524a61599988d921e95af9ce71128.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "2017年，上海馨橙网络科技有限公司核心团队来自阿里、中软、软通等国内知名IT企业，团队拥有多年互联网平台建设项目咨询规划、实施开发与运维服务经验，核心业务是为技术研发型企业提供人力外包，项目外包开发业务",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1719482404662,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "馨橙科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

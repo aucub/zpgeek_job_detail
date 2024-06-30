@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sBq2fTkVxfAje-C1JOPrm98zu15FbOf3wCeBoLe0jIa9OqAC-CgRtzeh3JZARPaD_6K7hzMl7aC7PQd42OpzcD12NG0NtK_fv7P7A5UvHHtyAINqfP4N",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "37bf3f7de98507f91HBz3d-8EFpY",
+      "encryptUserId": "cfca4a70fe5919261nZ53tu5ElpS",
+      "invalidStatus": false,
+      "jobName": "java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业，1-3年以上Java开发工作经验，注重代码质量，了解软件工程知识和编码规范意识；\r\n2、了解JVM的原理，了解JavalO、多线程、网络等方面的应用知识；\r\n3.了解主流互联网微服务架构理念、实现技术；精通前后端分离架构、api网关、微服务框架Springboot、MyBatis等主流开源框架；\r\n4、熟悉mysql、db2、oracle、mongodb、elasticsearch等主流数据库；\r\n5、熟悉CommonJS标准，对Requirejs或同类型加载器的原理和使用有一定经验；\r\n6、熟悉一门Web服务器端编程语言（如Node/Java），并有相关项目经验；\r\n7、前端框架：掌握常用的前端框架，如React、Vue、Angular等，能够使用这些框架进行快速开发。\r\n8、具有较好的沟通能力，思路清晰。",
+      "encryptAddressId": "744623c2320bf1a20nVz3Nq7GFc~",
+      "address": "武汉青山区印力中心27",
+      "longitude": 114.388288,
+      "latitude": 30.631466,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/715374b02429ffceee11dfa0e19aec0c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d632e48187b6311c994ac59f0c054370",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "Elasticsearch",
+        "MySQL",
+        "Oracle",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "简女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "泰邦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8595f3cfb190ba041nx529y-F1s~",
+      "brandName": "泰邦",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211109/7bf6f160950405e9c38471a746e9b38a81bdd1ec4c94205a74f40bae47f9a96924651bcb95b5c22a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "泰邦（武汉）技术有限公司（简称：泰邦）成立于 2014 年，是一家专业从事软件开发、系统集成、运维服务、软件外包服务、劳务外包服务的技术服务公司。我们拥有高素质、专业的技术人才； 拥有高效率、重信誉的服务队伍；拥有整套规范、完整的服务体系。致力于为客户提供物有所值的服务解决方案。\n       公司一直秉承“创新发展、以人为本，诚实守信、服务社会”的经营理念，一如既往的做好技术服务工作，为员工和客户搭建了完善、便利的交流平台，以优质的服务和良好的信誉赢得了客户和员工的广泛好评与赞誉。我们以感恩之心回馈社会，以专业的团队、优质的服务、丰富的经验，致力于打造中国最专业的技术服务公司。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1717103924169,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泰邦",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

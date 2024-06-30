@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ylhaCmU6f8YWU-31W8BWyQfgh_Tlc3K3eKLleXJc9r4J9vB5YEbY3aPpeCzw2CQmu6mj7qTcivSOrf12X_M_PTKI6XXAXASk949gEBh1Qo5X6m9AdJs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "344fd7eec5b1f9271HB73t27EFZS",
+      "encryptUserId": "618a244396ab0af93nBy39m9FFc~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟练掌握主流linux发行版本的应用及维护\n2. 熟练使用常见应用及服务，包括且不限于Nginx,Mysql,Redis,Docker,K8S,Prometheus,Grafana,EKL,MQ\n3. 有较好的开发能力，能熟练使用Shell,python，go等主流语言开发运维工具，并解决运维工作的实际痛点。\n4. 熟练使用k8s或有过生产环境落地k8s经验优先\n5. 有较好的虚拟化经验，良好的掌握esxi,openstack,cloudstack等主流私有虚拟化方案\n6. 有完整落地的ci/cd经验，熟悉主流的ci/cd工具,jenkins,gitlab,bitbucket等\n7. 熟悉主流公有云平台使用和维护，熟练使用aws优先\n8. 熟悉运维自动化或有相关自动化经验优先，有saltstack,Terraform经验为佳\n备注：可居家办公",
+      "encryptAddressId": "e8d1857ad48c23580XR-2dm_F1dTy429Vf0~",
+      "address": "长沙岳麓区环创企业广场C1栋",
+      "longitude": 112.816383,
+      "latitude": 28.237181,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/494a2be7c5962c19f6811b1cb740ea19",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b558465db63f651ea263ffdc4e209f89",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL/Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230605/607f1f3d68754fd098a38e39b6362d6adb07a6986f0ee84a75435a0b77a33479bf194f6e524_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "吉特博通科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3194fe74b1d456021HR92di_FlY~",
+      "brandName": "吉特博通科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231020/7bf6f160950405e992d3885b638da96ce451fadbc0f94ce3d4f503d9182bb7a17946ffdeef7c1404.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "已成立10年+的外企分部，全球分布式办公。公司专注于海外科技创新项目的金融投资，如：web 3.0 、元宇宙、NFT等创新项目，在丰富多变的行业环境中努力开拓，公司团队年轻充满活力，是一个成长迅速的团队！",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "夜班补助",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719661339137,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "吉特博通科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

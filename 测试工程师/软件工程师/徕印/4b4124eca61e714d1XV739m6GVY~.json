@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pGPkk3ww3CJsK-61dFYLD9V5otwCTlThNPuJkDT7NQQuYTxdBHVccrXYMKWGHpuxzHJe6I21hlq1_m2DD7OTDHvenbk2H6Gf-PCqzOvZlDqbt70yOhb4yUvnIx57BM3C3zKtjPjJnQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4b4124eca61e714d1XV739m6GVY~",
+      "encryptUserId": "edd86738404063921HB_2d28Flo~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机科学本科或同等学历。\r\n2. 使用Python和Node.js的经验。\r\n3. 在AWS上使用EC2、RDS、S3、ELB、云信息等建立和维护生产系统。\r\n4. 熟悉shell命令，如sed、grep、awk、wc、comm和正则表达式。\r\n5. SQL语法知识和RDBMS(PostgresSQL,MySQL)和NoSQL(Mongo,Couchbase等)的经验。\r\n6. 使用Git、JIRA和敏捷开发过程(如SCRUM)的经验。\r\n7. 良好的英语书写和口头表达能力。\r\n8. 组织能力，善于判断优先级和跟踪多个正在进行的项目。",
+      "encryptAddressId": "7f695b7f1d00688c33d62Nm1Eg~~",
+      "address": "杭州拱墅区杭州北部软件园祥园路171号杭州国际人才创新创业园1幢801室",
+      "longitude": 120.111661,
+      "latitude": 30.336712,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f797f3c4f9d460d185371a4e14d51072",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41d11d1ed12c4f37cb157e2c01becaf2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "ios测试",
+        "android测试",
+        "软件测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "申屠名声",
+      "title": "运营",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180222/c148e572ad23daad47a55a5322a2bc0ecfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "徕印",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b2043273b90efd891nB829W6Fg~~",
+      "brandName": "徕印",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180605/2ff1a3bd101cb7178061f66756cedfe7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100013,
+      "industryName": "社交网络",
+      "introduce": "www.lifeprintphotos.com",
+      "labels": [],
+      "activeTime": 1717127863170,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "徕印",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

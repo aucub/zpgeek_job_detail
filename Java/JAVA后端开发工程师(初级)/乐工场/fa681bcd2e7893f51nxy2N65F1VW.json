@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U5sLJwnszltxB-l1S7jN6_VBLcp5eG0v9rImshhw-nJMvb1U_0BxFM74-Lr_GfeFTAsoUV2TsVOVktzRJp1NnV8I9OwaY60yN7h8MASnb-ODT-ZpCw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa681bcd2e7893f51nxy2N65F1VW",
+      "encryptUserId": "9ddfb5a009f6c7b41HJ62N6-Flo~",
+      "invalidStatus": false,
+      "jobName": "JAVA后端开发工程师(初级)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、参与服务器业务的设计和维护；\n2、根据业务需求，封装高性能，通用性好的程序组件，设计并实现技术解决方案；\n3、按照项目进度，根据项目需求和设计文档完成项目的代码开发；\n4、按照要求，编写相应的项目文档。\n\n技能要求：\n\n1.本科以上学历，1年以上经验，具有一定的英语读写能力，能阅读英文文档，听说能力好的优先；\n2.有一定的JAVA开发能力，对多线程、线程锁、内存管理等常用知识均有了解；\n3.熟悉SQL、NoSQL的数据库，有My SQL、SQL server、Oracle等任意数据库的实际操作经验；\n4.熟悉Spring、Spring boot、Apach Tomcat等常用架构；\n5.熟悉SSM架构，有过一定开发经验；\n6.掌握HTTP协议，了解HTTPS，对常用的加密算法如MD5、base64、RSA等有一定的掌握；\n7.必须拥有良好的代码习惯，要求结构清晰、命名规范、可读性强、代码冗余率低；对新技术或者开源项目具有较强的学习能力、使用能力；\n8、有较好的学习能力、可塑性，特别优秀的考虑应届毕业生。",
+      "encryptAddressId": "3c99eba8fd3020d61XV63Nq0E1M~",
+      "address": "长沙岳麓区麓谷国际工业园7层8715室",
+      "longitude": 112.874511,
+      "latitude": 28.218444,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b477940957713f30bd8094a28e7254cd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b389e3cdcd485de88c5ea124895b7767",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "多线程",
+        "Spring",
+        "SSM",
+        "Oracle",
+        "后端开发",
+        "MySQL",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "井先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180315/b1fc526b3040c4f2949c8e85da825201cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乐工场",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2fa887afe87e598a1nJ73di9Fg~~",
+      "brandName": "乐工场",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210528/d91abbccb351cc54e97b0bd99d4619ae02128e839acb91de12b7f5749f36792c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "乐工场网络是正在高速发展中的支付行业新秀，公司已在多个国家为用户提供优高效的支付服务，持续拓展海外支付领域。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权"
+      ],
+      "activeTime": 1717105749247,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐工场",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

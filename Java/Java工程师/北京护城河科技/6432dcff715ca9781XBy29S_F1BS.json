@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UYtYqU3JkrdgN-a1D3c2rNOZSXhsSM5NbO-PXi6vUqT8Eh7E_V6mYFWwWNBstKItrsz3RVJ4nqw9DSbU39EpKXPjrL_tsFwt2dlDfY-TBZ_c-SIc5FBv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6432dcff715ca9781XBy29S_F1BS",
+      "encryptUserId": "fa7f14141d05bf9f0nB_3Nm7GFdZ",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 负责Java前后端程序的设计、开发、测试；\n2. 根据需求改进软件，持续进行软件用户体验、运行速度、功能等方面优化；\n3. 负责开发成果、文档的输出；\n岗位要求\n1. 计算机相关专业（计算机、软件、通信）本科；\n2.有一年以上的Java程序开发经验；\n3.熟悉面向对象设计思想，具有扎实的Java编程功底和良好的编码规范；\n4.有扎实的Java基础知识(熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息队列，熟悉JVM内存模型）；\n5.熟练使用Java编码,熟悉spring，springmvc，springboot等主流开源框架；\n6.熟悉JavaScript、DOM等前端技术，掌握面向对象编程思想；\n7.熟悉HTML5、CSS，熟悉页面架构和布局；",
+      "encryptAddressId": "adc36c1f2cc3fc500XB509W6FVs~",
+      "address": "北京海淀区e世界财富中心C座880",
+      "longitude": 116.31502,
+      "latitude": 39.98161,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4305960925f0bc59c23389435a8c0d45",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07d9c4fb1157254d597890c42c1d448",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人力资源经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=4684e2afa1bc6eb7jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95cnn105Np5vYxpS1O0mb01Z-r3KcUE5-q8WGJ7YwtV8XEL_KioECROEbaxDUVuwtkYSAHgnvoN-A5OUdLt3SMpAXYW9nWLOJukkphxQLlbi7AL60aOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京护城河科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b7746e73120a72d41XRz39-1E1I~",
+      "brandName": "北京护城河科技",
+      "logo": "https://c-res.zhipin.com/jrs/de838fd0d10cd27c7f4184de7e87e269.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "信息安全技术服务和数据安全产品的研发、销售。",
+      "labels": [
+        "带薪年假",
+        "底薪加提成",
+        "绩效奖金",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717070247063,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京护城河科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

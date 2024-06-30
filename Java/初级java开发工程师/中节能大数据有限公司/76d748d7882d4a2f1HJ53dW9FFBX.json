@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NftL0VjS9jkdj-51kKlYtAi7OeV7XB-kH6DR5t2YFW1FJ3UwwQ-sJz_ULJJlDIOdJ2My9qMBxdeE0D--uyA5C_HYFjOkD1sxyxQ6GBQq7A6Ug3mcLCKnS9YQjwsx0aZnzpIX713kNFEy-g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76d748d7882d4a2f1HJ53dW9FFBX",
+      "encryptUserId": "7d91a7538a4f16ce0XZ70t68FldU",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "公司名称：中节能大数据有限公司（中国节能环保集团有限公司全资二级子公司）\n\n公司简介：大数据公司为中国节能环保集团全资二级子公司，主业范围包括管理信息化服务业务、智慧环境服务相关业务、生态环境大数据服务相关业务、能源及环保设施智慧化运营服务、分布式网络化的零碳数据中心业务、全数字要素的数字化领域工程技术服务业务、碳中和技术数字化服务业务等。\n\n岗位职责：\n\n1.参与项目需求分析，参与系统框架，概要设计、详细设计等软件活动；\n2.根据设计文档或需求说明完成代码编写、调试、自测和维护；\n3.分析软件开发过程中的问题，负责解决程序中bug以及功能修复;\n4.配合研发负责人或项目经理完成相关项目的开发目标。\n\n任职要求：\n\n1.有1-3年工作经验，熟练掌握java基础，熟练掌握常用框架，如springboot、spring cloud、mybatis、mybatis-plus等；熟练使用Redis缓存，有相关的项目经验；\n2. 掌握分布式和微服务的基本原理，并具备一定的微服务设计思想。熟悉myslq并具备一定的sql调优经验。熟练掌握git和maven用法和相关特性；\n3.具有档案系统、财务系统、开发平台、流程引擎、OA办公等产品相关开发经验优先；\n4.具有一定的文档编写能力和需求分析能力；\n5.良好的沟通能力及问题理解能力，能够理解并处理复杂逻辑。",
+      "encryptAddressId": "76148b12512db1a70HN52t-0FFpWyou5Uv4~",
+      "address": "北京海淀区节能大厦(滨河路)6层",
+      "longitude": 116.356959,
+      "latitude": 39.951105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bfea7a77773c7411d2e4de10a08e70015b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bff154ca7d1892dc400cbcf6200908d5926bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "中节能大数据有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cbe315a1f9b0896d1HR909S4EVI~",
+      "brandName": "中节能大数据有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719305222407,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中节能大数据有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

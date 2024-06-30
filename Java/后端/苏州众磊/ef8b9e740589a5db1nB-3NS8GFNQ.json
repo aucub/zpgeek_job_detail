@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EkbF4nRE0Jexj-u1ZhsSmlZ-LohuQPb-R4i_9Oa0BXmOUpA2mZTIlZYlyzyOtJtBClRbz_WFzXxsIq9uiG9JtJOyDz7ZYQ8nYNu1LZHOKzXkMHGujT7MsZCDiJ1Fs8yilIpgku9DsoFq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ef8b9e740589a5db1nB-3NS8GFNQ",
+      "encryptUserId": "2010201778d54c9e0XZ729-0EFo~",
+      "invalidStatus": false,
+      "jobName": "后端",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、负移动云产品的研发与缺陷修复；\n2、配合完成移动云产品的技术调研与上线部署实施；\n3、协助完成移动云产品上线各项文档编写\n技能要求：\n1.熟悉Java语言编程，了解常用设计模式，有开发J2SE应用的实际经验，善于分析代码，系统调优；\n2.熟悉J2EE主流轻量级框架（SpringMVC/Spring/Mybatis），熟悉springcloud/springboot等微服务常用框架，熟悉RESTFULL接口开发；\n3.熟练掌握SQL语法，熟练使用关系型数据库，掌握Redis/MongoDB等Nosql数据库；\n4.掌握大数据主流技术和实际开发经验优先；\n5.熟悉掌握Linux系统的使用和配置，并进行各类中间件的安装和部署。",
+      "encryptAddressId": "5b49945ef013727303d70ti_EVY~",
+      "address": "苏州虎丘区中移软件园5B",
+      "longitude": 120.435096,
+      "latitude": 31.362234,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e359c6859254906280511d3ca0fc8022",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e351add9f2d14d7348a836236c4e74e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "MVC开发",
+        "Spring",
+        "SpringBoot",
+        "Redis",
+        "NoSQL",
+        "MongoDB",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "程女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210401/da0f15bf21fd56cc75f86e3223718d3e1b7f4bc332cd34d25f56c8104ef_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "苏州众磊",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f5dcaa792f1a16861nF52Ni8FVo~",
+      "brandName": "苏州众磊",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717137774671,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州众磊",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

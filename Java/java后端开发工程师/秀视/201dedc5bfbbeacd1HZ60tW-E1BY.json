@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eYhchWriC4M1b-v1PW4KGEotEICeCZ-zYrZhlh7lLtHOnR6lnhVMgPOcGEL-WraA_faxU3CwTMZvhDKFCJF0UH3kUEQ3hza807gQU0WzYcg208AvpACaSWcPRS-zpPdBe8dpexQyiwc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "201dedc5bfbbeacd1HZ60tW-E1BY",
+      "encryptUserId": "a529dd2f2483cfe30HRz2tm8FFc~",
+      "invalidStatus": false,
+      "jobName": "java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.依产品设计方案，负责产品开发和维护；\n2.系统模块设计与开发，以及相关文档编写和整理;\n3.按照项目计划，按时提交高质量代码，完成开发任务;\n4.参与方案讨论，技术调研，负责解决开发过程中的难点问题;\n5.负责第三方应用接入平台;\n任职需求：\n1.2-3年Java开发经验，扎实的计算机专业基本功；\n2.具有良好的编程规范，熟悉面向对象设计原则;\n3.具备良好的逻辑思维能力、抗压能力、学习能力及团队协作能力;\n4.有企业级JavaEE项目经验，熟悉Spring、SpringBoot、SpringCloud等开源框架;\n5.熟练掌握数据库设计，了解性能优化，掌握Oracle、MySql、Mongodb等数据库\n6.熟悉Redis、Nacos、Dubbo、Kafka等中间件的使用\n7.掌握HTML、jQuery、CSS、Vue等Web前端技术；\n8.熟练使用svn、git等版本管理工具\n9.有直播项目经验优先",
+      "encryptAddressId": "8e7fcd056ecaed6d1nV639q7FFNW",
+      "address": "南京建邺区南京新城科技园奥体大街69号新城科技园1栋1810室",
+      "longitude": 118.739441,
+      "latitude": 31.992925,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffce7185bb8153c481f1d7bf69d7fd3046bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfb86f48fc510c165f43fd03df779d36136bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Oracle",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宗先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200522/71b9db5f59ffd88e2532c6861946b3d707f2fab254462e1dce3d385a47b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "秀视",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b45ed203d22843880nZ429u6FA~~",
+      "brandName": "秀视",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200522/32b18ea62dda5b5ddb3f1303735fba1607f2fab254462e1dce3d385a47b7a8f9.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "欧畅云为南京秀视信息技术有限公司旗下专注于音视频沟通SaaS产品，其高层管理人员和技术骨干均来自于巨人、阿里、腾讯等一流的互联网公司。\n欧畅云经过实践的积累已经形成完整的 欧畅云直播 、欧畅云课堂 和其它音视频服务，提供API、SDK技术支持，致力为用户提供稳定、安全、快速、高性价比的企业级视频云服务。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "宿舍有空调",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "法定节假日三薪",
+        "企业年金",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718704701000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "秀视",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

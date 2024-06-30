@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k0OEgbNfeEMdV-o1TsrFW4misSfKtwaSbTkxdadz4tccyiIcYzMIw9Bcv0pIX47N-NkZVs_879IQiJ8D23Pmb-zv5Rd0dHawXTdchAMplqdGoYrgulpG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9bc8bdfdfcc535d1HBy39y5GFpW",
+      "encryptUserId": "b63fd1946b0286501nV-2NW0F1tS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1.熟练掌握Java编程语言，了解面向对象编程思想。\n2.熟练使用Spring Boot、Spring Cloud、Mybatis-Plus等框架，熟悉Redis、MQ等中间件的使用；\n3.熟悉MySQL、Oracle等关系型数据库，能够进行性能优化；\n4.熟悉Linux操作系统，了解Shell脚本编写；\n5.熟悉微服务架构设计和实现，包括服务拆分、服务注册与发现、负载均衡、熔断降级等。\n6.熟悉Git/SVN版本控制工具的使用，能够进行代码管理和协同开发。\n7.熟悉设计模式；\n8.具有较强的需求识别能力，能够独立完成模块库表设计与实现；\n9.有良好的编码习惯，能够对代码进行进行阶段性的测试闭环验证。代码结构清晰，命名规范，注 重代码的可读性和可维护性；\n10.能够基于系统性能及稳定性对包括数据库在内的组件或服务进行调优。\n\n岗位职责：\n1.按照公司业务需求及研发管理要求，负责并参与JAVA项目的设计、开发、测试及维护；\n2.能够独立完成系统模块的设计与实现，并对其进行优化；\n3.需具有独立开发软件能力，学习能力强；具有一定的抗压能力，解决开发过程中遇到的各种技术问题；有责任心，有上进心，具有团队合作精神和良好的沟通能力；\n4.有全栈技术经验优先；有直接面对终端客户需求对接经验者优先；有大型项目经验优先。",
+      "encryptAddressId": "31f9901df138f8810HV43di8FFJTw4y4WfM~",
+      "address": "北京石景山区融科创意中心A座904室内",
+      "longitude": 116.205836,
+      "latitude": 39.910372,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf617bffbe4e1e6a5de28fc46eb3e3ce906bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf917d5ba8f22905b9ab4de9750679f9cf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "行政专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230928/607f1f3d68754fd070b117c7ccc1169d71899dc31aa5f82fcb56fc2e4f28a8c6a12cf72e73b98a1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "汇智烽火",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cd86dddf98ad34161Hd90tu6E1I~",
+      "brandName": "汇智烽火",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719563960896,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇智烽火",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

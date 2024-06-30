@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nFipR7BfOnXQz-J18bo-954eEwCUNtFikWlOClJ1wDduq9awNG8SLVWjvYDvgJbSQ_loHoPeSnftIz3BlNA4DVM7HZhO7OY4nWUoiqymsgGkz4_lTz8SyG78PidaU9agaow_U3evfQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88a0f64a683d9b451Hd70tW1E1E~",
+      "encryptUserId": "f0c8751d2961d5a70nV729y6ElE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\r\n1、本科及以上学历，计算机相关专业，热爱互联网，有责任感，非培训机构学生；\r\n2、熟练掌握Java基础，掌握J2EE基本架构，有大型Java web开发经验，熟悉I/O、多线程、集合操作等基础技能；熟悉缓存、消息队列等中间件技术；\r\n3、数量掌握SpringMVC、SpringBoot、Redis、MySQL，了解SpringCloud、docker；\r\n4、熟练在Linux环境下开，熟练使用Linux命令行；\r\n6、熟悉Maven项目配置管理工具，熟练使用Tomcat、Nginx等应用服务器；\r\n7、熟练使用idea。",
+      "encryptAddressId": "3a6d0229dc3c809f0nBy3N6-GA~~",
+      "address": "杭州余杭区杭州创极速信息技术有限公司7号楼103室",
+      "longitude": 120.004883,
+      "latitude": 30.288236,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/affc27c40190df0280134930c63cb555",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4390aaa91cd12c574159ce5661773cf3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "创极速",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4073faed5ac73eb91HZ82NS4FQ~~",
+      "brandName": "创极速",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200529/b3711f2db7022d2523e4fe1ab7eda6ef84125cec377b16d7891c503cb08318c8.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "公司位于余杭区梦想小镇，系移动互联网创业企业。主要面向汽车互联网、企业移动解决方案等方向。目前有多条产品线迭代开发中。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "节假日加班费",
+        "员工旅游",
+        "住房补贴",
+        "交通补助"
+      ],
+      "activeTime": 1719592327715,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创极速",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

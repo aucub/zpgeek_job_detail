@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tMWs9bBxEp6el-G1WQOHzGFMppJSUoI15pHTVSOpPosvbTgHwiiMGQSxoHP0uu50qLG2mmNY44ToBDQ4ZQSSH1aktVqHP7rhwYir9UtizBpNBqlkM1xgA2GCZkzJrNlB8R_SURACPea7eA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9c2f1ac97e04c81a1HJ-2tm9FlpV",
+      "encryptUserId": "445103a550fd07b00XF43NS-GVtQ",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责\n\n1、负责公司软件系统部署、应用发布、更新、系统维护和优化（远程/客户现场)；\n2、负责公司WEB系统的日常监控和维护，保障服务器、主机和应用正常、稳定的运行（k8s,docker,仓库等）;\n3、负责突发事件管理，问题跟踪与管理；能够运用主机监控，日志分析等工具进行复杂问题定位;\n4、主动发现生产环境的问题和隐患，通过开发或推进自动化运维工具来降低手工操作的维护成本;\n5、负责公司内部服务器、主机、应用系统的日常监控和维护，保障服务器、主机和应用正常、稳定的运行;\n6、根据用户需要，协助完成数据处理、系统配置、数据统计分析等工作;\n7、协助 IDC 和各类软硬件供应商完成大规模集群的部署、联调、上线运行;\n8、建设大规模集群的运维能力和运维体系，并对平台客户提供相关技术支持;\n9、负责公司网络建设同日常维护，保障网络畅通，办公电脑、软硬件、打印机等IT设备及技术支持;\n\n\n任职要求\n\n1、熟练掌握 k8s,docker 容器和管理相关技术;\n2、熟练掌握 mongodb,redis,mysql,minio,elasticsearch,hive等数据库相关技术的性能调优和日常维护;\n3、能够独立搭建本地测试集群环境，熟练掌握Hadoop集群和组件，以及相关中间件，包括k8s,mongodb,redis,mysql,etcd,elasticsearch,nginx等;\n4、熟悉 CI/CD 工具，能够使用 TeamCity，Jenkins 进行自动化部署;\n5、熟悉微服务架构，掌握nginx/redis/RabbitMQ/zookeeper/mysql/Hadoop/docker/jenkins/git/ELK/mongdb软件的部署和调优;\n6、具备扎实的 Linux 平台运维和调试能力，能够熟练进行故障排查、配置调优、性能分析\n7、熟练掌握shell脚本语言，有python，lua实际项目实践者更佳\n8、熟悉各种软/硬件负载均衡、反向代理技术，熟练配置lvs、ha集群\n9、能适应短期出差，主要客户现场进行项目部署，省内省外均有涉及\n10、有过程改进思维，熟悉java、python，lua其中一门或多门语言，对NLP，大模型有一定了解优先。\n11、具有很强的故障排查和解决问题的能力，具有一定技术敏感度，良好的学习能力，工作认真细致、敬业，能承受较大的工作压力。\n12、敬业、诚信、严谨的工作态度、具有良好的沟通能力、具有较强的团队协作精神、责任心强， 能承受较大的工作压力。",
+      "encryptAddressId": "572667265ab8068733d92Nu9FlBWx4-9VPo~",
+      "address": "武汉洪山区烽火创新谷二号楼",
+      "longitude": 114.395566,
+      "latitude": 30.517771,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1481aef32c9cce1a0c8b22fde1e5d7c1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/737f0efef37e047471c936a28892dbd8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "IDC机房运维",
+        "Nginx",
+        "Elasticsearch",
+        "Docker",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240513/607f1f3d68754fd0fea9b13ed5875043e785a8b6c20118a3e2201086ee9e3f7481483e947bc9c45_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科凡语",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4033afea3611dd21nx83Nq_FFE~",
+      "brandName": "中科凡语",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211120/7bf6f160950405e99a3a5c2982b02e684160e83c1a19901c30d74ae3bc22b6e120d57009ed7720f2.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科凡语是一家跨语言信息检索服务商，依托中科院自动化所在人工智能、机器翻译和自然语言处理等方面的深厚积累，面向跨语言、跨领域研究，提供机器翻译系统、多语言信息分析与处理服务与解决方案。其多语言机器翻译和多语言信息分析与处理系统已经广泛应用于政府、公安、军队、航空、科技和商务等多个领域。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719330368491,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科凡语",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

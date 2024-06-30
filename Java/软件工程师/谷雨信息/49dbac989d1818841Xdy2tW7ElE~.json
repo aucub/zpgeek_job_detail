@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Pwmtq0Gem4vyE-d14-WMB9BnzncOPMLWupdBV2RQfxJOWexyMfmfcqFVELBFw6n65qtnKGr1wVUM_o4jwmV9m4KwDwXxxi5PUTySW8kwOMvqXyQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "49dbac989d1818841Xdy2tW7ElE~",
+      "encryptUserId": "ccdcdc96ea76ea9003d-092-E1E~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、拥有良好的沟通能力，能够根据业务需求分析系统要点及系统开发点；\n2、具备项目开发相关工作技能,并及时发现设计工作中的问题,提出解决问题的途径；\n3、根据业务需求，进行技术编码，调试，单元测试，能够解决核心技术问题；\n4、参与技术需求的调研，技术可行性分析，系统架构的设计、优化；\n5、按照需求进行设计开发，解决开发中所遇到的技术难题；\n6、完成模块详细设计与开发；\n7、能接受出差\n\n任职要求：\n1、本科以上学历，特别优秀者不限学历，3年及以上Java软件开发项目工作经验，有3个以上大中型项目架构设计经验更佳；\n2、精通Tomcat、Apache、Nginx等多种开源服务器，熟练掌握至少2种应用服务器，如WebLogic、Tomcat、Resin、JBoss、WebSphere等；\n3、熟练掌握J2EE体系架构，具有EJB、JSP、Servlet等开发经验；\n4、熟练掌握Java MVC开发架构模式，熟练掌握各种开源框架，如Spring、mybatis等；\n5、熟练掌握web service理念，有相关设计、开发经验者优先；\n6、熟悉JVM内存管理、类加载机制等，掌握Java系统的故障排查和性能调优；\n7、熟练掌握Oracle、MySQL等主流数据库，熟悉数据库建模，具备深厚的SQL功底，并有着丰富的数据库设计经验，了解Mongo DB，NOSQL的数据存储产品，熟悉不同类型和数据库的底层运行原理和优缺点；\n8、具有系统需求分析和设计能力，能快速理解业务需求并进行相关逻辑设计，熟悉UML建模，并熟练使用相关建模工具，并具有规范的开发、设计文档写作能力；\n9、熟悉缓存技术，应用优化，服务器优化，集群技术处理、应用负载均衡、系统性能调优等技术，具有高并发平台开发经验优先；\n10、要求踏实、有责任心，具有良好的团队合作精神和沟通能力，并有很强的学习能力； 逻辑思路清晰，较强的创新能力，有良好的计划和执行能力；",
+      "encryptAddressId": "5e31ed281d7edad6331y2tS5GA~~",
+      "address": "长沙天心区创谷·长沙天心文化(广告)产业园A1栋409-411",
+      "longitude": 112.9738,
+      "latitude": 28.09455,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd7455767a8d31c92eaff52c57d1a1ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fcd822611e1a189fc3c68eee1fc0a612",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Javascript",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "谷雨信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bb92944ee02419be0H142di5",
+      "brandName": "谷雨信息",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191018/93e2e751e04722aa4801f1149406d902150a3b55a7fd6aad02029741519da98b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "长沙谷雨信息科技有限公司成立于2015年，是一家专门从事电子政务和GIS应用平台开发及推广工作的软件企业，公司基于信息资源体系，以城市运行与服务为目标，以各级政府（省、市、区、县）电子政务平台及国土、房产、农业、林业、规划、建设、市政等主管部门专用电子政务管理信息系统的开发建设为核心服务，专注于创意设计实现政府信息化，以提升政府的管理体制、管理职能和管理决策方式，为所有谋求长远发展的企业提升品牌品质。",
+      "labels": [
+        "五险一金",
+        "节日福利"
+      ],
+      "activeTime": 1718672970000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谷雨信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

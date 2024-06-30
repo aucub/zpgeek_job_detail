@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OiGEsBNN4o1ta-l1_AdHPyLZ7d2UNQaPKwBq7UR1Z7zYSKFvWADQ3TCu7USCzVMxOKtjBl14vCiF-yymI7pF2erInHjcneZtUTGiujUOyCfCG4hAszzXMnbVcxv3raiylVG0KL5uPwIR8e9yckwcUbX__6pm5cKCvv6-E8oU666OkDk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b0540a9f129eddd81nR73t26FVdY",
+      "encryptUserId": "e85b21b5c71d4b7a0nB62Nq7EVU~",
+      "invalidStatus": false,
+      "jobName": "云运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述（工作内容和主要职责）：\n1、负责用户现场华为云资源的管理，优化，监控报警，保障平台服务7*24稳定可靠高效运行；\n2、维护政务云内网络及设备并定时巡检；\n3、网络或设备故障排查并解决（非本职管理内设备提供解决方式）；\n4、根据安全态势感知设备给存在网络安全问题的厂商发送安全整改邮件，并协助整改；\n5、维护自动化运维，业务监控，持续交付，应急响应，容量规划工作；\n6、有一定的文档编写能力；\n职位要求：\n1、熟练云服务的使用，熟练掌握Linux,Vmware等系统的管理；\n2、对zabbix监控有使用及维护经验；\n3、熟练编写shell/python 任意一种；\n4、熟悉TCP/IP协议，了解基本的路由交换原理，能分析和解析基本的网络故障；\n5、熟练使用ansible自动化，会编写ansible playbook脚本；\n6、有较强的口头表达能力，善于沟通协调，建立良好的工作关系，责任心和事业心强；\n备注：岗位非纯技术岗位，要求面试者有一定的耐心向用户提供解决方案，本岗位为非固定双休时间制，有轮流值夜班要求，夜班时间为24小时制，8:30-次日8:30，做一休一，如不能接受的面试者，请勿投递简历\n工作地点：上海市徐汇区行政服务中心\n加分项：\n有华为云计算相关认证的优先考虑。\n有华为云、腾讯云、阿里云、AWS管理经验\n本岗位面试形式为线下面试，不另外安排线上面试，若不能接受，请谨慎投递简历，谢谢",
+      "encryptAddressId": "19a9bb8247da50253nR92Nu9EFVUxYm2V_M~",
+      "address": "上海闵行区华商时代广场9号楼3楼306室",
+      "longitude": 121.34165,
+      "latitude": 31.163412,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bfd44a1721b3ec770436c8cc586724471b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230514/48ba41acc9cef1bf944e1c31380e3b4eb0549430084069026bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "运维经验",
+        "Linux",
+        "运维工程师",
+        "7*24H",
+        "云平台"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220222/607f1f3d68754fd0aa3f10a0dd9fbbe436e9d78735a4640af699391cbd694cd6dfa4df202a4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "潍正信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "50c0bc8c0c7422a90nVy2N64GQ~~",
+      "brandName": "潍正信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190820/a621bbac2905f9aedecdcf02403a0c183cca06b8616a08052b46c66c66c3d520_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "上海潍正信息技术有限公司是一家高新技术企业，领先的智慧城市整体运维服务商，专注运用大数据、云计算、物联网、人工智能等新兴技术结合标准化服务流程和先进的运维理念，为城市数字化、智慧化提供整体运维服务、设计和建设，致力成为城市数字化转型可信赖的服务商。",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719305456640,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潍正信息",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

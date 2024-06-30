@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "e45e1o1EydAlb-_15oW58QckFiYfc4G1oBmA56PxBgm70ZLpbxqAOgTuHWHuDvdqsgun88OXwzZ1WPfO7ReqQvLvc6I-LLHulsZbdees5urDPrRaYXbggDubwtCHy3BkyR6cQuotJBIq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d5b4fad7a7a00abb1nx72NW1E1ZQ",
+      "encryptUserId": "dd9e9408c90c55a033Bz2t65FVM~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100107,
+      "positionName": ".NET",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "职责：\n1、软件产品开发：根据要求完成公司内部及对外的产品开发任务，能够根据文档以及上级安排，独立完成单独功能模块的开发和测试；\n2、业务数据查询：可以通过直接的数据库查询，快速解决其他部门的紧急数据需求；\n3、客户实施工作：为客户进行程序安装和简单的培训，并能发现客户潜在需求；\n4、参与系统分析、详细设计和技术文档编制。\n要求：\n1、计算机、软件工程等本科以上学历，应届生也可；\n2、熟悉C#或Java编程环境，至少会使用一种数据库(Oracle，SQLSERVER，MySQL) , 并有相关工作经验；\n3、有.net项目开发经验（WinForm，Web开发经验均可）或Java项目开发经验（SSM、SSH开发经验均可），有MatLab、微信公开发经验者优先；\n4、有一定的分析和解决问题的能力，能独立完成交付的任务；\n5、具有较强的学习能力，包括对专业知识的学习以及行业知识的学习；\n6、对编程富有热情，有一定文档书写能力，乐于相互交流，有较强的执行力。",
+      "encryptAddressId": "fab567f600e61d8333F409u-Eg~~",
+      "address": "上海长宁区兆丰广场长宁路1027号21楼2106室",
+      "longitude": 121.418792,
+      "latitude": 31.217825,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a205b3416d62be837e0e03960d02b8c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/255222562649b924d77e4ad6dad944e7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "Java",
+        "Winform",
+        "SQL Server",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210318/e3ebaf93bc9fd04f3734443bfd4eb80833551d50ca9b01a368a1f5eed9e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "腾天",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "52f89c24056067bd1nBz2Nm7Fls~",
+      "brandName": "腾天",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717134157036,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "腾天",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

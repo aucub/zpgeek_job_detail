@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ef4i9X8uyPfRD-m1y2xBggiHd00mtygYezeXuSBNIGtmgmMkt-D5z-EoIMnROFAhLgfEnS5-3UTKvuNHG2YsmV5gfWhzck10yErKJ2muqpFd8BNGkw-mzwASvsYf3mr2ErtJbb7iyHQY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16ea47a9528a94701XN629S7FFpZ",
+      "encryptUserId": "2f83877bee2fb6a903F70t--ElM~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 深入理解java开发语言，有扎实的java编码基础；熟练掌握常用java技术框架spring, springmvc,mybatis，hibernate; 熟练掌握spring boot开发框架；\n2. 熟悉常用Web技术（Jquery、HTML5、VUE、Angular、node.js），微服务架构（Dubbo、Spring Cloud)；\n3. 熟悉mysql和至少一种NoSQL数据库，并能独立进行数据库结构设计，熟练使用SQL语句，对数据库事务、锁、索引有深入理解;\n4. 熟悉至少一种缓存系统，redis,memcache等；熟悉至少一种消息队列，rabbitmq, activemq等；\n5. 熟悉主流构建工具 Maven,Gradle; 熟练使用JetBrains IDEA等开发工具和Git版本管理；\n6. 熟悉常用设计模式；熟练掌握面向对象软件分析、设计方法；熟悉UML软件建模知识；有良好软件开发规范意识；\n7. 有较强的学习、创新及表达和沟通能力，具备独立分析解决问题能力，具备团队合作精神，能承受一定的工作压力；\n8. 互联网行业相关产品研发经验者优先，有restful 开发经验优先；\n9. 计算机相关专业毕业。优秀应届毕业生欢迎投递简历。",
+      "encryptAddressId": "1b6e406f80bf8e3a1HJy29i6GQ~~",
+      "address": "武汉洪山区银泰创意城1902",
+      "longitude": 114.356574,
+      "latitude": 30.526436,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29118d5ed6ef443f075a907adc856ffd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/187d77fe1f8dae62e76dbd989397f33c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Java开发经验",
+        "机器学习工程经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210609/021315b9b0ba75106de1c6e50f2a6a4ce3b8424953b4f0a161cabfe38cc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "万般上品",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ca40d450d9e57a61nN_2d-9EVY~",
+      "brandName": "万般上品",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718874058301,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万般上品",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

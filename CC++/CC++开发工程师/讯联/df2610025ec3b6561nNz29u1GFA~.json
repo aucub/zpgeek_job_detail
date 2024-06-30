@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Fg0RTKFqXebFA-G1QPz0C8fNzt-PYFl5b_Y459nU3vgyFyzJV7HC6cyqIaYfxebh964AfuNZbG5bMgl5miqXQ7zy6MEJzapKrNulg9siAUwcmJmr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "df2610025ec3b6561nNz29u1GFA~",
+      "encryptUserId": "412ce45971008cdb1HBy2NW6GVE~",
+      "invalidStatus": false,
+      "jobName": "C/C++开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-16K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\r\n1、负责后台支付相关系统或客户端软件的文档编写及代码维护； \r\n2、提供后台的技术支持； \r\n3、负责公司产品相应模块的调试工作。\r\n\r\n职位要求\r\n1、要求热爱软件开发工作，主要从事金融支付、互联网、移动互联网相关项目工作； \r\n2、本科及以上学历，欢迎应届毕业生加入； \r\n3、参加基于C语言的金融业务交易系统的开发工作，有一定金融业务系统开发工作经历者优先考虑； \r\n4、熟悉Linux 、Unix环境下的C语言开发步骤，熟悉C语言通讯接口，数据库编程者优先； \r\n5、熟悉Windows下MFC编程、具有实际开发经验者优先； \r\n6、除熟练C/C++语言以外，熟悉Golang，Java，Javascript者优先。",
+      "encryptAddressId": "a4447059be9018b80HBz3tS7GQ~~",
+      "address": "上海浦东新区惠生大厦中科路699号C栋9层",
+      "longitude": 121.600287,
+      "latitude": 31.179924,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2c0c372af57134d78b14fa246301437",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5d8a2325a228afe5a23e1b0556bd6cf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C/C++",
+        "后端开发",
+        "Golang"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180226/78e2ac88f1bd10def7eb7eecb8e6a6fccfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "讯联",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1e763acb2a575b431nBz3t-0GA~~",
+      "brandName": "讯联",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200817/68e02b11aced0bb6f67c3a52b5b092775b31c3969cf755e02416ea73f166c8b7_s.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "上海讯联数据服务有限公司（以下简称“讯联数据”）成立于2010年，支付行业系统服务商和解决方案提供商，专注于向境内外的银行、支付机构提供支付技术、产品、数据增值等系列服务。\n讯联数据，总部位于上海市浦东新区张江高科技园区内，已设立了无锡、香港、日本、新加坡、泰国、印尼等分支机构，服务能力和网络覆盖不断扩大和延伸。 讯联数据的核心团队来自于国际卡组织、银行以及互联网技术公司，平均拥有近20年的支付行业经验，深刻理解支付产品、业务和技术，更能够充分集成最新的互联网、大数据以及人工智能技术。\n经过10年+的努力和沉淀，讯联数据获得了高级别的支付行业安全认证、国际卡组织的第三方处理商认证以及境内外多个新兴移动支付网络的服务商认证。已经为境内外超过100家银行、支付公司提供支付技术和及产品服务。\n成立至今，讯联数据历年保持财务盈利，发展健康并不断成长，目前已完成了C轮融资。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "零食下午茶",
+        "节日福利",
+        "交通补助"
+      ],
+      "activeTime": 1715884332153,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "讯联",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

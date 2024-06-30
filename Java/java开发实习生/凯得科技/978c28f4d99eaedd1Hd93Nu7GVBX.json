@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DJaOuNokrXSP--l1VjojRQTRzUlO0U8kZnZJE8fn5-zb9wyCmH2qt9j186YScj5TTntHmhh9SoyJGPMI94k5Ao410MSOFJrVwHp_SQeon6NFMIf5cp8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "978c28f4d99eaedd1Hd93Nu7GVBX",
+      "encryptUserId": "6289cdca8b7377931nV62d68FFNV",
+      "invalidStatus": false,
+      "jobName": "java开发实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "一、基本要求：\n1.（必须）大专以上学历，面试通过后需提供身份证复印件、毕业复印件；\n2. 爱动脑、独立思考、有快速的逻辑思维；\n3. 能够独立及时完成开发任务；\n二、任职要求：\n1.熟练运用html、javascript、css、ajax、jquery等前台技术开发；\n2.熟练应用J2EE的相关开发技术：jsp、servlet、struts、spring、jdbc、mybatis等技术；\n3.使用过redis、solr、rabbitmq、fastdfs等相关中间件技术；\n4.熟悉基于 SpringBoot、SpringCloud 的微服务开发技术；\n5.掌握oracle、sqlserver、mysql常用数据库的使用，精通sql语句；\n6.良好的代码、技术文档编写规范和习惯；\n7.具备较强的责任心及良好的团队合作能力，做事踏实诚恳;对技术工作有浓厚的兴趣，具备自我激励、自我管理能力；",
+      "encryptAddressId": "a01133eff5f746f30nB-2tS8GQ~~",
+      "address": "北京昌平区北清路1号院3号楼15层2单元1506",
+      "longitude": 116.292601,
+      "latitude": 40.099058,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c461234509e733ddf995da1bdcf6c6f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d409ade6d227969fdfd0452feee8c6b6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "PostgreSQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陶先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200525/cfd3e08131f71664f47eff53d4c21b1ee9592a8d3f1930c8a9f3df74b9e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "凯得科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2cc21066a9fc469633B539q9FQ~~",
+      "brandName": "凯得科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201209/a39335477adb64b65ca5411d9990404bda8bcf47f35c6bb6575169277393eb19_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京凯得科技有限公司是一家综合性软件开发商，主要客户面向金融银行、企业基础软件服务、大数据服务。",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717072072091,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "凯得科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

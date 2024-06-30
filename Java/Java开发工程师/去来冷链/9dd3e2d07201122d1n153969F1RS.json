@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7A0fLwB81CNlm-j1K9AG52Ay4YRCyc5vhadHGfyrF6t5yrwaq7DrpA1O9ir3TJ5c0c9FJBPfShAZ1nvZUHaQGKFAx3yh4gbRsFYz3UoZNF6da-EyHEo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9dd3e2d07201122d1n153969F1RS",
+      "encryptUserId": "87f5fd02c41b5ef00XV539m5FFo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1. 1年以上实际开发经验\n2. 良好的编码习惯、能够在工作中承担功能模块的开发工作，能够使用jquery bootstrap easyui等前端框架进行基本的前端开发\n3. 对Java语言基础如多线程、同步、NIO、集合、并发包等有一定了解\n4. 对常用的开发框架如SpringMVC、SpringBoot、MyBatis等有良好的应用经验以及自己的理解\n5. 熟练应用MySQL等关系型数据库以及redis缓存\n6. 良好的团队合作精神，能够认真踏实的完成工作\n岗位职责：\n1.负责系统核心功能模块的开发\n2. 负责与第三方平台，上下游客户的系统对接工作，以及相关问题排查\n3. 持续优化相关功能以及代码，保证程序健壮性",
+      "encryptAddressId": "5fe25df76349c9521Xd42Ni6GVM~",
+      "address": "北京海淀区尚科办公社区A1008号去来科技",
+      "longitude": 116.288227,
+      "latitude": 40.037287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/326f0634959676b963a636fb894885f7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b8e59d205f819059dab7d78b8147f76",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "去来冷链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cf9ac80b83c978351XN_3tW9FlI~",
+      "brandName": "去来冷链",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1717070303885,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "去来冷链",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

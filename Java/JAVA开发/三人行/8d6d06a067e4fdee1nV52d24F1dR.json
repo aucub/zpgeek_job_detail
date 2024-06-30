@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "m6QYegzbW0bfu-N1IZntP8U5PFLwCAmRDLIACj0E7vdcFOWHiEMv3CBMH93foljZMZK5yr2Um63eBYvOuUMJXeDdmIC2aLRu7IL2uEJ36ZwBnMeA2aY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d6d06a067e4fdee1nV52d24F1dR",
+      "encryptUserId": "92a24d9f21f0bdbb03V72t-8FVM~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责产品开发项目的整体需求分析、架构设计及开发工作，制订并实施具体的解决方案规避常规技术问题的发生；\n2、完成技术方案、技术线路的制订，指导审核产品核心模块的详细设计；\n3、参与技术评审，对软件需求、设计、代码或其他技术文档进行检查，提出改善建议；\n4、组织开发团队按计划执行并完成开发任务，负责团队成员的技术学习和能力提升。\n任职要求：\n1、精通Spring Boot/SpringMVC、Spring Cloud、Dubbo、hibernate/Mybatis等主流框架；\n2、JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息等机制。熟练主流应用服务器框架、分布式数据库、缓存、文件系统、消息系统等技术；\n3、熟悉数据库编程，精通数据库应用（MYSQL/SQL SERVER等）；\n4、具有良好的逻辑分析能力、分析问题和解决问题的能力。\n5、熟悉常用设计模式，有中大型分布式、高并发、高负载、高可用性系统设计开发经验优先考虑；\n6、熟悉前端Vue/Angular框架者，熟悉前后端分离开发模式者优先考虑；\n【备注】具有区块链从业经验者，优先考虑；同时要求具备独立开发能力",
+      "encryptAddressId": "3ab05ea0a7f9054b1Hx63d-5Els~",
+      "address": "青岛城阳区中欧国际城金茂悦3期写字楼8号楼401",
+      "longitude": 120.313338,
+      "latitude": 36.262495,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7818204fac0562e2e89fdb60712eadcc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03dd1b77c96fb012c68b3cbd8231efbe",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "MVC开发",
+        "Socket技术",
+        "Spring",
+        "MySQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "房先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220407/607f1f3d68754fd0a7429e0401f2a60f44dbd3245fab0862a29e9f052aaa159bd468aa5b41f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "三人行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e1aee336c2437d481nZy2966E1M~",
+      "brandName": "三人行",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717037363159,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三人行",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

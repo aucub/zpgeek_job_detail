@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8bxGQRKIunMJH-R1AWP4dpsT4yGyLLXR_Iy-lApECqWlFSEmhJvz0Y04FCTqDSYOrLWLhMX5Z6ctbIR44PQFI-fnQ873pqMkXsdVyxSDCmd3SGBzgNG49BgA35X6QhzCBONfl4q-MlTq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f2998bbf877686211HV839W1E1FS",
+      "encryptUserId": "c4363636c47dffbe3n1609m-EFM~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1. 参与公司企业级产品后端的研发，确保系统的安全、高可用性和可靠性；\n2. 参与业务需求讨论，评审产品设计，驱动研发团队一起按时、高质量完成产品交付；\n3. 负责公司企业应用平台的开发，保证设计和编码的质量，主要开发语言为Java。\n\n招聘要求\n基本要求如下：\n1. 技术：熟悉 Spring Boot、Redis、消息队列、并发编程、设计模式、开发规范，必须有过相关实践\n2. 经验：有较多的个人项目及团队协作经验，能够独立搭建并实现功能完备的后端系统，能够熟练地和前端协作\n3. 开源：必须有自己的 GitHub 仓库，且里面要有至少一个项目源代码\n4. 其他：有较强的自主学习和 Bug 解决能力，比如可以通过阅读官方文档自学\n\n加分项：\n1. 做事细心理性，态度认真，有责任感（这是我们最看重的品质：看一个人写的代码，本质上看的是这个人）\n2. 有 Netty 网络编程、Spring Cloud 微服务经验\n3. 有独立搭建和开发完整的全栈（前端 + 后端）项目的经验\n4. 注重编码及开发规范，有较强的 CV（代码复用）能力\n5. 有不错的沟通和表达能力，能够流畅地表述自己的想法\n6. 有制定计划、文档沉淀、记录分享、复盘总结、持续学习的习惯\n7. 关注并追求前沿技术和产品，比如 AIGC",
+      "encryptAddressId": "b8bf1c18b7700ec21nZz09-8FlFU",
+      "address": "广州天河区广州天河软件园科韵园区南区雅爵大厦3-102",
+      "longitude": 113.372317,
+      "latitude": 23.123515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf490dce052d40faba5a7ac2d5471c90e36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf01740b7f10fe204303accf559fb8f70a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230808/607f1f3d68754fd0352da73c707ac15c737f6797feb7d76ee54c1433718f13df8a05a4efa79f1f2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "幻鸽",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0001e6c43e34fd301Xx43dm8EVc~",
+      "brandName": "幻鸽",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "员工旅游",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718964995390,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "幻鸽",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vSkinsE7J4rMP-v1sIZB-tsRpN2CErApn1mgMJrbBxwsEyrDkdXXUfHwFwlktdSXwNnz-gC87-UcS5kCyInyqPrQesfHbMjI0imPHRAjx-eqOk-Wyik~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "22c87a014bf818b41HF52ty0EltV",
+      "encryptUserId": "036d84dabe7d63b70nF42NW9F1ZW",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责公司产品平台的开发、维护和优化工作;\n2、独立负责至少2个以上系统核心/重要业务模块功能，能独立解决开发中遇到的难点问题，并按标准要求输出模块功能设计文档\n3、负责B/S架构，小程序、公众号产品的开发选代;\n4、配合项目经理一起研讨技术实现方案，进行应用及系统整合，定义和优化产品用户体验及交互效果。\n5、对产品的可用性进行测试和评估，能主动发现用户需求和产品问题，提出最优改进方案，持续优化产品的用户体验。\n\n任职要求\n1.大学统招本科及以上学历，计算机、软件、信息相关专业\n2.熟悉JAVA编程语言，具有2年以上的用Java进行Web开发的经验,Java基础扎实，熟悉10、多线程、集合等基础框架，以及分布式、缓存、消息、搜索等机制;\n2.熟悉springboot、spring cloud、mybatis框架的使用及原理;\n3.熟悉nginx、redis、mysql、es、OAuth、jwt等常用框架;\n4.熟悉vue.js、html等基本前端开发框架，能做功能性的前端开发;\n5.熟悉前后端协作迭代开发流程，可熟练使用maven，svn，git等管理工具; \n6.微信小程序及公众号开发经验优先;\n7.五险一金.双休",
+      "encryptAddressId": "3e82beabf5e3ec760XJ-3tq4FVE~",
+      "address": "长沙岳麓区麓谷·新长海中心B1栋504号",
+      "longitude": 112.890351,
+      "latitude": 28.209528,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54f8a2c696a0f9431c8062410d8d92a3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18040593d0de95dbe1681f315dfcf8e6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "前端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "金特尔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "96964fd620ad9d8e1Xd72N24EA~~",
+      "brandName": "金特尔",
+      "logo": "https://c-res.zhipin.com/jrs/e774619e88a2d608019981609963fd76.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "临床试验医疗信息化平台厂商",
+      "labels": [],
+      "activeTime": 1717105672054,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金特尔",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

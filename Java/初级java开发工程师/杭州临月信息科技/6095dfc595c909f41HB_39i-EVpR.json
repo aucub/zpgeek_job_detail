@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Wu0iUKCGoxtVP-81iKKSNOtCzNDTkxEe_n4VVnmOWN4h3RB-HrkEQEJtJzBZRp8Pfrf-G7Z97iXk10hiy3D5jHmR1bXFhZWgy5T0f5qmOx2rQFO2KK2v9RvUhKzNl-4yIHJjc55B6rmv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6095dfc595c909f41HB_39i-EVpR",
+      "encryptUserId": "ee20b30ea85aa3820XZz0ty8GFM~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责公司核心产品的设计和开发工作，能独立处理和解决所负责的工作任务；\n2. 按项目任务要求，完成相应功能模块技术解决方案设计、开发及文档编制工作；\n3. 根据开发进度和任务分配，高质量完成所分配的开发任务;\n岗位要求：\n1. 计算机相关专业本科或以上学历，1年以上系统设计开发经验（优秀的实习生亦可）；\n2. 扎实的编程基础，对于Java基础技术体系（包括JVM、类装载机制、多线程并发、IO、网络）有一定的掌握和应用经验；\n3. 熟悉Spring、Spring Boot、Spring MVC、MyBatis等开源框架和其理念，熟悉常见的一些设计模式；\n4. 熟悉Dubbo、Redis、MQ、ElasticSearch等高性能并发中间件；\n5. 熟悉Linux下的常用命令，熟悉Mysql，有较好的数据库表设计能力；\n6. 具备良好的表达和沟通能力、具备团队合作精神，学习能力较强，有责任心和独立分析能力",
+      "encryptAddressId": "e0451da906c346190XJ50927GVpXwYW7VvM~",
+      "address": "杭州西湖区蒋村商务中心B2座512室",
+      "longitude": 120.068357,
+      "latitude": 30.288966,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230503/48ba41acc9cef1bf0cf9dec7b576defb41114c62aeb9a5276bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf234d698f563996b9073b0c8d1ad97a326bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒋女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220515/607f1f3d68754fd031ee0fa0fc256aae3fe43858f776f8ef3c0e32f82fb2c5de3c3acaa84b8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "杭州临月信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ad435bc39b091e441Hd939q5FVA~",
+      "brandName": "杭州临月信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719567523147,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州临月信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "92JkOa33jwOKu-U1IvU7c-90Ts8d22X2n0oxoJotf3lqaPTE-wzXno5i3CUwGc_7rX9ddDgYPZ6NmYLgDBmQGKANulauI8ZgON8-8z1VjIV0qr-3IdpwlwjahpbFqO17FpAQryjsv71_iw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8748ee1f6c71317e1HR42dS8E1tZ",
+      "encryptUserId": "139640dbd5ffd2d90XV52t-8ElJZ",
+      "invalidStatus": false,
+      "jobName": "java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1.进行CNCF云原生领域的新一代可观测性平台研发；\n2.通过行OpsGTP 和 ChatOps结合知识图谱进行智能化运维管理领域AiOps的落地事；\n3.参与完成项目的需求分析、负责完成业务功能的代码实现与单元测试；\n4.协助业务方梳理业务需求，并能根据研发流程和规范，完成功能落地;\n5.不断自我提升，以适应高并发、高稳定性，业务模型复杂等带来的各种挑战及技术难点;\n6.富有工作激情，沟通能力强，团队意识高，具备自我驱动能力；\n7. 211以上高校应届毕业生优先录取，研究生以上学历优先录取。\n\n\n岗位要求：\n1.熟练掌握JAVA常用基础技术，面向对象编辑思想，有良好的编程习惯；\n2.熟练使用Spring、SpringMVC. SpringBoot、Springcloud、Mybatis、MybatisPlus.\nSpring Security等常用开源框架；\n3.熟悉容器技术，有生产环境Docker和Kubernetes的维护经验；\n4.熟悉Prometheus、Grafana、Zabbix监控组件；\n5.熟悉Nginx、RabbitMQ、Redis、MySQL、ELK、Kafka等服务组件。\n6.获得CET4证书",
+      "encryptAddressId": "5dd30e134ea3d08e1nR90tu4FVRU",
+      "address": "苏州虎丘区苏州创意产业园云畅科技",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfe3a56806a506f068096905c38e899dbf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf75cf802274e04a0addd841b19ace4ae46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Java开发经验",
+        "计算机/软件工程相关经验",
+        "大数据处理经验",
+        "不接受居家办公",
+        "211高校"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "苏州云畅信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73ac050d7f96c9681X142dm6FVM~",
+      "brandName": "苏州云畅信息科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719052810000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州云畅信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

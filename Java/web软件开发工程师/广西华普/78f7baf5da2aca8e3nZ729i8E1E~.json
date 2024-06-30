@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pTduiBXxbPmVo-k1I3DCLQa_L18E2RyKtOMSjFFCa-AQ6wgIZZ56-JXfYRKYp0NNNndPD98bAseG8NZZkLCMtVtTS-SIekboYq5eQ_4UPBp6ivz7-MG3kzmsaFZ4hMdSmtNlBLlT3VU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78f7baf5da2aca8e3nZ729i8E1E~",
+      "encryptUserId": "6ccd113affc8c0c61nV_3ti9GFpV",
+      "invalidStatus": false,
+      "jobName": "web软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司系统软件的开发、测试、实施、维护工作；\n\n2、参与产品需求的分析、系统开发设计和数据库设计等工作；\n\n3、根据团队任务分配承担项目代码的编写，配合项目经理完成系统开发工作；\n\n4、协助项目经理做团队任务分解、计划制定。\n\n\n\n任职资格：\n\n1、40岁以下，本科及以上学历，计算机相关专业；\n\n2、 熟练Spring,Struts2,Hibernate,MyBatis,dubbo,zookeeper,activemq,mongodb和elasticsearch等开源技术框架，有扎实的c、c#、Java等编程语言基础；\n\n3、了解spring boot和springcloud开发及redis/nginx使用；\n\n4、 熟悉CSS,HTML,JavaScript,Ajax,JQuery,easyUI等前端技术；\n\n5、熟悉activity、jbpm工作流引擎及Oracle ,MySQL,SqlServer数据库的应用；\n\n6、熟练Tomcat，并擅长运用SVN,MAVEN等工具 \n\n7、了解nio、aio、netty和PMP管理思想，对新技术有较好的学习和接受能力；\n\n8、有良好的沟通能力和合作精神，工作主动性强，耐心细致，责任心强。\n本岗位月薪在4000-8000元，依据个人工作经验及技能水平而定。",
+      "encryptAddressId": "928facedf35ca7b91HZ63dq4EVY~",
+      "address": "南宁青秀区德瑞大厦",
+      "longitude": 108.395746,
+      "latitude": 22.81382,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5160be397b2c989f2fff3e0485ddcff4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b26308e15d9738b7dbe11b7d444d3abd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "C#",
+        "Spring",
+        "Mybatis",
+        "Dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黎女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200707/56823a97da2857bbd1ae90fbecf648cb8efd7e34ab528443571cec3afcf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广西华普",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba7b3a250f1ca4b13nZ_3ti_Ew~~",
+      "brandName": "广西华普",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "全勤奖",
+        "加班补助",
+        "年终奖",
+        "定期体检"
+      ],
+      "activeTime": 1717118249563,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广西华普",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

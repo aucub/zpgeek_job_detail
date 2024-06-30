@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CAvhjFq85UqkM-t1r2oLKcsonfjTT-K3tD0wlKJOo_X1wyjfES3w4vmi2qk6ET0kv3rlH5z-qVYU90S2T3C6fobc7R5N-G3nT2rpo7nKTLKVkljUc9c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7865066a35f1e33f1XR62d6-F1FY",
+      "encryptUserId": "d127c9927907aefd1nZ62961F1dZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制大专级以上学历，计算机相关专业；\n2、 熟练掌握Java编程语言，具备较为扎实的Java语言开发功底； \n3、精通SpringBoot、MyBatis、SpringMvc、SSM、Redis等常用框架和技术；\n4、熟悉关系数据库系统Oracle、MySQL、postsql\n5、熟悉Javascript，html，css等相关知识；\n6、具备编写需求、设计、使用说明等常见软件工程文档能力；\n7、熟悉Linux操作系统服务器的配置和进程监控\n8、拥有GIS、webgl、三维场景了解者优先\n9. 具备良好的团队合作精神和沟通能力，能够有效地与团队成员协作完成项目。具备较强的学习能力和自我驱动能力，能够快速适应新技术和新环境。具备较强的责任心和工作积极性，能够承担一定的工作压力和挑战。",
+      "encryptAddressId": "402c2733d2951b531nV82NS0FVQ~",
+      "address": "杭州西湖区世贸丽晶城欧美中心(天目山路)A座C805-809",
+      "longitude": 120.137177,
+      "latitude": 30.273375,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdbf77c9164b57e727c98c252fe7c4d9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b15eb5a10b4d1468d17725b31cab1c1d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "SpringBoot",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "戴先生",
+      "title": "人事主管 HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200728/7b0b128934f9400d54156278cc0d1d2b31ace177612512c5b53908f2205_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州图景",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9c61457ac77b4a9a1Hx639q_GQ~~",
+      "brandName": "杭州图景",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191225/8696da13101119a75d5d914f82d3e67c82a6edaed663d5641e070f4fd48055ee_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司现阶段主要项目为智慧旅游，全域旅游，大数据分析等",
+      "labels": [
+        "五险一金",
+        "小零食"
+      ],
+      "activeTime": 1718101524162,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州图景",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Lk_pGeTnJvVWx-A1jhcapV6KMQ9DgPTNkUEiXaI7xIFHljJipR9VEwTdwsx1TCTNyvXvnMnx-ODlWzrQ_XDk1xPhMazxPU5HgEvxoDQwQKexZdpry8A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "13f118aa83fc9f581nF52NS_FVFX",
+      "encryptUserId": "5ae5bc98c622ff6e1nV72dS_F1JU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "接受应届生。\n入职起全额缴纳五险一金，转正后可享受年假，工作时间为9:30-18:00，周末双休。\n\n一、岗位职责\n1、熟练掌握Java语言，基础扎实。熟练使用Java中常见的锁、分布式锁，了解其原理；熟练使用常见的数据结构、容器、熟悉JUC编程，对高并发、分布式系统有一定了解；具有优秀的编码习惯。\n2、熟练使用rabbitmq、rocketmq、kafka等消息中间件，至少精通其中一种。\n3、熟悉常见的设计模式，熟悉Spring的IOC和AOP；掌握Spring Boot，Spring Cloud 框架，能基于常见框架进行独立开发。\n4、熟悉Nginx、Tomcat、JBoss等服务中间件；了解域名、域名解析、CDN相关概念。\n5、掌握Linux、Shel操作命令、Docker、K8S等容器框架编排技术，能基于Linux环境部署项目。\n6、熟悉Spring Cloud 相关常用组件，了解服务间调用过程、服务熔断、服务限流等相关概念。\n7、精通Redis、Mysql、Oracle等数据库，掌握常见的命令及安装部署。\n8、了解OSS对象存储的相关知识。\n\n\n二、任职要求\n1、本科及以上学历计算机相关专业，可以接受应届生。\n2、具有独立项目开发的经验。\n3、熟悉了解常见的算法，能够快速高效的应对具有复杂逻辑的产品需求。\n4、对于高并发及多线程有一定的了解。\n5、良好的沟通协调能力和团队合作意识，对技术有强烈的兴趣，具有良好的学习能力。\n6、对气象行业感兴趣，有一定了解或具备相关项目开发经验者优先。",
+      "encryptAddressId": "ef5a5e6aff678f7733d_2dq1GFA~",
+      "address": "北京朝阳区中冶霄云中心B座1106",
+      "longitude": 116.464033,
+      "latitude": 39.959937,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5be834f1ab84434f965cb1cf114ccda",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a73ae3350fc2681cbb462896796686c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "容器技术",
+        "SpringBoot",
+        "SpringCloud",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240430/607f1f3d68754fd0a856043b50676abc8d6d176319a7ad26101dc55cd035789deda2ce4e5ba7048_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "华风新天",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e78703c5753fb6d10XV_2NW_GQ~~",
+      "brandName": "华风新天",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200324/a33ec04d13d1758ea42a1f5216e1943fd05cf869bb3288dfa91a3f97f57ea53d.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "华风新天信息技术（北京）有限责任公司成立于2017年，是“华风集团”与“泰豪集团”旗下企业整合优质资源全力扶持的“混合所有制改革企业”。\n\n华风集团是中国气象局直属高新技术企业，是我国商业气象服务和气象媒体发布的权威机构，也是国家气象局公众服务的核心单位。\n\n泰豪集团是在清华大学和中国科学院支持下发展起来的创新性高科技企业，是从事智慧城市和智慧建筑领域的国家高新技术企业，并成功孵化出了A股及创业板上市企业。\n\n华风新天与股东公司的强项可以形成良好的优势互补。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717070214193,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华风新天",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

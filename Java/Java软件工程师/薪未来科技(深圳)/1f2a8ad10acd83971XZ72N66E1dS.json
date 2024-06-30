@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N9Fe-boN0sc3u-R1fMqJoV17BTxEbO__wXGYva-Ec2LH2fOgsqMq8cyL8TgpcvYVctYiw05m_WbDqqksaXDQqIm7SPhTuUXiQEfSO04iyXr1_2TmoF4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1f2a8ad10acd83971XZ72N66E1dS",
+      "encryptUserId": "e30e1d790ee60e4d33V_09m_EFs~",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100400,
+      "locationName": "晋中",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.熟悉开发流程，能独立完成核心/重要模块的设计、编码、单元测试\n2.参与代码设计、审核和检查\n3.根据需求和业务来架构平台和设计数据库\n4.根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务\n5.负责内部工具、组件、基础服务的开发和维护\n任职要求：\n1. 专科及以上计算机及相关专业学历，1-3年以上JAVA开发经验\n2.丰富的相关框架使用经验，包括Spring、Spring MVC、MyBatis等\n3. 扎实的Java编程基础，熟悉多线程、RPC、消息队列等技术、理解数据结构\n4. 熟悉mysql，oracle等主流数据库，精通SQL;了解redis缓存数据库，并有实战经验，有linux使用经验者优先\n5.良好的团队合作精神和积极主动的沟通意识，较强的逻辑思维能力，善于分析、归纳、解决问题，能够承受工作压力，\n6.接受出差两个月以上者优先",
+      "encryptAddressId": "d4504a38faf5e9230nd83tu_GFE~",
+      "address": "晋中榆次区辛鲸控股b3/2",
+      "longitude": 112.718383,
+      "latitude": 37.730158,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c0ed9c16b150a8b9771f98c3fcff1cd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb6a1be4c0ca896900516829fc5a5c54",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "消息队列",
+        "Linux",
+        "Spring",
+        "Redis",
+        "SQL",
+        "中级软件工程师",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "白女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240202/607f1f3d68754fd0010ecd59303b038aaad0bcd5f328d64f788a461304366a76c251eabe2b5d430_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "薪未来科技(深圳)",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "97d85b7147b65b6a1nd-0t65FVs~",
+      "brandName": "薪未来科技(深圳)",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201228/f5b101f33e5707b3461b077c692306af579205f1a4ded391dcc026c90d6e697a.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "NEW WHALE科技集团公司总部位于全国经济性城市和国际化城市“鹏城”---深圳，在山西、新疆、安徽等地设有全资分子公司，以互联网、人工智能、区块链、大数据、云计算、物联网为基础，以数智政务，数智民生，数智经济为核心打造数智城市围绕着“一朵云、一张网、一平 台、一城墙”数智城市建设需求，服务于政府、企业、社会大众。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1715714402332,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "薪未来科技(深圳)",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

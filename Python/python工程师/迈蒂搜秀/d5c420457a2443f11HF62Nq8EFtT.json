@@ -1,0 +1,116 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VoPEBMr2tfzRd-g1qfuIq6Vli7leRvgJPf-GjNLWBjyuVJAj5sYNl7WhnBBmbl4KnFfTRSaxkMYQX68gl_Sd2cqWgYglhc-ItwMmt880JKJHi8VnYAmiNdaFMdxK3hTOmGMrmFYMgASOTKVoLBvoWuDou8tvtd1HS9Y2Ah50odRtfvwD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d5c420457a2443f11HF62Nq8EFtT",
+      "encryptUserId": "888aab9411fef21d33R52Ny_FFs~",
+      "invalidStatus": false,
+      "jobName": "python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101221200,
+      "locationName": "铜陵",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述\n1、负责爬虫策略与方案制定，爬虫系统架构设计与开发；\n2、负责网站、APP等大规模文本、图片数据抓取，爬虫核心算法优化，提升爬虫效率和质量；\n3、专注于垂直领域数据爬取，并进行多平台信息分析，参与平台数据建设；\n\n任职要求：\n1、2年以上开发经验，计算机相关专业优先，有爬虫和反爬虫经验者优先，有大数据爬虫经验尤佳；\n2、熟练掌握软件逆向静态分析、动态调试、代码跟踪等，有海外社交平台的数据采集经验优先\n3、具有丰富的JS逆向经验，熟悉反混淆、JS跟踪、JS逆向、WASM还原技能，熟练使用AST还原JS、能绕过常见的JS反调试；\n4、熟练掌握常用的逆向分析抓包工具，能解决封账号、封IP、验证码识别、图像识别、风控等问题；\n5、熟练掌握Python, JavaScript开发语言；",
+      "encryptAddressId": "5f9911c085a54bbb03190t-5GFJSw4m3UfI~",
+      "address": "铜陵义安区北斗星城C2栋3层",
+      "longitude": 117.815976,
+      "latitude": 30.948138,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfe198363f0ec94720634f80e4fa92c5096bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf392fb6690b740973c9f2ecc71143c07d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "PHP",
+        "Django",
+        "Tornado",
+        "PyTorch",
+        "PostgreSQL",
+        "MySQL",
+        "Oracle",
+        "团队管理经验",
+        "爬虫经验",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231205/607f1f3d68754fd01d9d74d8c288cbccf506581138fa409c97c36fc7136d3c8d7616f5c8a7e06f8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "迈蒂搜秀",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c2b84d16ca389b111XF53NS7GFE~",
+      "brandName": "迈蒂搜秀",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "绩效奖金",
+        "保底工资",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "零食下午茶",
+        "团建聚餐",
+        "节日福利",
+        "生日福利"
+      ],
+      "activeTime": 1719286253820,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迈蒂搜秀",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

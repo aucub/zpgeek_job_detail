@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2aTgOoHsp0z9--i1HbPqrCmo1T5rTFRhNGtsjBHrZqiAQrvAyPbjmrKzf-ZdgpGBGHxMaO7iO75-wTDSD_e6OlF1O-XgD2IRywEjO1iHAkd36e5DsgE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c914b880723e16f21XB83Nm7GVdV",
+      "encryptUserId": "3443a13d45e6d5f30nJ629q6ElZV",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、具备Java或Java web开发经验，熟练使用Java后台技术。\n2、熟练使用HTML5、CSS等前端技术，熟练使用SQL语言。\n3、熟悉SpringMVC、SSM、Spring boot等Web框架；\n4、熟悉地图操作开发经验优先；\n5、有较强的学习能力；有良好的创新精神和团队协作经验。",
+      "encryptAddressId": "acb93a7d75e33c500HR_29q5FFs~",
+      "address": "广州越秀区东兴大厦5楼",
+      "longitude": 113.307246,
+      "latitude": 23.133894,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d8ffd2d0c741a85191579e03b1ceeb8e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a29dc6a86d00530ce9a25337d1e41ad",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中通服软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a808aea2cb3723f30nB509W4FQ~~",
+      "brandName": "中通服软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220725/7b5b554d84f9729c0fd016b3c2c5259e921b84c28f276d3def1b6c7e2dcc61a6f47e8b0dd6c8fa59.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1716626659939,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中通服软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

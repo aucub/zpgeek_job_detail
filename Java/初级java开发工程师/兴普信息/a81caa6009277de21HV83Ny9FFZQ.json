@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xZUCW6AHiFmKX-61B2eEUb8WgXCzIithDIopkoFebQ7VOgNKqe1Po8f9mY8ml4lFaLIZ6HuFNFhSIzIre9NBec_2LXeMr7THlGaHeRnAqmA3p5YbGw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a81caa6009277de21HV83Ny9FFZQ",
+      "encryptUserId": "df9b3bd3b25107a903Ry29W7FFI~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求\n1. 按照项目计划和需求，与其他成员共同完成开发任务；\n2. 负责Web端和小程序端功能开发；\n3.熟悉HTML5、CSS3、ES6、VUE，至少精通一种主流框架，掌握Webpack、Node； \n4.对交互体验、性能优化、线上调试、工具化有一定的实战经验；\n\n\n后端要求\n岗位要求：\n1、计算机或者相关专业。\n2、1年左右Java 开发经验。\n3、熟悉Java基本框架,特别是Spring boot，有实际开发经验。\n4、熟练掌握常用数据库，如 Mysql，Oracle等。",
+      "encryptAddressId": "ccccc5200c5d4b841nd62ti5GVdR",
+      "address": "广州天河区金发科技创新社区五栋323",
+      "longitude": 113.411022,
+      "latitude": 23.185047,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e7d3c283ceccb74ac5c0ca559b646355",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9561a6dc4e38eb57b63ffe50b5634d2d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Tomcat",
+        "Elasticsearch",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "微服务经验",
+        "ERP开发经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220713/607f1f3d68754fd0db0b571098873b713f05817ffba3b92364f0f4175d8604ab7141cd913ab_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "兴普信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1fa6891a41db5c121nR-3Nu_Fw~~",
+      "brandName": "兴普信息",
+      "logo": "https://c-res.zhipin.com/jrs/1_92d228bc15e0daf0834b5df9766cdaa4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1715533952104,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "兴普信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

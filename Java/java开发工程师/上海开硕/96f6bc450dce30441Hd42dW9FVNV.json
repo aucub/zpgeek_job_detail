@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YS7IHlxp_MXhg-A1hGh_9j6CGiFerM2t0jEI2l52UVqZybqJGoIlghrbnqV6MD4x7NHcPa6LYCD96NSTxn5sidO9j74pWkdjVzHVsXzwj11w_pzvk9csRM7FzSpdJKKtO8PGJecemWoibQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "96f6bc450dce30441Hd42dW9FVNV",
+      "encryptUserId": "63fdc0305ede3ed80Xd539-1EFtQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责公司软件产品研发及软件项目开发工作，并负责编写项目中所需的技术文档；\n2、与主管密切交流，理解业务需求与软件设计，并通过技术手段实现对应功能；\n3、根据主管要求，负责某业务模块技术框架设计与开发，并通过迭代过程不断优化;\n\n任职资格：\n1、本科学历，计算机相关专业；\n2、参与过制造业相关软件的基本概念，包括但不限于ERP、MES、APS、WMS、PLM、QMS等；\n3、具备+B/S体系结构软件产品开发及架构和设计经验\n4、熟悉敏捷开发流程，需求分析、流程设计、系统开发、测试、上线、维护、不断迭代，有实际项目经验者优先；\n5、良好的团队合作精神,勤奋踏实,认真仔细,乐于接受新技术\n6、稳定性好,愿意与公司长期发展\n7、能有稳定的心态面对压力\n\n专业技能：\n1、精通开发语言 如：Java，C#及Ruby等\n2、精通SpingMVC、Spring Boot、MyBatis等常用主流开源框架\n3、熟悉Dubbo、Spring Cloud、J2EE架构\n4、熟悉Oracle、Mysql、Sql sever等数据库\n5、熟悉微服务、分布式架构、缓存（Redis）、消息中间件（ActiveMQ/RabbitMQ）等\n6、熟悉Linux命令，熟悉服务器应用部署",
+      "encryptAddressId": "0dbcd0fa32105d8d03Vy0tS9GVFUwY2_Vfo~",
+      "address": "上海静安区雷士照明(苏河1号华森钻石商务广场店)10楼",
+      "longitude": 121.451701,
+      "latitude": 31.247637,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/503f9361a4735bccd3c68d82324c9555",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92f4c7a7a4b2939c3d57b1912298a487",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "SpringCloud",
+        "Nginx",
+        "Redis",
+        "MySQL",
+        "不接受居家办公",
+        "分布式经验",
+        "MES开发经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240116/607f1f3d68754fd08ad6a07e3791b0df889fb141e43b9b4ca4adc7a15ec48b719d1f6574ef66151_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "上海开硕",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb83719902ddd9cb1Xx-2tq1ElM~",
+      "brandName": "上海开硕",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "开硕信息咨询-引领数智未来\n我们展望未来，上海开硕信息科技咨询有限公司将始终贯彻\n“合作共赢，共创价值”的价值观致力于为客户提供专业的信息化解决方案。",
+      "labels": [
+        "生日福利"
+      ],
+      "activeTime": 1717130854170,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海开硕",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

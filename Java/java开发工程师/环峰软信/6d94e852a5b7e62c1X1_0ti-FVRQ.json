@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2Mo74YqD9KhnF-m1Fr4Xqi_7Nn29XFMoyrNPrOuUNdHMEVTLKlgs9nglUhElCAJK1oE1oFDjxW4ccTLMHRpQMv2HPvh_Li1EcHdlm44oVrIs6hQVbw-j",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6d94e852a5b7e62c1X1_0ti-FVRQ",
+      "encryptUserId": "dff2901ea4b5b3af0nxz3t66EVRW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、按照产品设计需求进行技术需求分析和软件设计；\n2、进行软件详细设计和编码实现，确保安全、质量和性能；\n4、参与服务端架构设计、制定相关技术方案；\n5、负责核心功能的开发实现；\n6、产品人员对接，保障产品需求到系统功能实现的合理落地；\n任职资格：\n1.3年以上java开发经验；\n2. 具有良好的沟通及逻辑思维能力极其丰富的大型Web项目开\n发经验\n3. 具有较强的面向对象分析及设计能力，丰富的系统架构设计\n经验\n4. 精通多线程技术，能够处理高并发或者异步模型\n5.熟练掌握JAVA高级特性，例如反射、高并发，事务等\n6. 熟练springboot、mybatis、maven等主流开源框架，理解其设计思路，并有一定的个人见解；\n7.精通SQL程序设计和优化，熟悉索引、视图、存储过程等概念和开发，掌握MySQL, SQL SERVER,Oracle数据库使用；\n8.熟练掌握一种以上NOSQL数据库，并能够设计对应的业务模\n型\n9.精通nginx，redis集群配置，掌握memcache, ehcache缓",
+      "encryptAddressId": "d613c341ab689b4f1nR729q-EVBS",
+      "address": "武汉江夏区国网电力科学研究院有限公司(未来城园区)2楼",
+      "longitude": 114.577073,
+      "latitude": 30.477903,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa261811156b5c87a61e38e74afb297216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230626/48ba41acc9cef1bf5f45fe159403c0f6e2527e453a9330f26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "环峰软信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dedbd6ec528435941Xx83du-F1Q~",
+      "brandName": "环峰软信",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240605/7bf6f160950405e9ead67727219d4ac2454c4662c188b159208187b7b9d32fb4a4dd1821ceaf3d62.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717103921499,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "环峰软信",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

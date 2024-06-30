@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "knlY8HlmewGt6-a1ALOYr_NsZyTjjWlC1tGWsCmP_XC849d4nRHqULeGxAN9HPwwxEQpRprYFDivLKgshqTAVPaHRhpoHTJuWTiRm6O6GJ-Htl0Dp_A-LkCwnp0CiG7FeEdmplQrptRv5w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6aec7918a1972e431HJ439y8EVdW",
+      "encryptUserId": "2c9aeeda5577c8d81nR-3N61E1RW",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "1.精通J2EE的WEB体系架构，熟悉JAVA和面向对象设计方法。\n2.深入理解Spring、Spring MVC、Spring boot原理\n3.熟练使用SSM、SSH框架\n4.熟练使用MyBatis/MyBats plus、Spring data jpa等ORM框架使用\n5.精通Oracle、MySQL使用、开发、调优；\n6.熟悉主流J2EE应用服务器配置和调优\n7.熟悉Redis或其它缓存中间件使用\n8.熟悉Kafka、RabbitMQ、RockMQ等消息中间件使用\n9.熟悉全文索引技术(Elasticsearch/Lucene/Solr)\n10.具有基本的面向对象设计能力\n11.熟练使用Spring Cloud系列组件及理解各组件基本原理\n12.理解分布式事务及实现方式\n13.有线上支付业务开发经验",
+      "encryptAddressId": "6af763ec93d60b243nZ70tm9GFA~",
+      "address": "太原万柏林区信达国际金融中心2506",
+      "longitude": 112.521465,
+      "latitude": 37.857166,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bf88de068845265de363502844352931b16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230517/48ba41acc9cef1bfe51a3d35b7bb02878fd9b84b879a6a5e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200417/5dd19910040afe6632625ce031f9ec1a5bab57cd6c90f7953e46711f206_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "鼎亿顺",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0641d89e6b73d5911Xd-2tq9ElA~",
+      "brandName": "鼎亿顺",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101106,
+      "industryName": "其他生活服务",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "全勤奖"
+      ],
+      "activeTime": 1719574335770,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鼎亿顺",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

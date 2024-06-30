@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KxTvWhthSaBbH-N10T0_XgMMtt8-2JAaUwtCnsapgUVrdwykCKC6GCeU8JGZmljAv73zZw1L8H2HZG6HicDTEhl1D52TlAOMFBVof0JO-_L4RCDQbg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4c00213250c57e3e1nZz2Nm8GVdY",
+      "encryptUserId": "fa7a8cd73ab7b78a0nZ70tS5FFRZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的需求分析和方案设计；\n2、独立完成个人承担模块的开发和测试；\n3、负责相关的项目实施支持工作；\n4、参与编写相关的技术文档；\n\n任职要求：\n1、计算机或相关专业本科及以上学历，2年以上java项目后台开发经验。\n2、有扎实的Java基础，熟悉JVM、多线程、IO、并发以及网络通信，了解数据结构与算法基础。\n3、精通J2EE体系结构，精通主流开发框架：Spring Boot、MyBatis等，了解SOA、分布式、微服务架构体系；\n4、熟悉Tomcat、Nginx等主流应用中间件；\n5、熟悉Mysql等主流数据库原理和操作，了解常用SQL优化手段。熟悉Redis，memcache等缓存数据库。\n6、熟悉Linux平台常用操作命令及服务器相关知识。\n7、自学习能力强，能较快的掌握新知识，能独立分析和解决问题；\n8、有较强思维逻辑和沟通能力，喜欢编程，对事业充满热情，能够独立完成后台模块的设计和开发工作；",
+      "encryptAddressId": "c8253052660bf83903Vz3Nm_GFE~",
+      "address": "北京海淀区上地国际创业园东区D座3层",
+      "longitude": 116.30595,
+      "latitude": 40.047059,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d608e196c66125b4f357306de587589",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b5af2f7281f034eeaccc23035e7f44d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "算法基础",
+        "Oracle",
+        "MySQL",
+        "后端开发",
+        "Linux",
+        "软件工程师",
+        "大数据"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "嵇女士",
+      "title": "HRD",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210312/458127df42cd295dddb9dbaac7cf913aa422fac45ca5d708235ac5dd6b7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "翰云时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bb9339dca6582bce0XV43d-9",
+      "brandName": "翰云时代",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170418/db10216b38c7001a5796dd983e6fb0de4edd5d5e8b85a9073586e6981e1bb243.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717070187535,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "翰云时代",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

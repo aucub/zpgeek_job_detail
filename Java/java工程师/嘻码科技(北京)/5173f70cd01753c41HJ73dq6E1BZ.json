@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BDR8NISlT6cUm-91As7e6psrf-mqd0fz4lxtYENhMSFrdkE04ckNf_P2ueV-HF8DUmDBRTX8b82HFTX7NYiFbn-8-Looe8ksbreZtwVn2jkquof64b5b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5173f70cd01753c41HJ73dq6E1BZ",
+      "encryptUserId": "6797b3cd0204bd931nV-39-5EFdQ",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1. 负责公司项目研发、及对接App服务端的开发和维护；\r\n2. 制定业务系统相关的数据接口标准，进行相关系统接口开发；\r\n3. 根据开发规范与流程完成模块的编码、测试以及相关文档；\r\n4. 服务器部署与数据设计和管理，系统设计、优化、重构、拆分，参与技术方案制定与实施；\r\n职位要求\r\n1、精通Java编程，能够熟练应用spring、Springboot、Springmvc、mybatis等主流开发框架；\r\n2、良好的软件工程意识，熟悉常用的软件工具（如：Git、Maven、jenkins等）\r\n3、熟悉分布式、缓存、消息、搜索、等机制，能对分布式常用技术进行合理应用者优先\r\n4、熟悉mysql、Redis、rabbitmq等常用中间件，对SQL性能调优有一定的经验\r\n5、熟悉 Linux 基本操作，了解 docker 等容器技术\r\n6、责任心强，具备良好的沟通技能，团队合作能力和承受压力的能力\r\n7、有电商业务系统开发经验的优先\r\n8、熟悉手机APP小程序的开发者优先考虑",
+      "encryptAddressId": "cc47158e72f662663nV72tS1GVNRxo28VvM~",
+      "address": "北京海淀区学院南路8号院北京海淀学苑南路",
+      "longitude": 116.366558,
+      "latitude": 39.957667,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bf02c8f81afde5a409434eb182e71a87d76bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bf4e60e82f83bc9494f49bedb6670e9b946bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "嘻码科技(北京)",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f7a188e795817d051Hd709m9EVE~",
+      "brandName": "嘻码科技(北京)",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240511/7bf6f160950405e9b2aaa7b4dc5121246c52ced6c359d58de7045fdde66f85901e016ca9092b1aad.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1718103478605,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嘻码科技(北京)",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

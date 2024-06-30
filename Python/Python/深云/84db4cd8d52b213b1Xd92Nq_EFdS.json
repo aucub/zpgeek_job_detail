@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "u9rRFh2bKb-EX-J1XzmVEMlu_e9eGuy1b4uFOVT6ciPF1NHz9cydUhhp6yns7XbeziUmvyas-GfBW9gqnLRwCXqrjhud4ueWyXJD5yH9XEZkxzl8xPMq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "84db4cd8d52b213b1Xd92Nq_EFdS",
+      "encryptUserId": "be6f456df23294240nF709S_FFNY",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司内部系统的设计与开发；使用python语言实现系统的后端研发；\n2、解决开发过程中遇到的问题，对程序存在的缺陷进行改进，对程序的性能进行调优。\n\n任职要求：\n1. 熟悉Python语言，有1-2年Python开发经验\n2. 熟悉Python Pandas模块，能够进行基本数据处理和分析\n3. 熟悉python-xlsx,xlwings,win32com,PyAutoGUI等Office自动化开发相关模块\n4. 熟练使用FastAPI模块开发web服务；\n5. 熟练使用git进行代码管理；\n6. 有Python RPA项目开发经验优先考虑。",
+      "encryptAddressId": "a2c2a526783e9fb10XJ52du-GFQ~",
+      "address": "广州天河区寰城海航广场8楼全层",
+      "longitude": 113.328751,
+      "latitude": 23.142088,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2c1b6c82fe1ed833f18a7c65692970b2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8904170d01a1c7610286c55d9af1a253",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "机器学习工程经验",
+        "爬虫",
+        "数据开发",
+        "机器学习/算法工程",
+        "服务端开发经验",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "深云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "72878dec528ace001XZ72967FlU~",
+      "brandName": "深云",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1717073434082,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深云",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

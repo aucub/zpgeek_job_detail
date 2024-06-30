@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BVCDxWuL_5bT6-i18eYsuq2hdnaQ3CtLtsF0mCaqb2hr-Y_hGv2hAD8bSd1foLagMOeIxKJ15r4BonYPeUQokO_1rUQW2Bs3OnkHDmtSlC-1mrayX9Uiv3W4JnwgDm4dEe6kWta8ecg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "245ea36207cb7cf61HJ73Nq7F1BX",
+      "encryptUserId": "cb1e786bd9b9692d03d529q-FVI~",
+      "invalidStatus": false,
+      "jobName": "信创测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、协助客户进行软硬件适配验证工作，包括底层物理服务器、虚拟化平台、操作系统、中间件、数据库等，并基于实际验证结论出具适配报告。\n2、配合厂商完成新楼环境一平台四中心（包括一体化协同平台、楼宇运营中心、IT运维中心、综合事务中心、人力资源中心等）的应用部署以及各应用系统间的联调对接，并对相关功能进行验证；\n4、开展各应用软件与底层架构、基础组件的适配测试，并提供相关测试报告；\n5、负责各应用软件的培训文件审定，培训结果评估等事宜。\n技能要求：\n1、掌握主流国产化操作系统、中间件、数据库等安装、维护等工作；\n2、熟练使用Tomcat、Nginx、Redis、minio、kafka、rabbitmq、TongWeb、TongRDS、TongHS等中间件；\n3、工作态度严谨认真，有敬业精神，并具备良好的团队合作精神；",
+      "encryptAddressId": "bbc6c099dccf5c713nV709-4EltYxoS_V_w~",
+      "address": "上海闵行区万象城吴中路",
+      "longitude": 121.367874,
+      "latitude": 31.169472,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efc6311d604f75e535f1a589f26418cb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d97b71aead5cdacb4bce01bbe04c318",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "计算机相关专业",
+        "通信相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "客户总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "远发信息",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2bb566830d3bd9681Xdz2tS8Fw~~",
+      "brandName": "远发信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717756474614,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "远发信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

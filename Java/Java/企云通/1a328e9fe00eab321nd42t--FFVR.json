@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lJQ6DPKYQqvBk-a1fF47ZCcKjzZqfiXpotj4BkrkeMRUdZpjITTDxbwbzZmzDPAlij065vctRaMbdYpi5dX5ppClPb0xBLZzjzDm4mCQvPXLgnQrEuz68kwS_E7J1WOCpH4gy6pqj6I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1a328e9fe00eab321nd42t--FFVR",
+      "encryptUserId": "eddd5db5772c65e41X162dy_FlU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司产品子模块的功能规划、需求分析设计、技术实现和用户体验； \n\n2、负责所属模块的代码开发、调试与维护工作；\n\n3、积极响应客户需求并进行开发/定制化开发和交付；\n\n4、参与公司产品的架构优化，性能优化并辅助其他模块进行技术实现；\n\n5、协助并完成其他各类技术开发任务。\n\n岗位要求： \n1. 具备2年以上实际Java编码开发经验，条件优秀者可适当放宽\n2.能独立设计功能模块，并完成编码工作；\n3.熟练JAVA、JSP、SERVLET、JDBC等常用的编程技术；\n4.熟练HTML、CSS、Javascript、jquery、Ajax等常用的变成技术；\n5.熟悉主流Java开源框架SpringMVC、hibernate、MyBatis；\n6.了解springboot框架、了解springcloud分布式微服务框架\n7.了解一种关系型数据库（Oracle、MySql、SqlServer等），熟悉标准SQL语言，能够熟练编写SQL；\n8.熟悉TOMCAT、JBOSS、WEBSPHERE等常见服务器的配置与发布；\n9.熟悉Linux系统，掌握常见的Linux命令；\n薪酬福利：\n五险一金、全勤奖、美味点心、差旅补贴、生日及节日福利、员工体检、员工旅游等；\n作息时间：每天八小时工作制（9:00-18:00，午休1小时），双休+国家法定节假日。",
+      "encryptAddressId": "60770d863a45a0bc03Z82ti_EFY~",
+      "address": "上海浦东新区上海御环科创产业园2号楼421",
+      "longitude": 121.557202,
+      "latitude": 31.158227,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/816e8ab5fcced055355668ee0f40a43c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39658fa4bd37f34850b56330acefe269",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "SpringBoot",
+        "MySQL",
+        "全栈开发",
+        "后端开发",
+        "HTML"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朴先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170703/94bad5a13fd1d3aa63053d243db839400b0da57751442d7a1840c51a227_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "企云通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "31a7e90ab9516a3033x939y_FQ~~",
+      "brandName": "企云通",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1716777789772,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "企云通",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-sw256XpmBpx4-61HdlFKJuWwjqeh8fKXOIxq_wQBa3bVg7vezMkEYQ7WvMg9yo002xZyyGywVX1i577D6IxGoTSuM5MwS4PPdNsuHp6g-ime5W3DJa6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "caf5c8b7f617802f1Xx809--EVNV",
+      "encryptUserId": "9b2941564a73b1b90n1_29-1GVBY",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用idea开发环境和git版本管理工具\n2、拥有扎实的Java编程能力,熟练使用开源框架：SpringBoot，Springcloud、Spring MVC、MyBatis等。\n3、熟练使用前端技术：html、css3、js、Vue.js，ElementUI,要求能根据蓝湖或者设计图，写出前端介面(加分项)。\n4、熟悉缓存中间件：redis、memcached至少一种。\n5、熟悉Linux、docker、nginx等，具备相应的应用服务部署及优化能力。",
+      "encryptAddressId": "860bb7d00fa4ba5533x939W6F1E~",
+      "address": "深圳龙岗区硅谷动力1007",
+      "longitude": 114.271339,
+      "latitude": 22.721379,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bfb06a2f3f98f7d6498c259f6b649bd1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f74b27b0fd817807df82b5107f50f08b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邱先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "深圳市多一点科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "693711f293815e771XJz3Nm8E1Y~",
+      "brandName": "深圳市多一点科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719309268701,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市多一点科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

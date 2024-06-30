@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iyElrBNTDB61g-91X5VB_72Ktj4JWjYtwhaQbDYoTnRL16OuD4z8GSmud0-MGb6OhWJHZJYy3fb3oYSK6oykMPDvvs8riAihWA1tUSa8CGE3fKHEerQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17a3c0a0c04e0e2e1Xx90ty0EVBY",
+      "encryptUserId": "2f5d9362faee0e7b1HB_092_FlE~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "1. 掌握基于 SpringBoot 的业务开发，了解 SpringCloud nacos 微服务，Feign 接口调用\n2. 掌握 mybatis，mybatis-Plus，Jwt，swagger，redis 缓存等技术\n3. 掌握 Mysql 数据库，了解索引优化规则，B+树底层原理实现，掌握 mbpORM 框架\n4. 熟悉 hook 技术，内存操作，网络爬虫，网页模拟操作等\n5. 熟悉 Html，css，Vue.js，Axios，ElementUi，能独立进行前端开发\n6. 熟悉 http，websocket 通讯，微信公众号业务开发\n7.了解 Windows 桌面软件开发，了解 DLL，win32API 调用机制",
+      "encryptAddressId": "24904d7eff4db18533dz29i5F1s~",
+      "address": "广州天河区东圃购物中心B座309房",
+      "longitude": 113.403007,
+      "latitude": 23.119741,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f9bc29744c60574f764974e56246c73",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20e5f58eff646d9a185de03e1e2bba6c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "安先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230316/607f1f3d68754fd07a0b994c89467f3e6d6e0da16576e31af4285d9b3af7a3c67560277d082_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "天喜科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "751153c53680cda31XFz2d65GVM~",
+      "brandName": "天喜科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230317/7bf6f160950405e9300f51f4ab2408231da2ab2cdde750d7f4285d9b3af7a3c67560277d08229802.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "天喜科技为智慧城市公共安全系统建设提供专业的解决方案和全面的产品服务，助力构建全方位消防安全监管及风险防控体系；以消防安全管理为切入点，综合运用物联网、大数据、云计算等IT技术，创新运营机制、服务监管模式，构建基于新兴IT技术的消防社会化服务体系，提升消防安全综合管理、应急指挥和城市火灾防控及灭火救援能力，为公共安全发展贡献力量，为人民火灾安全保驾护航!天喜科技是专业的物联网+管理方案提供商，致力于把智慧城市安全信息化建设，实现动态展现、立体监管、精细服务。结合行业特点量身打造安全、高效的服务解决方案。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1719283776756,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天喜科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

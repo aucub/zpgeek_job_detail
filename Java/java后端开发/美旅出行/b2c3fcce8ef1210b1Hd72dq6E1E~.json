@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MLNLf1McvGntb-k1RgvM5pRx2rvq7b5ViCs2NKr4vzwAO_eijlbqa99hc2ipW2gn1vo3KLVcUC4XPcatrSxxmqs16cKngkUzgRvH_ealz9Kc6Y_nft44FFFM_B30_7H6_KxVLV1s",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b2c3fcce8ef1210b1Hd72dq6E1E~",
+      "encryptUserId": "d143aed03c402c301HR50tu_Ew~~",
+      "invalidStatus": false,
+      "jobName": "java后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机或相关专业优先，至少2-3年工作经验；\r\n\r\n2. 精通JAVA技术，精通设计模式，对面向对象和模块化设计有深刻的理解；\r\n\r\n3. 对Spring、Spring Boot, Spring Cloud 了解其原理和实现机制,并有实际项目经验.\r\n\r\n4. 熟悉Mysql数据库管理、开发；\r\n\r\n5. 熟悉应用服务器和开发工具，如Tomcat等，能对目标系统进行优化配置；\r\n\r\n6. 熟练应用Linux操作系统，熟悉Git版本管理软件；\r\n\r\n7. 有ERP开发经验者优先；\r\n\r\n8. 有强烈的求知欲、优秀的自我学习能力、熟悉流行的开源项目；\r\n\r\n9. 工作积极主动，具有强烈的责任心、事业心，具有良好的沟通能力、团队配合精神。",
+      "encryptAddressId": "6da40aa8d4eacd273nF-3tm9EA~~",
+      "address": "杭州萧山区望京c座21楼",
+      "longitude": 120.2538,
+      "latitude": 30.23804,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eda15882bf798f3690f50e1ce06b347d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/554430aa14d10626685b8670e9e1245b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "数据挖掘"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "软件研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230725/607f1f3d68754fd081de5154564f72b7a1ead40f4a02a41a573aea284ffac203c3b8b3ad8aa677b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美旅出行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1538774aa0c2a7991nN53tm8FA~~",
+      "brandName": "美旅出行",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/e5278deda33ad00e0fdc6f518ea06cb06f7d9539ea979bb67d9a1fc916337260.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "温州美旅公司是目前为止温州最大的共享停车企业，以旗下APP和物联网硬件设备作为主打产品，旨在提高空闲车位的使用率，方便用户快速找到车位。目前公司处于Pre-A轮，公司研发部在杭州，其他部门公司继续放在温州运营。扁平化管理，团队均为90后，注重能力，气氛自由的互联网公司。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1717127066546,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美旅出行",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

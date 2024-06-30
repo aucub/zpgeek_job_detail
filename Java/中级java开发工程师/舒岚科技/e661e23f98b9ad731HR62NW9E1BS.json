@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uMt0VC2qYN6b1-H1hB87CdVBBbb1S3kmYAtIwuSXyudozIDvHUpJjz7wIhpgltXZiv7b1tXxlH2kHj0PoukWN9PSDVIjEaHjAjBBkbFNfThHt-0T6Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e661e23f98b9ad731HR62NW9E1BS",
+      "encryptUserId": "6f7a6c8d893039ae0nR529u5F1s~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟练java基础，有良好的编程习惯，熟悉常用的JavaAPI\n2.熟练掌握Spring、SpringMVC、SpringBoot、SpringCloud、Mybatis、Mybatis-plus 等主流框架\n3.熟练使用MySQL、Oracle、SQLServer等数据库，了解SQL优化\n4.熟悉非关系型数据库Redis的使用\n5.熟悉使用RabbitMQ、KafKa消息队列\n6.具备规范化接口经验，并熟练掌握接口测试方法（mock等）\n7.具备Docker部署能力\n8.熟练使用IDEA、FinalShell、Navicat、PostMan、git、SVN、PowerDesigner等工具\n9.使用过类似MyCat中间件优先；\n10.熟悉前端相关基本技术优先，如Vue，HTML5，JavaScript，CSS，jQuery，Ajax等；\n11.专科及以上学历，至少1年以上实际开发经验；\n12.有良好的编码规范和接口设计规范，代码精益求精，重视数据、代码及系统安全；\n13.有良好的沟通能力、团队协作能力，工作责任心强，踏实进取，具有良好分析问题和解决问题能力。",
+      "encryptAddressId": "3075e5c287bde61d3nx43N27FFY~",
+      "address": "上海闵行区宇培国际中心b308",
+      "longitude": 121.32349,
+      "latitude": 31.203866,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230409/48ba41acc9cef1bfd972c0b8be0514b8c20d5dc596048cdb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bff4f1890dd573153da7340f1d7084a73a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200308/b78d38d09049788eaf593c6831f1ff63e2a2b4b660fef202cb9f52d4f14_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "舒岚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab5d65722aaf0de303Vz3Nu7FA~~",
+      "brandName": "舒岚科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1716717409421,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "舒岚科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

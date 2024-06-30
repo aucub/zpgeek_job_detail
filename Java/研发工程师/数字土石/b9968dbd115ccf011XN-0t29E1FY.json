@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wQya3DQom3htn-j16-sH8-uC8q52OZ9dIf2vmLmNCqjNAcXBpY7I1oPIEcc-ZLOIk8Ktj0IV49Y6wUgqpUtVLVVJKnzvpYGF09vy64uxsa1-QSXKvMLsANo9KENmjzgAM2jIf3CQE0_yLZRkPpnvns0SROLlyhxfeKko-KnrnFpXq9Wr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9968dbd115ccf011XN-0t29E1FY",
+      "encryptUserId": "067dd132a79eb81b3n1-3dW4FVE~",
+      "invalidStatus": false,
+      "jobName": "研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090500,
+      "locationName": "唐山",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、完成软件的设计、开发、编程、单元测试等任务；\n2、根据测试人员提出的问题，对软件进行修改；\n3、根据项目要求编写相关技术文档；\n4、参与软件需求、设计、审核和评审；\n5、搭建系统环境，完成系统调试、集成与实施；\n\n任职要求：\nJava\n1、熟练使用多种开发工具，如：IDEA，Eclipse等；\n2、精通Java语言，熟悉Java设计模式，熟悉常用框架：Springboot、Spring、SpringMVC、Mybatis；\n3、至少掌握一种数据库，如：mysql、Orcle等等；\n4、掌握HTML、CSS及JavaScript等Web前端技术；\n5、吃苦耐劳，有团队精神\nAndroid\n1、精通Android基本开发，能灵活运用四大组件进行开发\n2、精通客户端数据库、网络、图片处理功能库以及相关开发\n3、精通设计模式，有架构意识，能主动重构代码\n4、熟悉四大组件工作流程、系统服务启动过程、多线程以及多进程开发，会使用AIDL进行多进程服务开发\n5、熟悉主流系统版本/机型/分辨率的兼容，能够独立解决兼容问题\n6、吃苦耐劳，有团队精神",
+      "encryptAddressId": "11805830c438a0e833B80967ElA~",
+      "address": "唐山路南区南湖春晓商业楼1号楼",
+      "longitude": 118.145166,
+      "latitude": 39.602481,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f9b19c38a9ec523544ec79540db539c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20689492883c2c2ed983e92632d60994",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "架构师",
+        "Java",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "数字土石",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2a2d7353b22908c01XJ60ty_Flo~",
+      "brandName": "数字土石",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719292290211,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数字土石",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

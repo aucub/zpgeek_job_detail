@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oYj7g8lC0jybm-u14ofyY5f18f3V7huzfNXqf1fptroxqdmkiss608b4FxUOA-8Se6jRpeBQj0ftXR1WlNxP0cYCLDc40kbQPnJ2BK5KO6i4Ge7a96BC0u1qhpjAeeGBugPdSdTJ7JAtbQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af251cb8ece857211HF42N27FltS",
+      "encryptUserId": "11b3c06004f0a9020nB_3t68EVJZ",
+      "invalidStatus": false,
+      "jobName": "WEB后端开发（中级）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "1、负责智能终端应用服务器端的设计和研发工作，根据产品和项目需求，分析、设计与实现服务器架构方案；\n2、负责数据库设计、系统详细设计和核心业务编码工作；\n3、进行软件详细设计和编码实现，确保质量，安全和性能，负责解决产品运行中出现的技术问题；\n任职要求：\n1、计算机或相关专业本科两年及以上工作经验，至少一年及以上后端系统产品设计开发经验，并有至少一个主导设计并成功上线的项目\n2、对于Java基础技术体系（包括JVM、类装载机制、多线程并发、IO、网络）有一定的掌握和应用经验、精通Java语言、JVM原理和相关数据结构尤佳\n3、良好的面向对象设计理解，熟悉面向对象设计原则，掌握设计模式及应用场景\n4、掌握Spring Boot、Spring Cloud等开源框架的搭建及使用，熟悉底层中间件、熟练应用负载均衡、弹性扩容、微服务、缓存、分布式存储、分布式事务、消息中间件等优先",
+      "encryptAddressId": "7752c399160a4bfc1nd82dy7ElJR",
+      "address": "成都武侯区长虹科技大厦(天府四街)29楼",
+      "longitude": 104.063418,
+      "latitude": 30.541223,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf82e9e8ebb75bc2cbd45b13ac2fde253e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa1562d9b348ec0cd8039aacacbd8db586bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公",
+        "分布式经验",
+        "微服务经验",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "长虹多媒体",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "67d28db7c3fd078f1nB-3968GVI~",
+      "brandName": "长虹多媒体",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/4295097ac0e591858d8f76555082848dcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101004,
+      "industryName": "家具/家电/家居",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719195637466,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长虹多媒体",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

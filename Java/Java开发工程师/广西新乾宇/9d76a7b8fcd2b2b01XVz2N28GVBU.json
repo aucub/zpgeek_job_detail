@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dF6Kskxn_ZMA--Z1K_XJ7hIai7RN1Sm1ksnVN2sU_yZ1qJeHe9B5gSOh_55VOYt2fPoJxXOdv2Dqv92Tb3w_H_hsZCSL_LfV7T3eBjinfszyWYRDzllyFti-WkQC-3VHCGLT9XgnplQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9d76a7b8fcd2b2b01XVz2N28GVBU",
+      "encryptUserId": "cfe455eb1ac015ef3nxz2t6-EFA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300300,
+      "locationName": "柳州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "招聘要求\n1、负责整个研发系统应用架构与开发。\n2、参与项目的需求分析、设计。\n3、不断优化架构性能，推动系统往更高效和稳定的方向发展。\n4、积极尝试新技术、新方案，拥抱技术革新，用创新的思路解决问题。\n5、1-2年开发经验，系统设计架构经验不低于1年。\n6、精通常见设计模式。\n7、精通springcloud微服务开发。精通常见并行算法，分布式算法。\n8、熟悉各种架构模型，队列模型，生产者消费者模型等。\n9、熟悉各种组件，了解用法，特性，优势，例如：redis,mongodb,各类mq,http服务器，k8s，k3s，链路跟踪，预警，消息通知。\n10、熟悉常见协议模型，能够根据系统/场景，进行架构选型。\n11、熟知各种锁，了解各种锁的解决方案。\n12、能够排查性能瓶颈，能找到瓶颈的解决方案。\n13、有一定的学习能力，与时俱进，能够熟练运用人工智能AI工具辅助项目开发工作。（硬性要求，不按照要求开展工作的，在试用期过后不予以正式录用。）\n进阶要求：\n1.熟练使用spring，mybatis、redis等开源框架；\n2.熟悉Unix/Linux操作系统和开发环境，至少熟悉一门脚本语言，有扎实的java编程基础,熟悉IO,多线程等技术；\n3.熟悉PostgreSQL、mysql等常用数据库，具备系统数据库设计能力，能编写高性能的SQL；\n4.熟悉rabbitmq，kafka等消息中间件的一个或多个；\n5.熟悉分布式系统的设计和应用；熟悉springcloud分布式服务框架；\n\n\n基础要求：\n1、熟练使用SpringBoot、Spring Cloud等框架，并对框架原理熟练掌握；\n2、熟悉MySQL的应用开发、常见的性能调优和可扩展性设计，了解Redis缓存技术等NoSQL数据库； 有大型分布式系统经验、大数据处理经验优先，熟悉高并发、高可用的常用解决方案，熟悉负载均衡、代理、缓存、队列等；\n3、熟悉HTTP协议，熟悉JSP、Servlet、HTML、XML、JSon、AJAX、JS等技术；\n4、熟悉常用应用服务器如: tomcat等的使用及相关开发配置，了解linux系统常用操作命令；\n\n薪资待遇根据实际工作经验详谈",
+      "encryptAddressId": "2d7b1627d4af5c9b0nZy0ti9EVM~",
+      "address": "柳州城中区中信银行(柳州分行营业部)桂中大道南段7号和丰聚富大厦附属楼3层",
+      "longitude": 109.430945,
+      "latitude": 24.330896,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a40e86165fb58994008043724f3784ad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f62ac36127d733948f2a59b4b3d17624",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "大数据处理经验",
+        "不接受居家办公",
+        "企业级应用开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "廖先生",
+      "title": "区域总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "广西新乾宇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6dbb0971ad1b7f7d0XR50tm_FQ~~",
+      "brandName": "广西新乾宇",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200318/f01183ffac90c1eedd94a35a3b14d839f8868b8be2eca803c209cc26d67b2f54.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广西新乾宇通讯科技有限公司，是由一支高新技术团队创立的创新、领先型科技企业。主要从事软件定制开发、硬件生产、大数据平台建设、信息化系统集成、通讯设备与工程以及计算机网络技术、安全技术防范、智能交通、智慧园区、外国政府贷款等多元化业务的服务领跑者，致力于为企业、公安、检察院、法院、司法等客户提供全方位的整体解决方案。\n公司创立于1997年，总部位于广西壮族自治区首府“绿城”南宁，经过二十多年的不断发展，公司秉承“客户即上帝”的服务理念，为客户解决后顾之忧。公司在杭州设立了产品研发、软件开发中心。全区10个地市成立了分公司或办事处，形成了丰富、快捷、高效的售前售后服务网络，专人驻点、24小时在线的服务。现有员工超百人，不断探索软件开发、大数据、云计算、人工智能等新技术与各行业的深度融合，实现信息全面感知、管理精细化、执法规范化、防控智能化、指导科学化，从而推动各行业模式的转型升级。\n公司注册资金3000万，企业信用等级为“AAA”级，获得涉密信息系统集成乙级证书、电子与智能化工程承包贰级证书、系统集成叁级证书、安全生产证书、安防工程企业设计施工维护能力二级证书、信息系统运行维护能力叁级证书、ISO9001等级：2015质量管理体系认证证书、ISO14001等级：2015环境管理体系认证证书、OHSOS18001：:2007职业健康安全管理体系认证证书以及33项软件著作权登记证书。\n经过多年对众多大型项目实践的磨砺，公司不仅积累了丰富的开发和创新经验，而且取得了丰硕的成果。公司紧跟时代脉搏，精准把握行业现状，预测客户未来需求，顺应产业升级需要并充分应用新技术，整合国内外先进的生产和服务管理理念，彰显和提升企业核心竞争的绝对优势！\n新乾宇人一直以来充分发扬开拓进取、诚信为本的企业精神，坚持走合法、规范、诚信的道路，凝聚了一批优秀的管理人才，培养了一支高素质并具有开拓创新精神、团结协作精神的员工队伍。\n广西新乾宇通讯科技有限公司愿与社会各界朋友一起共创美好的明天！",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "带薪年假",
+        "全勤奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+      ],
+      "activeTime": 1716258535984,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广西新乾宇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

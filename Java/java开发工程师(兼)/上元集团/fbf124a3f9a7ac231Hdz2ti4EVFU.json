@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dzXRlhHBjS9QF-a1CmtWPvNQmDjWUjdMv1w8QicaNcGlpFfj0d1MB7DT-_eBHtko3Y7gl8htCHvzG5-x_lU4mR636XuKXZqFs9xDOSTgnlb9DqyP_3Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fbf124a3f9a7ac231Hdz2ti4EVFU",
+      "encryptUserId": "636f78aa1fa51e270HZy3Nq_EFE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师(兼)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、物联网接入平台整体架构设计、体系及其标准制定与功能模块设计；\n2、负责物联网数据采集层、数据传输层、云服务层、业务应用层的数据传输协议与接口规范定义及云平台架构搭建，并制定产品解决方案；\n3、负责软件框架代码的编写，客户现场数据采集与分析、调试、故障解决等工作；\n4、负责公司物联网的应用软件开发；\n5、负责系统核心代码编写，负责各个感知设备数据接入。\n6、维护现有物联网关软件。\n7、与设备厂家进行网关数据交互调试\n\n任职资格：\n1.熟悉Spring、SpringCloud、SpringBoot、Mybtais、Netty等框架，并有实际应用；\n2.熟练掌握Redis、MQ、ElasticSearch、Mysql等主流中间件；\n3.熟悉TCP、HTTP网络协议，有JT808协议开发经验者优先；\n4.熟悉微服务系统设计开发，对docker k8s容器技术有一定的了解；\n5.熟悉 JavaScript、vue 等前端技术，能够协同前端工作；\n6.熟悉常用的设计模式，能够进行分布式系统的设计开发工作，良好的设计思维及习惯；\n7.对数据治理有一定认知，有数据治理相关产品规划、设计、开发经验者优先。\n8.有一定的物联网项目开发经验。",
+      "encryptAddressId": "c032597e50f89fff3n163t25F1U~",
+      "address": "北京朝阳区北京上元控股集团总部A06",
+      "longitude": 116.511046,
+      "latitude": 39.905324,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f330714b24f119fe6354de22d3ae4fba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ab75d55532ef7f05fb16086ef97eda2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C",
+        "Python",
+        "Spring",
+        "MyBatis",
+        "Hibernate",
+        "MySQL",
+        "Redis",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211013/607f1f3d68754fd0226561e207f2195ea0fdcde3e641c300734786644cd149db54e5a05d389_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "上元集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "48a87da2c8cb8ad61Xx-3Nu9F1Y~",
+      "brandName": "上元集团",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100701,
+      "industryName": "房地产开发经营",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719195486150,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上元集团",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

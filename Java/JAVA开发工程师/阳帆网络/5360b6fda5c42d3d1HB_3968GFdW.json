@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "go-JHjpiDj8OA-k1Kb_RrOiQ2eqy9Jtao4niw2WEfBZGScY0lxvDAFiTpwLrKs2X4QEBh5_Up_XJfhxfsu4nNegGcLuuCiMv-y7UPUbQU6e5xkTG97mDr4UrzOkxQmaI-UmUTIM8BQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5360b6fda5c42d3d1HB_3968GFdW",
+      "encryptUserId": "a28fbb31055dd1c61nZ60tS5ElY~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的需求调研与需求分析；\n2、进行项目架构或模块设计；\n3、负责公司相关的产品、项目的开发工作。\n岗位要求：\n1、计算机相关专业毕业，2年以上JAVA 开发工作经验；\n2、精通JAVA 语言和基于Spring/Spring MVC/Spring boot/Spring cloud 框架的开发工作经验；\n3、熟练掌握面向对象的架构和编程方法和面向对象的设计原则，熟练遵循SOLID /Grasp 程序设计原则，熟练掌握常用设计模式；\n4、熟练掌握ORM 和对应的框架（JPA、MyBatis plus等），熟悉DDD、Repository 设计模式；\n5、熟练掌握关系数据库Oracle、Mysql 、SqlServer、DB2等，熟练掌握NoSql 如Mongodb、Redis等；\n6、熟练掌握标准Web开发技术，熟悉CSS、JAVAScript，能够应用Bootstrap、Vuejs等框架进行开发，掌握一定的前端自动化；\n7、熟练掌握分布式程序架构，能够运用Nginx等进行分布式应用设计和搭建，熟练应用缓存技术，熟练应用分布式缓存技术；\n8、熟练掌握linux 操作系统和相关的服务的搭建、操作、维护等工作；\n9、熟悉微服务，Docker 及相关应用者优先；\n10、良好的职业素养和职业追求。",
+      "encryptAddressId": "515ecdcf19de62aa33x_3tm7GVA~",
+      "address": "成都双流区博雅城市广场C座C1-705号",
+      "longitude": 104.076536,
+      "latitude": 30.515331,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/689fabe75dc2f0ebcbd4106b55e9fa25",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2793c3f2e183ac7b11558888a37b2a80",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "不接受居家办公",
+        "架构设计经验",
+        "微服务经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160620/22dc95b4487a9558c8b72b5ea427f7038c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "阳帆网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d956ba7f297fc3991n153tm-",
+      "brandName": "阳帆网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190823/4ba1417267fe762db5b6c820dc798eec47cbd59ff3fa9fb10c593f4c08272d35.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "阳帆科技是数字化、物联网高新技术企业，是国内领先的数字化整体解决方案提供商；\n通过技术创新，综合信息化、网络化、物联网和大数据技术，研发数字化产品与系统；\n提供面向产业专业解决方案，帮助客户实现“让业务更高效、让管理更智慧”的愿景。\n\n\nhttp://www.yourfuntek.com",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1719655240678,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "阳帆网络",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

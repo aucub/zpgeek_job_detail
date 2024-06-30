@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Yz70lWNIyCkuG-p1NrARONoBrgRvYZhPE9dP896qyb9w3qTKW51RojNFpQbJstJ-fVApDgIvaTwVuHUqb7D6NhD0LNF1NiXWz8nguGMFjY_7ZICREV8F",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dd63bda1ce355d7b1HF43929FFBU",
+      "encryptUserId": "e7d5f994f39066e40n1-2t6-FFFT",
+      "invalidStatus": false,
+      "jobName": "大数据工程师",
+      "position": 100507,
+      "positionName": "数据仓库",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与平台大数据采集、清洗、传输、存储、实时计算、离线计算、调度、服务化等设计与落地；\n2.根据业务需求，提供面向业务的OLAP、报表、数据服务等，支撑业务快速发展；\n3.根据工业互联网安全防护总体要求，深入理解数据安全相关法规及标准，结合云平台业务制定合理的安全规范；\n4.编写相关技术文档。\n岗位要求：\n1.全日制本科以上学历，扎实的Java基础；\n2.熟悉HBase、Redis等NoSQL数据库，熟悉PostgreSQL、Mysql等RDBMS,了解时序数据库更佳；\n3.持续优化ETL流程及性能，保证数据及时有效产出;\n4.有实时离线数仓(Hive、Flink、Spark等)的模型设计与落地经验;\n5.熟悉大数据体系，对数据采集、消息转发(Kafka等)、数据存储、批流计算等相关组件及技术有较深刻理解；\n6.有物联网经验、Scrum经验优先。",
+      "encryptAddressId": "563240c067d3dfa10HV539--FFFZwo22VP4~",
+      "address": "苏州虎丘区天都大厦北楼15楼",
+      "longitude": 120.548657,
+      "latitude": 31.281512,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230422/48ba41acc9cef1bfcaef91939cf86096eb931127de9257af6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf8544864aa3ac9a135a1bcdb6ac6929296bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Hive",
+        "Spark",
+        "数仓设计/开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒋女士",
+      "title": "人力",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240302/607f1f3d68754fd04283d2f11f2d25801e1eda23f9076787e2d715861b01f6b576ffbe917f6e976_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "固德威",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e27e4e9244656f4d1n1-3927GFc~",
+      "brandName": "固德威",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221114/7bf6f160950405e9dbfc028e264f75af8ac1094cbe05cc06a1ac72d6797a4299250296a017f4bcc0.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "科创板上市企业，高新区龙头企业",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1719372311000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "固德威",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

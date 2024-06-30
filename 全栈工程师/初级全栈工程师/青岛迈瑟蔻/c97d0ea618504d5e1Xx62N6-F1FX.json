@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "a7iytztcz99CN-g1f74HvNe5287QCVNy8ICSj8RI5NoviF8ChOLwdMvlmwVrm3I_yAoU0vL0_Rd2NmRYAOY6ehIiTs7z8S2RzYM3EcrikomZ3fhiOx8F",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c97d0ea618504d5e1Xx62N6-F1FX",
+      "encryptUserId": "e8ebe425985cd4440nN5396-FlJV",
+      "invalidStatus": false,
+      "jobName": "初级全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据功能需求，对软件模块进行需求分析和功能设计等；\n2、负责接口设计与代码编写工作；\n3、对测试中遇到的问题进行分析与解决；\n4、及时向项目组其他人员汇报开发进度；\n5、记录开发测试过程中发现的重大问题及缺陷，为完善开发流程提供帮助；\n6、为产品相关工作人员提供技术咨询；\n7、承担部分前端交互设计；\n8、负责后端接口服务器运维等工作；\n9、完成领导交办的其他任务。\n岗位要求：\n1、熟悉前后端开发，有架构思维，可以使用Java、HTML、JavaScript、VUE等语言，熟悉软件开发流程；\n2、熟悉响应式网页原理，有移动网页、桌面网页及微信网页的开发经验；\n3、了解浏览器适配的方法，具有良好的学习和沟通能力，能适应工作压力；\n4、熟悉微信小程序，移动端web开发（加分项），有扎实的计算机基础。",
+      "encryptAddressId": "8b26c6abc304317333Ny2NS7FVA~",
+      "address": "青岛市北区浪潮信息产业园B座",
+      "longitude": 120.365227,
+      "latitude": 36.096198,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0a722a05a1e65df4ba694adfd205aa1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fbadc4d4cfc3d6e0a196f3aed46ab9b2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "JavaScript",
+        "Python",
+        "计算机相关专业",
+        "后端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邢女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "青岛迈瑟蔻",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9644838a24c735bd1XBz3du_E1I~",
+      "brandName": "青岛迈瑟蔻",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230214/7bf6f160950405e96689a1a593cd20aef4b2eb46c2bb10d659b6f83da8f9d062bfc46dc396f0bbae.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717483357000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛迈瑟蔻",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

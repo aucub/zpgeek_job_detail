@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LHyYjytsYF-MT-z1PEEgh-E5pS4L-KSncQFkWoAsfOUrHIyRQgQ_Wwl-P-NE207yJyTddf8dHmib-dPrbmaC2mJG-2HiqsNVemM9-E1OI4wqZlSoxag~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6acd41e0c6199e341nV709S0EFRZ",
+      "encryptUserId": "d0bd7931a61f1f201nV92ty9F1RU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1.根据需求分析报告负责软件模块的设计及文档编写；\n2.根据项目设计文档和进度要求完成相应的模块编码工作；\n3.参与软件架构及公共应用模块开发。\n二、岗位要求：\n1.本科及以上学历，1年以上Java编程经验或北京地区院校计算机专业应届生；\n2.了解jQuery、VUE、HTML、CSS、Javascript，bootstrap等前端框架；\n3.能够熟练使用Java语言进行面向对象程序设计，有良好的编程习惯，熟悉常用Java API，包括集合框架、多线程（并发编程）、I/O（NIO）、Socket、JDBC、XML、反射等；\n4.精通掌握主流开源技术，如Spring、SpringMvc、SpringBoot、SpringCloud、MyBatis等常用开源框架，理解其内在组件的关系及原理；\n5.精通常用J2EE应用服务器（Weblogic、Tomcat）；\n6、精通数据库逻辑设计、查询优化，熟练掌握Mysql、Redis、MongoDB等；\n7.熟悉Linux操作系统、能够在Linux中独立部署项目；\n8.具备较强的学习能力、技术研究能力，具有良好的人际沟通能力与团队合作精神，能承受工作中的压力。",
+      "encryptAddressId": "7a4f89afac5a707503183NW7EQ~~",
+      "address": "北京西城区华龙大厦B座2403",
+      "longitude": 116.38312,
+      "latitude": 39.970697,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f98d0da8b8cd924a15e76bd222954350",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d8adeb9188c6fbe44725e15bb647b25",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "CSS",
+        "JavaScript",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "Linux",
+        "移动端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200709/3a1431704948c719eac2b07c4f42eeb74b5da4fd3d41a37dd6168bbb54d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中科网图",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e1789e14092d4d653nZz3968FQ~~",
+      "brandName": "中科网图",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201123/ff54f627d4508bf34664d4eb6f9448cc4b5da4fd3d41a37dd6168bbb54d9cc0f_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "北京中科网图科技有限公司是国内领先的电力行业数据处理服务提供商。公司以数据采集、数据传输、数据分析及数据应用四方面业务为基础架构，结合多年积累的行业数据处理经验，以及云计算、大数据分析技术和人工智能技术，搭建了先进的数据智能体系。结合用户需求以及数据引擎平台，融合处理多元化数据，将不同类别和形态的数据进行清洗、整理和标签化，为客户提供全方位的一站式数据智能解决方案，协助客户实现智慧化管理、数据化精细运营，辅助客户深度挖掘数据价值。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1717070329837,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科网图",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

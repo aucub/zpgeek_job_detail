@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EDQ5eCU0hk3Kt-F1Db-hHVuI0iWGXMAjeDmVi49DUREfcGhFzqhZIWjRx8aXAyHay2VRcmvWMpIqe5NcKohydd6yNPrpAVWHh39uOfHvZdpKuZahDZ7x",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "904444c3fc8f58d81HZ93dS8FFJR",
+      "encryptUserId": "c443755fcdb0888a0nZ-3d26FVFY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n熟练掌握Java一门或多门编程语言，能够独立进行后端开发工作\n对Spring Boot和MyBatis有深入的了解，并能够熟练应用于项目开发中\n能够熟练使用ELK进行大数据开发，包括日志的收集、存储、分析和可视化\n熟悉Linux系统，能够进行常规运维操作，如文件传输、授权管理、查看磁盘和内存使用情况，以及修改配置文件等\n具有认真负责的工作态度，具备团队协作能力，愿意承担项目的责任和压力\n具备产品需求理解与沟通能力，能够与产品经理和其他相关人员有效沟通，理解并准确把握产品需求，确保开发工作符合产品方向\n任职要求：\n本科及以上学历，计算机相关专业优先\n一年以上Java开发经验，熟练掌握Spring Boot和MyBatis框架，熟练掌握ElasticSreacher\n有大数据开发经验者优先考虑\n熟悉Linux系统操作，能够独立完成常规系统管理任务\n良好的沟通能力和团队协作能力\n工作地点：北京中科院信工所，树村路",
+      "encryptAddressId": "2787d1fa68532ab71nBz2d-8EFVR",
+      "address": "北京海淀区中国科学院信息工程研究所北京市海淀区树村路19号",
+      "longitude": 116.30084,
+      "latitude": 40.019854,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a083134993f96b5422f8ed8fa2d9080",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0cf2357c58447b11c755010f21f1055f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Elasticsearch",
+        "MySQL",
+        "不接受居家办公",
+        "大数据经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "贵州耕云科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bdd29a86d1c1df191nF73dq6EVY~",
+      "brandName": "贵州耕云科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220624/7bf6f160950405e92bf3cd047978d611041cb5c5707926dc115e508aca983061d5fdab798611eb53.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "贵州耕云科技有限公司是大数据技术与应用解决方案提供商，成立于2014年，是多彩贵州网有限责任公司（国企）旗下控股企业。专注于媒体、旅游、交通等多个行业领域，为政府与企业提供数据资产管理、数据驱动的大数据应用服务及解决方案。作为行业大数据技术与应用的践行者，耕云科技将为用户的数据资产管理提供更为方便的数据产品与服务，洞察数据价值，优化业务流程，持续为用户创造最大价值。",
+      "labels": [
+        "节日福利",
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717578067000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贵州耕云科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

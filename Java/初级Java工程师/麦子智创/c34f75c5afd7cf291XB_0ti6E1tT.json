@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Dv1H3wAzh9l9L-A1tmPu0pfnVfXSHkzzYw-NoN6ufqM9-snMp2E54mGxFTLtcqhIq-cof8bSe2Kb427tVx02A3SGPxrCxn5ZfvrH8YNfgwX6Ofe5rtJrPH6Qe-f5skJ5ERMjGPWhZuX0",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c34f75c5afd7cf291XB_0ti6E1tT",
+      "encryptUserId": "588847879234c2ff0X140ty9GVI~",
+      "invalidStatus": false,
+      "jobName": "初级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 根据项目产品运营要求负责供应链平台的模块设计和核心功能代码的编写。 \n2. 负责公司系统模块的设计和开发。 \n3. 根据需求文档进行相关产品的开发、撰写开发文档。 \n4. 保质保量按时完成开发任务，并能将经验分享给项目组。 \n5. 测试阶段积极配合测试，及时对BUG进行修复。 \n6. 对运营阶段产生的需求和问题快速响应。\n\n任职资格：\n 1. Java基础扎实，1-3年JAVA管理软件、互联网产品的开发经验。 \n2. 熟练掌握SSH、SpringMVC、springboot、 MyBatis等开发框架。 \n3. 对Spring Cloud等微服务架构熟悉了解。 \n4. 能熟练书写SQL语句，至少能熟练使用Oracle、Mysql中的一种数据库。 \n5. 了解前台开发技术（JQuery、EXTJS、CSS、AJAX、Vue、EasyUI等），有过相关项目经验 。 \n6. 熟悉nginx,tomcat等常用web服务器的配置，熟悉linux命令 。 \n7. 熟悉rabbitm,kafka等主流消息队列及Redis缓存，有开发经验。 \n8. 熟悉ElasticSearch或Solr等全文检索引擎。",
+      "encryptAddressId": "8bbea49f94ecfe550XN739u5EFA~",
+      "address": "杭州滨江区浙江农资大厦2006室",
+      "longitude": 120.209201,
+      "latitude": 30.209103,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be3210ced436b09a6edb490486fb4308",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbdccd25fd6ef7caf77894a13c94f444",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "来先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "麦子智创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1779780d89b7d70e1XV83dS0EVI~",
+      "brandName": "麦子智创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "麦子医疗科技是一家经营医疗器械为主体的贸易公司，成立于2010年，原公司为上海熙冉，2018年变更浙江麦子医疗科技有限公司，公司主营骨科产品，代理产品有：康辉、双羊、邦美、捷迈、康盛、史赛克等进口产品。\n公司主旨为消费者提供品质可靠，价格更优，安全性更高的产品。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "法定节假日三薪",
+        "节假日加班费",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1717127072286,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "麦子智创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

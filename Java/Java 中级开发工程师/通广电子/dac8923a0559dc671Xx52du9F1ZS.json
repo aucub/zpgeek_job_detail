@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gOQ2g6M53jwc6-V1vaEzXpN_qDxmdjS7faLK-8engmhbZMpqvoicy46yUO05V2-oLMFOK_9z2c9N1QFC_xT34Ei7FjQ0LS1-L4RCAtKT1jpp_4VFJAsX",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dac8923a0559dc671Xx52du9F1ZS",
+      "encryptUserId": "014eb8ed85f299700nZ53du9FltZ",
+      "invalidStatus": false,
+      "jobName": "Java 中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120300,
+      "locationName": "淄博",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与软件产品的设计工作，进行功能模块的详细设计，并按项目管理规范的要求编制设计文档。\n2、根据产品需求和设计进行软件开发。\n3、配合项目经理完成相关任务目标，为相关部门和人员提供技术支持。\n任职要求：\n1、计算机相关专业专科以上学历，2年以上Java开发经验。\n2、对常用的开发框架如Spring、SpringBoot、Mybatis等有较好的理解和应用。\n3、熟悉MySQL、SQL Server、ORCALE等常见数据库，会编写复杂的SQL语句。\n4、使用过Spring cloud、Dubbo等至少一种微服务架构；熟悉RPC以及分布式架构的开发。\n5、具有良好的编程习惯，熟悉svn、git、maven、redis、Linux的使用。\n6、熟悉国网SG-UAP 3.0开发者优先。\n7、掌握Nginx、Weblogic、Tomcat、Jboss等常见应用服务器的应用，掌握Linux服务器的应用部署和配置，同时需要掌握负载均衡、集群等策略。\n8、熟悉Docker等容器部署，熟悉华为云微服务部署。",
+      "encryptAddressId": "2bb3f819f1e7310f331_0t66F1U~",
+      "address": "淄博张店区山东通广电子有限公司5楼",
+      "longitude": 117.993976,
+      "latitude": 36.867469,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f20aec848c79bfe273055af6cb96bc6c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8b849db3a45e23ad2037fe67fce57aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "解女士",
+      "title": "人力资源招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221220/607f1f3d68754fd00f8d0bf5d11291298c7e81b841b022534f9121dfeecfa0a1c60813a032e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "通广电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b8d9e3d69db9bf2d1XBz2t26GFs~",
+      "brandName": "通广电子",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719303043519,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "通广电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

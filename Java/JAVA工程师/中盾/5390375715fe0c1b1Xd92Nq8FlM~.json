@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YbCKGtrbEgExg-h1zWJrxgYKNTB9-SdkrfzZrzmfiDRyUsQgJ2A_JrugiA46RUjpaEjsy3Y_S_umzF5xU58UR0xG9kOzGNhkSi15CD8M461Xb90~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5390375715fe0c1b1Xd92Nq8FlM~",
+      "encryptUserId": "3773b5739a14097503d509y9ElY~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.\t具有扎实全面的java编程能力，深刻理解面向对象的程序设计思想，对JVM原理有一定的认识；\r\n2.\t掌握Spring，SpringMVC及其生态链的相关技术且熟练使用主流开发工具；\r\n3.\t掌握Ajax、JavaScript、jQuery等前端技术；\r\n4.\t熟练使用linux的基本命令操作，并在linux系统进行oracle、mongodb、web的安装部署；\r\n5.\t熟悉主流数据库，基于Oracle、MongoDB有相关的开发运维经验，对数据库有较强的设计能力，对非关系型数据库有基本了解；\r\n6.\t熟悉中间件技术、分布式技术（如RPC框架、缓存、ActiveMQ消息中间件等）。",
+      "encryptAddressId": "e464807bf06a3c8633192tm6FQ~~",
+      "address": "北京海淀区首体南路1号院",
+      "longitude": 116.3237,
+      "latitude": 39.93674,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7bcfe65c4c7f6aa30edc420ef53fe012",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b340ddecde8db29fbee27b1fb91012e2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringMVC、",
+        "MongoDB",
+        "中间件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜女士",
+      "title": "工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中盾",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e525db09c3c7cf5b0Hxz2NW-",
+      "brandName": "中盾",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170821/6bb93351b4e87142172134bbb220a0c98c7dd922ad47494fc02c388e12c00eac.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京中盾安全技术开发公司（以下简称中盾公司）成立于1992年是公安部第一研究所出资设立的全民所有制高新技术企业，注册资本1.8亿元人民币。主要从事集团管理、警用技术开发、专项对外贸易、安全专用器材研制、商用密码产品研制与销售、综合安全防范与系统集成项目设计实施等工作。\r\n    中盾公司依托公安部第一研究所的科研优势，按照ISO9001质量体系管理企业，发展核心竞争力，先后承担了\"十一五\"、\"十二五\"的多项国家科技支撑计划项目，组建多个国家级课题研究中心。期间，中盾公司作为国家标准承担单位牵头制定了多个国家及行业标准，并获得多项专利及软件著作权，形成了关键技术积累，并达到国内领先水平。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1717070223268,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中盾",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jYqwEIEsHqwYL-w1RQkfqgmhOSCL-3FKvT4tYArQ6qP0gvswN9oFu-dC7OdQ-k_0U70gTGRG29VI0o9g1jofZbKWCF_umDj3t0WyeTgTUkDL89c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9eca41240e00c10c1Xd-3tq1EFI~",
+      "encryptUserId": "6989d5b69ea1b5031XJ429m5GVo~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求 ：\r\n1、 熟悉网络各种设备的基本配置及TCP/IP、HTTP协议工作原理；\r\n2、熟悉 Python、shell、Perl 等脚本语言；\r\n3、熟悉SQL操作，熟悉MysQL、MogoDB，Redis能独立安装部署、配置优化、备份恢复和故障诊断；\r\n4、 熟悉APP、Web环境（Nginx、Jboss、Tomcat、Jetty）安装、管理、性能调优、监控，对服务器的故障诊断有一定的经验；\r\n5、熟悉使用Zabbix，Cacti，Nagios监控管理工具，ansible、puppet自动化运维工具优先；\r\n6、熟悉Linux系统、掌握常用命令、原理和日常维护；\r\n7、有一年工作经验，熟悉服务器硬件部署优先；\r\n岗位职责：\r\n1、整体规划和建设公司相关应用运维系统；\r\n2、分析系统瓶颈，优化架构改造，保证数据安全；\r\n3、参与架构优化、容灾优化、性能优化等项目； \r\n4、规划和实现运维工具自动化，提高运维效率和质量； \r\n5、保障系统7*24小时稳定运行;",
+      "encryptAddressId": "803292b8b0f39ddd33dy09i9EQ~~",
+      "address": "广州番禺区海印星玥2栋1505",
+      "longitude": 113.350247,
+      "latitude": 22.999963,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fd08aa62e3b7e2e0a321b91c0da7af2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afd0c1baac145f36069b05ca29240719",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "数据库",
+        "运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "震勇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f53a0cb5efdf97d0XR62tm0",
+      "brandName": "震勇",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170623/02c6e9932e63725472583405e262bf5b2bc6bf674d1b70af9cabea0488d49baa.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100009,
+      "industryName": "旅游",
+      "introduce": "公司业务包含app开发，电商运营，由一群年轻有志青年组成！",
+      "labels": [],
+      "activeTime": 1717101867040,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "震勇",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

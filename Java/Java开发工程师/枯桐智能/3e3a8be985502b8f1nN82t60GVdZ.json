@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7qZpoBBEkSlD8-G17eP9WUsCc3w_vvgWTQ8PmLmF1CJb6aBGONy-rm13VbeQpxG1f709oLgroakaw4KR7xADS_qQfdCy5VBsWhNBKq3SpS504foV4JgstjSPaC3tE7IaiQZZAA5l59E6zg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3e3a8be985502b8f1nN82t60GVdZ",
+      "encryptUserId": "64bc8545a2c372300nV83tm_FFtR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责产品和平台的持待迭代开发；\n2、能独立完成中小项目的需求分析、方案设计、代码编写、单元测试；\n3、参与技术难题攻关，重构系统，确保系统质量及稳定性；\n4、维护线上产品的稳定，能快速分析线上故障并解决，并提出对产品的优化方案；\n\n职位要求：\n1、1-3年java开发经验，扎实的java基础并熟知软件开发流程\n2、熟悉主流关系型和非关系型数据库，熟练掌握常用数据库MySql、 Oracle开发，对MongoDB有一定了解\n3、对各种开源框架如 Spring、 Mybatis、 Tomcat等有深入了解；\n4、熟悉缓存和队列的使用场景，能够灵活应用；\n5、有良好的沟通，团队协作，计划和创新能力；\n6、具有设计和开发对外AP接口经验和能力；",
+      "encryptAddressId": "db7f5e8966d305931XZ53NS1ElU~",
+      "address": "苏州虎丘区中国苏州创业园2号楼2201",
+      "longitude": 120.539563,
+      "latitude": 31.275748,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7dfc676027ca35737b1b77ce6deca87f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee8cd327b971da41746a411b4c9124ef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "Spring",
+        "Oracle",
+        "NoSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "程先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "枯桐智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "386bdfa3ff4b04ae1nB629-0FVE~",
+      "brandName": "枯桐智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210820/7bf6f160950405e96d1eb74cc3c73c253c2502774b494faab41c4fdefe5c687b132878ea4ed7b0dd.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "苏州枯桐智能科技有限公司成立于2019年，是一家拥有自主技术研发能力的软硬件集成企业，专注于系统集成、专业软硬件的开发、策划、运营及推广的专业信息技术服务，核心团队拥有十年的软硬件研发集成处理经验。主要产品有智慧政务方向、智慧旅游方向、智慧城市方向等。\n公司以不断创新，引导行业综合解决方案，为客户创造更大价值为己任，先后开发了停车管理系统、网上商城（安卓版、IOS版、微信版）、宿舍管理系统、智慧物业、学生迎新系统、旅游网站、客户管理系统等一系列软硬件及产品。\n公司具有良好的自主研发能力，可以针对客户需求实现个性化产品定制开发。团队具有很好的创新力，能够抽取客户的多样性需求形成基础技术模块，减小开发成本。已经为独墅湖科教、苏高新集团、灵山集团等大型国有企业和政府委办局提供软硬件技术服务。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1717137117857,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "枯桐智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

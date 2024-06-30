@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CgayhVPQAYo4K-t1L9R6iNbVoTxkNt1zUcQj7qYDYThh512lHj53G5PCvnUOhoBBOBkmVnkfmzKOSRoWQO6DMVMRTCScurbkRtloekprYlIBofPzAWEVL5uqrk3aoDrZlzLm5DKlZ7o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ad3b13f73dca7051HR_2tm9GVtT",
+      "encryptUserId": "e432cf7b11bb8d45031z2NW5EFM~",
+      "invalidStatus": false,
+      "jobName": "开源软件运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、作为一线驻场人员解决开源软件运维相关问题；\n2、负责日常开源软件运维工作，包括安装、配置、监控、优化等；\n3、能够处理开源软件运维故障，保障开源软件的稳定性和可用性；\n4、能够参与开源软件的规划、设计、测试和部署；\n5、能够编写和维护开源软件相关文档；\n\n岗位要求：\n1、精通Linux操作系统、Ansible自动化运维工具；    \n2、熟悉Prometheus、Grafana等监控系统，并具备一定的故障排查经验；\n3、熟悉K8S及Docker的基本操作与原理；\n4、熟悉Jenkins,devops CICD工具；\n5、熟悉Kafka，RocketMQ等消息中间件的安装与维护；\n6、了解常见数据库MySQL,Redis,MongoDB的基本知识。",
+      "encryptAddressId": "126155c03f7284a003R52dm0EA~~",
+      "address": "上海长宁区辽油大厦3楼H座",
+      "longitude": 121.4236,
+      "latitude": 31.21177,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a20f9d58cef13d5f524b32b3f4e71e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ba21ed0a64c9e6fe0ec478a00ff64e3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "运维开发/DevOps"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220908/607f1f3d68754fd07389833fe1ff7f78e668b15883de5066fc01db0cfcca487e79452c2f701_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "富麦科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "926cd6fba63d2cbd1HV-3Ni-Fg~~",
+      "brandName": "富麦科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "公司简介 企业级开源软件专业服务商\r\n2009年  上海富麦信息科技有限公司成立，专注开源软件（Linux／MySQL等）专家支持服务。\r\n         Red Hat／MySQL／MongDB／Elastic／TiDB／XSKY 企业合作伙伴。\r\n         服务于银行、保险、证券、交易所、汽车制造、运输交通等企业级客户。\r\n2013年  为中国银联开发数据库私有云平台（DBaaS）的技术原型，Cgroup／Python。\r\n2015年  中标成为中国银行互联网金融平台的全系列开源软件技术服务商。\r\n         为中国银联生产环境开发DBaaS平台，Docker／Golang。\r\n2017年  为中国人寿提供全系列开源软件技术服务，Redis／Kafka／MySQL／MongoDB等。\r\n2018年  中标成为建设银行总行行业云数据库DBaaS开发商，Docker／Golang。\r\n         成为工商银行、浦发银行数据库RDS平台合作开发商，Docker／K8s／Golang。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1717129565522,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "富麦科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

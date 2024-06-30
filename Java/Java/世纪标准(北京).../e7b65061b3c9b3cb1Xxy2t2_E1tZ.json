@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wnH9HK32RxcuH-t1mfmXV3Bm1ftQVlLoCzchi_tkKQhfwzD3ggcJ7lMQx9ISY6Vvjo1ow_8arooZ1Cn3MwZDytCGP809sLWsZDBHrcnNBHe8ZA5X90Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e7b65061b3c9b3cb1Xxy2t2_E1tZ",
+      "encryptUserId": "6eacbd0fdf4ba1d81XN-2dm7EVs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 在公司现有管理系统的基础上进行完善、扩展，以满足项目需求，缩短项目实施周期。\n2. 参与项目业务解决方案设计，分析技术实现路径。\n3. 实现与产品底层架构/界面风格一致的功能模块/组件。\n4. 为项目售前/售后的技术问题提供技术支持。\n5. 依项目需要，出差为客户提供短期的开发或培训。\n6. 严格遵守公司的规章制度。\n岗位要求：\n1. 统招本科及以上学历，计算机相关专业优先。\n2. 熟练掌握Angular、Vue、React前端框架中的一种，有Angular项目开发经验者优先，有DevExtreme前端组件库项目使用经验者优先。\n3. 具备关系型数据库应用系统规划及设计能力，至少使用过Oracle或MySQL，了解国产数据库达梦。\n4. 具备Java Web项目开发经验。\n5. 了解SpringBoot、Mybatis开发框架。\n6. 了解tomcat、nginx的配置和使用，具备性能调优经验者优先。\n7. 了解或使用过Camunda/Activiti流程引擎。\n8. 熟悉Linux系统和操作命令。",
+      "encryptAddressId": "423d4f885422aa9e3nZy39-4FVA~",
+      "address": "西安雁塔区旺座·现代城G座1206",
+      "longitude": 108.891351,
+      "latitude": 34.215708,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfaa82cc22bf5267333e6e5531509651d66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230513/48ba41acc9cef1bf28b8e28c8356504081031601b269af6b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "有制造行业软件开发经验",
+        "Java",
+        "全栈工程师",
+        "不接受居家办公",
+        "MySQL",
+        "不限",
+        "Spring",
+        "计算机/软件工程相关经验",
+        "Angular",
+        "springboot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "开发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "世纪标准(北京)...",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6055289e19196b4a1XN92NS0EVc~",
+      "brandName": "世纪标准(北京)...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1715734040954,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "世纪标准(北京)...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

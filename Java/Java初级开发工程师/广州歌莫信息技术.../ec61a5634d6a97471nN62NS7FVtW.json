@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "n8VKU721AfqsX-a1LEcgbFamuuus2cfoiPI4NcVLkT94EEnyKvMY8HDEq4l-U0J3A1NIPC1c9OvWHXrcY17VNkYNWR6ELGwWwsutbHOqPwX8Intj_Pc4Fp9RdL3geyQmIUlHIWFWAmHk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec61a5634d6a97471nN62NS7FVtW",
+      "encryptUserId": "a38f591fc9922e511HV53tu5FlE~",
+      "invalidStatus": false,
+      "jobName": "Java初级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责APP、小程序和网站后台服务的设计开发；\n2.及时处理开发引起的BUG或紧急事件\n\n岗位要求：\n   1. 一年以上JAVA开发经验，要求基本功扎实，有电商类项目、小程序开发经验者优先；\n   2. 熟练掌握Spring Cloud、Spring Boot、SpringMVC或Dubbo分布式等至少一种框架；\n   3. 熟悉Linux操作\n   4. 有NodeJs、VUE经验优先；\n   5. 有良好的软件工程知识和编码规范意识；\n   6. 要求踏实、逻辑思路清晰、有责任心，具有良好的团队合作精神和沟通能力，并有较强的学习能力。",
+      "encryptAddressId": "43c19c286a3131af0nd_2Ny5GVo~",
+      "address": "广州番禺区国家数字家庭应用示范产业基地·创业大厦A区913-14",
+      "longitude": 113.385904,
+      "latitude": 23.056013,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60cb58da1056ecb80964457d9402be3b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b882b058b7da441956a7129f994b458",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "SpringMVC",
+        "SpringCloud",
+        "SpringBoot",
+        "Redis",
+        "MySQL",
+        "Linux",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广州歌莫信息技术...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "43ba89faa5dd10771nV50tu0FFo~",
+      "brandName": "广州歌莫信息技术...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1717490581000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州歌莫信息技术...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

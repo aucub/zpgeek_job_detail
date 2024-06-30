@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dYytARayS1zlw-C1DGTtLvZKnQmsCfmK2uhzHJuecqruL1R8Fs9qWTPuue2eurJ3gu9auWuqVNw3GVYquiypbTMUP2U449mRv7kR3bRcwVdcR4snTg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0b0a8bdeddee69051XR82NS7F1pY",
+      "encryptUserId": "c3bd70574e7aedca33R509y7EVE~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "PS：公司自研项目，司法行业软件，不是外包\n工作职责\r1.精通软件测试理论和方法，进行软件项目功能测试、性能测试、接口测试、自动化测试等测试工作\r2.全程参与产品设计和需求评审，能深入理解产品需求，挖掘产品内部逻辑，根据产品需求和设计文档编写软件测试用例，能够独立搭建测试环境，完成测试工作\r3.能够独立发现问题进行分析，并协助开发人员定位问题然后解决问题和缺陷\r4.能够把握测试进度，把控软件质量，及时反映测试项目中存在的问题，推动开发人员解决BUG，确保产品按时上线\r5.可以利用脚本或者自动化工具提高日常测试的效率和准确程度\r\r\r\r任职要求\r1.3年以上软件测试工作经验\r2.在至少一个测试技术方向（测试自动化、性能测试，数据库测试等）具备丰富实践经验和深入思考\r3.熟悉Python shell等语言，\r4.熟练使用2种以上主流测试工具和框架：Loadrunner，Jmeter，Appium, Robot Framework，Selenuim，Winrunner，Postman等\r5.熟悉常见关系型数据库，有Sql Server、Mysql等数据库开发和维护经验者优先\r6.精通SQL语言，具备阅读和编写SQL脚本、存储过程、函数等能力\r7.熟悉Linux操作系统和常用命令，熟悉jekins和redis技术者优先\r8.有良好的分析和解决问题的能力\r9.有强大的求知欲和学习能力，工作细致认真，踏实，做事积极主动\r10.有良好的协作沟通能力和团队合作精神，有强烈责任心和严谨工作作风，能够承受一定的工作压力\r11.具有逆向思维能力和缜密的逻辑推理能力，针对重点突出问题，能够举一反三的分析，改进和解决\r12.有很强的质量意识，客户服务意识，创新意识",
+      "encryptAddressId": "d9b18d359eded26a03153tq6GFo~",
+      "address": "成都郫都区成都高新技术创新服务中心B-120",
+      "longitude": 103.972435,
+      "latitude": 30.732851,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73e8c3fddde104d326743517ab97e922",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff6366d843f7305b9a254eb8af889d16",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "UI自动化测试",
+        "接口自动化测试",
+        "MySQL",
+        "SQL Server",
+        "Linux",
+        "Jmeter",
+        "LoadRunner"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210601/a4f877ad9c8dfc46df4f587de193b1cdc39fe5c46892e469263a06973bb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网威科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79232ccef2064a2f1nF_3tu1EA~~",
+      "brandName": "网威科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180307/a74cb3b28147b80a93f700a779c1cea39f612a5b8189169b9b3140c31198e852.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都网威信息技术有限公司是一家致力于信息技术及数字化传输、控制的软件和硬件开发、生产、服务的高科技企业，专业服务于中国行业软件应用及大众信息产品的研发与销售。",
+      "labels": [
+        "节日福利",
+        "社保医保"
+      ],
+      "activeTime": 1715620159281,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网威科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

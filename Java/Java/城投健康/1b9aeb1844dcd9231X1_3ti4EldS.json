@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "h4fVfU4HzHpfM-o1hqmCA2YDOzSYSHaqQ4ZO1XoxrKZcSwYpYTQ3nevNvss5Vbo2uMviGLA0Jyj6aI6zTdSwTGaH4r_lC8hAavZaffFjkYH2SQhnYkQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1b9aeb1844dcd9231X1_3ti4EldS",
+      "encryptUserId": "e3b19b2f0fd5ad590nBz3927GVFZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1 负责维护公司平台后端架构及API开发，解决业务逻辑与产品相关业务\n2 负责数据平台服务后端开发\n3 参与搭建大规模数据处理业务流和相关监控分析工具\n4 负责数据产品的功能迭代和性能优化，提高效率，优化流程\n5 负责完善基础组件，优化性能，提升架构\n\n任职条件：\n1 计算机、自动化、信息工程等相关专业，本科及以上学历\n2 有良好的编程风格，对技术和工程质量有追求\n3 扎实的计算机基础，有较好的数据结构与算法功底\n4 熟练流行Web框架和GRPC\n5 熟悉RESTful规则，掌握RESTful API设置原则\n6 熟练使用Mysql/Oracel/PostgreSQL/Redis等一种或多种数据库，可以独立设计合理数据库结构，及数据库性能优化\n7 编写有效的单元测试，集成测试用例\n8 有强烈的求知欲和进取心，具有扎实的编程功底，良好的代码品位，丰富的设计经验，稳健的开发习惯，独立的解决问题能力",
+      "encryptAddressId": "e5444451f4a0fd5c0XF42N6_F1s~",
+      "address": "北京海淀区中关村东升科技园B-2座",
+      "longitude": 116.358199,
+      "latitude": 40.044056,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dcb3c8767db4ec079f9726df40dac720",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29d331d4b1ef34de265f6c76652e910d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "城投健康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d26339c415b3c2ea0HR-29-5EQ~~",
+      "brandName": "城投健康",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200302/8fbb56674e9824eccb4a758730bb36e06750da387dab6b40bff0b30885fb3a88_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "北京城投健康产业发展有限公司是北京城投控股集团有限公司和北京美享家医院管理咨询有限公司联手打造的一家专注于健康产业发展的多元化企业。北京城投控股集团是一家2010年底完成改制并重组的法人公司,集团旗下六大主营板块:基础设施建设、房地产开发与投资、酒店投资管理、园林绿化、机械设备销售、养老产业投资管理;为一家多元化、跨地区的投资控股集团。\n    北京美享家医院管理咨询有限公司凭借多年家庭医生服务体系在国内的运作能力，成功河北香河大爱书院等养老地产提供养老咨询服务，双方强强联合使城投健康真正实现从项目开发到运营的全产业链操盘。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "节日福利",
+        "加班补助",
+        "年终奖",
+        "午餐"
+      ],
+      "activeTime": 1717070186916,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "城投健康",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oVQ1LYTEZJVp4-61o-9CivJu1x1YSltsoJcEv5YhPR-HuHB8tMXGbXgGFX7UvoAMG6yu94T9LbadLS_07f8EK2M2HiSKtUkYQ0cIm4dVv_lSzOH4uv2b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a45b98759df88101XJy39u6E1JX",
+      "encryptUserId": "be8fb075b8d578c80nR53dW7EVdX",
+      "invalidStatus": false,
+      "jobName": "java开发中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作职责:\n1.参与业务需求评审、软件功能需求分析与设计工作；\n2.参与代码的编写工作，完成单元测试；\n3.根据项目经理安排，完成项目开发任务;\n4.配合测试人员完成系统测试、bug修复及改进工作；\n5.数据库设计、详细设计、及开发过程中相关文档的编写工作;\n\n二、任职技能要求：\n1.掌握Spring、Spring MVC、Spring Boot、MyBatis、MyBatis-plus等主流开发框架；\n2.掌握MySQL、熟练使用Oracle等关系型数据,具备系统优化及SQL调优能力；\n3.熟悉Redis、MongoDB等NoSql数据库;\n4.熟悉常用的linux命令及shell脚本;\n5.熟悉HTML5、CSS3、JavaScript、Ajax、Jquery、Bootstrap、Vue、Element-UI、Ant-design-vue等前端技术。\n6.熟悉SVN、Git、Maven、IDEA、Eclipse、Tomcat等常用管理及开发工具使用;\n7.使用或了解过Jeecg-boot等开源项目者，有国产服务器和操作系统使用者优先考虑；\n8. 有tdm，mes，lims等项目经验者优先考虑。",
+      "encryptAddressId": "839db32b8d6839050XJ53d28F1c~",
+      "address": "西安雁塔区启迪之星启迪清华科技园清扬大厦T3号楼1202室",
+      "longitude": 108.83403,
+      "latitude": 34.209601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/023b0f4f76ecd275a8ec0b6cd6407ffb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2fc690e90dfc251573b487e39a8d4d2e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "统招本科"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=12d52d1ae377731djzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9anH10sd0uuN04S1a8ybNgY77zL5VX4rq7DGt7NlhTpnAJrK_1FnUZRue1DxQ7lt8dTg6xyKwNr1gaX9HmgHIsByFI9U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "华天海峰",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fc05bfbedbfd87e81nVz3dW4GFU~",
+      "brandName": "华天海峰",
+      "logo": "https://c-res.zhipin.com/jrs/905be45d4aa16ba92c71ae14844de733.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京华天海峰科技股份有限公司（简称HIFAR科技）创立于2005年，是我国装备研制信息化领域迅速发展起来的高新技术企业。公司总部位于北京市中关村军民融合产业园，并在西安、武汉、上海、成都、贵阳等地设有分公司或办事处。\n    公司凭借高效优秀的团队、先进的技术、高端的产品和优质的服务，为装备研制生产领域的企业用户提供智能数据管理解决方案、产品全生命周期管理解决方案、多学科设计仿真解决方案及工程咨询服务，有效提升了客户高、精、尖产品研制效率。\n    目前公司客户广泛分布于航天、航空、船舶、兵器、电子、基地、核、汽车等高端装备研制领域。\n    华天海峰秉持研发创新积累核心技术，从2008年开始基于统一的数据管理平台，以试验、测试、检验、制造等业务为驱动，自主研发智能数据管理平台（HifarIDM)系列产品，完成面向装备研制生产企业所有数据相关业务的信息化和智能化。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1715949133335,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华天海峰",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

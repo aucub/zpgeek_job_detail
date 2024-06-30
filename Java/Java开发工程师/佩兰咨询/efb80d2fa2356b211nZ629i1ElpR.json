@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YFwdlMVML0x8L-r1lIlx8ZQjVs7AQDDUK3RJerXh_gZlzAAlUQ4yogD9b2AKj8SG_GmTcvysiKXIA2VTkkSZcVJ7CPggi-GUp6XxBrso1jTshyufnmb2SWLTIgB6wAI55ikWljrHlAtvnw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "efb80d2fa2356b211nZ629i1ElpR",
+      "encryptUserId": "08e69befa0fb3d650nV509i7FlFU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.大学本科及以上要求，计算机相关专业，有一年以上JAVA开发经验\n2.熟悉Java EE技术，包括Servlet/JSP、JDBC、JMS、Web Service等，对各种开源的软件如Spring、Struts、Hibernate/ibatis、Tomcat等有一定的了解\n3.熟悉css/xml等网页技术，数据Ajax、Javascript技术\n4.熟悉Oracle、Mysql数据库\n5.熟悉面向对象编程，具有良好的编程风格、习惯；了解软件开发流程，熟悉MVC模式，并有在MVC模式下进行大型web开发的经验\n6.可以单独对已有的系统进行维护，工作认真细致负责，有良好的自学能力，独立思考能力，能够在短时间内学习并应用新技术\n7.积极热情、沟通能力强，有强烈的责任心，具有良好的团队合作精神和敬业精神\n8.能够承受工作压力，能在规定的时间内高效完成任务，具有良好的团队合作精神",
+      "encryptAddressId": "2f454a2d9fe9f1571H183t25FlA~",
+      "address": "杭州上城区财通大厦48号",
+      "longitude": 120.263863,
+      "latitude": 30.321205,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dded31fec732a0b6e5d20bf25e97e876",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aec57a679b2ef4dff9cba95a34f1eadc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "网络协议",
+        "MVC开发",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "MySQL",
+        "WEB开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人事管理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "佩兰咨询",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "180ee98210ef67841nd929m9GFU~",
+      "brandName": "佩兰咨询",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1718331552000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佩兰咨询",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

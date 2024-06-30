@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ahKKGYkda85e8-n1ZcZjWLnSceonQKqFETzgNixg0ichiOatJEc9djKQNs3VT5OyxEpLawySKQJQ1B9ubHJmBcn3mvTS6S7YdDOnjrlLGCk8KD8hhAzF9XDykY49z59C26xJGIP2ZQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7e7ddcc691c04e563nd53tq7EVY~",
+      "encryptUserId": "28f64f7e60112c7e33Z63N64E1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发+双休",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.统招全日制专科以上学历,有2年以上Java项目开发经验\n2.理解面向对象概念，掌握多种设计模式，具备较强的分析和设计能力；\n3.熟练掌握J2EE的技术，具有使用SSM进行开发经验；\n4.熟练掌握SOAP，Restfull风格WebAPI,HTTP接口开发，对接的技术，并具备实际对接经验；\n5.熟练掌握主流数据库技术。如Oracle，DB2，Mysql等数据库中的一种\n6.熟练使用并配置eclipse、Tomcat、Maven、svn,git等开发工具； \n7.熟悉和掌握,spring、spring boot、mybatis,redis,docker,RabbitMQ,groovy\n8.熟练掌握Linux操作；\n9.具备优秀的学习能力与探索精神。\n10.与客户、项目经理及小组成员进行有效沟通,完成上级交办的各项工作任务\n\n\n工作内容\n1.官网的日常更新及维护\n2.商城的二次开发及维护\n3.工单系统的二次开发及维护\n4.服务器linux上项目正常维护及部署\n5.完成需求模块软件的设计、开发、编程任务；\n6.进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n\n\n发展方向\n 技术主管 项目经理",
+      "encryptAddressId": "a246c0edd17e82051Hd82t24ElQ~",
+      "address": "武汉蔡甸区东合中心B座",
+      "longitude": 114.164237,
+      "latitude": 30.50674,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/434224326787bd16f3e9bd0598cf9a38",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87246d7273d38d4f9ab816173b213a04",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "服务器配置",
+        "容器技术",
+        "Spring",
+        "SSM",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鲁女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200915/6eada6fa3b410d363d38af372e4fa1af69f6c05ee9316d567095e6d0684_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "灵枭科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "828a3f386f8c71190nV639W9FA~~",
+      "brandName": "灵枭科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190715/00999d93f59b7b493a0000d2604d943ec6eb9f06cde7a771ffc57c9d6cec5a47.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "灵枭科技（武汉）有限公司成立于2019年1月，公司注册资本2000万，是东风资产管理有限公司全资子公司，隶属于东风集团农业板块。公司致力于通过互联网技术实现智能农机、智慧农业、农业大数据应用，为农业产业提供互联、高效、可靠的整体决方案。公司目前业务立足武汉，逐渐向周边地区发展覆盖。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1716793791216,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "灵枭科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

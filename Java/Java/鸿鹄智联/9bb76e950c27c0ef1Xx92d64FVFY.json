@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5pMx41liELAEd-O1VfxiRpvtNQzII1duBdeEhMBJFmmZP41YP4pTdwWafUhZ_n8ROB9GLv0pTpa5EoLEXnMVaPY46WwNUnXklMWo36MtPL3uNPX6z8K5djqu1xlYIIiLCSw5pfKVtq37",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9bb76e950c27c0ef1Xx92d64FVFY",
+      "encryptUserId": "7864689156528fc80HF63t61FlM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、计算机或相关专业，本科及以上学历，3～5年Java开发经验;\n2、熟练掌握面向对象分析设计，熟悉常用设计模式；\n3、较深刻理解Spring Cloud、Spring Boot、MyBatis等开源框架的设计思想和实现方式\n4、熟练使用springBoot，mybatis，maven，git等开源框架或工具\n5、熟悉数据应用和设计，熟练使用主流数据库（MySql、ORACLE）；\n6、熟悉缓存、分布式技术，jvm调优等优先考虑\n7、对工作有高度责任感，有良好的沟通、协作能力、团队合作意识、能承受一定的工作压力；",
+      "encryptAddressId": "f627243dff0a3c163nV63dq9FFA~",
+      "address": "杭州余杭区五常西溪软件园金牛座d栋",
+      "longitude": 120.026051,
+      "latitude": 30.245894,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfb02fdf61751dbd2d9105914a77b758eb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf4e08296b334ad5cdb2ef49ddf4e7f8886bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "项先生",
+      "title": "项目工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/b722061203b512f0d6c52a3b0fc40db930d3168fc6720dbeb3a451dc016_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "鸿鹄智联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02c8cd3eb24b0e6e1nZ-2tq7Elo~",
+      "brandName": "鸿鹄智联",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "鸿鹄智联是一家致力于智能制造软件研发和应用的科技创新型公司，成立于2020年，现位于杭州余杭区。公司主营业务为整车，汽配，装配制造，机械加工，新能源等行业智能制造系统咨询规划，研发与实施；包括MES，设备数据采集，智能电表联网，设备PLC，上位机系统研发与调试等。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "住房补贴",
+        "意外险"
+      ],
+      "activeTime": 1716359363452,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿鹄智联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

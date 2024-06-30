@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FhDK9I4Y4qzow-11PC8ar1UgqnljZYVE3wSZixOj-93jTVXRHj9gicLwlaFG40XtljsR87x9F6dwTNLLA2V6ja8b6VIHMUS18DsxbD21BY_kLDBD3Tu1",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f109a740c82562091X1-2d64FlVQ",
+      "encryptUserId": "d6aee69402d0f67a0XR80ti7GVRZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责代码的编写各功能接口及底层服务；\n2、参与产品需求的分析及设计，提出解决方案，完成开发、集成、部署；\n3、能独立完成软件设计、编码、调试、自测工作；\n职位要求：\n1、计算机软件相关专业，本科以上学历，至少3年以上JavaEE开发经验；\n2、JAVA基础扎实，熟悉IO、多线程、分布式、负载均衡、缓存、消息等技术；\n3、精通Java EE相关技术、熟悉Spring Cloud、Spring Boot、MyBatis等主流的开发框架；\n4、熟练使用maven，svn，git 了解敏捷开发； \n5、掌握Linux常用操作，精通mysql了解SQL优化方法\n6、熟悉Redis、Memcached等1-2种常用NoSQL数据库；",
+      "encryptAddressId": "dbc507429d9dee9c3n1639--FlM~",
+      "address": "南京建邺区新城科技园国际研发总部园4号楼10层1002",
+      "longitude": 118.741431,
+      "latitude": 31.995427,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0a00d0574560041abbf4324658fdcc8c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa90b40f5bdc1813262db78fafac827016bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "人力资源主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230629/607f1f3d68754fd05919b210eb6d8cae144448e6736a7a3e9e1e3ee51956a36f41d5c8cbdc93510_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "建邺区迅洱熙网络...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8f7746839de04e041Xx-3N68ElA~",
+      "brandName": "建邺区迅洱熙网络...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717067882252,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "建邺区迅洱熙网络...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

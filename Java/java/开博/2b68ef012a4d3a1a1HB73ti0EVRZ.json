@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DKMtASPvDI7iv-e1x9EpMR8YqCkhyAx9y44IQZFePmAULnzks_kCXiUsDdJFfZLh4wNvf5ANjhSVSyjBhTk19IKRWJVQgQiH5aAlHsEyyWHACZQt5w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b68ef012a4d3a1a1HB73ti0EVRZ",
+      "encryptUserId": "a91464d22836b5d70XN93dq4FlU~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240300,
+      "locationName": "上饶",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据需求与设计规格书，按照公司的质量要求，完成指定的开发、单元测试工作\n2、参与项目或产品的需求分析、设计工作，参与技术里程碑评审\n3、协助测试人员的测试，完成测试阶段bug的修改\n4、参与编写完善开发各阶段的文档资料\n5、维护现有的应用和产品，支持协助应用与产品的运维工作\n6、完成公司要求的其他任务\n任职要求：\n1、1年以上相关Java研发工作经验\n2、精通Java网络编程，深入理解http,https,tcp/Ip协议\n3、具备扎实的Java基础，对JVM原理有扎实的理解；对Spring Cloud，netty，Mybatis开源框架熟悉，并能了解它的原理和机制，具有大型分布式系统设计研发经验。\n4、熟悉基于Redis的设计和开发、对Redis性能优化有丰富的经验。\n5、熟悉nginx,apache,kafka,rabbitmq,redis，zookeeper，elasticsearch等缓存、消息中间件、高性能服务器、数据搜索引擎的使用。\n6、熟悉MySQL数据库，索引优化，数据库调优等\n7、思路清晰，有良好的需求理解、分析、抽象能力和软件设计能力。\n8、对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力。\n9、具备良好的沟通技能能力，团队合作能力以及推进工作执行，明确目标结果能力。\n10、对常见算法与设计模式比较了解。",
+      "encryptAddressId": "cffaff93dad1622c0XZ50969GFc~",
+      "address": "上饶广信区江西开博科技有限公司3楼",
+      "longitude": 117.899489,
+      "latitude": 28.459199,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82cbf7546ba6b88ccf1ca88f008e6fad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/712f6c2464bfe7582227ea827a13ca76",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Kafka",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "方女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190701/2d66109949346e47e53149d093dd04d2b0036fbf704fdc56fb02f8efe5e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "开博",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe2572bdbf52ad833nR_3di1EA~~",
+      "brandName": "开博",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230221/7b5b554d84f9729c02cd6d526148222c92d5fe0ee6d6684bb0036fbf704fdc56fb02f8efe5e0ee65.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "宿舍有空调",
+        "包住",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "夜班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1717572200447,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "开博",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

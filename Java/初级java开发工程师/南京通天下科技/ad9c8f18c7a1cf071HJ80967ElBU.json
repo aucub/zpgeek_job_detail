@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1TsOMYcp9ecZ3-V1GR7bGsm6wjVEuwPxQQoT1jGkHePPosZ-vQLXDJRdTrlECb0v9zzclHQPVHg3sqGLXOVvFmvtH2bdEOfn8VlkfR-ktp_Ce_u6WSHDATJseL86A-DbD2rGNQG8yjFbGA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad9c8f18c7a1cf071HJ80967ElBU",
+      "encryptUserId": "2321cc4ff9172c850XVy3Ni4ElRT",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：负责公司业务的云平台开发，以及其它子业务。 任职要求： 1. 本科以上学历（学信网可以验证），计算机相关专业，1年及以上Java开发经验。 2. 熟练掌握Java基础知识，对部分Java技术有深入研究，研究过JDK源码及优秀开源软件的源码优先。 3. 熟练掌握Springboot,Spring、SpringMVC，MyBatis等框架，Redis、RabbitMQ等中间件。 4. 熟练掌握MySQL应用开发、数据库原理和常用性能优化和扩展技术。 5. 熟悉常见的设计模式或者算法优先。 6. 熟悉springcloud Alibaba微服务开发优先。 7. 熟练的操作Linux命令优先。 8. 要求有良好的代码风格( PS:代码规范差的人不要浪费时间投了 )，有较强的学习能力。有上位机或者stm32开发经验者优先",
+      "encryptAddressId": "7f16a12441219a4d1nVz3dq-EVFU",
+      "address": "南京建邺区升龙汇金中心4栋18楼",
+      "longitude": 118.711132,
+      "latitude": 31.981333,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48e994bde821b070702c48f9ec8a102f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ada0019ea7bf5f8f02249387c4e7505d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曹女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南京通天下科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0392fddbda99d77b1XRz39i8GVA~",
+      "brandName": "南京通天下科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "      我司是一家建筑施工领域产业互联网公司，致力于用数据和技术来推动整个行业的数字化转型升级，为企业提供数字化转型一站式服务；利用新兴技术，加速企业数字化转型。作为建筑施工领域企业SAAS服务专家，砼方聚集众多资深的行业顾问、技术英才，利用大数据、云计算、物联网等先进技术，专注于2B、2C的互联网SAAS服务应用和行业信息资源整合。南京砼方软件有限公司，已经为南京中联水泥、南京中联混凝土、滁州中联水泥、滁州中联混凝土、双龙集团、北京新航集团、苏州建国集团、言午运输等众多大型企业建立了数字化管理平台。  砼方.建材行业管理软件领先品牌",
+      "labels": [
+        "免费工装",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "包吃",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719328624451,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京通天下科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LxQ3o0q2LVcnh-U141tFSEtL4sStMjRJ9xn-8q9u3jBN94pdLuVum6bcybmhqhiZZJZ3gde5Econhs7lE4IIQKKk1prI5dNTzYSOX6Wn8GjfL1A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "018c394ec24494851Hx50tm1EFY~",
+      "encryptUserId": "42b01dafccdf8c980n142dS4FFo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责产品功能编写、系统性能分析及优化； \n2、技术难题攻关；\n3、理解需求，按照需求文档编写设计文档，实现业务核心模块；\n4、完成代码走查、单元测试；\n \n任职要求\n1、熟悉面向对象的设计模式和开发方法，有良好的编码规范和文档习惯\n2、精通Struts2、Spring-cloud全家桶、JPA等\n3、精通SQL语句，有丰富的数据库管理、运维调优经验，熟悉hadoop、gp等分布式大数据平台\n4、熟练使用Linux操作系统\n5、有大数据平台开发经验，熟练掌握HADOOP平台技术，熟悉GP开发。\n6、责任心强，具有良好的沟通能力和团队合作意识\n7、两年以上的Java开发工作经验\n8、责任心强，具有良好的沟通能力和团队合作意识",
+      "encryptAddressId": "b96a00d0c967043d1XF72928E1Y~",
+      "address": "北京中电信息大厦",
+      "longitude": 116.323565,
+      "latitude": 39.964621,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/350a13d6d947df63ffa78a642c11fd5b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f46a979ee1788b036bc4190047d07da0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Hadoop",
+        "Java",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯先生",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190403/f2192a842bfc455efd8ce946f517fb7b20ab1771a5488374eeb3b9dfeba_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青石绿网",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2b97408d20c865931XZ73t68",
+      "brandName": "青石绿网",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160425/a5cc6a04b0e7df0e07b433f109f92c90e0f6138c66640a212879c6ec01c6dd16.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "武汉绿色网络信息服务有限责任公司（武汉绿网）是一家基于DPI（Deep packet inspection）技术研发生产下一代互联网应用系统的软件企业，公司成立于2003年，总部位于中国湖北省武汉市光谷软件园，在北京和武汉两地设有研发中心。公司秉承“因为专注，所以强大”的理念，专注于高性能网络包处理领域。",
+      "labels": [],
+      "activeTime": 1717070207466,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青石绿网",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

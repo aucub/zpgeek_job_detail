@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WoAeIte9PjkrT-l1JeZSlDLTzlyMIPl61d_nLrJ_ky28IqfcQP-9CavYTMLLootJo-QUparM4oO-vqdZ0fs0_yrecX5kxff2nhgQh9lYe29oI1KK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "00656118d6357df31XJ52Ni7EVtT",
+      "encryptUserId": "eb3b9c0b35c5244b03N929q8FVQ~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责监管平台开发、部署上线工作；\n2、负责与客户沟通、对接工作；\n3、负责生产问题排查、修复、优化等工作；\n4、编写和维护软件文档，如详细设计，开发规范，模块管理规范；\n5、按计划完成分配的任务。\n岗位要求：\n1 .2年及以上java开发经验，能独立承担功能模块的设计、开发工作；\n2 .熟悉主流开源框架的使用及原理，如Spring、Springboot、SpringCloud、 Mybatis ；\n3 .熟悉linux下的常用命令，熟练使用idea等开发工具，熟练使用Git、Maven；\n4 .熟悉Mysql数据库技术，了解数据库原理，常用Sql优化等；\n5 .熟悉常用组件，如Nacos、RocketMq、Redis、ES等；\n6 .对分布式服务、高可靠性集群、并发编程有经验者优先；\n7 .有责任心，好学，团队合作意识，能承担一定的工作压力；",
+      "encryptAddressId": "ae8c11fa9f3d40400Hx_2965FVQ~",
+      "address": "长沙岳麓区德必岳麓WE9",
+      "longitude": 112.946538,
+      "latitude": 28.157787,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2d10ea96da60a2bdf99aa4937f69243",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9116692ac131af6c3160b37235fd369a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "分布式系统开发经验",
+        "MyBatis",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海鹚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2560e171301bf73f1nN_2tW4",
+      "brandName": "海鹚科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/be8d4076efc507411cd8eccfd95b604861d7efe8ab08db09643a9b83eed2dbb2_s.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "海鹚科技，成立于2014年5月，是中国最大的引领公立医院智慧升级的全栈式科技生态平台公司。秉承着“让医疗变得更温暖”的理念，通过“科技赋能”+“运营创新”，以公立医院为中心，围绕“智慧医院建设”+“医疗服务运营”，为公立医院开源节流，建立覆盖患者诊前诊中诊后最专业的“医、药、检、险”生态闭环，为用户提供全方位全生命周期健康管理服务，成为中国公立医疗体系的重要补充部分。不断提升医疗服务均等化、普惠化、便捷化、精准化水平，助力健康中国战略和健康中国行动计划的实施。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "股票期权",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1716728690468,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海鹚科技",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

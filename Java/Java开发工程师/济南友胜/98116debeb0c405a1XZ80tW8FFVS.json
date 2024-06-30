@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l9JHvdhBPjcx3-u1bS0Bb_3JMYtKlFaguWUz5cmqpurWjdAhkyMrH1t2qJi9ZGN0M0Ltc4dWGL1416yxwwY8zu8P2PLdL7GT15hCvbFwrJZqexNAkRENeacVLKsA5zN-BZ0mvHURoSevUobpUvKso-_gfg3o4zTCgAJxC4YJmVEiQIu7OQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "98116debeb0c405a1XZ80tW8FFVS",
+      "encryptUserId": "b2b606f9d009b9e40nR62ty7GVRZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机专业统招专科及以上学历，学信网可查;\n2、熟练使用常用研发工具，包括但不限于依赖管理打包管理工具（如Maven）、版本控制工具（如Git）；熟悉docker、k8s更佳；\n3、熟悉Java技术栈：Spring体系（如springBoot、SpringCloud等）、Servlet系列容器（如tomcat、jetty）、Mybatis、HttpComponent;\n4、熟悉和使用 vue、CSS、js 等前端技术;\n5、了解linux系统、熟悉常用linux命令;\n6、服从各项工作安排、思维严谨、优秀的现场沟通、测试部署能力、学习能力以及强烈的责任心;\n7、能准确把握、理解现场用户需求，高效产出高质量代码;",
+      "encryptAddressId": "e5fcada1957115970XR62t--E1ZQxoS_Ufo~",
+      "address": "济南历城区东8区·企业公馆A区A7-3-2404",
+      "longitude": 117.222049,
+      "latitude": 36.689091,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf5b69fc6ff881520c67a32b376d7254dc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfc55190c9321615db87eb2f6c5957a8cc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "Java",
+        "MES开发经验",
+        "不接受居家办公",
+        "MySQL",
+        "Spring",
+        "Spring",
+        "理解需求并进行测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200905/37ce4fe004e714c5c557e1d9d289503fb230c2c27c7203cf5f51f720695_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "济南友胜",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "44e3c55da6549c661XV409y0Fls~",
+      "brandName": "济南友胜",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "五险一金",
+        "电脑补贴"
+      ],
+      "activeTime": 1719473626858,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "济南友胜",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

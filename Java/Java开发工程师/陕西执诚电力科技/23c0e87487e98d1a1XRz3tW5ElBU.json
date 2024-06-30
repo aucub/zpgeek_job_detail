@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RqasZvPmFWYRV-w1JruhF3VY2CF1DhL142jUtezE3K_UuLo4btrlcfJdAIlKpbK_vpmeX4_iisXF1QTphWaA5GaXviAf3CoRY4PV4IQJNSYCywCq-Aw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "23c0e87487e98d1a1XRz3tW5ElBU",
+      "encryptUserId": "2182f4dce99eb0141XFz3t25GVA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n负责软件产品的设计、开发以及过程中技术预研和难点攻克等相关工作。\n岗位要求：\n1、本科及以上学历，2年及以上相关工作经验；\n2、Java基础扎实，对JVM原理有一定了解，熟悉常见的设计模式；\n3、掌握主流的开源框架，如Spring、SpringBoot、Spring Cloud、Mybatis等；熟悉Spring底层实现及原理；\n4、熟悉分布式系统的设计和应用、熟悉分布式、缓存、消息、负载均衡等机制和实现；\n5、掌握MySQL、Oracle等关系型数据库的应用开发，有较好的SQL编写及优化能力；\n6、熟悉Linux操作系统，具备内网环境下服务器环境搭建及应用部署能力；\n7、熟悉前端VUE、ElmentUI、Echarts等技术；\n8、对技术研发有热情，有良好的编程习惯，对工作有责任心，具备良好的学习能力和独立解决问题的能力，善于沟通，具有良好的团队合作精神。",
+      "encryptAddressId": "9312328308347df403192tm5EFU~",
+      "address": "西安新城区朝阳国际广场B座(益田假日世界购物中心)B2105",
+      "longitude": 108.974072,
+      "latitude": 34.268577,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b71591694fb49a283f1a9713f770b64",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf52b82b3b144746bea41a318c5283da",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "分布式系统开发经验",
+        "Sping Cloud",
+        "Vue",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220222/607f1f3d68754fd06a6ae242733ac11b8d92832075231b4f214fb695d4bed4ac085b8aba6c3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "陕西执诚电力科技",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d03ea429a747c2c61XR62dy0E1M~",
+      "brandName": "陕西执诚电力科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220222/7bf6f160950405e964af3d6cff7a10e1af06906064231e0c214fb695d4bed4ac085b8aba6c3b7fcb.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司介绍：陕西执诚电力科技有限公司是一家致力于能源电力行业数字化转型及数据运营服务的提供商，重点面向电力企业客户提供数据资产管理、数据开发应用、数据治理为主的信息化产品及增值解决方案。",
+      "labels": [
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "加班补助",
+        "节日福利",
+        "五险一金"
+      ],
+      "activeTime": 1718360045072,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西执诚电力科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Qc4SUIqAUP7HQ-V1SL5ZQqZuabXJkzaeXgUXxiltO33g14TLAirpUa_3Nc9azIty9N6vEBccW_Vx4xeNPGcySrIXRE9Qs7NLqMne4tlanbfMBkodhFKbvH3Gx7QHVdepDUiIWO3g5w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f9ba15cb5283565633x829q4E1Y~",
+      "encryptUserId": "db49079cb67cce953nN82928FFU~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121300,
+      "locationName": "威海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "1. 本科计算机专业，3年以上Java开发经验，具有独立开发和解决问题能力。\n2. 掌握Java相关技术和框架，Spring Boot, Spring MVC, Spring Data JPA。\n3. 熟练使用Maven项目构建工具，Git代码版本控制工具。\n4. 熟练使用Nginx，Tomcat等工具。\n5. 了解前端Vue/React/Angular等技术优先。\n6. 加分项: Spring Cloud, docker, k8s",
+      "encryptAddressId": "8978946055bec2f91HZ_2N25FFU~",
+      "address": "威海环翠区威海经区创业孵化大厦",
+      "longitude": 122.150402,
+      "latitude": 37.432566,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a265ad48ea6f35dd8d41ab76b2f60579",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24cfc0b7bf8bf0a9bedf58e7465297db",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "葛女士",
+      "title": "人资",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=06afcc21dc120567jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5TnX905Np5vYxpS1O0mb01Z-r3KcVW4Oq_Cj4qYFxTqCNe_6-oECEWROXjWRJrwopPSV2xzKcE_AhLVoLjhyN-ASNB8XGLOJuuwZ1zR-hf3LVY40OOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "天智创新技术研究院",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "53d24e8893bc98f30HB73t29FA~~",
+      "brandName": "天智创新技术研究院",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101302,
+      "industryName": "非盈利机构",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717668096647,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天智创新技术研究院",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AtyyXTv7pIBSi-h12J2J0g9C3OwCo9cQ-5-sTdDbpBjZ6CjVGzlOxvZMtMkN-Wx6JWIaUQX8EY9nTc2kBHtdvv_rxSwzC33X1BMW3-iuvA9ySn1tG8EQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e5768d77808f60b01HB60929F1tR",
+      "encryptUserId": "aea76bd4998c81130nZy3969GFNY",
+      "invalidStatus": false,
+      "jobName": "测试工程师_南京",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\n1.计算机相关本科及以上学历，有专项测试能力或经验的可接受大专学历；\n2.良好的沟通能力，能接受并适应不定期出差及驻客户项目现场实施；\n3.熟悉测试基础概念、基本流程及相关标准；\n4.具备测试需求分析、测试用例编写、执行测试、问题记录及结果总结的能力；\n\n具有性能测试或安全测试专项测试技术：\n5.了解或熟悉性能测试流程及方法，熟练使用loadrunner或jmeter，具备性能测试需求分析、性能测试方案/计划用例/场景编写、测试脚本编制、测试场景构建、测试结果及监控数据收集、测试问题分析并给出修改/优化建议的能力；\n6.了解或熟悉安全测试流程及方法，熟练使用常用web漏扫、渗透测试、代码审计工具，能够对系统进行安全功能测试、渗透测试、风险评估；\n\n7.具有质量管理、体系管理经验或软考中、高级证书，PMP、CISP等证书者优先。",
+      "encryptAddressId": "0fbeba784d5fb5aa0HJ42ti5FVU~",
+      "address": "南京鼓楼区泛悦城市广场T2商务写字楼710室",
+      "longitude": 118.780185,
+      "latitude": 32.096233,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a82a4b8c0d345e9a08f8dee748df9e2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fb6ed16aa81fc0395ad147ff5eae16b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "渗透测试",
+        "性能测试",
+        "Java",
+        "LoadRunner",
+        "JMeter",
+        "计算机相关专业",
+        "测试工作经验",
+        "掌握软件测试理论和流程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd06ba2c0e8577237dbfa06b04a439f77bce4ea96becdcb5b348b213b23c65c817_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "苏测",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab47fdccce112a961nVy0tS8ElM~",
+      "brandName": "苏测",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210113/0568ae1d8892f9ec396ccc2cb19123eeb7693bcb25a41b9ad11cb10eed02543e_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "公司\n成立于2015年\n总部位于山东济南，在江苏南京、河南郑州设立分部\n合作伙伴包括各级政府、企事业单位和龙头企业\n\n资质\n检验检测机构资质（CMA）\n信息安全风险评估资质\n软件测试行业协会会员\n\n服务\n严谨、客观、进取\n信息化项目从立项到验收的全过程咨询和检测\n以最快的速度、最高的效率提供权威性报告",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1719652482413,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏测",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rJyOk8Pgb0qnY-51ljqtxlTfJseQz0OF4IUBE0YONSiMN7XSOog69l7mJpSQdO0kW-mP-xf7sHr_QQH1fxixtVsJbR8WCiBwHNPU-VPPQLC1-KVWG8dXu2TDhrXORXzIJ99YBSRS4SqCBtwC-nMbTMFm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "54485a79fd0beb091HR50924EldS",
+      "encryptUserId": "da78156bfca74c180nBz2t29FVVX",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "此岗位不支持线上面试。试用期6个月，转正合同3年。\n岗位职责：\n1、负责日常开发及系统的概要设计\n2、负责软件开发，系统编码实现\n3、协助版本测试及bug修改工作\n4、参与研发过程改进活动，提高软件开发效率\n岗位要求：\n1. 1+年后端经验，参与复杂项目系统设计开发。\n2. 扎实的Java基础（数据结构，操作系统，算法，计算机网络，数据库），熟悉常见的设计模式，良好的编程能力。\n3. 熟悉掌握Spring/SpringMVC/SpringBoot，Mybatis等开发框架，并有深入的理解和实践。\n4. 熟悉MySQL，Oracle，MongoDB，Redis，Kafka等常见的存储和中间件，有良好的数据库设计以及优化能力。\n5. 熟悉多线程开发，具备高并发场景下设计，优化及排查问题的能力。\n6. 在技术领域有一定的深度和广度，有较强的逻辑思维能力，善于分析，归纳，沟通和解决问题。\n7. 微服务架构经验，（sprint Cloud /Boot）\n8. 后端主要使用Java，数据库用Mysql，开发工具使用Idea。\n9. 如果有开源代码/架构选型、分析和设计能力，技术架构和数据库设计能力，更优\n10.后端能够有前端（VUE/React/Angular）经验更优，",
+      "encryptAddressId": "bd83b56ea0a27d531nV709u-GFBS",
+      "address": "成都武侯区东福大厦16楼",
+      "longitude": 104.05877,
+      "latitude": 30.632472,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74e2e8e8b349eee9b1122dbcf03d80d2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c42124c91cb4f213e553f0b38820a5df",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231009/607f1f3d68754fd090f9cf79bde37aa1eeb7cba172e410967c472f5f3c8b4098ece666eb75582e3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "蓉普泰信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5875968bfef220301XVy3ti1GVI~",
+      "brandName": "蓉普泰信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230816/7b5b554d84f9729c625da2765c1fd481f45513562e67bbf07c472f5f3c8b4098ece666eb75582e32.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "互联网内容风控与威胁分析领服务商 \n                                                                                     业务：nrjc.com   qwp.cn  官网： rongputai.com",
+      "labels": [
+        "全勤奖",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1719321837133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蓉普泰信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

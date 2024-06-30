@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "L9A3GOc6jWdM1-Q1ZRajI2Avb0Hd-Rl0X7q_YSNSZpb_NIvkpt4Cy-mZ3DlO6zB9cq-2_DA6fnzSk0Zc6QIRzJDXB8JQb-hY6GtdlQZMAkUa16du-A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8537a0bc0477e38d1nxy3tW_E1BX",
+      "encryptUserId": "fea8a1440ea4fc433nN_2d60E1A~",
+      "invalidStatus": false,
+      "jobName": "Java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091000,
+      "locationName": "邯郸",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "0、公司自主项目，常驻邯郸不出差，有绩效，双休，氛围好，经常团建；\n1、熟练使用SpringBoot、MyBatis等相关开源框架进行项目开发，熟悉SpringCloud者优先；\n2、熟练使用Mysql、SQL server、redis、mongoDB等数据库，对事务机制、数据结构优化熟悉者优先；\n3、熟悉Linux操作系统，熟练掌握基本操作指令、应用部署、负载均衡配置者优先；\n4、熟悉JavaScript、vue，熟悉layUI、Element UI等前端框架者优先；",
+      "encryptAddressId": "62b586d1372f56c30XB73Nm4F1U~",
+      "address": "邯郸复兴区卓昱大厦1406",
+      "longitude": 114.472008,
+      "latitude": 36.611067,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18adb28d9f8f9d78872ffa2ce5218617",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0478559f5ee6ffc8f6f6b8c95de3c18",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "负载均衡技术",
+        "数据结构",
+        "SpringBoot",
+        "NoSQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "龚先生",
+      "title": "研发主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd072d0b119b8d79f79aa1a9b032cd31304490fd0faad71833f2b2db4d37837e11_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "蓝精灵",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e92f957ef86fabb9031_09i7EA~~",
+      "brandName": "蓝精灵",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211223/7bf6f160950405e9c9c423b7942a771279daa6daf388170d490fd0faad71833f2b2db4d37837e115.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100502,
+      "industryName": "物流/仓储",
+      "introduce": "大宗货物物流平台行业领先者",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1719212198227,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蓝精灵",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

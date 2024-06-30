@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jgpW-hhYWe8JO-N19mFgLFepMc5h3WB8p0ROYQAUkXfv_0GLqK9_PYxYQ_z3ojluaQ4CIogT34XG_mEKnBgsRtIZFshoRgf9USQ5PNltM2hO5j-aRt3xkIOJUAymUPdalm83Xq6ITznN",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e81fe09bfa9be2bc1nJ62tq4FFdW",
+      "encryptUserId": "6024d08184d975011Hx83tW_GFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求（自主项目，非外包业务）\n1. 至少2年以上的java全职开发经验，参与过互联网产品的设计研发工作；\n2. 熟练掌握Java基础知识，如集合、多线程、网络等； 掌握各常用设计模式的使用；掌握jvm等相关知识；\n3. 理解RESTful接口设计的理念；掌握springboot，springmvc，springcloud的一种或多种；掌握主流消息队列相关知识；\n4. 掌握mysql，mongodb，redis等的关系型或非关系型数据库的一种或多种。掌握数据库事物、锁等相关机制，了解数据库性能优化等相关知识；\n5. 掌握git，maven，jenkins，docker等主流的CI/CD工具；\n6. 具有高度的责任感，良好的沟通能力、逻辑能力；\n7. 关注业界技术的发展动态，能够主动进行技术研究并分享，通过新技术服务团队和业务。\n\n加分项：\n1. 有丰富后端开发经验者优先；\n2. 有大型互联网项目经验者优先",
+      "encryptAddressId": "9a23c16ac83171b40H1-3d21Ew~~",
+      "address": "苏州昆山市昆山同济口腔医院昆山前进中路219号10楼",
+      "longitude": 120.9764,
+      "latitude": 31.382599,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e359466e5ded048904009cdf3c797f3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2d857c65b7cfd6c471a59781e0f6fcc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "MVC开发",
+        "消息队列",
+        "容器技术",
+        "Spring",
+        "SpringCloud",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "司先生",
+      "title": "综合管理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230526/607f1f3d68754fd05c1527e61428053d2edfce101d3246399ba411e4fc51fad1ff23bece2d6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "优牙库",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f8619c0c660246381nF53tW_FVQ~",
+      "brandName": "优牙库",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210408/3f2b9f9bec8a478f373957124f4209be9ba411e4fc51fad1ff23bece2d6df443_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "优牙库网络科技（苏州）有限公司成立于2018年03月，企业地址位于昆山开发区前进中路219号；\n当前主要业务为医疗物资供应和医疗市场推广。\n\n团队成员包括十多年医疗行业践行者、互联网知名项目技术专家、外企项目团队管理者...\n当前已经与本地医疗行业巨头、多家医疗机构、众多医疗器械供应商达成战略合作！\n\n管理扁平化，技术氛围好；团队年轻、活跃、有激情~",
+      "labels": [
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1717137120973,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "优牙库",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

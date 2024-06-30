@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vHRj1rE2OQRmk-C1NQEfW4yQHtYwhchRc2JCpvyzHq9MV8_oXj3G9_h3_od8PKvjoifyZ2oPICSoSmkc51sbWZW9twXtl79tzSTzDxhcuWz7FK1MjO7UTuLQddvJkpOYNuBb5tM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ecfa879a8e044f50X140ti4EFs~",
+      "encryptUserId": "105adc06035bd25d1HZ_2925EQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1.完成具体模块的程序设计、开发、测试、修改bug等工作，以及业务需求的沟通\n2.参与平台系统核心业务的设计和开发工作；\n3.参与需求分析，并根据需求进行设计和开发；\n4.分析并解决软件开发过程中的问题；\n5.积极协同团队成员，按时高效高质量地完成所分配的任务\n\n岗位要求：\n\n1.计算机相关专业本科，1年以上有J2EE WEB项目开发经验；\n2.熟悉 Java 相关的问题解决工具和常用的 Linux 命令，有较强的线上问题解决能力；\n3.熟悉和掌握Spring MVC、Spring Boot、Spring、MyBatis等框架，有一定的源码研究能力；\n4.熟悉MySQL、Mongodb等数据库，具有数据库设计和优化经验，熟悉Linux操作系统；\n5.具有较强的自学能力和沟通能力\n\n有如下经验者优先考虑：\n\n1.redis性能优化经验；\n2.有大型分布式，高可用性系统设计开发经验；\n3.移动广告行业开发经验；\n4.大数据开发经验;",
+      "encryptAddressId": "7e9c209709c9e6ab1nx43dy5FQ~~",
+      "address": "杭州西湖区中节能·西溪首座杭州市西湖区西溪首座A1-3楼328",
+      "longitude": 120.074836,
+      "latitude": 30.288697,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/432d035660382afebb4b9d5dc09bd2fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5f89ce6bfff2cb093a8f952d6470138",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "柳先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "创变网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cb198279f9a7d4eb0Hd_2921",
+      "brandName": "创变网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180822/e9553f396482dbbc7cd40cdb515d2e9bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "北京创变网络科技有限公司是国内领先的移动大数据智能推荐服务平台，通过全面的用户行为数据挖掘与分析，为终端用户智能推荐数字内容，同时，为企业客户提供精准的数字营销服务。\r\n\r\n精准分析的用户数据，可以触达的用户生活场景，让商家、品牌及开发者能借由我们创新性移动平台与全球移动用户进行互动交流。公司自成立以来，一直坚持“以数据驱动业务，以诚信赢得客户”，以大数据技术为基石，打造更加智能、高效可控的移动智能推荐服务平台，为终端用户提供有价值的信息；为客户提供技术和数字营销服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1717127084717,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创变网络",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j5O4jmhYaG_A2-k1kTtq_OqLEa5T7_Gw9Xo1f7GaTTYFubGDeiK0XzB9yDJLki90LHPeG8G6R5bMhDU4m321mPV5GMFvmitctPBjmejkrRNY8bVmR5uPvSOeyOIA0vztA7pnBYpkOw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b711dc22702447d01Xxy2dy6F1BU",
+      "encryptUserId": "d8d14f8870d2d0bf03V70ti6FFo~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1、负责公司物联网行业产品的嵌入式系统软件开发工作。\n2、基于STM32等平台进行嵌入式软件开发、调试。\n3、完成其它相关工作。\n \n职位要求\n1、本科及以上学历，计算机／电子／通信／自动化等相关专业。\n2、有独立完成嵌入式软件产品开发的项目经验。\n3、精通C语言开发，具有STM32系列MCU开发经验，掌握UART、SPI、I2C、RS485等通信接口的编程和调试。\n4、具有FreeRTOS等嵌入式实时操作系统开发经验。\n5、具有以下相关经验为佳：\n（1）熟悉物联网项目开发流程，熟悉MQTT、CoAP等主流物联网应用协议，以及与云平台的对接。 \n（2）了解主流的OTA技术，具有实际产品应用开发经验。\n（3）具有LwIP等网络协议栈的移植开发经验。\n（4）具有NB-IoT、LoRa、蓝牙、WIFI等无线模组应用开发经验。\n6、能阅读和理解芯片、传感器等电子元器件的英文datasheet文档和设计文档，并进行相关的应用开发。\n7、能够独立的负责公司产品的嵌入式软件设计工作，能够解决遇到的技术难题。\n8、良好的沟通能力和团队合作精神和抗压能力，工作积极主动。",
+      "encryptAddressId": "4f728b2c8a07dc471H162tm9GQ~~",
+      "address": "杭州西湖区华星时代广场B座207",
+      "longitude": 120.124735,
+      "latitude": 30.277505,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4415c7c927131164497f8e7da826435b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23a260890a9afb3ddc84d81745dfc90d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "RTOS",
+        "STM32开发",
+        "C",
+        "嵌入式/单片机开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "钛比科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c9569215af19a86a0XN73N-9",
+      "brandName": "钛比科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170517/5306eb741c87060658f92f1a69412809359af3f0264db86b46aefd05924d9c3e.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "杭州钛比科技有限公司是一家以浙江大学为依托，聚焦物联网技术和工业自动化数据采集产品开发和解决方案提供的高新信息技术企业。公司位于美丽的西子湖畔，杭州市西湖区浙大国家科技园内。主要创始人为自动化、信息电子以及计算机专业的博士、硕士，公司员工中有本科以上学历的占90%以上，拥有很强的研发创新能力以及应用推广能力。\n目前公司主要有两块项目，智慧教育和智慧卫监。智慧教育主要是基于向高等院校输出实验室等方案，与阿里云、亚马逊在院校这边都是合作伙伴关系。智慧卫监是面向国家卫健委下属的卫监机构输出智慧城市的解决方案，助力政府机构信息化建设，与杭州市上城区，江干区，下城区，西湖区以及绍兴等地卫生监督所都有过多个项目合作，目前主要在做的是省内各市共17个卫生监督所的智慧监管项目。除此之外，与中国移动，海康等也都是紧密合作伙伴关系。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "生日福利",
+        "通讯补贴",
+        "团建聚餐",
+        "工龄奖",
+        "节假日加班费",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+      ],
+      "activeTime": 1719666651844,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "钛比科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

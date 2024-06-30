@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s0t2eHlIzwWsm-41Q9jtXRw9ZwsurSlFglyg0WCIYwwiOYK3rb7gkGWCqV8n9Dc9wM7qYFMsyTP2mIvP8HbbJSj2MQcptJL8-Pyv3y8T68AfO4NKfbgS469gGZn7YNf7hCnrnBnBf60~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "26db4989324dade11nN43tW9F1NY",
+      "encryptUserId": "b00b6d46cc408b670XBy2tW8F1A~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格及要求：\n中级开发2人\n1、专科及以上学历；学信网可查！\n2、2年以上基于J2EE架构（如SSH）开发经验，精通JAVA语言，熟练使用至少一种中间件（weblogic、JBOSS、Tomcat），熟练使用DB2数据库及AIX、Linux系统； \n3、具备系统安全设计开发技能，熟悉金融电子支付行业安全规范；\n4、有分布式JAVA联机交易系统开发经验；\n5、具备JAVA系统设计能力；具备开发JAVA框架的能力；\n6、熟练使用Struts2、Ajax、WebService、XML、Hibernate、Ibatis、Spring、JMS、RMI、JQuery、JS及.net等相关JAVA技术，且对于其中1-2项达到精通水平；\n7、熟悉http、socket协议；熟练编写SQL语句；\n8、技术全面、成熟练达、洞察力强、经验丰富，具备在缺乏完整信息、众多问题交织一团、模糊和矛盾的情况下，迅速抓住问题要害，并做出合理的关键决定的能力；\n9、有JAVA系统调优经验者优先考虑；\n具备良好的沟通、协调能力，有过团队管理经验。",
+      "encryptAddressId": "2a2ba8b63810985b1nF-09-4GVo~",
+      "address": "上海浦东新区惠生大厦中科路699号",
+      "longitude": 121.600287,
+      "latitude": 31.179924,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/669461b2e696a2ac53f12e287060053c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9f2957999861755da214aaff8779039",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "负载均衡技术",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "基立讯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4158f488272d2de303Jz2dS-Ew~~",
+      "brandName": "基立讯",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190611/bf528cca1653ac7a9723a6daf3045763c2388cfe6298955c9dd34266d29327c5_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海基立讯信息科技有限公司成立于2003年，是一家由留美归国中青年学者共同创办的专门从事人工智能语音技术商业化应用为目标的高科技企业。企业具有语音识别、声纹识别、深度学习相关人工智能领域应用开发的一流人才。企业基于相关AI技术开发的一系列产品在国内相关领域都具有产品独特、应用创新、性能领先的优势。客户涵盖互联网、金融、运营商等多个领域，如：阿里巴巴、建设银行、浦发银行、中国移动等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717130598210,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "基立讯",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

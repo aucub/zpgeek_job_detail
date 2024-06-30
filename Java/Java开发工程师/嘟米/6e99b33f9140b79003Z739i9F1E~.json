@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "T87eZXCKdsZig-c1KDSnC0zryqQYgRtG8W5wXocHJIqnRKhcXiyst4SzbUbnIDQAvvJnBt5mOoYBgqx3dHLBnOn4RuUrEaAR2S6yQGcuG_wbw48~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6e99b33f9140b79003Z739i9F1E~",
+      "encryptUserId": "4f5862b9d006b5571HF_3NW8ElY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "2年左右Java后台开发经验\n1.掌握JAVA\n  1. Java基础扎实，熟悉JSP相关东西(考虑权重高)\n  2.熟练使用Map，List等Java常用类。\n  3.熟练掌握Java中字符串操作等\n2.掌握JSP\n  1.熟悉JSP各个作用范围、生命周期( PageContext,requestsession,application )\n  2.获取请求参数/所有请求参数字符串等操作( GET/POST区别，特点)\n  3.能够定位一些基本的异常(例如空指针、数组越界等)\n3.能熟练使用原生JS、CSS、HTML的知识。\n4.掌握工具\n  1. SVN\n  2.代码比较工具\n  3. ECLIPSE/IDEA\n5.对前端框架使用无要求，但是要能熟练编写原生JS，比如DOM元素操作、定时器、字符串操作等，会简单的HTML布局，会处理相同样式在不同浏览器之间展示不同的兼容性问题\n6.看的明白HTTP请求的构成、结构，以及服务器响应错误码的含义",
+      "encryptAddressId": "64a5a96c3fb3761c1nZ72du9EVE~",
+      "address": "南京玄武区新世界中心B座1905",
+      "longitude": 118.787834,
+      "latitude": 32.049398,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6968d26d4f4174078a7d966e894d9c80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5de5603cfd790e8a36223e2a276c091",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汪女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "嘟米",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "87d19b0b852a8e490XF_39u-",
+      "brandName": "嘟米",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180423/19f879a9bacca28d772d7d234528fbdecfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "嘟米科技是一家专业的物联网产品和服务提供商，成立于2016年7月。针对不同的行业领域我们提供一站式物联网解决方案，包括数据采集、通讯传输、云服务、定制化业务平台、Web和移动端开发等。\r\n我们始终以客户中心，挖掘设备连接的使用价值、延伸价值，融合企业内外部数据，帮助企业实现智能化运营和服务模式创新，让每一家企业都能够快速实现转型升级，提高竞争力。",
+      "labels": [],
+      "activeTime": 1716725747386,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嘟米",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
