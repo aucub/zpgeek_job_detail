@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "00MlEmgayN9M8-m1SfW8yV7X5ZbBs_VWPIVz1FYgFIiEQggUW3gOdzj6Taqo_l-My-nxHr-zcroISGVts1Jt-ZRKfztBcCwfpGaGDVABTFqDEN0QSuHwxbvY4T_6MwutxxS7IeHfqaw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "876ea0b8b22581463nF62Nq8EVc~",
+      "encryptUserId": "5fb30a26c4d83b8a1nZ709W5GFZR",
+      "invalidStatus": false,
+      "jobName": "PHP软件开发工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "双休\n\n1、熟悉MYSQL设计和优化、熟悉OOP思想\n2、熟悉掌握ThinkPHP等主流开源框架一种或几种，熟悉Linux/Unix基本操作，在其上有开发经验，熟悉H5(Vue)等前端技术\n3、对服务器程序的部署，架构，调优有一定的了解，熟悉nginx,apache等web中间件服务器\n4、熟悉Redis或Memcached等缓存技术，以及不同场景下的应用\n5、熟悉国内支付渠道与系统开发经验，包括但不限于支付宝，微信，网银等\n6、熟悉微信sdk接口开发",
+      "encryptAddressId": "6ea5046aa03743181Hd_3t2_ElE~",
+      "address": "太原小店区太原经济技术开发区高新技术企业孵化基地治安岗亭4号楼4层留学生创业园",
+      "longitude": 112.596057,
+      "latitude": 37.733174,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1616f3d98db07b43ea67104f594b428f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e61c64e8d3b6b57d83d125d138bd0317",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "Redis",
+        "MySQL",
+        "GIT",
+        "ThinkPHP",
+        "支付"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200812/5be1807b8e1002978701d6769dfb5ae55fcdc475128d7be2e89567ee8ca_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "货通天下",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0b370bb3923a97321nN62dW_GA~~",
+      "brandName": "货通天下",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210423/0fbcedec10628050a617a08f30eea28d9d1822fbd84aac4a735f061229a207b4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "公司专注于为生产企业、贸易企业、物流企业提供信息化、标准化服务。",
+      "labels": [
+        "加班补助",
+        "全勤奖",
+        "带薪年假"
+      ],
+      "activeTime": 1717152181548,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "货通天下",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

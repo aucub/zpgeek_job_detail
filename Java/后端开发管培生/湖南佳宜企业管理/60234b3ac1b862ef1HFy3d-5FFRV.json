@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yBVM0s8vni48X-M1Z-64fgUf3b-VQBYNFtd6ZTjTWPBYP96YfrQpNJOfRqEO3J6uthxGMVR8heX2AZ3dbbIlU3GRVQMwbgbnj-fBKXTuOXNQlFBVZbAAomI47a0eQrymhRoFYgQNqXiNUKeONq0VD35VGxcuzrjneDsVGVJ08RPdHGmvJA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "60234b3ac1b862ef1HFy3d-5FFRV",
+      "encryptUserId": "46874440fb9c8cc10n170t6_GFNW",
+      "invalidStatus": false,
+      "jobName": "后端开发管培生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n①独立完成中小型项目的系统分析、设计并完成详细设计和编码的任务，确保项目的进度和质量；\n②能够在团队中完成code review的任务，确保相关代码的有效性和正确性，并能够提供相关性能以及稳定性的建议；\n\n任职资格\n①23/24届双一流本科或硕士以上学历，计算机相关专业，动手能力强，有互联网项目开发经验者优先；\n②Java基础扎实，良好的代码风格，熟悉J2EE规范，熟悉常用设计模式；\n③有电商业务架构设计相关知识的了解；\n④了解Linux环境以及常用操作命令，GIT、Maven的使用，熟悉Tomcat，Nginx等开源的服务器；能使用Java开源技术和框架：Spring、Mybatis等；了解分布式缓存Redis、消息服务ActiveMQ/RocketMQ、微服务架构(Dubbo、Zookeeper)等移动互联网架构常用技术；\n⑤热爱技术、工作认真，具备较强的学习能力和责任心，善于沟通与团队协作；",
+      "encryptAddressId": "4031109e3f99984b0HBy2t69EFVQwIW_UPs~",
+      "address": "长沙芙蓉区旺德府国际大厦10楼",
+      "longitude": 113.029717,
+      "latitude": 28.185775,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f96752fffd2255258d036d3c4d5b3739",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15bccabd9be113b9ef3a7b8da2e39eef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钟先生",
+      "title": "商务经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "湖南佳宜企业管理",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "54acd65dad94fa3f1XZ839u7GVE~",
+      "brandName": "湖南佳宜企业管理",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 101001,
+      "industryName": "食品/饮料/烟酒",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719796426406,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南佳宜企业管理",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

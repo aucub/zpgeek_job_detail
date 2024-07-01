@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ovr38uWmpmRHn-d1qRqFHltujrO9_YLY9bR2ZsRBvKt7vyJpo1LiS4wr8BRxtgOCnGhLn48TpyGqOW-g67XqhQ_VcgJsBJThrTYKZN53B69EUs8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "25e187a8b03461481XRz29m9F1RW",
+      "encryptUserId": "22c14e6d08fac82f1X162tW9ElY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制大学本科学历及以上（硬性要求），计算机相关专业优先；\n2、有较强的代码阅读能力、学习能力，具备良好的JAVA基本功和编程规范\n3、JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解\n4、熟悉主流的Java Web开发框架和工具，如Spring MVC、SpringBoot、Redis、MQ等。\n5、熟练运用SprngMVC、SpringCloud、Springboot、SSM等主流框架中的一种，熟练使用IDEA开发工具；\n6、熟悉css、javascript、jQuery、vue等前端开发技术，有前端开发经验优先；\n7、熟练使用SQL语言，了解oracle 数据库；\n8、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力；\n9、有保险项目开发经验者优先。\n实习薪资：3.5-4k",
+      "encryptAddressId": "64105fb5773a71c21nB42dW8EFNX",
+      "address": "北京东城区雍和宫壹中心A座中科软科技股份有限公司",
+      "longitude": 116.419653,
+      "latitude": 39.953199,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf17b147c207f8d83608ebe557b2bd6b8d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf301be72563ef007d0b081cdb3116aa5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "软件工程师",
+        "后端开发",
+        "WEB开发",
+        "SpringMVC",
+        "GIT",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220321/607f1f3d68754fd0abfaeff4b2f27c32d2867a1e044a5a7f95bc9e06db6f591eae0a3c0e62f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1719813958949,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

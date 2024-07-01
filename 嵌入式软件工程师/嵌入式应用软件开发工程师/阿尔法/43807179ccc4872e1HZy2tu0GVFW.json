@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "gUjh_k5PYfBVn-81irb2_vonGEjb7SwW1zSGEX2fRU_p-fMJ9BOkL6qIn7a7CjhJoJKvwMlaQKb4MIH90nTIp8Xd8LdpiNkC-htOSQTKHavB_1s3reuLyYMVQgSOBdxz5MFMcxYmUygXEibyjh4LaDn-Gb5mlUS3i1flaVcLonw7SP0EaQ~~",
+    "securityId": "goV25zM5BsqgJ-X1mPB9Mgmao3drwXZlpUUlr5z0NzcPtuiMOA2x0lZsiDvKErgG8HDAIUbOpvHoEoj_Ey18CnzrXHqpco0fuJc5siLPbA90KROTFAp2GwnNz7N9OiOyf5-dBWp6gk7ilwzbLS1ZzRIkCc1bwmbTOPzBoBh3RN5bv1U7hQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,10 +49,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "阿尔法",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "bbbb91c6f6f895b81nB92tW6F1E~",
@@ -74,7 +76,7 @@
         "五险一金",
         "双休"
       ],
-      "activeTime": 1718086337577,
+      "activeTime": 1719752277224,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "阿尔法",

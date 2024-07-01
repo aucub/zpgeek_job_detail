@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "qeCkO0-Z0EJib-_1hYTgjWKcEbi3n_fyF6m5gZiX1c-x1m_i7aGqqwDVaOboNaf_lWxAMfUys85vUtBm10ckRanrgPCiiDhpYa8PzzSgZU_m1fn8XoPjvN4i0cDmiDEh89M_3dhXaojPwOu0FHuQzHDhIwqCIk3jU0bO31CdQv_wVGul",
+    "securityId": "mbXihBHuV5dCV-f1XmKExNqehXAouq_787G3rCodsh9Mop94sS8c8vNx8UfrL59wEay1sAc1zdY459RjLemPH_XfKeZIxaOV_ea61oC9QXe3jDNyHo233nWI-IvHN1YNzDbtDq7FTc18",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,11 +46,13 @@
       "title": "招聘",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231129/607f1f3d68754fd0061f2f20ed98efa9351450e0dfd00bc3e0d33c09a75d9327de2abb800b93054_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "利郎",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "cb882b497117ae341nB_39S1EQ~~",
@@ -72,7 +74,7 @@
         "五险",
         "生日礼物"
       ],
-      "activeTime": 1718096734876,
+      "activeTime": 1719639992317,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "利郎",

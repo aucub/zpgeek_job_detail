@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6Er5fp47sb_k_-W1Nv7IYClaKp9_QFY9yeAP8IlK4UJspGQ2sZcXlaybdtvvV_Zdx3QbXZdvoOxqVHHm1r4YtVdnsdfAPDKroGjN0U_o1VWSVl_Wrw_FMZOiImV1H7x8tMyrvsTAhMV1pBtR1ALQjjeUupCpHQ3tvcnT3MBrbqmx1s_h",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5f38bd85bf1454b1HV92dm6EFdV",
+      "encryptUserId": "1211303b0fa64af31nZ43t24GFRS",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121300,
+      "locationName": "威海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n研发部软件工程师\n1、参与公司项目调研，完成需求分析、技术可行性分析；\n2、参与项目技术方案的制定、功能模块详细设计、业务功能实现等；\n3、负责核心代码的开发、测试、Bug修改等工作\n4、负责相关技术文档的编写、拟订。\n岗位要求\n1、具有java项目开发经验。\n2、熟练运用springboot，mybatis等框架，熟练使用mysql数据库；\n3、熟练掌握redis、rocketMq等中间件;\n4、熟悉Linux环境及操作svn使用，熟悉tomcat,nginx等开源服务器；\n5、熟悉js，jquery，vue等技术，具有uni-app开发过微信小程序和Android 经验者优先录取；\n6、具有springcloud alibaba、时序数据或mongodb 经验者优先录取；\n7、具有丰富高并发、高吞吐量，独立设计的软件产品，从事过物联网开发的经验优先录取；",
+      "encryptAddressId": "924df8e2b9af04290nd_39W_E1I~",
+      "address": "威海环翠区威海火炬高技术产业开发区双岛路369-11号5楼",
+      "longitude": 122.03475,
+      "latitude": 37.522262,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2fc2c240ceb117548e2d61dbb9647ee8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b997abd251eac3013f99de180de4b72",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "不接受居家办公",
+        "VUE"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏女士",
+      "title": "人资",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211129/607f1f3d68754fd0425fd3cdd7599ff4d84a3622d9f38eeb640d00bbb7c9f377806cd1ea2a4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "鸿源工业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a711da69efdf5c5d33Z82927Ew~~",
+      "brandName": "鸿源工业",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1719804825651,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿源工业",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

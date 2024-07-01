@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0zrc0FcRLoYSA-n1311nCtk-3WX6VzBQVM1eFOQ99agqQzHLiXA1knpqNKB7rmKu6VwARH09xDp6L41atXDtYoAw-cDRzd-6L6KWUS--PwuJUnOVAI1r",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f3b958c9845f55061nd429i6EVNT",
+      "encryptUserId": "c4cf829e5427f0400nZ509m4EVJY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210900,
+      "locationName": "金华",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "【任职要求】\n1、计算机或相关专业专科以上学历，至少1年以上JAVA开发工作经验；\n2、精通J2EE体系架构，熟悉Spring、MyBatis、SpringBoot框架；\n3、熟悉设计模式，能够独立开展JAVA项目架构设计；\n4、Java基础扎实,精通多线程、并发、集合、网络、IO等基础知识,熟悉Http、TCP/IP等协议;\n5、熟悉应用服务器如Nginx、tomcat等中间件安装、部署、调试；\n4、了解RabbitMQ、Dubbo、SpringCloud、Nacos等微服务技术的使用以及工作原理优先;\n5、熟悉Mysql、Redis等的运用以及原理,优秀的SQL编写能力以及调优能力\n7、熟悉linux操作系统，基本的操作命令使用熟练，有一定的问题排查能力和经验。了解阿里云。\n8、掌握源码管理工具svn、Git。",
+      "encryptAddressId": "14d0f54296c17e361nx409q-FVY~",
+      "address": "金华金东区51车(总部)7楼",
+      "longitude": 119.669007,
+      "latitude": 29.090124,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9d8878548ec19fafd978d2061004668e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb5d0821952af96f79ef081f82c95051",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "SpringBoot",
+        "SpringCloud",
+        "微服务架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "技术部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "驿乐科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3f005b32426329aa1nB63dm-FVQ~",
+      "brandName": "驿乐科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210222/fb5c01379350fb1385aee80afa8e24de6fb3e994925ee0202c44b4e2d3ff0ef4.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "浙江驿乐网络科技有限公司成立于2014年，隶属于浙江大昌投资集团股份有限公司，是一家集互联网开发、网络运营 、互联网服务于一体的网络科技公司。\n    驿乐科技是一家快速成长、锐意进取的年轻网络科技公司。其主要专注于技术创新、寄情于网络IT、投身于互联网事业。为各行各业提供专业的计算机互联网技术开发、技术咨询、网站建设、推广运营服务等项目，经过多年的努力与发展，已具有一定规模和实力，现拥有一支技术精湛的IT技术人员和成熟的网络运营团队，以卓越的服务品质，专业的IT技术、高素质的服务理念，为客户提供了更优质的IT服务，迅速发展成为网络科技领域的后起之秀，先后被金华市政府认定为双软企业。",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "餐补",
+        "带薪年假",
+        "夜班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1717223107735,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "驿乐科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

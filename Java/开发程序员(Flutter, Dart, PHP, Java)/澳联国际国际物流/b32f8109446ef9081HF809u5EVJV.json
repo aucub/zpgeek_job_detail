@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JGsEFKGl57kRk-T19NBDrUx5_3LX_wJ7flrFkqkos7oakQN9gQFnSnjNc2n-42s28qWEUupk3bZNnohknCvBuXLOB5IbRE5hkU4eQKyLCpv51Wx01TY7UJAd_pIMIyurkwYk9_ciF2LOZQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b32f8109446ef9081HF809u5EVJV",
+      "encryptUserId": "7b710cf7191a4f141nV809m1E1pU",
+      "invalidStatus": false,
+      "jobName": "开发程序员(Flutter, Dart, PHP, Java)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "初级全栈(Flutter, Dart, PHP, Java)开发程序员\n\n1. 负责日常维护系统Bug问题。\n2. 根据公司要求对不同的项目(Android,IOS,PHP,Java)进行前端以及后端开发。\n3. 本公司每月有明确且合理的KPI考核, IT技术人员需要每月达标该KPI指标。\n3. 有物流相关背景优先, 因本公司是物流公司, 因此经常需要和各大物流公司进行对接。\n4. 本公司所对接物流公司大多为海外物流公司, IT技术人员需要能看懂英文技术开发文档，并进行技术对接。\n\n工作要求：\n1. 英语阅读书写流利(大学英语四级及以上优先),能全英对话者优先录取。\n2. 本科学历，计算机科学与技术等相关专业的学士学位。\n3. 具有IT项目的工作经验或IT项目的开发经验，优先考虑有物流项目开发经验的候选人。\n4. 熟练掌握MySQL/MariaDB使用，了解不同字段格式的各种意义，根据MySQL能够根据不同需要编写SQL语句进行相关的搜索，熟悉SQL优化者优先。\n5. 良好的沟通技巧，能够与客户和内部团队建立积极的合作关系。\n6. 对敏捷开发模式的项目开发有一定的了解。\n7. 优秀的时间管理和组织能力，能够能够按时完成任务。\n8. 熟练掌握HTML CSS JS/JQuery，能独立开发web页面。\n9. 熟悉MVC架构，能独立开发restful api。\n10. 熟悉算法与数据结构，能编写算法解决复杂数学问题者优先。\n10. 熟练掌握PHP/Java 其中一种后端语言，熟悉OOP开发，有ThinkPHP或Yii或Java Spring 微服务等相关开发经验。\n11. 对Java分布式架构有经验者优先。\n12. 对于前端（Android，IOS）框架Flutter,Dart开发有经验者或感兴趣者优先。",
+      "encryptAddressId": "07b01800d8712df01nV82d29ElZX",
+      "address": "深圳宝安区皓鹏智慧园105",
+      "longitude": 113.82421,
+      "latitude": 22.693172,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf56d6af1f72c111394de93155bd896dd26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230523/48ba41acc9cef1bf29048c10df94422648b0642ba5e216db6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "澳联国际国际物流",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "de41f1093dd514b91XZ43Ny9ElA~",
+      "brandName": "澳联国际国际物流",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221014/7b5b554d84f9729ce276c740441eecf377fa95633b83590de08723d9600a458bc7509b3217013aaf.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100509,
+      "industryName": "跨境物流",
+      "introduce": "澳联国际：专注同行澳大利亚、新西兰空运、海运双清包税专线。",
+      "labels": [
+        "五险"
+      ],
+      "activeTime": 1719645202772,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "澳联国际国际物流",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

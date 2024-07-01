@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "fxdLVCJq_IiaQ-D1bf7adi-RLy-NDNZZ4OpwPh_oDIwBvTnom6-QuMjbP_MxcTWiRwk5vLe2El4Zj-hcr-PD9ykYm_S5TVfO-uCrPrd4RJJAMub0bCo~",
+    "securityId": "uMHwy3Cwfdz3z-21FLF11bO4Id9avVXvzTFk1Gu-2tITbzzn8ZHrpBwFxlrZRITxVjJ77ZYTpffA1DIzc6WjKP84ktXsmCX-NJsKH14o1T6gTlS6rj21PD2b16d32_ny1vmJaxVa00Ou",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-14K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、参与公司RPA(机器人脚本)开发,维护,运营及异地技术支持\n2、参与业务平台项目的设计和开发，模块单元测试；\n3、具有优秀的沟通、团队协作、计划和创新的能力。\n\n专业要求：\n1.熟悉JAVA、J2EE 体系结构，熟悉掌握Spring、Struts、Hiberate、ibates 框架开发以及内部原理机制；\n2.精通掌握HTML、javascript、ajax，jquery、bootstrap等web开发技术；\n3.熟悉Python编程语言,掌握基本语法函数\n3.熟悉面向对象、MVC等思想；\n4.熟悉 git 、mvn、idea等常用软件工具；\n5.熟练掌握SQL语句，熟悉数据库性能优化，较好的数据库设计能力；\n6.了解mq、redis、zk、dubbo等更好；\n7.有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低；\n\n任职要求：\n1.本科学历，计算机相关专业；\n2.学习能力强，有沟通协调能力，有较强的执行能力；\n3.具有良好的心理素质，能承受一定的工作压力，乐于接受挑战；\n4.一年以上相关工作经验，可接受做过项目的优秀计算机专业应届生；\n5.本岗位需要长期驻在在项目城市，介意勿投；\n\n公司情况\n1、九点到六点，午休1.5小时，周末双休，法定节假日正常休息。\n2、公司紧邻8号线和1号线地铁口，交通便利，出地铁口100米即公司。\n3、水吧免费提供各类茶，咖啡等，冰箱，微波炉，电话间等十分齐全。\n4、入职即缴纳社保和公积金。\n5、不定期组织团建活动，旅游、聚餐、轰趴任你选。\n6、扁平化管理，足够的升职空间，轻松的工作氛围，领导nice，同事融洽，等优秀的你加入我们哦。",
+      "postDescription": "岗位职责：\n1、参与需求分析，系统设计及服务器后端核心编码工作，完成技术文档；\n2、参与业务平台项目的设计和开发，模块单元测试；\n3、负责系统故障分析和系统故障排除。\n4、具有优秀的沟通、团队协作、计划和创新的能力。\n\n专业要求：\n1.熟悉JAVA、J2EE 体系结构，熟悉掌握Spring、Struts、Hiberate、ibates 框架开发以及内部原理机制；\n2.熟悉面向对象、MVC等思想；\n3.熟练掌握HTML、javascript、ajax，jquery、bootstrap等web开发技术；\n4.熟悉 git 、mvn、idea等常用软件工具；\n5.熟练掌握SQL语句，熟悉数据库性能优化，较好的数据库设计能力；\n6.了解mq、redis、zk、dubbo等；\n7.有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低；\n\n任职要求：\n1.本科及以上学历，计算机相关专业；\n2.学习能力强，有沟通协调能力，有较强的执行能力；\n3.具有良好的心理素质，能承受一定的工作压力，乐于接受挑战；\n4.两年以上相关工作经验，应届毕业生请勿投递；\n\n公司情况\n1、九点到六点，午休1.5小时，周末双休，法定节假日正常休息。\n2、公司紧邻8号线和1号线地铁口，交通便利，出地铁口100米即公司。\n3、水吧免费提供各类茶，咖啡等，冰箱，微波炉，电话间等十分齐全。\n4、入职即缴纳社保和公积金。\n5、不定期组织团建活动，旅游、聚餐、轰趴任你选。\n6、扁平化管理，足够的升职空间，轻松的工作氛围，领导nice，同事融洽，等优秀的你加入我们哦。",
       "encryptAddressId": "6973dcc565c67c4833B-0tu9FVJTwIS8U_I~",
       "address": "北京东城区WeWork中国(王府国际中心店)5层",
       "longitude": 116.410549,
@@ -35,11 +35,7 @@
       "showSkills": [
         "Java",
         "Spring",
-        "不接受居家办公",
-        "架构设计经验",
-        "JavaScript",
-        "HTML",
-        "CSS"
+        "不接受居家办公"
       ],
       "anonymous": 0,
       "jobStatusDesc": "最新"
@@ -53,7 +49,9 @@
       "bossOnline": false,
       "brandName": "北京远生科技有限公司",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "165a5254dab684361Xx809i-EFs~",
@@ -67,7 +65,7 @@
       "industryName": "计算机软件",
       "introduce": "",
       "labels": [],
-      "activeTime": 1718102550248,
+      "activeTime": 1719743707385,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "北京远生科技有限公司",

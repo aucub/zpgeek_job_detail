@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "dXOC-bvyMbOge-W1fzlSeiUoPcjUKCaWPhkZ_7tYCFv1h8agAG2YyYF-Xymh3yyuajDmsBYRd4NQzqL8pCAZQyzEkYUzA271g05M-pD5Ks-WC7D0DA~~",
+    "securityId": "dqh6lcxKIB-B1-G1QCuol4mOR-_3lYomEFLQMpeqqN63Z7NJObSNo7nVAPNeFuydMwssuN21IoO-thujvANIC0EwKyKR_zZlLPmyrCPysWDyZ4NN6nm-XXk_rhNaaEU9RjdKBYGjOI8~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -43,11 +43,13 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "瑾橙云",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "054d9c4a8fcf12183nV-0960EQ~~",
@@ -69,7 +71,7 @@
         "通讯补贴",
         "节日福利"
       ],
-      "activeTime": 1718071480847,
+      "activeTime": 1718071481000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "瑾橙云",

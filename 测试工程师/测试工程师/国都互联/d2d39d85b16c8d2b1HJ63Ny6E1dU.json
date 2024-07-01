@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "_g8K2BEmkBxv1-H1i-_HT5Vw4RejgUsbrpZwMjU6aQcnthpsX47sVX3Q9ZsO_WlO-V_0cOYh88ccMIuytJfV2tYdzzl6-YSE_HgpGPfi0EhL5PwjFLtMtTP9OKoCOSK-EKblfvg0wngQm2dM-EQSsLcx1f8XGwl8pv4PhVLAbyDUrfBsyIcOdhRTaZB3OGOuZp8nMPAtWvIiANkwG1uI",
+    "securityId": "B7uYrU9nsf2EC-z18dmnd63SzlK9SQP-xBz_i4BtrB2buIQFrQjfvr8dAiFrQzgarPC5hoyuG5tXioAq_909XCjQquOv9Rf75rUlVxET3UGiX3HANh3aHfi7DztgDZAA2zuMgd55tHk~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,8 +46,8 @@
       "title": "行政专员",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f992eca704d1ac39jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9YnXR05N8st9BpG1HpzLU3PrmmKcBd5O2zDWghZQpW8iZcq_-lF3UeHrSwXhduzdEYTQ63n_0PrA4YUdjnhCMuVnoR9E-eI8jtwA~~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "国都互联",
       "bossSource": 0,
       "certificated": true,
@@ -75,7 +75,7 @@
         "交通补助",
         "节日福利"
       ],
-      "activeTime": 1719372675462,
+      "activeTime": 1719563686466,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "国都互联",
@@ -84,7 +84,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": true,
+      "canSendResume": false,
       "canSendPhone": false,
       "canSendWechat": false
     },

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "99y76tFKyituE-_17ZtKfTUyMRS5dHTzvTVQJQ0YrOaGT4KkMEx-8HmI4jXk6L_q4Yu2Zp7pCY2dAGV5caRZYKgLNqOqMgG1T_uKvm61Q1LQAnaG",
+    "securityId": "DBRX7E45lOdlY-b1Wtj_j3dgyaEBy5ksSEEG6CHnJCmU0iNX1_UnlD5uEsTtQtQKUVtRrFvwoCBH-mtx75rS1XUOlFPU6VflR_RxvgMil18AM4xi",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -50,11 +50,13 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210226/3d907015430fb1ba1a4fd20b2e2011463c58895395b1aed3b242da58e65_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "国投盈信",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "4c752be5bfe981d503xy0ti5",
@@ -79,7 +81,7 @@
         "项目奖金",
         "工龄工资"
       ],
-      "activeTime": 1718264205610,
+      "activeTime": 1718264206000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "国投盈信",

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "H5AvQhNgUfpsi-J1BsbSCMqwfi5BUN-NSxyXg5glO3eokyXFN-kPhXJ_4Q-q1AMtu3zBvpBoC023K_P1oAlubaP_ZjPv43wzDzndplRWVB__u1a-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ce9966fda7f91ba30XF_2N26FVI~",
+      "encryptUserId": "3bbb70d3124503790Hd73N29FVA~",
+      "invalidStatus": false,
+      "jobName": "java程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210700,
+      "locationName": "温州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "全日制专科及以上学历，2年以上实际项目开发经验，计算机相关专业\r\n熟悉Springboot、spring-data-jpa、mybatis框架\r\n熟练操作eclipse或IntelliJ IDEA+maven模式开发项目\r\n熟悉JWT、redis、Swagger2、nginx技术，能用postman进行接口测试\r\n熟悉mysql数据操作\r\n能独立进行前后端分离模式接口开发\r\n对项目部署有自己见解的优先录用（重点）\r\n具有较强的学习和独立分析能力、工作责任心强、有较好的沟通能力和团体合作能力",
+      "encryptAddressId": "8e421884884307f01XFz0tq7EVs~",
+      "address": "温州鹿城区LOFT8创意集成",
+      "longitude": 120.703957,
+      "latitude": 28.000733,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d9b88528a3ab6d3dc5d926030e7ae37e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df5fb49b6d47650c58324d3ea6d6ad95",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Mybatis",
+        "服务器配置",
+        "MySQL",
+        "Redis",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金先生",
+      "title": "人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创羿软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d462f6e024ca0ffa0nF52NS6GA~~",
+      "brandName": "创羿软件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717223260578,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创羿软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

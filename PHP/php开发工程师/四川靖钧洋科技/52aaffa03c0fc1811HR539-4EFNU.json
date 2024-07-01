@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uMqCBh8gbEMxm-g1gBxfUJxmjMk4jztlNCskvsMaBz-ytVWhZT2cWEuCY9oHsl9cCRtNPrDw4v4d0NZc6F_jC5-KeBwObyoWMtI_Jtyp2uXDq58sFxhqXb3gYwk5XgNxgv2HDJljEKzY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "52aaffa03c0fc1811HR539-4EFNU",
+      "encryptUserId": "4af91128d95e86571H1429u8FFU~",
+      "invalidStatus": false,
+      "jobName": "php开发工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "注：该岗位需要全栈开发。\n1、具有2年以上全栈开发工作经验，大专及以上学历，计算机、软件工程或其他相关专业；\n2、熟悉PHP语言，熟悉至少一种常用web框架，如laravel、hyperf、tp\n3、熟悉MySQL数据库设计、使用及优化；\n4、有丰富的接口开发以及接口安全经验，熟练使用git代码管理工具；\n5、熟悉Linux系统，了解Linux的常用命令和基本服务器运维；\n6、熟悉redis、rabbitmq、mongodb、NoSQL等技术,有高并发开发经验的优先；\n7、熟悉swoole,hyperf或其他多进程编程框架；\n8、有硬件对接经验，熟悉tcp、mqtt协议；\n9、熟悉vue2、vue3框架，熟悉uniapp框架，打包多平台上线，有实际操作经验\n10、有较强的分析问题和解决问题的能力，有较强的系统架构能力和独立完成工作的能力；\n注：本岗位大小休！",
+      "encryptAddressId": "a4f1cc63739d0d581nV72960GFZR",
+      "address": "成都武侯区环球中心N32125",
+      "longitude": 104.062284,
+      "latitude": 30.570979,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f96258d1021e5c949aa7729bbc6a8b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a88df0c3149b6f84eacecacace876d21",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Laravel/Yii/ThinkPHP",
+        "PHP",
+        "LNMP/LAMP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200508/dab5ad7c0df0f10cfc2ac57d3e27efddd4411ecbca57f66c47f2ed31e64_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "四川靖钧洋科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e485d233559c7d5e1X1-0ti1Els~",
+      "brandName": "四川靖钧洋科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230814/7bf6f160950405e9d339682edbfed571b459bdbe8539c9c8d4411ecbca57f66c47f2ed31e64a7281.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "公司成立于2021年\n办公地址在环球中心N3-2125\n主要经营新能源汽车充电场站",
+      "labels": [
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "节假日加班费",
+        "年终奖"
+      ],
+      "activeTime": 1719400306971,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川靖钧洋科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

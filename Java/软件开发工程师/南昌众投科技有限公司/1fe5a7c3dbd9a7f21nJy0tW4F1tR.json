@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IMlQ3wSpG1fRq-D1UxlrR1zfrqq6k9mSx2L25sfexIzEoSlSwVUp3xF1j5QswqOBE8c9CuoGdrhtLBJL0PQakLC7Pl2-Mv-cldM2KNGKIQXT-uFEY38EHfWRSp6jvwNOxKIWilFuqpf2rA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1fe5a7c3dbd9a7f21nJy0tW4F1tR",
+      "encryptUserId": "b9a2e08ea98acb3e0nZ93t-5FFNW",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240100,
+      "locationName": "南昌",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、JAVA技术知识扎实，熟悉IO，多线程，分布式、异步处理，集合类等基础框架和常用中间件产品，熟悉缓存，消息，搜索等机制；\n2、熟悉Spring、Spring Cloud、SpringBoot、Mybatis等常见框架；\n3、熟练使用独立的Maven命令操作，SVN命令和操作，精通Idea等开发工具；\n4、熟悉Redis/Git/mySql等；\n5、具有良好的编码习惯，工作认真负责，沟通协作能力和学习能力强；",
+      "encryptAddressId": "5d987813436735a93nZ429q8Eg~~",
+      "address": "南昌青山湖区海上汇商业广场23层",
+      "longitude": 115.952147,
+      "latitude": 28.689641,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d413d102038c8be522922f006bc9253",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d3aa4b8b5fb47a2156e9a03597b4df4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "MySQL",
+        "GIT",
+        "Maven",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南昌众投科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c27c0b6e58f7e5a81nx40t20FFQ~",
+      "brandName": "南昌众投科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717213217514,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南昌众投科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

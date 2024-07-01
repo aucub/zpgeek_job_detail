@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0pkKMoKCja2Rt-b1eP-h6kXLqdUb7NdAAEkb8Im_vYOr47lRH-DbnXtdAJZkx4OADXYbErqpKkshXUsVMUlUkG5p8DwHM8KR7mn82_IHqjdU-B1XdeJiw2qnvru_im6ZTP_8-SPstbk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3c1e92a3c45a0d391nx82tS0EFRY",
+      "encryptUserId": "8f4b8a5ce25a21871XR72N66Elc~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作地点：青岛市市北区\n工作时间：周一至周五8：30至17:30；周末双休（所有法定节假日正常休息）\n薪资构成：底薪+奖金\n福利待遇：五险、月度奖金、节日福利、年终奖。\n岗位职责：\n1、完成软件系统代码的实现，编写代码注释和开发文档；\n2、辅助进行系统的功能定义,程序设计；\n3、根据设计文档或需求说明完成代码编写，调试，测试和维护；\n4、分析并解决软件开发过程中的问题；\n5、实现数据可视化。\n任职资格：\n1、计算机或相关专业本科学历以上；熟练掌握C或C++、Python等语言：\n2、有windows软件开发工作经验优先考虑；\n3、丰富的编程、调试的知识、经验和技能，有良好的编程习惯；\n4、对数据结构和算法设计具有深刻的理解，有复杂系统的分析和设计经验，以及较强的逻辑分析能力；\n5、深入理解Linux系统开发环境，包括系统编程、网络编程、Shell命令和Shell编程等；\n6、熟悉多种数据库，如 MySQL, PostgreSQL, Redis等；\n7、富有团队精神,责任感和沟通能力。",
+      "encryptAddressId": "f5f52ac5b10dccee1XR709S4FFs~",
+      "address": "青岛市北区华·秀1902中心(纺织谷)D2-10",
+      "longitude": 120.377363,
+      "latitude": 36.144635,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b2cd7596af717ba50d5e417f60932af",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38d3309a182c9c7f04a3e5a03f19c5be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++服务端开发经验",
+        "Java",
+        "Shell",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "计算机相关专业",
+        "Windows",
+        "网络编程",
+        "大数据项目开发经验",
+        "数据结构",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240613/607f1f3d68754fd0576d0f505ab3cdab2d0a2a41f9c5e72eea3d24b2777b50766579695d605d758_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "海贝数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7293b6bd3afda4543nZy3dW7Fw~~",
+      "brandName": "海贝数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200817/54f6624d8bcf8278ec9ccc5483d2a560ea3d24b2777b50766579695d605d758d.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "公司主要从事数据研发，建模，相关产品和软件服务，行业处于爆发前期，需要勤劳肯干的核心员工和公司一起成长。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1717150037366,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海贝数据",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

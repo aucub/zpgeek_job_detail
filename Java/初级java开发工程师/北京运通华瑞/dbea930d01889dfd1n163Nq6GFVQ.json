@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Eu8HjGwdpJli3-W1XVj6bBaiOx0p74lROdOxgBbWWJDPZY-d0TMm5hwBl6dpfsY2acBjVGtqyAxgmoK11I8atpxDwhQkDyuT8GvJ6ONa37gkx5S47jzalYYhge2RTWQO0EvY2ZRl3G_2vA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dbea930d01889dfd1n163Nq6GFVQ",
+      "encryptUserId": "df00aadbab8341aa0nd63ti6GFBY",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.参与代码评审；系统和数据库设计工作及完善相关的文档； \n2.完成模块，接口和服务等开发编码工作； \n3.按项目要求保质保量交付任务；\n4.参与核心模块的设计与开发。\n\n任职资格：\n1、1年以上java相关工作经验；\n2、精通java,对spring、Spring MVC、Spring Boot、MyBatis了解其原理和实现机制，具有dubbo和springcloud等相关框架开发经验优先；'\n3、精通SQL，熟练使用MySQL、Oracle等数据库，并具有一定的SQL优化能力；熟悉Memcached、Redis、MongoDB等常用NoSQL解决方案、了解各自的优缺点以及使用场景者优先；\n4、熟悉Tomcat等应用服务器的部署和配置；\n5、熟悉Linux操作系统常用命令；\n6、有系统重构经验的优先，有互联网公司架构经验的优先，有分布式系统开发设计经验者优先；\n7、有强烈的上进心和求知欲，善于学习和运用新知识，沟通能力强，有强烈的责任心，具有良好的团队合作精神和敬业精神；",
+      "encryptAddressId": "3ad0d9fd8f23a2d11XZ609-1E1I~",
+      "address": "武汉洪山区武汉K11Select3101",
+      "longitude": 114.41289,
+      "latitude": 30.493297,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06563ee7c624bdf1d8a61475e2646439",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfb9bba41eded49e9f156296cd976ba0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "MVC开发",
+        "Spring",
+        "Dubbo",
+        "SpringCloud",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京运通华瑞",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5876fe113f0d78611nJ43tS_ElI~",
+      "brandName": "北京运通华瑞",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100017,
+      "industryName": "新零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717198539158,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京运通华瑞",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
