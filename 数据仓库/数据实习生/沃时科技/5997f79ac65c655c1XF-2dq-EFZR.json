@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cVnbKqCaJ9twx-z1zrf_AV64OZF80nNoQPlJy4qsRNp9oBpc7yscj3bPGxmQMziJO-j-OowcwIYTnjP5WMWNhuSnU_nKt7D6lnAn2n9Amm48heLr4Ob2AOj4L-zmI_0IfcSb_IITqsf5Ug~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5997f79ac65c655c1XF-2dq-EFZR",
+      "encryptUserId": "76680dad158418bc0nd73d66EFFY",
+      "invalidStatus": false,
+      "jobName": "数据实习生",
+      "position": 100507,
+      "positionName": "数据仓库",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n 1、负责数据库系统的架构设计、优化，对数据库整体架构提出建议；\n 2、负责制定数据库监控、备份和容灾策略；\n 3、负责数据库日常维护，包括安装部署、存储管理、性能监控等；\n 4、负责定期对数据库备份集在异机做恢复验证测试以确保历史备份集的可用性；\n 5、负责制定数据库技术方案，根据项目业务场景分库分表及项目相关数据迁移方案；\n 6、协助开发工程师对相关SQL语句进行优化，搜集典型性能SQL业务场及优化建议；\n 7、学习研究数据库相关前沿技术，并据项目情况运用于实践中；\n 8、制定数据库相关操作规范、流程、操作手册、维护技术文档。\n9、日常数据的获取更新、处理\n 任职资格\n 1、本科及以上学历, 有一定工作经验，擅长MySQL数据库；\n 2、熟悉MySQL、redis关系型数据库的安装、部署、调优、监控；\n 3、熟悉MySQL、redis数据库集群、主从复制、备份恢复、扩容、灾备解决方案；\n 4、了解mysql及redis数据库的安装、部署、调优、监控；\n 5、熟悉Linux操作系统、具备shell/Python等维护脚本编写能力；\n 6、熟悉数据库存储过程、函数和触发器等数据库开发；\n 7、具备良好的沟通能力和独立工作能力；\n 8、积极主动及良好的团队合作意识与责任心；\n 9、了解sql审核工具(arhery/inception/)优先；\n 10、有运维自动化开发经验优先。",
+      "encryptAddressId": "e5aeecc66a978c110X1z29m5GVI~",
+      "address": "苏州吴中区苏州创意产业园10栋601",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/beec46cd723639dbf891512660b83b0f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16edd934b3c57637f7d9dfc83c8e80c8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "沃时科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8d297ecf73de53ce1n1z2t27EFE~",
+      "brandName": "沃时科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230314/7bf6f160950405e92ddcfec2a978df787b12f46e014458d551b3e21eac87055805d79635f7939d2f.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "AI+医药研发，团队核心成员均为海外知名高校博士背景",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1717460640279,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沃时科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

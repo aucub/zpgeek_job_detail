@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B3RA8yhhLzkoo-91UjsTpJyC7bXb9YOBR2llyheW5Qa3-E7pWxdkyh3rwmuXq7IEwlzpKqkLSH3hxlR1WpKIZhhKmn6rkP1R8ytnGRlvbl44unI5_xRXBWaBvDHqlX5s_ylEI_tW2UK3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d9126189266f58e1XF80t-7FVdQ",
+      "encryptUserId": "fde18b0ada161eb40nFz2dS6GVNR",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（实习）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240100,
+      "locationName": "南昌",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "1. 参与项目产品的技术研发和设计。\n2. 按照规范及设计文档完成编码、自测工作，并对代码质量负责。\n3. 负责相关技术文档编写工作。\n4. 解决系统中的关键问题和技术难题。\n5. 能独立承担某项具体开发工作。\n6. 担任核心功能部分开发工作，参与需求讨论、设计工作。\n二、任职要求\n1. 计算机相关专业专科以上学历。\n2. 熟练Java面向对象编程，理解并熟练运用常用设计模式以及微服务、微框架。\n3. 熟悉SpringBoot、SpringCloud、mybatis-plus等主流框架，有相关开发经验。\n4. 熟悉数据库技术（MySQL/MSSQL），具有数据库优化及SQL优化能力。\n5.熟悉HTML、CSS、JQuery、vue 等前端技术\n6. 熟悉maven、Git等进行项目管理和部署。\n7. 能承受一定的工作压力，有责任心、上进心，具备良好的自学能力和独立解决问题能力。\n8.掌握主流web开发框架，能够独立搭建整体框架者优先，熟悉前端页面开发者优先。",
+      "encryptAddressId": "20cac2a0df2341c20HF-3925FlQ~",
+      "address": "南昌青山湖区濡溪大厦7009",
+      "longitude": 115.994994,
+      "latitude": 28.663873,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/448461796a815e7c6f99843ed08caddb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/596346d47c7b2b3ca5aca033bd4050ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "架构师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "诸女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240622/607f1f3d68754fd0c6c0ecb504a0ac48c08e3ad967edd779816856902a3b9c5f1324ece2c7d2246_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "优毅云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "47b462fe5bc3d1ba1HJ93NS7EQ~~",
+      "brandName": "优毅云",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220215/7b5b554d84f9729c1ac046c21f5a54b8381efe6798fbca2210a76e0a8e6b9535de09cb2a4fcc9a75.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "优毅云科技有限公司，是一个拥有丰富经验、专业技术、优秀团队的新型软件科技服务商，专注于网站建设、APP软件开发、微信公众号开发、微信小程序开发、B2C网站建设、独立网店建设、商城网站建设、行业网站建设、门户网站建设、品牌网站建设和后期软件维护等。公司从前期的市场调查、网站定位，到网站建设实施、网络推广宣传、网站运营，乃至后期的网络客户服务与客户关系管理。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "节假日加班费",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1717496355914,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "优毅云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

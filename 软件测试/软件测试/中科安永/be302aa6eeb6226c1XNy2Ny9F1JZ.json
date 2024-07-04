@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "YzH1OHTrvnZG8-g1W4OXmMUD1iUS8rdCa2q_83oFyBhmgo1djL4VnJXeIyntPQKbOVX2Xx41NrZxfnlsIB_DS8GWIaDLih6Nk8UeNoejbknAfMZPAmtTELG6Ihmvkjado23e4k2ekD0~",
+    "securityId": "-Z-xfbW9-b18i-k1Fo1Ilnvz4Y_BWEiaAYHLBSKO7SVXnFFkbE9T2JHwmXvFoLSB9W0T6jVA4XH7ldUK2GzUQzftGlVpEPHb5TAac3PcvX8F8WDcj-w8aIhIYHMHThn6U20Dv6v1Rg0~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "6-8K·13薪",
       "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、根据测试标准和规范进行软件测试，能够保质保量按时完成测试任务;\n2、依据测试任务，实施软件功能测试、性能测试、压力测试等；\n3、了解所负责的平台功能需求及项目计划，按照项目需求和计划，编写测试计划；\n4、根据项目需求编写测试用例(测试脚本/代码的编写)，执行测试用例并跟踪bug，编写测试报告及相关文档，完成这个测试流程的规划；\n5、负责或参与协调产品，开发，测试的有效沟通，驱动问题解决。\n6、收集日常遇到的或是通过检测出的错误，并进行归档整理，备查；\n7、在测试过程中，根据实际情况不断改进测试过程，提高测试水平。\n\n任职要求:\n1、全日制本科及以上学历，计算机、软件测试或相关专业，熟悉GB/T 25000.51标准（必须），有第三方软件测试机构工作经验优先考虑；\n2、两年以上软件测试工作经验，有软件测试团队管理经验优先考虑；\n3、熟悉软件测试的基本方法、流程和规范,有软件测试经验；\n4、熟练使用fiddler、charles、postman、Jmeter、loadrunner、Monkey等测试工具；\n5、掌握至少一门语言，java、python、shell等；\n6、会使用svn、git、禅道等管理工具；\n7、具备较强的逻辑分析及问题定位能力，学习能力强；\n8、有良好的团队合作意识，强烈的责仟心和较好的沟通表达能力；\n9、了解第三方软件检测机构软件测试流程优先考虑。",
+      "postDescription": "岗位职责:\n1、根据测试标准和规范进行软件测试，能够保质保量按时完成测试任务;\n2、依据测试任务，实施软件功能测试、性能测试、压力测试等；\n3、了解所负责的平台功能需求及项目计划，按照项目需求和计划，编写测试计划；\n4、根据项目需求编写测试用例(测试脚本/代码的编写)，执行测试用例并跟踪bug，编写测试报告及相关文档，完成这个测试流程的规划；\n5、负责或参与协调产品，开发，测试的有效沟通，驱动问题解决。\n6、收集日常遇到的或是通过检测出的错误，并进行归档整理，备查；\n7、在测试过程中，根据实际情况不断改进测试过程，提高测试水平。\n\n任职要求:\n1、全日制本科及以上学历，计算机、软件测试或相关专业；\n2、有开发经验或第三方软件测试机构工作经验优先考虑；\n3、熟悉软件测试的基本方法、流程和规范,有软件测试经验；\n4、至少熟悉一门开发语言，java、python、C等；\n5、熟练使用Jmeter、loadrunner、Monkey、fiddler、charles、postman等测试工具；\n6、会使用git、svn等管理工具；\n7、具备较强的逻辑分析及问题定位能力，学习能力强；\n8、有良好的团队合作意识，强烈的责仟心和较好的沟通表达能力。",
       "encryptAddressId": "668569e3f3b65aa31HJ92Ni9GVE~",
       "address": "郑州金水区河南新科技市场10号楼7层",
       "longitude": 113.726533,
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "LoadRunner",
-        "Fiddler",
-        "Postman",
-        "计算机相关专业"
+        "Java",
+        "Python",
+        "计算机相关专业",
+        "测试工作经验"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,7 +50,9 @@
       "bossOnline": false,
       "brandName": "中科安永",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "4d4c8e952b63b0e01HF-39i4FQ~~",
@@ -71,7 +73,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1718097908860,
+      "activeTime": 1719898800065,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中科安永",

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uV2DtYHyWUsxx-B1kL57V6cDhDbtoKjvXWvG_FxGyEs3lF7W-UZZMsfTBVI0mxwO2RT-owTSXvhq-gSMWlF_WZGYHvuSfJjDPd73FWDVACuFyA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a6e3c0a5e70de1d51HJy39S4E1o~",
+      "encryptUserId": "1ef484ec22b7590e03d909W-GFM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.大学本科以上学历\n2.思路清晰，善于思考总结，独立分析和解决问题\n3.做事主动，责任心强，具备良好的团队精神和抗压能力 \n4、扎实的 java 技术功底，良好的编码规范，对常用的数据结构、算法、设计模式有一定了解\n5、熟练掌握软件工程各个过程，熟悉软件技术文档编写\n有以下经验者优先，薪资可根据能力匹配\n1、熟练掌握 Spring MVC、mybatis、Spring Boot、Spring Cloud 等主流开源框架； \n2、熟悉 Oracle、MySQL 等主流关系型数据库，熟悉 SQL 优化的优先\n3、了解分布式系统的设计，掌握分布式开发常见知识（分布式事务、调度、幂等控制等）者优先\n4、熟悉 Redis、MongoDB等NOSQL数据库\n5、熟悉主流的消息队列产品，至少掌握一种消息队列的开发\n6、熟练掌握git、maven等版本控制、项目构建工具\n7、熟悉 docker、k8s 优先\n8、具有较好的沟通表达能力；\n9、具有互联网项目的工作经验优先考虑；",
+      "encryptAddressId": "b2a425cc7f3365a81XR639m6FA~~",
+      "address": "无锡梁溪区国联大厦(圆通路)国联大厦",
+      "longitude": 120.3022,
+      "latitude": 31.58068,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c68fbad97c66027e99e66a739917b4b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac8234ec1670994b98acbbc445aa913e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "武先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200512/cdb73759b163e65e79e5619d38c38a32917ae33090c3842801c7c593efc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1719196990000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

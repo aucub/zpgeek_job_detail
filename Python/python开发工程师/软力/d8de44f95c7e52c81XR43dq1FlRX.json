@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0HylAX6PF1j09-S1hYIS04o8l-lYGbcwMaJOh1wwxWzJ-yIkEgw1JQe8l55LXs7WM_uI_GZolqyEBEbY-KBHYEiXd0O-r1ct8ovofNFBJj1YIBYO_mE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d8de44f95c7e52c81XR43dq1FlRX",
+      "encryptUserId": "254113ed455552fa1HJ43929GVI~",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据开发计划，设计软件模块，完成软件模块源代码编写，实现开发需求规定的功能；\n2、负责产品的维护工作，处理项目功能开发流程中的常见问题；\n3、按要求完成其他相关工作。\n\n任职要求：\n1、能够熟练使用python进行快速开发，至少使用过一个python的web框架（例如django、tornado）；\n2、熟悉mysql的用法，了解redis缓存的使用；\n3、掌握pycharm、svn等工具的使用，了解linux常用命令；\n4、熟悉项目的部署；\n5、较好的学习能力、抗压能力、沟通能力，能独立思考和解决问题；\n6、工作积极主动、认真负责。",
+      "encryptAddressId": "8ae95ecb9d05177603N_0ti4GVE~",
+      "address": "郑州中原区大学科技园13号楼22楼",
+      "longitude": 113.599925,
+      "latitude": 34.793188,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38b9797bbb7e6345778fc9fc5a3fd775",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a77f916a239ee19bdd258d6fcdbb1bd1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Django",
+        "MySQL",
+        "Redis",
+        "后端",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "产品经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=5d22207e841c0439jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN9YnHh05Np5vYxpS1O0mb01Z-r3KZZX5ry6DGsrZlYBoiEL9vmlRSEcQr_rD0QwwdlOTQ7gy6sKq14fBdixhiQtBHNHp3LZaJWpns8jFu1bjLRR70-OmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "软力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dc980ad6bc3c17271XR62d69GFs~",
+      "brandName": "软力",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220110/7bf6f160950405e967733a9f932c6f3c21982b7c191ab5dc747f50c8ecb1117cb4e749bd42fce949.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "经过数年的团队成长、积累和沉淀，软力信息专注于呼叫中心系统、工单系统、CRM客户管理、AI机器人、信息管理系统、移动互联应用、B/S架构系统研发、云服务器部署、语音线路资源、短信资源运营及运维，为企业客户系统定制集成提供一站式服务!\n       我们始终坚持以客户需求为导向，为追求用户体验设计，提供有针对性的项目解决方案，软力人将不断地超越自我，挑战险峰",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719919990403,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "软力",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

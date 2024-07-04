@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UbAqdQvwnRxLk-n1QYrXKWnX1NI3cgz6GgcVxorkLdU1GTVaXIRc2MeYo5fowaFaGQQhR-U04fbm81jjaN1N6zyKkGVV6IUjHRHw7Y-20Ttp0Pcym8HBGYJZAyCOjZLRcWNQz-ffvtM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8818b1ffb4493f361nB82Ny1EFtQ",
+      "encryptUserId": "9d1a498684ad4ba51HNz3Ni1E1Y~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101211100,
+      "locationName": "舟山",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、负责业务相关模块的设计、开发；\n2、参与编写产品概要设计、详细设计、接口设计；\n3、充分理解业务需求、设计，完成相关功能的开发\n4、解决开发过程中的技术问题。\n\n任职要求\n1、计算机相关专业本科或以上学历，1年以上开发经验\n2、深入理解OO编程思想，熟悉设计模式\n3、熟练掌握Spring、SpringMVC、MyBatis框架\n4、熟练掌握Mysql数据库，能进行Sql调优。\n5、熟练使用IDE开发，熟练使用Git、Maven等\n6、具备独立解决问题及思考能力，要求理解能力强",
+      "encryptAddressId": "e4d5ed146715084a0nZ80t24FlU~",
+      "address": "舟山定海区国脉大厦B座151501",
+      "longitude": 122.218428,
+      "latitude": 29.978111,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32c5d74ed5d4eb856912f74bc5360ca6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3cfe288f9f822b0aafaec04b9fd8e31",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "数据结构",
+        "MySQL",
+        "WEB开发",
+        "Linux",
+        "软件工程师",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/6aa337491a44bb183d25281abef8d591de507cd87e81558a07a5431e2f0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "国脉",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9f241dcae1e78f5e33182dm6FQ~~",
+      "brandName": "国脉",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "数字政府领域的咨询+软件+数据+运营的创新型企业",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1718434494000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国脉",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

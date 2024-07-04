@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "e0b9oNLf5gVNC-51_2glBfzq231uuh40Ivii_Hy7NRs8XAM1o4N7cOFEV1mSLdJZ-CLCGzyMUKj8NEmrkRIo_c7eV-D6GgtCMGMMIqzce1PmBI7XAUwb2gJdmxnatmmhSQ542n-pAr7tqIxSl1HdHZvOMcurjmF7j1aEp9xt8S1BCD2V",
+    "securityId": "zcnpKz9SOWNyU-61k1t5yNbykLXpTWiKp0nWQiEctX1ppucmkRlvKKr0FMDUqGyfALGc7Mgfpb_PJjQJ7-u8C2UUjGEX5GAMJsUJr7IyyRCENkoUZlNUAy0vrA30HWUM9CEJR4fgiSTh",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -38,7 +38,7 @@
         "Java"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "苏女士",
@@ -46,10 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240506/607f1f3d68754fd003b92f0958189ce18a6b454b5eb117e86e24682cd38a712c8b859910c01a877_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "得实",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "c9a8fbae67b7802133d43ti5Fg~~",
@@ -72,7 +74,7 @@
         "餐补",
         "包吃"
       ],
-      "activeTime": 1718099263060,
+      "activeTime": 1720081540391,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "得实",

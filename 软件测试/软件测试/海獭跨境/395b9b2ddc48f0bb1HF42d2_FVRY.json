@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "d0KOuKeYTSgBs-q1XUJg6uFu1wnzfv-ejGQdSRQ7S_2M9i4q2_2DUDAcdkmX3FHdflX6n269WjkJEK6ijMXEv13b37b5x9ZvHTAJ4wUOBNAwKHtdJzL61V-sllirPr2fjIhP9b0HPATl3lPx07EkpZ9WH70~",
+    "securityId": "MDiPs5-oHzq9a-c166OYmAH5NWAlrprO2nn62dYBYdEeQRlnj3kxkyYbpnUdS3cSP7QjrVNi2l1DN66lPnmRL4_Ts1GXhaoouidDZFKLJYcoVMAhattvnwluUl2QeWXjc6jiUc0gWli0FLeM8e3WduXqoL7X6wVzwMtLasKMKvai9yCtjA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -51,7 +51,9 @@
       "bossOnline": false,
       "brandName": "海獭跨境",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "614f3bd42d549e871HZ529m9FVs~",
@@ -65,7 +67,7 @@
       "industryName": "电子商务",
       "introduce": "",
       "labels": [],
-      "activeTime": 1718194758066,
+      "activeTime": 1719900010065,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "海獭跨境",
@@ -74,7 +76,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": true,
+      "canSendResume": false,
       "canSendPhone": false,
       "canSendWechat": false
     },

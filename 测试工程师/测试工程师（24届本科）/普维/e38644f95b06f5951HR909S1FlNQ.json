@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "zrLSU36PU94Kv-h1v-EOPRzn7nM373Uy9WiNshQp-zLXENHyOCIJWMG5OBOjkgJhjfPuEmWRyPAu6PnH8Zwx3sZFMgplfxM5FvphK341F9uDhOhnbOQ~",
+    "securityId": "plnFwFgZaILvu-X1Kai-Uj2CWWQKZlfmyw2PU1dt0zKB1FpLY7AeOUtle45Kj3tdyvHaGEv2AFw3VmCeR0ZsdDO-wBev6d3lPem1tNKiDO2ejmQxa4YjfkKcjvdK2w1QEwt1nGw2SzlzjObsdoH7DNlpHYZVOeatTvMAmtGB-K1P3KuY",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,10 +49,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "普维",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "46f209dc800a2d361nZy2t-_ElI~",
@@ -76,7 +78,7 @@
         "免费咖啡",
         "加班补助"
       ],
-      "activeTime": 1718272659573,
+      "activeTime": 1719987321515,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "普维",

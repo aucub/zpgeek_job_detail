@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "G9KV4nJhBp1Ul-o1tuPxRTF1rmwVRB8qsuBnNVS6srOGMJf80EGJEInuweBB5NmFUFSjxjSen5IdjO0lhwd9ILqJzt8CysZWaOveB-I31ngwohwq8QM9NWcN3QLlzcW6Gu2nKwLhAq8F",
+    "securityId": "kQHjxpRGbYlWM--11BLrSiaGoWgi2YB4rZMwDr5e9De64uoLOqWOH9pWWGHF7XtUxQkiFUsj1VR2PCp0H3PWcA44m8xnp0y2W2wqfCzZ5kgNQVkIT325hVjWOUccja0wOswEeXSPz6XZx0Huk7csQ1-v-_6sh9Qq-q0Xj19gPOL0pVV4QtmvH2DLqedsjg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,8 +44,8 @@
       "title": "行政",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "国诚检测",
       "bossSource": 0,
       "certificated": true,
@@ -71,7 +71,7 @@
         "员工旅游",
         "节日福利"
       ],
-      "activeTime": 1719409644170,
+      "activeTime": 1720076124272,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "国诚检测",
@@ -80,7 +80,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": false,
+      "canSendResume": true,
       "canSendPhone": false,
       "canSendWechat": false
     },

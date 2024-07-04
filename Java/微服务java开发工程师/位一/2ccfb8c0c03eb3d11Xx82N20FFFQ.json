@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uhzPKSCH_i2bM-Y1ZkTYCNmm433QgJU_8CO9saeePLzom-OxOofFiOkFUoN38HFDAN96s5CUBBgn9LJ13qjmQ5vI0Td8WQ3FYq7v7A099EJUHYX7Vn3F",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2ccfb8c0c03eb3d11Xx82N20FFFQ",
+      "encryptUserId": "a41c2893e65b2d8e0nZ43Nm_GVtY",
+      "invalidStatus": false,
+      "jobName": "微服务java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉Java语言，熟练运用面向对象思想进行程序开发，有良好的编程习惯\n2、熟练掌握关系型数据库MySQL的实际应用，能熟练使用MyBatis，MybatisPlus操作数据库 掌握Spring，Spring Boot等主流框架，使用过SpringCloud微服务框架\n3、掌握Redis缓存数据库、RabbitMQ消息队列等中间件技术\n4、熟练使用项目构建工具maven和代码管理工具Git\n5.,2年以上java开发工作经验\n6. 接受出差安排",
+      "encryptAddressId": "f574e377e4beb6e63nV_09u1FVo~",
+      "address": "上海浦东新区陆家嘴基金大厦16F",
+      "longitude": 121.532525,
+      "latitude": 31.224013,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230510/48ba41acc9cef1bf956f3f662724cec12caba6e562a8b8136bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230510/48ba41acc9cef1bf2e051526b44d35ae4f71b317e9bbaf596bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "聂先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "位一",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7788695aa2d9a4761nBy3Nm8EVI~",
+      "brandName": "位一",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "2008年成立，主做金融行业软件系统开发，有自己的核心产品，涵盖融资租赁，汽车金融，供应链保理，资金业务，监管报送等方面软件产品，公司企业文化是创建程序员之家。",
+      "labels": [
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1719474350572,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "位一",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

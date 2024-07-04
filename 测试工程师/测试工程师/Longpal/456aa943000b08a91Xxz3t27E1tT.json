@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "S57mZ66V0mcuT-E1ZyIHuQivtB63peioLRek7gl310kOvN0gT8CQClZTcKtwPEdq2H-f1MyUFq7-a1qGgL_mpXUxYOtrfbOOJK_T5E0xdv-omunjgw~~",
+    "securityId": "PjrqlcSgLHOvt-I1p68ag0tW-zvcneyzLESEnkDNmtVbmLdDKixy8ZUKlNWf9V0e8jQpKPtzxSzzbIzDVqgh779XjYpPZpQI4LAcEmanE2jgDdcRnQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -51,11 +51,13 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221009/607f1f3d68754fd0c451412fc70c42aced9a7c706a7186f6148a7b8642a20819be3b4b74eb4_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "Longpal",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "c1815bfb213fe99603d92d-_",
@@ -69,7 +71,7 @@
       "industryName": "通信/网络设备",
       "introduce": "",
       "labels": [],
-      "activeTime": 1717681143166,
+      "activeTime": 1717681143000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "Longpal",

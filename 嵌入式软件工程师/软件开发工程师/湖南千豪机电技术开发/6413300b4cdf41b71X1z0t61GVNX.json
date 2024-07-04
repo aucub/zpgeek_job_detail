@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "c9884cbCwAupU-X1yONKcNlluXXLvNmhaIok8DlUimyxEy88llypszaa-9NgI2ibWWTi4jJ-IwfPvaVT0m3VQ5Y9QlOadtwyqFhZ5yV0WXUj8x4GQ6Zkh02RMTx985LPzq3wxnhaVp7cSEgZy9HoSKk~",
+    "securityId": "cifDxza8sMCqc-Y1rTrXSnQuAjuBgXZM2KFFulq7rBveuz0OGRJIPBLfaPngmw5CtYbdNPAS4xkBo7ClonxREcIfGSMiV5MeqeM54UDzu8Kiiw1fUUE~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,11 +45,13 @@
       "title": "招聘专员",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200228/4529ac3006a748b69b308f4dfbc723f769c095e263bbf87e916409c25fa_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "湖南千豪机电技术开发",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "9a84fd5aa9c5da241XVy29y0EVc~",
@@ -69,7 +71,7 @@
         "绩效奖金",
         "年终奖"
       ],
-      "activeTime": 1718240028164,
+      "activeTime": 1719912618320,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "湖南千豪机电技术开发",

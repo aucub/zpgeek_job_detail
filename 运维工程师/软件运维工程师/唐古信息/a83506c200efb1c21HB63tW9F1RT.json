@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "KLKCglwLFD8pb-p1peFqDU4plo-5bJOX6eAu7GEOU_w1FBQVBwTEG24tDobvnnsDz1U4tbkMzHXSEnHx24oqoNUb4LFYSiQ0IY4Bdf5PKG21sUgpug~~",
+    "securityId": "nluEF977nweVE-41lvbBs0MSKmDVyBJwFLSXVkr8AA32UqwGPdRsHtj3QUBMVgeomDzKVREwPQ5S7zIY2mTiN-3uxVed1OCrGM2Lzq_aC7aVA0_xxg1O_wxahCCl9-urveOgATkI7QvPfOZB43zQ6g~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,10 +47,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200409/521f5d84d62ea3d85fe8b4759f8c2dbd5d251e853b1fcf071e7021cf1dc_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "唐古信息",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "c32487e16d61b9ae0Xd639q4Fw~~",
@@ -78,7 +80,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1718099924171,
+      "activeTime": 1720071236762,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "唐古信息",

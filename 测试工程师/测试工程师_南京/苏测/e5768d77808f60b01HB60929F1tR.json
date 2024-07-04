@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Je2MnJDZGVduj-H13qOi9YDwG3hEkeJH1o9bwcoEFj2k45xqbkGg9miz1XlEEcVjunA4ZdA9RCJN-K4oMg_0fWsRugw10aAREWufoGOt1Czr35utcKuU1L5E9XiFGi1fgQp5NvWSUgzWmw~~",
+    "securityId": "9cr4U7wHFV-2s-u14HEPdlx9N6aEwlLKyqWce45NfRz7gpU20uxo2M4o84pstb22D93--8-LQiCcf2weR-SwM8sLuXEsNUmpFsHiPKqz9s9zkPDL7mDWstS6Zy1cbmCU77NuSKSlzuBOrRSQlkW8KIcG",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,7 +21,7 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "4-8K",
+      "salaryDesc": "5-10K",
       "payTypeDesc": null,
       "postDescription": "任职要求\n1.计算机相关本科及以上学历，有专项测试能力或经验的可接受大专学历；\n2.良好的沟通能力，能接受并适应不定期出差及驻客户项目现场实施；\n3.熟悉测试基础概念、基本流程及相关标准；\n4.具备测试需求分析、测试用例编写、执行测试、问题记录及结果总结的能力；\n\n具有性能测试或安全测试专项测试技术：\n5.了解或熟悉性能测试流程及方法，熟练使用loadrunner或jmeter，具备性能测试需求分析、性能测试方案/计划用例/场景编写、测试脚本编制、测试场景构建、测试结果及监控数据收集、测试问题分析并给出修改/优化建议的能力；\n6.了解或熟悉安全测试流程及方法，熟练使用常用web漏扫、渗透测试、代码审计工具，能够对系统进行安全功能测试、渗透测试、风险评估；\n\n7.具有质量管理、体系管理经验或软考中、高级证书，PMP、CISP等证书者优先。",
       "encryptAddressId": "0fbeba784d5fb5aa0HJ42ti5FVU~",
@@ -33,25 +33,29 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "渗透测试",
+        "功能测试",
         "性能测试",
+        "渗透测试",
         "Java",
-        "LoadRunner",
         "JMeter",
+        "LoadRunner",
         "计算机相关专业",
-        "测试工作经验",
-        "掌握软件测试理论和流程"
+        "软件开发经验",
+        "掌握软件测试理论和流程",
+        "Loadrunner",
+        "第三方测试",
+        "项目管理"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "王先生",
       "title": "招聘专员",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd06ba2c0e8577237dbfa06b04a439f77bce4ea96becdcb5b348b213b23c65c817_b.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "苏测",
       "bossSource": 0,
       "certificated": true,
@@ -78,7 +82,7 @@
         "交通补助",
         "节日福利"
       ],
-      "activeTime": 1719652482413,
+      "activeTime": 1719914258658,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "苏测",
