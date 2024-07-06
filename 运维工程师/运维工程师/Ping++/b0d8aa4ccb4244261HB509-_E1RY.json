@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rSuyJ1XrLkUdr-R19LWD3UjUFaKTPgYwYvOs-lyB2xj4fjMCg5JPVR6lk2yAl6asJVdl1wxie6yWN_KWg3il1jAkxxk0DX9pIeAn_Ii1yropZAu25g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b0d8aa4ccb4244261HB509-_E1RY",
+      "encryptUserId": "efac51763453d7e603F_2t69GVU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责应用系统日常运维、异常处理、性能优化，保证系统稳定运行。\n2. 负责业务平台的监控，故障响应，容器规划等运营，提升业务平台稳定性。\n3. 参与持续集成、持续部署、参与系统架构规划和实施。\n4. 提升运维效率，将日常运维自动化，开发或搭建自动化运维工具。\n5. 关注分析业务运行环境中的问题，挖掘技术风险，持续推动优化改善。\n\n任职要求：\n1. 计算机或相关专业大专及以上学历，3 年以上互联网行业相关经验。\n2. 熟悉 Linux 操作系统和常用开发调试工具，网络知识扎实，有平台化项目经验者优先。\n3. 熟练掌握 CI/CD 工具的使用，如 Jenkins、Gitlab 等，了解常见前后端研发和发布流程。\n4. 有自动化运维的能力，在日常工作中能够熟练使用 Shell 或者 Python 进行自动化运维。\n5. 熟悉 Ansible, saltstack 等运维相关工具，熟悉 prometheus, zabbix, grafana 等监控工具。\n6. 熟悉 ELK 等日志平台组件，熟悉监控告警相关原理，有实战经验者优先。\n7. 熟悉 Docker、k8s 有相关使用实战经验者优先。\n8. 具备公有云使用经验，阿里云，腾讯云实战经验者加分。",
+      "encryptAddressId": "09845c9ef357d7261nB_2Nq8GFNQ",
+      "address": "上海浦东新区张江微电子港6号楼101-16/19室",
+      "longitude": 121.581764,
+      "latitude": 31.199283,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfa2e49da202bff0f5f5d4b7be03ed02f56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfdcea83061c0bbbf3f163c3155148aa9d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "计算机相关专业",
+        "阿里云",
+        "腾讯云",
+        "自动化运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡女士",
+      "title": "人力资源专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "Ping++",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ec40c5edcda85ef1Hd_0ty1EQ~~",
+      "brandName": "Ping++",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190201/cd13fd971b457e263f2752015849e006cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "Ping++ 始于 2014 年，伴随着中国移动支付大爆炸而生，是上海简米网络科技有限公司旗下的聚合支付品牌。是国内领先的支付解决方案服务商，成立于 2014 年 。从支付接入、交易处理到业务运营，Ping++ 是每一家企业内部的虚拟支付团队，帮助企业快速高效的搭建自己的支付系统。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1717586767248,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Ping++",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

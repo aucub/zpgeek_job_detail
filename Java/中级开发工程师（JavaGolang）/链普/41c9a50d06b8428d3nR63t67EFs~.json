@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mmZPoMB1ScEIP-H1o351pGsL3Itvhf_tA098tHTQrFdoEecbsuxivOsra7opObG3fe0I2d3t2T3mgV19_tZlNew48aL3sgCmFY2imubDdBSozh6C",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "41c9a50d06b8428d3nR63t67EFs~",
+      "encryptUserId": "0405b1a8e6e08a570XJ_29q6E1M~",
+      "invalidStatus": false,
+      "jobName": "中级开发工程师（Java/Golang）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、需求分析、系统设计、代码编写及相关文档编写等开发工作；\n2、参与公司项目的开发、测试、优化等工作；\n3、独立完成个人承担模块或项目的开发和测试；\n4、全程把控软件测试任务的进度和质量，使其满足项目schedule的要求；\n5、按时整理发布测试报告，定期梳理测试管理工作存在的不足和改善方案；\n任职要求：\n1、有Java或Golan开发经验；\n2、熟练运用Golang/Java常用类库以及其他框架（Gin、SpringCloud、Springboot、Hibernate、Mybatis、Kafka消息队列、GraphQL等）；\n3、熟练使用关系型数据库，有NoSql数据库（redis/mongodb等）设计和应用经验；\n4、有系统需求分析、设计经验以及项目管理经验；\n5、有软件测试和调优经验；\n5、具备良好的沟通能力和学习能力，责任心强，有一定的抗压能力。\n额外加分项：\n1、深入理解分布式、多线程等高性能架构相关开发技术；\n2、有实现大流量、高并发的分布式系统经验；\n3、熟悉前端框架，如React/Vue/Flutter；\n3、具有成熟的日志系统设计方案及工作经验；\n4、有AWS Serverless，例如Lambda、DynamoDB等经验；\n5、熟练Linux，有成熟的自动化代码生成设计方案与工作经验；\n6、对区块链、数字货币、交易所、智能合约有了解。",
+      "encryptAddressId": "e4f9a81c758fe0aa1HZy2Ny5ElQ~",
+      "address": "南京鼓楼区倍格硅巷(南京中科紫台)北京西路2号",
+      "longitude": 118.7806,
+      "latitude": 32.059324,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe22af717ed2fd8ff3d0e6067cba2d07",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1687b851d2b38d0924b762afe98b896b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Golang"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "链普",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "006067db032268a20nZ42N--FQ~~",
+      "brandName": "链普",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100013,
+      "industryName": "社交网络",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717591436170,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "链普",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
