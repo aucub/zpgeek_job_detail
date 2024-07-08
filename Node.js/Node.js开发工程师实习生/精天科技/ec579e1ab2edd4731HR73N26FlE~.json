@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "77t6Ih5hXvYen-h1aiZv4rmY-s0S-jc843ou6CJQFHTuGmdxzgKfGkfEy8vuiR6Ih3qozwckrWbbosd8mLVecOvvlePqCz7f9IZ8UJax6AB7SuY-W1kupxH7qNNLfbnvlh58-R2gIQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec579e1ab2edd4731HR73N26FlE~",
+      "encryptUserId": "83c7c321e1afd0191HFz3NW0FFA~",
+      "invalidStatus": false,
+      "jobName": "Node.js开发工程师实习生",
+      "position": 100114,
+      "positionName": "Node.js",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "1.使用express,koa，egg等框架开发过后端接口\n2.熟悉mysql,mongodb\n3.熟悉sequelize，mongoose等orm框架\n4.掌握linux基本命令，了解nginx配置\n5.知道如何部署网站，部署nodejs项目",
+      "encryptAddressId": "3753f2e9832486233n1929i0FA~~",
+      "address": "广州黄埔区瑞粤汽车电子创新园广州市黄埔区科学城南翔支路1号A508",
+      "longitude": 113.450632,
+      "latitude": 23.155747,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14a7870946f529371d0319a981b16136",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bde8091275d63bdea5843a4037cfd1e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Javascript",
+        "后端开发",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "前端负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230511/607f1f3d68754fd0f64f496f88821ee7486492e3a5726f523a4bb77bc2c889dc415b725ab47_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "精天科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2645c0875a0bfcb03x_29m4FQ~~",
+      "brandName": "精天科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1717751894990,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "精天科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
