@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "raPfIpF0EIeR_-916t0AXZk3l1SGfTILzZfJHQg6NesKI4IvCtpCcY7UGwYMlP8ZsnXvJ7loxlekQ7ZyLsz2T-QpWpQZi1aHkP9NgYK1izf9z-GLftI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "537bc663e44ddfae1XB-2Ni1GFZW",
+      "encryptUserId": "a1d88c1ec812fa1f1n192NW5FFY~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "后端\n1、计算机相关专业，2-3年JAVA开发经验 \n2、Java语言基础扎实，对面向对象和J2EE有较清晰的认识，了解各种常用设计模式等 \n3、对缓存技术，如redis、memcache，有应用或研究 \n4、熟悉并能熟练使用主流Java Web框架，如Spring MVC、 Spring Boot，了解微服务架构，熟练使用maven构建工具 \n5、熟悉并能熟练使用主流数据库，如Oracle、Mysql等，能做SQL调优\n6、乐于沟通，有较强的主动性及团队合作精神，责任心强，开朗自信，能承担工作压力，思路清晰，学习能力强，能快速上手，热爱钻研技术\n7、有一定的文档撰写能力，能够输出各类设计文档，例如数据建模，状态图、流程图、时序图等，能独立承担项目开发工作",
+      "encryptAddressId": "79498ca382b7818b1nRz2Nm8EFVV",
+      "address": "南京江宁区名家科技大厦8栋",
+      "longitude": 118.818854,
+      "latitude": 31.947832,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf25d798934de90d3ba6f9f9ead92d71126bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfbf54eac9369206a24dcacf3fe66bb44e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Java",
+        "大数据经验",
+        "不接受居家办公",
+        "JVM",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220510/607f1f3d68754fd0830464e342269ade9ccc65776477160e3a6958817b586d7ea111d1ac999_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北软科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3137069e4761b9271XR839y5E1Y~",
+      "brandName": "北软科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720599263074,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北软科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

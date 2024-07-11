@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LcjhnvaLOnh1t-41b65SLxsCDo23kU0KXN8viso1M79fe-u2yRvf9U7LDHs2i-Ir_7DAdZ7guDfJNG_LFFic6fU-cM31kksL64m2Pcd1SJKCFvymQ6NU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f461cb4ff1ab45051XZ92Nm-EFRQ",
+      "encryptUserId": "fcee13c92fd64c621nV709y9FFtQ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 参与产品的后端需求分析，制定后端技术实现方案，确保后端技术方案的可行性；\n2. 配合架构师完成系统设计，理解架构文档，完成模块详细设计并形成设计文档；\n3. 开发后端接口，实现前后端的数据交互。遵循接口文档规范，确保接口的健壮性、安全性和易用性；\n4. 与产品经理、前端工程师等其他团队成员紧密合作，确保项目的顺利推进。\n\n任职资格：\n1.\t计算机相关专业本科及以上学历，2年以上Java 后端开发经验；\n2.\t熟悉Java编程语言，熟悉JVM原理及性能调优；\n3.\t熟练掌握Spring Boot、MyBatis等主流Java开发框架；\n4.\t熟悉MySQL、Redis等数据库技术，具备数据库设计、优化能力；\n5.\t了解HTTP等网络通信协议的基本原理；\n6.\t了解Linux系统和Docker操作，备基本的部署和运维能力；\n7.\t具备良好的代码习惯，注重代码质量和可维护性；\n8.\t具备责任心和团队合作精神，能够主动解决问题，推动项目进展。\n\n【福利待遇】五险一金+晋升机会+年度旅游+员工体检+绩效奖金；\n【津贴补助】司龄津贴+职称津贴+差旅补贴+物价补贴+高温补贴；\n【节假安排】周末双休+国家法定节假日+带薪年假；\n【企业培训】员工入职培训+岗位培训+晋升培训；\n【公司活动】文体活动+聚餐活动+旅游活动。",
+      "encryptAddressId": "d06d09a984fd19da33d62tS4FFE~",
+      "address": "南京鼓楼区喜年花生唐9楼",
+      "longitude": 118.779473,
+      "latitude": 32.097745,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fe0f5b8f2251465a61043b58ee2154f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4efd9134f030381279e88fc616baa288",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Hibernate",
+        "Oracle",
+        "Python",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曹女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "莘纳吉科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "839d4124b2f596961XJ90t24EFQ~",
+      "brandName": "莘纳吉科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230419/7bf6f160950405e9bf3a87dd083d43b692f2f12201de83e0f836f1dc22efbd426d66f4521f76fc9a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720605382156,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "莘纳吉科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
