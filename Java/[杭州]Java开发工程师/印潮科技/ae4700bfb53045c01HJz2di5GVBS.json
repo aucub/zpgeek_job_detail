@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Tp67TIDDgPZ66-g1T7P7bfrqv_Yo7SdGWoWcTqb3twHh1-8pOC2C7BMcdKBrxX87GqtFJTFALEXrwLmwe-Kpo-1AhgQPexYroFpYXyk9Ki-85_JsFWbUSgYSj9acLHM0imlx4JgkjJPXEA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ae4700bfb53045c01HJz2di5GVBS",
+      "encryptUserId": "65bff1c51be3ecbf0XB-3dq7E1NX",
+      "invalidStatus": false,
+      "jobName": "[杭州*]Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "- 本科及以上学历，计算机相关专业优先考虑\n- 2-3年Java开发工作经验\n- 掌握面向对象编程和设计模式，熟悉Java基础知识\n- 熟悉Spring、Spring MVC、MyBatis等常用开发框架\n- 熟悉分布式微服务架构的设计和实现，如Spring Cloud等\n- 熟悉常用的NoSQL数据库，如Redis等\n- 熟悉关系型数据库MySQL，熟悉索引优化、分库分表、SQL调优等大数据量的优化处理\n- 了解Linux操作系统，能使用常用的命令排查问题\n- 熟悉常用的中间件，如消息队列（如RabbitMQ等）、缓存（如Redis等）\n- 熟悉常用的版本控制工具，如Git、SVN等\n- 具备良好的问题解决能力和逻辑思维能力\n- 具备良好的团队合作和沟通能力\n- 工作积极主动，能够按时高质量完成任务\n- 具备良好的文档编写能力\n- 具备良好的学习能力，能够适应快速变化的技术环境\n\n职位描述：\n- 负责高质量的Java后端开发任务，包括需求分析、单点需求设计文档编写、编码、测试等工作\n- 持续改进并优化现有系统性能，包括MySQL的大数据量优化处理\n- 协助解决项目中的技术问题和风险\n- 参与团队技术培训和分享",
+      "encryptAddressId": "40b7097f874fcd731nR439S4EVRZwoq2WfiX",
+      "address": "杭州浙江大华技术股份有限公司C1",
+      "longitude": 120.185358,
+      "latitude": 30.18922,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230427/48ba41acc9cef1bfbcc7c0e91286560b7a050c37f22386f36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfc5054099698bd16759db46f0069abd8a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "印潮科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f8d5043374e182141XRy39q1F1o~",
+      "brandName": "印潮科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "夜班补助",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1720875318876,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "印潮科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

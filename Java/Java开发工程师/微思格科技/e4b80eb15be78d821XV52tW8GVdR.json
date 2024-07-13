@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U6kHPfcOohjk--f1SarqW0_H8cAVwxT_QlS_JLe3qxI3s_3HWiU9xr_UWv6rDIfvGVIwqc2psWYN6t7X5WLqeRH0EMBvJvEcWvU2sKcUMfmM0wCUXA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e4b80eb15be78d821XV52tW8GVdR",
+      "encryptUserId": "ccfb88d46bdfc72903N73d-0FlM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n岗位职责：\n1.物联网平台、行业业务平台相关产品的开发，包括应用后端和API接口等；\n2.平台需求分析、模块设计、开发和部署；\n3.历史项目的维护。\n岗位要求：\n 1.扎实的Java基础，熟悉IO、多线程、集合等基础类库；\n 2.熟悉SpringBoot、MyBatis等Java开发框架；\n 3.熟悉MySQL、Redis等常见数据库；\n 4.积极乐观，责任心强，工作认真细致，有良好的团队沟通和协作能力。\n薪酬福利：\n1.周末双休，国家规定节假日等按国家规定放假；\n2.入职即按规定缴纳五险一金；\n3.公司组织定期体检；\n4.公司不定期组织员工旅游；\n5.公司每月开展生日会、分享会，生日员工赠送购物卡；\n6.公司会定期安排下午茶点；\n7.公司加班有加班补助和每日餐补；\n8.公司具有完善的制度管理体系及人才培养体系，依照能力定岗定薪。",
+      "encryptAddressId": "a200a7ff4bd82f4303R62Nq7GVI~",
+      "address": "成都武侯区天府软件园C12座5楼",
+      "longitude": 104.072941,
+      "latitude": 30.540164,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b56153467d2c1491aae4a59ee6c4bcc4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad8417ca7e0947bb48846903e82760f0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "中级软件工程师",
+        "WEB开发",
+        "后端开发",
+        "SpringBoot",
+        "SSM",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181009/829cd02e1cfd224cdf1d1f73809472020c083f898266f4fd73ba6bfda92_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "微思格科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "82c83e905af67a9c1Xdy2tW1EQ~~",
+      "brandName": "微思格科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180925/087215ad739037b75b583820b92fa94ecfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都微思格科技有限公司是国家高新技术企业，8年专注于物联网和车联网领域，以高科技研发为主，擅长嵌入式开发、互联网平台开发，产品线覆盖智能农业、边缘网关、车载终端、媒体播控、3G/4G无线路由、云端运营平台，通过智能化手段，为国内和海外政企运营商客户，提供包括交通、安防、金融、农业、能源在内的前沿信息化解决方案，并荣获多项知识产权，经济效益丰厚。 公司目前在成都、深圳、扬州设有2个研发基地和3个合作生产基地。成都研发中心位于高新区天府软件园C区12栋5楼。公司坚持创新、奋斗、协作、正直的团队精神，期待志同道合的伙伴加入。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1720871347630,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微思格科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ouFngkaNbhDCk-J1-2X2oszBFKwbqtYFP4i2AgoyDDdBJwVsHw85Ehkg78EqXSgDtNGDYqBQ2fWsuZKcRjbBtapHf2AvbHI9sU8mdEJRmS7V4cyVT0Tt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a71b837490eae4e1HF-0tS-FFFZ",
+      "encryptUserId": "81c3a43a2dddc92b1nR80t21FltQ",
+      "invalidStatus": false,
+      "jobName": "中级数据工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1.大数据技术栈。熟悉Hadoop、Spark、Kafka、HBase等大数据技术栈。\n2.理解数据结构和掌握算法。\n3.了解关系型和非关系型数据库，如HDFS、NoSQL数据库（如MongoDB、Cassandra），以及熟悉SQL等。\n4.掌握数据清洗和预处理的技巧，如特征选择、数据转换和归一化；\n5.理解分布式系统的原理和机制，以及熟悉集群管理工具（如YARN、Mesos）；\n6.熟悉数据分析方法和工具，如统计分析、数据可视化，有助于从数据中发现有价值的信息。\n7.机器学习。了解机器学习算法和工具，如Scikit-learn、TensorFlow，可以应用机器学习技术解决实际问题。\n8.严谨负责的态度、强烈的好奇心、良好的团队合作和沟通能力，以及项目管理和方案设计能力。",
+      "encryptAddressId": "497f07db7513839d33Vz39-8E1tTw4y3VPo~",
+      "address": "武汉武昌区泰华大厦(白鹭街)1楼",
+      "longitude": 114.345054,
+      "latitude": 30.552577,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/886c9bfba793eee71c55c6594bb1d660",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63927a9d28f5dfd96952429a05d5d622",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Kafka",
+        "Spark",
+        "大数据开发经验",
+        "hadoop",
+        "HDFS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "湖北瀚蓝信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "265c818c6f9e896c1Hdz2Ni5F1c~",
+      "brandName": "湖北瀚蓝信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720781443877,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖北瀚蓝信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ioyMkgrcgBuby-G18Dq55JZXfGFcTpU4Qc3klKiYw-CqLsFYK3m9WtjqBbf023FR5cUhimnU7GddBSoHezib6tqlRcy3b5VdnYJIenYcUNtkcdcI74cV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a77ae289ae9e0bff1HV43t25FltY",
+      "encryptUserId": "f5f8f460c05247420XZ63tu1EFVR",
+      "invalidStatus": false,
+      "jobName": "前端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、按计划完成功能模块的数据库设计、代码编写和单元测试\n\n2、解决开发过程和系统运行过程中的问题，确保产品的质量\n\n3、维护项目的原有代码，保证系统的正常有效运行4、参与公司新项目研发\n\n5、及时参与产品设计的重构、优化，保证产品的可迭代 可维护性; (能接受短期出差)\n\n任职要求\n\n1.大专或大专以.上学历，扎实的Java基础;\n\n2.二年及以上JAVA工作经验，能独立完成项目及模块开发;\n\n3.熟练掌握Spring Boot、Spring MVC、Mybatis、\n\nMyBtisPlus、Shiro、 Dubbo、Git等等常用开源开发框架;\n\n4.熟练掌握Vue/ElementUi/L .ayUl/jquery/htmI/css/bootstrap等常用前端技术;\n\n5.熟练使用MySQL、PostGreSQL、 进行应用开发;\n\n6.熟练掌握zookeeper、redis、 mongodb等非结构化数据的应用;\n\n7.有较强的业务理解能力和用户体验意识优先考虑;8.具有良好的沟通能力、团队合作精神、能承担工作压力;",
+      "encryptAddressId": "202dbc7e572868a21nZ509m6E1dW",
+      "address": "深圳罗湖区南方证券大厦AB栋16层",
+      "longitude": 114.116773,
+      "latitude": 22.540435,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf2467ed2d5d92c8166be67580443523bf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf78bbd99e9fbcd4117a778385d00742fb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230926/607f1f3d68754fd0a8aedb88dea8c5ee5216adf2f4f7557e4e653f04138239fc03f61b0ffef5d4e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山创数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c2250d86895bb5f11HR_3ti4ElA~",
+      "brandName": "山创数据",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718273646210,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山创数据",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

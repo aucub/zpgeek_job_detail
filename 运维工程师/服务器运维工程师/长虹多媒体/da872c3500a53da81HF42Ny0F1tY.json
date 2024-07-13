@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6IzpybJNi1XXk-V1vjpsH7ERPekSNu5IWLEBaQz5qSGojnQpGS9hwN86zg48O12sqlC3Vwd5-EgRlv42n9UWYi5yxnPD3Rsmw6h-TrwN_5VfPQdvftMt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "da872c3500a53da81HF42Ny0F1tY",
+      "encryptUserId": "11b3c06004f0a9020nB_3t68EVJZ",
+      "invalidStatus": false,
+      "jobName": "服务器运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "1、独立负责中大型产品项目运维\n2、负责应用系统性能分析与优化，不断提升系统运行效率；负责监控平台的监控项和颗粒度优化、CI/CD的流程优化，不断提高研发运维生产效率\n3、负责运维相关技术攻坚，快速定位、解决各种故障、突发问题、疑难问题\n4、负责建立、优化运维流程和工程实施规范，参与公司整体运维体系的建设和自动化运维体系的建设\n5、负责搭建运维知识库，不断完善相关内容；负责团队赋能，提升团队技术能力\n任职要求\n1、本科两年及以上工作经验，熟悉Linux常用命令，防火墙安全策略设计，磁盘LVM及云盘在线扩容，性能调优等\n2、熟练掌握数据库MongoDB、Redis、MySQL的常用操作命令以及MongoDB主备搭建，Redis集群、MySQL主从等常见故障处理以及数据库调优等\n3、对日志采集系统Elasticsearch、Logstash、Filebeat等工具有较深刻的认识和配置，熟悉各种常用中间件的搭建使用及维护\n熟悉Python,Shell,Php,Java等编程语言的一种\n4、熟悉常见的容器技术、Zabbix或Prometheus监控系统、常见网络配置\n有较强的问题分析能力，能够快速定位和发现问题，较强的安全意识",
+      "encryptAddressId": "7752c399160a4bfc1nd82dy7ElJR",
+      "address": "成都武侯区长虹科技大厦(天府四街)29楼",
+      "longitude": 104.063418,
+      "latitude": 30.541223,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf82e9e8ebb75bc2cbd45b13ac2fde253e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa1562d9b348ec0cd8039aacacbd8db586bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "DBA",
+        "Python/Shell",
+        "Redis",
+        "Docker",
+        "计算机相关专业",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "长虹多媒体",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "67d28db7c3fd078f1nB-3968GVI~",
+      "brandName": "长虹多媒体",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/4295097ac0e591858d8f76555082848dcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101004,
+      "industryName": "家具/家电/家居",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720776533009,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长虹多媒体",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

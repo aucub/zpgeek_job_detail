@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LtTpodlZDhh2w-x1BEuUV-QYt5cVZqXmpDKVWktNS-OYVtbWIjRW5oAhFcFjhINsjaHI1QyMdMusvGr7qtjNJw6cbWR6_-gny9ELJWNqrCsk7b_plHs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1764cc2e880fc5041XN43di0EFtW",
+      "encryptUserId": "bb5b86d7bb88fcb20HZ82t6_F1A~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1） 根据项目的目标和计划，负责系统软件开发；\n\n2） 参与软件编码和单元测试、以及相关文档的编写；\n\n3） 参与并完成维护项目问题及故障解决，维护项目系统软件修改；\n\n4） 完成分配的其它任务。\n\n任职要求：\n\n1) 大专及以上学历，计算机相关专业；\n\n2) 1年以上 Java开发经验，具有扎实的JAVA基础知识和实践经验，有较强的动手能力；\n\n3) 掌握JSP、Spring Cloud、Spring MVC、Spring Boot、MyBatis、MyBatis-Plus、SQL等主流开发框架与技术；\n\n4) 掌握HTML、CSS、JavaScript、Jquery、Ajax等前端开发技术；\n\n5) 熟练Linux环境以及常用命令，有部署项目经验\n\n6) 熟悉项目构建相关技术，如：Maven等,熟悉Git/SVN等版本管理技术。\n\n7) 熟练使用数据库，至少熟悉一种数据库（MySQL、Oracle、SQL Server等），熟悉SQL调优；\n\n8) 熟练使用Redis缓存。\n\n9) 了解Weblogic、Websphere、Tomcat、Jboss等J2EE应用服务器中至少一个；\n\n10) 对编程有兴趣，有良好的学习能力及团队合作精神。\n\n11) 有电商、O2O、支付清结算、收费、银行交易、商城开发等系统开发经验者优先考虑；",
+      "encryptAddressId": "719443bfd08179510HJ839m8FlY~",
+      "address": "深圳福田区卓越城1期2栋806A",
+      "longitude": 114.060047,
+      "latitude": 22.571965,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c1b2242ee6928462309bc68a2eebc78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c57638686d136ad2d5992f89978397c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "后端开发",
+        "RabbitMQ",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/7b700dda858c623506eb1ba73aad5b1e77ecd1a8a643fa2a699972a600f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "峰涛科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "75cdb01c068813501XB43t2-F1I~",
+      "brandName": "峰涛科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720687233063,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "峰涛科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

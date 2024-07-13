@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qTYiuRBaZr7Js-51OmNVc8_88appBQnCwjhPSUj0Lh8NT2A4ug4WgzCuZyrnFSJMwNaR6qVjTXs_ZTKuabiyaHj4k9r6U-J8twgp8pGGySd7RIs18w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f9c8fd81865bfec31HZ_2dW-GVZX",
+      "encryptUserId": "10333a050f4603a90Hdy0ti9FVQ~",
+      "invalidStatus": false,
+      "jobName": "数据开发工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "**职位概述：**\n作为数据开发工程师，您将负责设计、构建和维护公司的数据处理系统。您的工作将直接影响到公司的数据分析能力和决策制定过程，为业务增长提供数据支持。\n\n**主要职责：**\n- 设计和实施复杂的数据处理管道，支持数据收集、清洗、转换和加载（ETL）过程。\n- 与业务分析师合作，理解数据需求，设计和实施数据模型和数据库方案。\n- 编写高效的数据库查询，优化现有查询，提高数据访问速度和准确性。\n- 维护和优化数据仓库性能，确保数据存储的可扩展性和安全性。\n- 利用现代云服务和大数据技术，如 clickhouse、Hadoop、Spark 等，开发和优化数据处理任务。\n- 定期与团队成员进行代码审查，确保代码质量和系统稳定性。\n- 对数据处理流程进行监控、调试和故障排除。\n- 保持对新兴技术的关注，评估其对现有系统的潜在影响，并提出改进建议。\n\n**职位要求：**\n- 计算机科学、信息技术或相关领域本科以上学历。。\n- 精通 SQL 和至少一种编程语言（如 Python、Java 或 Scala）。\n- 熟练掌握数据库技术，包括关系型Mysql和非关系型数据库clickhouse。\n- 有使用数据仓库技术（如Hive）的经验。\n- 熟悉 Linux/Unix 操作系统和 Shell 脚本编写。\n- 具备良好的分析解决问题能力，能够独立工作并主动寻求解决方案。\n- 强烈的学习意愿，能够快速掌握新技术。\n- 良好的团队合作精神和沟通能力。\n\n**加分项：**\n- 有使用数据集成工具（如 sqoop、Azkaban、DataStage）的经验。\n- 熟悉云计算平台和服务（阿里云）。\n- 对机器学习和数据科学有一定了解。",
+      "encryptAddressId": "31d4a21f5e2db02c1nB-2ty0F1tT",
+      "address": "深圳南山区卓越后海中心27楼",
+      "longitude": 113.942969,
+      "latitude": 22.518897,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48db3fb87575284d271175cab87fc01d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d997e7b7920603ef7d1f727ad57f93c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spark",
+        "Scala",
+        "SQL",
+        "大数据开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240430/607f1f3d68754fd0cda4306c5528216a0ce24fabf020606485b1d210cbd064acba31c937b2f94e7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "南京叶子科技有限...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5d41ba2ea0f0723703Vz3tq0Fw~~",
+      "brandName": "南京叶子科技有限...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190704/e9659af3ce99bcedb8b94a9d6b9c70d9d972ff9353b26ab0eace55fbbea402fc_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "叶子科技为全球合作伙伴提供互联网平台及信息技术支持，专注于企业管理系统开发，通过云原生、强中台等一线互联网公司的主流技术和思想，着力提供更优质的系统使用体验。通过先进的I技术，为品牌创新营销提供全渠道的数字化解决方案。\n2018年至今，叶子科技的业务已扩展至国内30多个省市，目前已设深圳、东莞、南京、南昌四个研发中心。\n叶子科技坚信:未来，公司与公司之间的竞争，是技术实力的竞争，而技术与服务正是我们的核心竞争力。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "交通补助",
+        "定期团建",
+        "提供食堂"
+      ],
+      "activeTime": 1718274368544,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京叶子科技有限...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

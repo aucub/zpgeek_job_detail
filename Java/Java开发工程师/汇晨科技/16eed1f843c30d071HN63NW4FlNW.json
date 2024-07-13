@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Eo_msETTiKzEc-L1oTC59r2YLo7dy7QbxVDbbdHYI6X-AlJl_UPQTX490o9nOUh-HahypLH0MIYzDG_BRWpCpBJrf41pZK3ALIfe6WBruMPDkF7VO76NofCRawTe0DPYxClJq7sh-i4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16eed1f843c30d071HN63NW4FlNW",
+      "encryptUserId": "ab580269d8a3834b0XJ83Ny7FlpY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责CDN业务支撑平台日常问题排查及处理；\n2、负责CDN业务支撑平台需求设计及开发；\n3、负责CDN业务支撑平台相关技术文档撰写；\n4、系统拆分设计，开发等。\n\n服务方案要求：\n(1)计算机或相关专业的学信网学历，2年以上Java开发经验；\n(2)熟悉主流开源框架，如Spring、Spring MVC、Spring Boot、Spring Cloud等；\n(3)熟悉Mysql等关系数据库，了解Mongodb、Redis、Memcache等nosql数据库；\n(4)熟悉分布式组件，如Dubbo、Zookeeper等优先；\n(5)熟悉linux常见操作，如nginx、tomcat等应用服务的部署者优先；\n(6)有良好、规范的编程习惯和专业的技术方案文档编写能力,有较强的沟通能力和团队合作精神，责任心强。",
+      "encryptAddressId": "ebbb13d2fe14e2961nR-0ti1F1NRxYy5Uv2d",
+      "address": "杭州余杭区中国移动(杭州研发中心)1号楼",
+      "longitude": 120.026251,
+      "latitude": 30.293152,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/705abbf2bc7846e6cdb8d22c6156dadb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d213593e148bd0e12a5c5e40ef2ea8f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "不接受居家办公",
+        "微服务经验",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "汇晨科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d6bc2b74c1031cf03dy0ti0",
+      "brandName": "汇晨科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230726/7bf6f160950405e92bd0472755593b8feaac0c7a50287ac30e56bf77d6e6c140699b7604b856dedf.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "随着以全球化和Internet为特征的新经济时代的到来，产品日新月异而生命周期加速缩短，企业面临着更加激烈的竞争。为了适应更加快速的技术革命，迎接知识经济的挑战和参与世界竞争，许多企业都积极进行组织结构与管理方式的变更和创新，努力朝着柔性化、扁平化、虚拟化的方式发展",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1720839196353,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇晨科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

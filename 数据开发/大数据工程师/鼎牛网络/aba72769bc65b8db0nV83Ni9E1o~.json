@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KoMrBWjHtTrmT-61kWDPCWED63e-QiVBdkjUr88mlaVWBxxs1OjS8WVC5wQuVo0ZfSK4h48CkEDpQfBKSb-A5HRgUE1T98dDMFU9IWlDwHkjTsJR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aba72769bc65b8db0nV83Ni9E1o~",
+      "encryptUserId": "b10479849de662c60HZ_2dy8EVM~",
+      "invalidStatus": false,
+      "jobName": "大数据工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "大数据工程师\n岗位职责：\n1.负责星环私有云平台、星环大数据平台运行保障及维护，给应用开发的厂家提供技术支持；\n2.负责对基于星环私有云平台、星环大数据平台进行巡检、问题排查，协助解决技术问题；\n3.完成领导安排的其他工作任务；\n\n岗位要求（一年及以上工作经验）： \n1.了解Hadoop生态环境，有以下一种或多种大数据技术使用经验者，如Flume、Kafka、HDFS、Hive、MR、ElasticSearch、HBase、Spark等；\n2.熟悉Linux操作系统，了解Linux Shell编程；\n3.熟悉MySQL或Oracle等一种或多种关系型数据库或mpp数据库，熟悉SQL语句的使用；\n4.具有良好的沟通能力及工作汇报能力，具有清晰的思维逻辑，具有严谨的工作态度；\n\n加分项：\n1. 熟悉SQL语句的调优，熟悉存储过程和函数开发者优先；\n2. 有编程经验者（Java或Python）优先；\n3. 具有Docker、k8s使用经验者优先；\n4. 熟悉Weblogic、Tomcat等Web中间件者优先；\n5. 具有JVM调优经验者优先；\n\n工作地址：广州石牌桥",
+      "encryptAddressId": "c77d9193b97c59e41nF-39S_EFQ~",
+      "address": "广州番禺区华南大厦(富华西路)工作地址石牌桥",
+      "longitude": 113.362407,
+      "latitude": 22.946549,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db81f54723a8dad98ec2a3fa94b2788a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0b049889324cf397c16a6a60394f0ce",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "ETL",
+        "数据库",
+        "hadoop"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190812/d4d26ac1cf24e5a703cd4ee7b2ce4868d7ee85f0d27716df64eb4c96af4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鼎牛网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01fa902dda134db01nN43ti-Fw~~",
+      "brandName": "鼎牛网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718271824941,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鼎牛网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

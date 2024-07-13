@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_dp4gSCk8Jjtt-n1rcyurULwLN_kZoWwO2YaB23zx_BZq2upIs-fLsPjW1ZE5wsqvTGEZNgUjRl4rZ7_E0k8MR8iP94nzlQRxtm7F4L1W3BN3R5fPjob",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eae4abd09bf2bd611nJy2dW_F1JS",
+      "encryptUserId": "20e93de1bafebeaf0nZ42t64FlFW",
+      "invalidStatus": false,
+      "jobName": "数据开发工程师",
+      "position": 100506,
+      "positionName": "ETL工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与项目的数据收集与数据治理工作，与相关团队协作推动数据项目的落地及优化\n2、参与数据仓库开发建设工作，包括数据治理和建模、ETL、元数据管理、数据资产管理、数据统计分析等\n3、负责项目现场与客户沟通，了解客户各种需求并实现。\n任职资格：\n1、计算机、软件工程相关专业，本科及以上学历，1年以上数据开发、分析相关工作经验； \n2、具备良好的沟通技巧，能够与非技术背景的客户交流并理解他们的需求;\n3、熟悉Hadoop生态系统，包括HDFS、MapReduce、flink、spark等组件\n4、熟悉orcle、SQL server、mysql 数据库、ETL等技术、能独立承担数据开发和分析工作，能熟练使用sql语句；\n5、熟悉使用一种或多种ETL工具(如Kettle)；\n6、具有完整的数据开发项目经验，包括多数据源接入、数据加工、调度控制、可视化分析优先；\n7、学习能力强，需要能快速适应现场环境和工具；\n8、有政府服务，智慧城市，智慧大脑行业开发经验优先",
+      "encryptAddressId": "4edac3095ebf259703Z53dW1E1M~",
+      "address": "成都武侯区成都高新区网络理政中心2层",
+      "longitude": 104.066699,
+      "latitude": 30.592801,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5793d4647523da97bd62d1ed75e978df",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c07c4503a6cc5bc678e617611c9256d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MySQL",
+        "Kettle",
+        "Spark",
+        "数据开发",
+        "数据治理",
+        "ETL",
+        "数据分析"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "成都阿特菲斯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "93cf42125bcdc5021nB42d21GFA~",
+      "brandName": "成都阿特菲斯",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "电脑补助",
+        "通讯补助"
+      ],
+      "activeTime": 1718282158627,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都阿特菲斯",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

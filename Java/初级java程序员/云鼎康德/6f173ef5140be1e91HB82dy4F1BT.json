@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XxFN3XeM5JT7I-N1jBWQl-vWeMcOgPGrx4c8z25oHArWA6ft34zKdcZhzQm1Dpsrj7ppqpTDUjkSW12U1q1qN41-KcPC5lU6op6dr3hTMj9b7kqFKQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6f173ef5140be1e91HB82dy4F1BT",
+      "encryptUserId": "e8faf9fadcb275620XJ73NW0EVs~",
+      "invalidStatus": false,
+      "jobName": "初级java程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求: \n\n初级java程序员任职要求5名\n1.本科以上学历，3年以上Java开发经验，代码规范；\n2.有netty开发经验，有任意RPC协议开发经验；\n3.有使用Spring Cloud/Spring Boot框架的项目开发经验；\n4.有Java多线程应用开发经验；\n5.能自己编写单元测试进行代码测试和调试；\n6.有分布式缓存和消息系统使用经验；\n7.有Redis、Sqlite、MQTT等开发经验，能编写复杂的sql查询语句；\n8.有以下经验优先：配置使用docker， 熟练使用linux操作系统；",
+      "encryptAddressId": "e927b1c7915490e21HR409i_GQ~~",
+      "address": "成都武侯区天府软件园G5楼15楼1501～1508",
+      "longitude": 104.056178,
+      "latitude": 30.537301,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d64e878a7b2f7ec4583f71e580895dd6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa884910c388646fcfb639f723b3f1cc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Redis",
+        "Spark",
+        "熟练使用linu优先",
+        "配置使用docker优先"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "龙女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "云鼎康德",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63ef169f2f3efb0203x42ty6GA~~",
+      "brandName": "云鼎康德",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1718281413407,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云鼎康德",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
