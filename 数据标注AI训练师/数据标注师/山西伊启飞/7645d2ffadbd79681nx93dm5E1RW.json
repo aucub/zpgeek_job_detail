@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "p8kEmTJ0FNPEH-s1vlYKJv4SeGxIcp1bSxGUIdril52HfFOIHIommLGRLK17Z2iNXu1Ah-e4_drWjV6KkJIgh0M4sUBb49FjhEedj0KXrUZ0dkMoEhUp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7645d2ffadbd79681nx93dm5E1RW",
+      "encryptUserId": "06c237a77bd7a08b0nR539i6EVNU",
+      "invalidStatus": false,
+      "jobName": "数据标注师",
+      "position": 130121,
+      "positionName": "数据标注/AI训练师",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "主要工作内容有：\n\n 数据分类：从给定的选项类别中选择数据对应的分类。如一张图可以有很多分类/标签：成人、女、黄种人、长发等，按照要求进行选择。\n\n 图片框选：按照要求使用规则选框，框选出相应的物体。如道路行人和车辆的框选。\n\n 区域标注：自动驾驶图片数据中的道路行驶区域识别，使用不规则多边形进行框选标注。\n\n 图片描点：对图片数据进行关键点的描点标注，例如人脸特征点描点等。",
+      "encryptAddressId": "6a27da7063aa9b6333R-0t26EVI~",
+      "address": "太原小店区山西智创城NO.14号楼2层",
+      "longitude": 112.596019,
+      "latitude": 37.733192,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1803ca7a7ed7cbcf8aa158ebce0e775",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dfe60cfae4e7273b3a1b0015b335bc01",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据标注",
+        "人工智能",
+        "百度众测",
+        "图片标注",
+        "点云标注"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201008/4732d9d2d16ec50ee499ec91a65ce9ea979cc485fd68075bae3ee4dfdf8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山西伊启飞",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cd16f0df7c92c9d91nZ42dm0EFQ~",
+      "brandName": "山西伊启飞",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "山西伊启飞科技有限责任公司成立于2020年7月，致力于提供高质量、 高效率的数据标注服务，是一家专业，专注从事人工智能的数据标 注公司，所涉及的项目有语音转写、语音剪切、人像采集、人脸识 别地图导航、产品测评、无人驾驶汽车等项目，公司前景开阔，发 展空间大。其服务的领域包括智能语音标注、图片标注、文本标注、 视频标注等。为大量有需求数据标注服务的公司提供数以万计的数 据标注加工处理，为全国人工智能企业提供最优质的数据服务",
+      "labels": [
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "住房补贴",
+        "五险"
+      ],
+      "activeTime": 1718079725923,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山西伊启飞",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

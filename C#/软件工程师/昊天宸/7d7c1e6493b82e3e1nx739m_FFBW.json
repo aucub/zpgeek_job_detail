@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X4DGFCjfYfll2--10GZOlILJnL10OcbG8UGARp2e5iQBxdOMaFAkjGssie9pMCj-FEEe07pIkKPoelU8pSX6WfCZGKGC622RwoLNauKfGRCYAijVAqI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d7c1e6493b82e3e1nx739m_FFBW",
+      "encryptUserId": "2c6546a30edfb6321nV53dy9ElZU",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101280300,
+      "locationName": "惠州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "软件工程师\n1、掌握C#(.NET)编程语言,熟练掌握.net中反射、委托、序列化等技术，对c++有一定的了解，并熟练掌握.net引用c++及其他第三方组件开发功能\n2、有wpf、winform界面编程经验;熟悉c#多线程编程\n3、熟悉设计模式中单例模式及反射工厂模式，并了解常用设计模式\n4、熟悉网络通讯、串口通讯等通讯技术及协议，了解软件与plc及机器人通讯技术\n5、了解.net访问MySQL及excel等数据持久化技术\n6、熟悉.net开发环境,会使用Visual Studio2022开发工具开发项目",
+      "encryptAddressId": "1dc41f7f23e4f6620Hd509q7GQ~~",
+      "address": "惠州惠城区碧桂园潼湖科技小镇b栋15楼",
+      "longitude": 114.181347,
+      "latitude": 22.995298,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/276761e055881ebeddaa6bb8a6dd28d2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a008f39aa01eaf68b8082f9ab82420d8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Winform",
+        "WPF"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "人事招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200616/99c6c0e90a38939fb2b1d67c493f8845249b372318d30ed32d66481d45e_b.jpg",
+      "large": null,
+      "activeTimeDesc": null,
+      "bossOnline": false,
+      "brandName": "昊天宸",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1ef48e9ea28652f703xy3d21Eg~~",
+      "brandName": "昊天宸",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190702/973d83ee46c49e1c07e129e2b16c0b7a39314e66095f8a69b9453a139de9f46d_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "深圳市昊天宸科技有限公司是一家集研发，专属定制及销售为一体的高新科技企业，致力于生产制程所需的工业机器人，AGV无人搬运，自动光学影像检测，自动化设备及系统集成等领域，拥有专业性很强的研发和制造优势，可为不同行业客户提供机械自动化技术解决方案。\n\n    公司拥有一支由多名资深软件工程师，资深自动化技术工程师，资深电气工程师组成的团队，并与多家国内著名的高校实验室达成战略合作关系，实行科研开发设计，生产销售一体化。公司是业内领先的生产线设备升级改进方案提供商，为众多企业提供一站式全方位服务，帮助企业改进生产线自动化程度，提高生产率，降低人力成本，提高产品质量，增强企业竞争优势。\n\n    公司秉着科技创新品质，服务铸就品牌的经营理念，开拓创新，求实发展，以诚信，品质和服务赢得客户的信赖，销售终端产品市场已遍布珠三角，长三角等电子工业较发达地区。公司自成立以来就非常重视自有品牌的建设，目前公司HT品牌系列产品包括：工业机器人，AGV无人搬运，自动光学影像检测机，自动化装配设备等。\n    公司地址：深圳市龙岗区平湖街道禾花社区亚钢1号1栋2202\n    惠州公司地址：广东省惠州惠城区碧桂园潼湖科技小镇创新B区B15栋\n公司网址：htttp://www.irp-tech.com",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "全勤奖",
+        "法定节假日三薪",
+        "年终奖"
+      ],
+      "activeTime": 1720490595090,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昊天宸",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

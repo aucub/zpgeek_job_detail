@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8SW2xCDjYXH1Z-61UhkJgADMAMZYzys_Oy0Ik1K0H1KVfhddDRdnQeTye-ymKJ-zsIgULLUM_3P621Lr0BVS7tNbMltKtcrDOPhAZfEmvxp7Wfs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7b7f48dc38c96e3833Z409m6FFI~",
+      "encryptUserId": "d39e2deaa08556ca0XB43N-6FFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210700,
+      "locationName": "温州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.具有扎实的JAVA基础技术能力，对相关技术有深刻的了解,如JUC并发包、集合类等\n2. 熟悉主流开源框架，如Spring、SpringBoot、Spring Cloud, MyBatis等;\n3. 熟练使用Mysql数据库,并懂得常见的SQL优化方式及慢查询排查方法；\n熟悉至少一个缓存中间件,如memcached、redis等;\n4. 熟悉大规模系统的分布式、集群、负载均衡、缓存、消息队列、网络存储、网络安全、数据库高可用设计\n5. 熟悉一些开源消息中间件,对Kafka,Redis,大数据hadoop以及高平发有一定应用经验,有过docker、k8s、docker compose等容器化相关技术使用经验",
+      "encryptAddressId": "3d453078d8fe1e1a1Xx90tS-EVo~",
+      "address": "温州龙湾区浙江天地人科技有限公司温州市龙湾区机场大道永安江路88号（造船厂站下）",
+      "longitude": 120.748835,
+      "latitude": 27.976178,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f89529ddf8d690029e82c9a17c449b01",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17f70d483cf12eaf68ee04ab42e40b8e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "浙江天地人科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9b6d528eb0f86ff61HB_3Nm6",
+      "brandName": "浙江天地人科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160815/93cdb809cd341b667788e37e5d2a80738c51fa6d5e0014e9d1c63971c112fe49.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "浙江天地人科技有限公司成立于2001年9月，总部位于杭州市滨江物联网小镇，公司生产基地位于温州。目前业务涵盖智慧城市公共安全领域，尤以物联网基础技术及应用领域的研发为主，是集解决方案设计、软件开发、智能终端研发生产、系统集成、投资与运营服务于一体的综合性服务运营的国家高新技术企业。\n   天地人科技打造公共安全社会化服务系统，推出全方位的物联网公共安全产品，为众多城市、社区与家庭提供智慧新体验，将产品与公共安全社会化服务紧密相关。我们将自身定位为基于物联网技术的公共安全综合服务商，推动建立全民参与、整个安全产业链的社会安全体系，为进一步完善立体化的治安防控体系作出贡献。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1718078744442,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江天地人科技",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

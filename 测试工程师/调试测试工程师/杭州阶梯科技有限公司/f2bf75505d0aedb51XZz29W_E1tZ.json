@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "MO9N6GvfRUebp-41X_cM8OWFcYUcOWxpCdja1eAQli7DUqySNI8wK_GbLayASXJWMZELNArqR0Mu6kifHfEuakpOvcXpkE4iKrSJiwBfQlvJ-gM4XPBK",
+    "securityId": "BLLK0qma7dVJi-X1bBRE2FgExOOBONSY_9xm1xLJIpw2rE4r85yD6AFk1J5EsU7xLhSCl9sZa9PhL8wPta2mRv9blCLSdONz0tuU1V8F4PFGVpP2TcSex_F5T3fmBmEnwOGbcTjqjBB-p-xZd1aOulAC",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,11 +45,13 @@
       "title": "经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210404/00a633c5ba34a2100d3f2b701c4b0fad0fd24915088c2d5a31c845f8650_b.jpg",
       "large": null,
-      "activeTimeDesc": "本月活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "杭州阶梯科技有限公司",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "c84fd1a6a67884c51nB93Ny7GFs~",
@@ -70,7 +72,7 @@
         "餐补",
         "住房补贴"
       ],
-      "activeTime": 1716624788000,
+      "activeTime": 1720680157693,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州阶梯科技有限公司",
