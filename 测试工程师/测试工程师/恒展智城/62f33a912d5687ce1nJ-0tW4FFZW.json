@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xGIU24dH2lnKl-71USrSYJYyy1-wrJ6cXtU0sqVc8ZIz-OxR1b6HojFHx99m3BoJIkK43rk4sMS10w-tDn36oiY4AoI6aEsrz0dJsw2fMjC3tgiC_ICxSm0wnFytcrXAai7L0vEJBStQ6A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "62f33a912d5687ce1nJ-0tW4FFZW",
+      "encryptUserId": "64a336e1b830cd790nd-29W9FVBZ",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210600,
+      "locationName": "台州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.清晰的思维逻辑，能根据产品需求安排测试计划、编写测试用例、独立完成项目的功能测试、回归测试，提交测试报告及整理分析等。\n2.良好的沟通能力，能准确、详实的描述BUG产生的过程、BUG的现象、BUG的影响，准确地定位、分析、跟踪问题。\n3.负责的态度，协助开发工程师对所提BUG进行修改和验证，跟踪促进BUG解决和完成迭代测试、回归测试等。\n4.良好的组织协调，同其他测试、开发、产品、业务同事沟通和协作，推动整个项目快速顺利进行。\n职位要求：\n1.熟悉MYSQL数据库，能编写常用的SQL语句进行增删改查；\n2.熟悉常用的抓包工具如Charles、Fiddler等，能对抓取数据走向及返参的数据进行分析；\n3.有过自动化测试（接口或UI）相关经验更佳，熟悉Python，使用过Postman、Jmeter、selenium、Appium等其中的测试工具。\n4.熟悉软件测试的基本理论和技术，熟悉软件开发和测试流程，熟悉软件测试的管理工具",
+      "encryptAddressId": "d92f944a275cadf503N409y1EA~~",
+      "address": "台州路桥区香港青年产业园37-2号",
+      "longitude": 121.372992,
+      "latitude": 28.528819,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5586a401a472655baa307e12fd6b509",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d1bffb476b79d153b23df46dc0b57ec",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件测试",
+        "自动化测试",
+        "功能测试",
+        "SQL",
+        "Selenium",
+        "Postman",
+        "Appium",
+        "Charles"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210624/9b9e5ec83d77190dcc05aee5a6a55712757daa7f441edba0337dde43ec3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "恒展智城",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c03dfb3cd03be8cb1nFy3t-_E1Y~",
+      "brandName": "恒展智城",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "恒展智城（浙江）科技有限公司始创于2018年，坐落于台州市路桥区，是一家专业生产研发5G智慧灯杆、物联网太阳能路灯、LED路灯、智能交通系统、太阳能控制系统，一体化太阳能路灯的国家高新技术企业。致力于智能环保文明事业。公司团队由国家杰出青年王高峰教授、杭州电子科技大学程瑜华教授和若干名资深工程师组成，专业从事嵌入式软硬件开发，并与浙江大学、杭州电子科技大学等高校建立技术协作关系。公司已完成上报注册，具有5项发明专利、2项外观专利、8项软著及10余项实用新型专利。",
+      "labels": [
+        "餐补",
+        "全勤奖",
+        "加班补助",
+        "五险"
+      ],
+      "activeTime": 1718520712050,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "恒展智城",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

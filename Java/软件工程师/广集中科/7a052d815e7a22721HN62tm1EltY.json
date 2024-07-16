@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U8X30D4KZb7bK-Y116ehAZR9IP-JeuwL9ZT7N3_JIRhwSarMOhzPYR7JxmBESiaFTWDpxFWAbzh9pn5veg04gzZWf2imYxZWMm1clbb87nlXG0Lwf9lxhYJuzGlnUSR8Zn08cuXZV0BmqQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a052d815e7a22721HN62tm1EltY",
+      "encryptUserId": "7df3caf49b2110e40nR73t-5EFpY",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090100,
+      "locationName": "石家庄",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求\n1、精通常规数据库的脚本编写，包括、不局限于：常规增删改查、多表联查、多库多表联查、视图、函数、存储过程等。\n2、 精通常规数据库的备份、数据交换、导入导出等常规和非常规环境的处理方式。\n3、 熟悉Linux常规版本的各项配置，防火墙规则、网络、程序运行环境搭建等\n4、 熟练掌握容器的应用和配置等操作。\n5、 有后台开发工作经验、项目驻场维护经验、部署实施经验优先考虑。\n任职要求\n1、本科或以上学历，计算机软件或相关专业，具有J2EE项目开发经验；良好的编码习惯，有IP网络视频监控平台或网络存储等大规模并发系统软件平台开发经验者优先考虑；\n2、熟练运用常用的Java模式编程，熟悉WebSphere/WebLogic/JBoss/Tomcat等主流J2EE应用服务器；熟悉Hibernate,Struts,Spring框架设计；\n3、能够熟练使用Eclipse,PowerDesigner开发工具。\n4、具有Oracle,SQL Server数据库的使用经验，熟练进行SQL查询操作。\n5、熟悉Struts,hibernate等常用开发框架，熟悉html,javascript,ajax(至少一种开发框架）。\n6、熟悉软件开发流程及良好文档编写能力；\n7、良好的团队合作精神，较强的沟通、协调能力。有激情，能够在一定的压力下工作。",
+      "encryptAddressId": "2c184d9e53fd7e2433Fz0tS9GVU~",
+      "address": "石家庄桥西区一江大厦一江大厦A座20层",
+      "longitude": 114.478286,
+      "latitude": 38.019087,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/944f77c19bdc0000e7a3452e70c96e78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c6dcbacdcaafb3f3a03aafba6d140c8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "Hibernate",
+        "SQL Server",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200916/aa67a6f89a029f68b04a857712c449e8da51557be6807d8a8429f3621b1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "广集中科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65034f3c45d5622d1XJ43N21ElA~",
+      "brandName": "广集中科",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240607/7bf6f160950405e9b37a2a916fe5a539859288dfaef47ef2da51557be6807d8a8429f3621b1dc807.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100030,
+      "industryName": "物联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721040172618,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广集中科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
