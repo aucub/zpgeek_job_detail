@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "KU9SHCfUwqYaS-e1TxZi9aYZE9rApWhHBya03BqAVQvSNaiXDc957i9XiB66Zto5PWMMvrd7OgYAvQDgKpTkxfwMcEn5cvgrJCQVBLEiFl99PpXxHCQw",
+    "securityId": "e1wPioiV8ehfY-L1pvGtu1OJ86aiUVw7IXIL3YTeQqwTfBlLnmnhUtE_Tt7JrkIiwMMaphzm94MtF20XyqUwebmd0pCyPzakjsnqw1TiTiz2t25rTf7Lm4td6sOTQV1BK2EYNrTyWJGWUQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -40,7 +40,8 @@
         "languageList": [
           "英语"
         ],
-        "duration": "偶尔出差"
+        "duration": "偶尔出差",
+        "overseasWelfareList": null
       },
       "showSkills": [
         "功能测试"
@@ -51,13 +52,15 @@
     "bossInfo": {
       "name": "李女士",
       "title": "人事经理",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd06511fc26fcb130611e7e80f210e2b18e362455f7365d84376f20d29a796f865_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
+      "activeTimeDesc": "今日活跃",
       "bossOnline": false,
       "brandName": "英望科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "dcd816c4faa9edc51n1z2tW8GVY~",
@@ -71,11 +74,11 @@
       "industryName": "计算机软件",
       "introduce": "英望科技是一家专注于新兴市场，主要从事手机和数码配件的研发、生产和品牌运营。公司成立于2009年，总部位于山东，在全球设有超过20个分公司和办事处， 全球员工超过3000名，业务涵盖全球超过28个国家和地区。连续多年销售额超过15亿元，出货量超1000万部。",
       "labels": [
-        "五险一金",
+        "带薪年假",
         "股票期权",
-        "带薪年假"
+        "五险一金"
       ],
-      "activeTime": 1718086046399,
+      "activeTime": 1721111237584,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "英望科技",

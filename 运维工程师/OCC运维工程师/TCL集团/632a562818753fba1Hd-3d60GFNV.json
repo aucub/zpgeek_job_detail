@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YPEhLR3WJPDR5-h1eB541jdPbEVmkWhrUWcFJGesyQ2j7Iey1TffrpSCMFBDHjl0br5aRlEEtud_S6eZR1scc4ri_XTMLh9iuzujcMEEotfPsP34_dkZ1rHIAPE_mXWfX43RQr0XEEs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "632a562818753fba1Hd-3d60GFNV",
+      "encryptUserId": "a80f3ba7d7dcd2e21HR53Nm4F1s~",
+      "invalidStatus": false,
+      "jobName": "OCC运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280300,
+      "locationName": "惠州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "基本要求:\n1、全日制计算机、电子工程或通信相关专业，全日制本科学历，至少1年以上工作经验；\n2、有Zabbix、Grafana、Prometheus等监控工具使用及维护经验；\n3、有PG数据库使用及维护经验，了解主流数据库(MySQL、Oracle、SQLserver等一种或多种)；\n4、有ELK部署与平台维护经验，能配合业务对接日志；\n5、熟悉Linux操作系统，能够熟练使用系统命令进行系统维护与问题排查；\n6、熟悉LVS/Nginx/Apache，Redis，MQ等常用的中间件服务监控部署；\n7、熟悉shell、python等语言，并能够运用到日常运维工作中；\n8、熟悉使用python或办公软件如office进行数据分析，实现自动化运维优先考虑；\n9、熟悉 docker 容器部署与使用，了解 Kubernetes，部署 K8s 集群;\n10、具有热忱的工作积极性，自我管理能力，较好的沟通、协调和表达能力；\n11、具有高度的责任感和敬业精神，服从工作安排，能适应夜班和节假日值班安排；\n\n岗位职责：\n1、负责7×24监控运营服务，通过监控平台实时监控相关系统（机房环境、服务器、网络和各应用系统）的运行状态、性能；\n2、当发生告警或故障事件，能及时判断严重等级，并根据问题的简易复杂程度，第一时间对事件进行处理或协调相关二线工程师处理；\n3、接听故障报告的电话，跟踪及管理故障处理流程，协调相关人员完成故障的处理；\n4、建立和完善公司运维的监控体系和事件处理机制，确保业务的稳定运行；\n5、负责平台故障处理，服务器运维；",
+      "encryptAddressId": "529488f2a08388623nx739W0FlI~",
+      "address": "惠州惠城区TCL科技大厦9楼",
+      "longitude": 114.353988,
+      "latitude": 23.029835,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84e0a1446176629ba5047a55a8c2e961",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5760a0fad98deacedaf7fd8bf1785734",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "OCC运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "研发hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "TCL集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "647e0586d9a4c59e0HF509y4FQ~~",
+      "brandName": "TCL集团",
+      "logo": "https://c-res.zhipin.com/jrs/67acf2b805d022d5d604d45e5faed96a.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "免费班车",
+        "定期体检",
+        "补充医疗保险",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721186613627,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "TCL集团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

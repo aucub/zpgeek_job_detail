@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cMqba28dmsQTh-W1OoujEhnDZmlEXv93VFxUCRIkgmFN1SlBH_Bxr8j3GtHb8b6h4bouZLCvhaZgeCXQhIvZcLBPo-JiIEjWZPG8BaXayByvQMnvliUbuk32IckohI-SdFrPccbNCHd4ug~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "30ddbde891fecda31HN73tq5FlBU",
+      "encryptUserId": "ea2631b74ccf76310XJ73tu9GFJQ",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、参与项目需求分析、架构讨论，技术评估；\n2、参与公司项目开发工作，按时并规范完成分配的开发任务；\n3、完成客户定制化的软件功能，对遇到的疑难技术问题有突破解决能力；\n4、按公司要求的开发流程完成相应开发、部署、调试、文档整理等工作；\n5、与业务部门做好相应的沟通，能够理解客户需求及业务诉求。\n【任职要求】:\n1、1年以上开发 Java 开发经验，具有扎实的 Java 基础，有相关项目经验，具有良好的团队协作能力和沟通能力，具有高并发数据处理能力优先！！；\n2、掌握高并发、高负载、分布式系统相关技术，并具有实际开发经验；\n3、精通 SpringMVC 、 Spring 、 Mybatis 、 dubbo 、 springboot 等开源框架并熟悉其实现原理，具有 JVM 调优能力；\n4、精通 SQL 及优化，熟练使用 Mysql 数据库，掌握 redis 、 mongoDB等常用技术并具有实战经验；\n5、熟练开发、测试、部署流程及调整优化。\n6、熟练掌握 Vue ，熟悉 Web 标准；     可以修改我们的后端页面\n7、熟悉 Linux 基本操作，能独立完成项目的部署及调试。",
+      "encryptAddressId": "fe12789ebe3b15fc1nR83924EVVTx4-6VPud",
+      "address": "宁波鄞州区广博国贸中心10楼",
+      "longitude": 121.551461,
+      "latitude": 29.818384,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/abe25b8ebfc472d84887be3d31e62176",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46c61a727252ba3dcd9cf895dc4467dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd0002f751ba8b2ceda5941c1bd61a406d64e15f92a3a90edcda63d00f1c10b057_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "亘新",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d9a07e6cb0463e8b1XV83921GFE~",
+      "brandName": "亘新",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "全勤奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1721123092347,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亘新",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
