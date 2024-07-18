@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1bmkR4prOQfT9-o1mvo4u2T6od4yreDAgqNYkGOK7Vlw0Sg8Ptb9SrB2dH2AxNEVjRvLxX8KDwnLV6sDy0j3JF0nd0pKW3lp3nynquU5c-pPMCKs8wuA0sLDKkfsRnHiqPvhXrM_3gzieHtU-Kw8t7B6BguGFnqx_yeBe-dFjvcWnn9d",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "de2a0f258c7276081XV639i8EFFT",
+      "encryptUserId": "cb6a80ba7eee48350nZ-2N-4EVM~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101191300,
+      "locationName": "宿迁",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述 \n1、基于上游澄清后的项目需求，进行需求评审； 2、基于公司产品配置的系统应用，独立编写测试用例，场景用例并进行内部评审； \n3、执行测试用例，进行功能测试、场景测试，发现缺陷、定位缺陷、跟踪闭环缺陷问题，按照要求输出测试报告； \n4、基于发现的问题，对公司产品、配置方法沉淀合理的改进建议。  \n任职要求 \n1，正规大专及以上学历，计算机或软件、电子信息相关专业优先，有较强的逻辑分析能力； \n2、熟悉软件测试理论和方法，熟悉相关的测试流程、测试文档标准，熟悉Linux常用命令，可以简单部署测试环境，熟悉数据库（mysql、oracle）相关知识； \n3、具备团队合作精神，积极的工作态度和较强的责任心，良好的沟通和学习能力； \n4、对工作充满热情，有较强的分析能力和定位问题的能力； \n5、具有项目、应用独立测试经验的优先。",
+      "encryptAddressId": "8171bee1ed940ddc031z0ty6F1I~",
+      "address": "宿迁宿豫区筑梦小镇D1栋",
+      "longitude": 118.346846,
+      "latitude": 33.953684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d48e0e42e0fc1ba76ea3e664d6a0f082",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8e01842ca74095ea5a72dc980541e4c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "SQL",
+        "MySQL",
+        "Oracle",
+        "软件测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190209/73f7e78fea6c6c2bb8bec18299111e80e00cb8279534e3cd7c4cbb9c840_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "数琢",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bdcc57d981e639961XR53NS4FVA~",
+      "brandName": "数琢",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721282897115,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数琢",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XWavQxJ75EJnx-y1UuiO7bsrcK6mH-kqyJJCQuR_hdMSSQc50LH-Q9i52BqmA6DFYBLS0AEY_lA7Dc2JEr61GwS7mZ2sIWtesIxoO_96w2erIxGJ0_2O",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7926c46345ed76f41HN63968EFdS",
+      "encryptUserId": "72b35f1870cfd0aa0XJ83927FlVY",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、运维平台开发:监控系统、代码发布系统、批量管理系统、资产配置管理等开发;\n2、负责IDC环境、中间件应用软件的部署、配置、调优、安全检查、升级工作;\n3、运维平台开发、运维工具、自动化脚本开发工作。\n4、阿里云、腾讯云、华为云等相关云平台运维;\n职位要求:\n1、精通linux系统(centos. redhat) ,熟悉linux常用命令;\n2、熟练网络、shell能完成基本的脚步功能编写;\n3、熟练RDS数据库管理、维护、容灾及集群实现方案;\n4、熟练vsphere、kvm、docker、 K8S虛拟技术;\n5、了解常用的存储系统ISCSI、NAS、NFS、clusterfs、Ceph;\n6、熟练CI/CD; K8s微服务生态系统;\n7、熟练掌握ELK日志系统及常见的业务处理;\n8、责任心强、工作勤奋积极、自我驱动。",
+      "encryptAddressId": "adf5992bbbe373211nR-3tm9FldSw4q4WP2c",
+      "address": "南京江宁区南京市江宁区科建路29号03幢",
+      "longitude": 118.847994,
+      "latitude": 31.927342,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240711/48ba41acc9cef1bfcfdc2cf42eff8d3315c6bddcf6cdc8ea6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240711/48ba41acc9cef1bf087d06c6f1a5920bdb46ff6cc466c72a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "运维开发/DevOps",
+        "Python/Shell",
+        "Nginx",
+        "Docker",
+        "计算机相关专业",
+        "通信相关专业",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "嵇先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南京龙鳞信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9084e358a81660e91HJ62t64FVI~",
+      "brandName": "南京龙鳞信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721294756548,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京龙鳞信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

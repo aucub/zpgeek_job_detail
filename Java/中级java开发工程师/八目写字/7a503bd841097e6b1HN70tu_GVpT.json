@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EUjE_vukW4tiR-B1q8GUnIG68i3k5y475cQcGfZh8hCeT62VRELIyndFWTEnr18onrLB8-tin7o3ZC4C9hTXYbPawGp-tYNLsJ9pzeopQaGjz_Y_9UlSG3N0gAFa64gHnJUefVEIsHBefNss7DJpBPyAojsUyYB1ZZi7ZY7issyAg2OA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a503bd841097e6b1HN70tu_GVpT",
+      "encryptUserId": "03f5e66410562ceb0nJ629i0E1M~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "先简单语音聊10分钟左右，如果约线下面试，需要现场电脑写10-30分钟小功能代码(不是做题库），不能手写代码的不用投简历，要查看社保记录、学信网；\n要求统招本科第一学历计算机专业（或大专软件专业），\n必须有2年以上Java 实际开发经验，\n必须有2个以上SpringBoot项目经验，\n要求熟练SpringBoot、MyBatis Plus、MySQL、Redis；\n\n熟悉MongoDB、Python优先，\n熟悉JS、VUE优先。",
+      "encryptAddressId": "2fcd0a6cb67fed2a3nV72t27FVVYyoW_U_0~",
+      "address": "杭州临安区杭州八目写字文化3601",
+      "longitude": 119.828485,
+      "latitude": 30.261567,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230811/48ba41acc9cef1bfbfbb407acf0ef8f8fd8da3efa79c661c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240603/48ba41acc9cef1bf1f665fac35213511a7fde8398d88a1346bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd067a3d6fb9c08cc8c81815d5b3ea03c49801b06677ef0268952f58754e043de0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "八目写字",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "728dea8de83480581n192Ny8E1A~",
+      "brandName": "八目写字",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211201/7b5b554d84f9729c04c7f244e0f76d413cde9e8f3219f1be07a478050779d1077d8b1926ee2b4434.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "杭州八目写字文化科技有限公司以传承中国汉字文化为己任，以美育为核心指向，在书法艺术和现代美学的理论根基上，运用计算机大数据技术，比对研究海量规范字数据，结合几何学理论，提炼出汉字结构普适性规律，并由此研发出一套完整且自洽的实用练字逻辑体系----八目数字化定位逻辑写字法。该方法科学、高效，从根本上解决了硬笔练字难、耗时长、进步慢的问题，对推进广大学习者规范书写、弘扬传统文化具有重要的意义。",
+      "labels": [],
+      "activeTime": 1721283950327,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "八目写字",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

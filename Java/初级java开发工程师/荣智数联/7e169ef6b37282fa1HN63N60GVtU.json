@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5lkyytO8ZwAJ8-n19TxyuZ6w4o0BvdO0JDA6LVoJGgrt7ze3JGMOJHmYwXhiPcfero4BJV_hR42MNNvA5E4p8EUxNpMXz-m3pOm3WNpWXz8LViLERSs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7e169ef6b37282fa1HN63N60GVtU",
+      "encryptUserId": "a6f173727fbd44af1XV729m8FVc~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "⾄少⼀年java开发⼯作经验, 专科及以上学历, 学信⽹可查\n掌握J2EE，熟悉spring framework、springboot、springcloud、Mybatis-plus等开源框架；\n能熟练使⽤git、maven等CI⼯具\n熟悉mysql数据库的相关操作；\n了解redis, 熟悉mysql等操作\n具备良好的编码习惯，结构清晰，命名规范，逻辑性强，代码冗余率低；\n具备良好的沟通和学习能⼒，有很强的分析问题和解决问题的能⼒，良好的团队协作能⼒，⼯作认真负责；\n有⽀付/⻋贷⾏业经验优先",
+      "encryptAddressId": "db691b1ca60bff321nR-0ty7GVZXy4q3Vv2e",
+      "address": "上海杨浦区保利绿地广场6层",
+      "longitude": 121.517248,
+      "latitude": 31.261067,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf79786035933077b121a17355ade34cc36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf70d1430277b8adddd494703ac3f036bc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "荣智数联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a9edfe87e10b504e1HB53NS0GFM~",
+      "brandName": "荣智数联",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1721290544675,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "荣智数联",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

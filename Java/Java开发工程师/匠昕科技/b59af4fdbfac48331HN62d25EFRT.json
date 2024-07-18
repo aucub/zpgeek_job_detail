@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cpLgbWfcuGLwE-y1xutuKmvuJ1b3Q43K0lEiRKdGfvNX18tYtkHT4H9L-oGznG1H6QNHtF9QEt_tvgjGxfOw-uNcL_WjUe9noeLDU1ROWJEZtelTIhWK2Ta_mS8Kcc91rhAy1qGn-nSOznR2a5_Pdh3C",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b59af4fdbfac48331HN62d25EFRT",
+      "encryptUserId": "651f5ec2164c42d20nV-29S8FlRX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据开发进度和任务分配，完成相对相对应模块的设计、开发、编程任务:\n2、参与开发技术和规范及标准功能的优化改进\n3、积极响应客户需求并进行开发/定制化开发和交付\n4、协助并完成其他各类技术开发任务\n\n任职要求：\n1、本科及以上学历，计算机及相关专业些业优先，2年以上Java开发经验\n2、精通Java 编程，包括集合、多线程和底层原理，熟悉redis、MQ等技术\n3、熟悉JVM性能调优，对高并发、分布式事务具备丰富经验优先。\n4、熟悉Springboot、SpringCloud等微服务架构，对服务治理，链路追踪和线上问题排查经验者优先。\n5、熟练掌握数据库的相关知识，熟悉MySQL。",
+      "encryptAddressId": "21a517ac63f6d5961nV82dS5ElVX",
+      "address": "上海黄浦区世纪出版大厦福州路465号22号楼",
+      "longitude": 121.48154,
+      "latitude": 31.23316,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230417/48ba41acc9cef1bfa647744c650a7d1f16f7939a25ca98696bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfd13961708eeb5154ea49f033244f9b306bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/145e92d5e1e90e5d85850372de70f0ce4e50ba5d37fff968498da1d139a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "匠昕科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/106595933d5d5266e549d27df09c94eeafa57f1b9e07a647f8c4bb919f5863fe.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0da41a42c5975e901nZ80tq5E1s~",
+      "brandName": "匠昕科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210215/bdfe3119c536980489bfc7acfbc2570d4e50ba5d37fff968498da1d139a0e240.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海匠昕信息科技有限公司是中国领先的创新型技术服务提供商，是一家以技术驱动解决方案服务商，拥有业内领先的专家团队，致力于通过不断创新的技术为广大需求方提供完善，个性化的服务。 公司具备端到端“软件+服务”综合业务能力和强大的纵深服务优势，凭借深厚的技术实力和整合的生态资源，公司提供软件开发，咨询与解决方案，云计算、大数据及互联网应用服务。为城市、产业、企业等领域的客户创造价值。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "定期体检"
+      ],
+      "activeTime": 1721291269163,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "匠昕科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

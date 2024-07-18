@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aLtW6WUh5fwMH-S1T44nWjXUIRkyuCg6yTlQsfI2dZe8vpq9uhp7uzX5VMmEXiNOmkOzBOiyQPrvv1WIy7G0LRHn9Oycqnh72RWLQ5z1k10S7jpmKUbQokfErpML09v-3TSGERmee--q-87IfNgD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f59fe60a71a3d0811HN73tm0ElRU",
+      "encryptUserId": "b0212eb0e5e58da30Hxy39u1GFY~",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、本科及以上学历，计算机等相关专业，精通计算机编程；\n2、精通JAVA，熟悉数据库\n3、熟悉PHP ,至少有一个框架的使用经验。\n4、了解小程序，参与过小程序的项目开发及维护\n5、至少1-2年实际工作经验\n6、了解项目后台，有网站，微信小程序等项目的后台搭建实操经验\n\n任职资格：\n1、喜欢新技术的学习、调研和实验，有解决产品技术难题的决心和能力，有创新能力；\n2、熟练掌握mysql等主流数据库开发，有较强的sql编写能力；\n3、熟练运用 Spring 、Spring Boot、 MyBatis 等框架进行业务接口开发；\n4、了解Spring Cloud微服务框架，包括服务注册与发现、配置中心、负载均衡、断路器等组件的使用经验。\n5、了解常用中间件，如消息队列、定时调度、缓存、微服务等，具备使用Redis进行缓存管理的经验；\n6、熟悉linux基本操作，tomcat、apache/nginx等应用服务器基本操作及部署；\n6、熟悉PHP主流开发框架，熟悉Yii2优先；理解OOP思想，有设计模式开发经验优先；",
+      "encryptAddressId": "4fe07f3b2e4d88c51Hx92927EQ~~",
+      "address": "上海普陀区武宁路423号18号楼1504-1507",
+      "longitude": 121.415695,
+      "latitude": 31.242309,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45036c4f26de309ff6c5dc3a29db0a49",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14d779ec62a2ab9a05f172ec50a4ba11",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "SpringCloud",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "SQL Server",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "PM",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200107/d088ed289ad7a42c1657aec1ad6b2cd7d11f31a0d6b77009ae480a92a7b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "ARCHISENSE",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "531d87f967ef55430n163tm_",
+      "brandName": "ARCHISENSE",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170410/b8a16e4e76058c14b0cb8794d6cc8e43e40bbe660867e4ea45f2f5944da264c6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "公司主要业务为CRM平台，电商平台，移动APP，微信H5, 微信小程序开发。使用自主研发框架。",
+      "labels": [
+        "生日派對",
+        "开放式工作环",
+        "零食下午茶",
+        "交通补助",
+        "餐补",
+        "带薪年假",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1721291361548,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "ARCHISENSE",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

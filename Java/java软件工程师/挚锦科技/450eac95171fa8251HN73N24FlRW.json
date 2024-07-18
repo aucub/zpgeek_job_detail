@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SXgBIUSCRfW5k-21Ce2umFiEhdeCMetngniWFs6qSvFYWSwDTH_46to5fGwXf7DczLD0CBuGNSUyRAUDntVe5ggRdctvNuvBO9GSMHbAGls1-E2Npg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "450eac95171fa8251HN73N24FlRW",
+      "encryptUserId": "67b1cc7467d96cb41n1z0t20F1U~",
+      "invalidStatus": false,
+      "jobName": "java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、充分理解业务需求，根据开发计划完成开发工作;\n2、参与公司产品接口和后台业务的设计和开发\n3、负责接口文档的编写，协助并完成其他各类技术开发任务\n\n技能要求:\n1、大学本科及以上学历，Java基础扎实，至少3年及以上Java开发相关经验,\n2、对设计模式有一定了解,有良好的代码习惯\n3、精通Spring、SpringMVC、Mybatis及相关生态组件，熟练使用SpringBoot进行开发,了解Vue前端框架\n4、熟练使用非关系数据库MongoDB等, 熟悉MySql等关系数据库\n5、熟练使用常用的WebServer，如Tomcat、Nginx；\n6、熟练使用各类开发相关工具，如IntelliJ IDEA、GIT、Maven、Swagger等；\n7、良好的团队交流、沟通能力和需求理解能力，有较强的协作精神和团队意识。",
+      "encryptAddressId": "4007f33dad4f47730nd82d69F1JYxIy_VPg~",
+      "address": "上海闵行区国家863软件专业孵化器(上海)基地中心大道西路18号楼",
+      "longitude": 121.51822,
+      "latitude": 31.079734,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/805cd9d7261dc53066da2395bdd498f2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5f7b7419d9915473d43c91106c3021d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "大数据经验",
+        "物联网经验",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人力专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230309/607f1f3d68754fd079e9ca1e2eed1a69c0e0db1ad89469bd6d78fd1214d144fa32522564d14_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "挚锦科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4dba2dba4c9d664333d_29S7FA~~",
+      "brandName": "挚锦科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230922/7bf6f160950405e99865c8f9e896d0465411686ef3861e62bc58ab678209b9c953c822f61768a36a.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "挚锦科技是全球领先的智能物流自动化供应商。\n挚锦科技系列产品被广泛应用于制造生产领域，通过创新自动化解决方案，帮助用户有效提高产能和效率。\n通过不断提升技术能力，挚锦科技确保了作为智能物流管理的领先的地位，并且不断提供垂直市场的渗透率。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1721290052847,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "挚锦科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

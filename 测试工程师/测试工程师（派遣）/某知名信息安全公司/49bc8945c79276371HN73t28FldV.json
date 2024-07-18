@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aki1rdqy-92RH-C1lSE2yLLF3OL7mZv1tixZ4xWYB2eF5SpqE9x9qx9KUQU86qA-VhusrmgsVa-q7kX4HEePJmrUNlJ8hbqS7PsryVIdsktnSSfLLGEjKE9-P2jvczcYiOcWZLZIjMx97Kc13AwN9A5ny7DPxahyrc9aQvWKD_7Jc9x3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "49bc8945c79276371HN73t28FldV",
+      "encryptUserId": "9e62da72a58495051HRz09y1Flc~",
+      "invalidStatus": false,
+      "jobName": "测试工程师（派遣）",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 1,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "元安全产品方向：\n岗位职责:\n1、负责产品的自动化脚本开发、有自动化框架二次开发经验;\n2、负责产品的测试设计、用例编写、新特性测试和版本回归测试；\n\n任职要求:\n1、有良好的python编程基础和自动化测试经验;\n2、有长期脚本开发和维护经验；\n3、熟悉linux和windows操作系统，有长期在linux和windows环境下的工作经验；\n4、熟悉软件生命周期模型、测试流程和测试理论，可根据需求文档及设计文档独立完成用例。\n\n防火墙产品方向：\n工作职责：\n1. 负责产品的模块功能测试、压力测试等工作， 能根据测试要求执行验证、问题定位和BUG跟踪处理等\n2. 负责测试用例的自动化脚本编写工作，能根据要求执行自动化运维工作，对自动化运行结果分析\n任职要求：\n1.计算机，通信工程相关专业\n2. 掌握计算机网络TCP/IP，操作系统，计算机原理等技术，有从事网络安全产品或数通产品测试的经验优先考虑\n3.熟悉掌握Python语言，有自动化框架及脚本编写经验者优先\n4.熟悉主流厂商测试仪者优先考虑：IXIA、Sprient、BPS等\n5.有良好的沟通能力，工作积极主动有责任性，能够承担工作压力",
+      "encryptAddressId": "5d333498f4aeb7ea1nR82N6_F1NVxY66V_qa",
+      "address": "苏州虎丘区山石网科大厦1",
+      "longitude": 120.434616,
+      "latitude": 31.323545,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a376eed17f35f6c9618bad4f410340f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a35feea662e871f63526df29073caee",
+      "overseasAddressList": null,
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试",
+        "Python",
+        "云安全",
+        "防火墙"
+      ],
+      "anonymous": 20,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "谷女士",
+      "title": "猎头顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "文鼎集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "",
+      "brandName": "某知名信息安全公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/d3c6baef296e95762de0802dabf63c06a778a0d7c89f7c91cc68f632d30ad625.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721292755941,
+      "visibleBrandInfo": false,
+      "focusBrand": false,
+      "customerBrandName": "某知名信息安全公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JIcgaM34YKY1u-j1i17Gg8vW-2je-RLmBB9YqjbzvDDhM_DxuvqDWHpmslu_0oNxAs43ioBzoExz1hjbDxkzlJs8VvdemTcd0YCg33Naiu87Hr8p",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "74b2039e063e532a1HN709S9ElJU",
+      "encryptUserId": "4f5f25e94f662cec1XRy0tS1EFU~",
+      "invalidStatus": false,
+      "jobName": "K8S运维-南京",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 3,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.有效处理客户以及系统故障，保证系统7*24稳定运行；\n2.负责公有云服务验收，变更方案评审及操作，上线验证;\n3.负责云计算相关技术事件管理；\n4.负责第三方产品运维技术管理；\n5.负责梳理产品部署/运维手册，对接区域交付/合作伙伴的沟通与协作。深入理解产品的架构，发现并解决故障隐患及性能瓶颈，参与架构优化.容灾优化.性能优化等项目;\n岗位要求：\n1.本科以上学历，3年以上云计算平台运维以及Linux运维工作经验;\n2.熟练掌握各种主流操作系统的安装，调优等（具备RHCE等技能证书者优先）；\n3.熟悉OpenStack等开源云计算平台技术架构，有实际的使用或线上支撑经验，熟悉华为FuionSphere云计算优先；\n4.熟悉主流虚拟化技术kvm.xen.vmware等，熟悉SaltStack/Anible/Docker/Kubernete等容器.运维自动化相关产品和技术优先；\n5.熟悉Zookeeper.RabbitMQ.Kafka.Myql集群.Redi集群，并具备在生产环境实际部署的经验；\n6.熟练Shell/Perl/Python等语言中的一种或多种，能够编写脚本提高运维效率；有沟通协调能力",
+      "encryptAddressId": "99b8170b9ed7e44b1nR83Nq4FldRyoi3WPya",
+      "address": "南京鼓楼区江苏省电力大厦0",
+      "longitude": 118.773886,
+      "latitude": 32.058391,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36aa889708870e5ea7d7b6eedc5b6fdb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6209e7a235df9783ecd175af7b8df521",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "桌面运维",
+        "Docker",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人才经纪人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240710/607f1f3d68754fd0967d6dc39e5e247d1a1617bf923dc56fe71dedf9ec843a6823c974ccd7dad91_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "FESCO江苏",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/reminder/e35f16ea39473de03960575dcdfcce46b1792042df7d374e83c5b195df57be5135a5160f61e944049821952a8a7ff792.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a29d54f553b055c303J629y1",
+      "brandName": "FESCO江苏",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220906/7bf6f160950405e92fbd32b3a1464c6b455222bbc89f0080c6eb7eef526350fe17af08f23af89775.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "FESCO\n国有企业\n中国500强企业\n中国第一家人力资源服务企业",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721295732174,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浩鲸科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
