@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6zSmPJEFqO206-61pJtAdYjWkYVEq9CVQP305kpmL6RcT82SVvVKpa-3uC-7aQZ1W1PaPCrVOSg0oGAZKylTe3wl9A-uZsTpDDPdjRUSFkLA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b7588ea38f82f9ed03Vz0927EVA~",
+      "encryptUserId": "8f678c058c69c3f43n162d61",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述:\n1、按照项目计划，按时提交高质量代码，完成开发任务 \n2、规范文档的编写、维护，以及其他与项目相关工作\n3、与研发组长沟通和确认某个模块的需求和实现方法\n4、负责某个模块的代码编写、维护\n5、对其他模块的代码的维护\n6、与前端协作，确保有效对接\n7、负责与测试人员的交互，处理测试人员的问题\n8、善于沟通、服从管理\n\n任职资格：\n1、计算机、软件工程、电子工程、通信等相关专业\n2、有扎实的Java开发经验，能独立完成产品模块的设计与开发；\n3、熟练掌握springBoot、springCloud、springSecurity、maven、myBaits等框架\n4、熟悉常用数据库（MySQL、Oracle、Redis等）的使用，熟练进行数据库设计，对SQL优化有一定经验\n5、熟练使用Git\n6、熟悉tomcat、nginx配置管理，熟悉MySQL、Redis等常用数据库部署、配置\n7、熟悉Linux操作系统基本运维。\n8、熟悉HTML5、JavaScript、Ajax、CSS、JQuery、node.js等Web前端技术",
+      "encryptAddressId": "e2f19c94c550a64c1Hdz09W6EVE~",
+      "address": "北京昌平区北京大数据智能产业园410",
+      "longitude": 116.302929,
+      "latitude": 40.108774,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3719b1f5f1376010346cf9cdc5497ca7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0851d28197fe122b7450f04d27f89c97",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "系统架构",
+        "需求分析"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170814/f732947a181eac874871d75005488f4e8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "畅发科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "073bc620ea41edcf3nd_3N6_",
+      "brandName": "畅发科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/81791d0a07de002a0998bf4ed6900aaca965f29e9fc22476464cfec83ff9761b_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721296107122,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "畅发科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
