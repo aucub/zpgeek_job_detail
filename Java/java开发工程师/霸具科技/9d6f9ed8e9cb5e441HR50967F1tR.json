@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BYtvWEDoyjPg9-Z1nnQ9AeabJCM13es6CuyJuBHktGj9kgVALQWZdsrNBxEgPP8gm0zQlc4segF2AyYYEq8F_udn04mVCVqt_nVoUyApMLbdwmzsADB5SnM_NboVrVWgb8tJvDirlWC_jA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9d6f9ed8e9cb5e441HR50967F1tR",
+      "encryptUserId": "7f3104ae873b72e90nx_0tS0ElZY",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科或以上学历，计算机相关专业；\n2、Java基础扎实，精通多线程模型及异步网络编程；\n3、精通SpringBoot、SpringCloud、dubbo等技术栈，熟悉项目构建相关技术。\n4、熟悉分布式消息列队（kafka、RabbitMQ等），分布式缓存（Redis、Memcached、zookeeper、nacos等）\n5、掌握Mysql数据库的开发、配置、管理、调试，熟练掌握SQL查询优化；\n6、有微服务开发经验，对消息服务，负载均衡，高可用等机制有深刻的理解；\n7、较好的产品意识、愿意将产品效果做为工作最重要的驱动因素\n8、熟悉vue开发，拥有uni-app开发经验者优先\n9、工作地点重庆万州海成长江之星",
+      "encryptAddressId": "89d8f10957fe804b33Zy3928E1M~",
+      "address": "重庆万州区海成·长江之星B4503",
+      "longitude": 108.40549,
+      "latitude": 30.799396,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbe0c0bede153274cecb1ab60a886119",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f5e9acbd8602fd8568836ee8f1795a0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曾女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "霸具科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "32325c08997a4d561XRz39i5ElI~",
+      "brandName": "霸具科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1721478388874,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "霸具科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

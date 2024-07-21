@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "a9U0xzyE6kIOc-m1NsJo2B0vBQ6qhvyjrBfKK3_Wij2HWy6z8uaiFp3QGBKiQOziY9w7ZOMtgVVvYDXM8io-5H47JITxjRFPhM-ifRXnfEDISxPJJQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4a5387afa895160e1Xd93d-4E1pT",
+      "encryptUserId": "8466c9c2d3ac4cdf03x729u8EVI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、离线数据采集具备情况监控（新、老集群），对未按时具备的离线数据文件的未具备原因进行核查，以及对采集过程中出现的问题进行处理。\n2、离线数据基础加工具备情况监控（新、老集群），对未按时具备的基础数据加工的未具备原因进行核查，以及对加工过程中出现的问题进行处理。\n3、模型加工流程运行情况监控，以及对加工过程中出现的问题进行处理，并对模型加工的数据下发量进行汇总与通报。\n4、采集加工等相关的BDI流程的巡检工作，对巡检过程中发现的问题进行处理。\n5、通过可视化平台对每天的采集数据进行稽核监控（老集群）。\n6、实时数据采集程序运行情况的监控，发现问题后通知相关负责人处理，并对处理进度进行实时跟进。\n7、实时模型加工数据的下发汇总工作。\n8、上游数据的转移与下发监控，对未按时下发的数据根据具体原因进行处理，保证每日数据正常下发\n。\n岗位要求：\n1、本岗位实行7*24小时轮班方式（白班12小时,夜班12小时，休息两天。每四天一个循环），包括周末、节假日。要求能上夜班并适应岗位的倒班制度。\n2、掌握oracle，hive、linux等简单的查询操作技能。\n3、良好的学习能力及习惯，能及时适应日常工作中要求的变化与增减。\n4、认真负责的工作态度及良好的沟通能力。有及时发现与处理问题的能力，以及将问题与现象表述清楚的能力。\n5、本岗位部分工作内容为涉密内容，要求具备保密意识及网络安全防范意识。",
+      "encryptAddressId": "7e573d3bd8fbf8a01nR83NW9GFRYx4y5Uv2f",
+      "address": "济南历下区中国联通6号楼6号楼",
+      "longitude": 117.057048,
+      "latitude": 36.660228,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bfff21cbda77b837b3dacb331a72aa29ac6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230818/48ba41acc9cef1bfadb3ab876e8e12445bdfb0d250ec1cf46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "桌面运维",
+        "MySQL/Oracle",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220622/607f1f3d68754fd078f5d61aae9cbdf44592cfbf0a12f84af7a864111b8ca03b2df780b62e8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "君南圣达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6bf9ff0607425591nZ70t24GQ~~",
+      "brandName": "君南圣达",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190417/9bc178497d1d03eadcee663dc1ee8ae46c28b8f7a777198e3165e2387b55200e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "君南圣达2008年创立于北京，在大连，济南、济宁、沈阳、宁波设有分公司，兼具文化底蕴与创新实力。专注于计算机技术、大数据、科技金融等领域的研发及服务。为客户创造最大价值，致力于成为运营商和大中型企业长期、最佳合作伙伴。\n君南拥有多个全资子公司，遍布全国的研发中心和分支机构，获得CMMI和ISO 9001质量管理体系认证，是北京市高新技术产业、北京市双软认定企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "餐补",
+        "电脑补助"
+      ],
+      "activeTime": 1721383321117,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "君南圣达",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
