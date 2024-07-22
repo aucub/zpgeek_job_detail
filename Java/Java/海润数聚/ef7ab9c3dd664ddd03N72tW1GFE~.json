@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ywdkKKvWUy9BG-L1rlTdCiP8t2Ryx2UVCI0BxTdUdBsa3PudfZGBaVXPDRKQk-CIUZ6_GwapAWkvm6DGNvUEcYV0AqO_w2RYO9d4jk5iOiZANcTv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ef7ab9c3dd664ddd03N72tW1GFE~",
+      "encryptUserId": "d2076cd9eb1ff5f81H1_2d26FFU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120500,
+      "locationName": "烟台",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "1年以上工作经验  高级优先\n①精通 Java 及面向对象设计开发，熟悉常见设计模式，有系统设计经验，研究过优秀开源软件源码并有心得者优先；\n②精通 SpringBoot 、MyBatis等主流框架；\n③精通 Mysql 应用开发，熟练使用 Redis，理解其使用场景和限制；\n④熟悉 SpringCloud、Dubbo等框架者优先；\n⑤对 Linux 下开发环境有开发经验，了解 jvm 高级特性和调优者优先；\n⑥具有大规模高并发访问的Web应用设计和开发经验者，对高并发处理情况下的负载调优有相关经验者优先；\n⑦积极主动，认真负责，头脑灵活，具有良好的沟通、团队协作能力；",
+      "encryptAddressId": "80e71d776cbb54841XF82N28EFo~",
+      "address": "烟台莱山区山东艾欧特投资集团有限公司",
+      "longitude": 121.4132,
+      "latitude": 37.43623,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cb8a06a9315a46339de5ec9d5292c98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2516c090d3b83550893e0c10f63ba60",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180529/4da6373ffafdf097f254534e5dbe6a53f4a23ea72781fa1e7be710b9254_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "海润数聚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d1b88442fd6207dd03d70t68GA~~",
+      "brandName": "海润数聚",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240620/7b5b554d84f9729c3ae4cc999dcb666a30d3386b740cf4dcc43b4dcc1f1d8f0e58a5888011567469.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "山东海润数聚科技有限公司（原烟台惠通网络科技有限公司）是创新型高新技术软件企业，公司核心研发团队有丰富的大数据分析经验，以卓越的服务品质、专业安全的技术服务实力，为不同群体的用户提供更高更优质的IT服务。公司致力于大数据（DT）时代核心平台数据库软件的研发与服务，在分布式存储、多场景混合计算、商业智能BI、图像识别、互联网+等方面具有创新的理念。公司重视人才建设，欢迎优秀的人才加盟我们。",
+      "labels": [
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "五险一金"
+      ],
+      "activeTime": 1719049003637,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海润数聚",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

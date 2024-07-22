@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "J7fUltXBmbHP9-W1px8Hk5xLe83eKZ5DEm48x2JO6vArwUdniHNxGfl1S1PR24-GrhRDfE5se17Tv6ORx1jDBaqxNpwu7yY_x-DJIIyp9iefvTW5DZXkufKmzTEeP2gxsuy61PrSmU0KBCULcEceCw7T4JM~",
+    "securityId": "tWn74KFhs6iEr-g1tKvlNjZt4TnrJYyRqZxKjg7O0huJSCP1luEkmSSDQxOtOML9mgz78zKxqXLscOZuiaIP_jmkUhB5OIwt4g0p9_3GtxJkdzzTkbXy",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,7 +44,7 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
       "large": null,
-      "activeTimeDesc": "2周内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "烁云科技",
       "bossSource": 0,
@@ -79,7 +79,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": true,
+      "canSendResume": false,
       "canSendPhone": false,
       "canSendWechat": false
     },

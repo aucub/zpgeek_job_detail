@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Vn5P9hRQx47q4-51Ml1gnlPd20b_RCy5bV3zbOkiypq-o4guKtDAGTfs7PfZ1_A7a6GPngpr-_R30Qe0pmx1MNZU5AuOUEkLp-lc9yS1oQVAjQ2ADBThaIgIsdhP77HVqPjZmgn4Z77jvOi0uJI~",
+    "securityId": "6JBneORIiob2H-v1XvyyVBTsQL3O9JH5BdGe88MnCFTMZMnnkTMkAVCzkagd6hbGr8lh353bwB168tDrgiUUmqGlTgN3-noQalXHLjf1mKccCs_UGjHBwrQhGM3WQILBbDKS9pmZoIXvjl00ArEmIQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210329/335e4b016092666e426f5e00746f843900e9daa287efb3b6b937bfc358e_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "杭州时代银通",
       "bossSource": 0,
       "certificated": true,
@@ -66,18 +66,18 @@
       "industryName": "计算机软件",
       "introduce": "杭州时代银通软件股份有限公司成立于2002年，注册资本4400万元，员工规模800余人。总部位于杭州，在北京、上海、深圳、西安、合肥分别设立了分公司。20年来专注于金融市场业务软件产品的研发和服务，产品覆盖金融市场业务的产品管理、交易管理、风险管理、账务处理以及相关生态服务，是国内领先的金融市场业务领域整体解决方案提供商。发展至今在行业及社会取得广泛认同，荣获浙江省高新技术企业、浙江省软件企业，国内十大金融科技企业等。至今与70多家金融机构建立了长期稳定的合作关系。\n    公司坚持以客户为中心，以客户需求为导向，以技术求生存，以服务求信誉，以信誉求发展，谋求企业长久、稳定和健康发展的发展理念，通过核心竞争力——拥有众多优秀的既精通金融业务又长期从事软件开发及运行的管理人员、软件人员、市场人员和技术工程师队伍；与金融机构建立了良好的沟通渠道和合作关系；以将机构业务转化为电脑需求并实现电子化的丰富经验与技术重组业务的能力，真正使用户得到以计算机技术为依托的金融新产品。时代银通将以专业的技术队伍、专业的管理、专业的品质服务不断推动产品创新、服务创新和管理创新，以技术、品牌和广泛的客户基础为纽带，与国内外知名企业进行战略合作，以公司发展的规模化、产业化为己任，实现并最终发展成为国内有竞争力和影响力的金融资金软件服务企业。",
       "labels": [
-        "生日会",
-        "团建多多",
-        "零食下午茶",
-        "节日福利",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
+        "五险一金",
         "定期体检",
-        "五险一金"
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "生日会",
+        "团建多多"
       ],
-      "activeTime": 1720685328348,
+      "activeTime": 1721621296292,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州时代银通",
@@ -86,7 +86,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": false,
+      "canSendResume": true,
       "canSendPhone": false,
       "canSendWechat": false
     },

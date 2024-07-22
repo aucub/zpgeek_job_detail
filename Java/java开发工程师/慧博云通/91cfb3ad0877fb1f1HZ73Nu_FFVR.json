@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "C9S7PKawNzvLL-y1Kyu138tj5Xgc71EQ7bb6bRFc-iugp7aEOKNgF0eb9rnMrmHMMmgj-ukRv60L_pRkzYXG7KYzRuog7hRpjlCQsAKEiNgvdhPxSLpdPx0f0YwJRRHcIEn45iCtV9gVgAQm3xs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "91cfb3ad0877fb1f1HZ73Nu_FFVR",
+      "encryptUserId": "3f07ac5b191f5d621HF60tq5EFQ~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责需求调研、系统设计、需求分析工作，撰写相关技术文档和开发文档，保证文档的完整和规范并及时归档。\n2.根据开发进度和任务分配，按时完成相应模块软件的设计、开发、编程，单元测试等工作。\n3.负责公司现有产品的升级维护和新产品的研发工作。\n4.参与部门开发框架的设计及开发。\n岗位要求：\n1.计算机相关专业，本科及以上，1年及以上Java开发工作经验；\n2.良好的代码习惯，要求结构清晰、命名规范、逻辑性强、代码冗余率低。3.扎实的java编程基础，了解Java EE，对各种开源的框架如Spring、SpringMVC、SpringBoot、MyBatis等有了解；\n4. 掌握 vue 及 HTML ，有实际的 vue 项目经验;\n5.了解Redis、、RabbitMQ、ActiveMQ、 Dubbo中的3项以上的技术，并有实战经验；\n6.了解并使用 MySql、 （Redis、mongodb、livedb）等数据库技术及主流Key-Value存储系统；",
+      "encryptAddressId": "77821307db943b6d1nd92du_FVNR",
+      "address": "上海浦东新区上海招商局大厦陆家嘴东路161号",
+      "longitude": 121.509045,
+      "latitude": 31.237552,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/062e6a1af2084a5795ad57104e017dbc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cba789f05bffde815ea28337a91a4d87",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220420/607f1f3d68754fd0181cc356a3d27d758229d9b88800a1cfe2268eee759427e9d3802df4964_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "慧博云通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79c5fb1547ee2c221HZz098~",
+      "brandName": "慧博云通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/5784ed339ab147577f364fb39dedb384cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "慧博云通科技股份有限公司（股票简称：慧博云通 代码：301316）成立于2009年，是一家专注于软件信息技术服务的国家高新技术企业。总部位于杭州，业务遍布全球，为IT、通信、互联网、金融、汽车等多个行业领域的客户提供专业技术服务。慧博云通矢志成为一家国际化、专业化、创新型的软件技术服务企业，持续为客户创造价值。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721625677271,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "慧博云通",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
