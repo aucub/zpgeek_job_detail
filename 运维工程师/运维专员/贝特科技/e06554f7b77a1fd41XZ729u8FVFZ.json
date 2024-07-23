@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "d81hqSPBPnp1l-O1fuI3usl0l49X6CilAw4hbsDRnZ6e-mNjq-dVoYjv002YVQ6dYj3QPlVdQkSP7pkPggoJXhUSCwgnHeh8gnG901NNlvAj7OJ07hYg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e06554f7b77a1fd41XZ729u8FVFZ",
+      "encryptUserId": "690d60044b495a3c1nR93dS0ElFR",
+      "invalidStatus": false,
+      "jobName": "运维专员",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "一、管控平台日常功能的巡检，应用程序的服务运行和数据库管理和维护。\n1、熟悉Linux操作系统使用和管理；\n2、熟悉Oracle等数据库的使用和管理，PL/SQL使用；\n3、熟悉Nginx、LVS负载均衡器管理；\n4、熟悉运用Tomcat应用程序部署；\n5、熟悉Java、Struts2编程等；\n6、熟悉Hadoop维护等。\n二、管控平台和集指平台的点位信息备案。\n1、管控平台下联对接工程商新建路口设备接入备案；\n2、上联推送至集指平台的点位备案；\n3、与集指平台的对应关系表配置维护。\n三、数据边界设备维护。\n1、边界功能的维护，http、ftp通道的配置；",
+      "encryptAddressId": "903bd04905df5a1e0ndy3ti7FFE~",
+      "address": "北京大兴区大兴公安分局交通支队清源路9号",
+      "longitude": 116.34173,
+      "latitude": 39.743251,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ba9d435764a01657b3bbbb7ecbeb872",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0cfca10b9aebb9f250c7d1af8c81f462",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "负载均衡技术",
+        "服务器配置",
+        "网络协议",
+        "Nginx",
+        "Tomcat"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200518/49796a432eaaf45b213b2b24ea35251f662d697ecaeacd5be5c27ece83c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "贝特科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "11b469d4f8c3bef91nd_3dy-EVI~",
+      "brandName": "贝特科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1719981002000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贝特科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

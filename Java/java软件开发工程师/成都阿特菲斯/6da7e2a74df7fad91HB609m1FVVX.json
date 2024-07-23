@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GiJl9FiyR2VST-b1oefT-xv8eY5SuQA5BKTYTEgB9uyX42cIQwoXNKgoEzU1gpACLa-lbaNUgTUmQncOLCJw3Wwg5ylHJlqHYlurv4as3SMjVDpbPmct",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6da7e2a74df7fad91HB609m1FVVX",
+      "encryptUserId": "fb68b7b35b6a47011XR60tm5EFpQ",
+      "invalidStatus": false,
+      "jobName": "java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与系统数据库设计；\n2、负责完成系统功能代码的开发；\n3、系统功能测试、部署和集成；\n4、负责新技术探索、解决开发过程中的技术问题；\n任职资格：\n1、计算机相关专业本科及以上学历，至少二年以上项目开发经验； \n2、熟练使用各种开发编程工具：git、maven、IDEA、Eclispse编程工具；\n3、熟悉Java语言底层开发，对JDK底层设计原理有一定的了解；熟练掌握TCP Socket协议开发、Websocket协议，Restfull标准规范接口开发技术；\n4、熟练使用SpringBoot/SpringCloud/Mybaits-Plus/JWT/GateWay/OAuth2等常用框架，了解实现原理者优先。\n5、熟悉关系型数据库的应用，有以下Oracle、MySql、PostgreSQL等数据库的软件应用开发之一；\n6、对Nosql数据库的原理有一定的理解，项目中曾经从事过Redis、ElasticSearch数据库的开发经验；\n7、项目中有使用过RabbitMQ消息队列或Kafka中间件等；\n8、 有带队伍经验优先、需要与客户、产品经理沟通，有一定文档基础。",
+      "encryptAddressId": "e93dd11c5c0ff6291nV_3t2_GFFT",
+      "address": "成都武侯区理想中心904",
+      "longitude": 104.062968,
+      "latitude": 30.595098,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d4c2c265f273b8cf5d94fe9ceda0902",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aeabf6ac1faea392fb511b4c0a9173d1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郝女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "成都阿特菲斯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "93cf42125bcdc5021nB42d21GFA~",
+      "brandName": "成都阿特菲斯",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "电脑补助",
+        "通讯补助"
+      ],
+      "activeTime": 1721713454879,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都阿特菲斯",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

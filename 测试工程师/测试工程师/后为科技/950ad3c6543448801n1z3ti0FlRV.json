@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "IwNp3haqcmhMB-P1CjaAzr-qBpYjb6Rx9TWs2KFqfhicunOOVUeWJDveB1DtZ4gvpicq2Byoq-4JeRxJuDeL3P_OKTNHvPp5S5YeogEJZymjxvw~",
+    "securityId": "0WPisY_vG9faE-l1wEGIkjgdRj51eHOZYwzRx0FYkHX9dHPulbuWcozpgv06wBOg8JNIb9llMsw5wUKaD72QYKgQFEG24VJM90J6R4Z9gvdcW-g1rXD7XWYP68HJK1myz-HuFTdy3m7NGErav3Y~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -55,10 +55,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240219/607f1f3d68754fd057bf6bdc8dec1103c5ce5bea30a28dd94a049645a6259d57ee508c723fb2fa4_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "后为科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "9912a73ef3fe426b03J70ti1FA~~",
@@ -84,7 +86,7 @@
         "五险一金",
         "商业重疾险"
       ],
-      "activeTime": 1718104159110,
+      "activeTime": 1721721999248,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "后为科技",

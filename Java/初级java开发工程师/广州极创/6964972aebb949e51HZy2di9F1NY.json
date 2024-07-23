@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "6DzO60bfrX5zD-N1QeRPd-2iH5O4K7ngoTQy-YRnpqZ5XLGrw6VxKIeVdLbRkxcLQCk0DDPoG295G6u7r--9g_jcX86JAbTJt_M7jRdmdlk-6tU2YR5cYeX3Wy5V1CFaQ4LQtG-Wcg~~",
+    "securityId": "DR0JHsDcaeFqn-01KRKNSwT9dHtKXQJIXKLCsd0kAabyHgh_kDNVznR5yB0aBwYWwQ5dSfPT9QlgW-2OauLHLwxcB8qBX7iMS2vITiu-Ym5_cnQvgRY3OHgK4sHQAwI9LYPOwomVb7DeShkxrnEf",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -40,7 +40,7 @@
         "MySQL"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "黄先生",
@@ -48,12 +48,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "广州极创",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": null
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "b283c3ce83119b9033Jy390~",
@@ -76,7 +76,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1721189918613,
+      "activeTime": 1721722875287,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "广州极创",

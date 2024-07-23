@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZbMHtwYvdZbyV-o1m--z2A7ws3-FGe897uFeZPd-5IG4luwdbjYJRB4xgNXE_ufgh25vZze05JDPab2XaeW2oGgHTz8nYmjzxXS698BajwkbO_rb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "69e2339340c3ea503ndy0tu8FFU~",
+      "encryptUserId": "0135e2a22609189e03N42N27F1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、根据公司流程，完成对公司网站项目的开发和文档编写工作；\r\n2、搭建项目开发环境，与团队协作完成项目代码的编写；\r\n3、协助完成项目的测试、系统交付工作，对项目实施提供支持；\r\n4、参与方案讨论和技术调研、负责方案升级、更新。\r\n\r\n任职条件：（学信网可查）\r\n（1）1年以上基于JAVA平台的互联网开发经验，有过linux使用经验；\r\n（2）熟悉常用的J2EE开发框架（Spring、mybatis、SpringMVC、Hibernate、Freemarker等），应用服务器Tomcat/JBoss/Resin；\r\n（3）熟悉设计模式，具有一定的分析设计能力；\r\n（4）熟练使用SVN、Git、maven；\r\n（5）了解网络编程、多线程、图形界面编程、了解xml，http，TCP/IP，SOCKET等协议；\r\n（6）熟悉JQuery、Ajax、JS，精通DIV+CSS优先；\r\n（7）吃苦耐劳，具备较强的沟通和协作能力，具有较强的自学能力；\r\n（8）热衷于网站开发，有开源项目者优先；有一定的代码洁癖者优先；",
+      "encryptAddressId": "75641377ea4d21e41XJ92Nm8EVU~",
+      "address": "北京海淀区金隅嘉华大厦A座501",
+      "longitude": 116.307951,
+      "latitude": 40.036804,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37ab50ff9b8c7c04077a54923bfebda0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/42f5c6553852cdbc8050fa8b6ad66ce0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "JS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "超天才",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "550fa03833dc06bf0XB82tW8EQ~~",
+      "brandName": "超天才",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240408/7bf6f160950405e9b74bcc2fc8af6adb922a1272cfb3fd86eac13c25dc01daddc3037ee85bdbaffb.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "超天才技术开发(北京)有限责任公司是由顾雏军先生创立",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1721715755981,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "超天才",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

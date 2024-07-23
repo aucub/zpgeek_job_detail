@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "twCxntJscv7Gm-u179WqBPw4Ub6FONMnLDHWIxV4JptETIOYk7ibrwI0qNHUFZnGl4-n--eMMfEQ405FDj1y7XOb8CvkqXey21f9A52DllQCPklN4g~~",
+    "securityId": "rMhDvTRHCtMtT-T1JL_N3hV6NN6gkMqonzyq0XvXFV6sxxEpw9Hdg3IPncXaYtbjGPi2cZcJDmlLjVH85zdnVL2u456rhS4J7VX8awHb8VSlcGEGjw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -43,11 +43,13 @@
       "title": "人事经理",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=522a708672a57657jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5cnHh05IwrvY1oSVPom-ZnMOnzf5FVs--4Xm14MVdTqCEI-_r0EHcaFLXgXk49x9pFHgrryf5e9V1NBIHmhHZ4UXpC8k-eI8jtwA~~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "中电指数",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "49706e183905a0961H1z3d27EQ~~",
@@ -65,7 +67,7 @@
         "年终奖",
         "股票期权"
       ],
-      "activeTime": 1718098914214,
+      "activeTime": 1720238567000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中电指数",

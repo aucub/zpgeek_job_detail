@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lw2DDcfQyWOga-61CAEoF190nhWL4oMUdmWP382o5TvjrY3tc-U5fY1phcZaQiIRjM940q1JUZuC1CDF8FpCkWZa5SU0aGZ1Gap2SOrWwUQcI6Z9Kg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "de628d123001590e1HF62N-_FlZX",
+      "encryptUserId": "928ee58a6fb4913f1HRz09-1FlE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.参与项目系统设计，完成软件项目的程序开发工作\n2.负责产品需求分析、设计和文档编写\n3.根据产品需求和设计进行软件开发\n4.根据市场需求提供售前支持\n5.完成直接领导交办的其他工作任务。\n\n任职资格要求：\n1、大学本科及以上学历，计算机等相关专业，2年以上相关工作经验。\n2、能够独立承担后端模块级别的开发任务，对软件工程理论有一定了解；\n3、熟练Linux操作系统，有达梦等国产数据库开发经验者优先;\n4、熟悉Springcloud/Springboot/Mybatis等微服务常用框架，熟悉RESTFULL接口开发；\n5、熟练掌握SQL语法，熟练使用关系型数据库，掌握Redis/MongoDB等Nosql数据库； \n6、对数据库架构、数据库主从复制、数据传输等领域有经验者优先。",
+      "encryptAddressId": "54172faeb5a7cda71Xd929S_GA~~",
+      "address": "深圳福田区长富金茂大厦2号楼901",
+      "longitude": 114.056751,
+      "latitude": 22.506122,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b53477d1b377cc2c18eef516b017a810",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13c1dbef7c67f9c80688893197da10ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "HRD",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190724/aae6b2d6928ed8d2f3cdd0b986f10e66cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "深交投",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f826f47d77e393101n142d2_Fg~~",
+      "brandName": "深交投",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190530/56b00e0e3ca887b9cf614214940f35d44de946018b9e4b263c8b15ea88d259fe_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深交投（SZTIT）成立于2013年，是一家专业提供信息系统咨询、规划、设计、软件开发、系统集成以及运营维护等服务的高科技企业。\n    公司致力于智能交通与智慧城市两个业务领域，经过多年的自主创新和积累，全力打造具有自主知识产权的“1+3”产品体系；1个大数据平台、3个应用平台：信息服务平台、企业服务平台和运行监测平台，为公众(To C)、企业(To B)以及城市管理者（To G）提供服务。 \n    借助我们的核心技术、优质服务、持续的行业关注、不断创新的精神以及广泛的合作伙伴资源，打造成为智能交通和智慧城市国内领先的软件与集成企业；通过持续的技术创新为客户提供最优服务，为“数字中国”贡献力量。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721722701174,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深交投",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
