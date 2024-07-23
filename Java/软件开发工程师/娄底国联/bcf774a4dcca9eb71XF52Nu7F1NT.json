@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EsQNmNjJVMxwG-F1X6lZ9x1AfUFCVRZ2FtIdFNEArYfF935vPokcaaoyZmL0fR9D773-fGdyAFWNT3VXW44EF2ETYLNimdbyt7KxyMq4i6-8PdBg9iQ4X8J2Z9oySe-vIaUB7U1UucCEvHU9CpGCa2xtNRvqRU_JJ8sB6eQOcvHR5PWNXg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bcf774a4dcca9eb71XF52Nu7F1NT",
+      "encryptUserId": "29a5565add5f763b0nZ83t60F1ZY",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250800,
+      "locationName": "娄底",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "前端实习岗：\n限本人在娄底，需马上入职\n1、计算机相关专业，大专及以上学历，良好的沟通协作能力。\n2、 了解springboot 、springmvc、vue、 jquery等框架；\n3、 了解Java、html、css、javascript、mysql语言开发和数据库开发技术；\n4、 有较强的学习能力、良好的沟通表达能力，具备团队协作精神；\n5、有网站与政府项目经验的优先。\n\n\n后端实习岗：\n岗位职责：\n限本人在娄底，需马上入职。\n根据业务需求完成基于java的业务开发;\n1. 负责公司平台拓展后端功能的设计及开发；\n2. 协调配合产品，测试和其他开发人员完成工作任务。\n任职要求：\n1.有较好的数据结构及算法基础；\n2.了解redis/mongo/mysql数据库开发\n4.逻辑思维能力强、学习能力强、较好的积极主动、富有团队合作精神。\n5.有良好的编码风格及编程习惯，对开发有浓厚的兴趣；\n6、有较强的学习能力、良好的沟通表达能力，具备团队协作精神；\n7、有网站与政府项目经验的优先。",
+      "encryptAddressId": "692a004ea4a71f5d0Hd40tq1FVQ~",
+      "address": "娄底娄星区建设鑫苑四楼",
+      "longitude": 112.010778,
+      "latitude": 27.703767,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b33f580650c482d23ac718c642af88ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9bd95df1f2560253940f0055cfed9486",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "娄底国联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a62639e09829e18b1nd639m4GFY~",
+      "brandName": "娄底国联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230206/7b5b554d84f9729c75de9933b4922397581afbb9211ab13ecdfc51f0ba2b9cb7c4ea4dbe89585bb1.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "娄底市国联信息服务有限公司成立于2008年，公司拥有完善的网站建设机制，在长沙设立了专门的网站设计事业部，汇集网站策划、页面视觉设计、网站维护精英人才，面向企事业单位提供网站定位策划、网站设计制作、网站域名注册、网络虚拟主机及网站运营推广的一体化服务。目前已成功为娄底数十家政府、企事业单位提供了网站建设服务。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "全勤奖",
+        "夜班补助",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险"
+      ],
+      "activeTime": 1721701946580,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "娄底国联",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

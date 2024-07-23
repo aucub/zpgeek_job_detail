@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SJJJ7lyKs03a6-41ofwuGOaf6m4riEdHYsBAF84LscgFcu2h_Avx9qvzx9APs17nfxfp6xBZZkP1BYyYLnRWahxm3bSVpIxyT-Joh1_29DWsIUp6jIc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dcf8e67c293dea3f1nJ70ti6E1VR",
+      "encryptUserId": "dae36f9754ba25371nV43NS1EFJU",
+      "invalidStatus": false,
+      "jobName": "PHP开发工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "职责要求：\n1、根据产品需求，能独立完成项目开发及迭代；\n2、按照规范完成编码及文档编写；\n3、配合运维，将项目按时进行发布上线；\n4、完成领导交代的其他事项。\n\n岗位要求：\n1、本科及以上学历应届毕业生，有1年以上PHP开发经验，扎实的PHP基础；\n2、熟悉MVC开发模式，常用框架（如：ThinkPHP、YII、CI等），常用设计模式；\n3、熟练使用redis, memcache, 消息中间件等第三方开源产品，并了解其原理；\n4、有大数据储存优化及高并发经验优先;\n5、良好的沟通和团队合作精神，有责任心。\n\n加分项：\n1、良好的沟通能力、团队协作能力、对工作有热情，能够承受一定的工作压力；\n2、精通Java;python可视化报表，etl kettle优先；\n3、具有PHP缓存技术、静态化设计方面的经验；\n4、具有良好的沟通能力，强烈的进取心、求知欲及团队合作精神，具有项目管理经验者优先。\n5、熟悉 JavaScript、CSS、HTML 等前端技术，了解主流 JavaScript 框架（Vue，React）；",
+      "encryptAddressId": "238d7af209055ecf3nR42tW8EFI~",
+      "address": "北京朝阳区东方梅地亚中心A座2003A",
+      "longitude": 116.473286,
+      "latitude": 39.913197,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eff1038cd1dfc66b7b6fbf9bc2bbc562",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9b144e64d89bc2a2b13ea1467087fb3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "MySQL",
+        "ThinkPHP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "华方基业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dfd217c030e840581Hx939u9Ew~~",
+      "brandName": "华方基业",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201201/d3baccf76d99eabe1d2e0aeeeaa595fa1b4803b883578a8026ec3c6b9196385b.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "关于华方基业\n\n北京华方基业科技有限公司是国内领先的经营数据可视化决策产品提供商。为企业提供从预算到执行、阿米巴经营的产品和咨询服务。多年致力于帮助企业在转型升级、精细化管理、快速扩张等商业模式过程中转换经营视角，通过全面预算与阿米巴管理思想，实现全体员工协同、业务流程优化等多种方式方法，运用数据智能分析和展现技术，促使企业实现经营可视化、数字化、智能化，全面提升企业竞争和盈利能力， 是国内企业经营产品和服务的领导厂商。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1721627864334,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华方基业",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

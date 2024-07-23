@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "W0dsWaAcFovHH-z1LS-J-C3SP_V1VtThK03cgwGXco7gVOy3xZ6c9MC_dAKRAI-wVq23wAjcdKzHnXcB8niE1i39rLNH-Qm5RRWw5MhP8I9FELOQldjj2bm2lFb8LRsN5GPHdZ8yPmw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "67e6dc4493a23a4b1nN42du9FVRZ",
+      "encryptUserId": "8323e6764c002d380XJ92N69FVc~",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责平台架构设计。\n2. 负责物联网平台代码开发。\n3. 负责其他公司项目业务代码编写。\n\n任职要求：\n\n1. 2-3 年以上工作经验，本科及以上学历(满足要求的大专学历也可接收)，计算机科学与技术、软件相关专业；\n2. 精通 java、springboot、springcloud、Kafka 等技术；\n3. 熟悉前端技术,能与前端技术人员沟通解决相关问题.\n4. 理解 redis、cassandra 等数据库原理；\n5. 了解mqtt、coap、netty 等通信协议及组件优先。\n6. 有 Iot 产品开发经验优先、熟悉 ThingsBoard、jetlinks等开源物联网平台产品优先。\n7. 了解物联网技术相关细节:如mqtt协议,modbus 、opc等.\n8. 具有较强的逻辑思维能力、沟通能力、抗压能力和执行力，工作认真细致、责任心强，具有良好的学习能力和技术创新能力，具有良好的文档编写能力。",
+      "encryptAddressId": "c0ec2dbc93ec97001ndz3Ny5Fls~",
+      "address": "贵阳观山湖区德福中心A7栋68号",
+      "longitude": 106.648196,
+      "latitude": 26.612015,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff8c3bddb64a1190dc5577e4f8295ad8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96997e9230cb7d31d3fcfbfe0488e613",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Spring",
+        "Netty",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "闫先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240604/607f1f3d68754fd056994d29ef3e528f6355f97051720549bcc36bda5e02032f95e0dc36d9c0f49_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "爱水水务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "20c6c2be67618c2e1HN_39-5Eg~~",
+      "brandName": "爱水水务",
+      "logo": "https://c-res.zhipin.com/jrs/8662d730ee98a4a6a9c2ada46f4b48e0.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101301,
+      "industryName": "政府/公共事业",
+      "introduce": "爱水公司成立于2011年，注册资金2000万元，总部位于贵阳市国家高新区。公司立足于自主研发，拥有智慧水务平台软硬件系列产品、几十项发明专利和软件著作权。爱水核心团队由水务专家和研发工程师队伍组成，目标是为水务行业提供一流的产品和服务，满足行业核心需求。业务涉及市政供水、智慧水务软件、物联网、GIS和云服务等领域。特别在供水漏损控制、泵房运维、一体化水处理设备、GIS服务等方面提供优秀的解决方案",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1719110440341,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱水水务",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

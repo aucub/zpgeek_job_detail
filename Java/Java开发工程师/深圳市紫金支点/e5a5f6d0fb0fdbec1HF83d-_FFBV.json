@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1zKSYdGCr4Ll--11T8f6cRDdq7Ra_L1s_jySA2mZvpSkn6mhBkUUgGGkJqxygNcHlFvYnCx5_LgwBNZ4auuBUsKWVjyZCXIrbZ9XwwxcOMMDqCMvCgw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e5a5f6d0fb0fdbec1HF83d-_FFBV",
+      "encryptUserId": "c132e4c47f30fe8e0H170ty4Elc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制本科及以上学历，计算机相关专业，3年以上java开发经验，基础扎实、逻辑思维清晰；\n2、熟练使用SpringBoot、SpringCloud、MyBatis开源技术框架，有相关项目经验；\n3、熟悉Oracle、MySql等关系型数据库，有较好的数据库设计能力，了解Sql查询优化；\n4、熟悉分布式缓存(Redis)、消息队列(ActiveMQ、RocketMQ)、ElasticSearch等常用开源技术；\n5、掌握Git、Svn等版本控制工具使用，具有良好的代码风格和编码习惯；\n6、具备Linux基本运维知识，了解Linux常用命令，熟悉Tomcat等常用中间件，了解Docker；\n7、了解前端相关技术优先",
+      "encryptAddressId": "3f3a02a741e93a421nRy3tm_FFBVxIW7WP2W",
+      "address": "南京江宁区紫金研创中心紫金研创中心",
+      "longitude": 118.814378,
+      "latitude": 31.94779,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b698252a32d7a0a3d4123c3be14fc7a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7865b3e913d8020a11182feeecaa4460",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191020/34755f428241f582285ada113ececcdd2dd0fa6312deb087356cc8c061c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "深圳市紫金支点",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c6fac0d8a2ee1d6d1XN62di0FlQ~",
+      "brandName": "深圳市紫金支点",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721640296954,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市紫金支点",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

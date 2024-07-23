@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "I3K35UfzPnRgV-n1MEtrJtogLtk_UCVcvLMvr9s2PnlllegHT7LddNTsyS-ZWdy3q4i1DLRo2MeyXEiRANXHRQMBYh3HEY2_SVkUDgBPO1uvzADi",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "232327e5289a2e091HB73NS8GFY~",
+      "encryptUserId": "f15d59938e4b7e801XN829m1GFQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1.本科以上学历，计算机或相关专业毕业，3年以上项目开发经验；\n2.熟悉JAVA编程，有良好的代码编写习惯，熟悉多线程编程。\n3. 掌握JAVA相关编程框架，包括Spring/Spring MVC/Spring boot/SpringCloud/Mybatis等。\n4. 熟练运用SQL语句，熟悉Mysql等关系型数据库，熟悉Redis。\n5. 熟练运用GIT,Maven,Gradle等项目管理工具，熟悉Junit等单元测试框架。\n6.熟悉Linux常用命令，熟悉Nginx，Apache Tomcat等应用服务器的部署和配置。\n7. 需具备微服务开发经验。\n8. 具有良好的编程和质量保证习惯，掌握代码重构的技能，熟悉常见的软件开发流程，能与上下游环节高效协作。\n9.具备良好的沟通能力。\n10.懂小程序开发优先录取",
+      "encryptAddressId": "96a7ca93cc0b00063nB60tm7EA~~",
+      "address": "成都武侯区菁蓉国际广场4a-10",
+      "longitude": 104.062619,
+      "latitude": 30.539169,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/feab2e379dd0c77fb206b7a630d4cd3c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fc8df51ef304603e1c8b1b4e5f33547",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Java",
+        "Javascript",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "PM",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170518/1e1c61c28e913d21ed72a66fdefbc7ca8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "英泰立科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e80c051d6343e48b1XN639y_GA~~",
+      "brandName": "英泰立科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200410/12c0affb73e7f31a61e7bb3964dd018b0cbc0708edc1edc4250f06e2df38145b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司是外资背景的智能家居物联网企业。2016年就开始深耕新加坡地产物联网项目，目前服务于新加坡和亚太地区的知名房企与多家中国知名家具品牌。项目直接受新加坡总部领导，作为研发部门，享有充分的产品参与度，技术氛围浓厚，提供丰富的发展前景和空间。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "带薪年假",
+        "全勤奖"
+      ],
+      "activeTime": 1721658339876,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英泰立科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
