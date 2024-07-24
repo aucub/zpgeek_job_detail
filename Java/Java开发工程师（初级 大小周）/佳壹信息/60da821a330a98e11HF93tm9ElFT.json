@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bk38Cx3OlsyHH-H1p-HtkVYo1p3FMrca9IwiI8bheJinREByAYTkTXGuC5vQS1QnvXSU4IjFBTJ2WlEUYfZi-zSoWf9YMvAVhS3fYR7kbhsD6L0nQDp0esrSsi6zVEdun5OoIIDDroMPjc1nDVW00Dc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "60da821a330a98e11HF93tm9ElFT",
+      "encryptUserId": "3ac17ea8b38c07f30nB52t25GVc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师（初级 大小周）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司相关产品或项目的开发内容，保证系统易用性、扩展性、安全性\n2、根据要求维护现有项目，对现有项目的功能迭代、bug修正等\n3、根据项目具体要求，承担开发任务，按计划完成任务目标\n4、负责编制与项目相关的技术文档\n5、协助团队攻克系统解耦，核心模块的调优等技术难关\n6、协助测试人员完成软件系统及模块的测试\n7、协助现场人员完成部署实施等相关工作\n任职资格：\n1、本科及以上学历，计算机相关专业毕业，1年以上工作经验\n2、熟悉主流Web应用相关的框架，熟练使用Spring Boot、Spring Cloud、Dubbo、Mybatis等框架\n3、熟悉使用Vue、Ant Design、Element UI等前端框架，\n4、熟悉使用Redis、MongoDB、Nginx等中间件\n5、熟悉Oracle、Mysql数据库应用开发、配置、维护及性能优化\n6、熟悉Linux环境，熟悉常用Linux命令，能进行规范的系统运维工作\n7、熟练使用git或svn等版本管理工具\n8、对代码质量，性能调优有经验\n9、良好的解决问题和逻辑分析能力，思路清晰，有主见，思维敏捷，具有快速学习的能力\n10、性格开朗热情，有责任心、进取心，具有良好的客户服务意识及团队协作精神，有一定抗压能力，接受出差调派",
+      "encryptAddressId": "6a2319e3f60a6fec33F609W7EFdYyoW9Wfs~",
+      "address": "深圳福田区福田市民中心1",
+      "longitude": 114.101784,
+      "latitude": 22.563709,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1e23e92790bc63b06401db48013bd6b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9957612060105ee7476bf6eaee7753c2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210906/607f1f3d68754fd000274e76d1b15f66ab7cdc5fe8a8d52dd3051c864c3b26695e56007df35_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "佳壹信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3277707a3f1286621XNz09q5E1Q~",
+      "brandName": "佳壹信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721794177244,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳壹信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

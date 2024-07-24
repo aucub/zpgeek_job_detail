@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "W88XND6fwaxcn-c1NG90KNIHg34X1QvPGkEHlQNqQBWXgc40nrny4oizyf0dpok_ddvrmomcezFGUU67gYXNBP9bM6DZDzIWZjnyy784MRSYNXazK9SLTIo6Ue2LPuTO9WOEFJRqLWPXylpXR0VyJVsxPxsUnS6EKqryvkuIjs1tkQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b54fc68474887a631HJz3dq_EldU",
+      "encryptUserId": "cc24bccc836ba67c1nZ939S_FlY~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n（1）熟悉JAVA语言和JAVA项目开发过程，有过真实线上项目经验，熟悉spring、mybatis等常用开发框架，熟悉mysql、mssql、oracle等数据库，并具备与其他开发人员协作进行功能模块的开发；\n (2)对springcloud有一定了解，能够用springcloud开发接口功能；\n（3）具备反编译代码和阅读反编译代码能力；\n（4）掌握HTML、XML、JavaScript、Java等语言并具有熟练的代码开发经验。\n任职要求：\n（1）计算机或相关专业，本科及其以上学历；\n（2）1年以上web项目开发工作经验；\n（3）具备良好的表达和沟通能力；\n（4）具备极强的团队合作精神，对工作有热情，能够在一定压力下工作。",
+      "encryptAddressId": "39a7aa370bc2450d1nx-0ti9FVY~",
+      "address": "北京东城区银河SOHOB座(东门)812",
+      "longitude": 116.432785,
+      "latitude": 39.921122,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b40de4e33cbf39a4af222f3b8c9bb39f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8c4bf768d3ba49cf9693421bbca0f7d6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "高级人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "新锐在线",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ef4a387ab23c131903153dS1",
+      "brandName": "新锐在线",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191025/ea0e67f12405db2325234f369b32efe9c76f534b5d3dd5a79d5f893c752f4fc9.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京新锐在线科技有限公司，简称新锐在线(New Strength)，是金融企业互联网解决方案的先行者。\n       新锐在线主要为金融客户包括，银行、保险、证券、基金、资本市场、金融监管机构等，提供互联网建设规划、互联网软件、行业解决方案、平台运营等多项服务。多年来，依托专业和优质的服务，公司在用户体验、智慧化平台搭建、行业组件和新兴解决方案（大数据应用、移动金融、人工智能等）提供方面成绩卓著，得到来自各金融行业多个知名客户的认可。\n       新锐在线拥有高效的管理团队和专业的技术力量。管理团队拥有20年以上的行业经验，团队成员忠诚、勤奋、踏实、进取、专业。公司技术力量雄厚，通过了CMMI3认证，并拥有11项软件产品专利。\n       不忘初心，新锐在线将始终以“让金融生活更美好！”为使命，通过提升平台用户体验，整合大数据分析、人工智能服务，打造智慧渠道，为客户创造价值，为用户金融生活服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利"
+      ],
+      "activeTime": 1721788767517,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新锐在线",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
