@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "C5IiOpXpDXXg8-s1m2LNm77KSJvnw5g5sr4bSUfnDMwIb864xdJNFQMaWbWwa8kpFdeZHP5PzK8AXFhrCjLYOei8YqZ3QtJzxZSEkxVYnHdDLwL4yDprpwA7FBt1w044gLHx-9lNqSo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16899f009bda16091HN42NW5EVRY",
+      "encryptUserId": "4e13eb914dd7a5491Xx80ty4F1M~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\r\n1、负责公司软件项目的开发和维护；\r\n2、遵守公司软件开发流程规范，编写相关文档；\r\n3、参与项目方案讨论、技术选型；\r\n4、独立完成需求沟通、程序编写和自测，搭建生产、测试环境；\r\n5、关注行业动态，不断学习新技术，提升个人及团队的技术实力。\r\n任职要求：\r\n1、统招全日制本科学历及以上，软件工程或相关专业，具备扎实的软件工程基础知识； \r\n2、熟悉至少一种编程语言，有良好的编程习惯和代码风格； \r\n3、熟悉关系型数据库，熟悉基本的数据结构；\r\n4、具有较强的逻辑思维能力，深刻理解面向对象的程序设计思想，具备优秀的面向对象分析、设计能力。\r\n5、具备良好的问题解决能力、逻辑思维能力和学习能力；\r\n6、有良好的团队合作精神和沟通能力，能够承受一定的工作压力\r\n7、对图形引擎（openGL/three.js等），BIM、CAD二次开发感兴趣；\r\n8、熟悉linux系统及命令者优先;\r\n9、熟悉git代码管理工具者优先；\r\n10、有docker部署经验优先；",
+      "encryptAddressId": "2e381b5b7618e6681X1_0tS_EVQ~",
+      "address": "北京海淀区北京市勘察设计研究院(羊坊店路)15号院",
+      "longitude": 116.320763,
+      "latitude": 39.901636,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/804f9af7c8498e2b405f1821da4798e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f1872986253e5f45e8723eff706e9c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "C++",
+        "C#",
+        "SpringCloud",
+        "Nginx",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "技术质量部/人力资源部",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170623/4aa0f740caf0c8716428636f0f180bc32ac48141e5986c760705ffe171e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "北勘院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bfddd4b89f97223e0H1-09i9FA~~",
+      "brandName": "北勘院",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100702,
+      "industryName": "工程施工",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721403009356,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北勘院",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
