@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VDA0c14y8bBH1-j16mM30XaceEhGYupDeBg1sJEqKmVVgEVpj9nwWsV6XVgnfsaghasu5Mt7SPkGo-ENZ0njhY5K7vRsK3uRc8H4EfOJItzNpt3kq00R93zHHiOWx-OQj4dDkalBCbOo95FvHFLCRM0VOL7ldLbzbtdsmN0xGxN9EQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "557ab28059764eef1HJ43NW-F1RS",
+      "encryptUserId": "cbaa5b49f46c70c40Xd-0tS1GVU~",
+      "invalidStatus": false,
+      "jobName": "测试工程师（大厂+年终奖+双休）",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位一：R2024060194（6500-7000）\n项目助理懂点测试，有测试以及项目助理经验，有一定测试基础（了解或者测过bug）。或者测试转助理岗位的。\n\n岗位二：R2024060206（6500-6800）\n岗位职责：\n负责终端业务测试、性能测试和系统测试等工作。\n岗位需求：\n1、1年以上测试经验，有移动端（Android/iOS/小程序等）平台测试经验者优先\n2、精通测试理论和测试方法，并能实际应用到项目中去\n3、熟悉http、tcp等协议，并懂得如何使用抓包工具协助测试\n4、有良好沟通能力和问题推进能力，积极主动，有责任心，并能承受较大的工作强度和压力\n5、能熟练运用自动化理论和测试工具，熟悉相关平台（如Windows、Mac、ios、Andrioid等）\n\nR2024070024（8000-8300）\n岗位职责：\n1. 对iOS/Android微信进行功能测试，负责用例编写及执行，尽量快地发现尽量多的Bug\n2. 和开发进行沟通，跟进Bug修复，保障版本质量和发布进度\n3. 归纳并跟进用户反馈的问题，持续提高用户体验\n4. 编写和维护UI自动化测试用例，提高测试效率\n岗位需求：\n1. 计算机类相关专业，专科及以上学历\n2. 三年及以上软件测试经验（从毕业时间开始算），有App测试经验，熟悉常用测试流程，有清晰的测试思路，能熟练编写测试用例\n3. 具备良好的沟通合作能力和学习能力，能快速融入新团队和接手新工作，责任心强\n4. 历史项目的研发团队高于50人或有过大型或复杂项目的测试经验者优先\n5. 至少了解JavaScript、Python、Java、C/C++其中一门语言，有一定的代码编写经验者优先\n\n研发团队：区别于公司规模，仅包含研发的项目经理、产品、前后端开发、测试等全部角色，请推荐官了解相关要求并说明在推荐信息中\n\n岗位三：R2024060067（8000-8200）\n岗位职责：\n负责视频号电商日常需求系统测试、缺陷及用户反馈跟进等，主要包括：\n1、根据业务需求设计测试方案，执行系统测试，保障业务质量；\n2、参与用户反馈跟进、问题复现等工作；\n3、参与业务自动化测试能力建设，编写前端、接口自动化用例；\n岗位需求：\n1、有良好的计算机相关基础、测试基础和测试用例设计能力；\n2、有移动终端测试经验，熟悉相关测试方法；\n3、有较好的用例设计及执行能力；\n4、熟悉B/S 相关产品和测试技术；拥有电商相关测试经验者优先；熟悉 python 等脚本语言者优先；熟悉常见测试工具的使用者优先；\n5、三年以上业务测试经验。\n\nR2024060054（8000-8200）有前端经验的\n岗位职责：\n负责小程序开发者工具日常版本测试、缺陷跟进，包括：\n1) 设计测试方案，测试执行，保障业务功能上线\n2) 开发者工具发布后相关用户反馈、问题跟进\n3) 开发、维护小程序测试demo，维护小程序相关自动化用例\n岗位需求：\n有 3 年以上互联网测试经验\n有良好的计算机相关基础、测试基础和测试用例设计能力\n有移动终端测试经验，熟悉相关测试方法\n有较好的用例执行能力\n有良好的学习能力，有python/javascript等其中一种脚本语言编写经验\n熟悉前端技术优先\n熟悉常见测试工具的使用者优先\n有小程序相关产品测试经验者优先\n\nR2024060035（7000-7600）\n大专学历，有2年以上测试经验、对Android IOS客户端测试有一定了解，有一定客户端测试的经验，有一定自动化测试经验\n岗位职责：\n1、进行业务测试，保障上线版本测试和质量，和团队保持良好的沟通, 跟进好相关问题反馈，保证问题闭环\n2、进行自动化测试的开发和维护\n岗位要求：\n1、熟悉掌握基本的测试理论及方法，有测试经验3年以上。\n2、对Android IOS客户端测试有一定了解，有一定客户端测试的经验\n3、对Web测试有详细的了解，了解客户端自动化相关。\n4、逻辑思维能力强，有较强的主动性和学习能力。\n5、对搜索业务逻辑有一定的理解。\n6、熟悉exel、xmind工具",
+      "encryptAddressId": "af8a8a8a3ba64da00XV92tW4F1JXxI-_U_g~",
+      "address": "广州杨协成时尚工场A座/1层/1楼",
+      "longitude": 113.321763,
+      "latitude": 23.090305,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfb17e81217fe66723c9b28fd9b40ff2cd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf02723b326d898cd0d84a71ec1cb8d16b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "Java",
+        "Python",
+        "自动化测试经验",
+        "iOS/Android测试经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钱女士",
+      "title": "招聘总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210127/02fa6bd4b656bb947aa14a25cf0a6355ae38e2097c6859cdd604bba5f4d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "武汉佰钧成技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+      "brandName": "武汉佰钧成技术",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉佰钧成技术有限责任公司（以下简称“佰钧成”），总部位于中国科教之城武汉，在职员工超过10000人，属华中区最大的技术服务外包供应商，软件服务行业百强企业。自2006年成立以来，佰钧成秉承“创造价值 承诺必达”的服务宗旨，迅速成长为IBM、华为、 VIVO，Google、Microsoft等全球500强企业在信息服务领域的重要合作伙伴。\n      目前，佰钧成在中国大陆设立了26个分支机构或研发中心，并在美国、日本、新加坡和中国香港地区设立了分支机构，正逐步建成服务全球的需求响应机制。经过多年积累，佰钧成拥有了丰富的大型项目管理经验，在高科技、通信、能源、金融、制造等行业形成了独具特色的行业解决方案。\n      为员工创造发展环境，为客户提供卓越服务，为社会竭尽公民责任，佰钧成与您共同成长！",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721970076720,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉佰钧成技术",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

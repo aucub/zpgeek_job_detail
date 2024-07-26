@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mWldCX9avKPGG-W1QX4dBiKUJVziKCY4whZTbf-uLxPkpSoyoix9SbpQnxko5Fdm7FWzDKBNZ3kfh3tkbmvgJTyvy7MROe9O2o6gSXiF0REsZG0RqwN_GjgSM4Eif--ZlpU_YIJfvnrA4dNUL_wnZiGH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c8c2251ea9213d491XFy2tm5ElRS",
+      "encryptUserId": "bc0e717789e194e60nZy29y_FlBV",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "【你需要做的】：\n负责App项目的迭代测试，有社交类型App应用测试经验最佳\n根据项目上的需求文档或测试任务，分析需求、设计测试方案、测试用例、准备测试数据\n跟进线上反馈问题，定位问题，熟练使用抓包工具Fiddler、Charles等等\n对项目上的需求测试和用户体验有一定的独立思考能力，积极主动沟通、推动问题的解决\n能够很好且高效的与产品、前后端、运营沟通需求问题或bug等等\n\n【我们希望你】：\n熟悉软件质量管理体系，熟悉软件测试流程，能够独立负责项目上的测试相关工作内容，包括测试方案设计、用例编写、测试环境搭建等等\n有一定的数据库基础，SQL编写能力\n有一定的抗压能力、对待工作态度细心、有责任心\n熟练接口测试、性能测试，熟练使用工具postman、Jmeter、Loadrunner等等\n有较好的逻辑分析、判断能力和沟通能力\n具有一定的把控测试进度，把控发布上线风险能力",
+      "encryptAddressId": "1f89199264e8064d03B43t27Flc~",
+      "address": "成都武侯区天府软件园D区D7",
+      "longitude": 104.074722,
+      "latitude": 30.539319,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/407591b5bf8010e654130aca7ffe7e33",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d68124103b195a4ea5796e5ede1919f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "自动化测试",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "好消息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8a0a4ab2a0273b3c1n1y29W1FVI~",
+      "brandName": "好消息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "好消息团队由来自北航、北师大、川大等具有十余年在线教育经验的合伙人创立，核心技术团队由原腾讯成都研究院，微信研究院核心骨干组成。立志于用最新的互联网+大数据技术、人工智能技术，为客户提供优质的研发服务。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721900634986,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "好消息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

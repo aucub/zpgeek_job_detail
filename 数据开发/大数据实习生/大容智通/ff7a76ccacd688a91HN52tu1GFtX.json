@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "R4LhOEhnARyDF-k1hAIuuXupmh4ukO3IiZjmBa9qKLiV9wP6Lt61i3SxHLUhB4MqzyD8InIjdSb1stPfIx_jD3BI-PdVaNX4FBAVdgxS2VJsBuE4FcGJTJn411E4WY4ztgEWVTEZY8jt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ff7a76ccacd688a91HN52tu1GFtX",
+      "encryptUserId": "4be212272c0e56d70nx43t20F1FU",
+      "invalidStatus": false,
+      "jobName": "大数据实习生",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "位职责：\n参与大数据平台的建设与维护，包括Hadoop、Spark等相关组件的安装、配置、优化和管理。\n协助团队进行大数据处理和分析工作，使用Spark和Hudi进行数据存储、处理和管理。\n参与数据采集、清洗、转换和加载（ETL）流程，确保数据质量和一致性。\n使用Apache Hudi进行数据增量处理和数据湖管理，优化数据存储和查询性能。\n进行数据分析和挖掘，协助团队提取有价值的商业洞察。\n协助开发和维护大数据监控系统，确保平台的稳定运行。\n参与团队的技术讨论和分享，协助提升团队整体技术水平。\n岗位要求：\n本科或以上学历，计算机科学、软件工程、数据科学或相关专业在读。\n熟悉Hadoop生态系统，了解HDFS、YARN等基本原理。\n掌握至少一种编程语言，如Java、Python、Scala等，能够进行基本的编程和数据处理。\n了解常用的大数据处理工具，特别是Spark。\n对数据结构和算法有基本的理解，具备一定的数据处理和分析能力。\n了解并有使用Apache Hudi的经验，能够处理数据增量和管理数据湖。\n具有较强的学习能力和动手能力，善于解决问题。\n具备良好的沟通能力和团队合作精神，能够在指导下完成任务。\n有相关实习或项目经验者优先考虑。",
+      "encryptAddressId": "c936563d5a1b8cab1nZy09u6FVpU",
+      "address": "北京丰台区平安幸福中心A座5层",
+      "longitude": 116.322087,
+      "latitude": 39.866701,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfeabe276e325aa02e342090651e133f226bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf35a8e29109736c29ec1076d159618c586bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "项目助理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "大容智通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff65de07f3c3acc41XF629S_Ew~~",
+      "brandName": "大容智通",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230423/7bf6f160950405e99b8149fb5eb7cff5cee7ea677180f4f62e9030d404de8080d49d20d0bf6da69e.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "大容智通成立于2018年，注册资金1000万。总部位于北京。\n专注于证券、银行、互联网金融行业，为金融企业提供大数据平台建设和行业解决方案。\n基于Hadoop技术，为中信证券、银河证券、安信证券、中信建投、申万宏源、外贸信托、信达证券、新华社等企事业单位，成功实施了数据湖和数据仓库解决方案。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1721956691288,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大容智通",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

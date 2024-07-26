@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mPgBec7VjCbBx-716CqzLdkvI7Mb-KeNi6IujQQowX7vBxgfgPKDKJV5uO1dSZDWFFy8uGL3sayFb198xeAl3KhHvbaLnekOv16JXUnPOpCpGZVBY-0yg1WPRSokrwhyIm7hI6NL7cwjrw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a7d50128909663b51HN42960E1pT",
+      "encryptUserId": "33a9e99cda604a111nVy0tq1ElFU",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作地址在南京（江宁开发区总部基地），请确认好地址后沟通\n职位描述:\n1.独立进行需求分析，提前规避问题，拆分测试点，编写测试用例并执行测试用例；\n2.能够制定并把握项目相关部分的工作计划、进度和目标；\n3.对测试中发现的bug进行详细分析和准确定位，提交缺陷并及时跟踪更新缺陷状态，积极配合开发人员定位并推进问题解决；\n4.能够快速熟悉业务、流程、质量风险，能够提出合理建议并推动落地解决，总结测试流程，测试方法等技术文档；\n5.对蓝牙，wifi，多媒体有了解。\n任职资格:\n1.本科毕业，1年左右移动领域软件测试工作经验，IOS测试经验；\n2.熟悉安卓平台，善于发现软件系统的缺陷；\n3.熟悉各类测试方法，能根据产品具体特点，业务特性等，运用适合的测试手段；\n4.熟悉缺陷生命周期和测试工具，如monkey、adb、charles等。\n5.通过英语CET-4，良好的英语听说读写能力；\n6.热爱测试工作，责任心强，积极主动，具有较强的团队意识和良好的沟通能力，抗压性好，可接受出差。",
+      "encryptAddressId": "3e2ce16bd96cba851nR929m0FlRUx4W3WfiW",
+      "address": "北京昌平区泰华龙旗广场D座8层813",
+      "longitude": 116.348698,
+      "latitude": 40.066676,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7e6e9dc8a5c859312fa851d4bed4ad656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf00bd1b9808e6f7b4fc7027aba6ae2aea6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "iOS/Android测试经验",
+        "测试工作经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京无为风云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d530c7801058cd71HZ42dW7F1A~",
+      "brandName": "北京无为风云",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240102/7bf6f160950405e90347ea555adc21ecae664fdf7090cc03810fec031e0c0cd5ca1d47a9acddced7.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京无为风云信息科技有限公司，从事软件研发业务，具有研发Windows/Linux/Android 系统软件的能力，同时在大型Web网站/云计算和云服务领域也有大量技术积累",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721965202362,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京无为风云",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

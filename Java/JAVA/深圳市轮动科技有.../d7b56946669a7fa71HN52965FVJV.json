@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "guTo6SouKUYqQ-01e7yNhiBmxbTyX3fASbcifyyfVoSTG1FN4K_sZYCfxL67rsM1Fl0MGz4coYzmdskmxTm2Nxy8CYyQc-a309eGPRTuNF38yjyiBoAA0LuSGV95-8Oc0INLzbR6cnA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d7b56946669a7fa71HN52965FVJV",
+      "encryptUserId": "6575be4fcb1b637a1nVy2d61FVc~",
+      "invalidStatus": false,
+      "jobName": "JAVA",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、根据业务需求和产品设计规划saas平台架构\n2、 负责公司saas架构、设计、研发编码与管理维护；\n3、 持续优化系统，提高系统的稳定性及性能；\n4、负责系统维护、分析、解决系统可能出现的线上问题、确保系统在线上稳定运行；\n5、良好的沟通能力，有团队合作精神，有积极主动学习和探索精神；\n\n岗位要求：\n1、本科或以上学历，2年以上Java开发经验；\n2、熟练 SpringMVC、springboot、springcloud、Mybatis、maven，dubbo+zk等开源框架；\n3、Java基础扎实，熟悉多线程、高并发、缓存、分布式、JVM、消息队列等机制；\n4、擅长基于微服务、SOA架构的设计模式、对架构模型有深入理解\n5、熟悉redis、MongoDB、主流MQ等，具备分部署应用架构经验\n6、良好的编码风格及测试习惯；\n7、优秀的分析、解决问题能力,对处理未知的、挑战性问题充满激情；\n8、具备较强的学习能力和责任心，良好的沟通能力，团队合作精神;",
+      "encryptAddressId": "3573314e6efd402f1nV62t64FVFW",
+      "address": "深圳南山区深圳市轮动科技有限公司中科大厦506",
+      "longitude": 113.95248,
+      "latitude": 22.53826,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230810/48ba41acc9cef1bfa26830e917b5d976a81602de695f07f46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230810/48ba41acc9cef1bf5b6db6a727cd0280b48a39cf2cf934e86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Java软件开发",
+        "Java工程师",
+        "spring cloud",
+        "SpringMVC",
+        "springboot",
+        "多线程",
+        "并发编程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "贺女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230412/607f1f3d68754fd0283c164c10a45c1cc94fd0f2363fe022c44cfbd6f260f1b6e9a512e5aec_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "深圳市轮动科技有...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5655bc386ba440e60HJ939q6Eg~~",
+      "brandName": "深圳市轮动科技有...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230525/7bf6f160950405e99fbad184d9b0b18dd206066f7c7963d23b58cd32cad9e799dc53171a264eee20.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "轮动科技专注于企业云端业务应用定制服务领域,专注打造企业业务数字化、移动化的信息化管理工具,以为客户业务工作更高效、管理更便捷为服务宗旨,持续帮助客户寻求借助移动信息化工具为员工、为业务、为管理赋能的解决方案。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "免费工装",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721899131222,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市轮动科技有...",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

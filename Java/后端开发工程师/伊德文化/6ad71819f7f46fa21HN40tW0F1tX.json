@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xxL4HoP1c4JUy-81Qh2qSBcBJ2EQZ7I5z3sodsDvjQSHwdKuIqSLPVP3Y7Zz3T7CUhbKpWPBnuvFEgYDz12VrplbS-byOeVV0zHVtoFHswIheb3hqAVD6pk3fzrSGD3iTSSpg4caJH1Ntw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ad71819f7f46fa21HN40tW0F1tX",
+      "encryptUserId": "4c19b69df99c243d1nV80tm-F1RQ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据项目开发需求，负责项目功能模块的设计与代码编写；\n2、有关技术方案、文档的编写，软件的单元测试；\n3、根据项目具体要求，承担开发任务，按计划完成任务目标；\n4、负责软件相关模块的开发质量，保障系统性能及稳定性；\n5、进行软件故障的诊断、定位、分析和调试，独立解决技术问题；\n4、 配合系统分析人员完成需求调研、需求分析；\n5、独立完成项目开发任务的编码；\n6、 协助测试人员完成系统的测试；\n7、配合项目管理人员提供软件的后期技术支持；\n8、完成领导交代的其他工作。\n\n技能要求：\n1、1~3年Java开发经验,熟练掌握Java基础(JUC,I/O等);\n2、熟悉SpringBoot、SpringCloud、Mybatis,对其原理有一定认识；\n3、熟练使用MySQL，Oracle，sqlserver数据库，熟练使用PLSQL客户端软件，熟悉nosql数据库比如redis或mongodb数据库\n4、有良好的团队合作精神和沟通能力，工作踏实细致、责任感强，能快速学习掌握新知识，能独立完成工作任务；",
+      "encryptAddressId": "059ee9be01576e811nR83dq7FFdYwYq6Vvib",
+      "address": "苏州虎丘区广鸿大厦3层/306",
+      "longitude": 120.737502,
+      "latitude": 31.264757,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03140b764441f09c4db8591fdcab70da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3dd2490ca4de7707e05b7a317df15761",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230201/607f1f3d68754fd017b9408f59428f2d3e236ef925cf5944ee2948cf08154935b528bd36f5f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "伊德文化",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5161218bb614dbcd1XV72dS8F1A~",
+      "brandName": "伊德文化",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721728347980,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "伊德文化",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

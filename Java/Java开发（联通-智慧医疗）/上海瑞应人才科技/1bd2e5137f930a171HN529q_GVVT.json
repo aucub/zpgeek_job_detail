@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yaujHyUwJJ42e-k1qhp_t2LDL6kosLCxs6ATViKVtrgyCg49EBwfaCaZZYOe-0b477kZ0t1AK9lMw3karAdWXbZk5WDhwXTpuCAbLxsO86KFKyGU8q-RtN69QA2_fKJwIjxj-91-AaStSVES8dDehFq1YJHMRj4sy4ho1cl9UjNqAS5X",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1bd2e5137f930a171HN529q_GVVT",
+      "encryptUserId": "2f9d6ce5607d0e1c1HFy2N-4EFE~",
+      "invalidStatus": false,
+      "jobName": "Java开发（联通-智慧医疗）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1、参与核心功能的架构设计与代码编写，解决常规数据结构和算法问题，开发与维护系统公用核心模块；\n2、参与相关系统的设计、重构、优化，在技术经理的指导下执行相关开发工作；\n3、参与技术方案设计，在技术经理的指导下撰写详细设计文档等；\n4、完成领导交办的其他任务。\n【岗位要求】\n1、本科学历及以上，计算机相关专业，1年以上JAVA开发工作经验\n2、对后端性能调优、高并发、高可用等问题有深入理解；掌握Java基础技术体系，熟悉SpringBoot，SpringCloud的开发框架，并理解其工作原理，有良好的程序设计和架构能力；\n3、对如常用数据库有深入了解，如Mysql, Oracle等关系性数据库，Influxdb时序数据库，Tidb分布式数据库；\n4、熟悉Linux、windows服务器环境，熟悉Nginx、Tomcat、Nacos、Redis、Kafka、 Minio、Elasticsearch、Kubernetes等主流中间件；\n5、具备良好的沟通能力、服务意识、责任心，医疗行业工作经验优先。",
+      "encryptAddressId": "3f7d3d3b8642cd7e3nx_09y8GVJUyoS3VPg~",
+      "address": "北京东城区中国联通(灯市口社区通信服务中心)数字化部",
+      "longitude": 116.421067,
+      "latitude": 39.908967,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231209/48ba41acc9cef1bf92ee908f551a337d247206c42af4ed556bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231209/48ba41acc9cef1bf33c6f339dab24dc414e577fc3026760c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "Elasticsearch",
+        "MySQL",
+        "Oracle",
+        "Spark",
+        "不接受居家办公",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人力资源招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd02780fa70cb1fa469d7e87d6196fb4809ec98773848390ce1d95257dd5e03fd6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海瑞应人才科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
+      "brandName": "上海瑞应人才科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721966831103,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瑞应人才科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

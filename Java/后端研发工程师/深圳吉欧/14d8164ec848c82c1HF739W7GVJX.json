@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uj9R5LCQ7wr7--Q1w0JHd56fnLGum5JkDf1N5PdUfRi9CVjEHVBzze9aaPFjf8OWAiUW9Qg51UdJYxkWzbpJ9YewweIbkEEu8dE3O4RkOMM-ur-VsAA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "14d8164ec848c82c1HF739W7GVJX",
+      "encryptUserId": "bacd412bb3683fff03183tS9EFI~",
+      "invalidStatus": false,
+      "jobName": "后端研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "摘要：总部在香港，此为南京办公室，工作地点南京，早九晚六，忙的时候要加班，社恐天堂。\n老板在绍兴有人才引进项目，因此在绍兴缴纳社保，不缴纳公~积~金，介意者请勿投递。\n\n岗位职责：\n1、1~3年工作经验，扎实java功底，熟练使用springboot，有spring cloud开发经验者优先。\n2、熟悉tcp/ip，socket等协议，了解多线程、分布式、redis、mqtt消息等组件。 \n3、熟练掌握mybatis-plus、shiro等常用技术，能熟练运用docker。\n4、掌握数据库postgresql、postgis等插件。\n5、具有清晰的逻辑思维能力，较强的学习能力和业务分析能力。 \n6、熟悉gis,地理空间信息开发者优先。\n\n工作内容： \n1、负责公司业务代码开发 \n2、对新技术攻坚",
+      "encryptAddressId": "21274452ead5c3140XR53d--ElQ~",
+      "address": "南京建邺区万达广场东坊1幢929",
+      "longitude": 118.743346,
+      "latitude": 32.032135,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e4a61d05288c651b1ab8eb2272ef21d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1a61ac5e2cb7661f3491e6e27035cfa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "SpringCloud",
+        "Docker",
+        "PostgreSQL",
+        "springboot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "深圳吉欧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2b365f18ec2576741nRy2t25EVs~",
+      "brandName": "深圳吉欧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "深圳市英特吉欧创新科技有限公司, 是香港Geosys公司的全资子公司，是以高新技术研发为基础，以市场为导向，深耕图像处理、视觉技术、信息化系统建设及测绘技术领域的科技型公司。主要从事场景数字化、可视化管理系统、室内3D重构、GIS子系统、BIM子系统集成开发等工作。针对博物馆、企业、产业园区、大型展会、房地产行业、地理测绘、商业机构等目标客户提供全流程基于地理位置的可视化解决方案。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1721912570660,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳吉欧",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pUCvPAcN1i7pW--1AsotMdBz6AEPTWF_hjgBW8kBSI85fq6poapxed-YBg8Jw9V-N5JbIGHD8ATZ8VJRR8GSqAxEnQ3gAFDcJ2F1WDu6N1JMdgpSDJQ9m_cpmE7Sv4UJx0Ve_xKdFIeRajXupmGgGYQ6E3b4gizEiND5QmTjATJqZg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c395d6698dbaa5c51HN4296_F1RU",
+      "encryptUserId": "41d5c4dc6fd35a591HV42N20FFo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责项目中核心模块开发，包括功能设计，代码实现，确保软件的性能和可扩展性，并能够持续优化；\n2.负责解决开发过程中的技术问题；\n3.能够根据开发经验，进行持续的技术积累与架构演进。\n岗位要求：\n1.3年以上实际开发经验，熟悉JAVA及面向对象设计开发，理解IO、多线程、集合等基础框架、对JVM原理有一定的了解；\t\n2.熟练使用Java相关技术和框架，熟练使用Spring、SpringMVC、Spring Boot、JPA、Mybatis-plus、SpringCloud、Dubbo等，熟悉微服务架构；\n3.有性能调优，网关开发经验者优先;\n4.具备数据库设计和优化经验，熟悉关系数据库(mysql、oceanbase、Oracle等)和NoSQL数据库，对SQL优化有丰富的经验；\n5.具有高并发、高负载、高可用性系统设计开发及调优经验；\n6.熟练使用MQTT、WebSocket、Socket、Kafka、Redis等相关技术\n7.具备良好的沟通能力和团队协作精神，思路清晰、执行力强，面对问题独立思考迎难而上。\n8.能接受出差最佳。",
+      "encryptAddressId": "a74fdef25966f5f333N80ty-E1ZWx4q4V_I~",
+      "address": "北京昌平区TBD云集中心3号楼C座10层",
+      "longitude": 116.367252,
+      "latitude": 40.098705,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29478764f3e19f3d1ea3b2aedf62f1dd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38c1103c343df3b1b57f69049a05d256",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "高级招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd0641db8ccff7dced297a1279f3bcdf57b60094d13c7f2d3a3abe3bc5f9bef1af_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "尚博信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3ebdaa0c5d086e981nV_0ty7",
+      "brandName": "尚博信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190218/c1bea54bf2dbf3052d110ab10aba42d49022dd3cb549fb5a9278e5540b62cf08.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京尚博信科技有限公司创立于2008年，总部位于北京，在广州、济南、南京、西安设有分公司，拥有CMMI5级、ISO9001、ISO20000、ISO27001等资质，是北京市科委认定的高新技术企业。经过多年发展，秉承“客户第一、激情敬业、持续创新”的经营理念，尚博信已成为中国领先的数字化运营服务提供商，专注于以科技创新赋能大中型企业智慧化转型发展，公司客户遍布石油、石化、电力、零售、免税、银行、保险、房地产等行业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721967320462,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "尚博信",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0EQn_l31EkJfj-41Wleu23-TUVsNDEWLQKqI6VXL8UOEO1odMZxER7QKUOrFvyRkFNQ4-f6S3S-nzTPJyTdqgoq4lAbrxa3QHIfpgdl8sg-5WnKT3UrpLqXlD0GxkgoNgdaxqqSqMpzkJw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0174cde82e911b301HN73N64EFRS",
+      "encryptUserId": "1f72cdc9ec76326a0n160tu1F1tZ",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司智能仓储物流软件项目（WMS、WCS、AMS、LES等）的需求分析、设计、编码、测试与部署工作。\n2、根据项目需求，进行系统的模块划分、接口设计以及数据库设计。\n3、编写高质量、可维护的代码，确保代码的安全性与性能。\n4、与团队成员紧密协作，解决开发过程中遇到的技术难题。\n5、负责相关文档的编写与维护，包括系统设计文档、接口文档等。\n任职要求：\n1、计算机或相关专业统招大专及以上学历，具备扎实的Java编程基础。\n2、精通Java和面向对象编程，理解JVM和多线程。\n3、熟悉常用的Java开源框架，如spring、springboot、springcloud、dubbo、MyBatis、Redis等。\n4、熟悉数据库开发，数据结构，各种网络通讯协议，网络编程和多线程编程，基于ModbusTCP、Socket、Netty、NIOSocket等通讯协议开发过硬件对接。\n5、了解仓储物流行业基本知识，对智能仓储物流软件产品有浓厚兴趣。\n6、具备良好的团队协作能力、沟通能力和解决问题的能力。\n7、有仓储物流相关软件开发经验者优先，可接受短、中期出差；",
+      "encryptAddressId": "d210e717a4d786090XJ90t65GVtSy467UPI~",
+      "address": "苏州吴中区天翔国际大厦21层/13",
+      "longitude": 120.6689,
+      "latitude": 31.316766,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf109efe3cdb71f8077f00694e0586c7e46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfb36e7201c5eccc4e15cdc9b89e3e91406bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "物联网经验",
+        "WMS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姚女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "接传转智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9d4117f16d9d5f691XB73NW0FVY~",
+      "brandName": "接传转智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230904/7bf6f160950405e91e67c3560fd2e398f83c047863fbad7b78a802ac05bbd3d8bd42d64162c78866.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海接传转智能科技有限公司于2019年在上海注册，并在太仓成立技术中心，公司致力于智能物流整体解决方案的研究。未来，力争打造成为行业的标杆，致力为行业提供高端AGV自动化物流设备及系统。",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "股票期权",
+        "底薪加提成",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1721963522432,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "接传转智能",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c3nBWzmDlvrSZ-21Waqepce28Q358-b7BjJcq6k9sZl_R9DS1n_1DAxj5xhyuR4XSAR0mGGAFPDqDzMRyUbOvRynajdHq7Slz2RCjJSDQL-dBe7Z9q37vuUaUe5HmjwhFNxufWwBZPH7PA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c6daf2a74cde5e6e1HJ809u0FVZU",
+      "encryptUserId": "335ca9bc2800f05d1nV_3d61GFRX",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制大学本科及以上学历，计算机相关专业，3年及以上工作经验；\n2、具备扎实的JAVA基本功、数据结构与算法，熟练应用设计模式\n3、熟练掌握Spring Framework、MyBatis等主流开发框架；\n4、熟悉相关如Redis、Memcached等缓存技术的一种；\n5、熟练使用Tomcat、WebLogic，Websphere等，并熟悉服务器配置原理； \n7、熟悉分布式微服务系统的设计及应用，熟悉高并发、高负载、高可用性系统设计的设计开发及调优；\n8、熟悉Oralce、DB2、mysql等数据库中的其中一门数据库开发； \n9、具备良好的组织协调沟通能力，团队协作意识、良好的人品；\n10、有银行支付系统项目经理经验优先；",
+      "encryptAddressId": "9d01a595f03eb2ec3nxz39--EVNWx4y_VPg~",
+      "address": "上海浦东新区亚芯科技园1",
+      "longitude": 121.63033,
+      "latitude": 31.210589,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac2c6b74fb3792e2249eb054c094cc73",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f405a9b296f1e33978033094438ac39d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "银行",
+        "支付"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "交付专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "恒生启金科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c773b0badd9bfff01HZz2tW5E1c~",
+      "brandName": "恒生启金科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京恒生启金科技有限公司，承载恒生电子银行企金的业务战略，依托企业金融线上化、数字化、智能化，为银行业金融机构提供便捷、高效、个性化的公司金融数智化解决方案，包括现金管理、贸易融资、供应链金融、企业财资、平台金融、智能营销、票据业务、支付清算、存管监管、信息服务等。",
+      "labels": [
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721916572713,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "恒生启金科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s7ALSPM1cFrVo-p1ieeGF-0k7aLI22mexv8Xg16XoEFNT81Pok0UhMOCd5NW__wfr2ypflOOInMSP3NTFos6LmFhc94NNmJWtbiNdmVIBATOSEi36fj1guzabzsnmAEK7dWqgKERfA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1075be78e82a21b41HN42Ni_E1RZ",
+      "encryptUserId": "ea2730bd447c373d0XN529i-GVc~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.参与平台产品测试全流程，包括需求分析，设计评审，制定测试计划，设计和执行测试用例，进行缺陷\n跟踪和软件质量分析；\n2.负责接口测试，接口自动化测试脚本编写；\n3.指导初级测试人员测试能力提升，保证被测系统质量，通过测试流程和方法创新努力提升产品质量；\n4.测试环境搭建和管理，日常环境问题排查；\n5.熟练使用 SQL，日常测试造数据，数据库验证无障碍。\n任职资格\n1. 计算机专业本科及以上学历，2 年及以上软件测试经验；\n2. 熟悉 python、java 任意一门语言；\n3. 熟悉接口测试，接口用例设计方法；\n4. 熟悉常用主流数据库，sql 语句熟练，熟练造数据；\n5. 能够独立完成测试过程相关工作，掌握抓包工具的使用；\n6. 自动化或者性能测试经验丰富优先；\n7. 良好的沟通表达能力，热爱测试工作。\n短期项目，周期6个月",
+      "encryptAddressId": "c00b2d7c0aaae5cb1nZ809i1GVdT",
+      "address": "北京东城区中联大厦(安定门外大街)1层",
+      "longitude": 116.408566,
+      "latitude": 39.957913,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230831/48ba41acc9cef1bf0726753e83c405559aa2afc9ee9ddf306bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230831/48ba41acc9cef1bfe5bd68a9211080779f5edc960bf0843d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "Python",
+        "Java",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=5565338120181345jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5en3R0tYx-u4xnHgO9mrw2PrqhLpUEtOy9D2oqNApRoHwO-q-nFScbRrHmUEVuxd8YTFy1xawFqA0eUNflgCQsACFD_U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "奥索斯科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "40df9c7ddd9d9f130HF929S1",
+      "brandName": "奥索斯科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170704/b8c0b00eb70d55587703745a31eb8624745d6e706a26f69dc78471f7ea440f16.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "科技公司",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "加班补助",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721900063805,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "奥索斯科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

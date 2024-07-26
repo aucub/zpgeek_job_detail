@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NfnyAvy0rlF0j-H1Zidjcuaqz6wsF8n1_4_Yd9I5qPapp1vmRXTe9Ze8XRXH1wvOyusX4CzxH3peign0f_wqMyjuMyTEgA5aM6byAAYX4u0XXbENdg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "252506923caedca91HF43t61E1BS",
+      "encryptUserId": "7f6d8266f19f5f2f1XFy09q8F1c~",
+      "invalidStatus": false,
+      "jobName": "中级售后工程师",
+      "position": 101202,
+      "positionName": "售后技术支持",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "注：本岗位需具备驾照；\n岗位职责：\n1、公司服务器及网络环境日常维护；\n2、公司各类服务器软件部署升级，系统和数据备份；\n3、负责项目售后实施、验收、运维全流程的工作；\n4、负责对用户进行公司产品、项目的培训工作；\n5、负责收集、跟踪、反馈用户意见，并协助用户解决问题。\n\n我们希望您：\n1、本科及以上学历；信息工程、网络工程、通信工程、计算机科学与技术相关专业；\n2、熟练使用Linux、Unix操作系统，掌握相关的管理与运维技能;\n3、熟练使用Python/shell等至少一种脚本语言；\n4、熟练使用PXE，Kickstart Ansible，Jenkins等运维工具；\n5、熟悉zabbix/prometheus等监控工具；熟悉kvm、vmware虚拟化；\n6、熟悉网络基础知识、了解基本网络架构；\n7、有C1及以上驾照；\n8、普通话标准、文档编写能力较强，有良好的沟通技巧与能力、具备较强的组织与协调能力；\n9、性格平和、稳重，具备良好的学习能力，有较强的责任感、自信心和抗压能力，能接受中短期出差。\n\n加分项：\n懂基本网络安全知识，有攻防演练经验为佳。",
+      "encryptAddressId": "e239bcd471e1ee831nZ93t6-GVpW",
+      "address": "南京建邺区北京金禾天成科技有限公司南京研发中心3号楼10层",
+      "longitude": 118.736454,
+      "latitude": 31.983672,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231013/48ba41acc9cef1bffd822b55d35a774b5fec066d4bc559c76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231013/48ba41acc9cef1bf663c90fc0e72f27ee5eea410b92b093f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170309/7bb5f8a4d0b9f1ef0dc0522293c6f2bc8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "金禾天成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9267167332b49cd61nF409S8Eg~~",
+      "brandName": "金禾天成",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180308/685e28fa8117f6f3de45ccaae2d626cbcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京金禾天成科技有限公司是一家大数据、物联网技术与应用服务商。金禾天成在大数据管理和挖掘、信息检索和中文语义识别、物联网、移动互联网融合通信等方面拥有国内外领先的自主核心技术；并应用于农作物病虫害预警、种植科技、客服人工智能应答、专家知识库、决策支持、大数据驱动的咨询服务等。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1721900914590,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金禾天成",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

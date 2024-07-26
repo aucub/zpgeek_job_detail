@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZsEMFtMAGgn9h-k1IIR4Ac9oFNTOpLeM_IJQX2iiiCBPcgaNNXRzR75HVfLjETwBJkADB-DHfCQAMcBEY9kYQ1Kvfdyx2xxWoqV-2xwhSQsC28iYtnvc6hj-wNoiScojBAcSUa_aREQJdf4z_CB0Eu_f",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c21eb2fdf1f7ff941HF83dm6F1tQ",
+      "encryptUserId": "912968f871eb73ea1nZ439W7GVJT",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "3-5年等同的Java开发经验\n在常用数据库(Oracle/MySQL/SQLServer/Redis/MongeDB)上有实际操作经验\n在消息队列(RabitMQ/RocketMQ/AtciveMQ等...)上有实际操作经验\n在WebService编程(SOAP/Restful API)上有实际操作经验\n对JVM有深入理解\n熟悉设计模式和常用计算算法\n对常用开发框架(spring/spring-boot/my-batis等...)有扎实的知识\n对常用应用服务器(tomcat/weblogic/JBoss/WebSphere/nginx/apache http server等...)有扎实的知识",
+      "encryptAddressId": "88b60ca3b915c1bd1nRz3d--GVFTwoS7VfuY",
+      "address": "北京丰台区杜家坎1",
+      "longitude": 116.202204,
+      "latitude": 39.84031,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e8a766139600e4b98c3d6ed62f30f88",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/341cc5a70a386c1e24204fecfd91f2f9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Docker",
+        "MySQL",
+        "Spark",
+        "团队管理经验",
+        "底层开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211216/607f1f3d68754fd06c13f597a6944751773c4e0cc2fdf5da08218e700e491f39cd51c1083cb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "迈动云智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/280a21fdcc03afe73e508587af68f521afa57f1b9e07a647f8c4bb919f5863fe.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe73eea3cd3134621nF43di1Fls~",
+      "brandName": "迈动云智",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "迈动互联（北京）信息科技有限公司成立于2010年09月27日，主要经营范围为技术开发、技术咨询、技术转让、技术服务等。  在佛山有设分子公司（迈动云智），设有办公室在碧桂园总部对面，佛山共驻场30多人。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721950078822,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迈动云智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

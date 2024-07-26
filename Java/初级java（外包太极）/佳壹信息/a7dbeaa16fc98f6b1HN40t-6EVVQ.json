@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HRhwFAufqBEB2-91cqrOMdu06UHq8bzO4vlKC2BUgZo3ktXVUduKoL_EuGMX6-gFM38-PzOIK5je9bNR_uYwT_3l07Pf9NR70fvcQE1Jp2MJ-rDafCExoF2_dRgzi2tr3c0sQjQWAoks3e4r9-Z5jHTauccpJqCi7TDvHJaHpE640DfcCw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a7dbeaa16fc98f6b1HN40t-6EVVQ",
+      "encryptUserId": "e511723bd84f43cb0nV609u9FFFR",
+      "invalidStatus": false,
+      "jobName": "初级java（外包太极）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位福利：参与公司相关产品或项目的开发内容，保证系统易用性、扩展性、安全性\n根据要求维护现有项目，对现有项目的功能迭代、bug修正等\n根据项目具体要求，承担开发任务，按计划完成任务目标\n负责编制与项目相关的技术文档\n协助团队攻克系统解耦，核心模块的调优等技术难关\n协助测试人员完成软件系统及模块的测试\n协助现场人员完成部署实施等相关工作\n任职资格:\n本科及以上学历，计算机相关专业毕业，1年以上工作经验\n熟悉主流web应用相关的框架，熟练使用Spring Boot、Spring Cloud\nDubbo、Mybatis等框架\n熟悉使用Vue、Ant Design、Element UI等前端框架,\n熟悉使用Redis、MongoDB、Nginx等中间件\n熟悉0racle、Mysql数据库应用开发、配置、维护及性能优化\n熟悉Linux环境，熟悉常用Linux命令，能进行规范的系统运维工作\n熟练使用git或svn等版本管理工具\n对代码质量，性能调优有经验",
+      "encryptAddressId": "2f3bc71f71fe7d7a33F60t69GVBSyou9Uvk~",
+      "address": "深圳福田区市民广场南广场市民广场南广场",
+      "longitude": 114.06044,
+      "latitude": 22.538208,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2435c6a2b70a339a7f698dd818ca0a94",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72ab5ed6ced15d1b8588ea63715c5ff5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220208/607f1f3d68754fd00499947d63b2a1175779cd95fee02eed488f2b792c0b3e3742d2bb7a2d0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "佳壹信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3277707a3f1286621XNz09q5E1Q~",
+      "brandName": "佳壹信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721972789226,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳壹信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
