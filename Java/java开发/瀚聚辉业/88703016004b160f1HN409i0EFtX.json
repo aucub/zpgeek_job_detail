@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nVJN58axxcPY3-f1wM_DfGtnGvLAR9AZFaKuswntCJ_q4RWKPB_EzpgpoPyeu5QkMZXQ627xcQCYVM09ADblgXU1JuY884t0ht3A6FiMRW9WmW4Vfk-CX9Udl3l0SLIbexTPAMQ3xV1l",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88703016004b160f1HN409i0EFtX",
+      "encryptUserId": "e42314ca44bb22f60XB62Nu6GFc~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "\"1、工作经验：1-3以上；\n2、了解Spring，Mybatis，Spring boot架构设计和代码实现;\n3、熟悉掌握微服务架构，熟悉Springcloud或Springcloud Alibaba主流组件，包括Nacos等;\n4、熟悉常用关系型数据库Mysql，具备sql调优能力;\n5、熟悉Redis非关系型数据库、Docker、消息中间件RocketMQ;\n6、熟练使用Git、Maven;\n7、具备良好的职业素养，团队协作能力；思路清晰，沟通顺畅；\n8、其他要求：能够接受出差，加班。\"",
+      "encryptAddressId": "484a8ad40fffa9f80XZ-09W8FlZVwoy9U_0~",
+      "address": "北京通州区信创园A区北京市大兴区经济技术开发区信创园A区2号楼",
+      "longitude": 116.576754,
+      "latitude": 39.785729,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240314/48ba41acc9cef1bfd960466e6235c51e6e5062992ec76ce56bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240314/48ba41acc9cef1bf56d6fcee1008c13e627e960df757a4ad6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/d5f3f33da3627049bec948f5bef5cd40090e82a05ca70b68fc0feb80909_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "瀚聚辉业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f9b951e81b5961791ndz0tS6GVY~",
+      "brandName": "瀚聚辉业",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721989879366,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瀚聚辉业",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

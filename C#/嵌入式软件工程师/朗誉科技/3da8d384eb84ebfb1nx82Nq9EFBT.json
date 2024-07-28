@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "y77CT0Ty6upDC-D1phLr5FDwohA7dPxDRl1XS9_wTa8mfvwkfRgu0gZHM1nFiDFcFZk3bbxKf51yF9okcweuSkiHs1FO5V4WX2IqtcrOEYoPVolmsg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3da8d384eb84ebfb1nx82Nq9EFBT",
+      "encryptUserId": "d06dafa90c633a5b0nV63Ny0EVo~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1、元器件驱动程序开发\n2、AGV业务程序开发\n3、其他相关业务完成\n专业要求\n1、根据项目具体要求，以嵌入式计算机为核心硬件进行软件开发、调试，按计划完成任务\n2、熟悉C/C++语言或者python语言，并对面向对象有较深刻的理解，具有良好的编程风格\n3、掌握常用的通讯接口（CAN/SPI/I2C/UART/USB/以太网等）使用，可以独立编写相应的控制程序\n4、熟悉直流有刷、无刷电机典型闭环控制算法，移动机器人、机械臂运动学模型及相关算法，如PID、模糊控制、卡尔曼滤波等。",
+      "encryptAddressId": "eaf198f0c5c39d671n193dS9Eg~~",
+      "address": "天津西青区天津朗誉科技发展有限公司D栋A",
+      "longitude": 117.232171,
+      "latitude": 39.001689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33538101313f29e63bd00d86978c4bc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b6eab1c845f63107de3922ae02a3a3b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Python",
+        "软件工程师",
+        ".NET",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "朗誉科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7b359f3fbad5cadc1nx92Nu_FA~~",
+      "brandName": "朗誉科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200409/e6e894201dbafed0287e1cbe6ccb7e8cbe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "1、公司成立于2008年7月，注册资金1000万元。\n2、朗誉科技自成立以来一直致力于智能物流领域高新技术的专业研发与生产，已拥有50余项专利（9项发明专利），专业为客户提供以人工智能技术、工业物联网和大数据中心等技术做支撑的智能物流管理系统。以产品为导向，作为发展基础。\n3、目前朗誉科技的产品涵盖重型装备AGV 、轻量型AGV、AGV+机械手，AGVS+物联网。客户涵盖航空、航天、军工、冶金、高铁、工程机械装备、船舶、变压器、风电、水电设备、重卡汽车、电子、家电、光伏、新能源、机械等众多领域的全球百强企业五十余家。年销售额并在持续快速增长中。\n4、朗誉科技和同行的产品相比，系统技术成熟度较高，有独特的技术优势，出错率低，故障率也低；系统不仅仅可对设备数据自动采集，进行实时分析，而且还有故障预测分析的功能，防患于未然。\n5、以产品为导向，作为经营理念。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "免费班车",
+        "节日福利",
+        "生日礼品"
+      ],
+      "activeTime": 1719426614627,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "朗誉科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

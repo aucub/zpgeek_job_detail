@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aLU6moSFcynFD-q1rIw1IhPg9VfaKaURAs-RfTqF5Q6T3ex0WWkGCgK8EO4XEpvH6zAg7Hzar7l96CKR44rtg7TZg08BAhID3I_a8xEBq8ppIxPcbg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5863047c2bf402bc1HB60tm_GVtQ",
+      "encryptUserId": "400b8a5d9d6de6b51XJ-39y6E1E~",
+      "invalidStatus": false,
+      "jobName": "软件集成工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作概述：\n负责单片机嵌入式底层集成，包括IO,AD,SPI,I2C,CAN等单片机软件开发，主要针对汽车控制器开发、测试及问题调试。\n 工作职责：\n1、 负责单片机底层开发，包括IO,AD,SPI,I2C,CAN等单片机软件开发； \n2、  负责功能模块测试；\n3、 支持软件集成验证发布；\n4.、软件问题的分析、解决\n5、Autosar软件的配置\n\n 任职资格：\n1、熟悉C语言等编程工具；\n2、具备飞思卡尔大赛，机器人大赛软件经验优先；\n3、有Autorsar 配置经验的优先\n4、本科（含）以上学历，汽车电子、自动化、软件工程类等相关专业； \n5、良好的团队合作精神、严密的逻辑思维能力以及高效沟通能力。",
+      "encryptAddressId": "37719c11bede87c10nV-3Nq1EFA~",
+      "address": "上海浦东新区上海周浦智慧产业园(北门)沈梅路99弄9号",
+      "longitude": 121.577276,
+      "latitude": 31.0916,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c542d5ce88c61c5c74d7b50067ac910d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee012fa1fc0543248279d3c87cfadb4f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C",
+        "STM32开发",
+        "智能驾驶"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200521/b7d720c10083414a6517336c3febedfc81554392a1dc7d093e33dc47525_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "南壁新能源",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69c5c441736ce3ca0Hx50964Fg~~",
+      "brandName": "南壁新能源",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200522/c7ba593be176b3f737d16a7b34e3e35681554392a1dc7d093e33dc47525d9f84_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100802,
+      "industryName": "汽车零部件",
+      "introduce": "2018年，多名来自硅谷、博世、联合电子等知名汽车电子公司的科研人员开始创业。2019年正式成立上海南壁新能源科技有限公司，天使轮由南阳淅减汽车减振器有限公司、上海馨联动力产业联合投资。公司依托北京理工大学产业孵化基地，专注汽车电子ECU控制器开发，主要产品包括电动摩托BMS管理系统、ADS自适应阻尼减振系统、ECAS空气悬架系统、VCU及BMS集成系统—VBU8.0、电机控制器MCU6.0，满足市场主流AUTOSAR及功能安全ISO26262需求。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "包吃",
+        "股票期权",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721804453000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南壁新能源",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

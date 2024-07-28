@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "L5kIk7Ey-JEnc-_1AP_EfoJjs1aTBNO3BbKudizCEHlKAkYCDmsfedFqQzCzwLPUD0ggHsGC4tg5T1v9LaxecPaiveh_xWbfwUTGYHlDxrJLR2PQzyU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "98c0c5d536ecbf701XB909-6EFFT",
+      "encryptUserId": "fe019dfc23aa78cc1HB72NS1EFs~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1.负责全国边缘机房建设全流程管理，资产运维管理；\n2.负责线上业务的日常运维，包括巡检、部署、变更、监控和告警处理等；\n3.配合销售部门完成客户对接、技术交流、及相关项目攻关的技术支持；\n4.大客户售后技术支持，包括但不仅限于故障响应、咨询回复、需求跟进等；\n5.完善监控体系，提高监控有效性及时发现故障，保障业务可用;\n6.对日常问题分析汇总，提出更优方案，并推动落地;\n7.负责推动业务运维工具及平台建设，提升业务运维效率；\n8.基于业务场景，梳理业务逻辑模型,管理和建设数据体系，建设业务分析模型。\n岗位要求：\n1.本科以上学历，计算机相关专业，2-3年以上云计算、CDN、或互联网行业相关工作经验；\n2.熟悉linux操作系统，熟悉shell或python等编程脚本,至少精通一门编程语言；\n3.熟悉交换机、路由器、运营商网络基本配置，具有网络故障定位和处理能力，熟悉TCP/IP等常用网络协议；\n4.熟悉服务器硬件知识，熟悉Raid冗余阵列原理；\n5.熟悉docker，kubernetes等容器平台技术，对docker和k8s集群的网络、存储、安全有一定的理解；\n6.熟练使用zabbix、saltstack、grafana等开源运维工具；\n7.熟练使用常见数据mysql、sqlserver、InfluxDB等，有DevOps能力更佳；\n8.具备基本对外沟通能力，数据分析能力，有跨团队或跨部门工作经验为佳；\n9.认真负责，有良好的团队协作精神、良好的表达沟通及问题处理能力。",
+      "encryptAddressId": "dde5239d056c53330HRz0t67EFc~",
+      "address": "北京海淀区富海国际港13层/1302",
+      "longitude": 116.335254,
+      "latitude": 39.95318,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/14c50f38b0ad17027170c58e0ccb4b0b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f8b4563bdd4e61d69b272b6bf6f6df5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "桌面运维",
+        "网络运维",
+        "IDC机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "运维工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220314/607f1f3d68754fd0f4be804b0e2cf820894a0bf8af36ba01ea5297f0383f014f51bf12e4bc1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "边缘算力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "07ff3ef8dc23593a1nB_2d-7FFo~",
+      "brandName": "边缘算力",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220819/7bf6f160950405e975a665c6f0462154dd8f0684c40a53bead4f40539fd2005829291ae618eb7db4.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "四川边缘算力科技有限公司是一家边缘云生态服务平台提供商，愿景是成为每个人，每个组织，轻松运用边缘计算，秉承边缘原生、至臻至简的价值理念，以赋能为使命，不断研究大数据、边缘云原生、分布式计算技术和边缘安全算法，汇聚网络边端侧的硬件、网络和计算资源，构建出天启边缘计算系统，为下一代低时延、高带宽、可靠安全的边缘计算场景服务。有效连接云，边，端三者，提供下一代互联基础资源，帮助政府和企业可轻松应对IT向边缘云迁移的挑战，为大数据时代下的管理决策和商业战略引导提供丰富的安全的可靠的边缘计算生态基础服务。",
+      "labels": [],
+      "activeTime": 1719426861119,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "边缘算力",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

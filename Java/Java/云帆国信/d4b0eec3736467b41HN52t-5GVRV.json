@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s3PdXeI2PejZP-S1-djofUNreMRaBK7RaRFUpXlBsxGCg3fDjy-9LCcJR5cNOyhgPaClD7tQFDN5CRlXdpESVm2_iZCcWi9HBdJV-3t2JZ26t8VBDCk9eC6RkV61bW2g3MOU1_Xk8WpS4A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4b0eec3736467b41HN52t-5GVRV",
+      "encryptUserId": "15c23e61f82f42120XJ43N-6EFRU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机相关专业，具有一定的技术文档功底，1-3年JAVA开发工作经验\n2、具有扎实的java功底，熟悉J2EE体系结构,熟悉JAVA开源框架，熟悉SSM框架，了解JVM原理\n3、深入理解面向对象的编程，熟悉软件开发过程，了解常见的设计模式，了解主流的设计思路和开发模式\n4、熟悉微服务技术框架（Dubbo或SpringBoot），有过使用springBoot实践开发经验者优先\n5、掌握数据库的理论知识，熟练使用MySQL数据库，能熟练应用Redis等缓存技术\n6、有高并发、高负载、高可用性分布式系统开发经验者优先\n7、有较好的沟通、自驱能力、自学能力和团队合作精神。\n8、熟悉爬虫技术优先",
+      "encryptAddressId": "966470beb48adf231nR72ti_F1NRx4u_UP2Z",
+      "address": "北京朝阳区朝阳大望京商务中心1",
+      "longitude": 116.490121,
+      "latitude": 39.995067,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf7012ab8b22cf4c7818fa66c361eeb8a16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf4ab9a25637463110f503c905350744746bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "云帆国信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8b7d76d49d19518d1HFy2dy_Fls~",
+      "brandName": "云帆国信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722058528726,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云帆国信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

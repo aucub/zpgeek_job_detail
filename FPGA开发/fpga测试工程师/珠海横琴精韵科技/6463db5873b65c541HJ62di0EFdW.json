@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qBA5FYGdvaGzd-Y1rIL8YRgAEh8g0sNF-Duh1BLe60BuzQVrB6MZOjHySlILwGx-JWCM4pHYw1jCKnewGy630gfK8mlSHQ0cHVCqEF9yfbpLGGt_fhk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6463db5873b65c541HJ62di0EFdW",
+      "encryptUserId": "a40aa09b8338cc2d0nBz2d27EFU~",
+      "invalidStatus": false,
+      "jobName": "fpga测试工程师",
+      "position": 100808,
+      "positionName": "FPGA开发",
+      "location": 101280700,
+      "locationName": "珠海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、独立完成代码编写、仿真、时序分析/约束及逻辑综合；                          2、与数字工程师合作搭建验证平台，完成相关测试与报告撰写；                          \n3、完成开发功能模块，完成功能验证与报告撰写；                              \n4、根据公司研发/客户要求，开发定制化模块；\n5、完成领导安排的其他工作。 \n\n\n任职要求：\n1、本科及以上学历，微电子、集成电路、通信工程、电子信息工程、计算机科学、通信信息、自动化等通信相关专业。\n2、熟悉或曾使用过FPGA开发板，了解开发板上的硬件配置与可实现功能；\n3、熟悉Vivado 与 Vitis 软件；\n4、熟悉 Verilog、C 等相关编程语言，熟悉 MATLAB 工具；\n5、具备基础电路知识，对时钟、信号、基础门级电路、典型电路(异步、时钟复位、FIFO等)有一定的理解；\n6、理解常见的接口协议(JESD204B/LVDS/SPI/UART/AXI)的基本运作原理，了解开发板与其他电子仪器(电脑，逻辑分析仪)如何互联；\n7.英语四级及以上，无障碍阅读理解英文技术文档，并根据文档进行相关功能的开发与维护；\n8、具有良好的学习能力、沟通协调能力、基本素养：有团队合作精神，积极向上。",
+      "encryptAddressId": "58165ceca2a3ab361nV839i4E1BW",
+      "address": "珠海香洲区横琴南光大厦805室",
+      "longitude": 113.546703,
+      "latitude": 22.135226,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf57755134824432b6d5eb81a80ae525a36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bfcd75f595eba22cf8c92a74b4116c28776bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Verilog",
+        "Vivado",
+        "FPGA开发/验证经验",
+        "接口协议",
+        "AXI总线协议",
+        "FPGA与PC双向通信"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd0d3500b1b10abc35879eb5b188d409347af90328733623ef224fa006ed5943a5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "珠海横琴精韵科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "25cb685abad16a9f1X1y3d28E1M~",
+      "brandName": "珠海横琴精韵科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101405,
+      "industryName": "半导体/芯片",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1721985706215,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "珠海横琴精韵科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
