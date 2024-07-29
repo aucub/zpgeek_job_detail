@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EBMH_La0VcHbP-H1v3iRM2lH3z9v719IfIRmCkhqhbkvh68q2c9jthjo6DbhaKC4vbiynwRpF6VI3PNtTaA6s0o_kvr6YMmqEscvqmuVuuStPjU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3e5ff57ecd0b00a11Hdy3N-0EFpU",
+      "encryptUserId": "ed62092e5e856e821HFy2dW8GFc~",
+      "invalidStatus": false,
+      "jobName": "devops开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责云平台自动化部署工具的开发和维护\n2. 负责云平台运维工具的开发和维护\n3. 负责公司内部DevOps流程的规范化，并且维护公司内部CI/CD等基础设施\n\n任职要求：\n1. 具备较强的服务意识，和沟通能力\n2. 具备较强的责任感，和学习能力\n3. 具有良好的操作系统基础，熟悉Linux架构以及丰富的Linux系统管理经验\n4. 具有良好的网络基础，理解常见的网络协议以及原理\n5. 掌握基本的自动化运维工具：Shell/Python/Puppet/Ansible，并有相关的项目经验\n6. 计算机相关专业，本科及以上学历\n\n加分项：\n1. 熟悉虚拟化技术kvm， libvirt，qemu\n2. 深入理解OpenStack核心组件，如nova, cinder , glance, neutron, keystone等\n3. 有OpenStack/Ceph相关的开发以及运维经验\n4. 熟悉容器相关技术，有相关开发以及运维经验",
+      "encryptAddressId": "ec48d2aa84fdd24833Zz3ty_FFo~",
+      "address": "武汉武昌区新大地酒店702室",
+      "longitude": 114.324554,
+      "latitude": 30.536872,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b337178548b5f6d3b17171f687da558",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b638d9afa6efa24ad735cae7f10a17e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "Ansible/Salt/Puppet",
+        "Jenkins",
+        "计算机相关专业",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "研发三部",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "UnitedStack",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "526e2e55dd8c2aab1nNy2dk~",
+      "brandName": "UnitedStack",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180821/30784618ead1b4ab02cbf15670890762cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "同方有云成立于2013年2月，办公地点位于清华同方科技园，是中国最专业的OpenStack开源云计算公司，公司员工超100人，其中70%为研发工程师，拥有中国最强大的开发团队，并拥有核心技术。原红杉资本、IDG、华研资本做为公司的投资方。2017年11月同方有云的发展目标及方向得到清华同方高度认可作为控股子公司。更多信息：www.tfcloud.com",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "交通补助",
+        "零食下午茶"
+      ],
+      "activeTime": 1719570233452,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "UnitedStack",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

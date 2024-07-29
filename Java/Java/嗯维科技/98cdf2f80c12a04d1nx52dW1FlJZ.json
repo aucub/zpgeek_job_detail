@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "R7XmIUs9U6FMP-z1VYGzoZJwR3nRfswEV1VjZ6ykaX9mQaEM7t7gzg98zvyaUfzn22oGM9I-ZiqxaYANre3t7zXNZwHO_fHLXd8Pi4CfpAtBZ2nU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "98cdf2f80c12a04d1nx52dW1FlJZ",
+      "encryptUserId": "4b74d6625f7bd15d0XVz09S7GA~~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、统招本科以上学历；  特别优秀者可适当放宽\n2、1年以上Java开发经验，技术全面；\n3、熟悉linux系统以及基本操作命令;\n4、精通Java编程语言，精通Spring Boot、Spring、SpringMVC、MyBatis等常见框架；\n5、精通Oracle数据库，具备优秀的SQL编写及调优能力，有数据库设计和优化的实际项目经验；\n6、熟练使用Git/SVN、Maven、Jenkins、Tomcat、Redis、Nginx、等常见java相关工具；\n7、熟悉SpringCloud微服务框架原理及使用场景；熟悉RabbitMQ等中间件；\n8、熟悉多线程编程，熟悉前后端分离，具有良好的编码习惯；\n9、熟练掌握JavaScript，掌握面向对象编程思想，深刻理解掌握vue等主流框架，熟练使用vue\n10、良好的沟通能力及团队合作精神，责任心强；\n11、保险和再保险经验者优先考虑。",
+      "encryptAddressId": "0def09b93d4a83dd1nxz296_GVY~",
+      "address": "北京丰台区金唐国际金融大厦A座22层",
+      "longitude": 116.332289,
+      "latitude": 39.866987,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a60b08bf1a4e19e61d3c988b8c6341b9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b33f4b1f429351ef18cad4f5a390e604",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Java开发经验",
+        "Linux",
+        "IDEA",
+        "Eclipse",
+        "SpringBoot",
+        "后端开发",
+        "SSM",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "宋女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "嗯维科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79e365abc36975f10nd62Nq9Fw~~",
+      "brandName": "嗯维科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722263253727,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嗯维科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

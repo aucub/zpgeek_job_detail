@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5cN1ucZCj9Nw1-A1okQr5BdKYMP6041pmSmtZ4PCly-vIzyI21ZwacpbDwt3SyDEU-NpBuWYssCkbj-zhrmvQMksOgvCvWYdBJeMorG0xWSUBH6QllY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec208dd373c325131Hdz3di0FFpT",
+      "encryptUserId": "bb516c30db661a610XZ42928FlU~",
+      "invalidStatus": false,
+      "jobName": "全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n岗位职责：\n1、 系统功能代码编写，需视频会议及屏幕共享协同的异地支持和服务；\n2、 熟悉JAVA，对公司所编写的PHP程序进行自我测试，进行系统故障的诊断、定位、分析和调试；\n3、 良好编码规范，对产品需求有良好的理解；\n4、 向协调部门提供系统的后期技术支持；\n5、 协助上级完成其他需要协助的工作。\n\n任职资格：\n1、 三年及以上开发经验，精通PHP语言，精通HTML、CSS、JavaScript、jquery，对OOP有较深认识，掌握常用的设计模式；\n2、 有电子商务网站开发经验，对常见电商系统（尤其是EcMall、ECSHOP、分销管理系统）和CMS系统、OA软件有开发经验者优先；\n3、 熟练掌握常用的开发工具，熟悉常用版本控制工具如SVN或git等；\n4、 熟悉其他语言开发；熟练linux操作系统，会简单的shell脚本编程。\n5、 对互联网充满热情，具有较好的抗压能力和接受赶工加班，意愿ai方向。",
+      "encryptAddressId": "fdfddfe9887496801Hx_2tS8EVdUxoW_WfI~",
+      "address": "广州白云区金蛋王整栋厂房",
+      "longitude": 113.209318,
+      "latitude": 23.335685,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfc81009ae842dd86e0d219702b1c11bea6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bf918bd8e6da32efd1c0daa8e01b9353f56bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重前端",
+        "JavaScript",
+        "Vue",
+        "PHP",
+        "Python",
+        "MySQL/Redis/MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230315/607f1f3d68754fd0191a217ec81f94ffb3ce77dd65ee293c84bdee8aaa1a24b64356d3b1246_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "广东金蛋王蛋品公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "812aa4084195279d1XFy2d60FVo~",
+      "brandName": "广东金蛋王蛋品公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240301/7bf6f160950405e91d6fc40ba5727bff55509f9b4c1c9b6784bdee8aaa1a24b64356d3b12460107f.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "金蛋王，低调、务实、做到最好！做鲜鸡蛋大流通领域的独角兽。",
+      "labels": [
+        "住房补贴",
+        "团建聚餐",
+        "包吃",
+        "全勤奖",
+        "工龄奖",
+        "加班补助",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722013780339,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东金蛋王蛋品公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

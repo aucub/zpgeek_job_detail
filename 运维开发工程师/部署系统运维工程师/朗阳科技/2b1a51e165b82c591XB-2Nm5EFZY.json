@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GWOi4fvOxFr8s-k1lMx1g3OtEd803Dxubisx70L6artUYQgX3NAskVwG4GvcZB0xVr2jk7ylMTayJuS2lyO4owcFQapkJKi5D8nU5SHAYnhfMwGvyQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b1a51e165b82c591XB-2Nm5EFZY",
+      "encryptUserId": "d0df5aa7870fd40c1HN929q4GVA~",
+      "invalidStatus": false,
+      "jobName": "部署/系统运维工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司Java平台系统应用的开发、部署、调试、迁移、监控、生产环境的搭建；\n2、收集、整理并分析用户的需求，协助产品改进，参与公司运维项目的开发，保障项目的顺利实施；\n3、能够解决生产环境的问题和安全隐患，通过自动化运维工作来降低手工操作的维护成本；\n4、能够不断探索运维自动化等各种创新途径，完善公司现有的实施系统部署自动化标准流程和日常工作，并能编写指导手册；\n5、参与公司JAVA后台的开发部署\n任职要求：\n1、要求计算机相关专业本科以上学历，至少3年以上相关工作经验，有Java，Docker，k8s系统部署运维维护经验者优先考虑；\n2、熟悉Linux和Windows系统、rest api、shell脚本和自动化例程，能对Java/Python脚本进行开发维护，\n3、熟悉操作系统、网络、数据库（mysql、postgres、redis、MongoDB等，至少2能熟练操作2种以上），参与能源项目者优先考虑；\n4、有物联网、工业自研公司管理经验者，优先考虑；",
+      "encryptAddressId": "211bc3b79fc4027d1nN90t--FA~~",
+      "address": "杭州余杭区中电海康集团总部基地H幢10层",
+      "longitude": 120.013813,
+      "latitude": 30.27396,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f21d7c97ad755894743aed60c23c6bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/894520d4c2e723cb2d19ef6aee9ba288",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python/Shell",
+        "Jenkins",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郎先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230203/607f1f3d68754fd0c15fcea6bb0930ecc6f1b2442f79784d890d46ddb0f6ddf916a5ba95767_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "朗阳科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7112a40ec7191fb61nx62du4Ew~~",
+      "brandName": "朗阳科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210511/95d9d19cd7cf82820ecee408f00c0604890d46ddb0f6ddf916a5ba957675b0a7_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "杭州朗阳科技有限公司是由德国海归精英团队建立的致力于人工智能物联网解决方案的高科技研发公司。凭借自主开发的嵌入式AI芯片以及业界领先的低能耗通讯技术，公司专业开发嵌入式人工智能物联网解决方案，研发、设计、生产物联网专用网关，嵌入式AI传感器终端以及与之配套的人工智能算法，自主打造智慧城市，智慧农业等特色产品，打造物联网开放平台，推广物联网解决方案，致力于推动物联网在各行业的规模应用。\n愿景：成为服务于各行业的嵌入式AI物联网领先企业。\n使命：推动产业开放、促进产业合作、引领产业创新。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "生日福利"
+      ],
+      "activeTime": 1721027500000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "朗阳科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
