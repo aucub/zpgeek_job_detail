@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eRsGcc4nLncWK-l1Axq9ZNyJ6fH7M2ppsTsYll-QBjlZIxvs_twxmLqsa39X9fN-UPN0CvyBPeVGYQnz8nSL3RkK_JI-Ph25UKTTkmuBXgZ5zRnG5tev",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "596f0e153ebcf71c1n1529q6FFdX",
+      "encryptUserId": "7f6480cdbc8620c40nV42928E1dV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司产品模块功能的设计与代码实现；\n2、负责代码单元测试和模块集成联调；\n·任职要求：\n1、应用 java 语言，熟练使用各种开发编程工具：Git、Maven、IDEA、Eclispse编程工具；\n2、掌握Socket、Websocket，WebService、Restful等接口开发技术，对 Web开发有一定的认识；\n3、了解Spring、SpringMVC、Mybatis框架并了解工作原理，熟悉Springboot 框架的开发机制；\n4、应用Oracle、MySql、SQL SERVER之一数据库的软件应用开发；\n5、对Nosql数据库的原理有一定的理解，如：Redis、MongDB数据库等；\n6、计算机相关专业本科及以上学历；\n7、要具备一定的自我学习能力，通过导师的指点能快速的查找资料并解决技术问题。动手能力要强。",
+      "encryptAddressId": "01e9190b6c70f3091n182d61ElM~",
+      "address": "成都武侯区成都高新技术产业开发区A座3楼",
+      "longitude": 104.065637,
+      "latitude": 30.592008,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6448ddfaef212b4c74b394c4beb5c5e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77829a96a70ce6d78eea3327863fe163",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "网络协议",
+        "Socket技术",
+        "Spring",
+        "SpringMVC",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=22559ebe8f3779c6jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9Ynn10ttks79FpHAe-zbQ9Ze7xKZRd57q8XW4vaVxU8XRU_a-kEX1OF-S1W0A6wtAeS1_lz6sN9VscXtLjhHUsDHNFpk-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "阿特菲斯(重庆)公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b275c1b11488071a1nd_2tq8FFo~",
+      "brandName": "阿特菲斯(重庆)公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722329332360,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "阿特菲斯(重庆)公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
