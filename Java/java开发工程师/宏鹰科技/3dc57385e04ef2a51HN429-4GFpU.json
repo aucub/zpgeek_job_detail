@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Z9ajnbcr4P7Du-T1p8HdfLW5qE0VvWomC_clAgjD_ojlVmjRqq53plGlto3ni5Uc52HKlSdn6WN0x5vVZsf5IRItZBA6Xjd-QjjzEEEIV-wQfV_DUjEkmcEZLaDwDfqbas2FSYfESAl3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3dc57385e04ef2a51HN429-4GFpU",
+      "encryptUserId": "0ee0bdb4a1f310db1HV939i1EFo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责项目产品的设计、开发和维护；\n2、负责完成模块的设计、编码、测试以及相关文档的编写；\n3、负责解决开发过程中的技术问题\n任职要求:\n1、统招本科，学信网可查，计算机类相关专业，1-2年以上Java开发经验；\n2、熟悉主流Java Web框架（Spring Mvc，Mybatis）；\n3、精通MyBatis开发，Mysql，PostgreSQL等数据库能进行sql优化；\n4、有Redis、RabbitMQ、Kafka、NoSQL等使用经验；\n5、有良好的分析和解决问题的能力  \n6、能够熟练使用html,css,js,jquery\n7、有全栈经验优先",
+      "encryptAddressId": "8eab6da2b4d7f5e433183dq1FlBUxY27Uv0~",
+      "address": "北京通州区金融街园中园榆西一街1号院502",
+      "longitude": 116.639575,
+      "latitude": 39.944571,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231106/48ba41acc9cef1bf08359b48718f989f50cb29b4e5d219126bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231106/48ba41acc9cef1bfe86db036416c7cadb817340c5e04f99f6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "招聘专家",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=905a7468be4718dejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5fnXV0s9gqvdg8TAa1yuZiMu6hesRc4r3rW2ooMlpR8SNc-POpFXROELGwWRRql9FKTlzhxa9Y_FlNX9bl13N5VCYW90-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "宏鹰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "87c47c859ada75511HF72d60ElU~",
+      "brandName": "宏鹰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722395793538,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宏鹰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

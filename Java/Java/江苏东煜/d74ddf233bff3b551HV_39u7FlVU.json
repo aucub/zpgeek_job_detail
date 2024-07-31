@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6PtHr6hvDBrUO-317f8Hl7uCmA0Yx0FbAV-vw0u4iYw4q_ZKv39QQkRVH6bUmJuKQ0x7H7CdzhhAMBswzjmj7E9icNY05zIaSH94wJx_iLVlTROoemVJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d74ddf233bff3b551HV_39u7FlVU",
+      "encryptUserId": "1d5d3203508f65940XV52d67GVdT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "***公司成立有党支部，党员优先！！！\n工作职责：\n1.根据业务需求与设计文档，独立完成项目或需求的系统分析和设计，并主导完成详细设计和编码的任务；\n2.负责系统核心代码编写， 技术创新提升产品的技术竞争力；\n3.负责IoT平台设备接入层、设备管理层等核心模块的需求分析、技术调研、设计、开发工作；\n4.负责IoT平台连接层的高并发架构设计和研发，理解业务，识别需求，推动IoT在不同领域的项目落地；\n5.维护和升级现有软件产品和系统，快速定位并修复现有软件缺陷；\n任职要求：\n1.大学本科及以上学历，计算机相关专业，熟悉物联网IOT开发经验；\n2.掌握常用开源基础框架，如Spring、Mybatis、SpringBoot、SpringCloud等，能了解它的原理和机制；\n3.熟悉常用中间件技术，如Redis、MQ、Kafka，MongoDB，Elasticsearch等；\n4.熟练掌握Mysql等数据库，熟练数据库设计、分库分表等技术，熟悉Redis等NoSQL技术；\n5.熟悉JAVA应用内存分析、常用JVM性能调优监控工具、JVM优化；\n6.在大型分布式、高并发、高性能、高可用系统设计和开发方面有较多的实际经验优先考虑；\n7.具有大数据Flink、Hbase 等开发经验优先考虑；\n8.有责任心，思路清晰，具备良好的沟通能力和团队协作精神，具有高度责任感、优秀的自学能力。有较强的独立意识和解决问题能力。\n加分项：\n1、物联网企业负责过IoT监控相关产品；\n2、熟悉2B类型产品业务，如：xx监控软硬件平台；",
+      "encryptAddressId": "d4c698a411a109cd1nZy2du1GVdT",
+      "address": "南京雨花台区凤信路厨余垃圾中转站2楼",
+      "longitude": 118.752996,
+      "latitude": 31.967258,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230525/48ba41acc9cef1bfa93816462448c7d54eda3e2dff70a83c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230525/48ba41acc9cef1bf09ed113a2490da5cae739c6ed790f55a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "江苏东煜",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "76c0fbbdb3e4fe661XN92Nu9F1c~",
+      "brandName": "江苏东煜",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722341557735,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "江苏东煜",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

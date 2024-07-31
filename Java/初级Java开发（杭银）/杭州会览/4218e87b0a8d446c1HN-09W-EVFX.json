@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IKtPfnHBxhH80-91j05rwJJmsO1pY6D9hfBQ6mFZ8htRBRkpYiBULOhTfU00fjQt9xu7YoHkxc_S_Sh_kdoQ9lsp5fNmX-TwExXZaDS1QB6h1xsh51eMkLGaaS8TMQOufqI_gaZS8Bc57-5UHAuwyXa3ET2iFdb1TvZOFeX1wwPfEhkKug~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4218e87b0a8d446c1HN-09W-EVFX",
+      "encryptUserId": "20c13ab38a2ef3b20nx_0960GVdW",
+      "invalidStatus": false,
+      "jobName": "初级Java开发（杭银）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：     \n1. 本科或以上学历，计算机软件或相关专业；\n2. 熟练使用Spring技术栈（Spring Cloud，Spring Boot，Spring Data, Spring Security）等主流框架和技术；\n3. 熟练掌握MySQL数据库原理和常用的优化技术，熟悉并实际应用Redis缓存技术；\n4. 熟悉缓存、异步、多线程等技术，精通TCP/IP、HTTP等Internet协议内容及相关应用；\n5. 熟悉Java设计模式，精通Java及Web应用的开发；\n6. 熟悉Linux日常工作环境，掌握常用命令，有Linux调优监控经验者优先；\n7. 熟悉Maven、Git代码管理，有多分支并行开发经验；\n8. 对开源技术有浓厚的兴趣，Kafka、Feign，RabbitMQ、Dubbox、Zookeeper等技术；\n9. 拥有对主流技术与发展方向的敏锐洞察力，对卓越代码和优秀结构的强烈追求；\n10. 拥有大规模高并发访问的Web应用架构设计和开发经验者优先；\n11. 具备分析问题和快读定位并解决问题的能力，有强烈的责任心。",
+      "encryptAddressId": "e54d94159235b5f01nV73dy6FFRVx4S9Uv6e",
+      "address": "杭州拱墅区杭州银行信息中心信息大厦",
+      "longitude": 120.146805,
+      "latitude": 30.322342,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230429/48ba41acc9cef1bfc2e82c5bed56b79ba51a16bc93a61a0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230527/48ba41acc9cef1bf98f47cdfe6555304a51332e79a14f5216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Kafka",
+        "Zookeeper",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240731/607f1f3d68754fd0761098912434729cf1cf9947e86122378f1b80e3f5fe504f8c165db01f9e9a6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "杭州会览",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "de772f225885afde1XJy39S4FVI~",
+      "brandName": "杭州会览",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722391008187,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州会览",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9NM9ADqklWRyf-a1QHAZplE0UaGC4YfkwTt_NuRwJmd09mUGDzRnf4fIWFT9W3Op2eXluJ1z-U9Nlp1kNLH2guvpRUIUWNoQ_3ZZFClSGJKdM2JEXbXZzkl5i-WWyi_JWRMpe9bgFynJZhEmXqq_tlWcqddgMMMwSXi0Vk5V5w_j3ZLG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "743c2f51faa9d1971HN-39i9F1NY",
+      "encryptUserId": "445348eda00c03890nR509q4GFJQ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "技术能力：\n编程语言和框架： 需要熟练掌握Java编程语言，并熟悉‌Spring Boot, ‌Spring MVC, ‌Mybatis等主流开发框架。\n数据库操作： 需要熟悉‌MySQL、‌Oracle、‌PostgreSQL、‌SQL Server中的至少一种数据库，并能够编写SQL语句。\n版本控制工具： 应熟练使用‌SVN或Git进行代码管理。\n开发工具： 需要熟悉使用‌Tomcat、‌Maven等开发工具。\n工作职责：\n负责功能模块的开发、详细设计、核心代码的编写。\n负责开发中接口的对接与提供。\n负责新技术的研发学习与应用。\n负责项目开发中与解决方案及业务对接。\n其他要求：\n应具备良好的代码风格和强烈的责任心、进取心。\n需要具备良好的沟通能力和团队协作能力。",
+      "encryptAddressId": "02d9616695cc912f0XBy2Ny8EFo~",
+      "address": "北京顺义区后沙峪新村.",
+      "longitude": 116.53775,
+      "latitude": 40.109561,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/692e3be64d30b80f0cf3059c9182699b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4fdb1c87e90ea9ff732fbbf09dee5bc4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Tomcat",
+        "PostgreSQL",
+        "Oracle",
+        "MySQL",
+        "‌Spring Boot",
+        "‌Spring MVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "孟女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "东方融创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01019308a92b5af31nxy3ty1Fw~~",
+      "brandName": "东方融创",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/3414ae49ffb24f4d9c935d419c1fe3123482e9318cfa71119b43b1bc2a173424_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京东方融创信息技术有限公司位于中国信息技术发源地－北京市海淀区上地，是在高新技术应用领域中专业从事应用系统开发、行业化解决方案的技术企业。东方融创专注于金融、保险、移动互联网相关行业信息化领域的开发，凭借多年在应用系统开发积累的经验，东方融创已经成为IT技术服务领域中的优秀的提供商。",
+      "labels": [
+        "加班补助",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1722396688663,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方融创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
