@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "muljSe26MU-uZ-R1S27MFHNpD7BVPgBkHgEkBMuR06m-Y7PjFkVcccYAQMEJjKCdzVCMJA-62xy2yzRlGgJkxuEnnW0WiLYqwj2lkXfQXaURui9eO7r5IEWzd0cx_B9OajQ-Tqzb5YzQLWc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "00749784d5560e9e1HF62Ni0FVRW",
+      "encryptUserId": "7d2c754111696f3f0nB92tm6E1tY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位内容：\n1.负责功能的业务开发和代码维护工作；\n2.负责应用基础架构的设计和具体编码工作；\n3.解决项目中遇到的核心技术难点，积极参与代码重构；\n4.满足客户安排的工作内容。\n岗位要求：\n1.具有2年及以上的java开发经验，能够调整维护现有java代码；熟练使用java项目常用工具eclipse、Idea、SVN、gitlab等，熟悉SSM、spring-boot、spring-cloud等框架开发及了解各组件（中间件）功能及作用；精通HTML、CSS、JavaScript、Ajax、VUE、 Element-UI 等前端技术。\n2.熟练使用oracle、mysql、达梦等常用数据库，能够对数据库表进行简单的设计和SQL语句的常用优化；\n3.良好的编程风格，扎实的编程和算法基础；\n4.具备问题分析和解决问题的能力,良好的抗压能力；较强责任心和团队精神，能够积极沟通和合作。\n5、计算机及相关行业，有电力行业信息系统开发经验者优先。",
+      "encryptAddressId": "30a5c9a9c8abb6040Hdy3tW_GVpUwI6_Uvw~",
+      "address": "北京西城区华北电网有限公司482号",
+      "longitude": 116.351045,
+      "latitude": 39.888766,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91fbc046f5c422ce9d246ab10f871a3a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9868840762845deea1074e977c20507c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220704/607f1f3d68754fd074238fb0c115e12f7bf65cb690fd21cb6a2e92647da28a664cadbf0361a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "合邦电力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "311198a58510be2b1HR409u-E1Q~",
+      "brandName": "合邦电力",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722421155592,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合邦电力",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

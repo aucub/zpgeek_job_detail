@@ -1,0 +1,117 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nNTIv2TSIopPu-W1jFpuOeWdGPLNZJ8tnMzViQhkmhKRWMiwACap-FIASSSi5-fDUzTW_S884fJP3UKUcXs540JFLK3VrTw86ZSDBY0LfTymbV7iKi0CHBUWaRm1dXqnid1xI5IGRyHb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3e5bd1041bf9186b1HN-0969FFVW",
+      "encryptUserId": "16f387eb38acc2440XV-2920FFtZ",
+      "invalidStatus": false,
+      "jobName": "机器学习系统后端编排调度开发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "【整体介绍】：负责字节跳动，推荐/广告/搜索类业务的机器学习系统的资源/撮合/编排，以及业务场景调度系统的设计和开发，服务于各方向场景的模型训练、模型评估和模型推理；\n\n系统涉及如下工作，可以至少参与其中一层：\n1、分布式调度层，解决单服务的分布式部署：\n（a）使用/二次开发 诸如 Kubernetes，Yarn，Mesos，Celery 等分布式调度框架，并可以在不同的业务场景下合理选型；依据各框架的特点进行集群的利用率/均匀性的调度策略优化；\n（b）对接/扩展各框架在 水平/垂直 扩展甚至AutoScaling的工作；参与多集群混合调度（类似FedK8s）的适配工作；负责不同优先级服务的抢占/驱逐功能；负责不同集群不同类型资源间的拆借/混部对接工作；负责多机房、多地域、多云场景的调度/负载适配；\n2、资源撮合层，解决多角色之间的资源联合分配问题：从全局角度进行分配率 和 资源运营效率的优化；解决各种CPU/GPU/其他异构硬件/模型数据/样本数据/外部调用资源间的容量协调和联合匹配；感知拓扑限制，进行微拓扑优化，从而优化整体网络带宽使用；海量资源和多租户的预算/交付联动；保障性资源/预算外资源，以及混部/超卖的场景对接\n3、参与训练场景的流程/功能需求，诸如阶段性编排，批流阶段封装；提升训练单副本服务的稳定性，如Failover保护；更多的备份点策略；可观测性，可操作性，用户体验优化；\n4、参与包括离线到在线同步，数据一致性和更新时效性优化；也包括在线服务多副本的异构资源/稳定性预案的流量调度；模型与服务的动态在线编排和集群间坐落编排。\n【职位要求】\n1、熟练掌握Linux环境下的Go/Python只少1种编程语言，Hands-on具备优秀的coding能力；\n2、熟悉一些开源的分布式调度框架，诸如 Kubernetes（K8S），Yarn(Flink，MapReduce)，Mesos，Celery ，有丰富的机器学习系统实践和开发经验；\n3、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；\n4、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；\n5、有强烈的工作责任心，较好的学习能力、沟通能力和自驱力，能够快速的响应和行动；\n6、有良好的工作文档习惯，及时按要求撰写更新工作流程及技术文档。\n\n加分项：符合其中任意加分项者优先\n1、熟悉至少一种主流的机器学习框架（TensorFlow / PyTorch ）；\n2、有以下某一方向领域的经验：AI Infrastructure，HW/SW Co-Design，High Performance Computing，ML Hardware Architecture (GPU, Accelerators, Networking)；\n3、有一些开源的训练编排系统使用/设计经验：TFX。",
+      "encryptAddressId": "fa3ee8b894e859e31nR73NW-FFRTwYi5WPya",
+      "address": "北京海淀区大钟寺广场2号楼大钟寺",
+      "longitude": 116.343032,
+      "latitude": 39.966601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad97647f7125da5d37290c2849ea10ae",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a79e40036391421ba8573c896503f491",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Python",
+        "Kubernetes",
+        "计算机相关专业",
+        "中大型项目开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "肖女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京字节跳动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7d01ce6cfe2022030HJ409y-",
+      "brandName": "北京字节跳动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "labels": [
+        "就近租房补贴",
+        "餐饮及下午茶",
+        "年度体检",
+        "节日礼品",
+        "免费健身设施",
+        "家庭关爱假",
+        "家属自选保险",
+        "弹性工作制",
+        "零食下午茶",
+        "包吃",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1722415497859,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京字节跳动",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
