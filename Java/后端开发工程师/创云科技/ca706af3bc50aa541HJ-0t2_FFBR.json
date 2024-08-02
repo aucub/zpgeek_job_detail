@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MvS1XqxbJS_wb-T1jarZaAkF_F3VWe75fOjuelLKIo4eCQQ_7FNJDXmcXeYYmC8b4sHAPbkNtmoHUFSpfpiIZrxa8wTaTLMEM0fCsci-B0CXGhz5urUW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ca706af3bc50aa541HJ-0t2_FFBR",
+      "encryptUserId": "fa004ec0ca057d6c0XFy3Nu7GFRZ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300500,
+      "locationName": "桂林",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n参与软件项目的需求分析、设计、开发和测试工作。负责服务器端逻辑的编写、数据库设计与优化。与前端、移动端及产品团队紧密合作，为用户提供稳定、高效的服务。\n\n岗位职责：\n- 使用C#或Java等语言进行后端服务的开发，熟悉dotnet core或springboot等主流框架。\n- 熟悉主流数据库，能够使用MySQL、SQLServer等进行数据存储和查询优化。\n- 关注系统安全及性能，能够进行基本的性能调优和问题排查。\n- 良好的编码习惯，能够编写可读性强、易于维护的代码。\n- 持续关注后端技术发展趋势，主动学习并引入新技术以提升团队效率和产品质量。\n\n任职要求：\n- 对软件开发技术有深厚兴趣，具备良好的编程基础。\n- 能够阅读和理解英文技术文档。\n- 良好的团队合作精神，优秀的沟通能力和解决问题的能力。\n- 有实际项目开发经验或实习经历者优先。",
+      "encryptAddressId": "53bffae4653571c53nJ63Nu8GVRXwYu3Uv8~",
+      "address": "桂林七星区狮子岭大酒店干休所30栋",
+      "longitude": 110.325012,
+      "latitude": 25.25764,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240617/48ba41acc9cef1bf79af9de6968710185ba0142a5bed11e06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240617/48ba41acc9cef1bfa5ad7a9d37c667b6a1f20fa8b2833de66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C#",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "SQL Server",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "创云科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9f01d98db208fd8b1HB52Nq-EFc~",
+      "brandName": "创云科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240617/7bf6f160950405e9e77d7af5e16a6fb442f6c16676fe282c1667e291c2b616c234c9aac381edc10c.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险",
+        "带薪年假",
+        "年终奖"
+      ],
+      "activeTime": 1722494641590,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创云科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

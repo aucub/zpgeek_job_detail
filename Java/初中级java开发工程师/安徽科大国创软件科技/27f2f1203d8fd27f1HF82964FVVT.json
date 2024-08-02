@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kWxnXzvJLtDC--S1slZz9KF1pyMs-fTgjVfdxqeoWNBERzpNcfQ6MFU1fvAsyLKtOoSrxwnLnlMCxVkakcvlteiuc0ZAjz58Qz6fzPEdI0pSjcqAwAA8eYXbOaKMCX63lV48mFUnx8BE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "27f2f1203d8fd27f1HF82964FVVT",
+      "encryptUserId": "00be3a4459a79de91Xx72dy_F1I~",
+      "invalidStatus": false,
+      "jobName": "初中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握Java编程语言以及面向对象编程的概念和原则。\n2、熟悉Spring框架，包括Spring Boot、Spring MVC、Spring Cloud等。\n3、具备微服务架构的理解和实践经验，了解服务注册与发现、负载均衡、容错处理等相关概念和工具。\n4、具备良好的数据库设计和SQL查询优化的能力，熟悉Oracle或其他关系型数据库。\n5、熟悉RESTful API的设计和实现，并了解常用的Web服务协议和数据交换格式，如HTTP、JSON等。\n6、熟悉消息队列和异步处理的概念和应用，如Kafka、RabbitMQ等。\n7、具备性能优化和调优的经验，包括代码优化、数据库查询优化、缓存使用等。",
+      "encryptAddressId": "a0c7e7ef7d00b43d3nR53N69FFo~",
+      "address": "南京江宁区江苏省电力公司检修分公司江苏省南京市江宁区苏源大道56号，江苏省电力公司检修分公司",
+      "longitude": 118.809446,
+      "latitude": 31.906739,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf50cd85e6ca3054e81526c6ea949e85cb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bff2f51f37f4917324e52fe2af7f8d8f6e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170606/6a8a244909be91fb296eec1f2f66de53b31bde49098d4dcc6d2c21e72e5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "安徽科大国创软件科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d500a7e9d88e60d61XJ93dS1F1I~",
+      "brandName": "安徽科大国创软件科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230506/7bf6f160950405e9650a7c1d6537aa7e1ee88c7836aef3ef9e7d698e974c883b557a7c9834d15eb9.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722572878291,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安徽科大国创软件科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

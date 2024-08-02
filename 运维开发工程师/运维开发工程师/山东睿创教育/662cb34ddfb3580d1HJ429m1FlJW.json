@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Dj9P-nZalJXjg-X1S_F-IN_HFkaMVTC7rYrorQqf-u4ApvmzCypyUGIrkNR58N0nQh6wfK4e9Kdih_3btbjg1mIt_uoHvs_eWjck0bE8VfcK0Sua_MLr",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "662cb34ddfb3580d1HJ429m1FlJW",
+      "encryptUserId": "de7c70016f435b701nR-3N2_E1dT",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责公司内部运维平台的开发、维护和关键技术调研\n2.关注监控技术发展来进行技术演进和迭代，推动平台完善\n3.熟悉Golang、Java, Python, Shell等其他一种或多种语言，有独立解决各种系统问题的能力\n4.参与运维监控平台规划设计、实现及优化工作，提升集群与平台稳定性；\n\n要求：\n1.有Prometheus/Grafana等监控系统构建、配置、使用经验\n2.熟练使用GO/Python/Shell等脚本语言；\n3.了解一种或多种云平台（openstack，zstackd等）\n4.熟悉容器编排理念，有Kubernetes/docker等相关安装、运维实践经验优先",
+      "encryptAddressId": "eb51f374cadd1eca0HN_29S0GVM~",
+      "address": "济南历城区国家超算济南中心科技园主楼6楼",
+      "longitude": 117.266894,
+      "latitude": 36.65727,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74211a16223c12dd7b07ee53135b8459",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ccd72eddf2a9f46714735726b41437f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Java",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "山东睿创教育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "747b4c5a9d9a5c0e1XB-2ty-Flo~",
+      "brandName": "山东睿创教育",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230112/7bf6f160950405e9721fc5cc6aa1b24cf787f92053a7c86c29478aa7d765c8d2d1dd09aef0e4ddaf.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "山东睿创教育科技有限公司，是由山东省计算中心（国家超级计算济南中心）科技成果孵化，山东省科创集团有限公司（国有全资）战略投资成立的高科技企业，办公地点位于济南市经十东路2866号超算科技园主楼。睿创公司致力于创新推动科技发展，面向智慧教育领域，依托济南超算雄厚的算力资源优势，打造“互联网+教育”服务平台和产品解决方案，拥有12项专利和软著，研发教学实训平台、编程学习平台、虚拟仿真教学平台、高校数据资产管理平台、智慧校园系列产品等教育领域软件产品，为高校、科研院所等各行业用户提供实训教学、信息技术培训、科普培训等相关技术服务，并为智慧校园、智慧教育解决方案提供技术底座和典型应用，助力教育信息化、智慧化、高质量发展。",
+      "labels": [
+        "免费班车",
+        "餐补",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722174271722,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东睿创教育",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

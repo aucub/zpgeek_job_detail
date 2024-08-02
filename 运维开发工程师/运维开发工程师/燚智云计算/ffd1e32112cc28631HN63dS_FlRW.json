@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yAPYDS23dvagq-91AVahZk9Shat1PzEkfzwbqtKqCfk4V6yUE_8Ixdr4rufLyM0iE1kzvz7-sjAjPBmaJUUDp8CF53syZwoYg_6pZUhJg80hLlyKwEE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ffd1e32112cc28631HN63dS_FlRW",
+      "encryptUserId": "4472a927eb9f2f5f0nR8292-FVA~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101190700,
+      "locationName": "盐城",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责GPU算力集群等产品底层平台运维相关功能的开发、性能测试与调优；\n2. 负责分布式存储的部署、运维及优化；\n3. 各产品线服务架构评审，并能提出设计，规划建议；\n4. 维护各项服务，持续查找并修复问题，保障业务稳定运；\n5. 及时响应各种故障报警，能够快速解决问题恢复业务；\n6. 积累系统及应用运维的实践，制定运维规范和策略，并实现文档化；\n7. 通过技术手段进行成本控制及优化，通过工具化及流程提升服务管理效率；\n8. 支持售前相关的集群、存储、网络等相关的解决方案定制、评审、汇报等；\n\n任职要求：\n1. 计算机科学、或相关技术专业；\n2. 3年以上在Linux, 高性能计算（HPC）或DevOps方面的实操经验；\n3. 熟练掌握Linux服务器管理，并深入了解相关知识；\n4. 熟悉云原生技术，包括但不限于Docker、Kubernetes。了解其原理并能够熟练配置、使用， 对CI/CD有较深的理解；熟悉KVM等虚拟机技术；\n5. 掌握Shell、Python、Golang中的至少一门语言，能够编写运维脚本；\n6. 具备分布式存储、路由交换等相关的知识与实施能力；\n7. 具备快速学习并掌握新数据技术的能力。\n\n加分项：\n1. 拥有IB网络、RoCE网络经验；\n2. 具备GPU计算领域相关知识。例如CUDA, cuDNN, NCCL, Tensorflow, Pytorch, CST等；\n3. 具备网络安全相关经验；\n\n公司产品由博士，硕士带队，团队核心成员拥有多年的云计算、AI技术经验，目前核心产品技术已闭环。核心产品主要以软硬件一体机、SaaS云服务形态对外提供服务，同时面向行业与合作伙伴提供整套软硬件解决方案。",
+      "encryptAddressId": "e92d2dedd9ee02881nR-09S-EVBUyoW-UvOa",
+      "address": "盐城盐都区大数据产业园B8栋4楼",
+      "longitude": 120.183576,
+      "latitude": 33.308566,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240603/48ba41acc9cef1bf156fb79fd3d5a9b37665e0b3cfac9c626bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240603/48ba41acc9cef1bf19cbee8a47bee3c479c637b583ffb8b76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "Zabbix/Prometheus",
+        "Kubernetes",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "运维开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "燚智云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6e8ed23c4096cae01HF409m-E1E~",
+      "brandName": "燚智云计算",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "致力于AIGC软硬件解决方案及智算云服务",
+      "labels": [],
+      "activeTime": 1722491365640,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "燚智云计算",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

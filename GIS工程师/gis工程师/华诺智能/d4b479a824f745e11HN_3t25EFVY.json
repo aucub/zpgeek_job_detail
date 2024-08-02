@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "p9tkzrntaRzyK-G1bycb6QpthHTrPKhr0ma0dAmK2SycClk1pcRQKta8VvHXzHrs2LWwZijM2CRutGre-nPTkqXmZQNpyfNAYaG0GS1NwLXxKQ0WLuSY96tSDnWrS8OsaNhMaqy1yAXFlkeOu-2_nY6LJYcC2t4ut_6M-6ZNFuOqL9e8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4b479a824f745e11HN_3t25EFVY",
+      "encryptUserId": "719dfd6748c65dd903d-3tu6GFc~",
+      "invalidStatus": false,
+      "jobName": "gis工程师",
+      "position": 100124,
+      "positionName": "GIS工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、参与项目规划和需求分析，根据项目需求提供解决方案\n2、配合客户负责数据脚本开发，数据应用开发工作\n----\n技术要求：\n1、重点掌握postgres数据库，能熟练使用SQL语句编写脚本，具备运用空间计算函数加工清洗数据的能力\n2、重点有一定数据开发或软件开发经验\n3、熟悉gis或地图相关理论知识不限于地图投影，坐标转换，地理编码，GIS数据等，且有相关的应用经历\n4、熟悉掌握Java语言和常用的开发框架（Spring，Mybatis等）\n5、熟练使用常用的数据库（如Mysql,postgres）以及基础中间件如Redis，MQ",
+      "encryptAddressId": "3ec4b7771c4126681nV42Ni9GFRQyoy7WfOd",
+      "address": "苏州苏州工业园区苏州工业园区2.5产业园M3栋",
+      "longitude": 120.723343,
+      "latitude": 31.324036,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfdf2a29a15a06ddb4e58343a997eab2936bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf609bc004da6251b2cd55c1c0aec3acd26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "Cesium",
+        "OpenLayers",
+        "Java",
+        "ArcGIS",
+        "地理信息/测绘工程相关专业",
+        "地图/导航开发经验",
+        "WebGIS开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "蓝先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210426/2559370e1aed502bd1b77cdecb1a7f214ddad66cd83f3ed1232300a1557_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "华诺智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ffa85926f5c7dc701nBy3d26ElI~",
+      "brandName": "华诺智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "华诺智能，专注于以先进工业视觉技术和高度本土 化应用解决方案，助力制造企业数智创新，以“聚 焦制造业赋能，致力于为客户降本增效”为使命， 坚持“为机器植入眼睛和大脑”，为客户提供高匹 配度的工业视觉系统、工业视觉装备与核心工业视 觉器件等高端产品与解决方案。 公司以客户为中心，赋能消费电子、平板显示、半 导体、汽车制造、印刷包装、光学照明、机器人、 医疗等行业和领域的智慧制造，以领先技术和“一 对一”精准服务，帮助客户在实现生产环节中智能 化数字化改造的同时，实现生产成本的经济效益优 化。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "企业年金",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "团建聚餐",
+        "节日福利"
+      ],
+      "activeTime": 1722575729666,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华诺智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wU2q-pm8sUSEO-p1MqpR7n81edGBu59YhNSK5UtBfcwaNQ5lhyTKHsuO0I8I132r4sH3vXabETMU7S0a8mZ48WegPDFPZiQcQ4N6OQY61JKFn2H9XSRD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8ef82da22fd9d5811HJ809W4FVJZ",
+      "encryptUserId": "f0ed55666d9df3f40XB_0ti_EVpV",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师（学历学信网可查）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】 \n1、负责公司产品研发，代码编写及评审；\n2、负责系统架构的搭建及系统调优；新技术的研究与落地，参与关键技术选型及解决方案评估决策，参与各类技术开发任务；\n3、负责需求调研、可行性分析和需求分析，撰写相关技术文档；\n\n【任职要求】\n1.本科及以上学历，计算机相关专业，2年以上相关工作经验；\n2.熟悉主流的Java开发框架如Spring，SpringMVC,Mybatis，SpringBoot，SpringCloud等；\n4.掌握数据库相关知识，熟悉Oracle数据库，能熟练运用SQL语言，具备一定的SQL调优经验；\n5.熟悉Linux系统，熟悉SVN、Git等代码版本管理工具，熟悉Maven等项目工具；\n6.熟练使用Redis缓存，熟悉搜索引擎solr或elasticsearch；\n8.熟悉Linux、Tomcat，Apache，NGINX等开源的服务器和web服务中间件；",
+      "encryptAddressId": "593f78da3f7aa08c0X173Ni4FFZXxY28VvM~",
+      "address": "南京建邺区紫金文创园2号楼",
+      "longitude": 118.708929,
+      "latitude": 32.016857,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230513/48ba41acc9cef1bfbcb506dd49d8c746a336c874872bf2f96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf0fb318393e9ec1d44f823e1aa902b3656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240402/607f1f3d68754fd07a35ecfd64c8174c900e013e85317f1ab2be4872a52a945ecc44fe4476b8a56_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "UTC优泰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5e59dc5432982a2d1nF739u4F1A~",
+      "brandName": "UTC优泰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722506445544,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "UTC优泰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

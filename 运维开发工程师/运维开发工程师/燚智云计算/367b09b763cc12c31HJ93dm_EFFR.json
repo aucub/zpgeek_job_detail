@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4Zg6zDvxOiE91-I1RcEIriI36W-ro198aO5dNuyG9e0Gtay408ICiyUMqHcUBT-0YYP2b_XN3QvH1IxjkKf6jtRBBdfkgvKg4GPDMBiDzxSJS20z-zEK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "367b09b763cc12c31HJ93dm_EFFR",
+      "encryptUserId": "b9f5f0d98c6909460nB_39q_EVVT",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101190700,
+      "locationName": "盐城",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责GPU集群、分布式存储等底层Linux运维相关功能的开发、性能测试与调优；\n2. 负责分布式存储的部署、运维及优化；\n3. 各产品线服务架构评审，并能提出设计，规划建议；\n4. 维护各项服务，持续查找并修复问题，保障业务稳定运；\n5. 及时响应各种故障报警，能够快速解决问题恢复业务；\n6. 积累系统及应用运维的实践，制定运维规范和策略，并实现文档化；\n7. 通过技术手段进行成本控制及优化，通过工具化及流程提升服务管理效率；\n8. 支持售前相关的集群、存储、网络等相关的解决方案定制、评审、汇报等；\n\n任职要求：\n1. 计算机科学、或相关技术专业；\n2. 3年以上在Linux, 高性能计算（HPC）或DevOps方面的实操经验；\n3. 熟练掌握Linux服务器管理，并深入了解相关知识；\n4. 熟悉云原生技术，包括但不限于Docker、Kubernetes。了解其原理并能够熟练配置、使用， 对CI/CD有较深的理解；\n5. 掌握Shell、Python、Golang中的至少一门语言，能够编写运维脚本；\n6. 掌握高性能计算（HPC）相关技术栈知识。例如任务编排，并行文件系统，自动部署，软件管理等；\n7. 了解公有云相关知识。例如阿里云等；\n8. 具备分布式存储、路由交换等相关的知识与实施能力；\n9. 具备快速学习并掌握新数据技术的能力。\n\n加分项：\n1. 拥有IB网络、RoCE网络经验；\n2. 具备GPU计算领域相关知识。例如CUDA, cuDNN, NCCL, Tensorflow, Pytorch, CST等；\n3. 具备网络安全相关经验；\n\n公司产品由博士，硕士带队，团队核心成员拥有多年的云计算、AI技术经验。初创团队，AIGC 人工智能赛道，研发团队分布在常州、盐城、上海。核心产品主要为智算GPU集群、分布式存储、智算软硬件一体机、算力云服务等，同时面向行业与合作伙伴提供整套软硬件解决方案。",
+      "encryptAddressId": "b229e1be525730fe3nxz39-_EVpQwY22UPk~",
+      "address": "盐城盐都区大数据产业园B8座4楼",
+      "longitude": 120.180183,
+      "latitude": 33.306765,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf55d943ebaae94fe26a2dde83e56e84456bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7b6bad1b2a89379c12180660335630836bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CCNA/CCNP",
+        "CCIE",
+        "Docker",
+        "Ansible/Salt/Puppet",
+        "运维开发经验",
+        "HCNA/HCNP",
+        "计算机相关专业",
+        "网络安全相关经验",
+        "Kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240304/607f1f3d68754fd0246453a08c7458162373e17450f8bc2e29fa3cd3b2376d44923993142175207_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "燚智云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "414dd1c1ca95d87f1HF72Nq9E1s~",
+      "brandName": "燚智云计算",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240716/7bf6f160950405e9e9c0a8d796b924570da23a8cad15d41d29fa3cd3b2376d44923993142175207c.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100029,
+      "industryName": "云计算",
+      "introduce": "",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "五险一金"
+      ],
+      "activeTime": 1722506847437,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "燚智云计算",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

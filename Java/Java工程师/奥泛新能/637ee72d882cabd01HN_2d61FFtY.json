@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GEuvrtVVKlukU--1o5grVdW6KphaGGrbrmSHHWI86_RuyZnlDEZdcx8tvE8k-Dei7xQUm9DzP2fwexwrg3wfiiJG1zJcWDiWPoXAb7CuJjCTkWi2Ry8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "637ee72d882cabd01HN_2d61FFtY",
+      "encryptUserId": "057e96ecd78cbfe91XJ_09y8E1M~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120300,
+      "locationName": "淄博",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "1.Java基础知识：‌包括语法、‌面向对象编程、‌异常处理等，‌这是成为一名Java开发工程师的基础。‌只有牢固掌握这些基础知识，‌才能在后续的开发中更加灵活地运用Java进行编程；\n2.Java核心库：‌掌握Java提供的丰富核心库，‌如集合框架、‌多线程、‌IO流等，‌能够提高开发效率和代码质量；‌\n3.Java Web开发：‌掌握Java Web开发的相关技术，‌如Servlet、‌JSP、‌Spring MVC等，‌能够开发出高性能、‌可扩展的Web应用；\n4.数据库和SQL：‌熟悉关系型数据库和SQL语言，‌如MySQL、‌Oracle等，‌能够进行数据库设计、‌优化和操作；\n5.前端技术：‌了解HTML、‌CSS、‌JavaScript等前端技术，‌能够与前端开发人员更好地协作，‌实现良好的用户界面和用户体验；\n框架和工具：‌学习和掌握Java生态系统中的框架和工具，‌如Spring、‌Hibernate等，‌能够提高开发效率和代码质量。",
+      "encryptAddressId": "6c3a59bfde81abcc1nV429y4FVJQwo23VfmY",
+      "address": "淄博张店区壹酒藏大厦801",
+      "longitude": 118.064874,
+      "latitude": 36.870058,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bfc9f23cf4a51189fcdc22276aaa95f5426bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bfcf2c8fb9db71b15ce1c4d2dba9f0f93b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200904/236986e56a70de05aec8c82288edfdaac01693f2f9ed064e45059d5c887_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "奥泛新能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c5b395eb5435cc671HZ73Ny4GFY~",
+      "brandName": "奥泛新能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101202,
+      "industryName": "化工",
+      "introduce": "业务遍布全国，所以需要全国各地出差",
+      "labels": [
+        "餐补",
+        "带薪年假",
+        "底薪加提成",
+        "保底工资",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1722487681890,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "奥泛新能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

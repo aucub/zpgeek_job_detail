@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fytCsIOWRA6Sm-z1PQESnmHWe99Mp8Vy3FDvxMown0b55OXbo4guRF4v7-yYldJMrbcIEqSxrdZsMPh5VHnz4MlSlXxvicIj1Bxq7S9zuWcdLIbSwnXxJg5Ry0NPGckGMF-k6hzE1z5eIg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7de3860972d33a1d1HJ52Ni0F1JW",
+      "encryptUserId": "10b727c49cbfe21a03Zz2Ni_EVs~",
+      "invalidStatus": false,
+      "jobName": "交付运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、负责客户现场环境勘测、做出勘测报告判断是否符合部署条件\n2、负责根据不同项目客户制定部署实施方案\n3、负责百度私有化产品的部署实施、功能联调、基本功能测试、验证\n4、完善内部知识库、问题记录等\n5、根据公司安排完成其他技术支持任务\n工作要求，\n1、熟悉系统管理Linux（Centos、Ubuntu、suse至少一种）\n2、熟练掌握Ansible、Puppet、Saltstack、Rundeck其中一种部署系统\n3、熟悉shell、python其中一门脚本语言\n4、熟悉掌握（DNS、TCP/IP、NTP、DHCP）协议\n5、熟悉k8s、docker技术架构原理 并有相关经验\n6、熟悉常见中间件（nginx、mysql等）\n7、熟悉ansible自动化\n8、可适应短期和长期出差\n9、良好的沟通能力、问题分析能力",
+      "encryptAddressId": "f3176688b9625a1e0HB60t2-EFI~",
+      "address": "杭州西湖区中大银座8号楼",
+      "longitude": 120.081792,
+      "latitude": 30.129681,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a924f9c4a5fb6516c1e11d39cd2437c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/418e997efe2470bf6d3ffea2374c4151",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Kubernetes",
+        "Python/Shell",
+        "交付运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "hrbp",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "煜象软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b3eb46552fba38061n1y29S1FVM~",
+      "brandName": "煜象软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231024/7bf6f160950405e9e5c5d3b4fe21cf55d38b202e5265154f06afeacbecbbec055eb02a6354b3e60c.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "北京煜象软件技术有限公司是杭州数梦工场科技有限公司旗下的公司，因集团公司业务调整，由成熟的业务和成熟的团队重新组合后成立。成立于2021年9月。煜象软件是数梦工场、蚂蚁金服、中钞区块链研究院等公司战略合作伙伴。 定位为专注于数字政府、城市大脑、大型行业数字化转型等领域的解决方案提供商及业务交付商。主营业务和产品包含应用开发和数据开发业务、云和数据解决方案综合能力、云/安全/应用相关产品、技术服务业务等。核心团队继承了数梦工场在云和大数据领域多年的技术积累和行业理解力。煜象软件总部位于北京，杭州、北京设有研发中心。在上海、广州、武汉、成都将设立分公司或办事处。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "五险一金",
+        "年检"
+      ],
+      "activeTime": 1722513566034,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "煜象软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

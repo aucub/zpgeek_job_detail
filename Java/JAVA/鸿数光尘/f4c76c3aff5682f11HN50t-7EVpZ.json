@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-n0d5h583DEHZ-81kRdMz0X4wgUKsu-8o3Nl7XOiKn28sF5ABIzbuWujbuR9zcvPnG5Lwdb2Cp65vMMgmEMXI-26taOIVvCNXWMJIH-NkrdD5E_j7TQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4c76c3aff5682f11HN50t-7EVpZ",
+      "encryptUserId": "3efcdce936f4a5e41XNy2t26EVA~",
+      "invalidStatus": false,
+      "jobName": "JAVA",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位编号：(HSG00308）\n职级：P4\n经验要求：信贷经验2-3年工作经验，其中乙方经验不得超过1年\n学历：统招本科\n（以上是必要条件，请先阅读此项再投递）\n\n\n岗位职责：\n1、根据项目需求及开发规范，针对产品的后端服务，独立完成代码编写工作；\n2、根据项目测试及上线反馈，及时完成代码修改调整工作，保证项目按时发布；\n3、实现数据的存取和转换逻辑；\n4、协助设计数据存储结构及系统架构；\n5、相关开发文档的整理与编写；\n6、能够独立开发。\n\n岗位要求：\n\n岗位技能要求：\n1、2-3年以上 java 项目工作经验；\n2、熟练使用 SpringBoot、SpringCloud 微服务框架，熟练配置网关熔断、限流、负载，具\n有 SpringCloud 配置能力；\n3、熟练 mysql 主流数据库，具有 SQL 开发、调优经验；\n4、能够独立完成模块设计和开发工作；\n5、具备 springboot 搭建基础开发框架能力；\n6、具备一定的需求分析、设计能力，能有效的与客户交流需求；\n7、良好的团队合作精神，工作积极主动，主动的学习意识。\n\n职位福利：五险一金、周末双休、年底双薪、带薪年假、节日福利",
+      "encryptAddressId": "132c882d13cf3cf83nN70ty8GVdQxo66WfM~",
+      "address": "西安雁塔区瞪羚谷A座2楼",
+      "longitude": 108.860036,
+      "latitude": 34.194414,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230408/48ba41acc9cef1bf97e0007b78e6f6d1a20177bf3faeb5406bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230614/48ba41acc9cef1bf8e5807bace829d8e5af465aaed1ec8856bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200722/143cca6dd272a1f6d2498be39627a24869b3dbbcc1f4d200cbdde397e71_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "鸿数光尘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65ceba9346c05d041HVz3dW4GVI~",
+      "brandName": "鸿数光尘",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722506201052,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿数光尘",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

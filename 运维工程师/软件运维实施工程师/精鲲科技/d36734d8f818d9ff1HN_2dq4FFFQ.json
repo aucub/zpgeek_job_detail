@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-gQjhBWAMYOZt-v1RRuYNxs03Gd2OX116IV_ri69z7Mgu4apuEnBA1N8pBgXmdq5ATx5plWvzyWuZl2NezrbN3z0AvmninaPN175pcaIMszJvIM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d36734d8f818d9ff1HN_2dq4FFFQ",
+      "encryptUserId": "fc931c349642016f0nNz29y0GVY~",
+      "invalidStatus": false,
+      "jobName": "软件运维实施工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101240600,
+      "locationName": "吉安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "【前期居家办公】\n职位描述：\n1.负责搭建和运维Kubernetes业务系统的运行环境； \n2.负责业务系统的管理与维护，包括性能监控、性能调优和故障诊断以及系统维护与备份计划、网络配置、系统软件安装和配置、优化等； \n3.负责业务生产、测试、开发环境的维护以及功能调试； \n4.负责业务环境的日常巡检及异常状态报修处理； \n5.负责自动化脚本、编排文件开发和维护； \n6. 运维文档的撰写和整理工作，产品功能培训； \n7. 知识库的撰写和输出，手册、视频及服务商培训等 \n职位要求：\n1. 计算机相关专业专科及以上学历； \n2. 有编码能力，包括但不限于：Shell、Python，能编写日常运维脚本，具备一定开发经验 \n3. 2年以上企业Linux运维经验，包括Nginx、zookeeper、Lvs、keepalive，docker等，熟悉大型企业的IT运维规范，对业务安全性有深刻理解； \n4. 对Linux系统管理、安全有较好的认知、有相关环境迁移，升级，备份，数据还原相关经验； \n5. 有一定的网络基础，熟悉iptables，对有常见防火墙经验优先；有CCNA优先 \n6. 有MySQL或Oracle等主流数据库的使用、备份、群集经验； \n7. 常用监控软件深度使用经验：Nagios、Zabbix、Prometheus； \n8. 有常用自动化运维工具使用经验:Ansible、Saltstack; 有编排文件编写经验优先 \n9. 有K8s集群环境部署维护经验优先； \n10. 良好的沟通和团队协作能力，高度的责任心和执行力。 \n核心能力要求：\n1. 熟悉linux系统\n2. 熟悉docker mysql等中间件，有日常生产维护经验\n3. 学习能力强，能够及时响应生产环境所遇到的问题\n4. 优先考虑：熟悉Shell或者python脚本，能够快速编写对应需求脚本\n5. 优先考虑：搭建和运维Kubernetes业务系统的运行环境",
+      "encryptAddressId": "b22e16e8f07b1baa1nRy3t-4E1BXw42_WPmb",
+      "address": "吉安吉安县创业工业园(建设大道)1楼",
+      "longitude": 114.929506,
+      "latitude": 27.023159,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2512f47b98f0561f9cb15818cf45b88",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0cc518250a234faa088f9f173ee308b7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "实施交付运维",
+        "Python/Shell",
+        "Kubernetes",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "顾女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240702/607f1f3d68754fd0a6526214b54d2a8298159cc71b916b7cf073fbaca38f8615ce782a177c3a907_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "精鲲科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "698490cdfbc1c56303R53d8~",
+      "brandName": "精鲲科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201127/231d6cae57c6b5c8981e5eb0390cbffb53151b0163373945bd34a33c2690dbd7_s.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "精鲲科技作为企业自动化领域的倡导者，致力于面向客户业务的运营场景，通过“流程编排、执行自动化、数据流自动化” 的三重低代码应用核心能力，实现前端业务场景与后端IT数据系统的连接，无需开发和适配，即可快速打通系统与系统之间、部门与部门之间的隔阂、加速企业数字服务进程，提升企业敏捷性。2021年还入选全球权威IT研究与咨询机构Gartner发布的 2021《Hype Cycle for China ICT》低代码应用平台（LCAP）代表厂商。",
+      "labels": [
+        "股票期权",
+        "全勤奖",
+        "餐补",
+        "住房补贴",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722505018710,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "精鲲科技",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

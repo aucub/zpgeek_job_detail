@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hVRAjrPrg446D-A1HbuC6a2IughVVeUrDcjQaV-ov4-VBeq2RvnPADLeqPGrGxi0-y60Cx6AuBMGmIa0lasf5f9oEUaaahmqYagnxn3SyRvhLkOculk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b5596b287b1b484e1XJ-09-6EldW",
+      "encryptUserId": "01819195de8c2cf60nV_3Nu0FVU~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责系统独立模块的代码实现,编写代码注释及开发文档。 \n2、按业务需求进行单元测试,并维护所开发的功能块 。\n3、分析并解决系统开发过程中的问题 。\n4、保证系统稳定性,对系统性能及系统架构进行迭代优化。\n5、规范文档的编写、维护,以及其他与项目相关工作。\n6、完成领导交办任务。\n\n任职要求： \n1.两年及以上Java设计开发经验；\n2.具备良好的软件工程知识和编程规范意识，具备复杂业务逻辑开发和编写规范详细设计文档、代码审核能力；\n3.熟悉常见的设计模式，精通Spring（Spring MVC,Spring boot）、Struts2、Mybatis开发框架，了解分布式服务框架Dubbo等常用开源框架的原理；\n4.熟悉mysql、oracle常用数据查询语法及函数等。熟悉常用缓存技术及队列，如redis、ActiveMQ等；\n5.熟练掌握JSON、XML等数据格式的运用,熟悉Tomcat或者weblogic,至少一种MQ,Redis等中间件的用法；\n6.具有良好的沟通于团队合作能力。",
+      "encryptAddressId": "02d878b1b351ed1d0nd52tq9E1E~",
+      "address": "西安碑林区秦晋商务大厦510",
+      "longitude": 108.976055,
+      "latitude": 34.244789,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b96e3d762ed9cb5920ec66318f44bd4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc15c26cf817df85f3c03dfdecbc0c87",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "大数据处理经验",
+        "JavaScript",
+        "MySQL",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220329/607f1f3d68754fd08386beaa659a4254c2c52b32f4de85d6e9d6b2449d72fdb89b969f9fc21_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "西安峰华",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2c3bb76c32f6d02e1nB92t-9EVY~",
+      "brandName": "西安峰华",
+      "logo": "https://c-res.zhipin.com/jrs/b7aa76bb80267f0c1bee1e9ecf33a4da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "西安峰华信息工程有限公司于2005年4月成立，注册资本500万元，是郑州峰华铁信科技股份有限公司（股票代码：871222）的全资子公司，目前公司主要从事铁路行业的软件开发、系统维护、系统集成等项目以及相关产品的销售。",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722505533331,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西安峰华",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

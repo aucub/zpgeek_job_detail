@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BrdTAvFGwIANz-C12SpAntAAMUY41NKmqR3-CbUcv313EXwPPy8ftMx9LAMeDQqYZ2wkV9Oez7WVWw_alWx_Hqhtrh_WIONoIIGZlCh139BkjK5l0WePQo6MHOYIa0DCIA3up_sSIhP8KSCLRVCNodEu",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4e772cc6379e335b1HN_2d28F1ZU",
+      "encryptUserId": "810d3c126e86a8e30nJ53N28EFRU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\t\n1、负责项目后端开发、功能设计\n2、负责优化现有服务模块结构和流程逻辑\n3、负责参与产品需求的评审开发和解决项目问题解决，并提供相关技术支持\n4、独立完成功能模块开发、确保项目的进度设计\n任职要求：\n1、熟悉java语言，具有面向对象设计开发能力，能熟练运用spring的相关技术。包括spring boot、spring clound等微服务技术，mybatis技术\n2、对mysql、redis、es等有一定的经验。具有一定的数据库，sql调优能力，熟悉分布式消息kafka\n3、熟悉软件设计模式，并有一定的文档编写能力\n4、熟悉nginx的配置和linux环境的相关操作\n5、了解k8s和docker生态体系技术应用、有使用过经验优先\n6、能进行良好沟通，并具有一定的抗压能力。",
+      "encryptAddressId": "19d7aa17b2b4f2221nV70tS_E1pVxou6Uv-W",
+      "address": "海口龙华区海南滨海国际金融中心1206",
+      "longitude": 110.301128,
+      "latitude": 20.022088,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7b27dd46abe8df2e5dbcfd2dcfd4f4c46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf1fcbb13dedf16df8743c9c421634e5de6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "林女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221012/607f1f3d68754fd07c484e1cc7c724ae0803ead26498678c8ce04cc75335d9d9b20c633ecad_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "鑫晟隆",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a89d50308c542be01nZ629y5E1I~",
+      "brandName": "鑫晟隆",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722565429938,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鑫晟隆",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

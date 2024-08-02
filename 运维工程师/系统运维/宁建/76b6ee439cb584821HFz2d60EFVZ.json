@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PfDoPxZaQstws-q1hTWNdom4_fIeY8wLNG5GLSV-PGB00TjI_Rv_NyomrJNEIAVLL1vX44Uk0wBXj5e1uiL_s6hDrM3ONoTtFYdPWTxPS1uEjhp-jm8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76b6ee439cb584821HFz2d60EFVZ",
+      "encryptUserId": "0449eeb1698b232b0Xd-3N64GVRV",
+      "invalidStatus": false,
+      "jobName": "系统运维",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101170100,
+      "locationName": "银川",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "【岗位在银川，离宁夏近的省优先考虑，必须有1-3年的正式工作经验，24应届暂无岗位】\n\n1、熟悉系统架构、接口、开发平台、数据结构以及重要参数配置；能独立完成系统测试环境部署；\n2、熟练掌握Linux系统及相关应用（如Nginx、mysql、Tomcat、zabbix、ELK等）的部署及调优；3、熟悉windows和linux等主流服务器操作系统的安装、优化及管理；\n4、具备linux命令行操作能力。精通常用Linux指令，具备独自排错能力；\n5、熟悉oracle、mysql等常用数据库软件，熟练使用sql脚本；\n6、熟悉ansible自动化运维，掌握shell脚本语言并能熟练编辑shell脚本；\n7、熟悉zabbix、graylog等监控软件，具备主机、端口等监控配置能力；\n8、熟练使用docker，并能编辑dockerfile，熟悉k8s的使用、配置和运维，能熟练的根据需求进行相应的搭建；\n9、具有IT行业专业资格证书。",
+      "encryptAddressId": "2df429af0f466a430n142Nu9GFNTy4y8Vfo~",
+      "address": "银川金凤区银基大厦B座9楼，出电梯口左拐直走",
+      "longitude": 106.232787,
+      "latitude": 38.519299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf3a9527d51eefdb7ec6cd28835a4deab76bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230824/48ba41acc9cef1bf2a09615e75751566268f3b75a6e61cdb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "Kubernetes",
+        "MySQL/Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240318/607f1f3d68754fd06211fbdba6e80974232f4a930610bfc40b641ef59d62f701e5655dca3fd7b1c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "宁建",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe8662b1cc4d9f751Hx73Nq8Eg~~",
+      "brandName": "宁建",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190313/7e55591cc80272df356a501f6bb249ed3f81a9960ee566e333d81d6050b680af.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722507314703,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宁建",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

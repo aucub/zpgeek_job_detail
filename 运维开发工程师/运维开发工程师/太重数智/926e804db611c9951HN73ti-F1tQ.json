@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Tq3zsBy0ztcIC-_1Wm-TcwBt8SqXul5AQk6d2g4u43dJaqS6mNtXb_6KJEaCoHpodhlU0IuNz1em9s4nCXA6v_J8fhy2p89qvLnPTdhtSSE0inRtltog",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "926e804db611c9951HN73ti-F1tQ",
+      "encryptUserId": "c292a70e2feaad520XV93t66EFFZ",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、本科及以上学历，计算机科学、软件工程、人工智能、网络工程、信息安全工程、数据库管理工程等专业优先；\n2、熟悉 Linux/Unix/Windows 等操作系统，了解网络原理，熟悉网络相关配置；\n3、精通 nginx、k8s、MQ、redis、Kafka等的部署、优化；\n4、精通 zabbix 与 Prometheus 监控系统的搭建和维护，能够开发自定义脚本，有能力通过性能监控指标分析，提出相关性能调优方案；\n5、熟悉MySQL/SQLServer/Redis/MongoDB 等数据库的基本原理，熟练掌握数据库性能优化技巧，能够定位系统性能瓶颈并解决问题；\n6、熟悉深度学习原理及常用框架（如TensorFlow、PyTorch等），了解大数据处理技术和工具（如Hadoop、Spark、Kafka等），具备数据处理和分析能力。\n7、能够独立分析、解决网络问题，进行服务器故障的初步排查，操作系统问题的处理，保障系统稳定运行。\n8、可以承担节假日值班、非工作时间加班及短期出差；\n9、具有数字化工厂、工业信息化、工业互联网等行业的运维工作经验者优先。\n岗位职责：\n1、负责监控信息化系统的运行状态，包括服务器、数据库、中间件、网络设备等；\n2、定期对系统进行巡检和安全漏洞扫描，对系统故障进行排查和解决；\n3、制定并执行数据备份策略，保障系统关键数据的安全性和可恢复性；\n4、分析系统性能瓶颈，提出并实施优化方案，定期进行系统资源使用评估，确保系统资源合理分配；\n5、遵守并执行公司信息安全政策，负责系统安全管理，定期进行安全审计与风险评估；\n6、编写和维护系统运维文档，包括操作手册、巡检报告、故障处理报告、应急预案等。",
+      "encryptAddressId": "a318d9d6d98ef83a03R_3t21FFBVxYu5V_4~",
+      "address": "太原小店区太重煤机工业园12层",
+      "longitude": 112.599634,
+      "latitude": 37.755471,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf065dc0c2359d5ff7a457ca4f6b01f3ab6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf0392a286f93eb9e83cfd3176df5cdedf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Hadoop",
+        "Docker",
+        "计算机相关专业",
+        "运维开发经验",
+        "大数据运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "太重数智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "586e914dbf6f5efb1HZ509S5GVU~",
+      "brandName": "太重数智",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240419/7bf6f160950405e9ee244fdd676f4c77a16239193c73ac276b55b86b46a02987b279822604c4a427.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "免费工装",
+        "餐补",
+        "带薪年假",
+        "工龄奖",
+        "企业年金",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1722318217920,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "太重数智",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

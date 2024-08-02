@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Q2zxpRav6WePw-E1f0Yxvyhn_Zgp7RNZuyxO6Z7_O932glzAon8QXWYHA20ZR4Q53StCIlj0bc6eymkg0I11D42vZlDGTV_F-qHSIp6ZJPe0p8saVg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ed31034290f0ce1c1HN_29u1ElRX",
+      "encryptUserId": "2e3f09f9f21f78da1nV629m0FFdU",
+      "invalidStatus": false,
+      "jobName": "JAVA（PC端开发）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 3,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用java并熟知其实现原理,要懂常用的设计模式以及具备重构代码的经验；\n2、掌握常用框架Spring、Spring MVC、MyBatis、SpringBoot、SpringCloud等；\n3、熟悉Maven、Git等项目管理以及系统构建工具；\n4、熟悉Redis、MongoDB等缓存中间件的原理及使用；\n5、熟悉Tomcat、Jetty等WEB容器性能优化；\n6、掌握mysql、PostgreSQL、达梦等数据库开发，掌握SQL语句优化，优化数据库设计及性能；\n7、掌握在Linux系统下的应用环境部署及性能优化，熟悉Shell脚本；\n8、具备良好的沟通表达能力和分析问题、解决问题的能力，同时具备良好的团队精神；",
+      "encryptAddressId": "faa7c03b6de092e71nV73N-0EFBQyo69U_Od",
+      "address": "合肥蜀山区高芯光谷1",
+      "longitude": 117.196673,
+      "latitude": 31.841774,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b82dc5791caa048b2d60a733e147afa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd4771b2bd152c9ea3bcea42ae5888d3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "人才经纪人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220217/607f1f3d68754fd070662871e463a065fab0727ba43e6414d6ff3743e9c72cf51cec12cabbe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "易才TMO",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cf00a63359e8d8dc1nV43N-8",
+      "brandName": "易才TMO",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181101/f5668522b20a7134cd6b622ca93943c9cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "乾通互连是一家以SAAS、云计算及移动互联网为方向的智慧化人力资源服务商，成立于2014年，创始人为李浩。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1722504285136,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海宜信商智人工...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

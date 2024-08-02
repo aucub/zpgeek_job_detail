@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qEiRcka3m99PJ-I1hXAiRltv7qBk2wXNmfgp96zItljod1NnACfRpADP3DTN9-nSNOKSZDESoearCVoHbAOv39OKaFcrPQGIW3ZgHMs7RA7Ulep17cI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "97b3d34ede9c76281HN-0tS5FFBU",
+      "encryptUserId": "90d7de65537f10690nB63Nq4EFA~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1、有扎实的计算机科学专业基础，2-3年Java开发经验；\n2、精通Java，对Spring、SpringMVC了解其原理和实现机制；\n3、精通SQL，熟练使用MySQL、SQL Server等数据库，并具有一定的SQL优化能力；\n4、熟悉Redis、MongoDB等常用NoSQL解决方案，了解各自的优缺点以及使用场景者优先；\n5、熟悉常见设计模式，熟练掌握 jpa、myBatis、 等框架；\n6、具备需求分析和系统设计能力，以及较强的逻辑分析和独立解决问题能力；\n7、熟悉ruoyi开源框架，了解前端bootstrap，layui框架，能对html页面进行编辑处理。",
+      "encryptAddressId": "9b2e11c1d3dc37890nJ-09u8F1VWxYS_Wfg~",
+      "address": "太原小店区联合大厦A座",
+      "longitude": 112.557177,
+      "latitude": 37.787912,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ec9aaca758438589efd391114d54cb4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b0252330a06590568514b3771fc2be4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Tomcat",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "亨搏智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7b586dd97383e69f1nd70tW1ElE~",
+      "brandName": "亨搏智能",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722506311479,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亨搏智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

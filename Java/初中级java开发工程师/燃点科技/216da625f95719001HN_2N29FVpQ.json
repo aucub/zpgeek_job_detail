@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OX71_2gve3Hvg-r1I5znDLcGf3JD2ATD39J1avROtkzODqyikJxCyOj53dTEMUol7VF3bDZyRC1CjWxl8qylVTnb_xjVDKlZ4IfdzBIJpWRGGtMgoAw-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "216da625f95719001HN_2N29FVpQ",
+      "encryptUserId": "8fc6997ebd7d625f0XR42ty-FFZV",
+      "invalidStatus": false,
+      "jobName": "初中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求: 热爱技术，对学习技术有很高的兴趣，喜欢钻研未知技术领域，有一定自我学习和解决问题的能力\nJava技能要求：\n1、基础要求：Java基础扎实，熟练掌握Java的基本语法，对集合，线程，io有较深的理解。\n2、框架与中间件：对常用Java框架和中间件拥有丰富的实践经验和深入理解。\n3、设计模式：理解并能有效运用各种设计模式。\n4、分布式系统：对分布式系统的原理有深刻理解，并具备独立搭建微服务框架的能力。\n\nLinux技能要求：\n1、基础命令：熟练使用Linux常用命令。\n2、运维能力：具备Linux运维的相关知识和技能。\n3、网络工具：熟练使用nginx等反向代理工具，能解决常见的网络问题。\n4、发布管理：能够独立完成项目的发布工作。\n\n数据库技能要求：\n1、优化技能：能够进行数据库的优化，包括表结构和查询语句的优化。\n2、设计能力：能够合理设计数据库表结构。\n3、知识广度：了解不同类型数据库的特点和差异。",
+      "encryptAddressId": "f872897cfe49d7d903Z62t6_E1tVxYm9WPw~",
+      "address": "青岛崂山区青岛创客大街C座2号门220-3",
+      "longitude": 120.416531,
+      "latitude": 36.072225,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bfbfbd7790b41cb58b4f1a726e43e455066bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bf10a9fe91680b6abaf9b0cd48297c44516bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "SpringCloud",
+        "Dubbo",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "分布式经验",
+        "微服务经验",
+        "大数据经验",
+        "有前端经验",
+        "了解Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230608/607f1f3d68754fd0a589be20551929511073f1bca3fafff1d6e571836fe76946a0bb7b04ff7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "燃点科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c342111ce3fb1b1d1Xx629q6GVU~",
+      "brandName": "燃点科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722505243629,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "燃点科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

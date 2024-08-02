@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sQlrBjglMW-Mz-P1rvweVM2LN_CaJpzxhAi1fafsqhLL5P4k2DbxJ3u2OqeTpu__fcyzQ7vQcxP0JqPCshk6XTGglBDpHNsk_Ky6jBUahg8ACk9868gc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85997e9573d368b01HN73tu5EFNW",
+      "encryptUserId": "5c3ce92fb7a4e70e0XJ83t-4FlpV",
+      "invalidStatus": false,
+      "jobName": "后端维护工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n\n1. 技术能力\n\n• 熟练掌握至少一种后端编程语言，如 Python、Java、Node.js、Go 等。\n\n• 熟悉常用的数据库，如 MySQL、Oracle、MongoDB 等，具备数据库设计和优化能力。\n\n• 掌握数据结构、算法和设计模式，能够编写高效、可维护的代码。\n\n• 了解 HTTP 协议、RESTful API 设计和开发。\n\n• 熟悉服务器端框架，如 Django（Python）、Spring Boot（Java）、Express（Node.js）等。\n\n2. 系统架构和部署\n\n• 有构建高可用、可扩展的后端系统的经验。\n\n• 熟悉云服务平台（如 AWS、Azure、GCP 等）的使用和部署。\n\n• 了解容器技术（如 Docker）和容器编排工具（如 Kubernetes）。\n\n3. 问题解决和调试能力\n\n• 能够快速定位和解决后端系统中的问题，具备良好的调试技巧。\n\n• 有处理高并发、大数据量场景的经验和解决方案。\n\n4. 团队合作和沟通\n\n• 能够与前端开发人员、产品经理、测试人员等有效沟通和协作。\n\n• 具备良好的团队合作精神，能够分享技术知识和经验。\n\n5. 学习能力和责任心\n\n• 对新技术有强烈的学习兴趣和好奇心，能够跟上技术发展的步伐。\n\n• 有责任心，对工作质量和交付时间负责。\n\n6. 相关经验\n\n• 具有一定年限的后端开发工作经验，有成功上线的项目经验者优先。\n\n当然，具体的招聘要求可能会根据公司的业务需求、技术栈和项目特点有所不同。",
+      "encryptAddressId": "1cc4d698bf2875cd1nR-3dm5F1JRx4i-UPmd",
+      "address": "重庆江北区东原d7写字楼3号楼楼1213",
+      "longitude": 106.496101,
+      "latitude": 29.570113,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfa5345f9b95be7ff17949a375b6be91cb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf6ce6b7ed6cea2787fe1b9bfabe00f66f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python/Shell",
+        "Golang",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240711/607f1f3d68754fd0381d734cde7ccd0132e7a497befbd00454583b6bbfd7e56fda9ba3ec2c413bd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "巅峰互娱电子商务公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6beac1490b6231e61HF9292-Fls~",
+      "brandName": "巅峰互娱电子商务公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "",
+      "labels": [
+        "全勤奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金"
+      ],
+      "activeTime": 1722320583668,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "巅峰互娱电子商务公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
