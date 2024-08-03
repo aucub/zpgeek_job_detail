@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XsSgDiEBIJShB-u1x4cOZ5tFSY1gOOCnLtM5sfO8q1F-uFKHMOgraaphUeJI8M-QdnC7DWz1ZCqj9GROg7lzCSf8Xl1QjhPWATl0euOsPn1AHTJqks3SjF37XteVMeN-vYreTQoc5-IKoGY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7074a4edd69870d01HN52dW0FldY",
+      "encryptUserId": "1f0712d5c61abb9f0nx63di8ElpU",
+      "invalidStatus": false,
+      "jobName": "kettle二次开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1.Kettle ETL工具：熟悉Kettle的使用和原理，以及如何通过可视化界面完成数据同步和处理的工作。\n2.具备扎实的Java编程基础，对Kettle源码有一定理解,可以对原生Kettle进行功能扩展和定制;了解如何进行Kettle的二次开发，包括可能的改进点如Web版的Spoon、Kettle引擎的API接口以及作业调度等。\n3.数据库相关:熟悉不同类型的数据库（如MySQL、Oracle、SQL Server、Hive、TIDB等），ETL过程通常涉及到的数据的抽取、转换和加载相关技术。能够设计和优化数据库模型，以及编写高效的SQL语句\n4.大数据相关技术:Hadoop生态系统，包括HDFS、YARN;数据流处理,包括Kafka、Flink\n5.相关开源项目：DataX（阿里DataWorks开源版本）、Dinky（实时计算开源项目）、其他kettle-web相关项目\n6.大专以上学历，学信网可查\n7.必须有kettle二次开发经验",
+      "encryptAddressId": "a8d5cf51713bf6071nRy3tu8FVtTx4m4Vvya",
+      "address": "北京丰台区中国铁路通信信号股份有限公司(汽车博物馆南路)中国通号大厦",
+      "longitude": 116.307437,
+      "latitude": 39.827694,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240722/48ba41acc9cef1bf636621e384e6bba06229d9af29e4b8186bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240722/48ba41acc9cef1bf610eaad5a8e092d75682d650197393b36bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "kettle二次开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "智星云达科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "289432bec56df34e1XF72NW0E1A~",
+      "brandName": "智星云达科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230518/7b5b554d84f9729c8e360a53e08494a98f3e1d9a0ea6a76379bb5aaeafcb133d2c9c53f989843b66.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722585842000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智星云达科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

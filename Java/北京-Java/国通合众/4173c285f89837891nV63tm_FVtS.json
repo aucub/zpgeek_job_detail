@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pNsm5oUaZRqi6-G1t3v_GnNfjH4iCM-iStOEA4U-LbCQYlTEHTwkhwJN9BNdL3Cfqn_ZLtx392Bn_OimAVw23ZgtyaBg2lOECnHbsbWZdIuAsXM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4173c285f89837891nV63tm_FVtS",
+      "encryptUserId": "292dd814f172dd911HV72NS6FlQ~",
+      "invalidStatus": false,
+      "jobName": "北京-Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.大学本科或以上学历，3 年以上工作经验；\n 2.熟练掌握 Java 基础知识,熟练使用多线程、集合、反射、泛型等,JVM 调优熟悉;熟悉 spring、 springmvc、springboot、SpringCloud 系列框架的使用，有微服务项目开发经验，。\n3.熟悉 MySQL 或 Oracle 等关系型数据库的使用；",
+      "encryptAddressId": "037ab3a4e12fce5f1nJ80965EVQ~",
+      "address": "北京丰台区丰台科技园诺德大厦",
+      "longitude": 116.303822,
+      "latitude": 39.824989,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6a83add4a6b75b27658560c8bed4ce1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81a7621e491ae2a2794cd4265fbb8037",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不限",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "冯先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240517/607f1f3d68754fd06fa7dc3cbd273d54cd9b2c2f1de381da932d039c103e627bcfac90affbad67c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "国通合众",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c0cae3ed6ecf52c71HF-3N0~",
+      "brandName": "国通合众",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170930/7bebd042cb5464c1963b284e87c7c591cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京国通合众信息技术有限公司是福建国通信息科技有限公司（福建省高新技术企业、福建省首批软件企业，国家级火炬计划项目承担单位）在北京设立的一家全资子公司。公司将长期致力于软件开发、系统集成、软件外包服务以及安防弱电等信息化领域，专注提供行业级的信息化整体解决方案。公司秉承“关注客户期望，帮助客户成功”的经营理念，将国通科技总部多年来积累的专业IT服务和产品通过国通合众的平台做大做强，切实为客户提供更贴近的本地化技术支撑与“一站式”整体解决方案。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1722592879470,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国通合众",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
