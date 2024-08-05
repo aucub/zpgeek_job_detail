@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O5XnQNqBN6DzT-O1N9cRw4Ywd9SdQGx3g7e_qRd5x60Lqm38Npo15GHI-5nAyab_-olciFJ6biQAt9JkZD7SNA5mUbB_8KkPQ8aBaCbZrEmLlWDS6nmH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3e1f56fbbde9b58d1HZ_2N67ElpY",
+      "encryptUserId": "70b71d676efc06150XV93N6_EFdS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参加应用系统的模块设计、开发、联调、维护等工作。\n2.能按时，独立，高质量地完成工作，对代码要求严格。\n3.完成公司和领导安排的其它工作。\n4.能与客户进行需求沟通，需求评审等沟通工作。\n\n任职资格：\n1.计算机类相关专业本科及以上学历。\n2.有保险经验或者保险财务经验优先。\n3.1年以上Java开发经验，精通高并发、分布式业务，熟悉Maven，有大型线上系统开发经验优先。\n4.熟悉Spring、Spring Boot、JPA、Spring Cloud，了解Dubbo。\n5.熟悉MySQL，了解PostgreSQL；熟悉Redis、MongoDB；熟悉Kafka。\n6.熟悉Apache、Nginx、Tomcat、Jetty等，有大规模集群优化经验优先。\n7.熟悉linux系统，能进行常规软件安装、备份、维护。\n8.良好的沟通能力、团队合作精神。认真负责、具有高度责任感。优秀的学习能力。\n9.具有良好的开发习惯，积极的工作态度，责任心强、细心，具备良好的团队合作精神和抗压能力。\n10.有中科软寿险，反洗钱，销管系统工作经验优先。",
+      "encryptAddressId": "4b70d325e40a44431nZ429y6E1dQ",
+      "address": "北京东城区雍和宫壹中心A座",
+      "longitude": 116.41963,
+      "latitude": 39.95293,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9f6e9a27a8b3248b863c85839d940a3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45c6f448ad550638801023ff6f44dd56",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Tomcat",
+        "MySQL",
+        "不接受居家办公",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230905/607f1f3d68754fd02bc9ef5785818e97bbdd0818a7af3c62cd76e3996b66125061add2f31cb3707_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科软科技股份",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "35874c17492a9b221XN73Ni9ElE~",
+      "brandName": "中科软科技股份",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722828644242,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软科技股份",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

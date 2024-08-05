@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dTZbl8MkxVqQy-u1_NZTm-RY8_E23v5y2-mX_QfYjSwSiHCliXmohcNc7XjTHmnmxc4z__RqmgreX_hkzTzfN4cWsZWn10yaxm-Q5s-uW0SBwfs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1cdd50f12a0f4f951HN42t-5GFpT",
+      "encryptUserId": "82249f57e022162f0Xd_0ty0Elc~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（武侯区早九晚六周末双休）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业本科及以上学历，具备扎实的计算机基础知识，2年以上实际项目开发工作经验。 \n2、精通Java编程语言，熟练掌握Java SE和Java EE相关技术栈。了解JUnit等单元测试框架，具备编写单元测试用例的能力。 \n3、精通Spring Boot、Spring Cloud、Spring MVC等主流Java Web开发框架，了解其原理及配置方式。 \n4、精通Git、SVN等版本控制工具的使用，精通分支管理、合并冲突解决等常见操作。熟练使用Maven或Gradle等构建工具，精通依赖管理、打包发布、版本升级流程。\n5、熟悉MySQL或Oracle等关系型数据库，具备SQL编写、调优及数据库设计能力。了解并使用过MyBatis、Hibernate等ORM框架，理解其映射原理及使用方法。 \n6、熟悉Tomcat、Jetty、Weblogic等Java Web服务器，熟悉Docker、Kubernetes等容器化技术，熟悉Linux基本命令与操作。 \n7、熟悉HTML5、CSS3、JavaScript、ES5、ES6等前端技术，熟悉Ajax、RESTful API等前后端交互方式，了解React、TypeScript和Vue全家桶。 \n8、具备基本的系统性能调优意识，了解JVM内存管理、垃圾回收等机制。遵守良好的编程习惯和代码规范，熟悉Java代码规范。 \n9、具备较强的逻辑思维能力，能够独立分析问题、定位问题并提出解决方案。对新技术、新框架保持好奇心，具备快速学习并应用于实践的能力。 \n10、具备保险行业相关经验者优先。",
+      "encryptAddressId": "674dd56e96666a690nRy0t-6ElA~",
+      "address": "成都武侯区中国华商金融中心1号楼36楼",
+      "longitude": 104.062776,
+      "latitude": 30.581805,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5a54c630bd753799ca84572b3861d56",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/643df1cf9ce335c1d73983395193a238",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Oracle",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240116/607f1f3d68754fd0d0999ede0f4c7f420e53e0c18fd4a6059363656e3b0f6b1841b482e774b3593_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "团队氛围好",
+        "零食下午茶",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722829146474,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

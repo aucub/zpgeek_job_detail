@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QlMS9ZMrJkHvg-O1swFZs6H52Tsp2apS2LFdKfwNSfUq01b5nNIMGobeiBE5pkiXSd662ZAbPDK1HqZliBGzPjl_h2fDd0lZXTO2bhiwALakekMzPC19",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "93d31fd85e16f4c21HB92t-6EltX",
+      "encryptUserId": "4b6d570ae8d3aa310XB_3Nm-EFdT",
+      "invalidStatus": false,
+      "jobName": "中级或初级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.岗位职责：\n（1）参与项目需求分析、概要设计、详细设计，并负责完成代码编写、代码开发测试；\n（2）参与相关技术文档的编写；\n（3）领导安排的其他工作\n2.任职要求：\n（1）计算机相关专业，JAVA 1-3年以上工作经验，熟练Java语言使用;\n（2）熟悉Spring、Springboot系列框架，有retsful 接口开发经验;\n（3）熟练使用关系型数据库，如：Mysql、Oracle，精通sql语法，有sql优化心得与经验，熟悉索引、视图，有存储过程、游标，触发器等编写能力，熟悉国产数据库者优先考虑；\n（4）熟悉Linux基本命令\n（5）熟悉常用中间件的集成与应用，如Redis、Mq、Nginx、Git等；\n（6）熟练掌握HTML、CSS、Javascript 、AJAX、JSON等Web技术，使用过Layui等前端组件、熟悉Vue者优先；\n（7）注重系统高可用、可靠、可扩展及安全方面的细节；\n（8）有良好的面向对象分析、设计、开发能力，熟悉常用的设计模式;\n（9）能快速接受和掌握新技术，有较强的独立、主动的学习能力。有良好的团队协作能力和沟通表达能力;",
+      "encryptAddressId": "322c6a8c46c20a1d0Xxy29m5E1VTwIi5Uf4~",
+      "address": "福州马尾区阳光学院登龙路99号",
+      "longitude": 119.448084,
+      "latitude": 26.00394,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1d074ada385601941789c7629096362",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/319595e64fc7ba6232dd7a64060a9e4a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "SpringCloud",
+        "MySQL",
+        "Oracle",
+        "Redis",
+        "研究生学历",
+        "985/211院校",
+        "双一流"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "阳光学院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ec9b7572c6d9a4e1nRy3tu9FlY~",
+      "brandName": "阳光学院",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220531/7bf6f160950405e9190e4f311670100a350e6ce30d20bffc37042ff78b97f3f8ec56647d22d5134f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100302,
+      "industryName": "学校/学历教育",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722823081664,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "阳光学院",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

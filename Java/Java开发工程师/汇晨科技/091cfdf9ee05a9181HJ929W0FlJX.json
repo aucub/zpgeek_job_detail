@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MNS1ZiwgDfFKS-j19_kgFHGthcJXSdTZW3DqI0kLkhVQyOYnf1p5zILFrbPONp07ZsFDoDbQOllaCfgFMDYkuxFzzA2Gn_rNQ61vgfs0GThCrGnXyPl-oWMbtJkWDcfyoOMqljeStW2LmUGuokDKhAtEqShETsfX2eQ1HWc4AeTGOKfD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "091cfdf9ee05a9181HJ929W0FlJX",
+      "encryptUserId": "18fb6075b095b8971nZ63Ni_ElNY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、承担平台服务端日常开发工作，能够独立完成产品模块的设计和开发;\n2、负责业务功能编码后的自测工作，快速修复Bug，完成系统交付工作;\n3、负责解决线上系统发现的问题，及时跟进问题反馈，快速定位并予以修复;\n4、负责一些处理慢的性能问题,开展调优优化工作;\n5、若有必要，承担日常测试工作，协助完成项目测试、自动化测试代码维护等工作;\n6、协同完成服务端架构优化的工作及线上日常维护工作。\n\n职位要求：\n1、全日制本科学历以上，计算机相关专业，有测试经验、有NLP深度学习模型开发经验者优先;\n2、2年及以上JAVA平台端开发经验，熟练掌握JAVA语言基础和特性，有基础FPython脚本开发和阅读能力，有NLP算法实现经验者优先;\n3、掌握多线程及高性能的设计与编码及性能调优，有高并发应用开发经验优先;\n4、熟悉SpringCloud、MybatisPlus、RabbitMQ等常用业务框架，有K8s使用和部署经验;\n5、熟悉Mysql、MongoDB、Redis等数据库业务;\n6、了解常见的NLP算法和模型，如文本分类、命名实体识别、文本相似度计算等，熟悉TensorFlow、PyTorch等深度学习框架，并有实际项目经验\n7、具有良好的沟通技能,团队合作能力,追求极致的心态;\n8、有较强团队协作精神、学习能力和责任感，能主动承担团队所需完成的其他工作，如平台维护、业务测试、服务上线等。\n\n职位二\n服务需求描述：\n1、精通软件项目相关的开发/测试/运营/运维流程和标准，能够独立编写设计等相关文档\n2、具备较强的工作能力，对开发/测试/运营/运维过程中发现的问题能够进行分析定位，并找到解决方案\n3、与团队成员紧密合作，确保项目的顺利推进和高质量交付\n服务方案要求：\n1、全日制大学本科及以上学历且具有1年及以上工作经验、或全日制大学专科及以上学历且具有2年及以上工作经验\n2、具有一定的专业技术基础，掌握JavaEE相关技术，熟悉常见的框架如spring、mybatis和mysql、redis等中间件使用\n3、根据项目计划按时完成软件开发和单元测试工作以及Bug修复\n4、对技术有热情，优秀的责任心、学习能力和团队合作精神\n5、熟悉git、linux、docker等常用操作\n6、熟练编写sql语句，有sql优化经验优先",
+      "encryptAddressId": "7e63d9042d7b32fb1nB_3Ni7EFs~",
+      "address": "杭州余杭区中移(杭州)信息技术有限公司余杭塘路1600号",
+      "longitude": 120.025274,
+      "latitude": 30.295032,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a51784a06e493a1baba4c7f13d14a79d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6ad3abc219c8474142298324e85cd79",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邵女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "汇晨科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d6bc2b74c1031cf03dy0ti0",
+      "brandName": "汇晨科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230726/7bf6f160950405e92bd0472755593b8feaac0c7a50287ac30e56bf77d6e6c140699b7604b856dedf.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "随着以全球化和Internet为特征的新经济时代的到来，产品日新月异而生命周期加速缩短，企业面临着更加激烈的竞争。为了适应更加快速的技术革命，迎接知识经济的挑战和参与世界竞争，许多企业都积极进行组织结构与管理方式的变更和创新，努力朝着柔性化、扁平化、虚拟化的方式发展",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1722837975624,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇晨科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

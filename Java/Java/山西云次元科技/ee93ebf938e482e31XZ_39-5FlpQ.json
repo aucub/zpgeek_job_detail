@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1HEqWk_jWL7C2-W1NXhcOLX4raEyClXu5boEvcSesjkKyX7asS76s9UqnOUDI6qr_I3cX39Hi2wVlolZDL9-1aA50bdntyABDCsNXIJpzBhGXzbmnXc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ee93ebf938e482e31XZ_39-5FlpQ",
+      "encryptUserId": "c122f2e1ea48aef93nN80ty6EFc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": " 1.JAVA基础扎实,1年及以上JAVA开发的经验\n\n2.理解相关开源框架的原理和机制,包括但不限于Spring/Spring Boot等;\n\n3. 熟悉分布式、缓存、消息等机制,有redis、kafka、storm使用经验者优先;\n\n4. 掌握多线程及高性能的设计与编码及性能调优,有高并发应用开发经验者优先;\n\n5. 熟悉基于Mysql的设计和开发,【有JVM调优、SQL调优的实战经验】;\n\n6. 熟练进行Linux系统操作、git操作,【熟练shell/python等脚本编程,有服务端操作和运维经验优先】;\n\n7. 学习能力强,适应能力好,具备耐心、细心的品质;\n\n8. 喜欢学习及尝试新技术,从技术趋势和思路上影响技术团队。",
+      "encryptAddressId": "18b437dc544485af03Nz29y4EVA~",
+      "address": "太原小店区高新国际A座a79",
+      "longitude": 112.561225,
+      "latitude": 37.805175,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4063f39d1d7602ea12b69d09800e2ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7b645ad6de95480c9ed0f374acae2f7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "IDEA",
+        "Eclipse",
+        "软件工程师",
+        "Windows",
+        "后端工程师",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "悦先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "山西云次元科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5ba35ca3e728ce0f1XR63du7ElE~",
+      "brandName": "山西云次元科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722829991046,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山西云次元科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

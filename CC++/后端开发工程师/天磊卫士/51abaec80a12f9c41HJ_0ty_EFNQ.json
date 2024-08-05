@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OfO9_BYzRXbB1-P17KuVloHgtTI1pD3x7WQ6bM-x8SxYvBo5bzW3M4FBNWThmUsY1m5jr84uFgXME6HTTpdOy3l0beak0pKeH5IFlTmrxylDwQTix1xn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "51abaec80a12f9c41HJ_0ty_EFNQ",
+      "encryptUserId": "80c5f47226ec46350Xdy2d65FFNZ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "后端开发工程师\n岗 位 职 责：\n1、负责根据产品需求，进行充分的预研、沟通和分析，设计相应的系统架构和工程方案。\n2、负责对具体项目工程或技术模块的开发实现进行工作量评估和任务分解，制定开发计划并且执行。\n3、负责对具体项目的后端工程进行编码实现和调试，通过功能自测及联调后移交测试。\n4、负责对具体项目的后端工程进行持续的开发迭代、优化和维护。\n5、负责研究和解决具体项目中的所有后端技术问题。\n6、跟进前沿科技，持续进行技术改进和创新，驱动产品设计，提升用户体验，适时进行分享与交流。\n7、协助优化研发流程，丰富研发设施和工具集，撰写及修订相关技术文档等。\n任职资格：\n1、本科及以上学历，计算机相关专业，信息安全专业优先；二年以上开发工作经验。\n2、基础扎实，熟悉微服务架构、分布式计算、高并发处理、多线程、协程、gRPC、Websocket技术等。\n3、精通golang/Python/JAVA/Lua一种以上编程语言，有丰富的项目开发实践经验。\n4、精通常见数据存储与检索技术，如PostgreSQL、MongoDB、ElasticSearch、Hive等。\n5、熟悉网络通信原理及常见协议，如TCP/IP、ARP/RARP、ICMP、SNMP、DNS、TNS等，有协议解析相关开发经验者优先。\n6、熟悉nginx/OpenResty、tomcat、redis、kafka等常用的容器或中间件。\n7、善于沟通及主动思考总结，逻辑清晰，思维严谨，对解决技术难题充满激情。\n8、有网络/数据安全产品研发经验者优先。\n9、有前端开发经验者优先。",
+      "encryptAddressId": "793f7c8ac43832040nJy39i6GFpYyoW3Wfw~",
+      "address": "海口龙华区通信广场西附5楼整层",
+      "longitude": 110.328819,
+      "latitude": 20.005974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfdcda3562239e189915a507d2e578e3166bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf12644f430709d781c85299f67b9853286bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Python",
+        "Lua",
+        "PostgreSQL",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "商务质量专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240227/607f1f3d68754fd08b83f69550e9981ae24437b963b71f4864cdd62ff1dc3f83a6458caf311ade3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "天磊卫士",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d546d9affb3ed3191XR52dm0FFY~",
+      "brandName": "天磊卫士",
+      "logo": "https://c-res.zhipin.com/jrs/35049caced539518b85318a680f7aab9.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "零食下午茶",
+        "工龄奖",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722575124584,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天磊卫士",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

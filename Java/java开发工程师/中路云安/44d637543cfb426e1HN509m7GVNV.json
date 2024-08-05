@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4WUhl7HAcdxDE-s1VhpjAEy6O6xGYLKAyGR_WYNOpDkrug8Br-deMK0kyQaguEoce7reDaplb0zOq61FSFGWRvv7rosfnN7EU5me-TSSoIlalv0ordU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "44d637543cfb426e1HN509m7GVNV",
+      "encryptUserId": "e140331dc016bd2103B_29y7FlY~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101221100,
+      "locationName": "淮北",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责城市大脑相关业务后端研发工作，能够独立负责具体的业务模块\n2.负责系统业务设计、数据模型设计、文档设计和撰写;\n3.保证系统的高可用性，高性能，高并发，并持续优化和扩展服务;\n4.有政府项目交付背景，可以根据客户需求快速转化，有较强产品到研发需求转化能力。\n任职要求：\n1.本科 一年以上Java开发经验，熟练掌握Java语言，理解面向对象和常用设计模式;\n2.熟练使用spring,springboot框架，熟悉spring，springboot的设计原理，熟悉Nginx/Tomcat/Resin等服务器;\n3.熟悉Unix/Linux操作系统和开发环境，至少熟悉一门脚本语言;\n4.了解Kafka、Redis、Zookeeper等常用中间件，熟悉常用设计模式;\n4.掌握mysql、redis或其他数据库以及相应数据库调优、SQL优化;熟悉elasticsearch的优先考虑;\n5.较强的学习和沟通能力，能够主动推动业务并有较强的责任心;\n6.具备大型互联网项目交付经验优先。",
+      "encryptAddressId": "e9cc03e00aef6bbc1nRz09u9E1NVx4m3Vvqf",
+      "address": "淮北杜集区淮北市科创中心办公室",
+      "longitude": 116.88763,
+      "latitude": 33.954088,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230421/48ba41acc9cef1bf04f3700402e20b8cbd99203c0d054e5f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bff6a6c3061bdd72b535ba62a6c782db9e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "大数据经验",
+        "不接受居家办公",
+        "MySQL",
+        "Kafka",
+        "Redis",
+        "Dubbo",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240221/607f1f3d68754fd048aeebfd6aa05b05388d13253f44f65c0598236afcf457d0e2cc68f49bd8508_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中路云安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d8b050b5432a72bd1HJ43tq0Flo~",
+      "brandName": "中路云安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722825364692,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中路云安",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

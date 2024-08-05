@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D4M9yw-C8EIp1-W1DTglWkFoYGqCWl5LySoslDxvNVd9MUqy7nincATKJWM5jWbSSoVOd3awXrQiLK3avc6P-ilw-KzsoBybtJNuRl7yyWJAGyiiEG8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "155025a4141071f81nx43dS_FFFR",
+      "encryptUserId": "2370dd1774dfd6ab1XJ63du4GFA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，2-3年工作经验，具有扎实的java基础；\n2、熟练使用SpringMVC、Spring Boot、Springcloud、Javascript、Ajax等相关技术，熟悉Memcached/Redis缓存技术；\n3、熟练使用mysql，oracle，mongondb等常用数据库之一，能够编写复杂sql语句，对复杂sql具有一定的优化能力；\n4、能够独立开发完成分配的相关模块，并且完成自测；\n5、熟练使用idea,Eclipse等主流开发工具以及maven等项目构建工具；\n6、熟练使用git以及svn等代码管理工具\n7、具有文本数据抽取以及分析经验者优先。\n8.有一定python基础优先",
+      "encryptAddressId": "ab8cd6c8a146d4a01nR829W4GVNQ",
+      "address": "潍坊奎文区泰华大厦A座1110",
+      "longitude": 119.113186,
+      "latitude": 36.711742,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a219b9bdadf0fa48c5cf36d2ff493376",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04fa7eadb121780ca39d8febe8ae3e4e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringCloud",
+        "SpringMVC",
+        "软件工程师",
+        "后端开发",
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "樊女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210831/607f1f3d68754fd05ea8e45a07c73f50e047518d6f52ee680a3e41f9439e7b65bf7566a1c6d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "潍坊纳维",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8fe06d6db50dec271nNz2dq0ElY~",
+      "brandName": "潍坊纳维",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "潍坊纳维是济南纳维信息公司在潍坊成立的分公司，同时，公司在北京中关村也设有研发中心。公司取得国家认证的双软企业认证，主要从事高技术含量的移动互联网及物联网相关的软件研发及技术服务，特别是传统应用系统向移动互联网应用转移的应用实现与深度融合，提供基于移动互联网下的各类应用系统的咨询、设计、研发、实施等技术支持。\n        公司主营业务：人工智能+大数据技术在医疗、金融及能源领域方面的系统产品级应用，包括软件产品及SAAS服务。\n        在医疗领域，主要基于BigData+AI 开发的全科私人医生助理—西格玛医生（医疗APP），旨在让每个人都有自己的私人好医生，为患者提供完整、精准、易懂的人性化导诊体验。使用户可以快速通过症状，精准判断疾病类型，基于大数据智能推送匹配好的相应就医建议、护理方案，就诊医院、挂号科室、检验检查项目、常用药物等增强型信息。针对医生群体研发的西格玛医生版正在初步规划当中，旨在为医生提供便捷、全面、精准地查询病史、病历、医药知识点等服务。\n     金融领域的代表产品—i搜金，主要基于大数据全方位监控企业的运营、经营、法律、信贷等多维度动态风险，及时披露企业相关信息，为用户降低投资风险，在风险可控的情况下发现高回报投资项目（信托、资管、P2P等）。i搜金曾多次成功预测了包括汉能、恒大、e租宝、MMM、泛亚等多家机构的投资风险。\n     能源领域的应用主要包含石油勘探行业的检索系统及知识发现系统，其亮点包括基于知识图谱搜索及关联发现、图文混合检索、中英文跨语言检索等，还包含利用物联网手段监测矿井下的施工进度及施工安全状况等。公司基于人工智能+大数据研发的软件产品均处于国内领先地位，其中，西格码医生、i搜金、及石油勘探行业的检索系统及知识发现系统，在技术指标居于国内领先的位置。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "意外险",
+        "五险一金",
+        "项目奖金",
+        "双休"
+      ],
+      "activeTime": 1722816825102,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潍坊纳维",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

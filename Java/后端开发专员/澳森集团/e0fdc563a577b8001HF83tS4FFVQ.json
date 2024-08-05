@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xxBvS3voZ89Ho-V1LVTgxc1Vr_lEWpa0TNbokFhR-qCOPgg80yvUII_Sr0_waWN9B9CBXXeAbda_XnFG_Asggcy_LiLeD9ey5yzCdVd_787XA6eGD0zp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e0fdc563a577b8001HF83tS4FFVQ",
+      "encryptUserId": "ec189b85f33f73021nR-3dq9FldW",
+      "invalidStatus": false,
+      "jobName": "后端开发专员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090100,
+      "locationName": "石家庄",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司软件系统新增需求的二次开发；\n2、负责公司软件系统的优化和问题处理；\n3、负责公司软件系统相关文档的编写；\n4、负责为公司软件系统用户提供相关技术支持与培训。\n任职要求：\n1、大专及以上学历，计算机相关专业，2年以上Java工作经验。\n2、熟练使用JAVA语言进行开发(基础语法，基础数据类型，集合，面向对象，多线程，socket（网络通讯），反射，数据流，进制转换)；\n3、熟悉掌握Spring、Mybatis（Mybatis-Plus）、RMI、WebServices、Spring Cloud、Spring Boot和SOA等开发技术，HTTP请求协议，RestFul接口开发规范；\n4、了解nginx、Maven、Jenkins、nexus、Netty、kafka、等技术或软件，能够独立部署并进行基本操作；\n5、熟练使用Eclipse、IntelliJ IDEA等常用Java开发环境；\n6、熟悉SQL Server、MySQL、Oracle等数据库，精通存储过程编程、SQL优化、多表操作，了解Redis、MongoDB等非关系行数据库并进行进本操作；\n7、熟悉Linux系统操作环境、Docker技术；\n8、了解时下使用较广的工业通讯协议：如Modbus、OPCUA、串口通讯，485通讯，Socket通讯、MQTT等通讯协议，并有能力在其基础上进行业务开发；\n9、至少了解并熟悉除JAVA以外的一种开发语言，例如Python、C#、Go等。\n10、缜密的逻辑思维，能处理复杂的业务逻辑，有良好、规范的编程习惯和文档编写习惯；\n11、具有较强的独立分析问题和解决问题的能力；\n12、较强的沟通、协调、语言文字表达能力；\n13、有亲和力，工作细致、认真、严谨，具有强烈的责任心及团队协作精神；\n14、具有较强的学习能力和持续研究精神，能够承担一定的工作压力。\n15、能适应经常加班，具备软件系统投运抗压能力。",
+      "encryptAddressId": "aa057251695650f333Bz09y0FlI~",
+      "address": "石家庄辛集市澳森办公楼办公楼1楼",
+      "longitude": 115.213004,
+      "latitude": 37.753861,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a78253335b56c53555b0468d09697eb8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1604d46fc5db0fd413f16104a058c937",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "耿女士",
+      "title": "人事招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210906/607f1f3d68754fd0552bb564e5a72fdac3d91b0fe62336a307f5f839fa723f04c90d26417fe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "澳森集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b7e7841236c396d31ndy39S6GFA~",
+      "brandName": "澳森集团",
+      "logo": "https://c-res.zhipin.com/jrs/7a33a0a1f57066e027dcede06886a5ab.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101204,
+      "industryName": "采掘/冶炼",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "通讯补贴",
+        "包吃"
+      ],
+      "activeTime": 1722760586878,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "澳森集团",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
