@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jxb93ofjVRA1J-E13SDaUKSEfCCa7z_oCBPivqRrMGSYjGn1wMgfDRXfn4HqA_MgV2APEk2_5HORAcBQ9CZDI2wRArdT-bg8v2P0l4sxVoWXA2PLO2DJoDKFjk4_r3o40i6p2eoDyWFhm0o92gdZ_PCCbcrwWwk5iXdFsafl9j39ITpzMW4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ffdad0e783dd7c21HN83d2_EFRW",
+      "encryptUserId": "a076d40121cf67281XV-0t60GVNR",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.精通Java、Servlet、JMX等J2EE相关开发语言和开发\n技术；\n2.熟悉Spring、SpringBoot、spring cloud、Mybatis等常用Web开发模\n式，有分布式相关应用架构设计经验；\n3.熟悉HTTP/HTTPS、TCP/P协议、RPC、Socket通信\n机制，以及XML、Json等常见报文格式；\n4.熟悉Zookeeper、eureka、Dubbo、Redis、Kafka、MQ等业内\n常见的分布式框架开源产品；\n5.熟悉Linux系统命令，可熟练使用shell命令，熟悉docker镜像，paas云部署；\n6.具备良好的OOP设计开发理念，对设计模式能够熟练\n理解并使用；\n7.熟悉高并发场景下的分布式系统的设计、应用和调优方\n法；\n8.熟练掌握使用MySQL等数据库，有数据库调优经验\n9.了解jvm调优相关知识",
+      "encryptAddressId": "0818d9caaef827b81nV-29S_FFZTwo69UfOY",
+      "address": "北京海淀区高科岭海淀区软件园一期17号楼高科岭",
+      "longitude": 116.291419,
+      "latitude": 40.051613,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfb329e2b95b1e8603e8bec906b94523ca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf808d04ada6e7348915bd9948ddfecfef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "姜先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京分享优智科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "46ed038193c729941HF82ti4EVI~",
+      "brandName": "北京分享优智科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100917,
+      "industryName": "其他制造业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723016154400,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京分享优智科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

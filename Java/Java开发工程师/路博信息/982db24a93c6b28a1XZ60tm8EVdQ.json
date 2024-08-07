@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2hq2eDTUKeMVB-f1g82YoUvxt9XUe1Yuk8XasQ8kXVXIyqkWQoUCLHOrPyhrkdeyg9SWxgakhwMukiLgAKtx3Eomxs7_hIMGiEZGa_hrbFSXFcJaOhatpEqcmK5HPPOYP2g-cDgRqiseALVgWbSHX-3U",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "982db24a93c6b28a1XZ60tm8EVdQ",
+      "encryptUserId": "214389297fc34e2d0nZ72tu0F1NU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.与业务人员沟通，理解业务需求，编码，完成代码开发工作。\n2.负责公司的产品和项目开发、维护。\n3.管理项目模块开发进度，安排开发任务。\n\n任职要求：\n1.具有丰富的Java/Web开发实战经验，至少2年以上java/web开发经验。\n2.熟练掌握springMVC+mybatis,springboot微服务，dubbo分布式服务，springcloud等主流开发框架。\n3.熟悉HTML、CSS、JavaScript，能在前端人员开发的前端代码基础上做前后端代码接口的集成。\n4.了解J2EE体系结构，了解主流应用服务器（Tomcat等）应用和配置。\n5.熟悉linux下的命令发布部署等操作;熟悉docker,能打包发布镜像服务。\n6.熟练掌握sql语法，能优化高性能sql者优先考虑。\n7.工作积极，有进取心及高度责任心，能很好的执行安排的开发任务，代码规范，可读性高。拥有较强的发现问题、分析问题、解决问题的能力，具有良好的团队合作精神。",
+      "encryptAddressId": "fd7acd17d1295cf91X1-3dq8",
+      "address": "成都武侯区成都高新孵化园9号楼F座711号",
+      "longitude": 104.063919,
+      "latitude": 30.573687,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67c0c001b568a347075f4181e6ffbf7b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7ead7fb7dd76fed7ba4770229a40027",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "SQL",
+        "微服务架构",
+        "MVC开发",
+        "服务器配置",
+        "容器技术",
+        "分布式技术",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "路博信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8b7491d23162ef801nJ-39-8GFQ~",
+      "brandName": "路博信息",
+      "logo": "https://c-res.zhipin.com/jrs/efc6ed5e20fa32233683a7b77b326619.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "公司成立于2009年，是致力于智能交通领域的高新技术企业。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1723019211669,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "路博信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
