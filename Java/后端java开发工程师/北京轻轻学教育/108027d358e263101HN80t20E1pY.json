@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pn3TF9PctsJP1-A1pYgf9FUO3WwtsqcR7z8rdQl3Vl3IKiYVywJrwBLBa3eQY_INo7FmzmIbbkyy6tsHHKzjbjrDVXcACEVLpex1rJHKe2u4b9wY8hgU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "108027d358e263101HN80t20E1pY",
+      "encryptUserId": "05a1c898b4b3ceee0nF42Nm5EFVV",
+      "invalidStatus": false,
+      "jobName": "后端java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090100,
+      "locationName": "石家庄",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "【职位描述】\n1、负责公司自研APP与管理平台的研发工作。\n2、理解业务功能，能够协助排查和解决系统故障，并推动系统持续优化。\n【任职要求】 \n1、本科及以上学历，计算机相关专业，1年及以上JAVA工作经验。\n2、Java基础扎实，理解集合、NIO、多线程等机制，精通JavaEE技术体系，熟悉设计模式。\n3、熟练掌握SpringBoot、SpringCloud，MyBatis等主流技术框架。\n4、熟练应用Mysql、Oracle等数据库操作，具备一定的Sql性能调优能力。\n5、熟练应用IDEA等各类开发工具，熟悉Git、Linux，可以独立搭建环境以及部署项目。\n6、熟悉主流的中间件，具备精准的定位问题，排查问题的能力。\n7、具备良好的业务理解能力、学习能力、团队合作精神及责任心。\n【薪资福利】\n入职缴纳五险一金+职业晋升空间\n工作时间：朝九晚六，周末双休，法定假日带薪年假",
+      "encryptAddressId": "13091b8c86f350be0H1y3t25GFM~",
+      "address": "石家庄长安区裕彤国际体育中心优客工场3F",
+      "longitude": 114.535973,
+      "latitude": 38.042462,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/206d65b832461e9a332f242a9be7dded",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5980937eae0e26ffc47e814195e85b3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Tomcat",
+        "MySQL",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "尹先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京轻轻学教育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1926042b093e9bef1XB939--FFA~",
+      "brandName": "北京轻轻学教育",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230703/7bf6f160950405e9bf856a94508e698d1415ac67a626f12edc8fd3cea24e163929bd5d701c090505.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1723095619331,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京轻轻学教育",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s0Qu0RGtXgzst-e1ejid22YOGmfUSMFinlqNH9ejOIYo9VqESn4L9ptSYApLIn-mmJ2NRmoN52FnFPMt2VJ9pljLTi-csfyFiDUsi2h4wMyfy9cgpUxa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7b105041a590af7b1HN82dS_FVNU",
+      "encryptUserId": "d5b1a7a3877a95270nV92Ni0GVNT",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责公司产品功能模块的代码编写、能够独自完成单元测试，协助完成集成测试。\n2. 协助项目经理、产品经理编写软件开发过程所涉及的必须文档。\n3. 负责公司项目的维护、优化、二次开发，日常数据库维护与管理。\n任职资格：\n1.大专或以上学历，计算机相关专业，1-2年以上Java项目开发工作经验，基础扎实（实习生除外）；\n2.熟练JAVA体系架构，熟练使用Springboot，Springcloud、MybatisPlus、缓存等技术;\n3.熟悉linux服务器，微服务架构；\n4.熟练使用Oracle，MySQL等主流数据库，及redis数据库开发经验，精通sql编程和调试技巧；\n5.有高流量、高并发系统的开发经验和 有过负载均衡、分布式配置开发经验 优先；\n6.能按照规范的软件开发流程，与项目经理一起完成软件的需求，设计，编码等工作，具有规范的开发文档写作基础，掌握常用的开发和设计工具；\n7.有良好的沟通能力、研究能力、责任心和团队合作精神，乐于承担工作压力；\n8.能够接受人力外包、出差等工作安排；",
+      "encryptAddressId": "5ee940d0e717cddd1nZ63Nq_E1RT",
+      "address": "深圳福田区福田天安科技创业园A座1001A",
+      "longitude": 114.030219,
+      "latitude": 22.533476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48cf73a95d5ff5f6195d02977a4fa958",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/841f83e4bd04cb53171ac13703effb5e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Linux",
+        "服务器配置",
+        "SpringCloud",
+        "后端开发",
+        "中级软件工程师",
+        "IDEA",
+        "物联网"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "金天速",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf9a7917480948641Xx53Nu6F1c~",
+      "brandName": "金天速",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230815/7bf6f160950405e9404c0856d3006901b54ea3c1475a9654fee86a530fe0cef97c3d04cf19945ee4.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市金天速科技有限公司于2007年08月06日成立，是一家提供全方位追溯信息化建设解决方案的高新企业，致力于企业生产追溯、仓储物流、物流管理、防伪溯源、数据追溯（电子发票）、政府工作平台等领域的信息系统咨询、开发及应用推广，涵盖软件产品、行业解决方案、自动化识别硬件、耗材（条码、RFID）、OCR智能识别、软件定制开发，外包服务等。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1723026572275,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金天速",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

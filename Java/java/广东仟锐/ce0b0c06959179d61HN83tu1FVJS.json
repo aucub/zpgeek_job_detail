@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "I8e8VJwnNFQeA-L1h2i51WVbHFJJJvFG4yDZ2KgBwAm02Ekn_ih83i-t6BY6-FcCP1z5jWNDmUu05WpzX26lpRAPutxbPTvAs3XloV6H3yH937mpZQuS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ce0b0c06959179d61HN83tu1FVJS",
+      "encryptUserId": "c36629b00f54d1d11nV_3tq_FlZQ",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090500,
+      "locationName": "唐山",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、大专及以上学历，计算机、通信等相关专业优先，3年及以上工作经验优先;\n2、扎实的计算机基础知识，较强的逻辑理解能力和学习能力;\n3、Mysql非常熟悉 、Memcache、Redis、消息队列等常用服务组件;\n4、熟悉Spring常用组件，并能熟练使用及独立解决相关问题。\n5、熟悉微服务架构模式、熟悉SpringCloud组件及使用。\n6、熟练使用SpringBoot框架进行项目代码开发。\n7、熟悉mybatisplus组件，熟悉常用方法的使用，了解拦截器的使用\n8、积极主动、自驱力强，深入了解业务并与业务中各角色建立沟通，能独立负责一块业务，迅速推进项目与问题的解决;",
+      "encryptAddressId": "e35b9eb85e0f14041nV73N28EVJUwYS5WfuY",
+      "address": "唐山丰润区唐山国泰纸业有限公司1",
+      "longitude": 118.172775,
+      "latitude": 39.819966,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240731/48ba41acc9cef1bf8def07044c40c548ca99c803c3f82f5c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240731/48ba41acc9cef1bf8c8e4844f93ee850b5ac5372565c44056bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "唐女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "广东仟锐",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a479826ad792463c1nN90t66F1U~",
+      "brandName": "广东仟锐",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210619/d5781aff988c8c9dd63e540ceed9b5b6a8e147a7904c6f1ed4908cfbd3b1044e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助"
+      ],
+      "activeTime": 1723084808560,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东仟锐",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
