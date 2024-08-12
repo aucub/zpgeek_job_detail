@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Tqea2OQuRXAqg-j1XtV_bsZvAD2grItkJefP13c8TiCiJiC01M9-e1k1eSrFlhYz3m8mOfCm-ZI8nNZLzHfdyobO_GtJS-WXYu2JW57GG1SFF1h1AqTryyeD3_vuuD8t4rDAFhHx43n0pB4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4803c6f44b9e2931HN_0921FVNX",
+      "encryptUserId": "aaac058db74265230XN63tm0GFNQ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091000,
+      "locationName": "邯郸",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1.根据项目需求、开发进度及任务分配情况，完成B/S项目软件的前台、后台等功能模块开发。了解开发流程、开发规范，熟悉并掌握项目架构、相关开发框架。\n2.维护和升级现有软件产品，修复现有软件产品的缺陷，优化改进产品功能。\n3.对所开发部分内容的进行自测并输出测试结果。\n4.对自己所负责的开发内容，提供逻辑清晰的开发说明文档，为项目验收材料提供支持。\n5.依据架构设计、需求说明书以及白皮书实现全栈功能开发。\n任职要求：\n1.计算机相关专业，大专以上学历。\n2.熟悉myBatis，Spring、SpringMVC、SpringBoot及微服务等框架技术，可以实现和数据库连接增删改查，声明事务，以及页面跳转等功能。\n3.工具：svn/git，gradle，docker。熟练可独立部署及独立完成。\n4.各种服务器windows或linux操作系统和jenkins自动化部署。\n5.熟练掌握JavaScript脚本编写，了解XML、JSON的相关知识, 掌握JQuery。\n6.熟悉、IntelliJIdea、Oracle，Sqlserver，Mysql开发及数据库软件，熟练使用SQL语言，以及会查看JDK文档。\n7.Tomcat/weblogic等服务器部署，测试环境\\生产环境配置以及需求、软件、数据库设计、测试、上线部署等文档编写。\n8.学习能力强，具备自我管理能力和明确的职业目标，具备独立思考，完成本岗工作的能力。\n9.具有软件项目上线或产品交付意识、同时能做到以服务好客户为前提的准则下严格执行合同目标。\n10.熟悉前端开发者优先。",
+      "encryptAddressId": "3c8bda3df57f2ae01nV43NS4FlFXx464U_OW",
+      "address": "邯郸邯山区邯郸市城乡空间信息服务中心2层",
+      "longitude": 114.504874,
+      "latitude": 36.591145,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bff021cf2e87f352b43b5aeb76db43d1cd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf93d8cf4cb5776da4aa2b85e93ae9f47f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "范先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240803/607f1f3d68754fd03b7e028c92f97cdb1ddb7fa159521a0140b24c01fefe01c70eb674bf8d32ff2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "河北瀚勇信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2dbcc447132f5bca1Hd839-_E1M~",
+      "brandName": "河北瀚勇信息技术",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722740462000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "河北瀚勇信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

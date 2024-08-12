@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EN0j9m84SfHzG-x1Uiy1Fwx7Qz4wqhnV38zn4tOeeaAU7tv1bzoZqHmeSKIULU7mNzRvl8q0paHxjsv9Hi3QYErnKBocTO-efRd6MX5JRCOm655aiB45bw0mwN5Cv7y8FurJix89qq-tMQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "22e19eeaa1a25a1e1Hd43t61ElRV",
+      "encryptUserId": "9c56187a31d908250HVy09W1GFM~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责部门内现有各个产品应用领域的业务逻辑及数据模型的分析、构建工作；\n2.负责PC端及服务器端技术栈的调研、选型；\n3.在各种计算平台上进行业务逻辑和数据模型的构建及部署；\n4.各种后端计算平台与前端数据采集平台的通信方案构建及开发\n任职要求：\n1.具备良好的团队合作精神，有责任心，上进心\n2.有C/S或B/S架构应用的开发经验；\n3.熟悉常见的PC端或服务器端应用开发技术（Python/JavaScript/C#任意一种）；\n4.熟练掌握任意一种前/后端编程语言（Python/C#/JavaScript）；\n5.熟悉Windows软件开发环境（VS/C#）或者Linux服务器环境（Redhat/CentOS）下的常规操作;\n6.熟悉常用的版本控制软件如git的使用\n岗位要求：\n1.计算机或电子通信类专业，本科及以上；\n2.能熟练使用Vue框架，Django框架的优先；\n3.熟悉Docker容器技术及生态环境的优先，熟练使用git/svn等软件版本控制工具\n4.有云计算平台使用或开发经验的优先；\n5.熟悉数据可视化或有地图类应用图层开发经验",
+      "encryptAddressId": "d110b3fb17faeec803V82d67FVNQy4m9WP0~",
+      "address": "西安长安区蓝天科技广场创汇路8号",
+      "longitude": 108.858777,
+      "latitude": 34.162494,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf36c966e1d2391b5b6e66bbbff281bcd26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf6229cfa6113d796f05989d19916054276bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Django",
+        "Spark",
+        "运维开发经验",
+        "熟悉编程语言"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240116/607f1f3d68754fd026038e4b2ba3db1d519261ea0e51fd7dc7fbc64dc926a57db097ce73046422b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "佳中电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a824aed695a974a71HZ-3t-_F1U~",
+      "brandName": "佳中电子",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100917,
+      "industryName": "其他制造业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1720838765376,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳中电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

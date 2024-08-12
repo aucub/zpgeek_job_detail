@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RCO9vTavhYD6H-Y1QVU2LSG9zd9DHXnrf5PZV_rGkxmifj3DFyP1rPvdRoaYxbKP73fWLeqfURPLOBtqaRDdCrXcssYstVgLIal4w76ipRxK_Wjopw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6acee15efee162ef1nN_3N67GFFU",
+      "encryptUserId": "d4e92e758efbed780nd-2N20ElJU",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作职责：\n1、 能独立负责一块业务，相关系统开发并保证系统的稳定；\n2、 按照业务相关需求进行业务需求分析和软件设计；\n3、 进行软件详细设计和编码实现，确保安全、质量和性能；\n4、 快速定位并修复现有软件缺陷、迭代；\n5、 相关文档编写；\n6、 参与软件系统的方案讨论、技术调研、系统分析、重构、优化；\n二、任职资格：\n1、计算机及相关专业本科及以上学历，2年以上工作经验；\n2、熟悉VUE、若依框架优先；\n3、熟练掌握FreeMarker  JSP, Spring、Spring MVC、Mybatis、Redis、Mongodb、Mysql读写分离、数据库锁及索引等、消息队列；\n4、有spring boot、spring cloud下的各类组件、Dubbo、基于RPC或消息中间件的分布式架构设计、Docker等经验者优先；\n5、熟知常用算法， 精通java语言，了解JVM及如何调优，在高并发，高性能方面有相关开发经验；\n6、具有扎实的Java编程功底和良好的编码规范，对接口设计和系统规范有标准型;\n7、熟练使用linux、Tomcat、Nginx等开源的服务器和容器配置；\n8、做过App服务接口，对接口安全，鉴权等有深刻认识，对支付、订单、结算、分享、云存储等各类第三方有过实战对接经验；\n9、深入理解HTTP协议、熟悉RestAPI、熟悉并发、多线程开发；\n10、具备持续学习的能力、高度的抽象设计能力、思路清晰、善于思考、能独立分析和解决问题；",
+      "encryptAddressId": "454c9e71da4d49f91nV-3tu_GFtQwIi_Vv2e",
+      "address": "南京秦淮区中国云计算中心C栋一楼",
+      "longitude": 118.874657,
+      "latitude": 32.018488,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240808/48ba41acc9cef1bf9086258da946fbc36588bbdbde7732c46bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240808/48ba41acc9cef1bfefecd10520609bbaa38a251e29d3fb216bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "服务器配置",
+        "分布式技术",
+        "多线程",
+        "消息队列",
+        "Dubbo",
+        "MVC开发",
+        "容器技术",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "薛女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "圣女果",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2c9a1f123f88f3fc3nNy2NS9",
+      "brandName": "圣女果",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171124/948fffd079b7319b7b502dce37cd04d1cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京圣女果信息科技有限公司成立于2017年03月23日，专注于物联网、电商、游戏等类型的软件研发。公司现有研发人员50余人，主要技术方向为U3D，webgl，java，C++，安卓等。公司紧跟时代脉搏，牛人汇聚，为员工搭建了良好的职业发展平台，欢迎广大优秀软件人才加入，交流学习，共同发展。",
+      "labels": [
+        "五险一金",
+        "节日福利"
+      ],
+      "activeTime": 1723261546628,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "圣女果",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

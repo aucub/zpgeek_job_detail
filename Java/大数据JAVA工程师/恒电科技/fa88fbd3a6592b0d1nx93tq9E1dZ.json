@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rpez0nEV_0iy--r1Z3dwoPAqSAO3CgjjdvmHcnBldpphPJ5Kn-Wia5H_U-O3qN6o2_YmEGr2jEuFe_b_ShTY2Eryhg4N7jfsr5KZqZ81UcRIuqI10Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa88fbd3a6592b0d1nx93tq9E1dZ",
+      "encryptUserId": "18aace1c4a58225803F93t66FFI~",
+      "invalidStatus": false,
+      "jobName": "大数据JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责公司产品及项目的核心功能模块开发，撰写相关技术文档；\n2、分析并解决开发过程中的问题，负责技术难题攻关；\n3、根据需求不断迭代改善产品，提升产品性能、可用性、扩展性和安全性。\n\n任职资格：\n1、统招全日制本科及以上学历，计算机或者相关专业，1-3年开发经验；\n2、 熟悉Java技术及主流开发框架，包括SpringBoot, Spring MVC, MyBatis，具有实际项目开发经验；\n3、熟悉微服务架构及常用微服务框架，如SpringCloud，Dubbo等，具有微服务开发经验；\n4、熟悉MySQL数据库、Redis缓存、Docker部署，能独立搭建开发环境并熟悉DevOps过程；\n5、熟悉HTTP、TCP、UDP、WebSocket等互联网相关协议，熟悉前后端分离开发和接口调试；\n6、熟悉软件工程思想，良好的编程能力和编程习惯，熟练使用Git等工具；\n7、有全栈开发经验者优先，有国网经验者优先考虑；",
+      "encryptAddressId": "526255b52c961ce233B_2Nm4EFY~",
+      "address": "长沙天心区湖南恒电信息科技有限公司",
+      "longitude": 112.992857,
+      "latitude": 28.128223,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/837495425000d0e50272b7d4300b628f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a3221e10abb1e1a814aa06f12d06dc5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Docker",
+        "Dubbo",
+        "MySQL",
+        "微服务经验",
+        "HTTP",
+        "文档编写经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240614/607f1f3d68754fd03b311efd044c05093764b437b1e6aa2b070ba8c104dc537278159593f9b8aab_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "恒电科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9b51e7512485310e03R_3di5Ew~~",
+      "brandName": "恒电科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190405/20e24a1ee2000c12bdad16adfc44a461dc3c5a741dc29e5a8c5e4d1a2813189f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "数字经济发展速度之快、辐射范围之广、影响程度之深前所未有，正在成为重组全球要素资源、重塑全球经济结构、改变全球竞争格局的关键力量。充分利用海量数据和丰富应用场景优势，就需要我们能有较强的数据平台搭建能力，数据分析能力，数据智能化应用建设能力等。而湖南恒电信息科技有限公司(以下简称恒电科技)正是时代的产物，专注于让数据更有价值，服务于政府企业的数字化转型。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "工龄奖",
+        "五险一金"
+      ],
+      "activeTime": 1723193939445,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "恒电科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

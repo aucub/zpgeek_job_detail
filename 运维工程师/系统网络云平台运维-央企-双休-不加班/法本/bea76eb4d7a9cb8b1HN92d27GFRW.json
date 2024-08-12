@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YsWjFYa8LnSYM-_1jFBmauKfQYSFk-nr_NcaTehIbwy1DreAc-VjVzpZNPY1owwzeGunegHgx_L3jBJPwE4byGON2NdFzl_taefRmwI0mRerzxuf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bea76eb4d7a9cb8b1HN92d27GFRW",
+      "encryptUserId": "50eee2e739d1ccd503Rz2N-5ElQ~",
+      "invalidStatus": false,
+      "jobName": "系统/网络/云平台运维-央企-双休-不加班",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "方向一：系统、应用运维  11K (2020年及以前全日制+学信网可查本科毕业)\n1. 负责公司应用系统，工作流等系统的运维 。\n2. 负责公司其他相关软件项目的实施及维护。 \n3. 负责处理用户使用软件过程中问题工单的处理 。 \n4. 能够进行用户培训，指导用户操作应用软件。\n\n1、计算机软件相关专业，三年以上软件开发或软件项目实施，运维工作经验，使用过JAVA、SQL相关语言进行代码开发优先。\n2、熟悉数据库的设计和编程，具有MySQL索引优化、查询优化和存储优化经验.\n3、有CRM系统实施，运维经验优先.\n4、 善于协调、沟通，责任心、事业心强,具备较强的独立解决问题的能力.\n\n\n\n方向二：网络运维（有笔试题）9K (2022年及以前全日制+学信网可查本科毕业)\n岗位职责：\n在部门整体工作指导下，主要负责全国中心网络二线工作，包括网络运行信息深度分析、网络配置变更及审核、重要故障&问题处理、定期组织网络应急演练、网络技术支持等，以及网络工程项目的建设实施、规章制度的制定等工作，确保全国中心网络稳定运行、网络建设正常开展，承办上级安排的其它工作。\n\n任职要求：\n1. 大学本科或以上学历，所学专业为通信工程类、电子信息类、计算机类及其他相关专业。\n2. 3年以上正式网络工作经验，必须有数据中心运维工作经历（实习不算）；\n3.熟练掌握网络相关知识和主流网络厂商的配置命令，具备日常网络维护和故障快速处理能力，具有建设、实施网络工程的能力；具有HCIP、CCNP或有同等能力的其他证书；\n4.具备项目管理能力、问题分析处理能力、学习能力、沟通能力、团队合作能力、抗压能力；\n\n笔试题范围:\nICMP 协议：涉及 PING 命令使用的 ICMP 类型、ICMP 的作用等。\nTCP/IP 协议：考察了 TCP 协议如何确保数据的有序传输、IP 地址的分类和子网掩码的作用等。\n网络设备：包括路由器、交换机的功能和工作原理，如路由选择、VLAN 等。\n网络协议：涉及生成树协议、ARP 协议等，以及这些协议在网络中的应用和工作机制。\n网络服务和应用：考察了常见的网络服务如 HTTP、FTP、DNS、SMTP 等所使用的端口。\n\n\n方向一：云平台运维(11-12K) 2020年及以前 本科毕业暂未招聘\n1、华三云、易捷云、传统架构系统运维工作，包括日常监控，问题处理等；\n2、华三云、易捷云、传统架构系统运营工作，及时响应、支持应用开发运维团队服务请求，资源需求评估、资源分配与回收、云平台策略开通等；\n3、相关文档编写及传统架构项目组交办的其它工作。\n4、参与7*24小时值班工作。\n\n1.熟练掌握操作系统、服务器操作；\n2.熟悉基于Openstack技术的IaaS云计算技术和应用，具有Openstack云平台运维经验，有独立处理IaaS平台问题能力；\n3.熟悉python、shell等脚本语言，并能够使用脚本语言编写系统运维和管理工具；\n4.具有较良好的沟通能力和较强的服务意识。\n\n\n方向三：桌面运维\n工作内容\n1、确保客户IP/模拟电话系统的稳定使用，包括设备故障排查处理调试等；\n2、 Ip/模拟电话系统的日常操作，定期查看设备运行情况，提供现场设备预防性维护，提交维护及巡检报告；若发现技术隐患，应提供解决方案；\n3、 系统配置信息文档的整理及汇总；数据备份、设备管理与调整；\n4、根据用户对系统性能要求，和用户工程师一起对IP/模拟电话系统进行必要的调优工作，满足用户的业务使用需要；\n5、新增设备的安装调试及配合工作；\n6、根据用户需求，为甲方系统管理员提供系统相关操作培训。\n7、 完成甲方交办的其他事项。\n\n工作经验：网络运维经验；\n个人能力：对通信、运营商基础知识有一定的了解；熟悉电话系统，熟悉主流电话系统设备的配置调试，并对电话系统原理基础有较深的理解；熟悉国内外主流电话厂商产品（如：亿联、星网锐捷、鼎信等）。工作责任心强，具备良好的沟通能力、执行能力、学习能力。\n\n\n\n办公地址：北京市大兴区北京邮件综合处理中心-西门\n上班时间：8:30-17:30  不加班   双休\n面试方式：远程面试\n其他备注：五险一金入职即缴纳（当地最低基数），节假日福利",
+      "encryptAddressId": "188313e69fc3b9590n143tW9FltZwIq5VPI~",
+      "address": "北京大兴区北京邮件综合处理中心北京市大兴区北京邮件综合处理中心-西门",
+      "longitude": 116.537279,
+      "latitude": 39.814917,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bf705cf73127a4a135dc0d3de62151ec836bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bf218acc7856e9663505e64310702469dd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "Python/Shell",
+        "运维经验",
+        "网络安全相关经验",
+        "系统运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240521/607f1f3d68754fd03e8b0a960f0c65020be86a7739c037389af47abd6020bc5dda04d9e5c754a39_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "法本",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "95b4b47ef9141c671nd52ty_",
+      "brandName": "法本",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/32931505697e3fbef594fb9ca3fd94a5cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市法本信息技术股份有限公司（以下简称：法本信息）是全国领先的软件技术服务提供商，致力于通过创新技术服务帮助客户快速实现业务目标，取得商业成功。公司成立于2006年，至2021年，员工规模已超19000人。其总部位于中国深圳，目前公司在香港设有子公司，在北京、上海、广州、南京、杭州设有分公司，在武汉、长沙、成都、西安、佛山等城市设立办公室，业务范围覆盖全国，并在积极拓展海外业务。\n\n法本信息在十多年的信息技术服务与探索中，积累了丰富的实战技术资源、专业人才资源、标杆客户资源，并构建了逐步成熟的过程实施与质量管控体系，这些软实力构成了法本信息优秀的资源基础。在此基础上，法本信息紧随时代前沿技术，是首批对大数据、云计算、物联网、人工智能、移动、社交、信息安全等核心技术做成功应用的服务商之一，有着领先的技术能力。同时，法本信息基于客户的实际业务的应用场景做深入研究，以洞察行业特性和本质，开发并成功实践行业解决方案。\n\n法本信息客户遍布金融、互联网、通信、物流、航空、房地产、制造业等行业的领先企业。公司在以信息技术助推客户的商业升级中，采用“匹配、联合”的战略与客户做深度合作，从而形成了丰富而优秀的客户资源。在未来，我们将通过和优质客户进行业务全价值链的紧密合作，营造良好生态，用创新来共同改变世界。",
+      "labels": [
+        "企业文化",
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "节日福利"
+      ],
+      "activeTime": 1723424849876,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "法本",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
