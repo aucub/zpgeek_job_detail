@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LRAtaxYWDhJS1-h1ya_pwM0k8g_FP02f55QNLdfpluDeMkZGNDeG0XFcnH3mQ2pNtmjjm6TMqp_FFxRqHg4AM14kV07wPfcnL256ECNB5nb__nQMKFssVLYvydPNOucbbFgcIEy4jkLFK8BsxY8IUB-Y1FtMMBEz4FwkBjNlNMaTo0-ejmM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b51c0be990cd6e651HN92dq7EVFW",
+      "encryptUserId": "8cd287bdd57773110Xd809y-EltS",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通 JAVA 编程，熟练运用 Spring Boot,Spring MVCMyBatis,Zookeeper 等框架。\n2、熟练掌握 Spring Cloud 微服务框架,有相关 API/Restful接口开发经验。熟练掌握 MySQL、SQLServer应用开发，熟悉数据库原理和性能优化。\n3、熟练应用 Java 集成开发环境，能熟练使用 Intel、MAVEN、Eclipse、vs code 等工具。有使用分布式代码库管理工具(如 GIT)的经验。\n4、熟练掌握消息中间件，RabbitMQ、Kafka等，有相关实践经验。熟练掌握 MongoDB、Redis 等 NoSQL数据库应用开发，有实际开发经验。\n5、熟练掌握并会使用以下一种或多种技术:Angular/Vue/React、Nodejs、H5/]avascript 等\n6、有大型电商平台、ERP、CMS、CRM、OA、工作流引擎开发经验。参与过中大型项目的工作经验，熟悉并能遵守软件工程各个阶段的工作。",
+      "encryptAddressId": "e96bee20753ff5e61nV-09y9E1pXxo22WPqb",
+      "address": "上海徐汇区复兴中路1327弄1",
+      "longitude": 121.452921,
+      "latitude": 31.211142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230726/48ba41acc9cef1bf652ac383b1fc677beadd323fa8693e896bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230726/48ba41acc9cef1bf60237756d05d1626c12bda86937b2bd96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海瀚若轩公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "878a2f8f0554a10e1XN92di9EVM~",
+      "brandName": "上海瀚若轩公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723532892791,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瀚若轩公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N2LNcvUJIL8yr-P19p6t-cZL9uWuKiRWIfn_3aZFF7MaHMa83ySa1su9-uUhD81rfyyTnVDqBrWVxT9Tn861klk3Jos-mAmqqBtREAzLLgN8uE6Sp-jHwUGfU-2bs8oIBLmmpCwc9vsFXw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "038487607fe7e6571HZy29W7GFBZ",
+      "encryptUserId": "a86554d9f3db26961HJ42N66ElQ~",
+      "invalidStatus": false,
+      "jobName": "java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "1.JAVA开发，一年以上的开发经验。 \n2.熟练使用Springboot,mybatis。了解quartz,线程池，异步执行器、分布式等组件。 \n3.mysql具备基本的数据库设计能力（存储过程，空间存储，视图，函数）。 \n4.熟练使用rabbitmq、amqp、mqtt、redis等中间件。并对linux或docker或k8s有基本的了解、和基本命令操作的能力。 \n5.熟悉前后端分类开发模式。能熟练使用html、JavaScript或vue前端框架（必须）。 \n6、具备良好的沟通能力，和团队协助能力，热爱学习。 \n7、有小程序开发相关经验。\n\n备注：公司主营业务为网约车产品。有相关从业经验可以优先考虑。\n学信网查不到学历勿扰。\n公司为自有产品，技术方面比大部分外包产品高几个级别的深度。",
+      "encryptAddressId": "e350264e580f07be1nV539S6EVpW",
+      "address": "重庆沙坪坝区仟百汇C区三楼",
+      "longitude": 106.318734,
+      "latitude": 29.607876,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230417/48ba41acc9cef1bf9c6c77db504a2ff39feb2c6867d77d216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfe01bf90131d66e0a7fd22a0105a8da5e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "研发技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd0681b60c1bf39f117a16cc99811f5d8dd448bfea6ca451d3ea4c9c9cc02d6a7f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "一快科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ca533922f38693c41X180t-5ElM~",
+      "brandName": "一快科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240723/7b5b554d84f9729c28bf99d46ecc16b77822ab3a1e53e0d5448bfea6ca451d3ea4c9c9cc02d6a7f6.jpg.webp",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723519721073,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一快科技有限公司",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

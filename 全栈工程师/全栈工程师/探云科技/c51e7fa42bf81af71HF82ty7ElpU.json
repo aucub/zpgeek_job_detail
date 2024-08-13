@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zhZanWfrwndiR-U19hZY4dT2Dgrof0O0GinVkUXntaLfdPj4TAtjOOA3lfdEJ0i-1HOiWGIa4jprmYA3PRCf-aJiBJ3-tO9xqeqVE2lh0Dt40BaBZZI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c51e7fa42bf81af71HF82ty7ElpU",
+      "encryptUserId": "bb122559280e97df0nR90tq4FltY",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101300300,
+      "locationName": "柳州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.主要负责开发和维护高质量的后端应用程序，能够胜任进行前端项目的优化。\n2.参与完整软件开发生命周期，包括需求分析、设计、编码、测试、部署和维护。\n3.与产品团队密切合作，理解业务需求，并将其转换成可行的技术解决方案。\n4.为我们的应用编写清晰、测试驱动的、高效和可复用的代码。\n5.优化应用程序性能，实现最佳用户体验。\n6.学习和集成新技术以提升产品性能和功能。\n7.解决应用程序开发过程中的技术问题。\n任职要求：\n1.拥有计算机科学或相关领域的学士学位。\n2.至少3年的Java开发经验。\n3.熟练掌握Java以及Spring Boot等后端技术，熟悉mybaitis、Redis等中间件。\n4.Vue3、element等前端技术，有丰富的实际经验。\n5.对RESTful API设计和微服务架构有丰富的实际经验。\n6.熟悉数据库技术，如MySQL, Oracle或NoSQL数据库。\n7.熟悉全文检索，如Elasticsearch或类似框架。\n8.较强的业务需求理解能力，能够在团队环境中有效工作，同时也能独立完成任务。\n9.熟悉ruoyi框架的优先。",
+      "encryptAddressId": "b27b35471be4c0e833Zz396_E1NRwY67U_4~",
+      "address": "柳州柳南区广西柳工集团有限公司柳南",
+      "longitude": 109.365213,
+      "latitude": 24.315024,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bf32b615df5eb373315bfd99e651f795916bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231113/48ba41acc9cef1bf6fce3b3e569c4433290532e8305d85516bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Java",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "探云科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ddef2204a29b1560HN_3Nq_Ew~~",
+      "brandName": "探云科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210625/03671574b1fdd156e616c970f61555e3f92c3162528c57175c09481ce7c04d1a.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1723424369707,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "探云科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
