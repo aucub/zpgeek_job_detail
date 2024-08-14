@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HnD5MCC96Bb2i-31e7Yl69NfWqnK6x3To6i9csXHQwVJj2Dbodq9_hWC87YGxn3k3pjg9KTBKbrwsM2RELNgt4m8RUex1oZN6ZkWljnIoUaZu4qY49Wy6YRZnqq13oQCO8xDOwM3oeoyBz1D0dN-oLpp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "43357b74d24f1b561HNy3d28FFtT",
+      "encryptUserId": "0150d3368e86c3b80nd92dW5GVBR",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "一年以上工作经验，从事过运营商大型项目建设优先；\n\n二、知识技能\n\n1、能熟练使用Spring、Mybatis、SpringCloud等开源框架；\n\n2、基础知识扎实，熟悉Java的IO流操作、多线程编程、理解多太思想；\n\n3、善于技术专研，具有根源码经验（如；开源框架源码、JDK源码）；\n\n三、其他技能要求\n\n1、具备工作流开发经验优先，熟悉工作流引擎框架，如：activities、jbpm、wps等；\n\n2、使用过大型系统的开源框架优先，如消息队列MQ、数据库中间件、缓存（redis、memcached）、RPC框架等；\n\n3、使用过代码版本管理工具（svn、cvs、git），有使用ant、maven等项目构建工具的经验；",
+      "encryptAddressId": "833730c03694b51c1nV83dW4FFRTx4m9Vv2X",
+      "address": "武汉东西湖区亚信科技(欧亚广场写字楼店)1",
+      "longitude": 114.207095,
+      "latitude": 30.640099,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bfc39063b2d3f0b3e227aff88fa00faf0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf85a1b548f2df280ceab378d134e3b2686bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "C++",
+        "Spring",
+        "Dubbo",
+        "JVM",
+        "MySQL",
+        "Spark",
+        "Hive",
+        "团队管理经验",
+        "微服务经验",
+        "云计算经验",
+        "运营商"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd0879b24eb54da9405d2cbe7a32b4ba74a7313a079f29efec70bea479e8cd26b5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "人瑞集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4ef64c9a50ea8b781XF70tm5EFA~",
+      "brandName": "人瑞集团",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "通讯补贴",
+        "团建聚餐",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "股票期权",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1723631404679,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "人瑞集团",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

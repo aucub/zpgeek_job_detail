@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6uHtXj_jfyCsN-O1vtjUqDRLlcAaSbcZNL74LZ35yL_IghH-Vq5dO2N0INu3GD8I6wdn_AKyRO41m4NY4Y1yrrritve6LdrA0aph7JFOrEq7W7crVjXJvN3RurwomnbX6COvdfR8ajZ2f2yJJXn1-Pjk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af1fa5aa867fe34e1nF63ty-EFFR",
+      "encryptUserId": "5a71ee08e5a048ed0nZy09i4E1dQ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责教育平台的开发与维护，按计划完成系统功能模块的开发工作及撰写相关的技术文档，能有效理解需求、具备一定的设计能力，能自行对所负责的子模块进行分解跟实现。\n2、参与需求调研、安装调试、数据割接、用户培训和运行维护工作。\n\n专业要求：\n\n1、1-3年以上Java开发经验，有实际项目经验，具有独立模块开发能力。有相关项目经验的实习生也行。\n2、掌握基本的web前端开发技术：html、javascript、css、jquery等以及Vue、Angular等前端框架，能独立开发界面。\n3、至少使用过一种开发数据库，如：mysql等，能写较为复杂的SQL。\n4、熟练掌握spring boot hibernate框架，redis,dubbo等常用框架的使用。\n5、熟练Tomcat应用容器的使用，熟悉ActiveMQ、Redis等常用中间件的使用。\n6、编程思路清晰，有良好的代码编写风格。\n7、具备一定的centos的操作经验，能独立解决简单的应用部署工作。\n8、具有良好的沟通能力（不能反应慢半拍以上），思路清晰。",
+      "encryptAddressId": "f317784dedc23dc71nd60tq7GQ~~",
+      "address": "广州广东省广州市海珠区黄埔村北码头28号6号楼102单元",
+      "longitude": 113.398808,
+      "latitude": 23.095558,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b818720e2bdd46003b4beb69a230474b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f136a174dc7d3a98a635b2c227a55ef2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "Spring",
+        "SpringMVC",
+        "Socket技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "人事",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=21c8b4e7373141bfjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5en350tN0n6IxmGATsmLY2NLmiLZMD6b3uV2MpYl8Bp30Jr_nzFHZNFbLqURJpzN9NSAmyzqZZ9AkeVtPj0SB6VHsSok-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "广东麦贝科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aa9aa5d54326fa121nFz2dW-GVM~",
+      "brandName": "广东麦贝科技",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假"
+      ],
+      "activeTime": 1723618476103,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东麦贝科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
