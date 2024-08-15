@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VirJctVPEZzMf-h1_sYHp-J0KZjNHG5ukCgjMhoPoPDuFe5otVcVksoapFE61KPdhh8f36awffo3c_oCwt0qdBGmMH8_ijyc8-p4WOoaHAqQw6Eq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "48c26fb0dbdad0421HNy2N20EVRY",
+      "encryptUserId": "1724ad85e480b82b0nVy39q1EVFV",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "1、至少本科1年+的JAVA开发经验；\n2. 有电商和运营的JAVA项目开发工作背景优先；\n3、Java基础扎实，需要掌握spring、springcloud、mybaties框架使用；\n4、需要熟悉运用常用中间件：Redis、RabbitMQ、Kafaka；\n5、熟悉使用常用数据库Mysql或Doris，具有sql调优经验；\n6、要有热爱新技术的热情，良好的沟通能力，快速学习的能力；\n7、具有良好的团队合作精神、沟通能力、自驱力、抗压能力、责任心；\n9、稳定性要求高：不常驻本地的不考虑以及其他可能的不稳定因素等",
+      "encryptAddressId": "c294c2a8d39f9d3903Rz3d21E1c~",
+      "address": "南京雨花台区云密城J栋4楼",
+      "longitude": 118.751321,
+      "latitude": 31.969444,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2403ac56c817503c6e317856e7962246",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15d4b0543c48713e88e9f9c8548ff953",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "Kafka",
+        "MySQL",
+        "其他"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "明略科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "579fa7c76f87da121XRy2tw~",
+      "brandName": "明略科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/958dd123d6c4b64eed5ae86eb4486743cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "明略科技是中国企业数据智能应用软件供应商\n\n明略科技通过充分挖掘数据价值，为客户提供基于大数据和人工智能的软件产品与服务，帮助组织在数字化转型中挖掘营销、销售和服务等场景的商业价值。\n明略科技下属三大数据智能产品线：秒针系统、明智中台和明智工作。 【秒针系统】为企业提供营销数字一体化解决方案，服务于国内外的知名品牌，包括宝洁、欧莱雅、完美日记、元气森林等。 【明智中台】帮助政府和线下商业完成数字化转型，服务于地方政府、国有企业、连锁餐饮和零售客户，包括上海地铁、湖南国网等。 【明智工作】让企业的营销、销售和服务更加高效，服务于地产、汽车、快消等行业，包括宝马、屈臣氏、巧虎等。\n明略科技依托16年的数据智能技术沉淀，获得科技部国家新一代人工智能开放创新平台建设单位，工信部2019年制造业与互联网融合发展试点示范项目建设单位，国家发改委人工智能重点工程项目建设单位等荣誉。以创新和务实的精神不断推动实现人机同行的美好世界。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "零食下午茶"
+      ],
+      "activeTime": 1723685946632,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "明略科技",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

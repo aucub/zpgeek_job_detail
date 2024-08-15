@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UamLxGnGGsNO3-z1IjP9oSI4gg3w4Fe3lpApG4Hh5uwQvVGxupbi6id9TGzdFFt8IXTCDI0lyrewYKDBRM8dkWXm2ybbXRgcN8IvepetmSiU2Bv4BLqd-hkAcuicG_ITKAs9zbmZMZAk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "43cdf7c402481ed83nR63dS1EFM~",
+      "encryptUserId": "8355d3485b938d1103143tW_GFc~",
+      "invalidStatus": false,
+      "jobName": "AGV软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1负责AGV车载终端（linux平台）定位与导航系统的开发和维护；\n2负责AGV车载终端系统软件的质量和版本交付；\n3完成AGV软件系统逻辑或者状态机的编码，调试，配置等工作\n4集成和移植基于ROS系统的导航定位，控制，外设等传感或算法模块\n5程序维护，解决软件系统故障和现场应用缺陷\n6编制软件技术文档和规格书\n\n岗位要求：\n1. 熟练使用c++标准和STL在Linux平台下进行软件开发，并具备良好的编码规范；\n2. 注重代码单元测试的开发\n3. 熟悉多线程、网络功能的开发(1人)；\n4. 主动了解c++技术栈的相关框架和新闻，熟悉谷歌、Facebook等第三方开源c++库的使用等；\n5. 具备一定的算法理解能力，有过算法移植开发经验者优先；\n6. 熟悉ROS开发的优先；\n7. 有过AGV行业从业经验者优先；\n8. 有Github活跃度和技术博客者优先。\n\n1. 本科或以上，２年以上Ｃ/C++项目开发经验，１年以上Linux平台ROS系统应用经验；\n2. 计算机、电子、自动化及相关专业；\n3. 精通Ｃ/C++，精通ＲOS，熟悉ＲOS底层通信机制；",
+      "encryptAddressId": "2ab428ee6f4f67081HZ63dm-E1o~",
+      "address": "宁波鄞州区舒普机电",
+      "longitude": 121.611819,
+      "latitude": 29.828106,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38fb55cf9a1e710e93371771af8daa79",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26f733f851856e8fd80dff896b054e6e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "算法移植",
+        "ROS",
+        "AGV",
+        "Github",
+        "linux平台"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宫女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/c45c05e3be034f66da5493fc24ae84394c17bfe17055b8125b565e4f743_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "舒普机电",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b2c9e72e6380ef991nx_2N-_FFU~",
+      "brandName": "舒普机电",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100901,
+      "industryName": "机械设备/机电/重工",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721111189480,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "舒普机电",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

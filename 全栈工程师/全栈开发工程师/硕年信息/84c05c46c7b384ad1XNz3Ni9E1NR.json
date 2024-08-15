@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "52kwCuYcooukd-z1blXvBVeiwQ8jpdfUFL-m-EHTp5AL761yFxtm1ja48ZkUBQqS4XMgp4eB5KSpHck0DmWanThs-tdexbWMa6xhaeHBBZOjF9wWkXs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "84c05c46c7b384ad1XNz3Ni9E1NR",
+      "encryptUserId": "2b6be73f3968f2d90nBz0tm6FVpS",
+      "invalidStatus": false,
+      "jobName": "全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 国内银行项目，需要出差驻场开发。\n2. 需要统招本科及以上学历，1年以上工作经验，经验不足请勿扰。\n3. 熟练使用Vue全家桶+Axios + Element UI编写前端页面，可对前端程序进行性能优化、代码调试；\n4. Java基础扎实，熟悉Web开发，熟悉Spring Cloud开发框架；\n5. 熟悉关系型数据库（MySQL），熟悉分布式缓存（Redis）、消息中间件等；\n6. 熟悉linux命令部署常用软件，包括Tomcat、Nginx、Redis、MySQL等；\n7. 有金融行业自助设备（如存取款机、自助发卡机等）客户端应用开发经验者优先录用；\n8. 有良好的沟通能力与组织能力，有负责技术小组经验者优先录用。",
+      "encryptAddressId": "9546cdbfdd3213e80HV42tq9F1s~",
+      "address": "长沙长沙县财富港湾星沙大道39号",
+      "longitude": 113.085118,
+      "latitude": 28.238833,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25db65fc91898c86f348fea77cca8b02",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a0c253ab1db081284cdb9c17c7c0452",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Vue",
+        "Java",
+        "MySQL/Redis/MongoDB",
+        "Spring/Spring Boot",
+        "Web",
+        "linux",
+        "Axios"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "贺女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220826/607f1f3d68754fd076208a0c0dbc1d2e34248b061779944aa5506dd77333cacb8ec7984d444_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "硕年信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "235098caefbe67243nF53tq5Fg~~",
+      "brandName": "硕年信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1723627419421,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "硕年信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
