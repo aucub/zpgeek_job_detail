@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-FPh5YEcJDKbw-m1y4HEMjb9EfrsC5PBx89grn7lv1PvbVsCOEilnSgY510_lSidGYbwDpOS1C8JmueZwcQQnOGEA_doctearXTfY28zEuUW5RtUCg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a9c6d12f03b672b90HBz2Nu9EVs~",
+      "encryptUserId": "ee5781c7bb273f781nR_2ty0FFBX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、根据设计文档或需求说明按开发规范完成代码编写，调试，测试和维护\n2、协助测试工程师制定测试计划，定位发现的问题\n3、参与项目需求分析和设计，辅助进行系统的功能定义\n4、负责项目的沟通、需求的收集以及协调各方事宜\n5、配合项目经理完成相关任务目标\n6、完成领导交办的其他工作任务\n\n岗位要求\n1、专科及以上学历，计算机相关专业毕业，具有工作流开发工作经验优先\n2、Java基础扎实，精通Java及面向对象设计开发，熟悉常见设计模式\n3、精通Spring、SpringMVC、Spring Boot、Hibernate、MyBatis、Ehcache、Quartz等主流开源技术框架和项目\n4、熟练掌握MySQL，Redis相关数据存储技术\n5、熟练掌握ActiveMQ、RabbitMQ消息组件中的至少一种\n6、熟悉Html、js、css、vue.js、JQuery、Bootstrap、H5、CSS3等前端技术\n7、熟练使用Idea、Maven，Git或SVN版本控制等常用开发工具；\n8、熟悉Nginx、Tomcat、Apache等主流应用的使用\n9、有良好的编码习惯，遵守团队开发规范和代码规范；\n10、工作积极主动，责任心强，有较强沟通能力和学习能力，具备团队意识，能够承受较高强度的工作压力，认可公司的价值观",
+      "encryptAddressId": "853689a7fc7d63e51X1_0t--ElE~",
+      "address": "广州黄埔区绿地中央广场A3栋906号",
+      "longitude": 113.430502,
+      "latitude": 23.163727,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/456b8dc2e2d466389b071b693c8dd93a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b4e292188db811068ffc6a33a1cd1df",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Hibernate",
+        "MySQL",
+        "Redis",
+        "JavaScript",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200420/b8a5862d0d6cc4031e5b4fc263872bd1df43896adcf89c8be13e23f02ca_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州汇客",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "19a09bf9064f0b830H1-3tu4FA~~",
+      "brandName": "广州汇客",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721172340100,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州汇客",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GqX83v0s3tgCE-P1a-FbK3b-ImwxqcB_AXZpiqk7V1LRFygwJ9lgEZXLU1rQpYABiUyJhRtUNlGnSf1gmh6u2JIVZP5_6dxC3y6G1tsTV1RWSAv9Le5n",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a8b1866f3d0a104c1HV43N-0GVpR",
+      "encryptUserId": "bb2f81eee41e855a0nNy0ti_F1dY",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "【公司介绍】\n上海永文实业有限公司，起源于一家国内头部的房地产开发企业，当房地产市场的黄金时代逐渐落幕，我们敏锐地捕捉到了行业转型的信号。在这一关键节点上，我们选择了勇敢地自我革新，从母体企业中分立而出，正式踏上了一条以科技为核心驱动力的新征程。通过聚焦于信息化、物联网、自动化技术，我们励志为传统的商业不动产管理注入活力，包括房屋设施维护、商铺租赁优化、业态调整提升以及商业活动的创新策划。\n\n【事业的愿景】\n中国经历了规模空前的城市化进程，未来的竞争将不再是单纯的土地与建筑，而是科技、服务与管理的全面比拼。因此，我们坚定地拥抱科技，深耕精益化管理，立志成为新时代下的新质生产力，为城市的可持续发展贡献力量。\n我们的目标远大而清晰：不仅要服务于当下的城市商业地产项目的更新提升，更要前瞻未来，成为城市不动产资产管理领域的领航者。我们相信，通过数据与技术驱动的决策、智能化的服务平台以及人性化的运营理念，能够为城市注入新的活力，让每一寸土地都发挥出最大的价值。\n\n【加入我们】\n在这里，你将亲身体验科技 如何在传统行业中落地生根，在真实场景中改变生活。这是一次理论与实践完美融合的机会，一次将科技力量转化为社会价值的探索。\n加入我们，这不仅是一份工作，也是一段生活的体验，如果互相认同，如果你认可我们坚持的理念、欣赏我们创造的价值，这里将成为你的施展抱负的舞台，我们一起逐梦。\n如果你的热情在未来某天引领你走向另一片天空，我们将自信且骄傲地为你送行。因为共事的日子里，你一定也像我们一样，在这份事业里习得了实践自己理想的技能与勇气。\n\n【岗位】\npython助理工程师\n\n【产品定位】\n软件主要为公司内部使用，用途如下\n--- 财务管理\n--- 流程审批\n--- 任务分配\n--- AI助手\n--- 第三方数据接入和监管\n\n【产品技术栈】\n前端：PySide6\n后端：Flask\n数据库：MongoDB\n\n【岗位基本要求】\n我们对求职者的基础要求如下：\n--- 学历：本科及本科以上。\n--- 程序基础：基础概念扎实，逻辑清晰，思维严谨，编程习惯优秀。能够独立完成简单算法的设计。\n--- python技能：熟练掌握python常用概念如列表，集合，字典的操作。熟练掌握常用模块例如os,datetime的用法。\n--- 英文：四级或以上，从不使用网页翻译或全屏翻译工具进行工作。\n--- 学习能力：能通过互联网搜索和AI辅助的自学方式，学习新的知识，并做好有条理的整理和归纳。\n--- 沟通协作：能和其他成员进行高效的沟通。\n--- 细致认真：对待工作任务认真负责，有条不紊。\n--- 心无旁骛：进入工作状态时专心致志，心无杂念。\n--- 团队精神：具有集体主义精神，以团队利益为先。\n--- 自信乐观：积极面对挫折，碰到问题时能调整心态，勇往直前，不轻易放弃。\n--- 上进心：喜欢接受挑战，不断创造价值，提升自我实力，对职业有明确的规划。\n--- 好奇心：主动学习和理解公司的业务逻辑，积极思考。\n\n【招聘偏好】\n我们将会优先考虑有如下条件的求职者：（排名不分先后）\n--- Qt：有Qt/PyQt6/PySide6的使用经验。\n--- MongoDB：有MongoDB/pymongo的使用经验\n--- Linux：熟悉linux系统，掌握常用命令和基本用法\n--- 英文：六级或以上，无障碍搜索和阅读英文资料，如技术文档，官方网站，论坛问答，流程教程等。\n--- AI辅助：善于利用大模型辅助解决问题、获取资讯、创建和修改代码等。\n--- 调试：熟练掌握调试工具和方法，具有一定的调试经验\n--- 面向对象经验：有足够的面向对象编程的学习经历和实践经验，有比较完善的知识体系\n--- 算法：具有一定的算法应用能力和复杂算法设计能力。具有ACM经验者优先。\n--- 从业经验：有1~2个实际项目的开发经验\n--- 架构设计和架构表达能力：有一定的抽象能力，擅长绘制流程图，架构示意图等。\n\n【岗位具体要求】\n求职者入职后，将会有如下岗位要求：\n--- 做好准备工作：\n       *  调节状态，快速适应工作环境。\n       *  熟练掌握开发用的各类工具和流程\n       *  对公司业务和财务的现况和发展方向有基本的认知\n       *  能够快速理解架构师绘制的各类流程图和架构设计\n       *  对公司的数据库结构和字段做到深度熟悉\n--- 做到自身开发任务的闭环\n       *  根据任务性质，能快速实践短平快的代码风格，也能使用规范的方式构筑代码。\n       *  与项目管理和架构设计人员沟通，确保对任务要求的准确理解\n       *  编写代码\n       *  对代码进行合理的注释和整理\n       *  对自己负责的模块进行测试\n       *  能够独立调试代码\n--- 碰到如下情况时，及时沟通\n       *  碰到不明确的需求时\n       *  预计自己无法按时完成任务时\n       *  碰到技术层面的疑难杂症时\n       *  发现现有方案的问题，有自己的看法时\n--- 紧随目标和计划，严格执行\n       *  团队达成一致的方案，坚决执行不动摇\n       *  在有明确的时间节点时，确保按时完成\n--- 学习新知识\n       *  根据团队需求，阶段性了解和学习新的知识和概念，并做好笔记的整理归纳。\n--- 部门互助\n       *  作为开发部门人员，帮助其他部门的同事解决打印机，扫描仪，网络电话等设备的疑难杂症。",
+      "encryptAddressId": "1c4d090c899763831nZ-2tu1F1dS",
+      "address": "上海宝山区大华朗香嘉年华华秋路58弄38号",
+      "longitude": 121.381038,
+      "latitude": 31.320087,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7585e79614d0caa3186b927aeee379816bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bfe9f72d860dec0f2f9dacaa9e257815766bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "MongoDB",
+        "PyQt",
+        "PySide"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "方先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230209/607f1f3d68754fd0d82b96bbf88c930007eaea72cdf5085ffcd75ee459970bcd2e3ec23addd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海永文实业有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "adc8857aea9ffed81XBz0928EVU~",
+      "brandName": "上海永文实业有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "【公司介绍】\n上海永文实业有限公司，起源于一家国内头部的房地产开发企业，当房地产市场的黄金时代逐渐落幕，我们敏锐地捕捉到了行业转型的信号。在这一关键节点上，我们选择了勇敢地自我革新，从母体企业中分立而出，正式踏上了一条以科技为核心驱动力的新征程。通过聚焦于信息化、物联网、自动化技术，我们励志为传统的商业不动产管理注入活力，包括房屋设施维护、商铺租赁优化、业态调整提升以及商业活动的创新策划。\n\n【事业的愿景】\n中国经历了规模空前的城市化进程，未来的竞争将不再是单纯的土地与建筑，而是科技、服务与管理的全面比拼。因此，我们坚定地拥抱科技，深耕精益化管理，立志成为新时代下的新质生产力，为城市的可持续发展贡献力量。\n我们的目标远大而清晰：不仅要服务于当下的城市商业地产项目的更新提升，更要前瞻未来，成为城市不动产资产管理领域的领航者。我们相信，通过数据与技术驱动的决策、智能化的服务平台以及人性化的运营理念，能够为城市注入新的活力，让每一寸土地都发挥出最大的价值。\n\n【加入我们】\n在这里，你将亲身体验科技 如何在传统行业中落地生根，在真实场景中改变生活。这是一次理论与实践完美融合的机会，一次将科技力量转化为社会价值的探索。\n加入我们，这不仅是一份工作，也是一段生活的体验，如果互相认同，如果你认可我们坚持的理念、欣赏我们创造的价值，这里将成为你的施展抱负的舞台，我们一起逐梦。\n如果你的热情在未来某天引领你走向另一片天空，我们将自信且骄傲地为你送行。因为共事的日子里，你一定也像我们一样，在这份事业里习得了实践自己理想的技能与勇气。",
+      "labels": [
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1723794542462,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海永文实业有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

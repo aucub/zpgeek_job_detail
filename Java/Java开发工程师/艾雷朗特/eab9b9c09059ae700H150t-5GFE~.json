@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0T6TqEKztpmC--u1gr6_hvuVZXrfI3PaafOVa4TVIbAbMaChB4tDINi4qR56ONoCX8oL2ltAFL6WBc37_MGumdF21nKrVXmJ4ROKwFo71DSP8g5c",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eab9b9c09059ae700H150t-5GFE~",
+      "encryptUserId": "891fb29898c90cad0nx-2tq1F1E~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、 负责产品模块、技术组件、业务组件的设计研发工作\n2、 深入理解业务需求，完成系统核心代码编写；\n3、 负责现有平台维护和项目支持。\n4、 负责解决相关技术难点，负责技术问题初步解决方案分析\n5、 分析系统瓶颈，解决各种疑难杂症，对系统进行性能调优； 核心功能的架构与编码模板编写，编写相关技术文档。\n\n\n岗位要求\n1、 计算机相关专业，应届生也可\n2、 精通java语言，掌握SpringBoot、Springcloud，SpringMVC、JPA、mybatis等开源框架；熟悉相关源码者优先。精通weblogic，tomcat中间件，精通oracle，mysql数据库，熟练使用git、svn、weblogic、MQ，Maven、Memcached，redis等技术，具备实际项目应用经验。\n\n3、 精通面向对象分析与设计，能够独立承担具体模块的设计工作，并完成核心实现。\n4、 精通常用的设计分析方法\n5、 精通并恰当的运用设计模式和设计原则；\n6、 熟练掌握敏捷开发流程，能快速进入角色； \n7、喜欢技术，肯钻研，具备良好的代码规范、文档编写、学习沟通及领悟能力。",
+      "encryptAddressId": "2c9bd19c26a224011XF639W6F1E~",
+      "address": "北京用友产业园(北京)",
+      "longitude": 116.238672,
+      "latitude": 40.06885,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03ece5e5b19b78b3146e75b9e89cef00",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/723d83e72138eff233d7ad9d82fc081e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "GIT",
+        "SVN",
+        "MVC开发",
+        "后端开发",
+        "架构师",
+        "保险"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "艾雷朗特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5a29d83e73846e271H1_3t60Ew~~",
+      "brandName": "艾雷朗特",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "通过信息化智能化助力中小企业发展",
+      "labels": [],
+      "activeTime": 1723507243293,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艾雷朗特",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "P0NL79vsOQawh-71mJjnAUtUPJ3be05frO06l5jcIz7ChULzMxP11ZytDTeDOJ_Ufv5kEHQAAmItHZW4O5gK9urKSpnVp0zI_Fea2oVSXftCMcn5m6mcTORhxp0afAXgy8InmehIBwtMrjKyTEelQ8GRLY_7-3QEcICcsfaQEQ6K2KqE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "adb9a6772c4d83941HN90ti9EVdU",
+      "encryptUserId": "74603fda846779bd1H183Ny_EFM~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（学信本）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、负责业务相关系统的模块编码实现和质量保障，独立完成模块的开发、自测。\n2、编写相关文档，包括但不限于功能自测、联测、接口文档等。\n3、负责银行资金产品线开发，和团队紧密合作，及时、高质量完成任务。\n任职资格\n1、 具备良好的编程素养，逻辑性强，对代码质量有很高的追求。\n2、 Java基础扎实，理解IO、多线程、集合等基础框架，对JVM原理有一定的理解, 对数据结构与算法、设计模式和数据库有深入了解.\n3、 熟悉SpringBoot、Mybatis等开源技术框架，有微服务相关（spring cloud或者dubbo）开发经验。\n4、熟悉数据库SQL语法，熟练使用Mysql或Oracle数据库\n5、 熟悉使用Linux操作系统，掌握基本的linux命令\n6、 责任心强，追求效率，有良好的沟通能力、协作能力、学习能力。\n7、具备较强的自学能力，诚实可靠，愿意踏实做事。",
+      "encryptAddressId": "e225caef2d89d9790nd-2NW4GVA~",
+      "address": "杭州滨江区数智恒生中心一楼",
+      "longitude": 120.185868,
+      "latitude": 30.191883,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f201e5312e86020cce9b27e5c579c281",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ecae0f48a291fe738fb4adbb8348cfa3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "SpringCloud",
+        "Spring",
+        "接受居家办公",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "微服务经验",
+        "分布式经验",
+        "mangos",
+        "银行",
+        "赢时胜"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "蒋莱科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d7edf65546ff6ea70HF73ty6Fg~~",
+      "brandName": "蒋莱科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "这一家IT行业公司，同事们都非常的和蔼可亲，相处很融洽，不用担心会勾心斗角，欢迎小伙伴加入我们公司，大家一起成长互帮互助~",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1723775567110,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蒋莱科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

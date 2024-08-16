@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hOaqFN0IBR43e-v1apmF_W31WZwxSW8sIJVb1kEeirtRQBMaFVflq6W_zNvHRcLqxA9YKYOZwHhCcS_7S12LwoeHurLDm-850kGnIYq1hoGFJic~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a966308c6d0211431nR629q7E1dZ",
+      "encryptUserId": "faacee8f38a0b64e031739S0F1U~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA工程师岗位要求：\n1、精通java面向对象程序设计方法，熟悉MVC设计模式。\n2、熟练使用常用工具Jenkins, Maven/Sbt/Npm/Ant, Git/SVN, Eclipse/IntelliJ等等。\n3、熟悉主流开发框架，如Spring、SpringMVC、MyBatis、Redis、Spring cloud、Spring boot、ZooKeeper、Netty、zuul等。 \n4、熟悉至少一种应用服务器的部署与配置（tomcat、jboss、weblogic等）。\n5、熟悉Oracle、PostgreSQL、MySQL、MongoDB等数据库，具备一定数据库调优经验；\n统招本科、统招大专学历，且学信网可查。",
+      "encryptAddressId": "dd83d59bb9d3208b03R709-_GA~~",
+      "address": "北京朝阳区华润时代中心A座11层",
+      "longitude": 116.521598,
+      "latitude": 39.909236,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eef4f9325b286466690ab52a4779e2b8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/955b79a9db11647dba5356f8f091cb24",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "MVC开发",
+        "多线程",
+        "消息队列",
+        "微服务架构",
+        "Spring",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200824/46f5f92467091342c215bdf20729e95f498d021fdd6a4cf16688fbba403_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1723711043031,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

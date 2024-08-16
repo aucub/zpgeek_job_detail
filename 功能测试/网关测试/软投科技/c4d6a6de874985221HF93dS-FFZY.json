@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tkOl56PxiSX70-P1UEfs7jE2QfazNqETwTPdePvghN6Xrty0vMxK-zRPxiZTDsRkf0teQ62z-ZOKerPlS4YenTAAIz4cnK6mVVMKO-R1Eky2AnmdaB3gD6e-CKuVsx7xYaDtGfmBq3ifDCA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c4d6a6de874985221HF93dS-FFZY",
+      "encryptUserId": "e80c6be3bb63599b0nx829y1EVBQ",
+      "invalidStatus": false,
+      "jobName": "网关测试",
+      "position": 100303,
+      "positionName": "功能测试",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：岗位职责：岗位职责：1     负责零部件及系统级的CAN/CANFD通讯，以太网通讯，网络管理，DoIP， UDS诊断等测试；\n2     负责根据网络通信等规范，负责编写网络通信，网络管理，升级，诊断的需求文档和测试用例；\n3     负责LIN/CAN总线矩阵 LDF/DBC数据更新和维护；\n4     主导分析网络系统网络负载，制定网络管理策略，制定和更新网络系统路由设计及信号路由表；\n5     负责跟踪项目中网络开发进度及问题，提供必要的技术支持，网络通信需求，问题分析与排查；\n6     负责编写总线网络测试报告；\n7     负责自动化测试脚本的开发及维护；\n网络测试工程师资格要求：\n1.知识要求：\n熟悉车载总线相关标准：ISO11898，ISO14229，ISO15765，AUTOSAR网络规范等\n熟悉网络测试通信、诊断、网络管理等模块测试规范及标准；\n熟悉TC8以太网测试要求和相关测试工具，如TCP/IP协议，以太网交换机等；\n能独立完成CAN总线、LIN、Ethernet的总线及诊断测试；\n熟悉整车开发流程、ECU开发测试流程\n2.技能要求：\n熟练使用CANoe、CANape、CANscope和以太网协议一致性等总线测试工具\n熟悉Vector工具，如CANdb++，CANdela，CANoe.DiVa，熟练编写CDD，arxml等文件；\n精通Python，CAPL, C等1种或以上编程语言;\n3.资质证书要求：C2驾照、CET-4优先",
+      "encryptAddressId": "34964ed4e088ab100Hx92dy1EFJSw4u8Vv4~",
+      "address": "重庆渝北区中瑞(重庆两江)产业园1-1",
+      "longitude": 106.501516,
+      "latitude": 29.647095,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df456655ce2cae34310ffb7a0a4a5311",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fcf8e23af485096c3a7ee4c79bc4857",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "TCP/IP，以太网"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "HR.招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "软投科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "36d4eb7b90e674791HB63t65GFY~",
+      "brandName": "软投科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723779816438,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "软投科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

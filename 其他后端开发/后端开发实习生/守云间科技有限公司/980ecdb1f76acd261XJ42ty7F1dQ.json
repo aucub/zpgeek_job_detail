@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UbHRfk2aAeg0R-y1a4k56fw4U7Z6poTnnLXl30uRGBnAUuKRQ-dLcxkYhDuQ1QIU2JUuRFVPliAXXsly1YLrjna-oIpx2Njyi2F50DGL_OPEqjAMM6XjAkoN__N5_K8G-LvRxPQ0UKUcRVg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "980ecdb1f76acd261XJ42ty7F1dQ",
+      "encryptUserId": "3daaf7612a554d971nR-09S0EVNQ",
+      "invalidStatus": false,
+      "jobName": "后端开发实习生",
+      "position": 100199,
+      "positionName": "其他后端开发",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责系统与数据库设计、业务功能设计、组件设计、代码编写、单元测试、BUG处理等;\n2、参与系统的需求环节、开发环节、测试环节的相关产出物评审;\n3、编写相应的技术文档、编写软件开发过程文档.\n\n任职要求:\n本科及以上学历，计算机相关专业\n1.熟悉iava基础及其体系框架，熟悉JVM，包括内存模型、类加载机制以及性能优化优先；\n2.熟悉多线程编程，分布式及事务，缓存，消息队列RabbitMQ及其实现机制;\n3.熟悉SpringBoot、SpringCloud等微服务框架RESTFul、Jwt、MyBatisPlus、Swagger2\nSpringmvc等；\n4.熟悉MySQL数据库及性能调优，主从、读写分离模式，有Redis等NOSQL应用经验并能进行性能调优;\n5.熟练掌握Linux常用命令及及部署，熟悉tomcat等常用应用服务器，熟悉Nginx，熟悉Jenkins自动化部署，了解Docker、K8s等容器化部署;\n6.熟悉后端交互开发，包括内部系统接口对接、第三方系统(微信、支付宝、抖音等)对接 ;\n7.良好的业务梳理、通能力，拥有完整的业务功能设计能力，数据库模型设计能力;\n8.熟悉行业业务系统，有相关行业系统开发经验者优先;\n9.学习能力强，具备良好的问题定位、分析及解决能力，具工作责任心，有良好的编程和文档管理习惯，有良好的团队合作精神，能承受较大的工作压力;",
+      "encryptAddressId": "6ceb371485bb6f650HBy3N-0E1E~",
+      "address": "贵阳观山湖区金融MAX·C座21层24号",
+      "longitude": 106.648359,
+      "latitude": 26.649807,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b96a3d1501f02721e3deb2dcc813880c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/963861149fb6394b1184fe0a30c01e12",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring/Spring Boot",
+        "MyBatis",
+        "计算机相关专业",
+        "后端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗女士",
+      "title": "人事助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240201/607f1f3d68754fd072c37eef414e367905a559b7c63aec205bad1adbdff0119702733f8641cc9de_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "守云间科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cf89cb3cdf718db71Xdz2Ny1FlQ~",
+      "brandName": "守云间科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1721204015717,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "守云间科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

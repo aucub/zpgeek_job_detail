@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hTpKra0JEVsvC-_18Z0HW32fnwpWEhyy2fZE_IeEF5lQRqvsi70PVIadjMh1Azd5DM_xPvzhQP90jrjKzGI1GnuxdkUKndaec3194ZM4jEvtlRYjdLs-N4KYN04qix7j0CUstmL79-x8L-2P6D3ka3xtBdAJamjpYkYsDEV_X4DFSAeF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3eae0308ed84cd1f1HNy3Ni8F1JU",
+      "encryptUserId": "0fc7e4384721f36b0nF509i-GFM~",
+      "invalidStatus": false,
+      "jobName": "初级JAVA开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机相关专业，大数据方向优先考虑；\n2、JAVA基础扎实，集合等基础框架，熟练运用常用的设计模式；\n3、熟练使用Spring boot，Spring Cloud，Spring Cloud Alibaba，有实际相关项目经验。\n4、熟练使用Redis，Nginx等分布式中间件应用；\n5、熟悉mysql或oracle数据库的使用，数据库优化及SQL优化；\n6、良好的沟通技能，团队合作能力，勤奋好学，热爱技术；   \n7、善于与人沟通，为人正直、诚信，有较强的事业心，对工作认真负责，能够承担一定工作压力；\n8、有Python开发经验的优先考虑。",
+      "encryptAddressId": "14b139ed9f8a4fed0X1639u1ElA~",
+      "address": "郑州二七区大学南郡9号楼16楼82号",
+      "longitude": 113.642795,
+      "latitude": 34.702884,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e521a2e7cf186fa0e83bbd562d8490f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16249a7bb182a68a532f499c9f09d7fa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Redis",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "华医共享",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "13d9ad43dc3da68e1nx50tm1Fw~~",
+      "brandName": "华医共享",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210106/3c7780a23e5cd79aa1f82c9eea61b220de60d848df0bf66293eb52347139e55e_s.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "北京华医共享医疗科技有限公司成立于2014年，是以业务为引导，信息技术为支撑的业务技术型服务公司。主要提供提升医疗卫生机构服务能力整体解决方案。信息化产品主要为医共体信息管理平台、全民健康信息平台、医防融合慢病管理、医养结合、健康医疗科研大数据分析、专病数据库建设、北京医联体专科联盟技术服务、远程医疗信息系统、移动化数字设备等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1723775745857,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华医共享",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

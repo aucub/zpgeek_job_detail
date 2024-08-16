@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zYCIJ8wajix3m-D1osyQLBm6Q6cIEaLZlA2PdD3RiP5tamAX4cyp8y9VOB4SYxv4Eqs_QTUwWZe2lp4QAr4h7ItFIC1WckwJAFQSALgh3ZhOaxE6CC3BgkxdhND8w36t-XnoPNPeWno~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "967ad53e7e66726833N_3di9FFc~",
+      "encryptUserId": "c9c4c0d3617aa55b1HB6096-F1c~",
+      "invalidStatus": false,
+      "jobName": "Python后端实习生",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "为实习生岗位。\n\n1.熟练Python及Django\n2.熟悉至少一种主流云服务（如阿里云）\r\n3.熟悉docker\r\n4.熟悉无服务器(Serverless)架构 \r\n5.会flask+nginx或者其他Web应用部署\r\n6.熟悉SQL NoSQL数据库，会基本C++\r\n7.了解负载均衡、资源分配等有加分",
+      "encryptAddressId": "b2e64865d9bdf0e00nV609q5EVY~",
+      "address": "杭州萧山区奥体万科中心A座",
+      "longitude": 120.246295,
+      "latitude": 30.246746,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a309a7f580286496f4ea21ddb75f0e9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e6587cbd12fc61567700f3627ff8fac",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "容器技术",
+        "Flask",
+        "Python",
+        "C++",
+        "NoSQL",
+        "后端开发",
+        "Django"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "CEO兼投资总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200302/e08f24c458fa554869d3f01700f74abecf433535a58681000f31010f646_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "傲创资产",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "774db8ce5aba90fc1nB429S6EQ~~",
+      "brandName": "傲创资产",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180222/824db02b07ec9ebb1bf010773185d6c0cf433535a58681000f31010f6460b91b.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100204,
+      "industryName": "基金",
+      "introduce": "傲创（杭州）资产管理有限公司，总部位于杭州钱江世纪城CBD，在纽约及香港设立了办公室。公司基于深度学习、金融数学、计算机算法，构建多种量化投资策略，由系统代替人工完成投资决策及交易，投资包括股票、期货、衍生品在内的中外金融市场，获取持续稳健的超额收益。\n\n团队海外学历丰富，70%拥有海外博士学位，毕业于浙江大学、哥伦比亚大学、清华大学、渥太华大学、香港科技大学、香港中文大学等高校。团队历史累积管理规模超过15亿美元，曾经就职于摩根士丹利、高盛、Bloomberg（彭博）、阿里巴巴等机构，工作地点覆盖纽约、香港、中国大陆等全球主要金融市场，具备丰富的全球量化策略构建及实盘交易经验。\n\n公司崇尚积极、开放、坦诚、公平文化，不加班、不表演、不内卷、不PUA，高效工作、快乐生活。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "包吃",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723789112120,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "傲创资产",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l1Wbha7K3zhlK-u1DjRBm0WdAs97qogIXit29lco0mGxa7mEd1mQDE5nN1uM_sHdbv5He2SUobo0yYBW3KLndE1zmlQCfd0R00zSAXHEzS4E6vqbY7lD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c2aa2dabc82e694e1HV9396-EFtU",
+      "encryptUserId": "e2eaffe51c9157730nx-0tu0GFpS",
+      "invalidStatus": false,
+      "jobName": "工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "嵌入式软件工程师招聘要求\n岗位职责：\n1、 独立完成需求分析、嵌入式软件设计工作；\n2、 负责产品（水控卡表、锁控板等）软件及及驱动开发，实现产品功能程序，调试，测试等；\n3、 规范编写和维护产品/模组嵌入式开发代码；\n4、 及时完成公司交办的其他工作任务。\n 任职要求：\n1. 大专以上学历，电子信息工程、自动控制或相关专业毕业；\n2. 2年以上的嵌入式软件独立开发经验，熟悉ARM 、STM，有相关MCU开发经验；\n3. 能独立完成嵌入式软件系统的设计、实现和调试，代码编写规范、逻辑清晰。\n4. 熟练使用C和C++，熟悉Keil MDK开发环境；\n5. 能看懂原理图，熟悉电子电路等相关理论，对产品和硬件实现方案有全面了解；\n6. 熟悉MODBUS TCP，MQTT等网络通讯协议；熟悉RS485、CAN、UART、SPI、IIC、GPIO等数据接口及相关协议；熟悉数据通讯模组的AT指令集；了解WIFI/BLE/4G等通讯协议；\n7. 具备良好的文档阅读能力、沟通能力、学习能力，团队合作精神和较强的责任心。\n8.有水控、电控、一卡通行业应用开发经验者优先录用。\n9.待遇高于同行百分之十，绩效奖金+年终奖+期权",
+      "encryptAddressId": "433353ab99f7df3533Z53tq8EVE~",
+      "address": "深圳宝安区宗泰电商联创基地37栋501",
+      "longitude": 113.860728,
+      "latitude": 22.587364,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75d567fb9f154c672ad9e7c928b4fea1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d99d58ad2331a424062e09cdeeca53b7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "STM32开发",
+        "ARM开发",
+        "计算机相关专业",
+        "嵌入式/单片机开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "柳先生",
+      "title": "公司董事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "深圳卓爱智洗科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "184479247b56708b1XF_3Nm4EVA~",
+      "brandName": "深圳卓爱智洗科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721177304613,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳卓爱智洗科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

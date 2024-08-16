@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "G0Up8fZBZu7XX-s17egMDvaT-ZApeLL-2JXEKw3B08UzlUGMHD7ovxO_ZF4OS5EstnPxt4-TLTUeFkLmPvFO2Ls45HAWsIBKsGQcy1ji7lcnV7y3q0765fzH1z1CGTyzHq-qcrWA7xRn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a37c3d2630c8fa061HF-3ti0F1RX",
+      "encryptUserId": "e24fa753b553fd0603J_2NS4EFU~",
+      "invalidStatus": false,
+      "jobName": "实施工程师",
+      "position": 100606,
+      "positionName": "实施工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n\n1.负责公司自研产品上线,包括整体上线方案讨论与制定、各事项准备、产品实施与部署以及上线方案涉及工具的优化等;\n\n2.负责运维公司线上产品,7x24小时运维预警、监控;\n\n3.负责公司自研产品的日常维护,包括版本发布、应用问题排查、系统部署与配置、网络端口策略、资源服务器管理;\n\n4.根据工作要求,输出运维相关的技术文案。\n\n岗位要求:\n\n1.精通linux命令grep、sed、awk、xargs、scp、tar等,具有批量查找和修改文件内容操作经验;能熟练使用shell/ant脚本,具备编写脚本代码者优先;\n\n2.熟悉Apache、JBoss、Tomcat、Oracle等中间件,熟悉Apache、JBoss/Tomcat集群配置和管理,具备中间件故障排查、性能诊断与分析等能力;\n\n3.精通jenkins、git、svn、ELK、XWIKI、Eclipse工具,对软件操作与命令熟悉有丰富经验;\n\n4.对JAVA面向对象编程产品有一定了解,熟悉Java风格的log日志文件格式,能从日志中快速定位问题发生的位置,并开展问题排查;\n\n5.统招全日制专科以上,计算机相关专业,2年以上同岗位工作经验,同时具备客户case运维、应用平台运维、linux系统运维、网络运维等多种经验者优先考虑;\n\n6.熟悉TCP/IP协议以及相关网络安全、网络管理协议等网络相关知识,对于网络安全有丰富的经验;\n\n7.公司会定期组织行业知识、业务需求、平台架构、运维规范及运维内容相关培训,并进行考核;\n\n8.良好文字功底及沟通协调能力,强烈的责任心和团队合作意识,稳定的心理素质,能承受高强度工作压力。",
+      "encryptAddressId": "3af2c1f9aee9d69533Rz3ty6GVFRy4u3V_k~",
+      "address": "济南金桥国际(二环东路辅路)A座",
+      "longitude": 117.071,
+      "latitude": 36.687,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230623/48ba41acc9cef1bf5ea1efcf61dd921947e3ed28694305db6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230623/48ba41acc9cef1bf0d19faaa4c972ef9f3be2ad5a2b8e24e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件实施经验",
+        "熟练掌握SQL语句",
+        "可适应出差"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240307/607f1f3d68754fd08d409f80a617afa47c729f43f74ef79d9e32770ed4279c79dedd72f0d27d055_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "猿人科技丨软件开发",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "510028a8f8259b951HZ73dy6Ew~~",
+      "brandName": "猿人科技丨软件开发",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181218/72af5cbe746abe162016da25f3fc59ec9e32770ed4279c79dedd72f0d27d055e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "山东猿人信息科技有限公司 是一家互联网软件科技公司，“做有价值的程序猿”是我们的愿景。公司拥有多项核心技术，在大型网站系统架构、小程序开发、APP开发、大数据、云计算、人工智能等领域有着深厚的技术底蕴！\n\n猿人科技提供ERP+MES+CRM+WMS+PLM等一整套企业数字产品套件，把生产报工工单工艺管起来、进销存财务软件一体化，为制造业、销售型等企业降本增效，提高数字化效能！基于云计算技术，将传统软件与互联网做到一个很好的平衡点，让大中小型企业以较低的成本，享受到数字化转型的红利！制造业ERP MES WMS 条码系统组成了运营管理、生产仓储系统，厂内周转效率提升20%，周转周期缩短17%，工单准时完工率达90%（根据客户实施统计数据计算而来），选择猿人科技，专注企业信息化，生产管理的王者，智能制造当仁不让。重在价值落地，实施服务创造价值！\n\n二、小程序、APP订制开发\n微信小程序各行业解决方案\n人工智能名片小程序：智能名片、AI雷达、Boss雷达、智能拓客、智能CRM、智能客服、拼团分销砍价商城、超级官网、视频音频观看\n社区团购小程序：不一样的社区拼团！\n直播商城小程序：拼团、分销、会员卡、秒杀等营销功能\n餐饮高级小程序：扫码点餐，外卖，会员卡系统、拼团、积分商城\n美容美发美体小程序：项目预约、会员卡积分系统，分销拼团，解决拓客难维护难营销推广难\n宠物、医疗、母婴、官网DIY、房产中介、酒店宾馆、婚庆、门户、同城小程序等各类行业小程序解决方案\n猿人科技作为小程序SaaS云计算平台，具有强大的技术研发团队，支持小程序定制开发\n\n三、微信公众号开发\n目前微信公众平台功能有微官网、微商城团购、预约报名、投诉建议、大转盘、微信朋友圈社交营销广泛应用餐饮、教育、美容等各线下门店节日营销拓客、智能多客服、微信会员卡\n\n四、网站建设与排名优化SEO\n公司网站、外贸建站、外贸电商独立网店，支持国际主流支付方式，不依赖亚马逊，独立营销！网站建设采用强大的LNMP技术架构，高性能，高稳定性，高安全性；网站前端采用新的HTML5，CSS3技术，网站设计简洁，大气，美观，具有现代国际化风范！无论是电脑，手机，还是平板都自动适应屏幕大小，移动互联网时代必备！\n猿人科技推出网站建设运营一条龙服务，网站能带来客户询盘，上首页才是硬道理！",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723774712745,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "猿人科技丨软件开发",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
