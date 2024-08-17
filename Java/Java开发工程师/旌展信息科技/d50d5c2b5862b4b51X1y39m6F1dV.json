@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VV9CyxkORdqPH-O1wXSy93386bJWCOM2aP8CvjU6B3_gNQ70gA0T0lvDJOXkEV7OmukILg4nwQc5qdoIYtupiE4oQevSr_6_oNcp0xC-ntR-kmsgGg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d50d5c2b5862b4b51X1y39m6F1dV",
+      "encryptUserId": "9f1feca537797b1d0nF52tq7F1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.负责Java项目的后台设计与开发工作。（同时会PHP开发者优先考虑）\n2.对自行编制的功能代码进行功能与性能优化，可协助H5、APP端、第三方进行接口联调，及时修改测试、提出bug，确保代码质量。\n3.撰写相关的技术文档，主要包括设计文档、接口文档、部署文档、使用手册等。\n4.参与项目整个过程的实施工作，并具备独立安装部署和后期实施运维能力。\n\n任职要求\n1.计算机相关专业，2年以上工作经验，具有较强的学习能力，熟悉Javaweb开发。\n2.具有BS应用开发经验，有restfulAPI设计经验，熟练使用常见的设计模式。\n3.精通SpringBoot、Springcloud、struts、MyBatis等流行框架的配置、部署、应用。\n4.熟悉MySQL、Redis，精通JVM调优、接口及数据库性能优化，有一定的架构能力。\n5.熟悉一种以上web服务器，如Apache，Nginx，Tomcat，Jboss，weblogic等，熟悉http协议。\n6.熟悉git、SVN等软件项目管理工具。\n7.熟悉Linux操作系统，能够进行web系统的安装部署，如果熟悉docker容器技术等优先录取。\n8.具备扎实的数据库基础，熟练掌握MySqI、SqIServer、Oracle等数据库中的一种，熟悉存储过程。\n9.具有良好的职业素养与团队精神，可以严格遵守公司与项目组相关规定，对工作态度主动积极、认真负责、具有一定的抗压能力。\n10.同时熟悉PHP开发者优先考虑。",
+      "encryptAddressId": "fae3b166e6b2fda41nR-2Nq_GFdS",
+      "address": "合肥蜀山区安徽省易得科技有限公司经开区莲花电子商务产业园A座305-306",
+      "longitude": 117.231818,
+      "latitude": 31.770235,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bfe5aed32eaf6dbfc8968ba5b11ffd7a166bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bfdafa05714a3c034bd0eaf8eea778c1806bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "架构师",
+        "Java",
+        "JavaScript",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190227/dfa92dd3e3b32d0867041c186f1bb8facfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "旌展信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1acdfbbe68c8ce021HJ_29y1FQ~~",
+      "brandName": "旌展信息科技",
+      "logo": "https://c-res.zhipin.com/jrs/7_4685039ffccde270a187c749bc162b6c.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723873630000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旌展信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

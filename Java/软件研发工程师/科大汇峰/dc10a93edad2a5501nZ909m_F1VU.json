@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "60AWLYrQud4B4-I1Sqd6axDW2lLoftx8lhH3Cs42k8CbH0gR_AHglrgmwNtUFCFhm1X011F4PyCXgwqUH64vsrcR_q1sEutBBMjqYgcp2QYwGuj8Dv8_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dc10a93edad2a5501nZ909m_F1VU",
+      "encryptUserId": "a937795fdb3d03d90nZ609m6FVFR",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190300,
+      "locationName": "镇江",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "\"1、计算机及相关专业，大学本科以上学历，有程序员证书者优先。\n2、具有计算机语言基础，如：JAVA、C++、C#、.Net等。\n3、了解J2EE 架构和设计模式，熟悉Struts2、Spring、Hibernate、MyBatis、Hadoop等开源框架。\n4、熟悉HTML、HTML5、JavaScript、jQuery等前端开发技术。\n5、熟悉软件开发生命周期模型，具有一定的软件设计及文档编写能力。\n6、具有Android、IOS、微信等手机端应用程序开发经验者优先。\n7、熟悉LINUX/UNIX操作系统、具有系统部署及开发经验者优先。\n8、熟悉CMS、Portal项目开发，能提供具体的开发成果并演示者优先。\n9、具有良好沟通能力及团队协作能力，学习能力强，富有进取心，能承受一定的工作压力。\"",
+      "encryptAddressId": "e948bcc3d703d4fd03V829S-Flc~",
+      "address": "镇江京口区江苏科技大学(东校区)梦溪路2号",
+      "longitude": 119.467148,
+      "latitude": 32.197363,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05bdea56fb1080f33924ba6f214a779a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa88ae94a11eca66eda49aa1f6478d9b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "分布式技术",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "Unix"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "办公室招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "科大汇峰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "82ed6378e73f15c91nB829-4GFY~",
+      "brandName": "科大汇峰",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220304/7bf6f160950405e9f57ce48a4ee626ceed0b983e0c874b65b76c606fe856aac3ec4430617efff9a2.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "江苏科大汇峰科技有限公司是江苏科技大学下属公司，成立于1993年5月，是江苏省高新技术企业和软件企业，主要从事计算机软件产品研发、信息系统集成及运维服务、学历教育及技能培训。\n公司技术力量雄厚，拥有教授、副教授、高级工程师、系统分析师、系统架构设计师、信息系统项目管理师、一级建造师、外聘专家、教师等百余人，具有本科以上学历及中级以上职称的员工占职工总人数的90%以上。\n公司始终秉承“诚信、完美、共好、创新”的企业文化。经过近30年的发展，无论在技术、信誉、销售等各方面均位于镇江市同行前列。公司通过了ISO9001质量管理体系认证，并相继获得软件能力成熟度模型CMMI-4级资质、信息技术服务标准ITSS-3级资质、电子与智能化工程专业承包二级资质、工信部计算机信息系统集成三级资质、江苏省高新技术企业、江苏省软件企业、国家安全防范工程设计施工一级资质等多项企业资质。",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721322605023,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科大汇峰",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

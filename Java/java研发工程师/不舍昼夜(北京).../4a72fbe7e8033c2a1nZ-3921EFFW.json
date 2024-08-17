@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZuPNOx9XFJ6O1-M1UryyM_Ub7RnVmi6h3A9ye4Sexf6EUjdTH4Gh1wrnQIR24lA2_OklwrhnNKJwmV1C6atyFwL6h0lSmQs9NZrHPh5H5D1vMT9IPw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4a72fbe7e8033c2a1nZ-3921EFFW",
+      "encryptUserId": "cc88cbd0a46082670nR40t-8E1I~",
+      "invalidStatus": false,
+      "jobName": "java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责公司软件平台产品的需求理解和业务设计。\n2.负责公司的软件产品设计、开发和对接调试。\n3.负责系统开发阶段相应文档的撰写。\n4.负责系统部署及系统上线后的运行维护。\n职位要求：\n1. 本科及以上学历，计算机、软件工程等相关专业，1年以上相关工作经验。\n2. 精通JavaWeb开发，能独立设计系统框架，并独立完成系统开发和测试。\n3. 熟练掌握Spring，Spring MVC，springboot等主流框架，并精通其中至少一种框架。\n4. 精通数据库（Oracle/Mysql），有较强的Sql编写能力。\n5. 熟练Linux基本命令，有Linux环境部署维护经验。\n6. 熟练docker，nginx等工具使用。\n7. 熟悉Gitlab，SVN等版本管理工具的使用。\n8. 具有很强的学习和独立分析能力、工作责任心、良好的沟通能力和团体合作精神。",
+      "encryptAddressId": "f70e3542b569b75c03R92NS1FlU~",
+      "address": "青岛李沧区百通大厦901",
+      "longitude": 120.42283,
+      "latitude": 36.161289,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86db7d68e9022edc8e2ea2f63b26a08e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bb17ff36944d3edf72e4d2a4e900660",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "Spring",
+        "SpringBoot",
+        "后端开发",
+        "全栈开发",
+        "软件工程师",
+        "SpringMVC",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/53a8992a6d16717e64bf890d1de4696b29f4ea9f45eae5d2bdedd6c167d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "不舍昼夜(北京)...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9ca6dfb8d7061a871HR-3Ni7FQ~~",
+      "brandName": "不舍昼夜(北京)...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200916/2a7ea477f1994c238e7288a253c5e6a029f4ea9f45eae5d2bdedd6c167d19ad3.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100011,
+      "industryName": "音乐/视频/阅读",
+      "introduce": "全国首家入驻商业购物中心的公共图书馆“更读书社”\n和社区周边的24小时无人值守“更读城市书房”\n更读—阅读，遇见更好的自己。\n\n一家融合了图书馆，书店,咖啡茶饮和文化沙龙活动的休闲空间，期待你的加入。",
+      "labels": [
+        "带薪年假"
+      ],
+      "activeTime": 1721797038000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "不舍昼夜(北京)...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

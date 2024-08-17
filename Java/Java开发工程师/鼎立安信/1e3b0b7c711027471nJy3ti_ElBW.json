@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kJyHohiEqUweV-D1REsLyIRoncU72H990OhWIAcHWoqNRfNeqSA-9QrlGCr0DRxpd5jPkm42XbLT-AbdB0lxy1apHMENAdnBoJqzmSrue4C8d0ZTJnA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1e3b0b7c711027471nJy3ti_ElBW",
+      "encryptUserId": "3431f50177c1ef291nV73d67EFdU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、配合项目经理和产品经理完成对应的产品研发和项目交付工作；\n2、理解用户需求，并进行相关软件模块设计；\n3、具有一定的文档能力（加分项）；\n技能要求：\n1、熟练java语言面向对象编程技术，具有三年左右java Web开发经验；\n2、熟练使用Spring Boot、SpringMVC、Mybatis、SpingCloud框架；\n3、熟练使用至少一种关系型数据库：mysql /oracle /PostgreSQL / 达梦。有数据库优化相关经验的优先考虑；\n4、对于react.js有开发经验的，优先考虑 ；\n5、熟练使用Linux，能够完成基本的环境部署和代码调试；\n6、熟练使用IntelliJ IDEA和Apache Maven ；\n7、熟悉Restful规范；\n加分项：\n8、熟练使用 redis，对于mq的使用也有一定经验：RabbitMQ / Kafka /RocketMq；（加分项）\n9、 熟悉分布式架构，对Zookeeper+Dubbo或SpringBoot,SpingCloud进行项目开发至少一年以上经验；（加分项）\n10、熟悉前端开发（js、jquery、vue、layui...）",
+      "encryptAddressId": "9af9ed5f817aefec33Nz3du9Fg~~",
+      "address": "西安碑林区广丰·国际大厦2区1710室",
+      "longitude": 108.93128,
+      "latitude": 34.230689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/495307ee4eae6c3ab034eb1c8125daf6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8638d8debc1060361620556c0da567b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "GIT",
+        "IDEA",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "SpringBoot",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鼎立安信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1be45afdbe8b66d503Vz09W8FQ~~",
+      "brandName": "鼎立安信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190418/ab4cd2cbc948595bf8d977e4a53d71af85685a5d09f75944124ae6daaf811da6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京鼎立安信科技有限公司创建于2014年，总部位于北京，在北京、西安建有产品研发中心，武汉、上海、沈阳、成都、石家庄建有办事处。\n公司产品聚焦于物联网应用、AI智能识别应用、大数据应用开发，全面发展安防应用区域的高新技术企业。\n一个做自己产品的公司。\n应用案例：已经在各大高校、能源园区、景区、交通枢纽等智慧园区 中大量应用。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721324632580,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鼎立安信",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

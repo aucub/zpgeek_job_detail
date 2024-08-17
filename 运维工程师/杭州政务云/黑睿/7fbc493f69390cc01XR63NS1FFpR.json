@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QMQ6yeP1MDq6x-u1xfEOp4WzRgU7BNh4iGubk_h0nNqgiFQyjRc2eEtYSP5BphOddpqd9USTCqkXBKgUVrvmFC-nbKLh7Wg5ks8WxPdUpipFSPTtboI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7fbc493f69390cc01XR63NS1FFpR",
+      "encryptUserId": "02bb9cdb1c7978f00XNy2N69FVU~",
+      "invalidStatus": false,
+      "jobName": "杭州政务云",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、客户现场负责H3C网络、安全、云平台等产品的技术支持工作。\n2、支持用户日常IT环境运行维护工作。\n3、配合完成用户运维的相关工作要求，包括技术交流、方案撰写和配置、售后实施和产品培训等。\n4、向代表处服务经理汇报工作。\n人员要求：\n1、计算机、通信、信息安全专业毕业，大专以上学历。\n2、精通服务器虚拟化，有业界主流厂家产品的实施运维经验更佳。\n3、熟悉存储技术及相关产品：FC SAN、IP SAN、分布式存储（ceph）、RAID等。\n4、懂一些基础网络技术，若了解VXLAN、EVPN、SDN等更好。\n5、熟悉OpenStack各组件功能及工作流程。\n6、了解docker、k8s,会日常的运维查看。（不要求精通）\n7、熟悉Windows/Linux操作系统使用。\n8、具备良好的沟通和表达能力。\n9、有较强的责任心，工作积极，认真负责。\n10、有 H3C、华为等网络、安全和云平台产品运维经验和认证的优先考虑。\"",
+      "encryptAddressId": "5d9939baa572dbfa03N40t67F1M~",
+      "address": "杭州滨江区新华三集团1",
+      "longitude": 120.19812,
+      "latitude": 30.18519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/152b8984fd10097343315b84ce17b8ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/489891d3e8e9a9318c194c6d4c57e6a0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "安全运维",
+        "虚拟化运维",
+        "Linux",
+        "容器技术",
+        "分布式技术",
+        "Docker",
+        "K8S"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211110/607f1f3d68754fd0059de567e2bbec04312ac963ee64803e0aebdcfc1b3930339e45a6d8a57_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "黑睿",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1c5248b642bcad791nB829-4EVQ~",
+      "brandName": "黑睿",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220222/7b5b554d84f9729c37852b4370c6544f623fd74583289c440aebdcfc1b3930339e45a6d8a57017c3.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "互联网13年，专注做云计算",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721273254679,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "黑睿",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

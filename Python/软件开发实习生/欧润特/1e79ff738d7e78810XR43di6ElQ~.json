@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NmzE6mgAl8WuL-M10k516p0Y8DPzDpVPVZu-wZRHSniVgg5Kus9LjnwJ_z2nkNu0QXPJbe9gYrEl-ko9qkoL1yiI-PhTNm8esAWA-jlZIHpLsIA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1e79ff738d7e78810XR43di6ElQ~",
+      "encryptUserId": "28a540913a241b391nZ53di5E1c~",
+      "invalidStatus": false,
+      "jobName": "软件开发实习生",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101300500,
+      "locationName": "桂林",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-2K",
+      "payTypeDesc": null,
+      "postDescription": "1.用python实现对数据库数据的采集和清洗、日志数据采集、网页数据爬取\n2.基于python的fastapi框架做开发web服务。\n3.欢迎在校学生参与，灵活的上下班时间。",
+      "encryptAddressId": "7db987a8b9a9383333Z_29m1EA~~",
+      "address": "桂林临桂区金贸中心5楼",
+      "longitude": 110.167922,
+      "latitude": 25.246336,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e58c49acf336ec8dfe3bcbdafb811f80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7797556f08fad369ae58c7e0d8698287",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Flask",
+        "DBA",
+        "Python",
+        "HTML",
+        "JavaScript",
+        "Linux",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "项目总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "欧润特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8edb18f3392f0cec1n1z2dW_",
+      "brandName": "欧润特",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180525/a2d02da6d997149b534320c081f3ff6d0c62b33517d452b707bafcb1c9365a34.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "我们是一个专注与数据分析，人工智能方向的技术型公司。公司由技术人员组织和控制，挑战困难的业务问题，选择先进的技术路线，勇于探索业界前沿领域。多年来，我们在金融，教育，医学等各个领域发展软件开发和咨询服务，为多个大型机构提供解决方案。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1723896232333,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "欧润特",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

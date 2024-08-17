@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MA7NguHuI8XMU-o1xTrbeDpmLE3uC60Dk-I23twnNenvGQH3r4H2PnWBaB5fhKNKksGMQ67_zqN_FVWE0RKU1izCEKU3WO63GO-esVoY1yu4Nodt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "74f9afa986a711851H1y39y6GFc~",
+      "encryptUserId": "2d1f5ba522551a3a1H1939m_E1A~",
+      "invalidStatus": false,
+      "jobName": "爬虫实习生",
+      "position": 100104,
+      "positionName": "数据挖掘",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\r\n1、负责Mysql，redis，mongdb等常用数据库的建立和运维；\r\n2、负责数据库架构设计及部署，数据库数据及接口标准化;\r\n3、负责爬取项目所需数据，并对数据进行清洗、解析等；\r\n4、对大量数据进行统计、分析。\r\n职位要求：\r\n1、计算机相关专业本科及以上学历，硕士优先；\r\n2、熟悉python或C#；\r\n3、熟悉Pandas，Numpy，scikit-learn,Keras,Scrapy等类库；\r\n4、熟悉机器学习算法，回归模型，CNN神经网络模型，自然语言模型，LDA、Text Blot\r\n、VADER、NLTK等优先。             \r\n5、有一定相关机器学习或量化项目经验优先；\r\n6.熟悉或操过vnpy系统项目优先；\r\n其它：优秀实习生优先转正，五险一金；双休，地铁口办公；",
+      "encryptAddressId": "1c6e96b392d478901nR90tm5E1s~",
+      "address": "广州天河区高德置地广场·冬(珠江东路)H座1904",
+      "longitude": 113.327,
+      "latitude": 23.11999,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11d46f0a9700cbdfaa2cc1ea5dcdc262",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b928456bd5b466352ea954b9d481dd23",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据分析",
+        "Python",
+        "数据处理"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221114/607f1f3d68754fd0abb8c3dd8e5807342e2fc62108d38af07df9049dd9dcb81fe9ffd9d7fbf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "静瞳海外投资",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ead988e94bf828081XJ43NS5GA~~",
+      "brandName": "静瞳海外投资",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190308/81cad5a1bfafd2131174c0b25ab419f57df9049dd9dcb81fe9ffd9d7fbf78bbc.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721260684543,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "静瞳海外投资",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fj8d1pkN3eTbd-H170QMPRi2G3gX5gCqmnyvjKRIViLpbk21n1j1cIiwJwK9AunWrglXTMVpfjd3UI5PMVt_05pgD-D9EwRWvg2wALhefa0gXO_D36ub",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "39216356172aa2661XV-3tq6ElJT",
+      "encryptUserId": "605f64e3713b5ee40nd72N27E1RW",
+      "invalidStatus": false,
+      "jobName": "Python爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、根据工作安排负责相关数据的自动化采集、抽取及清洗工作。\n2、负责分析数据需求，快速确定数据采集方案并按时完成工作交付结果。\n3、维护数据增量更新变动及修改，保证数据新鲜度及数据质量。\n4、参与优化分布式采集框架，参与建设全流程自动化数据采集平台项目。\n职位要求：\n1、计算机相关专业\n2、熟悉linux平台开发，docker容器部署\n2、精通Python语言，精通常用的数据抽取方法\n3、熟悉HTML、JS等前端技术，熟悉HTTP，TCP/IP协议\n4、熟悉JS逆向，代理IP，验证码等常见反爬技术\n5、熟悉主流爬虫框架，理解分布式相关原理\n6、熟练使用常用的数据库mongo, mysql, redis\n7、团队精神，积极主动，自我驱动",
+      "encryptAddressId": "8050eab9dbc034f91XR639i8F1U~",
+      "address": "合肥蜀山区合肥市总商会大厦22楼",
+      "longitude": 117.223407,
+      "latitude": 31.825506,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/801ae6460ac00711b287ea81960dce9e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebfbe0597fdd5c2059a88507e74d9e16",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "容器技术",
+        "分布式技术",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220613/607f1f3d68754fd0d86eb2c3e5c65652e6f47e78e84d89eeeda72361bae736e1b3e2530bf0a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "赛思德企业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01c5cf996a8632291nJ50ti9FVI~",
+      "brandName": "赛思德企业",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100605,
+      "industryName": "财务/审计/税务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721325252403,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "赛思德企业",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

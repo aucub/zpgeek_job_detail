@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nrhWazUfdGdlc-a1Y3gCLQq1Ii-yhlO1h4syfNnBwSYv2uyooDg2bfk_VbqW6ESzZ2ft2Yt2fDy19mN_dnit_3nsVjcABrsobFXpYuF6ZwnRR-A74FtF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d768e77b24498561HZ83tm9ElJT",
+      "encryptUserId": "9af2504e1114fcd30nFz09S1GVZW",
+      "invalidStatus": false,
+      "jobName": "python 爬虫方向",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 熟练掌握常用抓包工具，如 Charles，wireshark或fiddler等；\n2. 负责设计和开发分布式的网络爬虫，数据的采集、清洗、结构化、入库、统计分析等需求\n3. 负责反爬虫策略研究，代理IP、验证码识别等采集支撑服务建设； \n4. 负责Android、iOS 应用的部分逆向工作；\n5. 负责 APP 的数据抓取和爬取链路优化（包括 Android APP 反编译、脱壳、加密参数破解、抓取攻防等），提升抓取能力；\n6. 分析主流网站和app的对抗机制，破解主流网站和app的反爬机制。\n\n\n任职要求：\n7. 熟悉HTTP、TCP等网络协议及数据抓包、分析；熟练使用抓包工具；\n8. 具备爬虫相关开发经验，精通Scrapy框架，深入了解scrapy底层；\n9. 精通python web .，具备互联网产品项目开发经验；\n10. 熟悉常见的数据库，如Mysql,mongdb,redis 等具备一定的数据库优化能力;\n11. 加分项：具备丰富的逆向工程经验，尤其在Android、iOS平台的逆向工程经验，成功逆向过的经历；",
+      "encryptAddressId": "3207437487253a693nR53Nm7GVc~",
+      "address": "济南历下区华润置地广场6号楼1423室",
+      "longitude": 117.098234,
+      "latitude": 36.676142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230510/48ba41acc9cef1bfc12b23e84e382db2d1737b3ef54f4d9e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e1a6f5f12b6355cc612aacb2c2a53d1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "python",
+        "爬虫抓包"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "济南氢燃能源科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d8b67e720d54d2b1XN43du_E1I~",
+      "brandName": "济南氢燃能源科技",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1721800678000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "济南氢燃能源科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

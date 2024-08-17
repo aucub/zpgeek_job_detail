@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "G4avTanJ7IQMN-z1Dzo5diMVT8Z-eTr5AbsUh4jcT7-xy364JMJnW0zY3JjIsLGiyxLAp187jSMXsDyw3dK6jPFpVINZ1hUStRLtZLZWstd2__XLXsBu",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd8847a3fe4820301HZ83960EFVZ",
+      "encryptUserId": "12474b7654ecb9950nd529q5GFBT",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.能够根据需求文档和详细设计编写测试案例；\n2.能够按时完成功能测试工作；\n3.能够协助客户完成用户测试工作；\n4.参与功能测试、性能测试、自动化测试及脚本语言的编写。\n岗位要求：\n1.学信网可查统招本科及以上学历，3年以上测试经验，有电商、ERP、CRM相关经验；\n2.熟悉测试的流程、规范及测试方法，熟悉软件测试流程及测试用例设计方法；\n3.熟练使用mysql、linux、redis、postman等测试工具，熟悉简单接口测试；\n4.具备快速定位并跟踪bug，推动bug修复及时处理能力；\n5.熟悉PHP或JAVA语言开发者优先。\n\n\n职位描述：\n1.对产品功能进行验证，包括android系统测试，app功能测试；\n2.编写android或C语言测试程序；\n3.与开发人员讨论产品方案并负责制定测试计划；\n4.编写完整测试用例、搭建相关测试环境、执行测试任务，包括必要的场测任务；\n5.缺陷处理。\n任职要求：\n1.计算机相关专业，本科及以上学历毕业，择优可解决北京户口；\n2.熟悉各类软件(包括非Android)白盒黑盒自动化测试方法者优先；\n3.熟悉android或C语言开发优先；\n4.在校有编程实践，对语言掌握熟练，学习能力强的应届生优先。",
+      "encryptAddressId": "31460cdabbded3261nZy3N21FVRX",
+      "address": "济南历城区人工智能大厦12楼01室",
+      "longitude": 117.144499,
+      "latitude": 36.660587,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bffb73cc002fba50879b71e7fd14e378b56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfc8e7b43ace18522b97e19fcf0f479a146bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "功能测试",
+        "压力测试",
+        "MySQL",
+        "JMeter"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "东方云语",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f99d4b7056cb7f31HRz39-1FFA~",
+      "brandName": "东方云语",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721325540631,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方云语",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

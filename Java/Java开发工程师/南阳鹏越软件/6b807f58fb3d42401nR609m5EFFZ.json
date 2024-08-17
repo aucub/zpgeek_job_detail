@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_PAhnrmsZpurL-V1FDH4WD0JIx-Eo5ZPWQ-bj7IkL8OxwVxrx7zpnbTHxgNL8P5pSS37Tyzm_XOmuBGspjV16B0mpPS1rDapy4hx1VlFVqsdB7tOvGM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b807f58fb3d42401nR609m5EFFZ",
+      "encryptUserId": "8c535bd896db25820nR709u_ElFR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180700,
+      "locationName": "南阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-7K",
+      "payTypeDesc": null,
+      "postDescription": "职位亮点\n五险 餐补 通讯补助 项目奖金 出差补贴\n职位描述\n技能要求：\nJava HTML CSS SPRING BOOT Oracle IDE\n\n1 专科学历；\n2 具有扎实的java编程基础（集合等基础框架、分布式、多线程、IO、缓存、消息机制等），对JVM及调优有一定的了解；\n3 一定的前端开发能力，熟悉js、HTML、CSS，能够熟练使用jQuery及常用UI框架：EasyUI 、Bootstrap等；\n4 熟悉当下主流java开发框架，如Spring boot，Spring cloud，Mybaits，Spring mvc, Nginx, Netty, Zookeeper, RabbitMQ, Dubbo等；\n5 熟练掌握ORACLE或MYSQL数据库开发知识，熟悉MYSQL语法和ORACLE数据库对象的使用方法； \n6 熟悉Linux命令及分布式部署;\n7 熟练使用IDE（eclipse/idea)、maven，以及git/svn 进行团队项目版本的管控，对工程化有深刻理解;\n8 善于学习和总结分析，有良好的工作态度，团队合作精神以及责任感，能承担较大的工作压力；",
+      "encryptAddressId": "5e13a43171b584c41HF40t6-ElE~",
+      "address": "南阳卧龙区南阳市鹏越软件学院悠然酒店院内",
+      "longitude": 112.521545,
+      "latitude": 32.992121,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4fe5598448875b6b2887bec74b40678f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41909d9e16db48c4e5eac54d730cadb6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "MVC开发",
+        "多线程",
+        "服务器配置",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "教师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210131/9d24da8ba205495ac85a889bd2ea1f1105c1f9ffb23ede8e93804257fc4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南阳鹏越软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5eb9821bdc2e03461HJ-3tq8FQ~~",
+      "brandName": "南阳鹏越软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230808/7b5b554d84f9729cb697997bfb19bfa7417d990b53dc93d8b70abb0a7eeb3426798163d1b998e333.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南阳鹏越软件致力于整个IT资源的整合，全心全力打造南阳地区专业的IT服务团队，提供科学精准、人性化的专业IT技术服务，通过我们为企业信息化平台保驾护航，为用户创造最大化的价值，旨在为大中小型企业发展提供新动力。\n\n近年来南阳鹏越软件和众多政企部门深度合作，参与众多智慧城市项目，欢迎有志之士加入！",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "包吃",
+        "节日福利",
+        "有无线网",
+        "宿舍有空调",
+        "团建聚餐",
+        "定期体检"
+      ],
+      "activeTime": 1721324812554,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南阳鹏越软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

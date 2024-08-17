@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UPCR707eEby84-R1_dEqqlDIoPzrnIEyYcJDnyMWaRIyi66ycas54UlBLMVjfG8fiSG_DsibE4yN9zabCsWPuSXPbHp5WNH3aY93-TlNCQSbd3cWRQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d925d88f04164071XZ72t61FVBS",
+      "encryptUserId": "cd032924afd9f1b80Hx729S_EFs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101170100,
+      "locationName": "银川",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机相关专业毕业,统招本科及以上学历，1-3年java开发经验；\n2. 精通JAVA和面向对象编程，深入理解jvm、多线程；\n3. 熟练使用各种开发工具（git、IDEA、Maven）；\n4. 熟练使用MQ,Memcache,Redis,dubbo,zookeeper等；\n5. 对常用开源框架如spring、springcloud、dubbo、MyBatis、Redis等有较深刻全面的理解，有较丰富的Web开发实战经验；\n6. 熟悉数据库开发，常用的算法，数据结构，各种网络通讯协议，网络编程和多线程编程；\n7. 熟悉分布式系统的设计和应用，熟悉缓存、消息、负载均衡等机制和实现；\n8. 业务理解力强，具有大型互联网类项目优先；\n9. 工作之外参与开源项目开发加分 && github项目star加分 && 有自己的技术博客并经常性总结遇到的技术问题加分;",
+      "encryptAddressId": "e7d28730940730d70ndy09u_EFo~",
+      "address": "银川兴庆区中山公园(西门)中山公园",
+      "longitude": 106.263951,
+      "latitude": 38.476939,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/52e817be604a3eb30468bda00db06716",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96ff26f10f2bb569e9895aec9da6b5b1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Eclipse",
+        "SpringBoot",
+        "SpringCloud",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郝先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191010/89b9606a03621797c4bfe5dee7f468d75c90acdcd6151fc27291bcca779_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京德风新征程",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8d4e04df563791370nF_2dm1GQ~~",
+      "brandName": "北京德风新征程",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221028/7bf6f160950405e994fb46683d4148a26bb92eed7d93fc37500b414842239751bba02abff49932d9.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "德风科技是中国领先的工业互联网全栈解决方案提供商，由来自于IBM、HP、pwc等公司的精英创建，公司现有员工400余人。\n\n2015年成立以来，德风科技已经服务了我国能源、电力、烟草、工业和军工等领域的各类客户，为客户提供大数据、人工智能、智能安全物联网及工业互联网平台相关产品和全栈式解决方案，协助客户实现数字化、智能化转型升级和提质增效。\n\n德风科技是IBM、埃森哲、凯捷、SAP、Oracle、微软等公司的合作伙伴，中国烟草、国家电网、中海油等入围供应商。\n\n2020年6月，德风科技获得招商局创投、创新工场和云启资本的A轮投资，本次投资成为我国“新基建”发展浪潮下最引人瞩目的投资案例之一。",
+      "labels": [
+        "节日福利",
+        "交通补助",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1721324737534,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京德风新征程",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
