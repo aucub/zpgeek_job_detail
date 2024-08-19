@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pIFoBRgrs9yr8-j17Q_MsplNebzEQBL1kg9eYvyYTiGiS5ifRkawXJGXB6B15sccfTLD5ipgaFzLr16t25DsGidMBVmCmifH82M_zvOhH4ZJQf2u8I7g",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4146599b4eef29791XF62tu-F1tR",
+      "encryptUserId": "1ab58f0aa1bf86e30nR53ty_EFFW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA工程师招聘\n\n岗位职责：\n1.负责开发程序设计与实现，提供优质、高效的可行性技术方案服务，确保业务正常运行；\n2.负责查找、分析JAVA系统所发生的问题及快速解决问题；\n3.能够组织完成软件上线的部署安排；\n4.负责JAVA系统新技术的创新、应用与测试；\n\n任职要求：\n1 有1年以上JAVA开发经验，大专以上学历。\n2 有良好的代码书写、注释和单元测试习惯，熟练运用多种软件设计模式，能够编写高质量、高性能程序代码； \n3 精通 J2EE 体系结构，精通springboot、struts、springMVC、spring、mybatis、hibernate等框架；\n4 熟悉vue、Javascript、xml、ajax、html、jquery、css等技术；\n5 熟悉MySQL相关技术，能进行性能优化及解决常见问题；\n6 熟悉tomcat、nginx等应用服务器的配置和部署；\n7 逻辑分析能力、创新能力强，良好的语言表达和沟通能力，有良好的团队合作精神；\n8 熟悉Linux操作系统以及SSH框架优先；\n9 有过高并发处理经验优先；\n10 熟悉简单的ps优先。",
+      "encryptAddressId": "c6d2b4074f425e811XVz2961GVU~",
+      "address": "北京西城区长安兴融中心3号楼516室",
+      "longitude": 116.362023,
+      "latitude": 39.904798,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb1a0832fbd2d3cda0dbf2f3a17b5ba8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a1684c4e0fbc166fd31bf3f52bfaa0f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "人力资源",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "北京康达惠",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a9234c642cbd50091nZ42Ny5Elc~",
+      "brandName": "北京康达惠",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "康达惠中医药远程教育网是经国家中医药管理局批准开展国家级中医药继续教育项目培训的专业平台。",
+      "labels": [
+        "调休",
+        "五险一金",
+        "全勤奖",
+        "带薪年假"
+      ],
+      "activeTime": 1721475165537,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京康达惠",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

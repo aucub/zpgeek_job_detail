@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "50-JENAUCwYQ2-u1siQfgpmk1G4wMKuyVBdfctWXjlcjMe7bKdpvkeu7VOviVZS1w22mbdmLyw_GdTjmeHeRV38vptGshmADZMevVQThkqLpSx0y_6G9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d8947417b82508c81XB-0t29E1FX",
+      "encryptUserId": "533ef73438b17d030nR82dW1FltZ",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、嵌入式软件开发：\n1）软件方案设计：根据需求调研并制定软件方案，设计符合功能、性能要求的嵌入式软件方案。\n2）软件代码开发：基于裸机和基于操作系统的驱动开发、基本功能实现；完成常见算法，如滤波算法的实现。\n3）软件代码测试：制定软件测试方案，负责软件的调试；以及和硬件联调测试\n4）软件设计文档：编写软件设计文档，包括方案、具体设计以及测试等说明文档。\n2、嵌入式硬件开发：\n1）硬件方案设计：根据需求调研并制定硬件方案，设计符合功能、性能要求的硬件电路方案。\n2）硬件电路设计：负责元器件的选型、评估与采购；设计详细的原理图和PCB。\n3）硬件代码开发：基于Verilog的硬件代码开发、算法实现、芯片测试等。\n4）硬件电路测试：制定硬件测试方案，负责硬件的加工、焊接、调试；以及和软件联调测试。\n5）硬件设计文档：编写硬件设计文档，包括方案、具体设计以及测试等说明文档。",
+      "encryptAddressId": "f3f6d52ab465a2da0HB-3du1FFM~",
+      "address": "苏州吴中区苏州创意产业园9栋",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2ecd6f65902807820f6947325f36b80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/292b5354832fd263af9c929b29dbbf61",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "STM32开发",
+        "C++",
+        "C",
+        "嵌入式/单片机开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230131/607f1f3d68754fd0f365e9e4788097cf3261949e8d39d3cb451fccc307c49ce4febb6f189e6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "世慧新成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4bc69581f9accbd41XZ_39-0Flo~",
+      "brandName": "世慧新成",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230202/7bf6f160950405e9fe9017a9612df2aa21105e4192ded994451fccc307c49ce4febb6f189e687657.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "公司成立于2022年6月\n\n办公地址在苏州市工业园区星湖街328号创意产业园9栋604室\n\n主要经营业务是健康监护领域内的医疗级方案和检测芯片",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1724061506144,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "世慧新成",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

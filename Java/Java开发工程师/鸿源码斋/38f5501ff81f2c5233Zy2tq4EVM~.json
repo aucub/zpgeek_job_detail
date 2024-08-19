@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zG-aeVox3wULL-x1at-goAONi7IyMcjwWEh9FtZ3pbuIAxqNY_WEavk5fc75UIMFpS2ouqA9SM6JL21pJahDcPFy4y7UX8qA9FWFU2Y9pnMMii0u",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38f5501ff81f2c5233Zy2tq4EVM~",
+      "encryptUserId": "7d001a0d1790dd4a3n190tW1EFY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "【 岗位职责】\n1. 参与并按时完成公司安排开发项目。\n2.接受客户单位驻场开发， 根据客户需求进行开发工作，并能积极完成和推进开发工作。\n\n【任职要求】\n1.统招专科及以上学历，计算机软件、数学等相关专业。\n2.有1年以上java开发经验，有文本分析、自然语言处理相关开发经验优先。\n3.熟练使用ssm、ssh、springBoot、dubbo、mybaits等常用框架\n4.熟练使用mysql、oracle数据库，熟悉sql优化，熟悉linux常用命令安装部署等操作；\n5.熟悉http协议，熟悉html、xpath等常见的数据抽取技术；\n6.熟悉缓存，队列等技术， 如redis，rabbitMq，rocketMq，zookeeper、elasticsearch等；\n7.熟悉bootstrap、layui、jquery ui、eseay ui等前端框架；\n8.了解JavaScript、jQuery及jQuery相关插件；\n9.熟练使用maven，git，idea，eclipse 等常用开发工具；\n10.具有良好的沟通和协调能力，责任心强，具有良好的团队协作精神和敬业精神。",
+      "encryptAddressId": "2e1f85cba50bcc341HV52t24FFc~",
+      "address": "北京东城区北京协和医学院研究生院",
+      "longitude": 116.416231,
+      "latitude": 39.91105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6dfb26e97db8ac7ce7bc5c59651cf218",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f36bf982e7a57b3d3825a7673f2bb64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "人工智能",
+        "自然语言处理",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200322/266ed094ccc6322054e8e4f4a7e2e6c5fee28e74c07b9ee79e6a987d2c0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "鸿源码斋",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "24f83811befca4781nx-09i4GQ~~",
+      "brandName": "鸿源码斋",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1722999605000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿源码斋",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

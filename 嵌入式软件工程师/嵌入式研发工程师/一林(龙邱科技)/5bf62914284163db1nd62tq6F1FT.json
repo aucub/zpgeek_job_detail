@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lADtB8pxJNhtq-71yl2Xv20SkVrEVYRUH9OFxh-FPJAJ4Z-ob1T766sK7qaQNwijkKEhEZ7fBncqzcbwLysu9WHEXqfXnh84AUQdSEKYL9TslT5l719w",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5bf62914284163db1nd62tq6F1FT",
+      "encryptUserId": "e1f4b97a968c16cd0nZ43dS0F1dW",
+      "invalidStatus": false,
+      "jobName": "嵌入式研发工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、负责嵌入式产品软件、硬件设计开发；分析总体要求，提出设计方案；\n2、负责基于单片机（8位 16位）或ARM（32位）微控制器的硬件系统设计开发，包括原理图设计、硬件调试；\n3、编写单片机底层驱动软件，验证硬件设计的可靠性；\n4、查找与解决样机研制/生产/测试过程中出现的问题；\n5、对原有产品进行技术改进；\n6、负责完成新产品的设计文档和测试标准；\n7、按时完成领导交付的其他设计开发任务。\n\n任职要求：\n1、有电子设计大赛、嵌入式大赛、智能车、机器人大赛中有获奖经历的优先；\n2、熟悉C/C++、Keil开发环境，有丰富的嵌入式开发经验；\n3、掌握STM32、51单片机的开发，有UART、TCP/IP、I2C、SPI、USB等外设开发经验；\n4、掌握Altium Designer、Pretel99se、Cadence、Pads任意一种PCB设计软件即可；\n5、熟悉嵌入式操作系统WinCE下串口、TCP/IP等应用程序编写、调试者优先；\n6、喜欢创新、对电子设计开发有兴趣，有良好的编码习惯与研发文档编写能力；\n7、诚信敬业、有责任感，做事积极主动、有团队意识。",
+      "encryptAddressId": "dc807fe46630e4e303Z73NW0FVU~",
+      "address": "北京大兴区荣京道A1座805",
+      "longitude": 116.494864,
+      "latitude": 39.784654,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2ca3ff41f8e78e44d41a19e294b5cf0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca1094eb85477cb7a97509a750168148",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "嵌入式技术",
+        "ARM开发",
+        "C++",
+        "Keil",
+        "嵌入式软件开发",
+        "Python",
+        "人工智能",
+        "机器人"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邱先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "一林(龙邱科技)",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abe743c50596d3be1nBy3du6FlA~",
+      "brandName": "一林(龙邱科技)",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721484603798,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一林(龙邱科技)",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

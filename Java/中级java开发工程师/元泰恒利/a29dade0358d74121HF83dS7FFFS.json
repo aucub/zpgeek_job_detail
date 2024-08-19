@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2JZuAJDwc1jfm-X1o0Jqv2BNNglfgSU2dUkAlZ2hmMQ1u3grGdzp3Xq4wjW8lJiJc3-c35TMI5S-VrG3KxMgM9APuWLWgDw01pMw-3bf4aizzacddQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a29dade0358d74121HF83dS7FFFS",
+      "encryptUserId": "7b9685dac7695d1c1HF609-0Eg~~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1, 负责项目详细设计与实现，根据开发计划有效完成开发任务；\n2. 参与项目技术支撑相关工作，包括技术交流、系统设计等工作；\n3. 有良好的沟通能力，能够与其他人高质地配合或协助团队其他工程师沟通和解决关键问题，完成相关交付工作；\n4. 有独立编程解决问题的能力，有微服务架构项目经验，基础知识扎实，思维逻辑严谨，个人状态积极，乐于学习新技术。\n任职要求：\n1.本科及以上学历，计算机软件、计算机应用、通信相关专业优先，有工作经验者优先；\n2.熟悉Java编程技术，熟悉主流的Java开源框架和技术组件，如Spring、MyBatis、Redis、ES等；\n4.熟悉Springboot、SpringCloud等技术框架，熟练编写算法公式，并能够分析算法主要用途，有相关项目经验者优先；\n5.熟悉使用mysql、pg、达梦等数据库，对sql优化有一定的经验；\n6.工作积极主动，细致负责，具备良好的服务意识与抗压能力，具有较强的沟通和口头表达能力和团队合作精神；\n7.有GIS开发经验者优先，具有军工项目经验优先。",
+      "encryptAddressId": "81457b564a9d8cc10HZ92925FVFUw4u4VPg~",
+      "address": "北京海淀区中电信息大厦5层/507",
+      "longitude": 116.323457,
+      "latitude": 39.964652,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfea30e057741e119715456b4634ed93a36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf1637738a7bd223f47851e15c226dbeff6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "SpringCloud",
+        "MongoDB",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "高级交付经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210213/95b47f624c79e52bf1c2758f8b59b8cbc6ebb5ceccf1e92040bba00ba1b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "元泰恒利",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "98ce9044b244020c1ndy0tW0EVE~",
+      "brandName": "元泰恒利",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723636612247,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "元泰恒利",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

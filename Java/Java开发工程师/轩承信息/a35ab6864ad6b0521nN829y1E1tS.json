@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OqiFOhvEQpKQp-O1lhFL2DWQW7gOefnUVk49stsQZxTDkRudtD2IfkD20SXGD5budXIyb2AEmNZ6RooqiPI-eTCbS7BCZaJXblAgO-qTCewEkkoZqg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a35ab6864ad6b0521nN829y1E1tS",
+      "encryptUserId": "d1713622dfccf3c60nx53dy0Flo~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、1-3年Java开发经验；\n2、熟悉 Spring 及常用的 Web 框架和技术规范，如: Spring MVC , Spring Boot ；\n3、熟悉Linux系统常用命令；\n4、熟练掌握 SQL 语法，熟悉 Mysql 、Oracle等关系型数据库，有较好的数据库设计能力；\n5、有 NoSql 相关产品使用经验者优先，如: MongoDB；\n6、有Docker/Kubernetes/Hadoop/Spark研发经验者优先；\n7、熟练使用idea、maven、git等开发工具；\n8、能够熟练地在Nginx，Tomcat，Weblogic等应用服务器上部署项目；\n9、有微服务架构、高并发系统开发经验者优先；\n10、良好的团队合作和沟通技能，喜欢钻研新技术，乐于技术分享，推动团队技能提升；\n11、愿意接受挑战性的工作，能够高效及时完成工作；\n12、对事业成功有较强的渴望和较强的责任感者优先；",
+      "encryptAddressId": "b9a38d4d4d84a6191nN539W5FVI~",
+      "address": "苏州江苏省苏州市姑苏区朱家园14号3111",
+      "longitude": 120.61559,
+      "latitude": 31.298532,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f3359344ea87357f2e2833aba2a5a50",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c05d4322182674a433c8269242c8fd8c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "MVC开发",
+        "容器技术",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "轩承信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "df86a8402e07ccc20X1z2d-_Fw~~",
+      "brandName": "轩承信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191227/a0b9c7d4ed108068a5002196b662410b7d70551c378265fba4c65196d0daae3c_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们一直致力于企业IT系统信息化建设，为客户提供包括软件设计及研发、专业技术人员外包、业务咨询在内的全方位信息化服务。我们的客户群主要分布在通信、教育、金融和制造领域。我们始终坚持“诚信务实、客户至上”的经营理念，为客户提供技术先进、品质卓越的产品和服务，赢得了广大客户的信任和好评。\n\n通过多年的大型项目不断的实践和积累，我们沉淀了一批资深技术人员，并拥有一批熟悉电商、金融和制造业务、技术能力强且实施经验丰富的JAVA和.NET资深高级开发人员，骨干员工参与实施了国内众多银行和金融机构的业务系统、制造企业MES和ERP等生产系统建设。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721496978176,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "轩承信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

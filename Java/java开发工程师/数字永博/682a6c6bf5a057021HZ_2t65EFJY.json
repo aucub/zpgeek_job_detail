@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7yuSnFJbpm-7---1NqvNmWOao0AjDTVfX3s3lKEkqt-GNANx1KH006G_vg8uz1ofyLxRQFxVd91mPTLioCPVC9CDoxpWP-RkKXZWtevBJ3zbsGO3560~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "682a6c6bf5a057021HZ_2t65EFJY",
+      "encryptUserId": "bd1f1686a198e9a40HFz2tS4Elo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、具有相关项目经验，具有独立开发和设计能力;\n2、具备扎实的Java编程基础，深入理解IO、集合、多线程等基础知识；\n3、熟练掌握Spring全家桶，熟练基于Spring Cloud进行微服务开发；熟练掌SpringBoot、MyBatis等等开发框架；\n4、对面向对象的软件开发思想有清晰的认识，熟练掌握常用的设计模式;\n5、熟悉MySQL，能根据业务需求设计合理的数据模型，有过SQL调优经验者优先；\n6、有高并发、大数据量部署调优经验优先;\n7、具备良好的表达和沟通能力，以及团队合作精神，有工作热情，能够独立进行需求场景分析及详细设计能力者优先。",
+      "encryptAddressId": "72ae6011aaa8edd01nV-0tq-FVdS",
+      "address": "北京大兴区贞观国际5号楼3层",
+      "longitude": 116.534711,
+      "latitude": 39.815395,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9019ca04ecf2751f5e2e20f5976323b5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6c94682a3f3c65b84a4b1345b2c25e7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "JVM",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190916/8e433eab615b31c6165b529a21156190d7361b9c49c49f32e0a90775a9e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "数字永博",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "239396600004ec4d1X1y2dm8F1o~",
+      "brandName": "数字永博",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721480339570,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数字永博",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

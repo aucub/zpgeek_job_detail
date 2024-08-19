@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bXW5MksxAJSIQ-T1lbTQY2hISdRtY52a_bG_Ox_4rc2hZ1mIKNABzQWQWD9XBwEQ35nk3gyluKDYl-ESlKNGKRYYFoZ0sm6__IGTkYQvXveOHYFVCw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7ce0e126fa422f441nB53tS4EVFV",
+      "encryptUserId": "dbc95cf7487841200X1z2Ny7FFE~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职能： \n\n1、完成Java项目开发工作； \n\n2、参与日常产品需求分析及技术架构设计；\n\n3、根据软件技术架构设计实现和完善开发框架，不断提高开发框架的开发效率和性能； \n\n4、发现并解决系统日常运行中发现的问题。  \n\n任职要求： \n\n1、JAVA软件项目开发实际经验；\n\n 2、精通java语言，java基础扎实，精通io、多线程、集合等基础框架，精通分布式、缓存、消息、搜索等机制；\n\n 3、精通SpringCloud、SpringBoot、SpringMVC、SSH等框架开发；\n\n 4、精通mysql、Oracle、redis等常用数据库的开发；\n\n 5、熟悉熟悉web端开发，css，javascript、ajax等相关技术；\n\n 6、较强的问题解决问题，能独立完成领导布置的工作；责任心强，具备良好的团队合作精神和承受压力的能力。 ",
+      "encryptAddressId": "60d304d44a97de341nNz2Ny_FVA~",
+      "address": "北京大兴区奥宇建筑工业设计大厦515",
+      "longitude": 116.345807,
+      "latitude": 39.758553,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/944100044a8c84accf63b0a4667500f4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8a95e631fa1d4c30fee6ae4569a75d8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "CSS",
+        "分布式技术",
+        "SSH",
+        "Redis",
+        "SQL Server",
+        "SpringBoot",
+        "Spring",
+        "MySQL",
+        "多线程",
+        "MVC开发",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "hr经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190716/f7d615782b326d2a660db5d00df25ed9203a61ba0876dfe74b9a1ce0633_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "曜语信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "be0740d9522d12960nV72Nm_EQ~~",
+      "brandName": "曜语信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721480261950,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "曜语信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

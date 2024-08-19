@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "LTcFjv-VSIQie-q1RYkn8lfaeplcinizECu3QEEmFQYHw1Jarko-idWt1aBkrCt1Z0jThKn8F9NybIzgdpf72I4G8nPeDahCMbXINZWA0COS_4Ky1Jy2BWvUVUE1baqZrQeOiNoxopq38pBE-v9N1unTyWHiF-pGJo12iPvv_gy0NBE~",
+    "securityId": "N26ilfN5YMIZI-714WdiwHpK5DNQ4zMt9JafCg5pmoVQYhhpvdq2Oz61siWwTyJlCFXQxPiD5MU9HkSRwoknqQQVDI29gJM0lH3bY7HGqch8eVMUjA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-11K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责大数据平台相关系统集成接口以及门户网站的开发；\n2、负责基于政务微信的各类轻应用开发；\n3、负责其他项目基于Java语言的各类前后端开发。\n岗位要求：\n1、两年以上工作经验；\n2、熟悉Spring微服务框架全家桶；\n3、代码书写规范，代码整洁。熟悉面向对象编程思想；\n4、熟悉常用数据库，熟悉jpa,mybaits；\n5、根据需求文档，独立完成开发任务；\n6、善于沟通，学习能力强。",
+      "postDescription": "岗位职责：\n1、负责大数据平台相关系统集成接口以及门户网站的开发；\n2、负责基于政务微信的各类轻应用开发；\n3、负责其他项目基于Java语言的各类前后端开发。\n岗位要求：\n1、两年以上工作经验，本科以上学历（学信网可查）；\n2、熟悉Spring微服务框架全家桶；\n3、代码书写规范，代码整洁。熟悉面向对象编程思想；\n4、熟悉常用数据库，熟悉jpa,mybaits；\n5、根据需求文档，独立完成开发任务；\n6、善于沟通，学习能力强。",
       "encryptAddressId": "92f93468139ab1713nx83dy5GFRZw4q8VPI~",
       "address": "上海静安区市北·壹中心上海市静安区江场路1401弄14号（壹中心1号楼）",
       "longitude": 121.451098,
@@ -34,12 +34,13 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Spring",
-        "不接受居家办公",
-        "SQL Server",
-        "Oracle",
-        "jpa",
+        "MyBatis",
         "mybaits",
+        "jpa",
+        "SQL Server",
+        "Spring",
+        "Oracle",
+        "有前端经验/技能",
         "卫生医疗"
       ],
       "anonymous": 0,
@@ -56,7 +57,7 @@
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "d77243c80331156633N93tm5FQ~~",
@@ -78,7 +79,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1720158633836,
+      "activeTime": 1724066338452,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "讯真技术",

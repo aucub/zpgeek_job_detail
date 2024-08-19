@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aLg7SOChjOUj_-g1Td17ioH5JmuWM7heCLjNR_dRt5C7Ty50-d9LtIwrWPtg3EQ-js1WzMsPbiZca-zukkHCbtfBbXXu6EKplkSYS9JivoLOz7d9YIE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a3378c8b13f0f851nx83tq-FVpZ",
+      "encryptUserId": "d9755045758ea9781HV509m4FlE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责后端系统的开发维护工作\n2、能独立承担后端系统模块的编写\n3、与前端以及终端联调接口\n4、编写相对应的接口文档\n\n要求\n1、计算机相关专业，全日制大专以上学历\n2、2年以上java开发实际经验\n3、精通Spring，Spring Boot ， Spring Cloud ，MyBatis框架\n4、熟悉Mysql ， Redis 数据库\n5、熟悉RocketMq消息队列\n6、熟悉Linux命令，Nginx配置\n7、良好的工作态度、代码习惯，能适度加班",
+      "encryptAddressId": "50fd8d3843bea1e40XJ73Nq7E1o~",
+      "address": "上海虹口区国际商厦商务楼16层1603室",
+      "longitude": 121.485757,
+      "latitude": 31.250796,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0869bfb0017c24b8e13e28444dd9351",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1a1e741ffb59457c37d5b39d8024c09",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "后端开发",
+        "SpringCloud",
+        "SpringBoot",
+        "IDEA",
+        "GIT",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200130/9e322986ae999c107bdfb7fa7e600037e08fcc54d86bb9839a008596113_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "寰湘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "14778ef0c00bcda71n16096-FVs~",
+      "brandName": "寰湘",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "节日福利"
+      ],
+      "activeTime": 1721483111627,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "寰湘",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

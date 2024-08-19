@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RPltMrLNNsHxW-01Tp7gdidRaaNNGs7pZGG9hyq7s2O-tr9P6pTfrkrOj-2FhpBnwc_rZzkicnBDNTW9JuaL6A9UGbQLb9wFdZKFLcfKlm4p7SqYPk7M",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "743bf6e097493aa11XVy2N69FVRU",
+      "encryptUserId": "a1898935556ecca50nd52dq4FVVR",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "1． 专科及以上学历，计算机、通信、电子、网络、物联网等专业优先；\n2． 具有二年及以上物联网及相关行业从业经历；\n3． 熟悉数据采集、安防监控、消防系统、动环监控者任一方向者优先；\n4． 熟悉常用物联网协议mqtt；\n5． 熟悉emqx和时序数据库，关系型数据库mysql、Oracle；\n6． 熟悉spring、springMVC、Mybatis和springboot；\n7． 熟悉基础Web前端开发：HTML+CSS+JS，最少熟悉一种前端框架，比如layui或者vue，可进行常用功能开发；\n8． 较强的学习能力，能够独立学习了解物联网相关的技术知识、行业知识等；\n9． 了解常用通讯标准和知识，例如： NB - lot 、 Lora 、4G/5G、 TCP / IP 、433 、485等。",
+      "encryptAddressId": "39fe4f1a43c7125b03F83dS7F1I~",
+      "address": "北京海淀区瀚空间(西三旗)159",
+      "longitude": 116.366598,
+      "latitude": 40.055322,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/362fb30d9f4dca3aa5795da6e8066703",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb7ee886cfe7bde99916b6bfb3021f43",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "SQL",
+        "网络协议",
+        "网络编程",
+        "Eclipse",
+        "IDEA",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郝先生",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=ab0a504547483ca1jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5fn3t0t9987Iw8SVK9y7JhMeqmcsNdte6yVmJ9NVwB8nRV_qmkEHwXEuK2WBdpkI9IRVqxmq8P-w1JA4Pg3HUoViEV9k-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京智研信通公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e50b320b8dbe21b01nZ93di7EFc~",
+      "brandName": "北京智研信通公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220325/7b5b554d84f9729cc9bb4ffddaf04fc548d6bdaa7a921d6e43985de1aadf48cbf026ffec4934cce2.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "主营电力行业系统及产品。如电动汽车充电桩监控系统，物联网，网络通信组网等",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721472520582,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京智研信通公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qBRN-c0yvH7ND-21MwelUrCFr3BYW2g1lBgVnrx_U6vxhvN7oYAScBsppPh5LDK3fnmtxVVGM-a4cpcverx-e-vbzv_Ep6uYopVioM068hxBV5qeQPY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bed933617867734c1nN70tW8F1pX",
+      "encryptUserId": "a2fba2c3d4b972f11X1y29S7FFI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、参与分析调研客户的需求与功能点的技术实现；\n2、负责完成项目的核心代码编码，并编写相应的技术文档；\n3、按照项目计划交付符合客户需求与质量要求的项目组件或产品；\n4、参与软件需求与设计的审核、代码检查，协助项目经理实施项目。\n任职要求：\n1、本科及以上学历，计算机软件及相关专业；\n2、至少1年以上工作经验，有B/S开发经验者佳；\n3、熟练掌握java编程和面向对象编程思想，具备良好的代码书写习惯；\n4、熟练使用spring MVC,spring，hibernate、Spring boot，Mybatis等常用开发框架;\n5、具有良好的javascript基础，熟练应用jquery等JS框架；\n6、有良好的学习能力、团队协作能力，主动沟通能力，乐于分享。",
+      "encryptAddressId": "0c71874e7f0eb49d1ndz2ti9FlM~",
+      "address": "北京朝阳区艾维克大厦A座272107",
+      "longitude": 116.462741,
+      "latitude": 39.905045,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f10040cb91a842f00df23e79f894b5f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9814f9c128d18a6e79b90bb42aed3a5e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "工程总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "百赫科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e65cf5cd8ab2f59b1nx-3Ni5GFM~",
+      "brandName": "百赫科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723709765008,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百赫科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

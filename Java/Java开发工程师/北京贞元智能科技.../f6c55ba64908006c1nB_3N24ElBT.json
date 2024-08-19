@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VlCk8ZO79rEYX-D15AYVlwdp90Z2fje8Snr6PLBa9PjcYZRw7joc1eVUsJSgXhAuODrcaEvemPPqoS0Gq90VSgM1C9TuLuJdo-y55E9i1xIjT0E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f6c55ba64908006c1nB_3N24ElBT",
+      "encryptUserId": "37aa8013b92977bf1nd_3Ny9",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、项目的需求分析、设计及代码开发工作；\n\n2、承担后台网站开发和移动端API接口的开发，系统维护，解决bug。\n\n3、负责项目相关文档的撰写。\n\n任职要求：\n\n1、全国统招计算机相关专业毕业；\n\n2、两年以上Java 服务器端开发经验\n\n3、熟练掌握Java语言及J2EE架构，精通Springboot,Spring,SpringMVC,Mybatis，SpringCloud等应用框架开发技术\n\n4、熟练掌握Mysql数据库或者oracle数据库。\n\n5、精通JavaScript、Jquery,Ajax、CSS、HTML5等前端开发技术，有微信公众号、uni-app等hybird开发经验者优先。\n\n6、具有良好的编程习惯和编码规范，代码可维护性强。\n\n7、有较强的责任心和团队合作精神，有良好的合作技巧和沟通能力，细心踏实，有较强的学习能力。\n\n8、使用过第三方插件或者API者优先。\n\n9、能接受驻场开发。",
+      "encryptAddressId": "77f9a6ab2d17115c1Xd_3N67FFM~",
+      "address": "北京西城区一商大厦1111",
+      "longitude": 116.325744,
+      "latitude": 39.883003,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e5e8382a336a4c49ac62839e82073c24",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5dd56fcb273f1ec974c4c773273b0d10",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Javascript",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京贞元智能科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0d59e85291feeb190HF62d2-Fw~~",
+      "brandName": "北京贞元智能科技...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210302/1ed427c0c0357b0b077d39532aae5190e4c41c252777997bed1083dcbb46f764_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们是一个专业而年轻的技术开发团队，团队成立于2015年，团队成员都有丰富的IT从业经历以及项目经验，公司主要承接信息管理系统，APP、小程序、公众号和网站等项目的开发，涉及到物联网跟大数据等相关领域。所用的技术包括Springboot，JAVA，VUE，python，uniapp，PHP等。服务的客户有航天科工，中科院，铁科院，中国电信，中国神华，中国石油，北京工业大数据中心，清华大学，中国海洋局等单位。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1724063668784,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京贞元智能科技...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

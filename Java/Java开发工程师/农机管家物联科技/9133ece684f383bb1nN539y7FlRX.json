@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MxpeJiAIa3_7D-c1owIvsbA_3UOQ3a_-qfAyFWzKUf9nLAenLauwZ8IMEHdCD0cZFSpboPvjfKuceP19DbC0VtsS_3-qGtKBwGo8H9bZxS7rldyaYQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9133ece684f383bb1nN539y7FlRX",
+      "encryptUserId": "394bb6fd3c7046731HNz29S0E1s~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.持续开发、完善公司产品，在车载场景的应用和未来发展方向有洞察力。\n2.根据开发规范与流程完成模块编码、测试及编写相关文档\n3.需认真仔细完成交与的工作任务。\n\n任职要求：\n1.对Java开发语言原理、基础要扎实。\n2.对SpringBoot或者SpringCloud熟悉，了解devops开发流程。\n3.熟悉MySQL、Postgresql等关系型数据库。了解Redis及Docker操作。\n4.了解消息队列、分布式技术优先。\n5.有很好学习和沟通能力，本科及以上学历。",
+      "encryptAddressId": "93338d3fb56004421nB83Ni6GFQ~",
+      "address": "北京大兴区荣华国际3号楼1609",
+      "longitude": 116.514688,
+      "latitude": 39.788453,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/565cafa7f149525183e87d45614472db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e1f97eb58e9cb543d79e8eef5e18452f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "Linux",
+        "软件工程师",
+        "Maven",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180424/2128f013f063eb0dec2f3d184232ffd2455985bc04dc0de74ba7e54538e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "农机管家物联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0a5b87724c92439803B82Ni1EA~~",
+      "brandName": "农机管家物联科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190515/a19248f86c11cc3e599633524e3ae0f2b5f7f49b9e5e641ca3cd47a18a6f85fc.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "北京农机管家物联科技有限公司致力于物联网技术服务、智能硬件、大数据及人工智能技术研发，在全国率先采用物联网技术对农机作业进行监管、统计，可采集车辆的作业面积、作业合格率、作业效率、作业深度等重要数据。相比于传统统计方式，可极大减少成本投入，增大统计准确性，增强数据时效性。产品广泛应用于东北地区，截至目前，已完成作业统计20余万次。覆盖面积超百万亩。我们的使命：让天下没有难种的地。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1721475163516,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "农机管家物联科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

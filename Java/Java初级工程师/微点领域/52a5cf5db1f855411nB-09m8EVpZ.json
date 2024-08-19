@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Cd_0Qer2FMiMB-Z1X29d_oUVnppt3OsrupykH0vWx_kpIu_US-LCaRFiwIYMZXmoaMKU-wxFKIMMnoN_xj_aeKG4ZNF9so8m1pGNT83ygVX8S_vA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "52a5cf5db1f855411nB-09m8EVpZ",
+      "encryptUserId": "6ae95dd70d1d1fad1HF63tS8FlE~",
+      "invalidStatus": false,
+      "jobName": "Java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.一年以上工作经验，计算机相关专业优先。\n2.熟悉设计模式、面向对象编程、基本的数据结构及算法。\nva方向\n3.熟练的使用Java语言进行面向对象程序设计，有良好的编程习惯，熟悉常用的Java API，包括集合框架、多线程（并发编程）、I/O（NIO）、Socket、JDBC、XML、反射等。\n4.熟悉Spring框架，熟练掌握SpringBoot。\n5.熟悉测试理论和测试用例设计方法，拥有1年以上的单元测试或自动化测试工作经验者优先。\n6.熟悉Linux操作系统基础知识及常用命令。\n7.熟练使用springboot，mybatis，spring、springmvc、springcloud等框架，熟悉jsp,freemarker等页面模板技术。\n8.精通SQL开发及优化，熟悉Oracle或Mysql关系型数据库。",
+      "encryptAddressId": "82d059d19591b0380nx_2dy-EA~~",
+      "address": "北京朝阳区东配楼6层",
+      "longitude": 116.495051,
+      "latitude": 39.915243,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5f46fff51feb288a32464f0123ca336",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de8e7612c07942de792db9a6df00d02d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "网络协议",
+        "MVC开发",
+        "数据结构",
+        "Socket技术",
+        "Spring",
+        "SpringBoot",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180301/0dc431bca5dc3ccf4e51131595284426cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "微点领域",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "15bb2eb3d1f347f303Z829m_",
+      "brandName": "微点领域",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721480339070,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微点领域",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

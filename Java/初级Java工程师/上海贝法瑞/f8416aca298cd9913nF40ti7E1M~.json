@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "H3uqmtCQM03dW-K1sODO6cyXzjCtdCorVuLIHYcZCeXalWw7jbPXdbcQz6Gtlst8uIaDKRuFong73LeSLE4pb9lDXfimmuyCs3MNf15Mdcx3TI5C",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f8416aca298cd9913nF40ti7E1M~",
+      "encryptUserId": "6d0b7f072eac763f03F63Nq_FVo~",
+      "invalidStatus": false,
+      "jobName": "初级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "项目描述：\n\t财务软件接口实施开发，通过SAAS服务对接客户的数据，重点在报销、费控领域。\n岗位要求：\n1、 java开发1~2年工作经验\n2、 本科及以上学历\n3、 有财务类项目开发经验\n技能要求：\n1 掌握J2EE，熟悉spring framework、springboot、springcloud、jpa、Mybatis等开源框架；\n2 能熟练使用git、maven等CI工具；\n3 熟悉mysql数据库的相关操作；\n4 熟悉网络接口的开发工作（rest、sop、webservice）；\n5 熟悉HTTP/TCP/SOCKET等网络协议；\n6 熟悉Json/Xml报文格式以及报文的解析、转换等；\n7 具备良好的沟通和学习能力，有很强的分析问题和解决问题的能力，良好的团队协作能力，工作认真负责；",
+      "encryptAddressId": "33e7faa75e3b5ae01n1939W6FFU~",
+      "address": "上海浦东新区祖冲之路2305号",
+      "longitude": 121.6087,
+      "latitude": 31.20577,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df46bfd1dce5e0f82d1198c84bdfd774",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd49e294fa9d7c519d816c636671bb84",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "Socket技术",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海贝法瑞",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "689d1907360401751XJ4392-EA~~",
+      "brandName": "上海贝法瑞",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "本公司是做人工智能系统软件开发的",
+      "labels": [],
+      "activeTime": 1724058143524,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海贝法瑞",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

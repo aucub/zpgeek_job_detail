@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ai0YE9EtbQjLh-11ouiuaAc17zcp4_h5BzQm4T9vRZHRalwVsQh0FOKtVZwr9dtitNnYLJrwT0H3lXnafCWOAvcF0S8w4DRjSOb8InQU7Viwv89_Mdjd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1298a096e4504c221Hd539W5GVNR",
+      "encryptUserId": "106fe05bf12937b90nVy3dy6FVtQ",
+      "invalidStatus": false,
+      "jobName": "python软件工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n后端开发：\n使用Python及相关框架（如Flask或Django）搭建和维护后端服务。\n设计并实现销售接单、样品入库等业务逻辑。\n利用ORM工具（如SQLAlchemy）进行数据库操作。\n提供清晰的API接口，与前端进行数据交互。\n数据库管理：\n配置和管理PostgreSQL数据库，确保数据的安全性和可靠性。\n设计数据库表结构，优化查询性能。\n前后端协同：\n与前端开发人员密切合作，确保前后端协同工作无缝。\n处理前端请求，执行业务逻辑，对数据库进行操作。\n测试和调试：\n编写单元测试和集成测试，确保代码的质量和稳定性。\n进行调试，解决潜在的问题和错误。\n文档编写：\n撰写清晰的代码注释。\n编写技术文档，包括API文档和系统架构文档。\n部署和维护：\n协助部署后端服务到生产环境。\n定期进行维护，保障系统的稳定运行。\n要求：\n技能：\n精通Python语言，有良好的编码习惯和代码架构设计能力。\n熟悉Flask或Django等后端框架。\n具备数据库设计和管理经验，熟悉SQLAlchemy或其他ORM工具。\n熟悉Web开发和RESTful API设计。\n经验：\n有相关领域的工作经验，特别是在构建类似任务分配和进度跟踪系统的经验者优先。\n沟通技能：\n良好的团队合作和沟通能力。\n能够与前端开发人员协同工作，确保项目进展顺利。\n学习能力：\n具备不断学习的精神，跟踪并应用新的技术和工具。\n责任心：\n对工作充满责任心，能够按时交付高质量的工作。\n学历：\n计算机科学或相关专业的学士学位。",
+      "encryptAddressId": "3b8714743d9551940HJz2Ni9Elc~",
+      "address": "广州黄埔区易博士科技创新企业孵化器1栋4楼402室",
+      "longitude": 113.511253,
+      "latitude": 23.153149,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b55952c3662eea33ae423b2fc72e2c4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da66a70a459a7fa02e5747a3a5ae3c85",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Django",
+        "Flask",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "岑先生",
+      "title": "实验室负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240115/607f1f3d68754fd049f16ba7a04dc6dc0977cbad71445d7be0e95f26e6ca6007a699c9178c91871_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "如期生物",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0dab2f00dea7c8d81nB43N69E1Y~",
+      "brandName": "如期生物",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "广州如期生物技术有限公司，创立于2016年10月，主要做科研服务检测",
+      "labels": [],
+      "activeTime": 1724074147240,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "如期生物",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

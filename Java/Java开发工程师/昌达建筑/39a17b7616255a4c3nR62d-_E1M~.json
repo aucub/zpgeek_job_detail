@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AqnuEkNAhgHwI-_1DMgXdoi8lqFZ8ARa9j308v4TgP0Jh1wXzkQbBaAHGMPHodUgqbdIr5poUprnsOWVp6UWFijTG6tc96SL2lVlSvMQ38BbvwmI-Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "39a17b7616255a4c3nR62d-_E1M~",
+      "encryptUserId": "2f5c026d4b737feb1nVz3NS4FldV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉java/j2ee开发技术，对jvm、多线程、分布式并发有了解\n2、熟练使用Spring、SpringBoot、SpringCloud，Mybatis等框架 \n3、熟悉MySQL/Oracle，精通sql语句、存储过程等sql知识；了解数据库性能优化原理\n4、熟悉主流NoSQL数据库技术，如redis、mongodb等\n5、熟悉常用的消息队列框架及特性、例如：RabbitMq、ActiveMQ、Kafka",
+      "encryptAddressId": "cc986b96eb6fd2701HZ93Ni1GFA~",
+      "address": "上海浦东新区浦东新区中港汇浦东大厦2505",
+      "longitude": 121.549783,
+      "latitude": 31.248437,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e1481f2ad4e0492ce8fa0ee7c2298d8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2a38d293a2383b30220cc46bb9856cf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "昌达建筑",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e792638d380efe2d3nB40t26GA~~",
+      "brandName": "昌达建筑",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100702,
+      "industryName": "工程施工",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721483135952,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昌达建筑",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

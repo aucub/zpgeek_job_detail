@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "na9amnj5BJDlg-f1ng8hqnsoFf4dpIkzEedOOSs-jed0a_xcMWGKf0O0F5GF37XnL-efzEgPI2F--WUXpggRFHUlM2bloiFQ0ZLVkxp_u4PvPywbKQWifJk0k14fkVvvXYw4Gh94Trje",
+    "securityId": "aSyLdW8HVZkLw-21sNvdEEPrLoGVQYNzCgl__8fhgR5xu1IF-wRgR0nTe1tCJWBUMXoyJZSws6arv_d1QIcbZdhuvSDQTOXbxcXuDJTUe7fBjGzB4no~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -50,7 +50,9 @@
       "bossOnline": false,
       "brandName": "方正检测",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "572b88f55bdac1b803x629i-Fg~~",
@@ -75,9 +77,12 @@
         "工龄奖",
         "法定节假日三薪",
         "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
         "五险一金"
       ],
-      "activeTime": 1715837032251,
+      "activeTime": 1721481321033,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "方正检测",

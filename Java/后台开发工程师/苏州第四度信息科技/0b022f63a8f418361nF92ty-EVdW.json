@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5JfDnVn810gMU-31S_4gyGKydItfChpCcIyTkIcAFbpvF2wRYgr8gKXi6Z1I6MKYFfSt58GZfYbp2yCAWItrZOKeBPdRC5AgU-a0bj5sElT7WsOBbw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0b022f63a8f418361nF92ty-EVdW",
+      "encryptUserId": "8b6cd160c1f966ed1H173dS7GVs~",
+      "invalidStatus": false,
+      "jobName": "后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、按项目开发计划进行开发工作；\n2、能够在自己专业领域内的提供专业性意见和建议方案；\n3、及时处理项目的后续迭代和问题；\n4、能够有效配合前端、测试完成工作计划目标；\n5、协助运维完成程序的运行维护.\n\n任职资格：\n1.本科以上学历，计算机软件相关专业，1-3年以上java后台开发经验；\n2. 扎实的java编程基础，熟悉Spring、Springboot、JPA、mabatic\n3. 熟悉基础的linux命令，了解docker的使用;\n4.熟悉redis、消息队列\n5. 对主流关系型数据中的一种有较丰富的使用经验，熟悉SqlServer、mysql数据库；\n6. 熟悉tomcat及nginx\n7.了解vue优先",
+      "encryptAddressId": "23f6d1491f887e851XJ93du4GA~~",
+      "address": "苏州吴中区同程大厦B座3楼",
+      "longitude": 120.730739,
+      "latitude": 31.251658,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2281e97ca6825f6f069c40e98af09b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e1ce959ac4677a7240e68ddbeb99d83",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "软件测试工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "苏州第四度信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d6c803f37f6cde61Xx739S7GA~~",
+      "brandName": "苏州第四度信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200428/2e7982ed83cc367769cbd803513051920749ae33ca4e8157d69b5b98e9baefd1.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "四度科技团队介绍\n一、企业概况\n苏州第四度信息科技有限公司是一家新型科技创业公司，公司自成立以来专注于互联网+智慧社区生态圈整体解决方案的研发、构建。\n二、企业文化\n秉承“用科技改变生活”的愿景，以“创新、质量、高效、服务”为宗旨，持续进. 行管理优化；以客户为中心，用高质量的产品和创新的技术服务于智慧社区建设，成为“您身边的智慧场景应用专家”，创建更美好的社区。\n三、企业产品\n1、软件产品\n爱家金钥匙APP、爱家微社区APP、四度门管家小程序、八保周到小程序、华新征集小程序、泊乐销控系统、车位管家小程序、卫校保小程序，员工口碑、汃汃停车、车位开盘签到等\n2、硬件产品\nC-Link智能锁、“磁视”人脸识别终端、车牌识别系统",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721496910406,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州第四度信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

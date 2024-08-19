@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9lA2ZZymsuXIy-W1g_6peHNzneP7c70qdQPqptDIyZVh3W2aHc2HXjLcC_BjNbzU4OUqVQanJaUptBdbW1--L3puDMg9GcMX_5kPaQ8ZZoiBb88K",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e43a87c42d73a3e70Hx53d-9E1o~",
+      "encryptUserId": "a3b89f54480de19233F83Ni4FVE~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.熟悉 spring boot，spring security oauth2，mybatis plus 框架使用\n2.熟练使用redis，mysql，对 mysql 锁，索引等有研究者优先\n3.能够使用 html5、css3、jquery 来进行前端页面开发，有vue框架，有 layui 使用经验者优先\n4.熟悉微信公众号、微信小程序的开发\n5.熟练使用 git 版本管理工具",
+      "encryptAddressId": "3c042165c4d32bf11H1_3928Eg~~",
+      "address": "广州黄埔区锐丰中心4栋",
+      "longitude": 113.501402,
+      "latitude": 23.173473,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9e94900fb4c48dd163a588451d94eea",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a66b8b640505d394c2bfba89bfc4e648",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java",
+        "HTML",
+        "网络协议",
+        "MySQL",
+        "Web端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总裁/总经理/CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210526/ac5f4a391d30ca257cabc28760d8eb24694965f5897705cd18fa4fbc3c9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "够嗨科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "23681569175a682a0HR80tW5FA~~",
+      "brandName": "够嗨科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201211/29306b5d8a869bedbfebbe97fb4588bc694965f5897705cd18fa4fbc3c987458.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "够嗨科技专门打造智慧型开发团队，能满足客户所有的系统开发需求，打造顺应潮流的整体系统环境",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1721486698272,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "够嗨科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

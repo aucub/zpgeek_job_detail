@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cn0G9ccL00rB1-J1nwAsykddMeGFMd2xxaTAcXs5a8Evvhv3vxAl5vqY0SdBZoR75dBIDH6RGf7cI4M0p3uAHbIGyNkOfkKUYoUeWaMNn2j-st5f1w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9d5bc3a6852bcd3d1nV83tu1GFRU",
+      "encryptUserId": "7553e7a2f3c6e75c1XN62t--GVo~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n工作内容/职位描述：\n1、编写公司产品的实现后端代码； \n2、对产品需求实现进行分析研究，编写接口文档； \n3、编写代码实现设计报告； \n4、对已发布软件产品的跟踪维护。\n任职资格：\n1、计算机相关专业大学本科以上学历优先，具有扎实的计算机基础理论知识； \n2、1年以上使用Java语言进行后端开发的经验；\n3，熟练掌握Spring Boot、Spring Cloud等框架特性及应用经验;\n4、熟悉基于数据库的设计和开发，熟练掌握mysql，oracle等数据库；  \n5、有责任心，工作认真，细心，有条理；积极性高，求知欲强；\n6、具有较强的沟通能力及团队合作精神",
+      "encryptAddressId": "26365d9be55a420a33R609q1ElE~",
+      "address": "北京朝阳区北辰汇园酒店公寓L座1307",
+      "longitude": 116.401468,
+      "latitude": 39.992849,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79106c9cd810f523b612061732fb8c81",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e7a38165e08bcceed666e89a888935b4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL",
+        "NoSQL",
+        "微服务架构",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170426/773afe032dc2b5a1a3d83a0a4b4625fc8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京誉融盈创软件...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "586345bbcbfa77a31XVz2di6Eg~~",
+      "brandName": "北京誉融盈创软件...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721475164533,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京誉融盈创软件...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

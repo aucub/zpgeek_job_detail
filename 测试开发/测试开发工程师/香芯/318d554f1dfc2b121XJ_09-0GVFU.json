@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sY4r0NnHgTp9F-C1bsFU61Ig2OUGG18R9V04BsNhoizH6iWlEcJdYPD1ityDu_w-zbdXdvdoa7TNj_HP_wtP4ec1I-AEvPOGJo42_Z_eBQPQe63LTGk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "318d554f1dfc2b121XJ_09-0GVFU",
+      "encryptUserId": "cdb23750e3062d920Hx53N65Elo~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.与客户芯片研发工程师/应用工程师等技术人员评估芯片测试需求和测试规范，并评估测试平台以及具体的测试方案；\n2.与硬件设计人员合作设计并制作Load Board、Probe Card、Socket等测试硬件，并对测试硬件进行验证；\n3.编写CP、FT和SLT测试程序并对测试程序进行相应的调试；\n4.对测试程序进行分析与优化，确保测试覆盖率、测试稳定性、一致性以及测试时间达到预期目标；\n5.分析和监控测试数据，发现相应的测试问题并进行优化；\n6.整理程序测试报告，编写测试生产规范的相关文档；\n7.对客应反馈的问题进行分析验证、排查量产测试问题；\n8.参与项目开发实现过程的评审和质量环境安全事件执行工作。\n9.负责按照质量环境安全管理体系进行项目软件的编程工作\n\n任职要求：\n1.微电子、电子工程等相关专业本科及以上学历；（（尽量一本学校）\n2.两年及以上芯片测试开发工作经验优先\n3.具有良好的团队协作能力，良好的沟通能力； \n4.熟悉C或VB语言；熟悉Perl、Python更优；\n5.熟悉一种及以上测试机台，如:V93000、UFlex、J750、Chroma等;\n6.有如下任意一种产品测试方法以及ATE程序经验，如：数字及混合信号芯片、记忆体芯片、射频芯片、模拟芯片等\n7.了解一种及以上Schematic、Layout软件；\n8.熟悉示波器，信号源，频谱仪等实验室测试仪器； \n9.能够按照软件开发管理流程应用和6S管理的要求开展工作\n10.能够按照IATF16949：2016；ISO9001:2015；ISO14001:2015；ISO45001:2018标准进行工作应用",
+      "encryptAddressId": "b31ec4c6c01a0e1c0H192N64EFo~",
+      "address": "上海浦东新区红星超市(东胜路)东胜路38号",
+      "longitude": 121.694745,
+      "latitude": 31.234806,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99e46256c3eaa511d1ef09d002ac1e1c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20595726c04e9d55f3ab1a1cf1ab87a8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "C++",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191012/33022714f2b64a191bcc125df59a4b26491b90832705dcac392df319a15_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "香芯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c28ce064b7ff07421XB60ty4E1o~",
+      "brandName": "香芯",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722996176000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "香芯",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

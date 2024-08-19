@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GCzhME94T5F5g-41nzv2kAW9uGHbGPvPqZ_zE9FoyCfBw4h40dLJmvpxosFPsnPfi3FzEF2UN6X0mHCI0EmwCjIUrVOl0OP9p2NQJCp2H_lIoNwtZiw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "01da8738a0ac6d171nZ63Nu1ElNY",
+      "encryptUserId": "2d6bf511ace37b881HZ_2N66ElQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、1年以上java开发经验；\n2、熟悉使用SpringMVC、Springboot、springcloud，Mybatis等常用开源项目框架\n3、熟练使用Vue、H5、EasyUI、Css、Json，javascript、jQuery等前端技术；\n4、熟练使用Maven、SVN等代码控制工具；\n5、熟练数据库Oracle、MySQL，独立编写sql及pl/sql的使用；\n6、熟悉Linux常用操作，可以独立完成服务的部署；\n7、熟悉Tomcat、Jetty等开源服务器的使用；\n8、对技术有强烈兴趣。喜欢钻研技术，有良好的语言沟通能力。",
+      "encryptAddressId": "7a983a931b8159231H190ty4F1I~",
+      "address": "苏州常熟市城市之星425号",
+      "longitude": 120.737758,
+      "latitude": 31.674803,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/29c6220a21a035fbbfa9b2f9bc221c61",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23a8e3901a69ab8a35dd8e382a48daa3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "服务器配置",
+        "网络协议",
+        "Spring",
+        "SpringMVC",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=b7d3408f996319ddjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5bn350s4l56tA4SwHpnbRhYuz0f8AE4e6_Wm8qM1xW9ndc9_OjFCFJE7O3ChQ-lYoaGQDgz_1Z_VseBdGx0XV4AXIU9E-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "瑞网互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7cd60c18f771885a1nd93ty1FFo~",
+      "brandName": "瑞网互联",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721496966478,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瑞网互联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

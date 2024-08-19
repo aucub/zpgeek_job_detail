@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bKH9MFVgbmRT2-d1Zacyea1v-1YwHSGFpzKs-Y22gztrxntlMPEtnd4VduAXJzRtPPdbCeemi_GTU28soealUJ_fHsmoTYyIpReDQ0sA1gFSkuOVoao-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1a54bf0df2157e0e1HBy0tq4E1ZQ",
+      "encryptUserId": "3fdd8ece0a1267ed1nV_2ty9FVNZ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "【工作职责】\n\n1.根据项目计划从事详细设计、开发、测试和维护工作；\n\n2.负责产品软件设计与开发实现，优化现有系统及功能升级；\n\n3.参与系统的需求分析、设计、编码、单元测试、BUG解决等工作；\n\n4.配合业务部门，从技术上给予指导。\n\n\n【职位要求】\n\n1.计算机相关专业本科及以上学历；\n\n2.一年及以上Java开发经验，Java基础扎实，熟悉IO、多线程、分布式、负载均衡、缓存、消息队列等技术；\n\n3.精通Spring Boot 2.x相关技术，熟悉Spring、MyBatis等主流的开发框架；\n\n4.熟悉MySQL、Redis、MongoDB等数据库产品，有相关优化经验者优先；\n\n5.熟练掌握常用的Linux命令 、Shell脚本；\n\n6.熟悉常用设计模式，有大型分布式、高并发、高负载、高可用性系统设计开发经验者优先；\n\n8.具有良好的沟通能力、团队合作精神和职业稳定性，工作积极主动、服从安排，能承受较大压力，严谨的编码风格，责任心和学习能力强，有较强的架构能力及优秀的逻辑思维能力，具有丰富的项目开发经验，能独立分析问题及解决。\n\n\n【优先考虑】\n\n1.有 SaaS 产品服务相关开发经验；\n\n2.了解HTML、CSS、JavaScript、Ajax、JQuery等相关技术，并有实际项目开发经验；\n\n3.了解人资、财务相关领域知识。",
+      "encryptAddressId": "a57f00613acd59ab1HF_0tS8F1FSwI--V_M~",
+      "address": "北京朝阳区方恒国际D座912",
+      "longitude": 116.482086,
+      "latitude": 39.990496,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf130a72cb0642b4ce8b40468bffafc9ca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf4d28995ced536300b971e48df8f5321e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "PHP",
+        "Zookeeper",
+        "Docker",
+        "SQL Server",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240305/607f1f3d68754fd0e1f6155a54fb992378f47405d73d39229c4c89f2af563ed9c256abadc297203_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "云韧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5b47f4687bf003b71HZ42d-9ElI~",
+      "brandName": "云韧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721475164027,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云韧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

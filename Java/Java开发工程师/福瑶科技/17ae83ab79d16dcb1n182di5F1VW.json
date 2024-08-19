@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ipxBcTCf8q7vH-t18R0ZHJiU6g-o6ozLaCuS8FNQNJsa_c-bbEg6LLVaLIL3X2UwuuqUwPjPi0dZSZMIR7bVRyMuPamjejVOhYKissaMpTlTjvNZsQUG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17ae83ab79d16dcb1n182di5F1VW",
+      "encryptUserId": "f05f638a65aa3eee0nR62Nm6FFtW",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、参与公司软件的开发，负责按照系统开发要求，完成代码编写、系统联调等开发工作；\n2、负责项目交付后开发相关维护工作。\n\n任职要求：\n1、1-3年Java开发经验\n2、计算机相关专业，本科及以上学历\n3、具备扎实的Java基础，了解springboot,springMVC等常见框架，有项目实践经历\n4、熟悉struts、spring、mybatis、hibernate等主流框架的开发和配置优先\n5、熟悉IDEA、Eclipse等开发工具\n6、熟悉Linux开发环境，熟练掌握常用命令\n7、掌握数据库及数据结构等常用技术\n8、具备扎实的计算机理论基础，掌握常见的数据结构、数据库理论\n9、了解非关系型数据库Redis、MongoDB\n10、了解微服务架构开发设计优先\n11、具有良好的沟通能力，有较强的独立工作能力和解决问题的能力",
+      "encryptAddressId": "4068dd8b6aca727d1XR-29m8EVA~",
+      "address": "北京朝阳区中国铁建广场D座801",
+      "longitude": 116.439417,
+      "latitude": 40.042291,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c125e0b6b2bcf9cdaf11276beaa61962",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b848b7873f99ebb019af1384c98b50b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "Hibernate",
+        "Struts",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苑先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "福瑶科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e64117e741c1fb511nV83Nm-Els~",
+      "brandName": "福瑶科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210427/27a0f94b6a1f8d33467c148538d10221933e16f0241a0ca23043d09aa359a8ba_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "福瑶科技注册在北京中关村，是一家深具社会责任感，充满创造力和激情的创新型硬科技公司。汇聚了以北航教授、博士为核心的机器人领域资深专家，致力于以前沿机器人技术和人工智能解决方案、改善公用事业和能源服务水平。\n旗下产品涵盖管道检测、巡检、市政服务、大众消费、商业服务等领域，技术全部自主研发，具有全部自主知识产权。\n福瑶既是英文For You的谐音，更蕴涵着“扶摇直上九万里” 的文化自信与豪迈的民族情怀……",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721474974844,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "福瑶科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

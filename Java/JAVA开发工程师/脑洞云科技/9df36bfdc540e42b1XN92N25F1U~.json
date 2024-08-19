@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j0SUSLRedQSPo-H1xgW2au6OjMTP9gBwyU-GUlpqKOvWz5ABDiGsW7nrXkPneDeGoMq6WofBSzUbvKyg2O2GCq3abt54yCDXzRojDQqzjurcTqGl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9df36bfdc540e42b1XN92N25F1U~",
+      "encryptUserId": "045d9465fcf297d61Hx42dq5GFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-15K",
+      "payTypeDesc": null,
+      "postDescription": "1、大专及以上学历，计算机相关专业毕业；\r\n2、经验：1~3年实际Java开发经验；\r\n3、熟悉常见的Java开源框架与程序库，如Spring、SpringMVC、MyBatis、Spring Boot等，有Spring-boot、Spring-cloud使用经验优先；\r\n4、熟悉常见的关系型数据，如Mysql、Oracle等，能够编写较为复杂的SQL语句，有NOSQL数据库、Redis使用经验者优先；\r\n5、熟悉生命周期管理工具Maven的基本使用；\r\n6、熟悉JavaScript、Ajax，能运用一个或多个 JS 框架进行问题处理，有Angular JS、Vue JS使用经验优先；\r\n7、熟悉Linux环境以及操作，SVN的使用，熟悉Tomcat，Apache，Nginx等开源的服务器；\r\n8、强烈的责任心和团队精神，具备较强的文档编写能力，良好的沟通表达能力；",
+      "encryptAddressId": "72e05a304ecdb6a21XB42t-5ElE~",
+      "address": "北京顺义区国展(地铁站)",
+      "longitude": 116.5551,
+      "latitude": 40.07003,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8795d56756a0be4c2b60c9b0c9552dcd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aa36988b77b96f6fe0c80417097d0a42",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "企业软件",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "联合创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240217/607f1f3d68754fd0559e98be1e2bc97ba2875bcf2cfc58d9733bba940030dba623ce36100c23f36_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "脑洞云科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3202b61c507fa3d81nx82NS0Fw~~",
+      "brandName": "脑洞云科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721480313589,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "脑洞云科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

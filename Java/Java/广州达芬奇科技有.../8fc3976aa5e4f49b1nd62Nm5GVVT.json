@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VnUfXT2gNpZfo-41c0FQIf40jNoyEGg5v-CaG6v-j3_J6oLOmK5HBWi74COmG9SCnowwkgVImooH19OTvlA4SfO2zSERdrD-mqscveIcv7PWB2KwUh8B",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8fc3976aa5e4f49b1nd62Nm5GVVT",
+      "encryptUserId": "df8f582bfcfb80970nZ409-4GVNZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、执行公司下达的产品技术开发；\n2、承担公司网络平台、软件产品、移动端的产品后端开发工作；\n3、参与项目需求分析和设计，辅助进行系统功能定义；\n4、根据设计文档或需求说明按开发规范完成代码编写、调试、测试和维护。\n\n任职要求：\n1、本科或以上学历，2年或以上工作经验，计算机软件相关专业优先；\n2、熟练SpringBoot、SpringCloud框架；\n3、熟练常用 SQL语句，Mysql数据库操作等关系数据库的使用；\n4、熟练运用linux常用命令；\n5、熟练Docker、Jenkins、Redis 、Nginx、Elasticsearch、RabbitMQ；\n6、有InfluxDB、ClickHouse等开发经验者优先\n7、有Netty开发经验者优先\n8、有Kafka开发经验着优先",
+      "encryptAddressId": "63112a93969dfe1303Z42tu-GVI~",
+      "address": "广州花都区广州融创文旅城2栋1栋2505",
+      "longitude": 113.235923,
+      "latitude": 23.431699,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b78ef0705cf80ad9207c938a13616af1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60a3b9c8d9cbfaf7697f5e24b3de549d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Netty"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "骆先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州达芬奇科技有...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0941835581304c2a1nBy0t24FFE~",
+      "brandName": "广州达芬奇科技有...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721487666180,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州达芬奇科技有...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

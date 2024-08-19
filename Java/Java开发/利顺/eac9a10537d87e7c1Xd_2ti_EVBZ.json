@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XvlUCd8yYyXSD-y1NDwoOiiK1YKvnMotqC6u5t8nxFI7jQGXbNgHTySBkov4h2VKadbisy1yA0BsqPv8z1G23YnwlanUQ2eK9-to6wRazl497qYM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eac9a10537d87e7c1Xd_2ti_EVBZ",
+      "encryptUserId": "21a9192274fbd4091HB73d64",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司后台管理系统的产品研发；\n2、根据项目要求完成上级领导安排的相关工作；\n3、编写完成项目技术文档；\n岗位要求：\n1、计算机相关专业，正规本科毕业优先；\n2、有WEB项目或APP，小程序后端开发经验；\n3、精通java基础，熟练运用SpringBoot/Spring mvc等主流技术框架，熟悉Spring cloud优先；\n4、熟练使用MySQL、MariaDB等关系型数据库，熟悉Redis、RabbitMQ或ActiveMQ；\n5、了解Linux下tomcat、undertow等应用服务器的应用部署和配置；\n6、做事严谨踏实，责任心强，条理清楚，善于学习总结。",
+      "encryptAddressId": "51b0d61264c8b8b60XF-29q4FlQ~",
+      "address": "北京海淀区慧科大厦1栋5层456号",
+      "longitude": 116.276416,
+      "latitude": 39.933315,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cbc82d230717050d972bb22bb886e4e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0a84b08f347dd88e987f93ff2acf9e5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "服务器配置",
+        "后端开发",
+        "Linux",
+        "SpringBoot",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "hrbp",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/b722de6136a43b24ce5cf923e51d4e8219c7891df403aa21dbeb9437264_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "利顺",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a926bf2855ef7691XVy09q8GVY~",
+      "brandName": "利顺",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100602,
+      "industryName": "法律",
+      "introduce": "北京利顺法律咨询有限公司专注于“住房抵押类债权”的资产投资和处置全流程相关服务多年。始终秉持“专业服务和数据支持”，持续积累分析拍卖及资产交易相关数据，用客观数据辅以专业知识和用心服务，力争为客户提供“合规、专业、高效”的最佳处置方案，以期尽快化解债权债务纠纷。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "餐补",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721806193000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "利顺",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

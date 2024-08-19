@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IyExcC_x1opye-n1PqgEfqopTtlwG2dima7jaTSyK1LZ4SpQpBCU4HdsyPwd-3b4hi4lg0uYJkf7oQin2e1zBM0HZLDq3o9Q9Wibg0coklq4xlmBx3M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5f636d997d3b6c511nZy3ti1FFZY",
+      "encryptUserId": "ae9f24f3e493732a0Xd83Nm5ElQ~",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n* 参与完成项目的需求分析、负责完成业务功能的代码实现与单元测试;\n* 协助业务方梳理业务需求，并能根据研发流程和规范，完成功能落地;\n* 不断自我提升，以适应高并发、高稳定性，业务模型复杂等带来的各种挑战及技术难点;\n* 富有工作激情，自我约束力、承压力强;\n\n任职要求:\n* 本科及以上学历\n* 熟悉Java/Go语言(愿意自学go语言优先考虑);\n* JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解;\n* 熟练使用spring等常见开源框架，并了解其基本原理;\n* 掌握多线程及高性能的编码意识，具备一定的能调优能力;\n* 掌握Linux 操作系统和大型数据库（Oracle、MySql）,对sql优化有一定的经验;\n* 有强烈的团队意识，能与其他成员高效沟通协作;\n* 富有激情，勇于挑战，具备优秀的学习能力和解决问题能力;\n* 熟悉Zabbix，Prometheus，Ansible，Kubernetes、Grafana优先;",
+      "encryptAddressId": "160e07597e54656703V909q_EVA~",
+      "address": "苏州苏州创意产业园1-B501",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bd653e7df01fcd918600f9625d05051",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7758a6f18294d3c185ec23f39b56f3d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "Redis",
+        "Go"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190617/321da14978a6db67cddadf247d48b112aa7eb10ae0fd8bb0d20f7397397_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智瓴科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5a873d463d467b001nB_2t27FFY~",
+      "brandName": "智瓴科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721495910451,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智瓴科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

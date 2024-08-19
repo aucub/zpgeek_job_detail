@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uG3zuHxkBHddG-z1_BdHcwR6gdIjcdnjJv-7ps1VrPqmrGxuKhaBsEgFujtFlCs5kbiHz102vQ_dEluGi1Qoh9ck8FBv4f9VP-Hy2bOrWRAUAC2M6A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d60a6034bba974181nZ72Nq6ElZV",
+      "encryptUserId": "d728883314a8255a1Hx-3tW1FVc~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100806,
+      "positionName": "驱动开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位信息\n1、负责公司相关产品和应用的开发、维护、优化；\n2、负责相关产品的研发测试、技术支持；\n3、负责撰写相关的设计、开发类技术文档\n职位要求：\n1、本科及以上学历\n2、熟练C/C++语言，熟悉FPGA；\n3、具有ZYNQ开发经验优先。\n4、有ARM、DSP等嵌入式系统软件开发经验，熟悉操作系统（如FreeRTOS等）；\n5、熟悉SPI、UART、I2C、CAN等通用总线驱动编写；",
+      "encryptAddressId": "0166d35691a9d8f51HFz2Nu1Ew~~",
+      "address": "北京海淀区瀚空间(西三旗)2楼",
+      "longitude": 116.366598,
+      "latitude": 40.055322,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df3db478c5a9a4bf52963e33a5ff6da3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8ae0fdfd97d7e6d2afd3a8fd87f24bfb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C/C++",
+        "zynq",
+        "Linux驱动开发经验",
+        "ARM",
+        "嵌入式/RTOS驱动开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180508/dde699879741f8586c17674f9a06918401ca044f32c7e42fe6dd127a25b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "同光科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "17512f05ab7105cd1XF539i0Fg~~",
+      "brandName": "同光科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180828/c0350cfe9b72bd2b6f1c34f90250f59acfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "同光科技（北京）有限公司是一家定位于高端电子测量技术和产品的高科技公司，对国家七大新兴产业之一的“新兴信息产业”、以及国务院“中国制造2025”规划具有重要意义。公司主要的产品包括频谱分析仪、矢量信号源、信号分析仪、射频收发模块、射频测试模块等电子测量仪表和模块，以及基于以上产品的各类测试服务。",
+      "labels": [
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722318211000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "同光科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

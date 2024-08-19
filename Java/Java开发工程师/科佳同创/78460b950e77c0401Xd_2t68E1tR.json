@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OF1NRKYZi7Jv7-w1Ud6VEDPjXLSE11hYqfi30GqxNsfQicE3kOwuXc2Vr25vx1ELQiG5Umj36d6MUlrjdzN3sjkvZZY5ELdgs03ob5GjAPYtWLSka7E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78460b950e77c0401Xd_2t68E1tR",
+      "encryptUserId": "0cd446d9c0e9afc11H172t25E1c~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司项目需求梳理、业务功能设计、项目实施开发；\n2、对网关以及物联网平台层、应用层有一定的了解，协同内外部资源，保障产品正常上线；\n3、根据用户反馈，持续优化应用产品，引导以用户为中心进行产品迭代\n4、参与产品项目交付与实施，保障实施阶段进度和质量；\n\n任职要求：\n1、1年及以上物联网软件领域工作经验，精通Java、MySQL、redis、influxdb ，熟练使用IDEA、Navicat、Redis客户端、Postman等工具；\n2、具有产品需求分析、设计能力，能独立完成产品功能业务设计、功能详细设计、数据库设计、单元测试文档，与交互以及ui设计师一起完成产品闭环设计，并推动产品开发落地；\n3、优秀的思维能力以及表达能力，可适应复杂场景，推动整组解决问题；\n4、熟悉物联平台、物联应用的关系，对物联开发流程以及物联有足够理解；\n5、良好的团队合作意识，能承受较大工作压力，有责任心；\n6、有能源专业背景以及能源或工业设施物联产品背景者优先。",
+      "encryptAddressId": "b8ecbb489c33fb5833F73dq7GFE~",
+      "address": "北京海淀区富海大厦12层/1202",
+      "longitude": 116.335096,
+      "latitude": 39.953981,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dabcf40f94dacae1d5779139e26dfe07",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d5645b724bbc0a87c3ae3834076344d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "MySQL",
+        "IDEA",
+        "Redis",
+        "SpringBoot",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210305/2d153a5e5460715cf69d3c407616f4623f36e5f1dce312472f82d7e996c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "科佳同创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bcb83b70dc021fb61nx63tS1FlI~",
+      "brandName": "科佳同创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "充电桩充电监控，车辆监控，电池监控服务",
+      "labels": [
+        "五险一金",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721484605795,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科佳同创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

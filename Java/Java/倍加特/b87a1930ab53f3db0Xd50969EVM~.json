@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7V5SYXMnuufMC-z1HROvSTraFoLFMFc4WtwzO4FvyocI428rzWtZO6Hse-YxJfR3LWCD4UVgT4tbXYWhTeXp4THT-bivJ4QheSpeUDVPF7hH_IoT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b87a1930ab53f3db0Xd50969EVM~",
+      "encryptUserId": "19ec6a37a19da7591HF60tm0EVs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握vue并使用过vue第三方组件\n2、熟练掌握Springboot 并开发过项目\n3、能够独立完成小型项目优先考虑",
+      "encryptAddressId": "7233499f5adb737d1nJz3N-_GVs~",
+      "address": "苏州吴中区苏州创意产业园5幢4F",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2ecd6f65902807820f6947325f36b80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/292b5354832fd263af9c929b29dbbf61",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SSM",
+        "vue",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200610/2260dfabaacf1189c6390cf5cd8697700730ab2f56518e60056b4c299e0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "倍加特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "da8a72157b23278f0XB-2961FA~~",
+      "brandName": "倍加特",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "软件开发公司",
+      "labels": [],
+      "activeTime": 1721495147862,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "倍加特",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

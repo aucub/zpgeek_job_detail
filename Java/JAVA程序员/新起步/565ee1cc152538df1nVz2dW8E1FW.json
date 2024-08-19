@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GSh6p3oaUbwjy-m1SVYnHZw1EMbqzpodPQ5YQPlaW2mGaRKdQ4Xqh42LbRxMsILgkS89C4U4xVsHKT73Z3_k3bSuEbLMTqky9mkd_7KJOnihZCyT0mn-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "565ee1cc152538df1nVz2dW8E1FW",
+      "encryptUserId": "e5d49bbe9fd8b9fd0nV52di7E1ZY",
+      "invalidStatus": false,
+      "jobName": "JAVA程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用springMVC+spring+myBatis服务框架，熟练应用Mybatis语法执行批量操作；\n2、熟练掌握HTML5，Ja *** ，CSS等基本知识，掌握jQuery ，Angular JS，echarts等相关技术；\n3、Java基础知识扎实，熟练使用基础API；了解Internet基本协议（如TCP/IP、HTTP等），了解网络编程交互；\n4、熟练使用Tomcat、Maven、Redis等服务器应用软件，能够完成配置及部署；\n5、熟练使用MySQL、SQL Server、Oracle等关系数据库，能够进行SQL优化；\n6、有良好的编码习惯，对单元测试、代码审查积极参与，指导代码质量改进；\n7、工作态度端正、责任心强、逻辑思维严谨，拥有独立思考和开发能力、良好的协作意识及团队精神；",
+      "encryptAddressId": "36fe88e8247576491H150tm1GFs~",
+      "address": "苏州张家港市沙洲湖科技创新园A1幢403室",
+      "longitude": 120.576988,
+      "latitude": 31.893677,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f32f029ede11f11880dc7bd982412ff5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/101c32e5cee37e949434d6db64204740",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "java",
+        "程序员"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "新起步",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8029e98ffaa433811nd839-_EFU~",
+      "brandName": "新起步",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721496923394,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新起步",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "LPlFcXGhUjMt--v1PUUv2XzAg4eZEzoS0whEJJQKn5Nj1Qo-50a_TjDp9gYhUB107NjV6lSBFe4giUv3T_1VTXnlgnKUsFXd0zJCURtjSgtdt0NukV_qz2f62mzIgF0CN0zqLloh95TwtehwfNWBTZR8JjDLv8zg125xUy394CEOABGObg~~",
+    "securityId": "uytIXCslZ2-xZ-S1Si2bfHrtaFTIEjZBH_yMFyHbfKjWp-RslNhj6FzgGIg_Kp5NOZMQnaHy7DJ8pFyfr2eZZ79Zi-RZbFsDMkEBA0fldDNvRgLdRw4DslByzfX-K3dbJSxJ-cvHyhrZo-797fRVn6rZ",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -38,7 +38,7 @@
         "压力测试"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "孙女士",
@@ -46,12 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240305/607f1f3d68754fd0908c66083ee2d4c7beca3402cd99039b5491fac44f0957c23eb7422d9391ab0_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "跃翔科技",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": null
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "210fd3a543f0d4e61XV60tq_Fw~~",
@@ -71,7 +71,7 @@
         "交通补助",
         "节日福利"
       ],
-      "activeTime": 1723431051490,
+      "activeTime": 1724061501585,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "跃翔科技",
@@ -80,7 +80,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": false,
+      "canSendResume": true,
       "canSendPhone": false,
       "canSendWechat": false
     },

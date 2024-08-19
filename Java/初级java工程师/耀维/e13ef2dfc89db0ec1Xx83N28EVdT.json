@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j7wmE65s9fJ9X-n1rmhw-fjukNZZEqqRec-wFYdU_cyc7cZ-AgKMrJYgROvu4MjeoIYEo4pq-4CerLf4uFPTrBs-3W302XgwXA-t7A7uLtDmZvPKrOU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e13ef2dfc89db0ec1Xx83N28EVdT",
+      "encryptUserId": "55d39e760c2d689b1HR92Ny1EVU~",
+      "invalidStatus": false,
+      "jobName": "初级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、按照相关技术规范，负责产品研发，按照工作计划和进度完成研发任务；\n2、负责完成代码自查测试，协助大客户团队跟进客户项目研发需求，确保项目交付；\n3、主动沟通和解决研发过程中遇到的相关问题；\n4、负责公司产品技术文档等项目材料的撰写编制；\n5、完成上级领导安排的其它工作。\n\n任职要求 \n1、全日制大专及以上学历计算机软件相关专业（学信网可查），具备1年以上Java编码开发经验，掌握Java语言，具有扎实Java技术功底；\n2、熟悉Spring、Spring Boot、Spring Cloud、Mybatis等主流技术框架，熟悉设计模式； \n3、熟悉MySql，Oracle等数据库的设计与开发并熟悉SQL语言； \n4、具备一定前端技术栈，会使用vue.js者优先；\n5、具有良好的开发风格和习惯，了解软件工程的基本流程。\n重点：\n做事主动，工作责任心强，具备较强的思维逻辑能力和解决问题的能力；\n有上进心，具备较强的主动学习能力；\n有集体荣誉感，具备良好的沟通能力及团队合作精神；\n愿意跟随公司长期发展。",
+      "encryptAddressId": "fb7d3f3ab64ee03533d63tW_EVs~",
+      "address": "广州番禺区天安科技发展大厦516",
+      "longitude": 113.368594,
+      "latitude": 22.979081,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f349913369084a0500261466ce63881",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f3e3d7f864407a14e6dfed55fe5d53b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240117/607f1f3d68754fd004be72566739a951b29b14c3912edfbe24be552bb5f3d39a3ddca35f639a993_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "耀维",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8fe1e41bccfc1f851XR_0926FlA~",
+      "brandName": "耀维",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240428/7bf6f160950405e9b1e8c79f16feef2172cb6611263dcd9c24be552bb5f3d39a3ddca35f639a993b.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪培训",
+        "团建聚餐",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723615714637,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "耀维",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

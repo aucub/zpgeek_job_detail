@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M1hGDdqASOTsV-L1bHIp2Tb-djb8J1ix_cWeIfTrnuLu-Zf3e6hN8jHQfsM0s_1_6QWCZ6SuPZmaxPnDF9Sz1cH-UmAsxeRNHxWG70VbFZpHrDch",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "508d98736e63c86b03J63960FFA~",
+      "encryptUserId": "9914d8c7de216fa90XJ_3dm_Els~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n\r\n1. 独立承担项目的资源协调和沟通工作，保证项目顺利完成交付；\r\n\r\n2. 负责协调用户业务需求，制定具体的项目功能细节，负责软件系统需求的调研和分析，即时反馈阶段性成果；与客户保持联系，并按照客户的合理需求改进；\r\n\r\n3. 按照项目要求对业务进行整理和流程设计，按照软件功能要求进行详细设计；\r\n\r\n4. 制定项目开发计划文档，量化并分配任务；跟踪项目进度，协调组员合作；\r\n\r\n5. 判断客户需求变更的合理性，同时与组员及客户沟通协调；确认变更时，产生需求变更文档，更改开发计划；\r\n\r\n6. 熟悉服务器程序部署上线，能够及时处理线上问题；\r\n\r\n7. 向上级汇报项目的进展情况、需求变更等项目信息；\r\n\r\n8. 总结已完成项目，产生项目总结文档。\r\n\r\n任职要求：\r\n\r\n1. 软件开发及相关专业本科以上学历，2年Java开发工作经验；\r\n\r\n2．做事认真、细致，责任心强，逻辑思维清晰，表达能力强；\r\n\r\n3. 具备良好的领悟能力及沟通能力、较强的抗压能力；\r\n\r\n4. 良好的分析文档编写习惯和编码习惯；\r\n\r\n5. 精通 Spring、SpringMCV、Hibernate、Mybatis 等；\r\n\r\n6. 精通 MS-SQL、MySQL、Oracle等数据库中的至少一种；\r\n\r\n7. 熟悉 HTML、CSS、Bootstrap等前端技术;\r\n\r\n8. 熟悉 AngularJS、Vue.js、React.js 等 JavaScript 架构；\r\n\r\n9. 熟练掌握 git 版本管理工具；\r\n\r\n10. 熟悉 Linux 常规操作和 Tomcat、Nginx 等应用服务的部署和优化配置；\r\n\r\n11. 有 Docker 使用经验优先。",
+      "encryptAddressId": "050279085b4c9f381nZ82tu0F1c~",
+      "address": "广州天河区时代E-PARK-1栋1102B",
+      "longitude": 113.401418,
+      "latitude": 23.164989,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db1b2aa1c666fec64e1e95b89a29ef98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9327bb6b54229109e44a9c6d1e80e573",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Javascript",
+        "HTML5"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易郎和网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7dc4270321cc34961HR40tq-EA~~",
+      "brandName": "易郎和网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721486721686,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易郎和网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

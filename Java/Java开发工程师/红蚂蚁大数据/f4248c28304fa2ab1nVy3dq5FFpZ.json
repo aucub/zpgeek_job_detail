@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HjYmnIH3MLiT3-o1BqhuBbInfkp-7A7ZaBa1DL96IAkiSbF0-6eAMqON92ME4G0_tbJSdTdmtESxQlrZVDbxMTLGLtyc70kOaU8r6rCuKnHiZdbA0bI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f4248c28304fa2ab1nVy3dq5FFpZ",
+      "encryptUserId": "584eb0cbec1bf55d0Hd42tS8GVM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、熟练的使用Java语言进行面向对象程序设计，熟悉常用的Java API，包括集合、多线程（并发编程）、I/O（NIO）、Socket、JDBC、XML、反射等。\n2、熟练使用SpringBoot框架进行分布式项目开发。\n3、熟悉常用的关系型数据库产品（MySQL、Oracle）。\n6、熟悉NginX、Tomcat、redis等Web服务器和应用服务器的使用，熟悉多种服务器整合、集群和负载均衡的配置。\n7、了解linux,熟悉linux常用命令。\n职位描述：\n1、负责公司项目的后台开发，进行业务逻辑代码编写、版本迭代;2、负责开发过程中文档编写，包括概要设计、详细设计、接口文档等;3、持续优化业务架构，提升开发效率与服务端运行性能;4、保障系统后台稳定可靠，及时定位bug并修复; 5、热爱软件开发行业，并愿意长时间深入和钻研。 6、全日制本科及以上学历。计算机相关专业优先。",
+      "encryptAddressId": "ad81ed0036ec78901H143tu-FVs~",
+      "address": "苏州虎丘区创新中心大厦C座301A",
+      "longitude": 120.535392,
+      "latitude": 31.2793,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d62d9bc9d4362a798aa32370b3d4d66",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0236760894a306b46e31c8e34b610617",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "SpringBoot",
+        "MySQL",
+        "WEB开发",
+        "软件工程师",
+        "Linux",
+        "分布式技术",
+        "多线程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "殷先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210106/314979a165ae8280aadaffc151317405d7b2328be30692fe5d2c0f5f272_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "红蚂蚁大数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba459d854fa9f7ee1nd_09m1FVI~",
+      "brandName": "红蚂蚁大数据",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721496695542,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "红蚂蚁大数据",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

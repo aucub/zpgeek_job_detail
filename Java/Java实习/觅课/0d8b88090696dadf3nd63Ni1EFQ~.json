@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7gjfm8OCrh_45-S1z6ob6K7WXl0wL2RpR1pknM1yI0VItwqpBaPM2V8jjyltq2Vix6kyOMLBzYpKupVkqKzbm3dIFmMINsBGrBXHjVP6lFyoY23AcA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0d8b88090696dadf3nd63Ni1EFQ~",
+      "encryptUserId": "6237bc4ce2b9aa680Xd829m6Elc~",
+      "invalidStatus": false,
+      "jobName": "Java实习",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "负责小程序/APP后端开发\n熟悉spring全家桶\n熟悉MySQL，Redis等数据库",
+      "encryptAddressId": "1ef58f1439e3ab501nN809S1EVc~",
+      "address": "北京昌平区卓越·巧问(宏福苑校区)卓越华盛热力大楼4层406",
+      "longitude": 116.368637,
+      "latitude": 40.109541,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cfcb0b6bd7967901bbe72abee47d58bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2f15fb114305c6d50f35c4287f14dc8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Redis",
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "秦先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220906/607f1f3d68754fd009f6c487574efefeef0628c8f2ae92e0e130f9b8f0410e7a7a1513ebae8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "觅课",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "35783ec04307ac9f1nV60tm9EFQ~",
+      "brandName": "觅课",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1721472088043,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "觅课",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

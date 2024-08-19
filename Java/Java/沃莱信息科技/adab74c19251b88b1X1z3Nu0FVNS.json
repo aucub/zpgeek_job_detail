@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AAdkCzkGoPmEK-v1cYXM7uz58DbWeWFr00OJkEnZSitKdeQ3fRjxuZu3Z8QK9MuLkfH655U6pDMi4b9jIirwxAOgXPXP7L9OBZgqIbB9M2QbUcQsyew~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "adab74c19251b88b1X1z3Nu0FVNS",
+      "encryptUserId": "603dacd06a8939ca03163dy0GVM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.熟悉业务流程平台架构和配置，设计及开发其他系统和第三方平台接口；\n2.参与系统的需求调研和需求分析，撰写相关专业的技术文档；\n3.负责或参与各类金融核心交易系统设计和开发工作；\n4.负责系统分析与设计，并负责完成核心代码；\n5.搭建系统开发环境，完成系统框架和核心代码的实现，攻关技术难题；\n6.根据开发规范与流程独立完成模块的设计、编码、测试以及相关文档；\n7.优化系统性能，保证平台安全、稳定、快速运行。\n\n任职条件：\n1.学历学位：大专及以上学历。\n2.综合素质：\n（1）熟悉金融领域、信息科技领域相关知识，熟练使用各类办公软件。\n（2）掌握JAVA、设计模式、SpingMVC、SpringBoot、Mybatis等框架和技术的设计思想和实现方式。\n（3）掌握IO、多线程、集合、缓存等机制。\n（4）了解主流应用服务器架构体系，数据库、微服务等各种分布式技术，熟练掌握以下技术：Spring Cloud、Dubbo、Zookeeper、MQ、Redis、Nginx等。\n（5）熟练使用MySQL数据库，有一定数据库设计和查询调优能力，熟练编写复杂SQL。\n（6）了解apache,nginx,Tomcat等应用服务器的使用，掌握linux常用命令，可部署系统与分析性能。\n3.专业经验：2年以上系统开发或相关信息科技领域从业经验，互联网金融类平台开发经验。",
+      "encryptAddressId": "470db39b520e14261nR829u7FlZS",
+      "address": "广州国家软件产业基地F栋天河区软件路15号4楼",
+      "longitude": 113.413049,
+      "latitude": 23.171054,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bfc45f89e07145a068e4ae78b109a31b676bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf242f43aa0cb63f2fcf8702fdbd6871a66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MyBatis",
+        "Java开发经验",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理（股东）",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230604/607f1f3d68754fd0390e36ac7b38a3a16096e29261e0efd09b6d69e9603e0d3cbcd4efaa88a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "沃莱信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3b01bdcc78c0bf9b1nx72Nq8ElI~",
+      "brandName": "沃莱信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721486661972,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沃莱信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

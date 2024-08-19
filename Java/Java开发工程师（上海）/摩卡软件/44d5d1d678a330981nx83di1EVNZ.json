@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "E8i75ETl6Xzh0-C1WFm6FK1tGVYuF9dY2IUgnhQ2PuUmQ8H4IdN3yrkUDbaFV6DaRgIJyRt0psoDsjxSr_zISUhtalQyjwU1zOAxtMNpXIc44Nh8LLwZ6AuRYs9A5oXIUacTCYusDufJeaEuHQ~~",
+    "securityId": "WqDA04NaFgzzY-q1lIqtyYEFjf7xiegtBYJG-htOoztCoAxXIoMjVvBwdGtFEMtKSgoNc85_AgNTFbEEdRax9PmOUo8jEP8HS39b8Rldfbrftg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -43,15 +43,15 @@
         "员工体检"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "赵女士",
       "title": "HR",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=562cf6f883a25c2cjzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6R8pHN5fgis6t90u794_GA69n70zNen1KsNQ4bnuDWh8ZAoFqSRU9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "摩卡软件",
       "bossSource": 0,
       "certificated": true,
@@ -80,7 +80,7 @@
         "交通补助",
         "节日福利"
       ],
-      "activeTime": 1723097929843,
+      "activeTime": 1723605434998,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "摩卡软件",

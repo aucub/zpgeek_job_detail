@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EakLMFUnoZtJV-Y1PSM8hDWFQG8EijhUjPAeWyVJ8aiMipVoJY1VVXrr1-oIWbun42GCXHVsQNcomVHJOtS15mQFxUiYe41LMD5umQX8wFQwjZ0zEBpc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4466c543ab0a92791X143tS-ElBY",
+      "encryptUserId": "e113ab80b0bfdd410XR-3Ny-F1dR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-7K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责AI客服saas平台核心功能、公共模块的规划及业务架构；\n2. 负责系统架构和技术方案的规划、选型和设计；\n3. 负责技术难点攻关及组件核心代码编写；\n4. 负责持续优化代码、缓存、数据库访问；\n5. 负责核心系统的稳定性、性能监控和性能优化等；\n6. 负责实际项目上线运行情况跟踪和线上问题排查等。\n\n职位要求:\n1、具有1年或以上java项目开发经验，有ERP，管理型系统开发经验的优先;\n2、采用前后端分离的方式开发，但要了解H5，js、 jquery、div+csseasyui，Vue，小程序等前端技术;\n3、熟悉B/S架构，采用JavaEE技术体系，以各种开源框架(如SpringMVC、Spring Bootmybatis redis、rocketmg、ElasticSearch等)为主，具备良好的平台服务化框架能力;\n4、熟悉微服务框架，如dubbo，SpringCloud等主流架构者优先\n5、熟悉mysgl数据库，对慢SQL查询有分析和优化的能力;\n6、熟悉git、maven等代码管理工具和开发工具 idea;\n7、有一定的业务理解能力与代码调试能力，能够理解需求，较好的完成开发任务",
+      "encryptAddressId": "3b92b0012c2da84a3nN539u6ElM~",
+      "address": "广州海珠区凤凰大酒店513",
+      "longitude": 113.259493,
+      "latitude": 23.090482,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bf43c3b0b79ccb61cdac32c06c7b8993206bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfefc600c8df0009bb1e2464bb6db32cd26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "易快销",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "27a7b5b96963f0851Xx409m4FFo~",
+      "brandName": "易快销",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721486830553,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易快销",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0bG4MkJKdR4qs-Z1ln655D2aodoIqbQ7vjlOvKthU9HSQrRSTgeNk9DTNMmxkI2xUdOY0ubrwI-HBGMKs-_u9Gm-Z_MslkzPrHKYCliP0gpJg63V",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9d8885335eb80e5e1nJ539q-EFY~",
+      "encryptUserId": "f51a15fcfde319f91HZ43Nq_EFQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责企业应用微服务架构的模块设计，承担核心功能模块的代码编写；\n\n2.编写代码实现产品功能，完成项目开发，撰写相关文档，参与需求分析；\n\n3.优化系统性能以及重构系统。\n\n岗位要求：\n1.本科或以上学历，计算机相关专业，三年以上java开发经验，有互联网相关工作经验优先；\n\n2.熟悉微服务架构，有REST API接口经验，熟悉HTTP、Restful API、具有大规模软件系统的设计能力；\n\n3.扎实的java编程基础,熟悉Spring、Spring Boot、Spring Cloud,dubbo,mybatis等框架，熟悉netty、vert.x者优先;\n\n\n4.熟悉MySql，Oracle等数据库及SQL调优，使用过PostgreSql开发者优先；\n\n加分项；\n有过微信、支付宝等第三方支付开发经验者优先\n了解比特币原理、熟悉区块链技术者优先",
+      "encryptAddressId": "e9e9405650d2b3481XB63tu4GVs~",
+      "address": "上海静安区云海大厦(淮海中路)",
+      "longitude": 121.4494,
+      "latitude": 31.2119,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48e84f157434ef03c413087995a62669",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12d8a534be31192a2c729d8dda06ad3d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171103/208d9031ea02f854e21684709da16487cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海善链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "80e682b42182ceac1nZ63dq-EQ~~",
+      "brandName": "上海善链",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721484008994,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海善链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

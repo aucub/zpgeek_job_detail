@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EJFYDvf6ygF6F-i1vvSCXnvEVNUHNf2DSukYYD1L9sMPkcrKIVAgvZ0gioSsDspCQnhU4EwNWr5KKH_7_UFmZauNTc3hdWj3u4jzTgWgi3ftCD-AtC4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b188ff013fc1553b1HZ939q9EVFY",
+      "encryptUserId": "ecc4d34df78b010b1nZ_396_FlE~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、根据项目业务逻辑设计数据表，负责项目中的服务端后台部分编码及程序设计工作，向前端开发提供业务逻辑API接口；\n2、移动互联网相关，APP后台服务器端程序开发，WEB管理站点后台开发，数据交互接口开发并完善相关文档。\n3、积极响应产品部门需求并进行开发/定制化开发和交付；\n4、对未来服务端技术架构具有一定的前瞻性和规划能力\n\n任职资格:\n1、责任心强、学习能力强、能够完成任务攻关并积极汇报工作进展、善于沟通、能承受工作压力，能够独挡一面，能够独立承担公司项目的后台开发任务；\n2、计算机相关专业大专或以上学历，2年以上从事移动互联网开发的工作经历；\n3、扎实的编程基础，精通Java开发语言，理解IO、多线程、集合等基础框架，对JVM原理有一定的了解；\n4、熟练运用Java EE相关的主流开源框架，如SpringMVC（springboot）、mybatis；\n5、熟悉缓存（Redis集群）、异步消息（RabbitMQ）等中间件技术；\n6、了解分布式系统pringCloud开发技术\n7、熟悉MySql、Oracle，对Sql优化有一定的经验；\n8、思路清晰，较好的沟通能力、新技术学习能力",
+      "encryptAddressId": "b75aeaa423cbc0811nB53ty0FFJT",
+      "address": "广州白云区广超创意园广超街17号A9栋4楼404",
+      "longitude": 113.324341,
+      "latitude": 23.257508,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf256180e0e0e719c04505e62e498913bb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230717/48ba41acc9cef1bf119fac1babc04ae9c112f4712c602a756bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "MySQL",
+        "后端开发",
+        "SpringBoot",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190410/88646ce3bc774ad60c26f281370ec63ef39a3c553749cd6477bdde01738_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "自由丽人",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7ee3ac08e95a2aab1HVy2dy0E1c~",
+      "brandName": "自由丽人",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100007,
+      "industryName": "生活服务(O2O)",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721486743345,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "自由丽人",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

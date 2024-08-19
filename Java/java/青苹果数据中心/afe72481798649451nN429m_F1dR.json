@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "P80q63ptzxabA-O1F0yXRqiKr7-x0FVA1Bz39egCDA7_XJd8xYFE82w-TfZyx6KoaJ9AXfNBMvrnOdVKctsRJXjROXE2V25uzjq2spw9RfICULAns7MV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "afe72481798649451nN429m_F1dR",
+      "encryptUserId": "a6f5f9e535e1447e0nZ82Nq-FFtU",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.\t参与项目需求分析、数据库与底层框架设计以及应用开发；\n2.\t编写相应的概要设计、详细设计等文档；\n3.\t负责系统框架和核心代码开发； \n4.\t参与日常开发和测试工作，解决开发中的技术问题； \n\n任职要求：\n1.\t2年及上工作经验；\n2.\tJava基础知识扎实，熟练掌握JDBC、JSP/Servlet等；\n3.\t熟悉J2EE技术，深入了解SpringMVC、SpringBoot、SpringCloud、mybatis等通用开发框架；\n4.\t熟悉现行主流数据库Mysql、Oracle、NoSql（mongodb，hbase，redis）、熟悉它们在不同场景下的优劣、保证高可用；\n5.\t熟练掌握Tomcat、Websphere、WebLogic、Apache等应用服务器的使用和配置；\n6.\t具有媒体行业开发经验者优先；",
+      "encryptAddressId": "fec8b549727a56851ndz39i4ElM~",
+      "address": "北京朝阳区阳明广场北楼12F",
+      "longitude": 116.424671,
+      "latitude": 39.995166,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/949449e5e036f59a3d8bbbb72fd078a2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36b8a246bacdf31fd9432d97cdb58e23",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "Oracle",
+        "NoSQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青苹果数据中心",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3b657d625a7b0c311nFy2N24EFQ~",
+      "brandName": "青苹果数据中心",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721471887923,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青苹果数据中心",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

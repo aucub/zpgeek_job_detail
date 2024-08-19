@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "L3ZeMkzTIzS1w-u1t-GuKRaQuZN1yavTZVZQ3MEz_XNdHoYuVW9Tu37PofTnG15jWEnYKq-96OpnfP318VRR8jr4VYk-NFvCzUZC0qzII7tLMDqyQ9U~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d1afa5717128d9791nx72dm7E1JU",
+      "encryptUserId": "01c005d71fa7b6241nRz2N2-GVdV",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1：计算机相关专业本科学历以上，有相关开发经验，具备良好的代码风格和习惯。\n2： 2年及以上基于Java语言开发经验，熟悉数据结构与算法设计，了解并发程序设计；JAVA 基础扎实，理解 IO、多线程、集合等基础框架。\n3： 熟练掌握JavaScript、Html、Css的使用，熟悉Ajax 或 jQuery 更佳。\n4： 熟练掌握一种关系数据库如MYSQL或ORACLE，并能根据业务需求设计数据库结构。\n5： 了解Java的Spring Cloud,Spring Boot, Spring JPA, MyBatis, Hibernate等框架；\n6： 具有良好的代码和文档工作规范经验的优先；\n7： 工作认真负责，学习能力强，能够在短时间内承担公司项目开发工作；",
+      "encryptAddressId": "f40b2835957ffec81nNz3tS8GVQ~",
+      "address": "上海闵行区财富大楼1棟3层3",
+      "longitude": 121.375557,
+      "latitude": 31.104442,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4d031c9c45ad9f55da6384ab7dce604",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2b2a6e4ca04efbc6d780725db30ae97",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "多线程",
+        "数据结构",
+        "Spring",
+        "Hibernate",
+        "Oracle",
+        "Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术人员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海沃软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "edf4001e7a3c686633d92N25FA~~",
+      "brandName": "上海沃软",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721483751901,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海沃软",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

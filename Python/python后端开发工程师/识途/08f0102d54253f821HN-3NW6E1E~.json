@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cIdztavKxYuRk-G1XRTQ_1ONhF1Al8DQ9986QyGmh9n5yi5d3f4P1yrX5L9yvQjIB-07j7y4pernVkLXycVJbHGqR1Juzkyol0Bn1wql6LhpSn7t",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "08f0102d54253f821HN-3NW6E1E~",
+      "encryptUserId": "b804455996016bbe03N90t20GVo~",
+      "invalidStatus": false,
+      "jobName": "python后端开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述： \r\n1. 负责公司内部项目服务端的研发工作； \r\n2. 负责公司服务器相关的维护、性能调优等工作； \r\n3. 负责公司基础平台的研发工作； \r\n4. 负责编写设计开发文档、设计手册、应用手册相关技术文档；\r\n5. 负责数据的获取及分析 \r\n\r\n任职要求： \r\n1. 2年的Python相关软件开发经验； \r\n2. 计算机基础理论扎实，熟悉数据结构、算法、操作系统、TCP、HTTP 等计算机基础知识； \r\n3. 熟练掌握 Python 语言； 深入了解 Django、Flask、Tornado 等主流 Python Web 框架；\r\n4. 熟悉 MySQL、Redis及Nginx 等数据库及相关工具 并有良好的数据库设计和优化能力； \r\n5. 具备较强的编程能力，了解正确的编码规范；\r\n6. 熟悉 UnixLinux 操作系统； \r\n7. 具有较强团队合作、发现问题、解决技术问题的能力，思路清晰，可提出创新解决方案； \r\n8. 熟练掌握 Java、Golang、C 等编程语言者优先； \r\n9. 熟悉自动化运维以及Docker、Kubernetes 等相关工具者优先。",
+      "encryptAddressId": "15d7cbd9bbdc08f13nN42du0GA~~",
+      "address": "广州白云区现象工场1101",
+      "longitude": 113.334,
+      "latitude": 23.17801,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/673aa22d221ab134392234bbbf136d1f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20824d70df609ee5ede1b82e4398e7fd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统架构",
+        "数据库",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "人力",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181021/7bb3ad712abec8720af88f257c85f2a606bc52e465147ca0fbed2d49c3c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "识途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6c109c47f51813e11X140tq7FQ~~",
+      "brandName": "识途",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721487707340,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "识途",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zToRD6REf97Az-61HF76nyLWANCL5T5k1fpTiWrvl0YCf-UFx-3gfhoq2peqMcQJrSmg6iPMMZGBttBymXM-fX-g1aDx606I2LvdXt2lyJ9h0k4hVQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6befbd84fc1e37711n1z2925EVBV",
+      "encryptUserId": "eca1ee77345af1091H1_29u7FFM~",
+      "invalidStatus": false,
+      "jobName": "后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、根据项目进度及任务分配，按需求完成系统设计、业务开发；\n2、参与系统架构设计，软件开发技术、规范及标准流程的改进；\n3、参与核心代码的编写、持续集成、迭代优化及日常维护等工作；\n4、跟踪业界先进技术，完成技术验证工作\n\n（一）任职资格：\n1、有良好扎实的Java基础，熟悉Java 8的语言特性，有较强的业务开发逻辑；\n2、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制，能对分布式常用技术进行合理应用；\n3、熟悉Spring-Cloud生态，对Ribbon、Hystrix、Feign等微服务中常用组件有实际开发经验；\n4、了解使用RabbitMQ消息队列、SpringCloudConfig配置中心、SpringCloudBus消息总线；\n5、熟练使用MySQL、SQLServer等主流数据库的基本配置及日常使用，掌握SQL语言；\n6、熟悉Redis、MongoDB等NoSQL数据库；\n7、熟悉TCP\\UDP协议的基本特点，有过网络编程开发经验或使用过Netty框架；\n8、熟悉无线通讯协议、串口通讯协议的优先；\n9、具备Linux操作经验，了解Docker、Nginx、Tomcat等常用软件的安装、调试及日志分析；\n10、掌握Gitee、GitHub的使用；\n（二）综合素质\n1、3年以上相关工作经验优先，统招本科及以上学历计算机、通信、信息系统、软件工程师等相关专业优先；\n2、具备良好的代码开发习惯和自查复查能力；\n3、具备良好的文档设计与编写能力、口头及书面表达能力，能独立完成后端接口设计文档编写；\n4、具备较强执行力和团队协作能力、良好的综合分析和解决问题能力；\n5、具有责任心和学习精神，对未知技术和领域能快速掌握并实践，能承受一定强度的工作压力；\n\n\n薪资结构：基本工资+绩效奖金+年终奖+其他补助（具体按公司人才晋升渠道进行）",
+      "encryptAddressId": "11020b77e91a50e91nB-39q7FFI~",
+      "address": "广州黄埔区品尧电子产业园A栋303",
+      "longitude": 113.444205,
+      "latitude": 23.150153,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f818ff29df39a47cd3be790581e9204",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae12c7b8bcbf676432f545b46f762aea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Redis",
+        "MongoDB",
+        "后端开发",
+        "Linux",
+        "SQL Server",
+        "NoSQL",
+        "SpringCloud",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "詹先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180529/41d04c01649d866b6737835f7edc6db9cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "先聚智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f73ec85d7cdc856d1XR639i7Eg~~",
+      "brandName": "先聚智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180529/26a25fbda507a6bb722c9b1ccd932eaccfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724076094219,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "先聚智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

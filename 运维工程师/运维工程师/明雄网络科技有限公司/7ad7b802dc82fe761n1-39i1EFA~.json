@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o6J8kyk4woShz-g1MVYta85rGNYcF359lmiqXTY0utWqTS61dGLmiTHFNYN3JOTl6qq5eaRtkwcWlcDYJi9TpWNPvT6xPk4kF0mi8wNRFqvzht4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7ad7b802dc82fe761n1-39i1EFA~",
+      "encryptUserId": "cb2cfda1a0f48c731HN80920E1Y~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1.负责测试、正式服务器的配置，维护，监控，调优，故障排除等；\r\n2.大用户量下高性能服务器系统部署方案的制定及实施；\r\n3.工作独立性强，负责、态度端正、具有良好的沟通能力与团队合作精神。\r\n\r\n任职要求：\r\n1.精通服务器部署、系统资源调度、网络流量及异常监控、防火墙技术，熟悉基本的安全常识，搭建高效安全的运维架构；\r\n2.至少熟练使用Shell、Perl、Python等脚本编程语言的一种，熟练使用shell/bash，应用shell解决相关问题；\r\n3.熟练Linux系统的命令和各种应用lvsinx/tomcat/LAMP/ 配置和性能优化；\r\n4.熟悉常见IT监控运维产品(如：nagios/cacti/zabbix软件等配置与使用)；\r\n5.懂得配置Apache/Nginx+PHP+MySQL开发环境，具备MySQL的性能调优，主从架构搭建的经验；\r\n6.熟悉TCP/IP理论体系，熟悉VPN等网络应用，能够快速定位网络故障；\r\n7.有处理高并发和预防DDoS、CC等攻击经验者优先；\r\n8.强大的执行力和创新欲望，为人有责任心，做事认真、细致、学习能力强，良好的沟通和表达能力，能够承受快速的工作节奏及压力。",
+      "encryptAddressId": "032b2b670657e34e0Hx829y9Eg~~",
+      "address": "广州天河区怡祥·盛达电子信息创新园F座509",
+      "longitude": 113.375593,
+      "latitude": 23.132123,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/82dea129176442dea2325dd0a306a709",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b395cbb31d7e04b9c76f18c996a52d83",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "安全",
+        "Linux",
+        "运维开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180419/fc3bcf1342b2976417b8455f2001d155a03f9618acbd5cd892f3b431dc0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "明雄网络科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9d522dcb6189d3c0HN_2d27",
+      "brandName": "明雄网络科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721489360484,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "明雄网络科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

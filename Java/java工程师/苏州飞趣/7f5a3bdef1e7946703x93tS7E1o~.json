@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gkn4KKH1bZtPU-C1C-C3RY3hqNX_1GagJpmq2AeGHWOSxW7Is8jvqBM17fD925z4uaRDSNSwvM4jMbj3EezCZlSkTdi36LIf5LZab5aBvAOGvIHg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7f5a3bdef1e7946703x93tS7E1o~",
+      "encryptUserId": "7341535a0065f51b0HR73ty1FlU~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "计算机、电信、电子工程等相关专业本科毕业，开发经验一年及以上；\r\n* 熟练Java编程，掌握面向对象程序设计理念； \r\n* 了解 Spring、SpringBoot、MyBatis等开发技术； \r\n* 了解 javascript、css、nodejs，vue，reactjs等前端开发技术； \r\n* 熟练使用Linux系统；\r\n* 熟悉Mysql、Oracle等任意一种关系型数据库，并能够结合开发熟练应用；\r\n* 熟悉MongoDBe等任意一种非关系型数据库，并能够结合开发熟练应用；\r\n* 熟悉接口技术，有RESTful API开发经验者更佳；\r\n* 了解Memcache、Redis等缓存的特性，了解Kafka等异步处理机制；",
+      "encryptAddressId": "4b4eee6dde0290371XR83NS_EA~~",
+      "address": "苏州东南大学苏州校区成贤院",
+      "longitude": 120.745253,
+      "latitude": 31.270157,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f0abcf2adcfa4e9bc145d80fc1fcb3b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36b48a93d79977f99c63c80416f69b50",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "苏州飞趣",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "be04e501bd5281a80nV53ty7Fw~~",
+      "brandName": "苏州飞趣",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724077901628,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州飞趣",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

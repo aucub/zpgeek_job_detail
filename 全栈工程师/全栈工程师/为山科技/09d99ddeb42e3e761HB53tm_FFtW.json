@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wZ9E8qcaHcr7K-f10_zfY4Tp4AJH0oLR_G-E2YwMFVxXEkMMuWF7nEALAksfHTqqWAMnQ25bYDnquTYtaArnv0bD1G3H5KmfU6qVAkivwpvyGu3fdoG8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "09d99ddeb42e3e761HB53tm_FFtW",
+      "encryptUserId": "e6b4ebbb0e3b4c680nJ63N60E1dW",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n负责公司内部业务系统的后端开发，结合前端技术（尤其是Vue.js），打造高效、稳定、用户友好的业务应用。参与系统需求分析、设计、编码、测试及维护工作，与团队成员紧密合作，确保项目按时、高质量完成。\n\n职位要求\n1.计算机相关专业本科及以上学历，1年以上Java后端开发经验，熟悉常用的设计模式。\n2.精通Java编程语言，熟悉Spring Boot、Spring Cloud等主流框架，了解JVM原理，具备调优经验。\n3.具备良好的数据库设计和优化能力，熟练使用MySQL、Oracle等关系型数据库，对NoSQL数据库如Redis等有一定了解。\n4.熟悉微服务架构，有分布式系统、高并发、高可用等系统设计和开发经验者优先。\n5.具备一定的前端技能，熟悉HTML、CSS、JavaScript等前端基础知识，能够使用Vue.js进行前端页面的开发，了解前后端交互原理。\n6.熟练使用Git等版本控制工具，具备良好的代码编写习惯，注重代码质量和可维护性。\n7.具备良好的团队协作能力，能与产品经理、前端工程师等团队成员有效沟通，共同推进项目进度。\n8.对新技术保持热情，具备较强的学习能力和问题解决能力，能够独立承担项目任务。",
+      "encryptAddressId": "b33810206f902e2e0XR53tm6EVRXw4-4VP4~",
+      "address": "杭州滨江区钱塘星宇大厦2幢223室",
+      "longitude": 120.223703,
+      "latitude": 30.214556,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bff1d0a0a1c64d2fba119eb646dc5ffbf16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bf60ba9bb51038d54df883b40e70249f5f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重前端",
+        "HTML",
+        "CSS",
+        "Vue",
+        "Java",
+        "Spring/Spring Boot",
+        "MySQL/Redis/MongoDB",
+        "全栈项目经验",
+        "前端开发经验",
+        "后端开发经验",
+        "国内院校优先"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "查先生",
+      "title": "销售总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220927/607f1f3d68754fd0d5e719b57123dfaf3831082287d2a3365c50e3ef0da8b1e8eb9c8c09216_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "为山科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "77d2f72cc4bae0a31Xd72Nq4GFU~",
+      "brandName": "为山科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230809/7bf6f160950405e9c2acceaffb49062e52ed0833695cdfaf5c50e3ef0da8b1e8eb9c8c092163a778.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "团建聚餐",
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723955944347,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "为山科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

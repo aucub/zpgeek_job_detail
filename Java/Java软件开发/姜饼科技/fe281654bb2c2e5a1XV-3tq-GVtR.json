@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dAUBdpOj-tfvz-614OdMRQbvVlGJl6sKqJVjMFi7YQhfYatcC1MrVI1bKhFSBYhoUc2IHOVt1CTGz02Hm1D7FMb_ySZo3ARooKozzjRARa6JnG5WhQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fe281654bb2c2e5a1XV-3tq-GVtR",
+      "encryptUserId": "b82defde3376e9681XJ739q_FVo~",
+      "invalidStatus": false,
+      "jobName": "Java软件开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位需求：\n1. 参与系统的需求调研和需求分析，撰写相关技术文档;\n2. 负责系统的开发测试和集成测试；\n3. 参与代码维护与备份，确保技术文档齐备。\n4. 了解分布式微服务框架的原理；对spring boot和spring cloud有实际的开发经验；\n任职要求：\n1. 应届生（有1年以上Java开发经验优先）；\n2. 精通Spring Boot、Mybatis、Spring Cloud 等技术框架下的Web项目研发；\n3. 具有团队开发经验，良好的代码书写能力，能够独立承担模块级开发任务；\n4. 追求程序的高效极致，以不断提升程序的性能和效率为追求目的；\n5. 具备良好的学习能力、沟通能力、分析及解决问题能力，优秀的团队协作精神；\n6. 待遇可面谈（个人能力以及可以给公司带来的价值）",
+      "encryptAddressId": "cf0e43d15bde8d031XB73dm_EFE~",
+      "address": "上海宝山区红石科技大楼",
+      "longitude": 121.4329,
+      "latitude": 31.35211,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bba2aa25f60865c3528dd1ad2e0190e1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/381b2c2b259603773c9d0067944a2aea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "消息队列",
+        "负载均衡技术",
+        "初级软件工程师",
+        "后端开发",
+        "SpringBoot",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171103/d67dae894f3df12f7601f37ad4f07859c3390426d0f679c3826d18ae1de_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "姜饼科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3b22e0185c06379a1nZ639y8Ew~~",
+      "brandName": "姜饼科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180410/a974d0d098d8d59ba27456c6ddc8c321c3390426d0f679c3826d18ae1de52169.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司主要致力于汽车零部件制造厂的信息化+智能化整合。",
+      "labels": [],
+      "activeTime": 1721492493027,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "姜饼科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

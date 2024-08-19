@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JnRAwR7Jf4xao-W1v595siojrxjZMAnvXIIiVLOxMfCQEwLVQHnCci1iqEnRXOMAtxjNJ_F3Rb5QoJhZ0ulWtmO5nJIwDf8_ktCZiyFBrFRTc-DV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d520fa1d02427280HB92d-9ElQ~",
+      "encryptUserId": "62a2d3c239aa0f890HR-39W1EVY~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.负责公司后端平台的技术实现，进行软件需求分析及可行性分析；\n2.能够按照项目计划，按时提交高质量的代码，并进行单元测试，完成开发任务；\n3.根据开发过程中的体验对产品提出改进建议；\n4.规范文档编写，能够按照开发流程编写相应模块的设计文档；\n任职要求：\n1.Java基础扎实：熟练掌握数据结构、多线程编程，掌握常用的设计模式；\n2.两年以上Java及Web应用软件开发经验；熟悉Spring、Spring boot、 Mybatis、 Spring security、redis、 Mysql、 tomcat容器、 nginx代理等；\n3.熟悉ActiveMQ、RocketMQ等消息队列的使用，了解netty+websocket网络连接；\n4.熟练使用Git，Maven等开发及管理工具；\n5.熟悉前后分离开发模式、具备较好的业务设计能力，能够深刻把握业务需求，抽象成系统设计；\n6.思路清晰，善于思考，有良好的分析和独立解决问题的能力；\n7.熟悉小程序公众号相关开发优先；",
+      "encryptAddressId": "78a3e605e521e7131XVy3dW-GFE~",
+      "address": "苏州创意产业园动漫大厦8-1004",
+      "longitude": 120.733449,
+      "latitude": 31.264601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4675a28c9fe4a5ec1c0c0a9d42aee441",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5c43e8d6989493a5bfbf123a9b4bd3e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "网络协议",
+        "Socket技术",
+        "Spring",
+        "Netty",
+        "MySQL",
+        "服务器配置",
+        "Mybatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "华信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f9ab07230b33cd710nN-0t6_Fw~~",
+      "brandName": "华信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721496722607,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

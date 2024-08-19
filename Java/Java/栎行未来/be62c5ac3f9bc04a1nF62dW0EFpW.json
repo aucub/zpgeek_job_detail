@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uYRbeROklqb5c-x1ba09uUz6eQ66cNcpviyh5AEn0nd3RIAGu-GKuefZnwcQvoD-c_qfPveDilNI3HJAcK-eYGOYd81UKMDtRUeXBYmEkiVr4J_bDUyh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "be62c5ac3f9bc04a1nF62dW0EFpW",
+      "encryptUserId": "f7ad870a46bfe8e20nZ929-5GVVV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "熟悉spring框架\n熟悉mysql等关系数据库，自己能编写业务sql语句\n沟通能力强\n逻辑思维缜密",
+      "encryptAddressId": "1075559e3e61fd7203d80t-7EFM~",
+      "address": "北京海淀区大恒科技大厦南座503",
+      "longitude": 116.30533,
+      "latitude": 39.982357,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/196b99fea16ff293820ac2e21bfa9518",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df5d35196fd98e727434e0de71b8096a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Redis",
+        "MySQL",
+        "后端开发",
+        "中级软件工程师",
+        "SpringMVC",
+        "Maven",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "栎行未来",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6c6751db68d9b8071nF_3Nq_EVM~",
+      "brandName": "栎行未来",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721471887422,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "栎行未来",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

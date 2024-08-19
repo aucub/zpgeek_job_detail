@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NkoGIdjYFLSQa-z1F156HEAcRaMxYuOpAKTM4GSzK1-QLd_-LjNgvNgVNzzlRsSrNeIrw5VB0UwS6S5j-sYbzaFG3xEmF3cVndpTbSFowL3t8D8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c7f3ef73229d18451Hxz0tm1GVM~",
+      "encryptUserId": "41fee56b183e7e3a1nZ43tu0Fls~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\r\n1、负责公司已有项目的迭代开发；\r\n2、参与项目需求分析和系统设计；\r\n3、参与核心/重要模块的设计、编码、测试以及相关文档编写；\r\n4、参与代码设计、审核和检查；\r\n5、独立解决开发中遇到的难点问题；\r\n6、完成上级领导交办的其他工作。\r\n\r\n岗位要求\r\n1、计算机相关专业，3年以上JavaEE Web工作经验\r\n2、精通Java、理解并发编程、熟悉常用算法及数据结构、熟悉JVM\r\n熟悉Git使用，熟悉Spring Cloud、Spring MVC 、Spring、MyBatis\r\n3、理解MySQL原理，有SQL优化经验\r\n4、熟悉Linux、掌握常用命令\r\n5、上进心强、好学、积极主动发现并解决问题\r\n6.熟悉dubbo、zookeeper优先",
+      "encryptAddressId": "a79c2482b43ea0520Xd42d-8FA~~",
+      "address": "北京西城区金贸大厦A座1826",
+      "longitude": 116.348694,
+      "latitude": 39.938772,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1cc5445d4e9efee5f612e80b72c52fe6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bb7c36019150e7b95601c415f13a222",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Node.js"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160701/e35a82b0aaed38a7835f22dd9c48bbbb8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "紫螺科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "464839f773a687e70HNy2ty_",
+      "brandName": "紫螺科技",
+      "logo": "https://c-res.zhipin.com/jrs/e5512bf93af3f74f95b1c509b4742cd3.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721480290059,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "紫螺科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

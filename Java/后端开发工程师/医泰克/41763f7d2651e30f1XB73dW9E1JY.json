@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "um1A4AAqT9ym_-A1FPgXJ2LQiuF_Rj6flt7I5mbPQH3bFeDtefX_1P4EtaeCshPKTplswwptiWuhPLQCujzVMna6dwNp6coTkPYCIXGpoKo3ezw0CuM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "41763f7d2651e30f1XB73dW9E1JY",
+      "encryptUserId": "2220ef2a75bece561nd63Nm1FlM~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司相关产品与业务支撑系统的开发\n2.参与系统的需求分析，概要设计和详细设计，根据设计文档，进行产品编码，保证交付质量；\n3. 接受开发组长分配的任务，负责软件模块的详细设计、编码和单元测试，按时完成任务，对 自己所开发的软件的质量负责、对可能的技术风险，及时向组长汇报\n4.与测试人员配合，帮助定位问题，及时修复缺陷\n5、严格遵守公司的技术规范\n\n\n岗位要求：\n1、大学本科以上学历，计算机或相关专业；\n2、1年以上Java开发经验，扎实的Java基础，熟悉Linux基本命令；\n3、熟悉Spring、SpringMVC、Struts2、iBatis、Hibernate等框架；\n4、了解HTML、JavaScript、Ajax、JQuery等Web前端技术；\n5、了解Tomcat、WebLogic、WebSphere等多种应用服务器以及Apache、Nginx服务器的部署；\n6、熟悉MySQL、Oracle等关系型数据库；\n7、良好的学习能力、团队协作能力和沟通能力；善于思考，能独立分析和解决问题；",
+      "encryptAddressId": "91d5ab3a855beeed0Xx72N2_E1Q~",
+      "address": "上海青浦区靓禾良仓D302",
+      "longitude": 121.269101,
+      "latitude": 31.1971,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b8628f52dbd5bb00ee260cacb3fd72d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0433277e94bcdd06cee9e4d56903f133",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "路先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230327/607f1f3d68754fd0352b7a4bd09a442f07b391face16b26da81b49d2d13c3f20be68a71ade4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "医泰克",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "545c9f6955184e7d1XZ_2t-1GFE~",
+      "brandName": "医泰克",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100304,
+      "industryName": "学术/科研",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1721483999160,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "医泰克",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

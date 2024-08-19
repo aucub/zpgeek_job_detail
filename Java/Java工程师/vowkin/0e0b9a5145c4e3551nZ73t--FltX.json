@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "t3O9nXcdhllOn-p1F9Q3zVkklXzznwUFCsieIy6MpcRha9QGEbS8KuAACI_lUNHXmcvyAYPgMlNzchiQuJi4564DWLn4Gf0msTgOAKB7QtKjSi8WsA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0e0b9a5145c4e3551nZ73t--FltX",
+      "encryptUserId": "82bdb688877c0ad01HZz3di5E1I~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与需求调研和需求分析；\n2、编写代码，开发测试；\n3、撰写相关技术文档；\n4、分析并解决开发过程中遇到的技术问题（包括安全，质量，性能问题）；\n5、积极配合上级交付的其他工作。\n\n任职要求:\n1、计算机/信息科学等相关专业，大专以上学历，1年以上相关工作经验；\n2、精通JAVA语言，熟悉struts，熟练使用SpringCloud SpringMVC、Hibernate、myBatis、Maven等开源技术；熟悉Dubbo、MQ、Redis等开源技术；\n3、有良好的学习能力、团队协作能力，主动沟通能力，愿意在团队中共享自己的经验与知识；\n4、有强烈的责任心和充分的主动性，能够积极主动的推进项目的进展；\n6、能接受出差和客户现场中短期派驻（派驻期3-6个月）",
+      "encryptAddressId": "de01ce9e6083db6a03R629u0FlQ~",
+      "address": "上海静安区博华广场40层",
+      "longitude": 121.462019,
+      "latitude": 31.236315,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12a5786ba5e51314a93c830a579ebfba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/867e595a9ec0c0d427b951132e9a5c0a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC",
+        "Hibernate",
+        "Dubbo",
+        "Struts",
+        "SpringCloud",
+        "Redis",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180328/e6f7c139c09eb006f9cb65984babcfe2cfc26a326032cdf3c04217b6483_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "vowkin",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7879b117ce8168551nZz2dS6GA~~",
+      "brandName": "vowkin",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180413/b9970f74514cde6e379f64f33ebd9aa9cfc26a326032cdf3c04217b64834b577.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "傲盈网络，互联网工具服务提供者，专注为企业用户提供从“线下通信整合解决方案”到“线上定制软件开发服务”的一站式云网融合服务！同样的解决方案，不一样的解决态度是我们的座右铭！",
+      "labels": [
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1721483088227,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "vowkin",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Mdzg2A53Nci1t-G1_L3xg9SXmMir4Z8It3N3H55M3CuXnxWH-gWEzyv0B229ofFvYcCX_ieOrWWSdDBDvsSj24iLUobni2yBB5RU_dKChZQIlOUJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a8c5a15071dde1af0HF62tm9GFQ~",
+      "encryptUserId": "c65a65a7e1fb33b51H150t-5ElM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.按照项目经理要求完成项目交付工作\n技术要求:\n\n1、精通Java语言、熟悉主流开源应用框架，协同开发，有SpringBOOT和Dubbo分布式系统开发经验;\n3、熟悉Redis或Memcache等缓存使用；\n4、熟悉MySQL/PostgreSQL/Oracle其中一种数据库应用开发，并熟悉数据库配置管理、性能优化等基本操作技能；\n5、熟练使用Tomcat、nginx等Web应用/代理服务器，并熟悉服务器配置原理；\n6、熟悉web前端技术（HTML、Javascipt、CSS、JQuery、Ajax等）；\n7、有Linux及分布式开发经验优先。",
+      "encryptAddressId": "2758ab76012b6e501XZ63di0GFI~",
+      "address": "北京西城区金泰鑫侨大厦(南门)",
+      "longitude": 116.348973,
+      "latitude": 39.941093,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28adbdd90cac6a486e60a51fc48c0423",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95649ef53820d30eecac99942fbf3aac",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "全栈工程师",
+        "CSS",
+        "服务器配置",
+        "分布式技术",
+        "Redis",
+        "HTML",
+        "Dubbo",
+        "后端工程师",
+        "Spring",
+        "JQuery",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "知圆科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4a410bd75f128b751n1z2di1FQ~~",
+      "brandName": "知圆科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721479793561,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "知圆科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

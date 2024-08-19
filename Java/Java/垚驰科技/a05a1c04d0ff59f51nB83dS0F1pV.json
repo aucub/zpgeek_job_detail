@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JqFS3NukG01YE-q1s3NcHKIRRcT1Vswhg-K4DgggH_QHuZNlyDKDVKHRfdXDT3bKCSDt7mWKqxLLFgRhkW-_ennCsH73Bx6ZXhMgMiRH5mVxPuWoMJ17",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a05a1c04d0ff59f51nB83dS0F1pV",
+      "encryptUserId": "e0c90dc3293b8f570nZ82t-8FVBV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、参与产品需求讨论、需求分析和功能设计，根据项目进度与产品开发要求，高效、高质地完成代码编写，确保前端代码符合规范；\n2、快速学习并理解业务知识，积极主动融入团队、学习技术知识、深入了解客户需求与业务知识，准确的实现业务需求，确保安全、质量、性能和可扩展性。\n\n任职要求：\n1、1年以上互联网项目Java开发经验，全日制统招本科及以上学历，计算机相关专业；\n2、熟练掌握Java，有扎实的编程功底，具备良好的编码规范，熟悉面向对象和数据结构；\n3、熟练掌握 Springboot + Mybatis、Springboot + JPA 、 Springboot + JdbcTemplate、SpringClond等开发框架，对框架原理有一定的理解；\n4、熟悉Mysql数据库，有良好的数据库设计能力和sql编写能力；\n5、熟练掌握 Maven、Git基础能力和Redis缓存技术；\n6、备良好的上进心和责任心，具有较强学习能力、抗压能力和团队合作能力。",
+      "encryptAddressId": "d9642d855551eba303d83d6_Elo~",
+      "address": "苏州虎丘区中国苏州创业园(珠江路)4号楼4楼",
+      "longitude": 120.538852,
+      "latitude": 31.27634,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e00d96f260d362d3105bbf6cef5544bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2be57a6ec67e421cb1378598b636825a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "MySQL",
+        "后端开发",
+        "微服务架构",
+        "MVC开发",
+        "消息队列",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "垚驰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "116667b0a4f835b21nF-2dm9FFY~",
+      "brandName": "垚驰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721495147142,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "垚驰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

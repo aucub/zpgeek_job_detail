@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NAENnMh2eAGae-e1gT70_MlBdBYCOA9rkoJGuVxkjUbXFKakvcEoT3jIWrUzVmvxN-aVHEJg1DADYKptfZJrsQVQHsGZ-oEo3RfOPj395dA8Mdg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b89ba4f98ae9dcc61HN-3t65FFA~",
+      "encryptUserId": "8ca1c8e21bdc57591Hd609W0FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "负责后台API的编写，熟悉电商业务等\n有项目经验，熟悉Springboot，熟悉多线程编程，熟悉http协议，有较强的学习能力",
+      "encryptAddressId": "e15d4b0ebe2855650Hx83t-4GQ~~",
+      "address": "北京朝阳区北京财富中心3105",
+      "longitude": 116.459624,
+      "latitude": 39.916071,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d40c6922d9721b02b32f81b4b3f90a5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/142c53a0c2f2247832f23c95f010ff19",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "java爬虫",
+        "后端开发",
+        "Spring",
+        "Netty",
+        "Mybatis",
+        "分布式技术",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171209/ece6fea96fc109aee2b1a77a506a423454df9258929dbcc8c6658c010c1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "信德立",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e96872b58f6a8441HJy0tm_",
+      "brandName": "信德立",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170611/5c74486c7542df34f0f4769129b33f6f304526512e490faa5ae0075501deb712.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100013,
+      "industryName": "社交网络",
+      "introduce": "saas开发公司",
+      "labels": [],
+      "activeTime": 1721479821133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "信德立",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

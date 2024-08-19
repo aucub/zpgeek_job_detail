@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pryH0KXnj9oDh-g1w1XgQMuZXh0_8IZDEovDlXbrXUd0rA2kwLJz0iqEiThUIEeAwF1dYt8D4j01f1wfAMP12jti55olUotZi1h8e751NwniZZwVYaQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7e6e8220f437f2bf1XRz2tS6FFNT",
+      "encryptUserId": "8173bcf8c899c4d33nB_39S0F1E~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位诱惑：\n周末双休,年终奖励\n\n职位描述：\n岗位职责\n\n1.按照规范及设计文档完成编码工作，并对代码质量负责；\n\n2.对产品进行测试，按照规定提交相应的开发文档；\n\n3.参与需求分析，完成功能模块的设计、开发、单元测试、集成和发布；\n\n4.解决开发过程中遇到的技术问题，配合项目成员完成相关测试工作；\n\n\n\n\n任职要求\n\n1. 大专及以上学历， 具备良好的沟通和口头及书面表达能力；良好的学习能力及较强的团队精神；\n\n2.  JAVA基础知识扎实，熟悉JDK核心API，如IO、并发、集合等；\n\n3.  熟悉面向对象方法概念、方法，熟悉UML语言，对设计模式有一定了解，可以在开发中使用设计模式方法；\n\n4.  熟悉Java web开发，熟悉MVC模式及技术框架（Spring、SpringMVC、SpringBoot、Mybatis）、类库以及组件，了解底层实现原理；\n\n5.  了解使用redis 、memcache 等分布式缓存一种；\n\n6.  熟练使用mysql、oracle、db2等数据库的一种以上，了解数据库优化；",
+      "encryptAddressId": "209ddcc58365df5e03B53dy_Els~",
+      "address": "苏州昆山市花都艺墅宝裕广场5楼508",
+      "longitude": 120.979546,
+      "latitude": 31.414519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8956ec898edb9c57e352e69bf4826b06",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a8621c45d05b4d76dd6f9be8dbdb35d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "全栈工程师",
+        "MySQL",
+        "分布式技术",
+        "Redis",
+        "Dubbo",
+        "MVC开发",
+        "Spring",
+        "后端工程师",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "高级软件开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "昆山卓豪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ad9f0f4655824bc1n1y2ty8EFc~",
+      "brandName": "昆山卓豪",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "http://www.zhuocorp.com",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721495571983,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昆山卓豪",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

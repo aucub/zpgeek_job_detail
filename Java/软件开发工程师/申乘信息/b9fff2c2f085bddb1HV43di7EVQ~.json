@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wIBMtAEo35Khr-41Mn56KGtqoUveWCMjQ_M8Mf3ne-Qh6WwM5PhBZ7nGar2iIMgNfHJ_5OMn4Z4zJkFawNg4BH5K6gwlWlH8TpHhiWygBDL7wig~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9fff2c2f085bddb1HV43di7EVQ~",
+      "encryptUserId": "f2add4cd111c9c1f1nJz3Ni1GA~~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格：\n精通C#、ASP.NET、WebForm、MVC、WebAPI、WebService；\n熟悉SQL、存程过程、CLR等数据库的实际开发应用，对网站安全有所了解，了解SQL注入；\n熟悉MongDB、Memcached、Redis；\n熟悉HTML及CSS；\n熟悉Javascript/XML/DOM前端开发技术，有JQuery等库的使用经验；\n熟悉正则，字符串分析",
+      "encryptAddressId": "78829f0ffedcb9a71nR73dm1GFQ~",
+      "address": "上海浦东新区上海交通大学国家大学科技园(金海路)上海市浦东新区金海路2588号",
+      "longitude": 121.654827,
+      "latitude": 31.264777,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f324af676329f05ec340f436f48e8d84",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/48441e931a5376cae7a2c3d37e965d74",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据统计",
+        "数据分析",
+        "人工智能"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "户先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191028/c675f41db0f1e76128c9a31770a92e912b939e8e589dd4e7a03a6d7700b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "申乘信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1793f3f3627b95511HV809-1GA~~",
+      "brandName": "申乘信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721492599029,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "申乘信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

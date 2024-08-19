@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "URZe09VggQxCv-11XGyQzMA-vmqQCFXgDEAQlsiIIw_g1VE2BWT4PSi-NJu_PBTnZLb7c8SyfqB51LJFud8T3BZiRv6m9urtOzwcxZfiJCU7Ahgeqz43",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e47f9882224774651n142tW1FlpW",
+      "encryptUserId": "e8295078f927f5430nR829W-EldY",
+      "invalidStatus": false,
+      "jobName": "中级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n\n1、参与软件平台的需求分析、设计、开发及测试等几个阶段；\n2、参与重点、难点技术攻关；\n3、软件项目关键、重点模块研发实现；\n4、参与软件质量管理，负责保障代码质量，软件项目的持续优化、改进工作；\n5、完成日常项目的维护与版本发布。\n\n岗位要求\n\n1.统招本科及以上学历，计算机相关专业毕业；\n2.三年以上Java开发工作经验；\n3.掌握idea、vsCode等开发工具，用过其它工具如myeclipse、eclipse等；\n4.熟练掌握Spring Boot开发框架，了解过SSM、Spring Cloud、Hibernate等；\n5.掌握Redis缓存技术点，实际开发中使用过；\n6.对微服务、分布式架构有一定认识，了解Eureka、Nacos、Duboo、ZooKeeper等；\n7.线程、消息通信、数据图表、大文件处理等开发技术 ；\n8.熟悉mysql、oracle、sqlserver 任意一种数据库的使用和SQL语句的编写；\n9.做事认真细致，有责任心，能按时完成分配的工作，服从安排；",
+      "encryptAddressId": "a30d1186ca24c6591XB62tq8EA~~",
+      "address": "苏州吴中区宏智大厦B区503",
+      "longitude": 120.737723,
+      "latitude": 31.264003,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab73b61303abc375ff25fd473acaf5d0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94652ae6c1d096d429f8eafaf40a7cb0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "微服务架构",
+        "Spring",
+        "Hibernate",
+        "SSM",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "殷先生",
+      "title": "法人，股东",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240709/607f1f3d68754fd055fb46cbef6acd4832d499cb24110f8f235a03fcc86c9d5776ff78ae57b8272_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "苏州图趣科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f6b4516829e5da9c1nF82tm1FVs~",
+      "brandName": "苏州图趣科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210508/0d8230ac4101de912fb33bd6427b745a235a03fcc86c9d5776ff78ae57b82723.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "苏州图趣科技有限公司是一家聚焦虚拟交互的技术驱动型公司",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721496907125,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州图趣科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4cv05K2dtC-OO-L13-gZR--uy0Bx4s0LZbbhTDqJFLTEefYXCbF5hMI2Rbqcu3Z67DJ7d9VG4RvgiFPu2VA-Ypp3iSZHw9woZXyNDEOPxd0qY-ggD50~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e999e1f80bd9a7fa1HJ42ti5GVRQ",
+      "encryptUserId": "242fd8a8ef0bdcdb1XR73NS0FlE~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、学历、专业及工作经验要求：\n1、全日制统招大专及本科（学信网确认）、计算机相关理工科专业，具有初级java开发经验或者22+23+24年毕业生\n二、能力要求：\n1、以下基础能力具备其一：\n(1)基础类编程：熟练使用JAVA编程语言及技术,了解基本的数据库知识及基本操作，熟练使用SQL语言，熟练使用常用开发工具、中间件软件。\n(2)数据库开发：熟悉至少1种主流数据库例如MySQL，Oracle，DB2等，熟练使用SQL语言。\n(3)熟悉使用Eclipse/IDEA进行高效编程，熟练GIT/SVN版本管理工具；\n(4)熟悉主流应用服务器（Tomcat、WebLogic、Apache/Nginx）的使用；\n(5)对Spring 、SpringMVC、MyBatis、Struts2，SpringBoot要有一定理解，能够使用框架进行编程；\n2.具有较强的沟通能力、学习能力、计划与执行力；\n3.熟悉linux环境下开发、部署和运维操作,有系统运维经验和系统优化者优先； \n4.热爱研发岗位，有财务软件工作经验优先",
+      "encryptAddressId": "1a08f7a78b1145b73nV_3Nm0FlFWw4S6V_s~",
+      "address": "北京通州区北京亦庄经济技术开发区亦庄",
+      "longitude": 116.529491,
+      "latitude": 39.765579,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/306a713af75b289f26d2ba4dcd0cb711",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54fcfa4682463e90e3bccf9a97b0a12d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "团队管理经验",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240604/607f1f3d68754fd04397fd81cf55ce25b6e1ca4dd7218f96603b5c539ca820b248816400be49b5d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "保红科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1beba5899cf7ef0d1HZ42t-8EFE~",
+      "brandName": "保红科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721474975329,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "保红科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Yp25Jhzv6whVP-m1I60suWjcscrDGHMGoOfgOb5fRjOat1pdmjX6W6QzvFdx_Adqa3PYh7mZQrjkrzBwjZ91o_YLTS72dSFqTyxF8S2pDbakNB8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "002fb771eb85e0cc1HZ72N6_GFQ~",
+      "encryptUserId": "dc01204d14d7d69f03173ty9GVA~",
+      "invalidStatus": false,
+      "jobName": "JAVA初级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\r\n·大专以上学历，计算机或相关专业毕业，1-3年项目开发经验；\r\n· 熟悉JAVA编程，有良好的代码编写习惯，熟悉多线程编程。\r\n· 熟悉JAVA相关编程框架，包括Spring/Spring MVC/Spring boot/SpringCloud/Mybatis/JPA等。\r\n· 熟悉Websocket,netty等网络编程框架，熟悉webservice,docker,微服务等编程规范。\r\n· 熟悉使用SQL语句，熟悉Oracle,mysql等关系型数据库。\r\n· 熟悉bootstrap,angular,react,vue等前端框架。\r\n· 熟息运用Git,SVN,Maven,Gradle等项目管理工具，熟悉Junit等单元测试框架。\r\n· 熟悉Linux常用命令，熟悉Nginx，Apache Tomcat等应用服务器的部署和配置。\r\n· 须有微服务相关开发经验。\r\n· 具有良好的编程和质量保证习惯，掌握代码重构的技能，熟悉常见的软件开发流程，能与上下游环节高效协作。\r\n· 具备良好的沟通能力、协调能力、自我管理及团队协作能力；\r\n· 对技术有激情，喜欢钻研，能快速接受和掌握新技术，有较强的独立、主动的学习能力，能吃苦耐劳。",
+      "encryptAddressId": "462666bdabb2b2b71XB83du0FFE~",
+      "address": "苏州吴中区苏州创意产业园",
+      "longitude": 120.7339,
+      "latitude": 31.26418,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66ee4e56a0787fe31364789c3a0dc5a9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/368afa64588fa1864306c02a21b2b340",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "springcloud",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鑫象数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6e7ec734aace91c91H150tu0",
+      "brandName": "鑫象数据",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181122/80bab8a5fd3e62b17fea252b8a832bdccfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1721496708200,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鑫象数据",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
