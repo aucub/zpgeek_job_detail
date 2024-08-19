@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hYEJ-FU0rzoyr-b1s-LSTLG0NJpM6cjI7EDcscyr6Hvtlug64oTILq3VBLV_M5qrOaviPQyCZybuzsjkzHb58nzYvjOHkZpgyfCQMpl2GRqqA2mftxX6GqCxdYs1rl7PlOziyMoYmjzuSII~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eb4b85e4d1f56a991HNz2tu1FlNV",
+      "encryptUserId": "647406e9c0ffb4bd1nRy3NS0EFtV",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责终端网管产品软件开发工作；\n2、负责终端网管产品日常维护工作； \n任职要求：\n1、本科1年及以上工作经验。\n2、计算机、通信、电子类及相关专业毕业，了解数据网络通讯知识，了解软件开发基础理论；\n3、掌握Java语言开发和调试技能，有SpringBoot，SpringCloud实际使用经验；\n4、掌握PG数据库和SQL语法，有编写数据库存储过程的经验；\n5、熟悉常见的开源分布式中间件，如Kafka、Redis等;\n6、熟悉DevOps系统研发工作，包括代码托管、CI/CD流水线、单元测试、自动化测试、安全测试等\n7、了解Linux系统的常用命令及Shell脚本；\n8、了解WebSocket、HTTP协议、MQTT协议\n9、了解K8S集群的基本工作原理与相关工作插件；",
+      "encryptAddressId": "e5da95176499712b33V82Nu4EFBXxYi6Uvk~",
+      "address": "南京雨花台区中兴通讯南京南站研发中心雨花区软件大道50号",
+      "longitude": 118.786175,
+      "latitude": 31.975492,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230415/48ba41acc9cef1bf3de5221aaa14a413e0c708a3a9b984f06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfdc4cb1988883ab22f07b5e890f39776f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240725/607f1f3d68754fd0453f00236e8a5f20c32aeb09ac54882b21b19d525dcebc9ab7105295f31abc1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "中展数智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4d8a7798554aa95b1HZ529S1FFU~",
+      "brandName": "中展数智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723801549541,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中展数智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
