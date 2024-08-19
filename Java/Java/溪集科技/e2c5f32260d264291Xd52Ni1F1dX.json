@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vBJvxFQaWQYde-x1rcNUVMJtbj72bgeoVc3Zv8DcQ5LBEueWuY1XFbE-WOxc276DrBxq_8swhdlDfZfyqTokiSD3keT6TrE3if6ymcRwuJnn9Dw0dg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e2c5f32260d264291Xd52Ni1F1dX",
+      "encryptUserId": "fd399b24ab0dc6f203x53tu6FlE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 根据产品要求，给出从DB到API的实现方案并实现；\n2. 能高效低错地实现API并撰写API文档；\n任职基础要求：\n1、具有一定的沟通能力，可以清晰的讲述过往的项目和开发的相关环节；\n2、熟练Java开发，熟练使用spring或spring boot，熟悉mybatis或jdbc，对api, service, dao分层有初步的理解；\n加分项：\n1、有一定远程部署经验，熟悉常用Linux命令，熟练使用ssh, scp等命令。\n2、拥有较多的调试经验，能较快地根据日志定位问题。\n3、熟练使用git相关的命令。",
+      "encryptAddressId": "e22fc8ad9603a46403J52dq5FVM~",
+      "address": "上海普陀区耀光中环国际广场A805",
+      "longitude": 121.377434,
+      "latitude": 31.267267,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e0bf71597a1a7b3d6931c8268e26602",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b64880c90c9ee9e668e6bb2d6ea66664",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "MVC开发",
+        "初级软件工程师",
+        "后端开发",
+        "MongoDB",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211204/607f1f3d68754fd00d6d990bc00c73f3d98f7d2f0ae11fd19481db0e38bee8d8cefb7ad5d37_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "溪集科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ad442b0f5dd0dc71X1y39i1EQ~~",
+      "brandName": "溪集科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211124/7b5b554d84f9729c26fbf9a0e8da3d1c63dae58a429516119481db0e38bee8d8cefb7ad5d3762be6.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "溪集科技成立于2017年，坐落于国际化大都市上海，我们是一家小而美的创新型互联网服务商,致力于新零售社交、文娱教育类APP、微信百度抖音QQ小程序、创意3D游戏等定制设计开发服务，专注于移动小程序、APP、Dapp应用",
+      "labels": [],
+      "activeTime": 1723113288000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "溪集科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

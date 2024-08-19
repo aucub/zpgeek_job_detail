@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XvZBPcv5OVYFf-41fvZGSByDsxBiYlhAhlQS1dRKejsBGyBpmmPHAa-a-xKZNzc-X31HYljHUr5uMkr75_OmQuCYjTEJ3uh98XJpob-4CaoXcNO6OQ_BavB7mwxt2PvevvXS5XbAtpQ8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8fe4e0549ec2d8113nB-2Nm-EVM~",
+      "encryptUserId": "f5cfd7397453544603Vz3dy9GVI~",
+      "invalidStatus": false,
+      "jobName": "Java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210300,
+      "locationName": "嘉兴",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、从事Web／钉钉端／微信小程序等应用服务端的开发\n2、负责自己所在开发模块的详细设计、编码和单元测试\n3、向技术经理及时反馈软件开发中遇到的情况，并根据实际情况提出改进意见\n4、参与服务器端的接口设计\n5、负责相关的技术文档编写\n6、有较强的业务理解能力，独立分析和解决各种问题\n任职要求：\n1、熟练掌握java、spring boot，mybaits或jpa，具备面向对象编程思想，具有标准化的代码编写习惯\n2、熟悉spring cloud，spring cache、redis、nginx、oauth2、rabbitmq。了解nacos，sentine、seate优先\n3、熟悉mysql，有较强的sql编写能力，熟悉mysql优化的优先\n4、会使用linux，掌握常用的命令\n5、熟悉容器技术，k8s的优先\n6、熟悉钉钉接口或微信公众号接口的优先\n7、熟悉crm系统，pos系统的优先\n8、熟悉商城系统的优先",
+      "encryptAddressId": "e59cc068be69278a1Hdy39q8F1o~",
+      "address": "嘉兴秀洲区未来科技广场E座2007室",
+      "longitude": 120.693408,
+      "latitude": 30.760926,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1629c71e1d8f4d9c2f6e2b6676c5da4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/077b39810fc069a622444696c357ab3f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "服务器配置",
+        "容器技术",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陆女士",
+      "title": "总监助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210515/11a61c412c29aaf11f904fe442400a433daa57094bf3dcb7c6e8944e31e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "七蓝",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d60533149a2bd3601nV429y1F1M~",
+      "brandName": "七蓝",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721446928529,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "七蓝",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

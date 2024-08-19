@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jQ_nUyPrBRoSt-B1_I9GqBppx6efkvlX7QwxQs-EIhkuDifMjgzLnXZMRSCKYtanO7QHcMk5LX1IxwvWYkh9Pt-NShpI8_aNs1ZQlB-YzYHq7_fbwLTU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "84efa9abdbc9bcbb1HB72928E1NX",
+      "encryptUserId": "80544cf4e35d81730Xd42du1FFRS",
+      "invalidStatus": false,
+      "jobName": "DevOps工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责产品平台在K8S环境的生产发布上线，技术保障；\n2. 提供ELK日志集群的7x24故障技术支持；\n3. 负责ELK日志集群的日常维护、日志接入、升级等工作；\n4. 负责日志分析平台应用日志分析需求的定制化开发和发布。\n5. 要求统招本科。\n6. 熟悉K8S容器平台技术，熟悉ELK日志管理体系及应用。\n7.具备基于ELK平台的日志分析定制开发能力。\n8.熟练运用Java开发语言，熟悉相关开发框架。",
+      "encryptAddressId": "9174139c2631e5521H1y09m-FltRxoq5U_0~",
+      "address": "北京朝阳区朝阳区三元桥",
+      "longitude": 116.459647,
+      "latitude": 39.957228,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230610/48ba41acc9cef1bf4eefc005bd06b73d148e124a065534eb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230610/48ba41acc9cef1bf0ea8522d3e7b3b4ea52f51d0d91eb91f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Elasticsearch",
+        "Kubernetes",
+        "计算机相关专业",
+        "运维开发经验",
+        "逻辑思维能力",
+        "学习能力",
+        "沟通表达"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "夏女士",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "北京海维智科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "999cf36512ef665b1HZ509S5GFA~",
+      "brandName": "北京海维智科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "海维智科，一家初创科技企业，致力为金融行业客户、外资在华企业提供专业技术服务，加入海维，你可以获得加速技术成长，更宽广的视野，稳定的职业发展！",
+      "labels": [
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1723856777694,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京海维智科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

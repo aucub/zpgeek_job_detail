@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jdFsfid2_9_xo-Z1swISJ5rDMj4n5VB2oxdFu855wIYC1VSd78eaxTLYhWUCM6QGtCc2O1AoPucG7dqTCWC5oOD0SwYdmGwFD6tSNFz5xdLoBPezmA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3122d4b311bd2b491HB42ti4FVZY",
+      "encryptUserId": "e40092ffea560afa1XV50t2-FlA~",
+      "invalidStatus": false,
+      "jobName": "java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述\n1. 参与项目的需求调研和需求分析，对项目进行可行性分析，撰写相关技术文档；\n2. 协助架构师完成设计和搭建系统架构(平台、数据库、接口和应用架构等)，解决开发中各种系统架构问题;\n3. 搭建系统开发环境，协助架构师完成系统框架和核心代码的实现；\n4. 完成产品关键技术问题的攻关;\n5. 系统开发测试、部署和集成；\n6. 负责解决开发过程中的技术问题。\n任职要求\n1. 2年以上java开发经验，有大型系统开发经验；\n2. 熟悉JAVA语言，有扎实的计算机基础知识和编程功底；\n3. 熟悉TCP/IP、HTTP、Websocket等网络协议，熟练掌握Java网络编程、多线程编程\n4. 熟悉使用Spring、SpringBoot、Mybatis等主流框架；\n5. 熟悉常见的开源分布式中间件；熟悉常用组件及服务的调优。\n6. 熟悉MySQL数据库开发及常用优化方法、常用NoSQL数据库、消息队列及对象存储\n7. 具有一定服务部署能力",
+      "encryptAddressId": "8caeb157529c32780XV92dy_E1NUxY27V_o~",
+      "address": "广州番禺区万达广场B-2座1905",
+      "longitude": 113.349078,
+      "latitude": 23.008356,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfc4af002eb2d07e55320a7e51a5e631136bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfac34f16ed146cae68ed55ef6f27b11846bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Spring",
+        "Docker",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "数源畅联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6f69da98565db3611X1z3NW8Fg~~",
+      "brandName": "数源畅联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230512/7bf6f160950405e99ab4f95c930dc87dfa0a4472e3ab7facb7abd79b1925ab7025ba22812ea0548a.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "广州数源畅联科技有限公司成立于2017年下半年，由多名从事存储、灾备、电信运营管理领域20年以上经验的技术专家和管理团队为核心组建。\n\n公司从事跨区域二类电信增值业务，专业从事一系列软件定义存储SDS类DRaaS、SaaS、IaaS产品的规划、开发、销售、运维的高新技术科技企业。\n\n公司拥有自有知识产权的软件定义的高价值业务及数据库系统的容灾备份、广域网集群软件、分布式块存储、对象存储、NAS存储、大规模云存储、以及对应的存储、容灾备份、网络运维的软件著作权和技术专利。\n\n公司的ODStor® (Open Deployment Storage)、云融® 、云融盒®系列软件定义 (SDS)存储服务，面向电信业务运营商、管理服务商(MSP)、专用设备供应商提供全方位弹性的云主机或白盒（也称为：裸金属工业服务器）部署的增值类存储及运营管理服务。",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721453829938,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数源畅联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

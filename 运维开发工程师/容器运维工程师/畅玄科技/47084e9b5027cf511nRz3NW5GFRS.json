@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rmVZn7eFqavnD-21fvKkPdJbc05v-jZblrmm8OYdjcefskwZoCVr8qhmLo16osOFI3IKTea2qGGVtKc_4owgQMq7U2vX32WnxflFqr6dO7xgeHU25KY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "47084e9b5027cf511nRz3NW5GFRS",
+      "encryptUserId": "9add62c8a2ad002f0Hd73d-1FFU~",
+      "invalidStatus": false,
+      "jobName": "容器运维工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、维护Docker及Kubernetes集群，保障应用及集群的稳定运行；\n2、基于实际应用场景对原生 kubernetes及周边插件等进行二次开发，包括CNI、CSI等；\n3、对容器和Kubernetes集群中出现的问题，做到问题的快熟定位和恢复；\n4、Linux内核、Docker及Kubernetes集群调优，包括内核参数优化；\n5、基于开源系统，对容器、集群等开发自动化管理系统，包括多集群系统管理、应用状态管理、应用发布对接等；\n6、从容器和Kubernetes的角度，推进业务层面容器化改造，包括容器技术介绍、Kubernetes功能介绍等；\n\n任职资格：\n1、热爱开源技术行业，有 kubernetes 或 docker 容器化运维了解；\n2、熟悉Linux内核，对Cgroup、Iptables、NameSpace等有足够了解，能快速定位问题及恢复问题；\n3、熟悉主机网络模型，对Linux Bridge、Route、OVS及Overlay网络等有一定理解，实践过集群网络限流方案，熟悉Kubernetes网络流量走向，能快速定位集群网络问题；\n4、熟悉 go开发，参与过集群管理系统或PaaS平台开发；\n5、了解REACT/VUE等WEB前端开发技术；\n6、关注kubernetes 相关生态圈, 有行业敏感性；\n7、本科及以上学历，计算机相关专业。",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维",
+        "系统运维",
+        "系统管理员"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201112/78cead604208fa98ab4d80ef00c13f5332d2960af6a12dcba741f4e96f1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "畅玄科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4987a1e4cfecb5671nZ_3d67GVQ~",
+      "brandName": "畅玄科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721467496907,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "畅玄科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

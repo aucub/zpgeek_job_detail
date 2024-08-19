@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7prZskvA9SF5b-_1nPy4EK1oXB2YZ-233GPHPx8YHAhXo_JE0kd51h5DGQ7UNXFltI1yzkAGzPLQmczU4V1yqLGnnciRCoONKty6k6NWdRZKq3lhSyv_fo5jj-uRzT-QPEYwqwUANZM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "20ea8ffa1fe5c9270HF72NW1EFA~",
+      "encryptUserId": "0c0c39e3f84b80a80Hxz3t29GFA~",
+      "invalidStatus": false,
+      "jobName": "Java初中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "1.本科及以上学历。\r\n2.1年以上JAVA架构软件开发经验。\r\n3.代码严谨，熟悉单元测试。\r\n4.熟悉Servlet/JSP以及Spring、Hibernate、Struts、Mybatis、SpringMVC·等常用开源框架；会Spring-Boot/Spring-Cloud组件优先；熟练使用dubbo优先。\r\n5.可以熟练编写SQL语句和数据库优化 ,同时了解nosql系统。\r\n6.扎实的基本功，严谨的逻辑思维，独立思考和开发能力，良好的协作意识, 强大的抗压能力及团队精神，对互联网行业有较强的热情。\r\n7.熟练使用Tomcat, MySQL和Linux。\r\n8.熟悉软件开发流程，并能够熟练使用一种版本控制工具者优先。\r\n9.大流量高并发Web开发经验者优先；有大型网站、性能优化、分布式系统或者搜索开发经验者优先。\r\n10.有较强的需求分解, 团队管理, 跨团队协调能力者优先。\r\n11.有北京、上海、广州、深圳工作经验者优先",
+      "encryptAddressId": "012ee716129792531X183921F1s~",
+      "address": "南宁青秀区汇金苑B座31楼",
+      "longitude": 108.363424,
+      "latitude": 22.810515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81e3588476b81753fb0b1db1251eb907",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15153b110f4ae25aaf9b4b84c58cae15",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Hibernate",
+        "Dubbo",
+        "Struts"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒙女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191018/784522b36b8ff5f305a17738ae57d7f77e1a25ed0eb814c02ac1fc78d06_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广西华江科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "77e370ba242718b00H183d60Fg~~",
+      "brandName": "广西华江科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721446936297,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广西华江科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

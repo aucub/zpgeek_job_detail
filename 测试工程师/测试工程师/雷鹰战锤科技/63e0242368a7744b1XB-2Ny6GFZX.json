@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "47qIsYIN4g3Zi-D1eV3F7MuIvQtBmMGSTv_Vwcrr5Q6faH6ELdccyjpIlXn9S4DlEyLs3o94Dk5HamginF5qkWBxKQsBmgynRpvsfI6yRZbAVpjDFxkS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "63e0242368a7744b1XB-2Ny6GFZX",
+      "encryptUserId": "0a9dcd23b6c744241nZ62t-1GFRU",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n\n1.参与产品需求评审，分析并制定测试计划和策略，设计测试用例并组织、参与用例评审。\n2.执行测试用例，缺陷深入定位跟踪及解决，并协助开发分析解决问题。\n3.跟进项目迭代，能预估风险，推进项目进度，保证项目质量。\n4.熟悉掌握产品的技术架构，精准把握业务需求，持续改进测试方法，提高测试效率、质量和覆盖。\n5.及时汇报测试进度和测试结果\n\n任职资格:\n\n1.全日制本科以上学历，计算机相关专业。\n2.熟练使用linux，docker, mysql运维操作，能够使用常见的测试工具。\n3.熟悉web原理，掌握HTTP和TCP协议，有一定代码功底优先。\n4.掌握常见的软件测试技术、方法和工具，如抓包测试、功能测试、兼容性测试等。\n5.2年以上开发或测试工作经验，良好的沟通能力、团队协作能力、学习能力，较强的责任心和自我驱动能力。\n6.有区块链行业从业经验者优先。",
+      "encryptAddressId": "8c95ff3f0dd3431e0XJ92t2-EFQ~",
+      "address": "杭州滨江区安恒大厦9楼",
+      "longitude": 120.228209,
+      "latitude": 30.209501,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f0881edca03f3a9a8b530beeae1f2ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18e53fbfbbee06d907edaafde3ea9854",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "压力测试",
+        "MySQL",
+        "计算机相关专业",
+        "测试工作经验",
+        "iOS/Android测试经验",
+        "linux",
+        "docker",
+        "熟悉web"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200915/0729854e678dd70bf4fd6b330e824082e877b66b4c5dcbe0985f43cef28_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "雷鹰战锤科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "49d64690b2f481181nR90ty1FlA~",
+      "brandName": "雷鹰战锤科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200731/af94449b69e94f88a54bd2ee315ddf2be877b66b4c5dcbe0985f43cef28bd2cb.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "雷鹰科技（ThunderHawkTech）是一家集分布式存储架构研究、云计算算法开发和高性能计算硬件设计制造为一体的高科技研发型公司。团队核心成员拥有8年区块链深耕从业经验，深谙区块链世界玩法和运转规则。技术团队核心成员横跨亚美欧三洲的区块链及算法研发和硬件公司，拥有产、学、研和开发集成的完整链条。",
+      "labels": [
+        "五险一金",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1721468178136,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "雷鹰战锤科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

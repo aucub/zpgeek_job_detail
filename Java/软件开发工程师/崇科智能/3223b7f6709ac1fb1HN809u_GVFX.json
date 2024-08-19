@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mqLGuPrZQQ_FE-F1yhcgZOpqoSs0KLs8sNsLRV9PfiuhhSRH0hnJp-oYfAK4krelL878joS07EUTjVACxmhljRTRNzGTBwCyntrIri17H7uSgVuM8AERYwVxIMauk45ZO8m-qf8ba-930A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3223b7f6709ac1fb1HN809u_GVFX",
+      "encryptUserId": "37f6a1622ee8dd3b03V-2Nu9FFA~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位说明：\n此岗位是自研开发岗，工作强度不高，但是难度和挑战却不小。在这里作为一名软件工程师，你的任务不再局限于几张表的增删改查，你需要考虑涉及整个系统各模块之间的数据和事件的控制流向，这对开发者的抽象能力是一个不小的考验。同时与硬件设备的对接，需要你能快速掌握不同领域的基础知识，你会接触到电子物理、信号学、声学等许多内容。想要收集硬件设备的数据，离不开基于tcp/蓝牙/串口等通信方式，从缓冲到存储，必须要灵活使用各种数据结构和设计模式才能保证稳定和性能。最后将数据渲染展示，使用openGL或者其他任意图形库，运用你学习的计算机图形学知识，把他们绘制到web和各种客户端上。如果你恰好对机器学习有所了解，还可以使用scikit-learn或tensorflow框架对数据进行训练，找到海量数据中的内在关联，实现对数据的分类分析和预测。\n一个人能同时掌握这些技术会是一件非常令人骄傲的事，只要你有足够的学习能力，并对追求技术充满热情，我们会提供一个良好的上升平台，让你在工作时间中学习提升自己，自由设计并施展你的所有想法。\n\n岗位职责：\n此岗位的工作内容大致分为两个方向：\n1.客户端方向，针对公司自研硬件仪器设备或供应商硬件，开发上位机控制客户端软件，包括安卓，windows，linux等;\n2.web方向，负责电力相关web系统的架构设计，模块开发、测试等工作，目前使用的技术栈为springboot;\n根据目前的项目，可能两个方向的工作内容都会接触，通常会涉及到通信、数据存储、数据渲染、数据上传等场景，所以在掌握基础的开发技术之外，还要求有快速学习的能力和灵活解决问题的思维方式，方便对接不同供应商硬件的接口实现二次开发。\n\n岗位要求：\n1.熟悉java或其他编程语言，具备扎实的编程基础;\n2.熟悉多线程、网络编程开发，对常见算法和数据格式的性能消耗有了解;\n3.拥有团队协作开发经验，能熟练使用常见的各种开发工具和框架;\n4.会使用搜索引擎或者大语言模型工具快速学习新技术、解决各种问题;\n5.拥有蓝牙开发、串口开发、机器学习开发经验，开源项目贡献者，了解计算机图形学，音视频编码算法等相关领域知识是加分项;\n6.有电力物联网、数字孪生/智慧城市开发经验，数学、编程相关竞赛获奖者优先。",
+      "encryptAddressId": "35d7ca95e2e7bda73nxy2d29FVo~",
+      "address": "杭州拱墅区天堂e谷3-118",
+      "longitude": 120.1077,
+      "latitude": 30.33683,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230502/48ba41acc9cef1bf1d022bdc0dcc17c367aeaed4f5741c3e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bf5abb7f78affbee3cfbc5ef740921459a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "SpringCloud",
+        "MySQL",
+        "不接受居家办公",
+        "物联网经验",
+        "微服务经验",
+        "架构设计经验",
+        "QT",
+        "Android",
+        "Springboot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "崇科智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2cf07538223b40561Xx-39W0E1Y~",
+      "brandName": "崇科智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230628/7b5b554d84f9729c51c3835c9de0745c96a547b655f0ba67e7c4cc219bf3b6833547b5a27c434c40.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "崇科智能科技（浙江）有限公司，自创立以来，始终致力于新能源、电力行业的科技创新与优质服务。我们专注于开发、生产和销售各类在线监测系统以及高精度的仪器仪表，以满足国内外新能源、电力系统的多元化需求。\n我们的研发团队汇聚了众多能源、电力和电子工程领域的精英，他们凭借深厚的专业知识和丰富的实践经验，不断推动产品的技术升级与创新。目前，我们已经成功开发出一系列具有高度自动化、智能化和精准度的在线监测设备和仪器仪表，广泛应用于发电、输电、配电和用电等各个环节。\n在生产方面，我们拥有先进的生产设备和严格的质量管理体系，确保每一件产产品都能达到最高的质量标准。同时，我们还建立了完善的售后服务体系，为客户提供及时、专业的技术支持和解决方案。\n在销售方面，我们积极拓展市场，与众多国内外知名电力企业建立了长期稳定定的合作关系。赢得了广大客户的信赖和好评。\n未来，崇科智能科技（浙江）有限公司将继续秉承“科技创新、质量至上、客户至上”的经营理念，不断提升产品技术水平和市场竞争力，为全球新能源、电力系统的稳定运行和可持续发展贡献更多的力量。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1723466376246,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "崇科智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

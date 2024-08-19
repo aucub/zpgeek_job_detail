@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Niy0MjGQRytLk-71bISHpATcQeDh0tctIhcRHxQR7E2YTrTSdms3aDkcajos6uCP8wUHWmzc9I0RL41ReWEhrlcAsxJ2xaaTOpICaDsSickq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d984fb9928f9db800XB909S5GA~~",
+      "encryptUserId": "dcea16a9408ec6e30Hd92NS-Fw~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "接受实习生，要求每周全勤到岗，不少于六个月，java基础扎实,计算机相关专业。\n岗位职责：\n1、根据设计文档或需求说明完成公司产品的代码编写、调试、测试和维护\n2、参与软件系统的设计和分析；\n3、分析并解决软件开发过程中的问题\n\n任职要求：\n1、1年以上JavaEE软件开发经验\n2、熟练掌握Html、CSS、Javascript、JSP、Servlet、Xml、jquery、ajax、json等JavaEE常用技术 \n3、熟练掌握SpringMVC、Hibernate等流行的技术框架\n4、熟练掌握编写SQL语句以及MySQL、PostgreSQL等任一种关系型数据库的使用\n5、能够有效分析并处理技术问题 \n6、具备良好的表达和沟通能力 \n7、具备极强的团队精神和合作精神，富有工作热情及责任感",
+      "encryptAddressId": "7a2badeb7b21bd0633J63d-9FFc~",
+      "address": "北京昌平区上奥世纪中心B座16层",
+      "longitude": 116.32968,
+      "latitude": 40.057295,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d71e0f0d4ffdcc4e55edfccd72bad264",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f46c72aefc7d89e4efcb137860995c0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MyBatis",
+        "Docker",
+        "MySQL",
+        "PostgreSQL",
+        "不接受居家办公",
+        "微服务经验",
+        "Web前端",
+        "数据库"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160428/e4df3a95ff93e804afe0cb47a23d79d5145a8a6a82d94c6c8d95889b11e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "怡美利康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "06a2dcd7597590481XBy2tu8",
+      "brandName": "怡美利康",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171208/c1fbfa4bf8a489454e5ca117b91ede8901004921acb6e882a441b525e7f2d7b8.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京怡美利康科技有限公司以APP定制开发为主，覆盖iPhone、iPad、Android原生平台及Hybrid App开发，提供成熟的HTML5 轻App解决方案，并在微信公众号开发上独僻新径，在微信上提供App式体验，真正实现了一个平台，多终端形态支持。\r\n\r\n作为中国移动科技企业的先驱，我们提出“应用为先，价值为本”全新理念，从市场潜在需求、消费体验的角度更深入地主导客户的品牌战略、产品战略，服务战略，为客户“管理信息”，也与客户建立了崭新深入的合作关系。\r\n\r\n公司核心人员均为移动互联网行业从业8年以上专家，硕士研究生以上比例占8成，专业铸就品质。\r\n\r\n随着移动互联网的高速发展，我们坚信移动互联网可以为企业带来更丰富的服务和利益，我们愿意和客户一道分享信息化进程中的优秀成果和商业价值。",
+      "labels": [],
+      "activeTime": 1721791262000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "怡美利康",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

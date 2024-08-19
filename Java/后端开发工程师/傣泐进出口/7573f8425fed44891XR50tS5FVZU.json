@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uf4BWAma2Licu-c1aRqGt_my6m1EITnA55X49UVkNqEBdkAr-0iOJmd3gYamb7LYjnKfHGdz4LpIg9cB3ZioA8hTt5NTzrH4Hiqmp6vMGnihWtdy3bUq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7573f8425fed44891XR50tS5FVZU",
+      "encryptUserId": "7c34f65fd49637631nV529q9E1BX",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290100,
+      "locationName": "昆明",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、有良好的数据结构算法、网络、数据库基础；\n2、会使用JAVA、PHP、Golang其中一种语言进行开发，Golang优先；\n3、会简单使用SQL进行CURD，排查数据库出现的问题；\n4、熟悉接口测试流程，熟悉HTTP协议，会写接口文档，会用Postman等接口测试工具；\n5、有高并发、分布式、微服务、容器化经验优先；",
+      "encryptAddressId": "545a5ea69282cbad03Ny0tm_FFc~",
+      "address": "昆明官渡区云南傣泐进出口有限公司",
+      "longitude": 102.739778,
+      "latitude": 25.012924,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/894c1a15ff9218e36df491a50005a6d0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32b46041b12cc102638ce36398e0763f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "岩先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200612/4651aca402011600fad39779f73e9668990ce97257df47a5c951bfb6cb9c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "傣泐进出口",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "55ed2ba468e4dbcc1n190tS1F1c~",
+      "brandName": "傣泐进出口",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100504,
+      "industryName": "进出口贸易",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464955185,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "傣泐进出口",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

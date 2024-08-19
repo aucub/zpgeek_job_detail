@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vPMasvD0eR0im-S13DojuY25XSb9jX0ZILB-blmV4vgEKXdPCLZ7A7f-14G4nhkQ1tkHZdIFDLlurkdcSIDlSzOhZerQf8aLiFR0MUXNHXmckdsHF1kW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b53df9771e128e5f1XV-2dW-E1FT",
+      "encryptUserId": "2b832918e113b11e0nd-3tq9F1ZY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101091000,
+      "locationName": "邯郸",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1 有3年以上开发经验，并熟练其中java/php/python/go/node.js 至少一门语言，熟练git，并拥有良好的开发习惯\n2 熟练mysql/psql/oracle等关系性数据库，并了解它的应用场景，索引和集群部署\n3 熟练redis，mongdb等非关系性数据库\n4 熟悉linux开发，环境部署\n5 了解并熟悉docker，k8s等微服务相关技术\n6 熟悉消息队列，如Rabbitmq，kafuka等\n7 熟悉tcp/udp，websockit等相关协议。\n9 有独立开发经验，并且熟悉线上环境部署\n\n对法律有业务有相关经验加分",
+      "encryptAddressId": "03bf19378ff28e5a03xy3dq4FVs~",
+      "address": "邯郸丛台区邯郸法易二楼",
+      "longitude": 114.519132,
+      "latitude": 36.655076,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66663be40cbff67b2ef3270ff3c6f9cc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf64ac167df89f63568980cd6409258c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "Python",
+        "微服务架构",
+        "容器技术",
+        "网络协议",
+        "消息队列",
+        "GIT",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220208/607f1f3d68754fd0d4f85f74c6b06909cc89e665248fc397babb26a3759c12d34b82afbc03c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "法易",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7797df69fe975a361nN-0t67FFA~",
+      "brandName": "法易",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230526/7b5b554d84f9729cf367f98e0c5f73b046cca40d9aae13acbabb26a3759c12d34b82afbc03cf6f09.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "一家全一家全国性的法律服务网络科技有限公司",
+      "labels": [],
+      "activeTime": 1724035726345,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "法易",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

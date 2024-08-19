@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "VkiZhiygVwg1A-B158DKm9HMmEpE5mfud-jxGQ_Y7rPhJKWeHfAY646DXHJAF8ztu9s_e31S0d8JGnUfwsgbbdb3voDO82J9DtmpoXW64Zxa6LXbVYY~",
+    "securityId": "HWo0BDlD9itfX-91MeIjC1aVv3FpY0XVPtwB4PVAEGZU3IFo0uV5ConGxf-q7wvQBfgN5bSMIU3MDCNvzaOShY6hUexAZbwVX5NaKKMrjVT8iFBA5mvsy3g1HCUCdyU6PlU-u3VcVFrNBzEGrj6p1Vk~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,9 +21,9 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "7-10K",
+      "salaryDesc": "6-10K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、参与后端服务的设计与开发，负责基于SpringBoot框架搭建微服务架构； \n2、进行模块功能的编码、单元测试和调试工作，确保代码质量与性能； \n3、深入理解业务需求，协同团队进行系统分析、设计及技术方案制定； \n4、负责持续优化现有系统的性能、安全性和稳定性，提升用户体验； \n5、遵循团队的开发流程和编码规范，编写清晰、高质量的代码文档。\n任职要求： \n1、教育背景：全日制二本及以上学历，计算机科学与技术、软件工程或相关专业毕业； \n2、工作经验：具有至少一年以上的Java开发经验，实际参与过SpringBoot项目的全生命周期开发；\n3、技术能力：\n熟练掌握Java语言，具备良好的编程习惯；\n熟练运用SpringBoot框架进行快速应用开发，了解其核心原理与最佳实践；\n熟悉RESTful API设计和开发，有一定的微服务架构设计与实施经验；\n具备MySQL、Oracle或其他关系型数据库的使用和优化经验，熟练编写SQL；\n理解前后端分离架构，熟悉HTML/CSS/JavaScript等前端技术优先；\n对Spring Cloud、Docker、Kubernetes等云原生技术有一定了解或实践经验者优先。\n加分项： \n1、有分布式系统、微服务架构等相关项目经验。 \n2、对Docker、Kubernetes等容器化技术有所了解和实践。 \n3、有大数据处理、机器学习等相关领域的经验。 \n\n注意事项：本岗位需要线下面试，异地者请勿投递。",
+      "postDescription": "岗位职责：\n1、参与后端服务的设计与开发，负责基于SpringBoot框架搭建微服务架构； \n2、进行模块功能的编码、单元测试和调试工作，确保代码质量与性能； \n3、深入理解业务需求，协同团队进行系统分析、设计及技术方案制定； \n4、负责持续优化现有系统的性能、安全性和稳定性，提升用户体验； \n5、遵循团队的开发流程和编码规范，编写清晰、高质量的代码文档。\n\n任职要求： \n1、教育背景：全日制二本及以上学历，计算机科学与技术、软件工程或相关专业毕业； \n2、工作经验：具有至少一年以上的Java开发经验，实际参与过SpringBoot项目的全生命周期开发；参与过人工智能大模型落地应用开发项目、有OpenCV计算机视觉和机器学习等方面的工作经验，对Python语言熟悉。\n3、技术能力：\n熟练掌握Java和Python语言，具备良好的编程习惯；\n熟练运用SpringBoot框架进行快速应用开发，了解其核心原理与最佳实践；\n熟悉RESTful API设计和开发，有一定的微服务架构设计与实施经验；\n具备MySQL、Oracle或其他关系型数据库的使用和优化经验，熟练编写SQL；\n理解前后端分离架构，熟悉HTML/CSS/JavaScript等前端技术优先；\n对Spring Cloud、Docker、Kubernetes等云原生技术有一定了解或实践经验者优先。\n加分项： \n1、有分布式系统、微服务架构等相关项目经验。 \n2、对Docker、Kubernetes等容器化技术有所了解和实践。 \n3、熟悉生成式大模型本地化部署，有大数据处理、机器学习等相关领域的经验。 \n\n注意事项：本岗位需要线下面试，异地者请勿投递。",
       "encryptAddressId": "32bc6775786653c033J_29W5EFFRw4S3Vvg~",
       "address": "南京玄武区玄策智能4楼b区",
       "longitude": 118.878082,
@@ -32,9 +32,17 @@
       "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240521/48ba41acc9cef1bf951f08955cc9079665d699e0cb66bc696bb61e3b7bce0931da574d19d1d82c88.png.webp",
       "overseasAddressList": [],
       "overseasInfo": null,
-      "showSkills": [],
+      "showSkills": [
+        "Java",
+        "Python",
+        "Docker",
+        "SpringCloud",
+        "不接受居家办公",
+        "MySQL",
+        "Oracle"
+      ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "陈女士",
@@ -42,7 +50,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "玄策",
       "bossSource": 0,
       "certificated": true,
@@ -69,7 +77,7 @@
         "交通补助",
         "零食下午茶"
       ],
-      "activeTime": 1721719340380,
+      "activeTime": 1724053683364,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "玄策",

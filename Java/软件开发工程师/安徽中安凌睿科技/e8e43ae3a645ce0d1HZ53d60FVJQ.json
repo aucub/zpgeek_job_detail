@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l03tTf_vueVdw-C1fpscPmW88JWsPvAYYPLlD8lW5D0OrsFPEBp9bwL1xfqZJS6MHlT_Wx9eZo6gqEFoagJuHRJ5SvHgOPLmKq27yt6QbcY73Ee4htlH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e8e43ae3a645ce0d1HZ53d60FVJQ",
+      "encryptUserId": "dfdc519565cf9a2a1nV_3N20GFZR",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与相关业务平台服务端需求研发工作；\n2、参与项目需求分析，方案设计及代码编写，以及输出开发过程各阶段对应的技术文档；\n3、在项目的调研、开发及验收过程中，及时与用户沟通。\n\n工作要求:\n1、专科及以上学历，1年及以上工作经验(部分优秀者可适当放宽)；\n2、Java基础扎实，掌握常用数据结构和算法，熟练运用软件设计模式；\n3、熟悉Spring、Mybatis等开源框架，熟悉关系型数据库、缓存、消息系统的设计及开发；\n4、熟悉Redis、Kafka、Es、Mysql等常用中间件的基本原理和使用方法；\n5、熟悉Linux相关操作，有环境部署、线上问题排查等经验；\n6、对技术有强烈的兴趣、喜欢钻研、具有良好的学习能力、沟通技能、团队合作能力，能够承担工作压力；\n7、有大数据经验者优先，有大型toB项目经验者优先；\n8、有网络安全产品研发经验者优先，有网络安全相关从业背景者优先。",
+      "encryptAddressId": "fa6a0e9941e4a1351nB62Nu0FVRT",
+      "address": "合肥蜀山区合肥国家大学科技园B503",
+      "longitude": 117.211182,
+      "latitude": 31.841098,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf19491c2970c59b872d4f98eb772c31906bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf81ec2a6c6d7ec4cc1f86b8e270c04b616bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "殷女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd08b45bc4a0e9e621bf7e32040f97d40db39627f64c48d07db446ed9fd4fe4d61_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "安徽中安凌睿科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b8c802778ad4e9931HV83tW0E1c~",
+      "brandName": "安徽中安凌睿科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721459500939,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安徽中安凌睿科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

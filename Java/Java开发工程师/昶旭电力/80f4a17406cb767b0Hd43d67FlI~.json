@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2zYGvEo4sJNW1-E1SLuqluR5UiEq1_CZf3HegDO8-qa8pvCmDQNU3k-7FWmG7c2lrHvALGkDAhsqTR6VIZSgY0I2_jy0G4-HO1wzTvYJ8rYO8mUG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "80f4a17406cb767b0Hd43d67FlI~",
+      "encryptUserId": "86cc51fb863911f81HN62d20E1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1. 负责公司产品后台技术框架的选型与搭建；\n2. 负责公司自有软件后台框架的设计和搭建、第三方中间件的选型。\n\n\n岗位任职要求:\n1. 计算机相关专业大专及以上学历，1年以上Java开发经验, 具备良好的软件设计开发理念；\n2. 熟悉SpringMVC、Spring、mybatis等开源框架；熟悉git、MAVEN、ANT等代码管理和项目构建工具；熟悉MySQL、PostgreSQL等常用数据库安装部署和使用。\n3. 熟悉LINUX,能够进行LINUX的日常维护,掌握/TOMCAT/JBOSS的服务器的设置与部署；\n4. 有分布式应用项目开发经验、大数据软件（hadoop、Hbase、Hive、Storm、Spark Streaming、flink等）使用经验者优先；\n5.无经验勿扰，谢谢",
+      "encryptAddressId": "212250978cfa06951H1z2NW8Fg~~",
+      "address": "杭州萧山区祥腾财富中心2栋1806室",
+      "longitude": 120.256345,
+      "latitude": 30.230296,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32fe0893b4a1c6e2f56e38957f460f35",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c708e1416a49e9e8fd40aa6b13f4256b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式技术",
+        "MVC开发",
+        "服务器配置",
+        "Spring",
+        "Hadoop",
+        "PostgreSQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "康先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "昶旭电力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "22f3975f94d6db4e1nN43tW4Fg~~",
+      "brandName": "昶旭电力",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190414/079d4211e71f32b0626743f78067186981c9ef2c0d2598bb69742c334a6ef8a3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "本公司是一家从事电力，消防，安防的高科技企业，依托清华大学，华中科技大学，武汉大学及电力科学研究院研发，生产，销售相关产品及从事技术服务",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721459517112,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昶旭电力",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

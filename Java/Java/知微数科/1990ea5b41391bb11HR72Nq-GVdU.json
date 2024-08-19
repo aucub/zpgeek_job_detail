@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hC99Owz4nWT79-L1ZlsrTcOFxbd9GJdXI8bKPp82HWmJ6HyAsodywRa7_leKajALv_Ul38EjrA_gPalNKTrThudBwRIwjW4cAlD6DFe8TUKIwHH7h84q_uoGh0FFAD3574dhbhso8mmVDA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1990ea5b41391bb11HR72Nq-GVdU",
+      "encryptUserId": "e8c41722a495788e0nV93NS_GVI~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责产品的设计、开发、维护等工作；\n2. 负责部分中间件/基础服务架构设计、性能优化工作。\n3. 参与核心代码开发，需要有很好的业务理解能力；\n4. 参与需求讨论和产品发展策略的讨论。\n职位描述： \n1、3-5年以上开发经验，有责任心，抗压能力强；\n2、具有扎实的Java基本功，包括JVM、类装载机制、多线程并发、IO、网络等；\n3、熟练掌握Spring、SpringMVC、Spring Boot、MyBatis、RabiitMQ、Redis、Zookeeper、maven等常见java框架； \n4、具备较好的数据库设计能力；\n5、熟悉MongoDB、MySQL数据库中一种，熟悉关系数据库应用设计开发，需有相关项目优化经验； \n6、熟悉有较熟悉Linux系统的使用，基本的Shell脚本编写，常见问题诊断工具的使用。\n7、具有较强的学习能力，研究能力和问题解决能力，热衷于新技术的学习和研究，有很强的团队协作精神和沟通能力。",
+      "encryptAddressId": "2dbcf74494591e471nRy2NW9FVZY",
+      "address": "杭州西湖区浙江省标准化研究院4号楼4楼",
+      "longitude": 120.129697,
+      "latitude": 30.272287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230804/48ba41acc9cef1bfbb52f9af205170e8b3edb95fcbdb5bb96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230804/48ba41acc9cef1bf6f0bb11275e26eed8d94c90712dcd6e36bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "接受居家办公",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "知微数科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2ba6526ca30b7581X143tW-GVA~",
+      "brandName": "知微数科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721447662953,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "知微数科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

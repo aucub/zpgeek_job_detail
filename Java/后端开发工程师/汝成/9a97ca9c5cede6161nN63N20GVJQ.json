@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gRGHIhZIuMtBN-21AcK_NaCCmfHHfzsYRq46cGdJkJpnPqPqdVl9nEHYMwBq3wLCZk60jag1IbzccqUfbgb9d4D9oOEOAf3q_msynQTdSozHt5QylcA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9a97ca9c5cede6161nN63N20GVJQ",
+      "encryptUserId": "781043811cfda6360Xx72d-8FlU~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责产品后端核心模块设计、开发、部署及框架优化工作，保障产品高性能、高可用；\n2.与前端开发人员配合，高质量完成产品后端开发工作；\n3. 参与解决项目中的技术难题，关键技术难点攻关。\n技能要求：\n1.熟悉主流框架SpringBoot、SpringCloud、Dubbo、Zookeeper、Redis等，了解到它的原理和机制;\n2.熟悉关系型数据库MySql；\n3.熟悉分布式系统的设计和应用、熟悉缓\n存、消息等机制;能对分布式常用技术进行合理应用，解决问题;\n4.熟练掌握网络框架，对网络通信、异步通信、高并发访问、负载均衡等技术有深入了解及实战;\n5.熟练使用git、gitlab；\n6.了解freemaker优先；\n7.了解el-admin框架优先；\n8.具有良好的编码习惯和开发文档的编写习惯，较强的自学能力和独立工作能力以及抗压能力，有解决复杂问题的能力与兴趣，有较强的协调沟通能力与团队精神。\n公司福利：五险一金、弹性工作日、不定期团队活动",
+      "encryptAddressId": "d858a9ec442145df0nd52tm-Ew~~",
+      "address": "杭州滨江区三花·江虹国际创意园6幢6E-506室",
+      "longitude": 120.20197,
+      "latitude": 30.191089,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81976d8fdc3bf44f56d1ca80fda14c28",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2f055426a222d5133c522111bd78c73",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Maven",
+        "中大型项目架构设计经验",
+        "架构师",
+        "Redis",
+        "SpringBoot",
+        "Spring",
+        "后端工程师",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "GIT",
+        "IDEA",
+        "MySQL",
+        "微服务架构",
+        "MyBatis",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190729/306abb6bad26eb48e399620335ec8d8f354e8dcc94b10cb85b159f2ad06_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "汝成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64e6616ddc4d84b41nx63dW9GFo~",
+      "brandName": "汝成",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "初创公司，目前公司刚搬到滨江，做的政府事业单位项目，目前正在扩招项目团队",
+      "labels": [],
+      "activeTime": 1721464388716,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汝成",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

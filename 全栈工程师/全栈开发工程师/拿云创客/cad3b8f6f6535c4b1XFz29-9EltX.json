@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k5RymRVJsKn7j-q16Vkv3QtyS56_21IDRJxQX9utJCRlCUj_53tSxFu4uq6V5Ycu01CeHzn5RZ6LlXiihv0CdyXxkKVLzF6GU4NeSYyzO_v_TKjt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cad3b8f6f6535c4b1XFz29-9EltX",
+      "encryptUserId": "13bc8a5b32157ec71HR-2dW0FVU~",
+      "invalidStatus": false,
+      "jobName": "全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "精通JAVA语言 熟练掌握ssm springboot mybatisPlus等流行框架\n熟练使用主流数据库 MySQL或oracle等，可以熟练编写sql语句\n熟练使用Linux命令，在Linux环境下进行安装部署,\n掌握redis 非关系型数据库的基本使用\n掌握git，maven 项目开发以及版本控制工具\n掌握 前端技术 javaScript,jQuery,html,css,vue 的基本使用\n了解 网络协议",
+      "encryptAddressId": "e726c71da32006910XNy2d-8F1Y~",
+      "address": "北京大兴区北京印刷学院大学科技园1104",
+      "longitude": 116.329889,
+      "latitude": 39.743619,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e244c09b961972a5ebd41f280133dade",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/999db065e2fc9aa8fd9a2f126ffbff88",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Java",
+        "MySQL/Redis/MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "衡先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170817/4cdd11d44b50e04cad25d9a557650f398c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "拿云创客",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "192ca531169f194e3nBy2du1",
+      "brandName": "拿云创客",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210223/6b8375330c5f44181f34c7ad4da48818b6a81a12ff634ed8a60c0f39b8d8ad8f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "公司的主营业务是软硬件产品开发，也从事机器人教育工作。欢迎有理想愿意加入创业团队的小伙伴一起奋斗！",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1721467122422,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拿云创客",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

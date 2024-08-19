@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5kBUc7e3yJcKW-11T8hUZrcEB-LUvRz1hLtqwDJVLuqa-iY5YAPmfVOtHcp9u9EO-TYlcgA75c2fYFxJwEf8fyAWHrNq4RqWuwLn7riLY2fo0Q5Y5QkqGniF1veDGN0-oam4SKdsv3S_yMg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7fb66e846efbffa41XN629--F1JS",
+      "encryptUserId": "be393bc3932027060nR82ty_EFNQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "欢迎投递 \n职位要求：\n1）本科或以上学历，2年以上Java开发经验\n2）熟悉Java， 基础扎实，熟练掌握常用Java技术框架，能编写高质量简洁清晰的代码\n3）对于Java基础技术体系（包括JVM、索引优化、多线程并发）有一定的掌握和应用经验\n4）良好的面向对象设计理解，熟悉面向对象设计原则，掌握设计模式及应用场景\n5）熟练掌握主流SQL，Mysql 、（Redis，MongoDB等）、缓存、消息机制、分布式架构\n6）熟悉底层中间件、分布式技术（包括缓存、消息系统、热部署等）\n7）有互联网行业高并发、高稳定可用性、高性能、大数据处理相关的开发、设计经验\n8）熟悉Spring/Spring Boot等各种开源框架，特别在Spring/Spring Boot领域有丰富的项目实践经验者优先",
+      "encryptAddressId": "f1285f519ecccad933Z62ti6FVc~",
+      "address": "杭州上城区杭州瑞丰国际商务大厦2102-1",
+      "longitude": 120.172681,
+      "latitude": 30.257517,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20563d3623ae949e539d4da76df7afc4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7ed2d82ea1eab6598314fd274c0a740",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "Redis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "java后端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "雷先生",
+      "title": "后端技术",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230314/607f1f3d68754fd099a59afc2e4c54949c0b60893324a93fe5f16acdf1d510df327783c3e4d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "泽涵电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e0916de9f41c30341XF_29i_EVA~",
+      "brandName": "泽涵电子",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230301/7bf6f160950405e9a12cbf4ce03aabe8f01123530c7a6816e5f16acdf1d510df327783c3e4d7908d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "主要负责完善企业内部系统",
+      "labels": [
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721447663271,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泽涵电子",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

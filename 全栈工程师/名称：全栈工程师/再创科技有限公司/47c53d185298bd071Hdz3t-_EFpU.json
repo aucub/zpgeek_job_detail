@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-JcTXLe67AO4i-A1ytZ8iGAUs4rrxvTGhD8bekYrF955Lp57m59aRqEb264hEmithAxRWr_LOHod-BzPbPu_ncIRdfniiUVa7bHZlFcNPIwMQM8vgdJK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "47c53d185298bd071Hdz3t-_EFpU",
+      "encryptUserId": "10b643a60a40d4510Xd80ti_F1JX",
+      "invalidStatus": false,
+      "jobName": "名称：全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101281700,
+      "locationName": "中山",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "基本要求\n1、计算机相关专业大专及以上学历，2年以上开发经验，前端经验要丰富的；\n2、有较强的学习能力，能通过持续学习完善自身。具有较强的抽象设计能力，思路清晰，善于思考，能独立分析和解决复杂问题；\n\n【前端技能】：\n1、熟悉使用vue2/3框架、原生js和面向对象编程；\n2、熟悉使用ajax/axios 实现数据交互, 熟悉各种跨域请求；\n3、熟悉使用git代码版本管理工具、各类插件的使用(postMan等);\n4、熟练掌握HTML、CSS、JavaScript、uni-app、es6、vue.js等前端技术；\n5、熟练使用Sass/Less预编译语言；\n6、熟悉微信小程序、H5开发，能够编写兼容不同设备和浏览器的代码优先。\n\n【后端技能】：\n1、熟练掌握Java领域常用的开源框架，如Springboot、SpringCloud、 Mybatis、Spring等；\n2、熟练掌握面向对象编程思想和常用设计模式；熟悉多线程编程，熟悉socket编程技术；\n3、熟练掌握常用数据库、消息中间件，如MySQL、Redis、Kafka等，并有开发经验；\n4、熟悉linux操作系统，了解Shell；\n5、熟悉处理高并发。",
+      "encryptAddressId": "2701c5ab949846b80nF72t-5ElNZxoq-WfM~",
+      "address": "中山中山职业技术学院创新楼七楼",
+      "longitude": 113.43257,
+      "latitude": 22.513381,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bfe18aea5e146a8597310784c1162ace666bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf438f9cbef1a03dc2859a78382f0b62c56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重前端",
+        "JavaScript",
+        "HTML",
+        "Vue",
+        "Java",
+        "Spring/Spring Boot",
+        "MySQL/Redis/MongoDB",
+        "计算机相关专业",
+        "全栈项目经验",
+        "前端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "傅先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd02ec22e21a58634cb5187407a06685fd05987275407123b2473fb5f3ce8a5582_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "再创科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e66f8b8c13b24b41HZz3tW6EVY~",
+      "brandName": "再创科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721467172749,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "再创科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

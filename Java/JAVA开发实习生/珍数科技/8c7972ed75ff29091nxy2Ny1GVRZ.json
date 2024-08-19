@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "t0a3mmtERKuuT-R1-VYTA0c3u0eNMI4h14uYWBYwFwNoFDuA51qaWKMY2SLVWiD4qokmYO-9G9Flev1PYzUhcRWzEGGeDLqVs7x9Bl3jJHqht74vQQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8c7972ed75ff29091nxy2Ny1GVRZ",
+      "encryptUserId": "79a50196ef48699b1HB93ty7FVo~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、  参与项目的需求分析、设计、开发及上线，及时解决项目中遇到的问题；\n\n2、  根据测试结果，可组织快速进行Bug的定位和修复；\n\n3、  分析并解决开发中遇到的问题，维护线上系统的稳定性； \n\n4、学习一些工作中需要用到的中间件或者框架。\n\n岗位要求：\n\n1、  本科及以上学历，计算机相关专业，JAVA基础扎实；\n\n2、  掌握J2EE体系结构，熟悉SpringBoot,Spring, Mybatis；\n\n3、  熟悉Maven,Git,IDEA等常用工具, 熟悉常用的Linux命令；\n\n4、  熟练掌握Mysql，熟悉基本sql的处理及优化；\n\n5、  熟悉常用的缓存Memcache或者Redis ；\n\n6、  具有良好的学习能力，沟通能力，有团队协作精神；\n\n7、 有较强的逻辑思维能力，责任心强，具备良好的问题分析解决能力，自我驱动型；",
+      "encryptAddressId": "5980d1c867841af903d83NW7Fw~~",
+      "address": "深圳广东省深圳市南山区聚创金谷创意园c栋4楼3A10",
+      "longitude": 113.950638,
+      "latitude": 22.57589,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc46d93718d658477d537c698b2029c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/55a18640a079e3d615717f8d60ea1bc9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "算法基础",
+        "SpringBoot",
+        "SSM",
+        "IDEA",
+        "GIT",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "段先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180225/8ea2253dc8b0ed061043df2194000b0ecfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "珍数科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b7367241da04a0f41nBy3ti_GQ~~",
+      "brandName": "珍数科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190830/2669ba2a1455bbdc17fd92abf71d54b9a5b98655aa2a10ee05d968fb32695514_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "珍数科技（深圳）有限公司是一家专注于移动端数字营销的公司，已和金融、地产、日化、智慧门店、手机等行业的头部客户建立了深度合作关系。\n在这里，既有互联网公司的开放和无限活力，又有toB企业的专业和严谨，扁平化管理，没有领导、只有伙伴，技术工程师占了公司人员总数的70%以上。有完整的技术架构，高效的工作流程，为公司的持续发展提供了保障。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "交通补助",
+        "有无线网",
+        "团建聚餐",
+        "保底工资",
+        "绩效奖金"
+      ],
+      "activeTime": 1721454731497,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "珍数科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3ZKFjRE9DePEm-Q1FHb970oiCdF9ALEuULdtaxcnEUKxx0ghzXy48igtXzUQVc3Q5c4tfbp61ijLE3EHyUQvV9qDX7bS4KlWMfCfzLPlIaTQl0ankFq_pMnBeqPIW4KGONjthQ4QHOmmC8I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "639a7d8f2f06a2531XB53du-EVFY",
+      "encryptUserId": "e98a8fca422d5dc90nF92di_F1pZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n1. 独立完成项目模块的系统分析、设计、并主导完成详细设计和编码任务；\n2. 负责关键技术的研究与攻关, 解决项目开发或产品研发中的技术难题；\n3. 与团队其他成员协作完成系统的联调、测试、部署、排障等工作。\n职位要求：\n1 计算机及软件相关专业本科及以上学历，2年以上软件开发工作经验，\n2 有扎实的JAVA基础，良好的编码习惯，熟练使用Spring、myBatis等常用JAVA框架；\n3 熟练运用数据库MySQL、SqlServer，理解数据库事务，并能进行数据库的数据结构设计；\n4 熟悉HTTPS、Web Socket、TCP/IP等网络协议，熟悉HTML5 CSS3 VUE等前端技术更佳；\n5 了解Docker、K8s、Helm、Jenkins、Git、Maven等面向容器的持续交付平台及工具；\n6 具有Linux上的开发经验，熟悉命令行，能够编写基本的Shell脚本；\n7 具备良好的沟通协调能力，工作积极主动认真负责富于团队精神；\n8 具有良好的自学能力和独立解决问题的能力。",
+      "encryptAddressId": "62ef1ec0353322e90X160tu4GFU~",
+      "address": "上海徐汇区东安花苑(北大门)1号楼1005室",
+      "longitude": 121.455322,
+      "latitude": 31.186317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc77f3e7e34491f16c4984d08add4691",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09a55adb34df5d5592cd50e9e04d2e9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "金榛",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dfe90e6f490fbbe21XZ92Ni9EVM~",
+      "brandName": "金榛",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721448756061,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金榛",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

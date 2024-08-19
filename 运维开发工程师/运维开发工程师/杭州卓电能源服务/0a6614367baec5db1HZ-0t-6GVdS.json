@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ySrbL6I07WxK3-l1CrdX579OipI0_vGve1fi_QLMJZL9Ntu_eIr549VvWi0y7QcwskXHoMVE3J8SPec0uvfvKIwwYvFfcaDUZ2W9f2sxuvd_UejK3g4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0a6614367baec5db1HZ-0t-6GVdS",
+      "encryptUserId": "aeb022bbd24d63d80nRy3ty5EFo~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、甲方驻场运维；\n2、负责甲方客户的IT技术支持服务，跟踪处理客户技术问题，以及收集客户提出的新需求。\n3、与用户建立并保持良好沟通，维持与客户之间的关系，提高客户满意度。\n岗位职责\n1、参与并负责系统运维及二次开发，协助处理生产系统问题及修复程序bug；\n2、根据开发进度和任务分配，完成相应模块的设计、开发及测试，独立部署相应模块；\n3、完成所负责模块的单元测试，撰写接口文档和其他设计交付文档；\n4、定期汇总、分析技术问题，对系统优化提出建议；\n5、根据项目负责人要求完成其他工作；\n任职要求\n1、学历及专业背景要求\na）大专及以上学历，计算机或电力相关专业优先；\nb）拥有中级及以上工程师资格认证，电力、经济、会计等相关专业优先。\nc）拥有电网行业开发经验优先。\n2、技术要求\na）1年及以上Java开发经验；\nb）做过电网产品或者系统优先考虑；\nc）熟练掌握JAVA语言和代码优化技能，熟悉SpringBoot、spring-cloud等框架；\nd）熟练掌握MySQL数据库，能够熟练使用日常开发用到的SQL和SQL优化；\ne）了解Redis等缓存技术；\nf）了解JQuery、JavaScript、Vue等前端技术；\ng）熟悉使用maven、git、SVN等项目管理工具；\nh）熟悉nginx基本语法和配置；\ni）了解Linux常用命令，懂系统日常运维流程及工具；\nj）能独立解决问题,有责任心,有良好的沟通能力和编码能力。\n3、岗位胜任素质要求\na）具备良好的团队协作精神、服从管理，工作态度严谨认真，富有责任心和抗压能力，良好的表达沟通能力，能够务实做事。\nb）有良好的代码书写、注释和单元测试习惯，对自己的编码质量有严格的要求。",
+      "encryptAddressId": "73af0d870cda759d0nB839S-E1ZXwIu7V_w~",
+      "address": "杭州利有商务大厦D座",
+      "longitude": 120.206844,
+      "latitude": 30.244347,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d82b9e9722691415149f726246b339ca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64af022233aea914fd443d332761f09d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "MySQL",
+        "计算机相关专业",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230320/607f1f3d68754fd0b228ac241f3a169eb46b8507e60532d098d1d3666bd8e67cb4b3ac41cd8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "杭州卓电能源服务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "68825bc3ed33d6201HVy2d67GFA~",
+      "brandName": "杭州卓电能源服务",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721467276777,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州卓电能源服务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8RITPew4OLQUe-11tR0ztJrZ0k04aULgLVkRAliS2kkalAYk6QOX0jwtB41jTpt78CDwvjVdCPqAvK6OAlCVxYkcMDu3X1aZ94_Q23u5G2K4PSRTjlcR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e4ed9ca3c266c0671HR72tu5EVpW",
+      "encryptUserId": "3c6ec352a1e77e261nZ73Ni_F1JY",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "注：此岗位为驻场工程师，工作地点在江苏宜兴，包吃包住。\n\n岗位职责：\r\n  1、负责ERP及生产管理系统项目的开发建设、方案设计和优化；；\r\n  2、利用快速开发框架重构和优化现有系统，满足业务高速发展，支撑高并发，保证所负责系统的稳定性、代码可扩展性；\r\n  3、独立、快速完成模块设计工作，完成高质量技术文档的编写；\r\n  4、完成项目日常的维护与新版本发布。\r\n  \n任职要求：\r\n  1、本科以上学历，应届毕业生；\r\n  2、熟悉Sping Boot/Spring Cloud等微服务框架和架构；\r\n  3、熟悉数据库开发，如MySQL，且在开发中注重数据库性能调优；\r\n  4、熟悉并使用redis技术；\r\n  5、熟悉使用前端框架vue、uniapp等技术优先；\r\n  6、有ERP、MES、物联网等相关项目经验者优先；\r\n  7、具有较强的抗压能力，工作积极主动。\r\n  8、良好的语言表达能力、沟通能力、较强的学习能力，主动意识强，较好的团队合作意识，工作态度认真细致，考虑问题全面深入，有强烈的责任心和敬业精神。",
+      "encryptAddressId": "147f1653bad93b851nRy2t-1GVBQ",
+      "address": "苏州常熟市常熟国家大学科技园10号3幢",
+      "longitude": 120.789513,
+      "latitude": 31.603591,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230426/48ba41acc9cef1bf5634f6836918def3557917d1a28d4b046bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230711/48ba41acc9cef1bfe2ded9a335962294b6887ea7dde140b66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "不接受居家办公",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韦先生",
+      "title": "COO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "掌上车间",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fd4a9cff76199c241nx92dy0EFs~",
+      "brandName": "掌上车间",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "自研项目，发展中，有成熟的产品",
+      "labels": [
+        "零食下午茶"
+      ],
+      "activeTime": 1722706590000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "掌上车间",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

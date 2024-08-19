@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZfISjQjA0Mh2r-n1vF5cO8y6RkuVf9b0W3MH3wBScHzC8NdYHEvNCo9NQyd5epVloa1xx7oIaaWfnG7BcO14ILUFB7Vp-pJQXgqq9LCcg6efbaAjCTmg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af4d2574647133fb1nN50ty9GVtT",
+      "encryptUserId": "b4b2068974978b5a0nVy0tq0FFdQ",
+      "invalidStatus": false,
+      "jobName": "软件开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "这个岗位招 青岛本地应聘者，有意者联系。\n平常不太看消息，所以一般直入主题，所以希望应聘者有什么了解的直接问就可，便于节省时间\n先电话电话面试！！\n\n具体要求：1.JAVA基础与算法功底扎实，精通面向对象分析，熟悉网络编程、多线程应用；\n2.熟悉JFinal/Spring Boot/Spring Cloud等开源框架；\n3.熟悉Linux/centos操作系统，能够使用日常操作命令，编写脚本；\n4.熟悉MySQL/Oracle/MongoDB数据库，熟悉数据库设计，维护与优化；\n5.熟悉Redis等的常用缓存技术；\n\n要求专科及以上学历，有软件开发经验。\n\n工作待遇：双休五险一金早8点半晚6点，有意者联系。",
+      "encryptAddressId": "fae39da9eaa214a90nB63d61E1VUwI68Uv0~",
+      "address": "青岛崂山区盛和大厦18",
+      "longitude": 120.453841,
+      "latitude": 36.099296,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7d7e0f2d05df257f4584764a199718e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/373fbafbba04d5ef149d4d74a2db6efd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "软件开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "葛女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210623/438ec1695c4b53bcd89bfc2ba48b06752f8bd58d45ce144212b1581da95_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "青岛东讯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e23413594dc5b2271nNy3t64ElM~",
+      "brandName": "青岛东讯",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723623192468,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛东讯",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

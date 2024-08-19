@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CcDkluLatmNjW-F1hLXXdtXlOmOiYFzId-EhkX2pwOxW7f75tnxYCNaHU7ctZViiWwjiFJljAuJuDah0Q5DO4bbkSvJfBZ4CBjixnqUxHlQ9uhFP0KI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f0c20470826090611HB63N28ElNX",
+      "encryptUserId": "9eb37e23b94b9e6a0nd929m4FFc~",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101050400,
+      "locationName": "佳木斯",
+      "experienceName": "经验不限",
+      "degreeName": "高中",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：【注意：岗位在黑龙江佳木斯，有宿舍】\n【注意：有培训机构学习经历的优先】\n【注意：没毕业的不招】\n1. 实习生可在这里学习，真实项目练习，有资深开发带，学习到可以工作的级别再转入正式开发。可以开实习证明。\n2. 实习生学历必须在高中及以上学历。\n3. 实习岗位可以0基础。\n4. 距离较远的需要已毕业，不然回学校太麻烦。\n岗位要求：\n1、高中以上学历，开发经验不限;\n2、良好的编程基础，熟悉jvm、缓存、分布式架构、消息中间件等核心技术；\n3、深入了Java Web及微服务相关技术，如Spring、SpringBoot、\n4、SpringCloud、Mybatis等。熟悉主流前端开发技术如Vue，Bootstrap等；\n5、良好的编码习惯，熟悉常用设计模式和重构方法。对代码质量有较高的自我要求",
+      "encryptAddressId": "15df76c2f6dafffd1nV50ti5ElRW",
+      "address": "佳木斯郊区佳天国际10号楼二单元102室",
+      "longitude": 130.240463,
+      "latitude": 46.800266,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bf3adbe1172375f090603f1703873397266bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bff45712267a557b69806a6e0ca26765ca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Tomcat",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "开发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "佳木斯市郊区云影...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "983a036350bc698c1X192N61EFo~",
+      "brandName": "佳木斯市郊区云影...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723972941987,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳木斯市郊区云影...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

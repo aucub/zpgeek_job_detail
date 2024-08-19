@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6iJX5x_zmzX7j-H1APogQZNx58CThByuNIIatc840Tw6r9c7LE0VMnMnCtOyBHAEWBJkfUNh-Br31rF8lW5kSIN_G6IlCPiap1-deRjJMzL1QQjt_7L4yVCDHgETfF2ysrM435hk0jvgzg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aa98d54e1a9cceec1Hd409S4F1tT",
+      "encryptUserId": "9fc3d8fff2fa924c1Hd42N65FVY~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责游戏服务端框架搭建，部署，安全，优化。\n2、负责游戏产品后端功能模块的设计、开发，并编写对应文档。\n3、与游戏前端配合，实现前端和后端的数据交互。\n\n岗位要求：\n1.熟练使用linux，熟练Java语言，熟练使用ruoyi-vue-Plus（我们后端在用的框架）ruoyi有很多版本，SpringBoot，SpringCloud，SpringMVC等框架，宝塔搭建，对阿里云服务器中度熟练使用。\n2.熟练数据库mysql。\n3、具有良好的面向对象思想，熟悉常用的数据结构，算法，设计模式;\n4、熟悉高并发网络编程和多线程编程（这个要熟悉，不用熟练）;\n5、了解低代码 云开发\n6、拒绝屎山代码！拒绝无注释！拒绝...！拒绝摆烂躺平，话就到这里了，想好好做事情。欢迎！\n7、有责任心、团队协作意识，良好的沟通能力与表达能力，能承担工作压力，主动性强。\n特别注解：\n1、此岗位工作内容重点就是主要实现游戏服务端的各种业务。\n2、此岗位业务需求不是很多很杂，我们是小游戏，小型的服务端。\n4、后端主要就是实现与前端的数据回调；用户管理、微信提现、积分系统、分销系统、结算系统、风控系统（针对异常手机ID设备号网络IP等各种数据进行自动手动检测限制等等，只是举了些最简单的常人能想到的，主要是防止假用户进行薅羊毛，当然也有可能你过往工作中根本接触不到，甚至网络服务器都没接触多少）。\n以上注释已经是大白话了，要求就是这些了，如果还是懵，就....",
+      "encryptAddressId": "a701e9306098f64a3nFy2d61Elo~",
+      "address": "杭州上城区金龙中心B座4-410室",
+      "longitude": 120.216609,
+      "latitude": 30.298778,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf24bc4d670e2a2a105f641ac86534ca216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3490bf5abf5c60cd7e0c5af023b04e986bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "游戏后端经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd07952fb1b40528091a11db6249ada4ab229a39be0ca0a63a2505a015dc0b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州将游网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b4d3b4bc1494acbf1Xx729m-EFE~",
+      "brandName": "杭州将游网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230613/7bf6f160950405e99a6b826fee7792210b4b6749fd45da3f29a39be0ca0a63a2505a015dc0b06216.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州将游网络科技有限公司；是一家致力于精品游戏开发和运营的公司。\n将游核心成员，有来自福建网龙天晴数码的游戏制作达人，和其他知名厂商制作团队，目前公司主要经营范围为休闲类游戏，致力于打造各种风格的卡通休闲玩法，以国际化创新品类游戏为核心，深耕产品研发运营，形成完整的精品矩阵征程。",
+      "labels": [
+        "年终奖"
+      ],
+      "activeTime": 1724038580966,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州将游网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

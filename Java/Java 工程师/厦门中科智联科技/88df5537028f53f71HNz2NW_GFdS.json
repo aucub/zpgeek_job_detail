@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eIDATzhek8v14-s1AyCkq4rAJLrYTyeC5guwWo0S7HEH3R27dDHtGS0XZF7V8ARZCwPjN2_Jl2fnj-KXSKyOLQbU1cUZ7JPZavoaz-rYL1i4p1OaXjt_Cdb3kIIp1ddmFjAygVC2JMFnDr4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88df5537028f53f71HNz2NW_GFdS",
+      "encryptUserId": "c59e4b02f61a40140Xd83d27GFtS",
+      "invalidStatus": false,
+      "jobName": "Java 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 参与公司对外产品的前后端基础架构的设计与实现，提供稳定可靠的服务\n2. 负责软件部分模块数据库设计、代码维护和软件代码编写；\n\n任职要求：\n 解决问题能力强，一年以上工作作经验，大专及以上学历，精通Java，熟悉SpringBoot、SpringCloud、mybatis\n熟悉redis、kafka、MariaDB、mongodb、hadoop、spark、ElasticSearch等大数据技术者优先考虑；\n3、熟悉docker 等容器技术并有实际使用经验者优先考虑；\n3. 熟悉各种Web前端技术，包括但不限于Html5、Vue、React、NodeJS、等；熟悉常用前端框架（Element、\nvant 、uni-app） 熟悉前端工程化及组件化开发模式\n4. 掌握 Redis、MySQL 等存储系统原理及应用\n5. 熟悉 Restful API 接口架构设计理念\n6. 熟悉小程序开发；\n7. 有良好的代码习惯，代码注释清晰，团队沟通能力强，熟练使用Git。\n8. 具备抗压能力，可承受一定的工作压力并在指定的时间内完成高质量的程序\n9. 熟悉常用linux操作\n10. 良好的编程习惯，熟悉常用的设计模式和敏捷开发流程\n11. 钻研和创新精神强,团队合作精神强。有上进心，良好的自我驱动能力和强烈的责任感。良好的沟通能力，团队合作能力\n专业知识要求：\n1、信息系统/计算机/通讯等相关专业，专科及以上学历者优先考虑；\n2、掌握常见的数据结构、设计模式，了解软件工程、敏捷开发等知识；\n3、掌握了解操作系统、网络通信等基本知识。",
+      "encryptAddressId": "39aa1e8984817c431nV93Nu1EVZSwIq8Uf6e",
+      "address": "厦门湖里区蓉毅达7楼",
+      "longitude": 118.15486,
+      "latitude": 24.510002,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57c90370a5a58146ba1d5cd5a69ad6e2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72a15d509807c18d66fa5d4423d56d4d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "物联网经验",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "项目总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "厦门中科智联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "680f77dd33bd2b081HB93d27GVA~",
+      "brandName": "厦门中科智联科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724006514497,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "厦门中科智联科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Xi1LCqAGvQciF-j1D0EWI-GesmP8A8A06L_-h3EfUbA3D7banZQyFmWrKsXmkrxn6ZjU6BGdpdehgni7Q2Lw1ztpRkOMKKIF0ZTgnodm4AaDFiLEcRjxLdiijDW02BTH1BB8WptSqmuV6p8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1e4afc96b55d480e1XB-3NS6GVtY",
+      "encryptUserId": "205a5054a1d501390nFy2dm-F1NU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n岗位职责：\n1、按照工作进度和编程规范实现模块功能；\n2、负责系统bug、功能修复以及系统性能优化；\n3、针对客户提出的需求变更进行定制化开发和修改；\n4、能配合项目需求的变化及项目进度安排，保质保量完成既定的工作目标\n\n任职要求\n1、至少1年以上JAVA开发的经验；\n2、熟悉Maven、Git、Idea等开发部署工具；\n3、熟练掌握Tomcat、Nginx等应用服务器的使用和配置；\n4、熟悉SpringBoot、SpringCloud、SpringCloud Ali等微服务框架；\n5、熟悉Spring、SpringMVC、MyBatis等框架；\n6、了解框架底层原理并熟练应用；\n7、JAVA基础扎实，理解I0、多线程、集合等基础框架，熟悉JVM；\n8、vue、Ajax、CSS、JQuery等Web前端技术\n9、具有良好的学习能力、沟通能力，和团队合作精神。\n\n公司福利\n1、五险一金保障体系；\n3、居家办公、节假日福利、聚餐不断；\n5、舒适温馨充满人文关怀的办公环境（可选择居家办公）。",
+      "encryptAddressId": "25dbd2b7321c305e0X1_3N-_FVM~",
+      "address": "杭州拱墅区武林壹号A区居家办公",
+      "longitude": 120.157176,
+      "latitude": 30.278354,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e1795b8a0ad0d4590d6a4c11807e8a5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad03cc1c3409ffacdb293e2cc64a7699",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "波牛",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "72e53cc0054666ef1XZy3t27GVo~",
+      "brandName": "波牛",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447755174,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "波牛",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

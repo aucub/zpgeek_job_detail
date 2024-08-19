@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "G5cQVVZJxp5gi-M1RGQwRhz8nYvrueipjssMx8Za23R_T-HhNQbbqEhz6ILJGxaO1RCv-fYOEED-V_OocmkAsHh7qReBAOMUlDNxCZEjUHVEIBI1HY8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "175211a2c1f9f7f31XR_0tu4FlJU",
+      "encryptUserId": "4d9117d3d804357c1XR93t24E1Q~",
+      "invalidStatus": false,
+      "jobName": "Python后端开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、与产品和前端团队合作，负责Saas产品后端服务的设计、架构、测试、优化与迭代；\n2、主动发现产品中存在的问题，提出改进方案并落地；\n3、独立工作并主动解决问题和错误。\n\n基本要求：\n1、计算机相关或者信息安全相关专业毕业；\n2、熟练掌握Python，熟悉Fastapi相关技术栈;\n3、熟练掌握阿里云等云服务器部署；\n4、熟练使用MySQL数据库开发业务；\n5、熟练使用docker进行容器化部署；\n6、熟悉Linux/Window的日常操作，有问题分析的经验和能力；\n7、扎实的数据结构以及代码编写功底，有良好的编码习惯。",
+      "encryptAddressId": "c11896735de9c9091nN909i8EFE~",
+      "address": "上海松江区乐都大厦(西南门)9楼J座",
+      "longitude": 121.233235,
+      "latitude": 31.012727,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ccc8d3fc51f4017a5ee92e66e5e0743",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/035570507033df3802c2f7e8231aa5f0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "负载均衡技术",
+        "服务器配置",
+        "容器技术",
+        "数据结构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221012/607f1f3d68754fd067b0521046495e3650872ba03e8737d11b26343c56c18ddbf938d89b556_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "职愿互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a942774855dd37cf1nF52du6EVc~",
+      "brandName": "职愿互联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220314/7bf6f160950405e9c9e073e0678bc28cf01670279201685d1b26343c56c18ddbf938d89b55665f8d.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "上海职愿互联科技有限公司是一家专注于数字凭证领域的服务提供商，公司为众多知名企业提供数字凭证领域的综合解决方案。公司由长江商学院校友、国内国外知名院校博士创建，目前公司正在进入令人兴奋的成长阶段，并希望建立一只专业、可靠且高效的团队。\n职愿互联的新数字凭证标准，以数字证书及微章的创建、发布和认证技术为服务平台，为任何个人、组织或者团体提供数字凭证服务。搭建的开放微章架构（Open Microbadge Infrastructure)是基于互联网发布和共享数字凭证作为技术框架，来独立支持凭证的获得者、发布人和展示者，包括元数据规范、APIs、认证框架和背包收藏等模块功能。\n承载社会信誉，我们坚信将数字凭证作为“新数字经济”投入持续地研究和开发！",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "夜班补助",
+        "加班补助",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1723991810296,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "职愿互联",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

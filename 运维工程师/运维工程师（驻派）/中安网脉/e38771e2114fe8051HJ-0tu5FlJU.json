@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "yJORlFZiwlTYg-01WzxdTQWPDhsOzQwYcaH9Mhm4RSTFaTLwF9a1RPKIs8r0ALYY4oSwmqs3zB5IpOUzaLcV2g0sGkmAdJ19MgC4xAnRMil5gfRO",
+    "securityId": "8n-dzUeGDOW2S-U1ye2aVfIXZFNJEm7rOWnDYdrB4g2H8rw8RBlRaXfKq945D7KXNhOOOfJRYCYiBvQiTgJI0wzww-VtqtKFVS7lgY-ONqP2R6X-ihHJxpJ0KFNBHD97GFGiRPrAi70STgzW34kE3wDnNT6w3JPsyEo2PMqfzjvn20ickxLmO49t230~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170209/47c11a7e55494a7c8b794e42d004259d8c7dd922ad47494fc02c388e12c_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "中安网脉",
       "bossSource": 0,
       "certificated": true,
@@ -74,7 +74,7 @@
         "交通补助",
         "节日福利"
       ],
-      "activeTime": 1722833769876,
+      "activeTime": 1724049298978,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中安网脉",
@@ -83,7 +83,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": false,
+      "canSendResume": true,
       "canSendPhone": false,
       "canSendWechat": false
     },

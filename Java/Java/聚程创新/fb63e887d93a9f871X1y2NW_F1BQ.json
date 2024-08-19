@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_Cb1rpwawyjlX-D1bEChiC9mxjb8m80ZFsqV8P-SLzzFOvk3oTHII_u98NBFkZoDx0wanb9SbfdhY2ZmvFz4Vu2OJ5ztp1BAsCXCw0DypMQBPdfVfAAZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fb63e887d93a9f871X1y2NW_F1BQ",
+      "encryptUserId": "e0b5de3c5a9b96371nV829i-EVpX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "【职位描述】1、根据需求和设计文档，完成业务代码编写及测试，维护相关文档；\n2、维护和优化现有系统，发现/修复bug，提升性能，增强稳定性；\n3、能主动参与到项目的调研/分析/设计/研发/测试/部署等各个阶段，推动项目进度实施。\n【任职要求】\n1、专科及以上学历，计算机或相关专业，三年以上开发工作经验；\n2、熟练Spring、SpringBoot、SpringMVC、Mybatis；\n3、熟练任意一款消息中间件Kafka、rabbitMq、rocketMq等；\n4、熟练SQL基本语法和常见优化策略，熟练至少一种SQL/NoSQL数据库；\n5、熟练分布式系统的设计和应用，有多线程、高并发应用开发经验优先；\n6、理解产品需求，有一定的系统抽象和设计能力；",
+      "encryptAddressId": "dd8f5a66cdfc83341nV-2Nm_GFNS",
+      "address": "长沙雨花区中建·嘉和城1",
+      "longitude": 113.049754,
+      "latitude": 28.092801,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfbcfad6dd4e6fcca02166462208beec416bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf794b693fe6caf5eed04051c5264d9c016bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "架构师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "廖先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0bcd04cd7b2b02356fd48764a64c54c68bace748cee893b1d91c00ab45d6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "聚程创新",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "41f36739e745ca331Xx_3Nu6Flc~",
+      "brandName": "聚程创新",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "全勤奖",
+        "绩效奖金",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721461915495,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "聚程创新",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

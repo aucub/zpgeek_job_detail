@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k2sMZCur7gf1N-t1JbbLM8NGcnkKAQd_lBROy6270ZCAQDk-TEnhxc7KCMWLRJMsTjB5J1xpZzaxBwr8HqZFK5XA89MjVnHBqN0SobvY9aAafLpZySVc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d6fe1044204bb2651nJy2NW4FlFR",
+      "encryptUserId": "097f8d66835eca291nRz3ti0FFtR",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "技术要求：\n1.精通Java基础知识、熟练多线程编程、了解同步容器与并发容器；\n2.熟练掌握Spring、SpringMvc、SpringBoot等开发框架；\n3.熟练掌握nginx、redis、mq、quatrz、shiro、tomcat等技术及使用；\n4.熟练至少一种数据库开发与设计如mysql；\n5.熟悉linux基础命令；\n6.了解SpringCloud\n\n任职资格：\n1.本科或以上学历，计算机或相关专业，相关互联网公司工作经验；\n2. 熟悉APP、小程序以及公众号开发；\n3.责任心强，具备良好的团队合作精神和承受压力的能力。\n\n公司福利\n1. 试用期3个月，薪资按照70%发放\n2. 五险一金\n3. 双休，国家法定节假日休息\n4. 工作满一年，5个工作日带薪年假\n5. 节日以及其他福利",
+      "encryptAddressId": "0f2cd27e4640bc5f33J53ty-Eg~~",
+      "address": "西安雁塔区亮丽商务综合楼2号楼1702",
+      "longitude": 108.899171,
+      "latitude": 34.240929,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00841f8e1af41c9a47f2bf75e51f9fb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22ca9fa0c9b7745cdc532024051f8d22",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "分布式技术",
+        "微服务架构",
+        "MySQL",
+        "后端开发",
+        "中级软件工程师",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人力经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "陕西吾信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a4e63e8fb22169e01nx43d25ElE~",
+      "brandName": "陕西吾信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464955336,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西吾信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s7FXrA95Bm8kQ-r1e6Qo8dlDU-D72pQeTCeU-oAyUzmccvTqWRRPiy2E97SZY-K7G-80I3u86JZDycvPlSwiJbXwRxyoK_YQEPIDgQWfk7nmOtc5mQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3cdae2266cbda6d21nF63di7EVRU",
+      "encryptUserId": "0dcf0815c9d3d96f1nZ629W6F1ZZ",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "其他：岗位职责：\n1、负责公司平台网站的后端web项目自动化部署与维护；\n2、负责服务器linux系统的优化；\n3、负责前端nginx的访问规则加速优化；\n4、负责维护系统安全、网络安全，处理网络及计算机故障，处理紧急突发的安全事件；\n5、负责系统数据库（mysql、mongo、redis）的部署与优化；\n6、运用zabbix、nagios对运维项目系统监控、应用监控；\n7．对现有系统进行优化和重构，线下和线上架构的规划。\n\n岗位要求：\n1、精通linux系统；\n2、熟悉svn、resin、jenkins、nginx、dns等部署与优化；\n3、熟悉nagios、zabbix监控；\n4、熟悉mysql、mongodb数据库；\n5、勤劳踏实，灵活，有一定的吃苦耐心。",
+      "encryptAddressId": "85e79824cdc4a68b1Hdy2NW0EVY~",
+      "address": "广州天河区珠光·NT空间302",
+      "longitude": 113.348271,
+      "latitude": 23.116688,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b5303355886e445a9639a9845cc12b2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0eab162a39b6d6cea5dadace08beb2e9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化运维",
+        "服务器配置",
+        "Linux",
+        "Nginx",
+        "Jenkins",
+        "Zabbix",
+        "Nagios",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200729/d845dcef1aa7570efd3a0f2bd2e6e2795eebac6e6fcbddecd50cd0353c4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "勤加缘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "05401f93b90292751HR-0t-4",
+      "brandName": "勤加缘",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191119/19e4f04c93282e2c909da0fc8eca07fc110a866f29f84a0aed92afd0981b200e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "勤加缘公司成立于2000年，是一家知名的互联网企业，旗下运营www.qjy168.com电商平台等互联网项目。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "零食下午茶"
+      ],
+      "activeTime": 1721467410426,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "勤加缘",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

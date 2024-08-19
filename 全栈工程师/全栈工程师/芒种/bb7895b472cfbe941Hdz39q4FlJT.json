@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rLUUoJrjbCqBS-O1W0tbTL1geX7H8baSOjh7SMwqd74QPzCfUJyaO2dgJewYE-dEbneTHkp8dOsrkKTBRohp33BL1tHaI6ofKQDpIYrLLJU01SVxXg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bb7895b472cfbe941Hdz39q4FlJT",
+      "encryptUserId": "5be54f5a81ddbbb31Hd83tS5FFY~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、按产品或项目需求进行代码开发及迭代跟进，能独立完成模块分析设计工作；\n2、根据需求说明完成软件概要及详细设计文档，根据框架及开发规范解决项目中技术难点；\n4、根据项目需优化功能点设计方案并开发、自测及相关文档，交付质量高；\n5、配合需求工程师与客户沟通方案，良好的参与团队协作，共同达成任务目标；\n\n岗位要求：\n1、具有Java及Web应用软件开发经验，熟知软件开发流程如敏捷开发等；\n2、熟练应用Spring,SpringMVC,SpringBoot,Spring Cloud,Mybatis框架，理解其运作原理；\n3、熟悉基本的HTML/CSS/JS/jQuery/AJAX/Vue等前端相关知识，具备独立开发页面的能力，并会uniapp开发的优先；\n4、熟练svn,git等版本管理工具，能快速适应工作环境，有责任心、有想法、抗压及接受能力强；\n5、有高并发、高负载、高可用，分布式、集群系统开发经验优先。\n6、良好的沟通理解能力及团队合作能力、能够与周边良好协作、推动项目落地，责任心强；\n7、本科及以上学历，计算机或软件相关专业，技术优秀者可适当放宽条件",
+      "encryptAddressId": "ebd593395dab4b161nBy09W6FlM~",
+      "address": "苏州吴中区腾飞苏州创新园AA1栋1107室",
+      "longitude": 120.733799,
+      "latitude": 31.254292,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/342449a7c27b753f2c07a6a2d00c4994",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/65abe3b9367443b48dde57a3cb3217be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Vue",
+        "JavaScript",
+        "MySQL/Redis/MongoDB",
+        "Spring/Spring Boot",
+        "全栈项目经验",
+        "后端开发经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "薛先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "芒种",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9aa5b83bce177f151HV43dW0EA~~",
+      "brandName": "芒种",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201102/51b1556902e6b14f5f262d4d3af37423f1f17c9408be8a16f502fdd5c4691583_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "物联网行业研发公司",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724054685550,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "芒种",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

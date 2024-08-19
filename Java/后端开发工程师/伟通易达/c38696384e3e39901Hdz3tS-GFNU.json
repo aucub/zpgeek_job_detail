@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "etIjM6Rvy22oE-l1tq64Shyyri8cMOywbi6ePA7usEkcwKyKJ_3UQ4oeTTLK4NV9w9X6BLMsD9ZhgkxHyVC19pSo_q5GUcL3g4HpA0gHaZnFfR3-mQs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c38696384e3e39901Hdz3tS-GFNU",
+      "encryptUserId": "ad8e1b09991e79891nZ_09y5FVo~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290100,
+      "locationName": "昆明",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n\n1、参与需求评审、技术评审，以及系统架构设计和数据库设计工作，完善相关技术文档；\n2、完成模块接口和服务等开发与编码工作；\n3、能够做自动测试模块,按项目要求保质保量交付任务；\n4、参与核心模块的设计与开发,解决疑难问题；\n\n任职资格\n1、熟悉Spring boot，Spring cloud，SpringMVC，熟悉Mybatis，Hibernate，Spring Data Jpa等主流ORM框架；\n2、熟悉设计模式，单元测试，深刻理解OOP/OOD，多线程等、算法/数据结构，并且了解其原理\n3、熟悉Maven使用，熟悉Git/SVN代码管理；熟悉Nginx/Tomcat；\n4、至少熟练一种主流关系型数据库Mysql/Oracle/SqlServer等，有MySql集群管理经验者优先；\n5、至少熟悉一种NOSQL数据库，例如：Memcache、Redis、MonogoDB等； \n6、有物联网开发、物联网协议与平台开发经验加分；  \n7、有消息中间件、RPC框架、数据层缓存、性能优化等相关技术经验者加分；\n8、有分布式、微服务架构、Kubernetes、Docker、istio经验者加分；\n9、有Activiti、Camunda等工作流引擎开发经验加分；\n10、有Netty开发经验者的加分；\n11、有Flink、Spark、Hbase、Kafka大数据开发经验者加分；\n12、有良好的团队合作能力，自我驱动，对新技术保持热情开放态度并能持续不断学习。",
+      "encryptAddressId": "2f3038e7b72aa31b1nZz39S1GVZR",
+      "address": "昆明五华区云南伟通易达科技有限公司29楼",
+      "longitude": 102.647117,
+      "latitude": 25.077846,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231019/48ba41acc9cef1bf3d165eeeb464dd20321b26ca858414b86bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231019/48ba41acc9cef1bf97de8c95895bdd2b2a821ec964be5d086bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "MES开发经验",
+        "Java",
+        "不接受居家办公",
+        "Tomcat",
+        "团队管理经验",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "架构设计经验",
+        "Spring",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "靳先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "伟通易达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "da218e6305ad2e911XJy39-1FlM~",
+      "brandName": "伟通易达",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721464940160,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "伟通易达",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

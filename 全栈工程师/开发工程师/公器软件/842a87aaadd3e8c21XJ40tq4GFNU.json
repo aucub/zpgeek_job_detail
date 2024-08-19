@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DKGz9JCWsHpQf-g1BmOrYRSadhq0KiRjoVYPtCrAQVTFBahrSZabgGWJIeQ84UxnBTCP551yREcKd9tYTQ9kII1J-Y9qduIUgdEhAePvEMYBs3JvtBbS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "842a87aaadd3e8c21XJ40tq4GFNU",
+      "encryptUserId": "2f360ad986587f3b0nN_2N29FFVZ",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.对产品需求进行技术分析，快速实现前端界面，优化代码并保持良 好兼容性；\n2.负责前端框架的搭建与 Web 后台服务程序的开发；\n3.持续改进当前产品的前/后端功能，优化性能，改善访问体验。\n\n岗位要求：\n1.计算机、通信、数学、物理等理工专业的在校生/应届生\n2.相关技术能力：\n熟悉至少一种主流前端框架和后端Thinkphp框架；\n熟悉PHP语言；\n熟悉HTTP协议并了解RESTFUL规范，熟悉至少一种关系型数据库与非关系型数据库；\n3.技术栈相关：\n后端技术栈：CodeIgniter，Thinkphp，MySQL，Redis，Nginx，Git\n前端技术栈：HTML，CSS，JavaScript，jQuery，jqGrid\n交互技术栈：Ajax\n4.有app/小程序/微应用之一的开发经验优先；\n5.学习能力强，工作认真细致。\n\n薪酬范围8000-10000",
+      "encryptAddressId": "f4e827a2b8c8875c0Hx42Nm4FlA~",
+      "address": "杭州西湖区联合大厦A座3单元506室",
+      "longitude": 120.097954,
+      "latitude": 30.265456,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57fd887881ef0eb78cdcc5aa0931f74c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccb834638b6ca7abe358c0d3069e6e29",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重",
+        "CSS",
+        "HTML",
+        "PHP",
+        "Python",
+        "计算机相关专业",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "公器软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d6f046d2b09b8981XB829q1EVo~",
+      "brandName": "公器软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230129/7bf6f160950405e9c7c6688bf6fdfaf1d668f012d56d6c6d01b3c31fc4a95406fa12f556ec1d6a7b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "杭州公器软件有限公司是道贞集团旗下子公司，在财务和管理咨询领域，提供企业级应用（APP）、小程序、系统软件设计与开发，销售及实施的服务。",
+      "labels": [
+        "交通补助",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723012259000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "公器软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

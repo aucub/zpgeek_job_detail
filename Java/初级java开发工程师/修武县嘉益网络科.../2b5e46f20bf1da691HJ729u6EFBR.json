@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ULjUvmjSu5JZk-_14SpF5xkwwDPolBrKT0LxcWAYLnBYjFXo9Jgoq7w7UxrWFNniA6LMmcoi1jfCnyZccu5n-EBXdOQ5XoYMNY3Ge7-jaQoe8oxkFZyB",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b5e46f20bf1da691HJ729u6EFBR",
+      "encryptUserId": "22a7f49c6858cb210nV429S5EVZR",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101181100,
+      "locationName": "焦作",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "需要熟练掌握springboot mybatisplus mybatis\nspring springmvc要深度理解，并且会使用\nservlet jdbc jsp也要理解透彻\nvue最好会",
+      "encryptAddressId": "221b65543ef99e6d1nd43t-5FVtT",
+      "address": "焦作解放区焦作地理信息产业园1",
+      "longitude": 113.209489,
+      "latitude": 35.245974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bfeefa1089cb481bf7bef86b3bf0ee94276bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfaa193d6b92b4f3177c2e91564de3a7986bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210601/4a5da5eabf328fb346edfd39273d6148e23b5d8758e0a38500a3c8bcaac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "修武县嘉益网络科...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "36b7637806024b2d1HV70tq_EFA~",
+      "brandName": "修武县嘉益网络科...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721464940012,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "修武县嘉益网络科...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

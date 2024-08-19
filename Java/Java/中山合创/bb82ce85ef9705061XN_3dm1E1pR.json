@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PYifBb9CvYiXy-O1kkRbc1fMmclNKVwt3AgAj82hRKD3amMDotkpXZrudnGbK-bRnVqPD8SSTkzLVhIdvX5fdzPFwupo3z-TxeGirkXmYbDjFCWMNSA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bb82ce85ef9705061XN_3dm1E1pR",
+      "encryptUserId": "e4fbd0cb35dcf5e70nxz0t25F1dU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281700,
+      "locationName": "中山",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 后端Java研发工程师，熟练使用Java8、SpringBoot、SpringCloud进行微服务项目开发\n2. 熟练使用MySQL/Redis/RabbitMQ/RocketMQ/ElasticSearch等基础组件，对于组件实现原理有了解，有调优经验优先\n3. 熟悉Linux系统，熟练使用命令行进行服务部署配置和系统运维\n4. 有docker、k8s容器化开发运维经验者优先",
+      "encryptAddressId": "f7f048e30231f17c33J609i1GVs~",
+      "address": "中山星光礼寓1栋",
+      "longitude": 113.373467,
+      "latitude": 22.50009,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/477862186f0aa85371ac53f73059a646",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49a65859d6445576a4f21179de5d70f3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "车先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中山合创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d4820f44630867080nF_2ty1Ew~~",
+      "brandName": "中山合创",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721454463288,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中山合创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

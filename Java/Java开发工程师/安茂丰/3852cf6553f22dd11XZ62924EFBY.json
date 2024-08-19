@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4Y3h7M29PaEJe-o10cI9vhZbEaWegewFzyc_DlVGPMcckLqPIW3z4bU6r1VVIFF68bZMUvNUT3erJP_0iglNQZnAIUZIWxoIgENNCi6FOyXc22kAKeE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3852cf6553f22dd11XZ62924EFBY",
+      "encryptUserId": "290717faaa53bd3c1HB90tW8FlI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "1、对所负责的模块进行系统的功能定义和程序设计；\n2、根据设计文档和需求说明完成代码编写、调试、测试和维护；\n3、分析并解决软件开发过程中的问题；\n4、协助制定测试计划、定位发现的问题；\n5、针对项目需要，完成时间内的定制需求开发；\n任职要求：\n1、具备3年以上Java后台开发经验；\n2、熟练掌握Spring、SpringMVC、Mybatis、等开发技术，有Netty、Dubbo、RocketMQ、rabbitmq、Zookeeper开发经验，熟悉Restful接口设计；\n3、有丰富MySQL/oracle/Mongdb等数据库开发和优化经验；\n4、熟悉面向对象开发方法和设计模式，熟悉敏捷开发流程责任心强，有敬业精神，能够承担一定的项目压力；\n5、有较强的理解和分析能力，良好的编码风格的团队意识；\n6、有大数据开发经验、熟悉多种开源框架，熟悉SpringBoot框架开发者优先；\n7、熟练使用Tomcat、Apache，Nginx等应用和服务器配置；\n8、熟悉Docker的容器化部署",
+      "encryptAddressId": "1c3694d2c323128e1nx709i_GFY~",
+      "address": "西安未央区丝路国际创意梦工场4-521",
+      "longitude": 109.014416,
+      "latitude": 34.331251,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/754169bdffb27a961732193fa6dd703d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ddcc46a28fc0175ee1a7bc6fc91495d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "MySQL",
+        "服务器配置",
+        "分布式技术",
+        "Netty",
+        "Redis",
+        "SpringMVC",
+        "Dubbo",
+        "Spring",
+        "后端工程师",
+        "容器技术",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "技术部负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240620/607f1f3d68754fd00ef6829b4bb99dcb558f16ae9dee3771b946e12483587114e7c6c9a4414e484_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "安茂丰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a99a57754df7d3d61nV42ti7EFM~",
+      "brandName": "安茂丰",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211116/7b5b554d84f9729ca9b7cae6299b8ee5864e27a3374e6d60f64dd3f5f07df95721badbaf1731d908.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "安茂丰是一家致力于支付行业的科技公司,以提高人民生活质量，降低生活成本为核心理念。\n       我们有两大业务板块:安茂丰支付和安茂丰商城。安茂丰的亮点在于我们不仅关注支付行业的创新和发展，更重视改善人们的生活水平。\n       我们通过提供便捷的支付解决方案和多样化的购物体验，让用户的生活更轻松无论是节省时间还是降低生活成本，安茂丰都致力于让用户享受更高质量的生活。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721464976748,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安茂丰",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

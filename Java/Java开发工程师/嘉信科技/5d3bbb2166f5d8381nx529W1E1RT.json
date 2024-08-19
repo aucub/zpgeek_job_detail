@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vN9gixrFRE2Ji-i1pWoCtNw1bwsLwVDu0EY5rXBXJlz6Bd8dP5rEHvtFAWzPntjtbf_8XDiSTcxdeEPaMY-7gIKTm2GQsYHNjfjEJX_vwnxvzROHiw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5d3bbb2166f5d8381nx529W1E1RT",
+      "encryptUserId": "8fea73ba9223804e1nVz3929FFE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与政务服务平台项目前端和后端开发；\n2、参与系统相关的对外接口开发，内外接口的联调；\n3、和团队协作完成系统的联调、测试、部署工作；\n4、编写开发相关的技术文档；\n岗位技能：\n1、软件工程、软件开发相关专业专科及以上学历。\n2、3年以上工作经验，参与过软件项目系统分析，有政务项目或者大厅排队项目的前后台开发经验的优先。\n3、理解J2EE系统架构，精通Java编程技术，掌握常用开发框架如：Spring mvc/dubbo/Mybatis/等\n熟练掌握Spring的loC和AOP等关键技术原理，精通RESTful接口实现等技术；\n熟悉前端开发相关的js、jQuery、NodeJS语言，熟悉前端开发框架如Vue，熟悉正则表达式。\n4、熟练使用MySQL、Redls数据库以及熟悉SQL优化方法，熟练使用Maven、Git等项目",
+      "encryptAddressId": "b4f8d355f317e1011nxy29q4EVA~",
+      "address": "武汉江夏区中国光谷云计算海外高新企业孵化中心2号楼1801",
+      "longitude": 114.421597,
+      "latitude": 30.477441,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5221049a0fdaa965104d75455ea16d0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f44b8357e0e27d76ddea1ee7fe2f977",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "架构师",
+        "全栈开发",
+        "后端开发",
+        "Spring",
+        "Dubbo",
+        "GIT",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160608/41e18f965d1c43da9de7e7938d81f6b48c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "嘉信科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "48c8d6cb328bca2c03N62ty0Eg~~",
+      "brandName": "嘉信科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464585207,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嘉信科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

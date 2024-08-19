@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wHi4hMpj2bGvZ-X1r3ZyphMejv6PUExmWaZqXk_Vs_dUbwh-cTf7R8p2WLXrghJyPIWxzhCE1YLb02ekBBVGkWXLnE_xfSnWVOvXiXbvLWW8kl1GAg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "03e6c9cda01f202a1Hd52ti1FVJZ",
+      "encryptUserId": "e8999715470adacd1n153Ny4EFQ~",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-3K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求:\n1.计算机或相关专业本科及以上学历，统招全日制，学信网认证，能力优秀者可放宽至专科\n2.熟悉VUE、bootstrap等前端技术\n3.精通spring家族技术springmvc\\springboot\\springsecurity\\mybatis \\mybatis-plus，能熟练编写代码\n4.熟练掌握Mysql等关系数据库设计与开发,熟悉redis、elk，了解Flowable工作流框架\n5.能够使用各种调试工具，能熟练解决兼容性问题\n6.有良好的编码习惯，具备较强的沟通能力\n7.了解chatgpt，了解大模型训练流程优先",
+      "encryptAddressId": "3d02ec3fb0534dff0nNz09W4GFJYx467WPI~",
+      "address": "北京朝阳区友谊文化艺术园3层",
+      "longitude": 116.443661,
+      "latitude": 39.909795,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf439f003cc7c97b73169ce2f20e64f1026bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf3cbba756fd3716ac792d1caf0fd077196bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Redis",
+        "Spring",
+        "大模型训练",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160922/52c72630a9cf7b0680104161eca67f63a33793dec0732e61a223dc9c85b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "三只肥猴",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d458930fc80ec1b1XVy0t28Eg~~",
+      "brandName": "三只肥猴",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190922/2a6e0e4955f1d59ffcef8c6c9ae1c550d16e91211ebdb0f990024587eaf82564_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "软件研发与互联网平台运营",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1721454717399,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三只肥猴",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

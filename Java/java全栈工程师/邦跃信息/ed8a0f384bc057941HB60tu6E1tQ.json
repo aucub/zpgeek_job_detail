@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tS7N-gJi7TySR-n12Em1oMUNtBFUSebSmQtK19C_6n8uBTyQoKca4DhRrpl7jOOXSaoidg53l1U5Ru_h1iwiTmXRfKxkb1gcAkvofwA7royuQ5bpn9bp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ed8a0f384bc057941HB60tu6E1tQ",
+      "encryptUserId": "aed4c14053b9a28c0nZ_2d2-FVRY",
+      "invalidStatus": false,
+      "jobName": "java全栈工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、计算机相关专业，1-3年实际开发经验。\n2、熟练掌握SpringBoot、VueJS等开发框架，对微服务、分布式、大数据有一定的了解。\n3、熟练掌握关系型数据库相关知识，并对非关系型数据库有一定的了解。有Elasticsearch、Redis等处理经验者优先考虑。\n4、有强烈的技术热情，工作责任感，有创新精神，乐于和热衷于技术钻研。\n5、具有大型分布式，高并发，高负载，高可用性系统设计开发经验者优先。\n6、熟悉基于docker的容器化部署；\n\n岗位职责：\n1、负责核心系统的功能代码与数据库的设计及开发；\n2、根据项目开发进度和任务分配，完成相应模块的开发；\n3、分析并解决软件开发过程中的问题；\n4、确保技术规范、流程的执行，保证代码和产品质量；\n5、完成领导交代的其它任务；",
+      "encryptAddressId": "843f20a3a91b57300n1939m_GFVSx4-9Vv4~",
+      "address": "西安雁塔区逸翠商务公馆1栋楼4单元1202",
+      "longitude": 108.882138,
+      "latitude": 34.183869,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230528/48ba41acc9cef1bfbc1fa5968b1478d593f270555e2391eb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240306/48ba41acc9cef1bf353bd91b5a1073fd3eddb2b3e6f390b46bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Redis",
+        "MySQL",
+        "PostgreSQL",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "邦跃信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cb45881e1deeb3a71nF43dm6EVI~",
+      "brandName": "邦跃信息",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230131/7bf6f160950405e99b6b249e1b05c080007462193ebd33be28895637eb38337b1789bc3d233ae33c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "西安邦跃信息技术有限公司是一家专业从事软件开发、软件定制、软件实施的高新技术企业。拥有一批长期专业从事软件开发、软件定制的专业人才，具有雄厚的技术开发实力，全方位满足政府与企业信息化需求。\n公司非常重视企业的内部管理工作；市场销售、软件研发、技术支持是公司的三大核心部门，现已经建立了一套比较完善的管理体制。在客户服务方面，公司始终以“诚信创新，质量共赢”为核心宗旨，秉承“以客户价值为依归”的信念，推进企业信息化的建设和发展。",
+      "labels": [
+        "五险一金",
+        "带薪年假"
+      ],
+      "activeTime": 1722560537000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "邦跃信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

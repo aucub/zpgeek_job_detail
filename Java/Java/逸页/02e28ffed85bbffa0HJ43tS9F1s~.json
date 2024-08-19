@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Im1qGbDsa3KHS-O1zNDhuftNZiwr2RWhco-el0VEHwTgKOVU9IgqNE1xyanKXkWR2PqBbpl5dt7Vu5ovTOuKa9ITjQvOPQoctmGqVO2HpN16k6U9bAvh65cw6kyOL9MnoMGMHVoNV-Hz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "02e28ffed85bbffa0HJ43tS9F1s~",
+      "encryptUserId": "d67baf8a783bfeaa1nR-3dm_E1RS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n-参与公司产品的功能规划、需求分析设计、技术实现和用户体验；  \n-负责所属模块的代码开发、调试与维护工作；  \n-积极响应客户业务需求的技术支持；  \n-参与公司产品的架构优化，性能优化并辅助其他模块进行技术实现；  \n-协助并完成其他各类技术开发任务。\n\n技能要求：\n1、精通JavaEE技术体系，熟悉设计模式；\n2、熟练掌握Spring MVC/spring boot等主流技术框架，精通mySQL数据库；\n3、熟悉HTML/CSS、JavaScript/jQuery、Vue.js、Node.js/Express,WebSocket等前端开发技术；\n4、熟悉Redis、MQ、多线程等技术，熟悉分布式系统的设计原理，有SAAS系统开发经验者优先；\n5、有独立开发微信小程序/微信公众账号/企业微信经验者优先；\n6、具有Linux上的开发经验，熟悉命令行，能够编写基本的Shell脚本；\n7、具备工程化思维，有较好的问题分析与解决能力；\n8、具有良好的设计思维，能够高效地提供安全、高性能、可扩展的技术方案；\n9、对新技术充满热情，积极学习，具有高度的责任心以及良好团队合作精神。",
+      "encryptAddressId": "f90e9922e1f5d4bf0XZ52ti0E1E~",
+      "address": "上海浦东新区前滩尚博创意产业园(西北1门)7号楼7201室",
+      "longitude": 121.495476,
+      "latitude": 31.136608,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85dde24a44761918d35a2866533af1fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0150044c8d638bdef186d403fc291a2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "中大型项目架构设计经验",
+        "SaaS",
+        "软件工程师",
+        "SpringBoot",
+        "Spring",
+        "后端工程师",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "Web端",
+        "WEB开发",
+        "移动端",
+        "JavaScript",
+        "小程序"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "co founder",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "逸页",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9d1d6367742203350H163du0Eg~~",
+      "brandName": "逸页",
+      "logo": "https://c-res.zhipin.com/jrs/90643b0ac29a44c9eac8cb6a2166f2ca.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721448734840,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "逸页",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3q450BaLLUs9U-Q1WdTV9FNNJeMAYDQPyIat34-dKosIg82kazoPhIatEeUvVW4wu9BFkEAEsxwJiJTpPbv0zrYECEoJb3g1FuKGSzY5sxZfuQO39cA6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "909a2a5e6a5de1fe1HF43NW8FVtQ",
+      "encryptUserId": "f5dcba1d8b7ffcf30nd_2NW9FFJW",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180900,
+      "locationName": "洛阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、能独立完成核心/重要模块的设计、编码、单元测试；\n2、参与代码设计、审核和检查；\n3、编写开发设计文档；\n4、能独立解决开发中遇到的难点问题；\n5、具备良好的抗压性、良好的学习能力和团队协作能力；\n6、有工业互联网产品开发经验者优先；\n7、有若依或BladeX框架工作经验的优先。\n岗位要求：\n1、具有2年以上的JAVA软件开发经验；\n2、精通JAVA研发，熟练使用Eclipse、Idea等开发环境及工具，熟悉SpringMVC、SpringBoot、MyBatis等主流WEB框架技术；\n3、JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制；\n4、熟悉MySQL、postgres、MongoDB、Oracle等数据库开发的一到两种；\n5、熟悉微服务架构，熟悉Dubbo、SpringCloud，熟练主流应用服务器框架、分布式数据库、缓存、文件系统、消息系统等技术，熟悉常用服务器环境搭建及配置。\n6、熟悉常用设计模式，熟悉常用数据结构及算法。\n7、具有良好的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神；",
+      "encryptAddressId": "a3ecb451f3841ee30n153ti8FlZRxoi8WPs~",
+      "address": "洛阳西工区芳林大厦2111",
+      "longitude": 112.435086,
+      "latitude": 34.65588,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf030d3502f3c8176898f9f6263c8c861c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf075ec29f493371efc81abbc173b6507d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "洛阳迅豹网络科技公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1ad9d7ba333ea0ba1Hd409u0Els~",
+      "brandName": "洛阳迅豹网络科技公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724051472938,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "洛阳迅豹网络科技公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

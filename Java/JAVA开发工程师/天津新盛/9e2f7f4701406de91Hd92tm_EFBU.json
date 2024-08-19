@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zJg0f6Gu6x_JC-J1t6gCQhOOw2qwQ-6GmiqfLhtK8zSEZxAtrOyryILR70cGZv_axGZary4oPxx1huE6zAkg5I4jB4wJwYC_Jt6f1FZHHu01BoQiwQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e2f7f4701406de91Hd92tm_EFBU",
+      "encryptUserId": "3b40f444cbd1fa930XV539i9ElI~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责各类业务系统服务器端开发\n2.、与产品经理及客户沟通，了解业务并规划设计相关业务的设计实现，完成业务系统与前端工程师协作，高效完成产品的数据交互；\n3. 持续的优化服务器端功能，提升相关业务应用软件的质量；\n任职要求：\n1、熟悉常用的开发环境如 IDEA、Maven、git等配置操作。\n2、熟悉常用开发框架及集成环境Spring Boot 、 Spring Cloud 、Mybatis\\MybatisPlus、JWT 、Shiro、CAS等\n3、熟悉常用数据库与中间件：mysql、redis、mqtt、kafka等",
+      "encryptAddressId": "c95b1111b07be5f90HB50926ElQ~",
+      "address": "天津津南区天津大学科技园津南园6楼",
+      "longitude": 117.287942,
+      "latitude": 39.037307,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63959d75ba0d6323fca44778a8c53eb1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2a336ed4592059ab8a982319b47db28",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190428/6b22eede637364ac9e24a9549926514ecfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "天津新盛",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "df2a8ec199dda49e03Zz3dW8GA~~",
+      "brandName": "天津新盛",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190507/7e2e41192496970252a1aa15d604bcd29f883146ae03ad5c8111d176d530bdc5_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "天津新盛科技有限公司成立于2017年，是一家优秀的信息化整体解决方案提供商。致力于信息化领域的发展和研究，公司的发展目标是成为优秀的信息化整体解决方案提供商。公司主要专注于系统集成及软件开发两个方面。系统集成专业为客户提供结构化布线系统、网络技术工程、程控交换机系统安装、视频监控、安防系统、音视频系统、机房建设等系统方案设计、施工及维护的服务；软件开发专业为客户提供优质的IT技术服务，包括软件设计、代码研发、汇编、测试、系统功能修正或更新、软件技术手册及软件维护和技术支持。\n　　公司将秉承“以市场为导向、以客户为中心”的发展理念，以“团结、务实、拼搏、创新”为宗旨，随时为广大客户提供最优质的产品与服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1723797667433,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天津新盛",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

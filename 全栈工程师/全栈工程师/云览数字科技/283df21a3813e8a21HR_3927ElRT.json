@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0Q3flyqWfooHz-71Q9HMavjlrLpCmg3qrHcX93yXFGCdCuzpx-BJBnysfol6GbMSP16a2TYJFec4u_2XB1I4MnncEhbmiUFULyKmXhmKPxkLZD4sBAlv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "283df21a3813e8a21HR_3927ElRT",
+      "encryptUserId": "2b133f2d67f3f3f90nZ53Ni6F1NX",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101211000,
+      "locationName": "衢州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、3年以上软件开发工作经验。\n2、扎实的JAVA语言基础；熟练掌握数据结构、掌握常用的设计模式；熟悉JVM，包括内存模型、类加载机制\n3、精通常用主流框架，比如Spring、Spring MVC、MyBatis、Spring Boot等\n4、对数据库的基本理论和内部实现机制有深刻的理解，能够熟练应用Mysql、Oracle等常规数据库\n5、了解容器机制，熟练使用docker部署业务，有一定的系统架构能力。\n6、良好的表达能力以及逻辑思维能力，熟悉业务抽象和数据模型设计，具有很强的分析问题和解决问题的能力。",
+      "encryptAddressId": "4271a4349a9892061nV50t67FFZV",
+      "address": "衢州柯城区新起点信息科技有限公司三衢路427号",
+      "longitude": 118.886392,
+      "latitude": 28.946994,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230822/48ba41acc9cef1bff608b42f4cf75e945afaf3e09dae2f026bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230822/48ba41acc9cef1bf94a18a5a2f301d14d39d358bcd4f082d6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "JavaScript",
+        "Vue",
+        "Java",
+        "Spring/Spring Boot",
+        "MyBatis",
+        "计算机相关专业",
+        "全栈项目经验",
+        "后端开发经验",
+        "驾驶舱"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "云览数字科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "613d8c6971a729c61nF62di4F1s~",
+      "brandName": "云览数字科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210407/6874593fe7253f636bafe5ede339726479a9ed7fb98d9dccfb5d2444b5a2bb46.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "数字化转型进入加速期，基于数字化、网络化、智能化、自动化的智能时代已经来临，以云计算、大数据、移动互联网、物联网、人工智能等为代表的一系列新兴技术正在推动人类社会步入数字经济时代。\n浙江云览数字科技有限公司（简称云览数字）是一家以WEB应用开发、软件开发、物联网产品开发、移动互联网通讯技术、大数据分析、营销推广、技术培训等为核心的科技公司。公司以技术研发创新为主导，深刻把握各行各业数字化转型需求，利用互联网（物联网）技术为客户提供稳定、可靠、功能优异的软硬一体解决方案。公司专注于政府企业社会，跟多家企事业单位合作，有丰富的实践案例和经验。 我们秉承“为合作伙伴创造价值”的核心价值观，并以“诚信、包容、创新、服务”为企业精神，通过自主创新和真诚合作为社会创造价值。",
+      "labels": [],
+      "activeTime": 1721467122712,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云览数字科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

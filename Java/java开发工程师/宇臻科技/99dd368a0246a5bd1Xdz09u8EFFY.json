@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UG3StF9EYiPVD-P15r83h32fbSbgsWmGrFfHr78g_YTFYbaQp0VOmZIgheqxBxWyHt-ke3Ir7xKyDKTw15PGOXYvWkawstLTt2_u1oK3R1WFR2iGJuPSMnq2WG93dDkEMNM_C0hO-k0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "99dd368a0246a5bd1Xdz09u8EFFY",
+      "encryptUserId": "e9b1b92920cfc1c70Hd73di6EQ~~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、根据项目计划从事详细设计、开发、测试和维护工作；\n2、负责产品软件设计与开发实现，优化现有系统及功能升级；\n3、参与系统的需求分析、设计、编码、单元测试、BUG解决等工作；\n4、配合相关部门，从技术上给予指导；\n\n任职要求：\n1、计算机相关专业，大专及以上学历；2年以上物联网相关经验；\n2、熟悉物联网协议（MQTT、LoRa或NB-IOT），具有物联网（IOT）行业经验者优先；\n4、精通SpringCloud架构，熟练使用JPA、myBatis等ORM框架。\n5、熟悉主流数据库（MYSQL、MONGODB、时序数据库等）;\n6、能根据自己对业务的理解，有前瞻性的规划和落地实施方案和路径；\n7、对技术有激情，有较强的独立、主动的学习能力，良好的沟通表达能力和团队协作能力。",
+      "encryptAddressId": "d77a38e131da68491nZ_3di-GVI~",
+      "address": "上海松江区星月·大业领地20号3楼",
+      "longitude": 121.163075,
+      "latitude": 31.047822,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fab35da3b983e6a04ce3ac2c99b300c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7db052ca59ef237bff399d651b80a43e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160421/6f9de785b09be94e601bd1ad88b591e98c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "宇臻科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a652238e642129ea03x72dS6EA~~",
+      "brandName": "宇臻科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "中科院产业化公司，智慧集成项目整体解决方案供应商，主要产品：智慧能源、智慧园区、智慧水务等平台系统、4G/5G/LORA等通讯设备、电力数据传感器、无线温度传感器等传感器硬件，从传感器--通讯--集成AI平台全链条完全自主研发整体解决方案。",
+      "labels": [
+        "团建聚餐",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723939837835,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宇臻科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

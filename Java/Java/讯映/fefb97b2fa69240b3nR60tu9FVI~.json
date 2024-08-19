@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0Aj2zxz1q6fty-k1JfOUFM65MI1iHltcFuVgugfCuFD1lTMJTff09POMsyAmPbsEi04kKj7ew_cQdLvs9GBF8rEp6r-RdXNJtIqBxI3TZWCrX0pl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fefb97b2fa69240b3nR60tu9FVI~",
+      "encryptUserId": "2d21c08c4121d1b633Vz09W6EFU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1.Java8基础扎实，基本掌握多线程、并发等基础知识，熟悉Http、TCP/IP等协议；\n2. 基本掌握使用Spring、SpringMVC、SpringBoot、Mybatis/Ibatis等常用的框架并了解其工作原理；\n3. 了解SpringCloud等开源技术的使用以及工作原理；\n4. 基本掌握Mysql、Redis等的运用以及原理；\n5. 做事踏实，为人靠谱，爱好技术，主动学习；\n公司福利：五险、住房公积金、带薪年假、年终奖、节日福利、员工旅游、中秋博饼、加班补贴等",
+      "encryptAddressId": "d7c9fafb6fa9b2ec1HZ_3N-9GFs~",
+      "address": "厦门集美区珩田路352号楼201",
+      "longitude": 118.068112,
+      "latitude": 24.62606,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab3f525ff616f6d2625f35e77b101f54",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/931d4c06847c348c566240c905cf2f9e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MVC开发",
+        "多线程",
+        "Spring",
+        "Redis",
+        "微服务架构",
+        "网络协议"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "讯映",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1f6422e3cc34921933dy0t60EQ~~",
+      "brandName": "讯映",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200604/8229b25f22512cf0f75952e728dad1eb56785928c195c36b1bb317ea8256936f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "讯映主要从事在线定制行业，深耕行业情况。新生代人群大多钟爱原创定制品牌，工匠与设计师所赋予的不仅仅是产品的商业价值、 更是在表达个人的生活态度和价值观，积极和优雅，自我和智慧，喵喵定制⽂化以个性化为诉求 、结合艺家优秀作品 DIY 定 制 、 体现情感价值 ， 使⼀个普通物件因具有定制⽂化的特质而成为具有体温 、记忆的不凡品 。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "股票期权",
+        "带薪年假",
+        "交通补助"
+      ],
+      "activeTime": 1721462088335,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "讯映",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

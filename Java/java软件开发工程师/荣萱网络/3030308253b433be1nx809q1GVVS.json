@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "69m9OT0EdKOMK-Q1mtcdMX2VNQPhcbQ8UEqN3gysw5T_3m0OPuYDOzdspOUSCBEJB1lXhcDuVro5tEfRrk0Bmc2KPeyuC51ZJC3jJ5RARTwMsv_w1p75hdPAs-KrV79rQF0_M590eBb_ZTU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3030308253b433be1nx809q1GVVS",
+      "encryptUserId": "8cfe5a568f086eb20nZ_2dS0ElVW",
+      "invalidStatus": false,
+      "jobName": "java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1、参与功能需求设计，并负责完成核心代码。\n2、根据开发规范与流程独立完成核心模块的设计和编码相关文档。\n3、不断优化系统业务，用技术手段保障产品稳定安全。\n知识/技能要求：\n1、全日制本科（含）以上学历，1年以上Java相关岗位工作经验。\n2、扎实的Java编程基础，多线程编程技术，常用linux脚本命令。\n3、熟悉oracle，mysql关系型数据库，mysql调优，设计技巧规范。\n4、熟悉开源框架spring-boot，spring-cloud，nacos，seata，sentinel的原理和应用。\n5、熟悉常用设计模式，代码简洁优雅。\n6、掌握kubernetes，docker，maven，jenkines，git，devops经验。\n7、熟悉mongodb，redis，rabbitmq，rocketmq，eleastaticsearch等常用中间件的原理。\n8、具备良好的识别和设计通用框架及模块的能力，具备性能调优等技能优先。",
+      "encryptAddressId": "de019bba9b9aaaa01XR-3tS8EVM~",
+      "address": "杭州拱墅区杭州经纬国际创意产业园9b309",
+      "longitude": 120.190278,
+      "latitude": 30.324913,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f641eee4a00ccbc670e0165129855406",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf243a8ae69fb8839c93f731a3d96860",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "容器技术",
+        "多线程",
+        "Linux",
+        "GIT",
+        "Maven",
+        "NoSQL",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "荣萱网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d3c7c062345ec0be1nF83Ny5Elc~",
+      "brandName": "荣萱网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447884894,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "荣萱网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

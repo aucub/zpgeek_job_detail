@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JhFoAeWsydZb5-p1NoqvLhzOfz306cFdpb2KOv4bmYnzmpcLQKihOhGzZ7W05yvUI2puCSE4M3Db76yuOX4nx2ZZiLicN6hv9llNTGXp_cv_Aeq74w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f40be18f54400ce0HJ_09-7E1Y~",
+      "encryptUserId": "4d0b843677d44b791nR80tS6F1pQ",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位说明：\n1、负责基于WebGL的三维GIS平台开发。\n2、负责倾斜摄影、正射航拍、三维软件模型等数据的集成。\n3、 编写和维护相关开发的技术文档。\n4、开放平台相关功能研发\n\n岗位要求\n1、 3年以上使用J2EE开发经验，JAVA基础扎实；熟悉Spring、Struts、ibatis、jQuery等开发框架、了解其原理和实现机制；熟悉web前端开发，熟练使用Html，Javascript，CSS，AJAX等前端技术；\n2、 具有Cesium或其它 3D GIS平台开发经验，了解常见的GIS数据格式及转换方法；\n3、 熟练掌握 WebGL2.0 编程技术，能对引擎底层性能调优。\n4、 精通JavaScript，H5，CSS3，熟悉 ES6+；\n5、性格开朗，热爱研发",
+      "encryptAddressId": "c909a33ed020882b1Hx42tu6EQ~~",
+      "address": "合肥蜀山区中安创谷科技园(建设中)A3楼5层",
+      "longitude": 117.09919,
+      "latitude": 31.83068,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fa6a505f6aaed23887baa7790678591",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9fc93e9b5002e6d17cf96e36a2f551a7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "CSS",
+        "MySQL",
+        "JavaScript",
+        "Redis",
+        "HTML",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200503/be690b5292377d6c163664edb9d750cb13af767f612cff47aa4fa018588_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "钧宝智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4ddf925e46e6da5533V43NS7GQ~~",
+      "brandName": "钧宝智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724055054971,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "钧宝智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

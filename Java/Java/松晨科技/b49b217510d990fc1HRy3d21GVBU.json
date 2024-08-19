@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UAzNaqloVOLhC-O10JFBwknqYMmBJndP7Rc45JaQCQEfWfHR-4GTrWqurpPavq-qyKpxMrL90tWX4nADhAoIVklmPqkME9BMwMRi1ctDWdmbEXQABnR7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b49b217510d990fc1HRy3d21GVBU",
+      "encryptUserId": "fe24a90b5aaa2a180nB_3dW-E1BT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190600,
+      "locationName": "扬州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.设计、开发和维护高性能的JAVA后端应用程序，确保系统的稳定性和可伸缩性。\n2.与前端开发团队协作，制定并实施前后端通信的API和接口。\n3.编写清晰、可维护的代码，并进行代码审查以确保质量和一致性。\n4.优化应用程序的性能，识别并解决潜在的性能问题。\n5.参与需求分析和技术规划，提供技术解决方案和建议。\n6.编写文档，包括技术规格、系统架构和部署说明。\n7.持续学习和跟踪最新的JAVA开发趋势和最佳实践。\n\n招聘要求：\n1.大专或以上学历，计算机科学或相关领域。\n2.有相关的JAVA后端开发经验。\n3.熟练掌握JAVA编程语言和面向对象编程（OOP）的原则。\n4.具备扎实的数据库知识，能够设计和优化SQL查询。\n5.熟悉Spring框架和相关技术（Spring Boot、Spring MVC等）。\n6.熟悉微服务架构和RESTful API设计。\n7.熟悉版本控制工具，如Git。\n8.具备良好的问题解决能力和调试技巧。\n9.了解前端开发技术（如HTML、CSS、JavaScript）。\n10.具备团队合作精神，良好的沟通和协作能力。\n11.有持续学习和自我提升的意愿，能够跟踪行业最新趋势。",
+      "encryptAddressId": "dce7981e463044ca0XB53dq-FlI~",
+      "address": "扬州邗江区现代广场(文汇西路)9栋805",
+      "longitude": 119.402007,
+      "latitude": 32.381391,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c28b95abcfd84169e29f7cd48a61d2b9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/494f7324c526e4256475d8591a3f9458",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "松晨科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9fafd4b652acd5151XV83Nm1EFM~",
+      "brandName": "松晨科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723448198906,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "松晨科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

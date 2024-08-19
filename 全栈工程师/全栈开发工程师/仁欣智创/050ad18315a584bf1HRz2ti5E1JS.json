@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YAZ2eBnHVeQ9Y-31dyDkhGC4TcLnJZr0UA9_lL7osnClyw5mrvAngpXEmwEMiiXq2BCz8cKbKBkLInIs6hwPYF0_azQC3gETjLAFNNvy0zQCIGf627h-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "050ad18315a584bf1HRz2ti5E1JS",
+      "encryptUserId": "f24734d8e03fc4be0nF90t64FlVV",
+      "invalidStatus": false,
+      "jobName": "全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.与产品设计师，后台工程师、产品经理进行协作，参与产品的UI设计和需求讨论;\n2.对现有代码和架构进行持续改进:\n3.前端基础框架和组件的开发和维护:\n4.能进行独立完成前端项目发布和部署工作;\n任职要求\n1.扎实的前端基础知识:HTML，CSS. JavaScript和jQuery，能够独立编写严谨、规范、高效的代码:具备良好的格式及注释习惯\n2.熟练使用vue、element-ui、node.js、npm等相关技术\n3.熟悉Java的多种设计模式，能编写可读性良好的高质量代码\n4.熟练使用GIT管理代码版本\n5.熟悉Spring，SpringMVC，SpringBoot等框架\n6.熟悉springCloud、nacos、gateway，数据缓存等高性能架构相关后端开发技术\n7.了解typescript、vue3.0、scss(less)等前端技术\n8.有复杂用户界面与交互应用开发经验，在乎设计细节\n9.具备较强的沟通能力、团队协作；具备较强的责任心、学习能力",
+      "encryptAddressId": "bf7f7cb8acf35db51nV829S_EFFY",
+      "address": "成都武侯区新泓道·瑞景产业园2-520",
+      "longitude": 103.975957,
+      "latitude": 30.622287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bffbc52eb74bc2ee24b9121e780bcf5e846bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf2ff1a3cb704694a661bf8a0871af3e006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "TypeScript",
+        "Vue",
+        "Java",
+        "Spring/Spring Boot",
+        "MySQL/Redis/MongoDB",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "仁欣智创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0a16d20d84fd98111X1z2N-_EFA~",
+      "brandName": "仁欣智创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723772653727,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "仁欣智创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

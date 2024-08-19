@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j1rw_K0tg7Gxp-11EfD9bhm_fZrx3cHzjtEzjEmakKEMb9pJgyid1U3qrzk-EZnyLVAdwquUlBZKOBASSDOArP23hDTZe2Zju9G7FIbUVc6Xt2iEOgrb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f08b77ac47e5cfdf1XB709S1FlBX",
+      "encryptUserId": "85ddac2628d507680nd93dm7EFRZ",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、使用Java进行产品后台开发。\n2、 根据产品需求负责产品功能模块功能的设计、开发、部署、调试、故障分析和排除等\n3、 对已上线系统进行定期巡检，持续改进服务端架构和优化，增强系统稳定性\n4、严格测试，及时维护，保证产品服务器稳定运行\n5、 协同相关人员完成平台的测试工作，并持续对其进行优化。\n\n任职要求：\n1、计算机相关专业，扎实的Java基础，有自主阅读开发文档的能力\n2、熟悉spring，springboot框架，有实际项目开发经验。\n3、拥有Mysql/Oracle等数据库开发经验，熟悉redis数据库。\n4、 熟悉Linux，能动手调试和解决Linux中遇到的各种问题，可以独立部署项目。\n5、具备良好的git代码管理，代码风格，解决问题的能力以及团协作能力\n6、有良好的代码开发规范习惯，以及需要对开发思路清晰，能处理一定的项目上问题，并提出开发建议",
+      "encryptAddressId": "6dad99da5d2ee7900XZy3d2_EVQ~",
+      "address": "广州天河区方圆E时光西座25楼2508室",
+      "longitude": 113.37222,
+      "latitude": 23.126417,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c99dc6c7cb0f58c41f15b026d3276608",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/424885d7c2311906ab6b9c90cdeb8a87",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "Java开发经验",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "必诺大",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8c4d36f82aceb1391nNy09i7FFs~",
+      "brandName": "必诺大",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464609264,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "必诺大",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

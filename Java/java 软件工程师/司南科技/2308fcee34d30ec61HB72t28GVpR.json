@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l4RZ8yZP8GChr-y19LelcnU5WzzJ8Me9PpdnvWHCqx-H0nYcYMu2c9t_vNo4bkaDdLX0r5YWgkQf_vIAzHDUiaSIfKnbYu5R_iWoILU5tD0FyQr1Elmx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2308fcee34d30ec61HB72t28GVpR",
+      "encryptUserId": "0a650c6ed35f46af0nR40t-0FVNV",
+      "invalidStatus": false,
+      "jobName": "java 软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230500,
+      "locationName": "泉州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、参加基于Java技术的项目开发； \n2、参与系统分析与设计，并负责完成项目模块核心代码开发； \n3、根据开发规范与流程在产品框架基础上独立完成模块的设计、编码、测试以及相关文档； \n4、能独立解决开发中遇到的难点问题； \n5、负责开发过程中相关新技术的研究和验证。 \n任职要求： \n1、计算机相关专业，专科以上学历，2-3年及以上Java开发经验；\n2、Java基础扎实，对java语言规范有深刻理解 \n3、熟悉软件技术文档的编写，具备良好的文档编制习惯和代码书写规范； \n4、熟悉javascript、html/xhtml、xml、CSS、AJAX等技术； \n5、熟悉Spring boot,Spring Cloud, SpringMvc,MyBatis等主流的开发框架，熟悉mybatis等ORM中间件； \n6、熟悉MySQL、 Oracle、sqlServer等其中一种数据库，有sql优化经验者优先； \n7、掌握常用的开发工具，如idea，eclipse，maven，git，svn等； \n8、熟练Linux操作系统基本操作命令，熟悉dubbo,redis、MQ等常用中间件; \n9、有ERP、MES、微信公众号、小程序开发经验优先考虑； \n10、具有较强的学习、分析问题解决问题的能力，具有良好的团队合作精神及灵活的沟通的能力。",
+      "encryptAddressId": "38c2f4150691f7cc0H1z2d69GFI~",
+      "address": "泉州丰泽区融泰安大厦2501",
+      "longitude": 118.609921,
+      "latitude": 24.892739,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2a949fbb9bc55e499f711f544529fdc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c0e72440afa38378e278458cc3c4bb4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "SQL Server",
+        "MySQL",
+        "Redis",
+        "ERP开发经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "司南科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3174fc46ee4832fa1nB629q9E1o~",
+      "brandName": "司南科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "司南软件成立于2013年，是国内专业的软件公司，致力于为企业提供信息化、数字化、智能化服务。司南软件为客户提供 IT咨询、IT研发、实施运营为一体的IT解决方案。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "全勤奖",
+        "工龄奖",
+        "底薪加提成",
+        "绩效奖金"
+      ],
+      "activeTime": 1723897480271,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "司南科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dOxUJnLh7NYUV-C1453RO9v-Fb1pUi6xpHCmdjDy-OK927UKc2KsYW2nZkHSQyOBULGtd5shZeEQ_sGeuU65IME5wynyyF43SpFYhPsTuJgkE_gN",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "62984a7a2980846c33Z40925FlI~",
+      "encryptUserId": "b3e2e7e5713387270X1y3Ni5GFc~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260200,
+      "locationName": "遵义",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责软件核心功能的开发、测试、维护；\n2、参与产品需求分析和架构设计；\n3、参与业务逻辑模块设计、数据结构设计、API接口设计及性能优化；\n4、解决软件出现的问题和缺陷。\n任职要求：\n1、熟悉面向对象的设计和编程，具有扎实的Java基础知识；\n2、精通springboot框架，熟悉JPA等持久层框架，熟悉spring cloud微服务架构框架优先；\n3、熟练使用主流数据库，SQL编写熟练；\n4、熟悉Tomcat等应用服务器的应用部署和配置，有linux操作经验；\n5、熟练掌握idea、git或其它相关开发管理工具；\n6、具备良好文档编写能力；\n7、熟悉Java Socket编程，Java多线程技术者优先；\n8、有高并发应用开发和性能调优经验者优先；\n9、真诚敬业，踏实肯干，富有钻研精神，具有良好的团队合作精神和协作能力。",
+      "encryptAddressId": "b9c7671d42b6a7ef1HV73N2-GVc~",
+      "address": "遵义汇川区昆明路·世贸城8栋8-10",
+      "longitude": 106.942415,
+      "latitude": 27.71101,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/962a12ce681b0b031c4fbf676e2b0253",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2963ba7e687c87ae9f33a6704088288c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Spring",
+        "容器技术",
+        "NoSQL",
+        "后端开发",
+        "软件工程师",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "燃野",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bbaf5561bff3dd7133N72NS0Eg~~",
+      "brandName": "燃野",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201109/4114481c8b1757d47bd96d78f09db6527bd47a3a2263d481497ea7083f5a26b4.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "品牌官网搭建，小程序商城搭建",
+      "labels": [
+        "五险一金",
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1721464938677,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "燃野",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

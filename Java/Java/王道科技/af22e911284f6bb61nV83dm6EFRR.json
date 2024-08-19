@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wW4Mt0Gx5XqjB-41-2bbbCSL9lzeFeOY682rKgTqalzVysw3v6kJ0FN9kiaj1Qcj5Vfudj1S-Ih5ePPa7b40-tSSWcAIgUS2pga4JrtOsH6xmD1lww~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af22e911284f6bb61nV83dm6EFRR",
+      "encryptUserId": "2b40ee62a2f7703133F43d60ElU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281600,
+      "locationName": "东莞",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责服务器端、web端程序的编写；\n2、参与调整、完善现有项目开发；\n3、参与项目需求分析、项目概要设计、详细设计、开发计划等的编制并实施；\n4、系统开发测试、部署和集成；\n5、能独立解决开发中遇到的难点问题；\n6、参与系统稳定性、性能和扩展性调试；\n\n\n任职要求：\n1、 大专及以上学历，java 相关专业，两年以上相关工作经验(能力者放宽）\n2、 掌握各种Web前端开发技术HTML/XHTML、XML、CSS、jQuery，vue，element-ui等前端框架\n3、 熟悉使用Tomcat等Web容器；\n4、 熟悉Spring MVC、Spring Boot、Mybatis等开发框架；\n5、 熟练使用Eclipse、IDEA等开发工具，熟悉Tomcat、WebLogic等Web容器配置；\n6、 熟悉Oracle、SQL Server、MySQL一种或几种数据库，掌握SQL操作语句；\n7、熟悉并会运用微服务如spring cloud\n8、熟悉分布式架构\n9、具有管理系统开发经验",
+      "encryptAddressId": "b5690918db64da431Hxy2921FlM~",
+      "address": "东莞中国南方电网8楼",
+      "longitude": 113.752643,
+      "latitude": 23.037162,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/39ff78b36346bc37f3664d047251ca43",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5240b68a4ad86396cdedfb6ef155e9a5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "分布式技术",
+        "MVC开发",
+        "微服务架构",
+        "CSS",
+        "HTML",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "王道科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1c39747711da2f8d1nN72Nu_EQ~~",
+      "brandName": "王道科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180410/de23c7a3fb60536945170bac5b39bc80cd980f01d5d6df0cc7092d1bc09afebd.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "深圳市王道企业顾问有限公司主要经营范围包括一般经营项目：企业管理咨询，营销策划，企业形象设计，工业产品设计，企业管理软件的技术开发及销售，电子产品的销售，经营电子商务，经济信息咨询等",
+      "labels": [
+        "餐补"
+      ],
+      "activeTime": 1721454405229,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "王道科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CHDzbMdATvGoN-e1Zn48OtqVie4h1rka38tGfmxyEowlAhrqgQfvbxVViR8vGboUFsqSfCACjMMGGetP-xIa77EsPGlnFNp4ZHUZrBQNkHUYLKsm5MxKxd43bTGXhODUVPDs5uasLVnW5eQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "570861b918ffefe91HJ42d-5F1dR",
+      "encryptUserId": "115b16f4de9f3a960nVz0tq_FlRU",
+      "invalidStatus": false,
+      "jobName": "java中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责项目后端代码编写、研发工作、完成后端代码的架构设计；\n2、负责参与产品的需求讨论，独立完成指定模块的交互设计工作；\n3、分析和发掘现有系统的不足，定位系统瓶颈，提高系统性能和稳定性；\n4、负责产品核心代码的开发及评审；\n5、规范文档的编写维护，以及其他与项目相关工作；\n职位要求：\n1、计算机相关专业，本科及以上学历，3年以上工作经验，硕士2年以上工作经验\n2、精通Java和面向对象的编程与设计方法；精通mysal、Oracle，Sql Server等主流数据库的使用；\n3、熟练掌握SpringCloud、SpringBoot、MyBatis等常用框架，了解其原理和实现机制；\n5、熟练掌握redis、elasticsearch、消息中间件（rabbitmq、kafka），了解其工作原理；\n6、有人力资源系统开发经验的优先；\n7、责任心强，有担当，有良好的编码习惯，遵守团队开发规范和代码规范，良好的逻辑思维能力；",
+      "encryptAddressId": "61b3f179ba7e3fa21nV90ti5F1FQwI69UvmX",
+      "address": "杭州萧山区万和国际6幢702",
+      "longitude": 120.25693,
+      "latitude": 30.233533,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/267d26e40a4a372c6eab02d36c0c9553",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a884ada3a4e7393a43514eea6ff91be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "其他",
+        "SpringCloud",
+        "MyBatis",
+        "其他",
+        "Redis",
+        "其他",
+        "离职",
+        "人力资源系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd03f03077a06ebfc0a5e7026c17f199739b76b6b782dfa038f961ecad5eba_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "万重",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e000580d4fa921c41nZ529S8FFs~",
+      "brandName": "万重",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "高温补贴",
+        "团建聚餐",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723936835000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万重",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

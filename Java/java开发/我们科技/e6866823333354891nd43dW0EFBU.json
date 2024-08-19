@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PINw-Av42U0uO--1DVpcutgXPA5_Bz_V_4Gar1NoF9m5X1rlP7g3CxV68lq15qrbLnDb27sR2ht9mXKEpe9GMP8BzBmtjIZuIQOnVWhXWfQk-_UpuQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e6866823333354891nd43dW0EFBU",
+      "encryptUserId": "17701a5e9f7c2c6003Z93Nm_F1M~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "要求：\n1、一年以上JAVA开发工作经验，本科及以上学历；计算机及相关专业毕业优先。\n\n2.Java语言功底强，熟悉I/O、多线程、集合等基础知识；熟悉分布式、缓存、微服务、消息等机制优先考虑。\n\n3.能熟练使用Maven、Spring MVC Spring Boot/ Spring Cloud进行项目开发等；\n\n4.深入理解面向对象的设计思想和常用的设计模式，以及常用网络通讯协议、熟练掌握MySQL;\n\n5.熟练掌握Java Web开发技术，了解1-2种主流的前端开发框架的使用，有zookeeper，kafka，elasticsearch等技术中任何一种相关的工作经历者优先考虑；\n\n6.有良好的编码风格，追求程序的执行效率和良好的用户体验。\n\n7.有ERP、MES等大型传统软件开发经验优先。",
+      "encryptAddressId": "43e884eb8d2d773d1nB739q8GVs~",
+      "address": "杭州余杭区绿城三维·未来PARK-3A幢603室",
+      "longitude": 120.017471,
+      "latitude": 30.286026,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56218583937397eec79826793ffc1ac0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e1a91ad478bc0e38c536552fe33ac42",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "微服务架构",
+        "MVC开发",
+        "Spring",
+        "WEB开发",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "范女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180716/a75e1aca69c7e1828b0b2ca6c6e3b978cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "我们科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "07aedce6b2bf0bd51nV42dq-Fw~~",
+      "brandName": "我们科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190521/08ece1ecf84a03d53dfe85e7fd82d1d336c1e0a35e5c89fddad3e7f3a5dbabfe_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "杭州我们科技有限公司是一家致力于为客户打造专业的智慧工厂制造执行系统，包括数据采集和质量追溯、绩效考勤、仓储物流等功能，同时为客户提供全终端跨平台的解决方案，高效率低成本的组件化技术平台。服务领域涵盖了工业云平台、产品追溯体系、APS智能排产、智慧云工厂、工业大数据分析、机器视觉等。",
+      "labels": [
+        "五险一金",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1721468368147,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "我们科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

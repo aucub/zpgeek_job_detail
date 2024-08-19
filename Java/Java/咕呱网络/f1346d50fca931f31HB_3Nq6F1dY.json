@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-S-k9k8MoEnDn-q143N3ZXVQdMt2xOq5uA2JrPJlpW41z6VrqYVd927LPKEshwRbXdUIS-sji6u8QVNZ-3iIe5kmqWwze7QW6q6dIFsbRMSCYP7ASPjcnyKS-rW8B9Id99qmVX_rYnEp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f1346d50fca931f31HB_3Nq6F1dY",
+      "encryptUserId": "addf7744c342fc0f0HJ83N24EFA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n使用Spring Boot框架开发和维护物联网设备后端系统，实现与MQTT、TCP和WebSocket等通信协议的对接。\n在Docker容器化环境下部署、管理和优化后端应用，保证系统的高可用性、可伸缩性和安全性。\n使用MyBatis框架操作MySQL、Redis、SQL Server等数据库，编写高效、可靠的数据访问逻辑。\n设计和实现Spring MVC架构的RESTful API，与前端团队协作，支持前端Vue3和ElementUI的交互。\n使用Spring Cloud框架构建分布式系统，处理系统的各项业务逻辑和微服务之间的通信。\n使用Nginx进行反向代理和负载均衡，优化系统的性能和稳定性。\n协助解决系统线上环境中的各类问题，保证系统的正常运行。\n持续跟进和学习新技术，为系统的优化和升级提供支持和建议。\n任职要求：\n大专及以上学历，计算机相关专业优先。\n具有两年以上Java开发经验，熟悉Spring Boot、Spring MVC、Spring Cloud等技术栈。\n熟悉物联网相关技术和通信协议，有相关项目经验者优先考虑。\n熟悉Docker容器化部署和管理，了解Linux操作系统。\n熟悉前端开发技术，熟练使用Vue3和ElementUI进行前端开发。\n具备良好的团队合作精神和沟通能力，能够与跨职能团队有效合作。\n具备较强的问题分析和解决能力，能够快速定位和解决系统中的各类问题。\n热爱技术，具备自主学习和持续进步的能力。",
+      "encryptAddressId": "b36b93cbc9d2388433d92di4EFBWyom2WPI~",
+      "address": "杭州余杭区浙江鸿程计算机系统有限公司(总部)B2",
+      "longitude": 120.047857,
+      "latitude": 30.29423,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230426/48ba41acc9cef1bf87158db8b8cf58af9128d319bd2e9b256bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230721/48ba41acc9cef1bfb991d45099c7584f5aaa39d3a6f5dcfb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "池先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190923/56e9179a9f8ff9f72053a8a0b88400d46f5f2afa7754056b7fa1fa8c9ac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "咕呱网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9c3a77547acbb130n162d2-GA~~",
+      "brandName": "咕呱网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190923/0ede4f1c52dcc26de1446a8ee0a8623d7b3d43b8ae23b2b927716cea22a05f7f.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州咕呱网络科技有限公司成立于2018年，是一家年轻的企业，我们是一群青年人，崇尚新思维方式，对市场有成熟理解，将创意融于客户需求，一起共同创新理想，经过社会的锤炼，让我们走在一起，实践自己的理念。\n专注于交互式网站设计开发，为企业品牌提供创意设计、策略咨询、创新策划、定制开发、运营及推广等全方位数字化营销服务。\n服务范围主要包括：企业网站品牌设计、策划、营销；移动端设计开发；高端电商平台设计运营；淘宝、天猫店铺设计；微信公众号运营推广；微网站设计开发等。",
+      "labels": [
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1723633838844,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "咕呱网络",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

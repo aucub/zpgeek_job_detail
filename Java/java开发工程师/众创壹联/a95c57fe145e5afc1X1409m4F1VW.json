@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D9AtAav9Peq6O-B1uXqwm-A3ncaqRsy1en-ctcL3CfJ8512vjyxHPqZCRpzyymtHi0A_ho5obvgQvuvybwJJMHukHhxGLcKub0xvGTq6q-WVTzqojJeVEJaA20D8pCCPwtelLIPCyu4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a95c57fe145e5afc1X1409m4F1VW",
+      "encryptUserId": "ef0e242b4ce6c7300X1z2tm9GQ~~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上相关学历，1年以上互联网微服务经验；\n2、Java基础扎实，熟悉常用框架和技术，如：SpringBoot/Dubbo/MyBatis等；\n3、熟悉面向对象的编程 熟悉面向对象设计模式，熟悉Redis/RocketMQ等中间件；\n4、熟悉jvm相关知识,如:内存模型,GC；\n5、熟悉Linux常用命令，有线上分析解决问题能力；\n6、熟悉Html, Tcp/Ip等协议,了解RESTful API开发优先；\n7、具有良好的沟通能力、较强的责任心。",
+      "encryptAddressId": "1ad549f666cdb9513nN_0ti6FFM~",
+      "address": "杭州余杭区欧美金融城(EFC)T5-722",
+      "longitude": 120.002985,
+      "latitude": 30.28106,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2102f0468f0cf7e2b43b68b1146c78136bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfe7063c327404dcec1a342668c361b2f26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苗先生",
+      "title": "总监/总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220429/607f1f3d68754fd09acba2725456f8e9d175f09cc6ef92f2a47ae6b567e05782f7f3d002a17_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "众创壹联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb412b671b8b7b3e1XJy29y4Eg~~",
+      "brandName": "众创壹联",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447733969,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众创壹联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

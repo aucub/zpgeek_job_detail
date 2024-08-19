@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "obYB23DI347QY-71jFJ9V3OUxVp2j8uUOxoupN9Iy6F4kKZdvjLg10L_HgjVnWGOrbjUt6ivUTReY0c47U5LJQ9SAwkjLApj8a5fx50uw2zyWiRfOJU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "39ec2904c0e9baef1Xx72dq8FldX",
+      "encryptUserId": "4561cf1de3c218fe03x72ti-F1c~",
+      "invalidStatus": false,
+      "jobName": "java web开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责后端服务系统分析和设计工作，承担核心代码编写；\n2、负责系统性能与逻辑的优化、系统功能的改造和升级；\n3、负责重大项目的设计和编码，攻关技术难题；\n4、负责查询和解决生产疑难问题，并持续迭代优化系统。\n\n\n岗位要求:\n1、精通Spring框架，熟练掌握SpringMVC、SpringBoot、Mybaits、Redis等,精通dubbo微服务框架；\n2、精通J2EE体系架构，熟练掌握常用设计模式和主流设计工具，具有Java框架自主设计能力，能承担核心模块和核心功能开发，能根据既定产品和项目的特性进行技术架构设计；；\n3、熟悉JSP/Servelet/HTML/CSS，精通JavaScript、Ajax、Jquery等前端技术；\n4、熟悉Oracle、MySQL数据库，精通数据库优化，SQL调优技术；\n5、熟悉分布式服务器系统架构技术，以及负载均衡服务的部署；\n6、熟练Linux的常用命令；\n7、熟悉常用的项目构建工具及版本管理工具，如Maven、git、SVN等；\n8、有强烈的责任心和团队精神，心态积极正向，善于沟通、推进、合作，可以提升团队技术影响力。有出行项目开发经验者优先。",
+      "encryptAddressId": "8ae6fde26e9488cd3nRy09-0ElM~",
+      "address": "西安雁塔区融城云谷B座1703",
+      "longitude": 108.883988,
+      "latitude": 34.223008,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93790ba1e3d968be2f3941bd809c74e3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61cb31b3858a2e5c8be2da8c74ba4328",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "旷慧科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e3ab9080fb8795781XJz29W9FFo~",
+      "brandName": "旷慧科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721453831182,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旷慧科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

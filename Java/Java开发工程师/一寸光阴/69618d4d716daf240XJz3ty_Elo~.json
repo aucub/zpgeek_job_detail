@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7XSxRRfyjhRde-Z1ArrUXkg1jk1RUPd6k4Thx7aukKzlWbAP96JdLtp9SFFrho-Cnm7cuKf5Fii6fk5MYA1M9y4QOfGAd0krB7H-fyibU_thmT8k",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "69618d4d716daf240XJz3ty_Elo~",
+      "encryptUserId": "6086b8ace467c94d03F409-6F1Y~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.参与系统的需求调研和需求分析，撰写相关技术文档；\n2.负责系统微服务的设计，研发，自测和交付；\n\n任职要求\n1. 2年以上J2EE开发经验，扎实的JAVA编程基础，理解io，反射，多线程，集合等，清除JVM的原理；\n2.数量掌控主流JAVA框架，并且能了解到它的原理和机制；熟悉MySQL/Oracle数据库中的一种或多种，有一定的SQL性能优化经验；\n3.熟悉分布式系统的设计和应用，熟练掌握分布式、缓存、消息等机制，具有分布式项目开发经验者优先考虑；\n4.业务理解和学习能力强，有很好的适应和沟通能力，具备责任心、耐心、细心的品质；\n5.能针对复杂问题分析和分解寻求路径，进行合理的架构设计和技术选型，具有非常好推动和执行能力，最终解决问题；\n6.熟练掌握 Unix/Linux 操作系统，对常用命令运用娴熟，能够根据实际需要快速编写 shell 脚本。\n7.计算机相关专业本科及以上学历（优秀人才，专业和学历可适当放宽）；",
+      "encryptAddressId": "b65affa72ea881cd1XNy2tq0F1Q~",
+      "address": "杭州余杭区天时科创园3幢8楼集团办",
+      "longitude": 119.982614,
+      "latitude": 30.27599,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/002d6f383dd4d4f967f7191f71a5213a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1ff0f2b69ea6f6de398af0a08fced62",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "SSM",
+        "分布式技术",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180830/6295fdfc8a4614687cb53470101516f30748deeeef5940411e765f95cf9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "一寸光阴",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "22e09856f82ecd140HR729W_GA~~",
+      "brandName": "一寸光阴",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721468401764,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一寸光阴",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

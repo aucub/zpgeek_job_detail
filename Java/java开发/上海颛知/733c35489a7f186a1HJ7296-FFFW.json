@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "flSASUe1Gd6z9-t1NDNgNd_y7ZMGlzpp49_8Y15vsjkIVnr7U1E6XMlnTtaj9xwmYToTlX8lzkHH1bPpx6ADhofp9lHrGdVsrYPhvDNXudnwggaJPwM6Rd3ihdcchmviOmV6GI4tiwvF-j5OcXCS3CKcdaw_RfkCpG0weNX6cN5DFPpF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "733c35489a7f186a1HJ7296-FFFW",
+      "encryptUserId": "5bda58c4adf7bb520HZ63Nm-Fw~~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：根据需求完成后端开发，实现API接口\n任职要求：有一定的基础，可以独立完成开发任务，熟悉MySQL，Redis，Nginx等",
+      "encryptAddressId": "6f047e6e4240938b0Hxy0ti1Fls~",
+      "address": "上海静安区一百零八上苑一层",
+      "longitude": 121.452411,
+      "latitude": 31.219927,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/decf9a0be6a382631255fdc229628e37",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7852cdf1a951aabb709f9e0ab526f712",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "Python",
+        "Java",
+        "Nginx",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "项目负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220817/607f1f3d68754fd011b24b7088d39e5c40edf785cb0bfaff0308210b575a657e8bba67934aa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海颛知",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a2bf01c269cf55f41XZ_39u8E1E~",
+      "brandName": "上海颛知",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节假日加班费",
+        "底薪加提成",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1724040604559,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海颛知",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

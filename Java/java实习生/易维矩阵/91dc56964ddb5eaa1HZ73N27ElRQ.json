@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IRHBqNXPp1tqn-h1R_ELre5xK7xYD_WGJ5I14Z3xakQ-A9lT7nQ4dD6BMIrdD3v_ZIZNHZFVNCce05iZJA3rwlPIlR3-cbZv3XJdWQQe5olDUo0Wdev3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "91dc56964ddb5eaa1HZ73N27ElRQ",
+      "encryptUserId": "a95b353e007e52960XZ83t24EVtT",
+      "invalidStatus": false,
+      "jobName": "java实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-3K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、参与平台型产品的规划、设计，并主导实施；\n    2、参与需求讨论、制定项目开发计划、项目里程碑等项目管理工作； \n    3、监控系统运行健康状态，及时优化系统性能； \n    4、参与软件质量审查，提升员工开发质量和效率； \n    5、参与公司项目产品的设计与研发 ；\n    6、参与部分产品的架构预研并做技术分享\n ；\n    7、全程参与产品的需求分析、设计、开发以及测试几个阶段 ；\n    8、完成项目的日常维护与发布。\n\n岗位要求\n1、热爱工作\n    2、无工作经验者 可培养；\n    3、具有面向对象的分析和设计的能力；\n    4、具有一些J2EE架构设计经验；\n    5、精通工作流、java、spring、Spring Boot、O/R映射工具（hibernate/MyBatis）；熟悉jsp、Jquery、JavaScript/Ajax；\n    6、熟悉统一建模语言（UML），能运用UML的方法和工具进行面向对象的分析和设计；\n    7、熟悉Oracle, MySql数据库；\n    8、思路清晰，善于思考，能独立分析和解决问题；\n    9、责任心强，做事细心 、有恒心和毅力、具备良好的团队合作精神和承受压力的能力",
+      "encryptAddressId": "7c98d3ca1d454ef80HVy2dW4EVVXxoW6U_o~",
+      "address": "北京丰台区北京诺德双创街诺德中心3期",
+      "longitude": 116.305781,
+      "latitude": 39.824838,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf0dc9ba868c945feda4dc9cfdaeccb1806bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230724/48ba41acc9cef1bf6150e4cc20fad23de5ac00c696c87a116bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231116/607f1f3d68754fd032e7d43be1a382e19d5412bd7d1b80cacd5e2dfbdb710d6fa9358d1d1379d69_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "易维矩阵",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c25b9383dacb5dfd1Xd42Nm9EFE~",
+      "brandName": "易维矩阵",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240410/7b5b554d84f9729c9cd71f720ffe08673305dd01807a9afdcd5e2dfbdb710d6fa9358d1d1379d694.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "专注数字孪生与AI相结合，AI+IOT+BIM+GIS+3D",
+      "labels": [
+        "餐补",
+        "带薪年假",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721454728179,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易维矩阵",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

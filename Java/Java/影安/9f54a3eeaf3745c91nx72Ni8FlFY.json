@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Yxh1Iz2qS3R5G-r1MEaJIukmbLN2GAUdI47kXIs98rM_74igMJaEPhBjVewKPJWGe4oa-9udlfP9tRBIu_slNMGybTpKVpw4J4wklyzfLY2lIDmaOOM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9f54a3eeaf3745c91nx72Ni8FlFY",
+      "encryptUserId": "bdb4942ce22486910nZ42t2-EFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位要求：\n1.熟悉SpringBoot、Mybatis等主流框架，有扎实的基础；\n2.熟悉或使用过Kafka、Redis、Clickhouse等中间件；\n3.熟悉MySQL等数据库及SQL语句编写，对SQL的性能优化有一定了解；\n4.熟悉Git等代码管理工具的使用，具备良好的协同工作习惯。\n\n二、优先条件（符合条件请说明）\n1.了解除Java之外的开发技术，如Go、Rust等；\n2.具备良好的Web安全意识，了解网络安全相关技术并对此感兴趣；\n3.能进行SQL优化，对代码质量有高要求；\n4.了解Docker、K8s、Gitlab CICD等DevOps技能；\n5.条理清晰、沟通表达能力良好，具备较强的学习钻研、解决问题的能力。\n\n三、 工作职责：\n1.网络安全类产品后端的开发与维护；\n2.将科研领域的产出转化为产品产出；\n3.参与需求讨论与头脑风暴，进行产品的评审与数据库设计。\n\n四、求职前置应知\n1.公司目前需要自带电脑。",
+      "encryptAddressId": "64cfcac9038bf8bb1nx629S6EFs~",
+      "address": "长沙岳麓区绿地中央广场5栋22楼",
+      "longitude": 112.951904,
+      "latitude": 28.227266,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/acf69124cec6da2b56ca388f117af2db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/554dc8c81432b7ab9c0f901bab448698",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Java",
+        "MySQL",
+        "SpringCloud",
+        "Kafka",
+        "Redis",
+        "SpringBoot",
+        "Spring",
+        "后端开发",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢先生",
+      "title": "研发主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "影安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c2dafc2cfb63a2bb1nxy2di0EVc~",
+      "brandName": "影安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1724039200719,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "影安",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

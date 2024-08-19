@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HW6rfy-zXZaJb-k1iRjD1SKyfV0iRPlS0Ghf3JwUQcnY4jgCfXpZu6sp5TQRmvxOEQrJLQELkQBgssv47FqAIGxa8UuwVTsb-ZAkcc1p3BoEkkJGieCPLZI7G7PT8aS-6wRzrrzzoWo0blg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6d14a31e7314eec71nR_0ti8EFRZ",
+      "encryptUserId": "db56bd6ccdeba8ad0nR_29i_FFBR",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟悉c++，掌握STL，了解Qt,Boost,CUDA等\n2.熟练掌握基本的算法与数据结构知识\n3.熟练多线程、socket，makefile shell 编程的优先\n4.具备一定的调试，定位问题能力\n5.熟悉Linux/Unix开发环境，了解Shell/Python语言，具有良好的开发素养 \n6.具有良好的沟通能力，和良好的团队合作精神",
+      "encryptAddressId": "d336b0bf976750181n140ti7F1M~",
+      "address": "杭州西湖区浙江大学玉泉校区411",
+      "longitude": 120.122946,
+      "latitude": 30.263776,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7fd4da76fbfa0bc1443043a9e0f2614",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/032e388a3968c2da2e55712e072f1663",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "STL",
+        "CUDA",
+        "QT",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "史先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "优视泰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d457978a7e5f30d1nZ-3dS1ElE~",
+      "brandName": "优视泰",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447873240,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "优视泰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

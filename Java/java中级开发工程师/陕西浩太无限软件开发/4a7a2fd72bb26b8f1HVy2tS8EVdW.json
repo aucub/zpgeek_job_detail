@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZFpfHOllNIra4-i1NFOgwTydXBRu2mg6VSTa6sGiXUqXK9ykb6h0aOPwzol-ABS5tA-agoxn8EyL_mgkMDCBmeRC8zJOoa4qOK0gfLVBcNiLs-FGwKI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4a7a2fd72bb26b8f1HVy2tS8EVdW",
+      "encryptUserId": "2a6f5bda8c8159aa1XR-2Ni4GFI~",
+      "invalidStatus": false,
+      "jobName": "java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110700,
+      "locationName": "安康",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-6K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求（证书等）：设计、业务模块开发、微服务、JAVA、SpringMVC、Dubbo、SpringCloud\n岗位职责：\n1.需求评审,需求分析\n2.结合需求与已有系统提出设计方案并形成文档\n3.设计上线方案与步骤，落实设计方案\n4.根据需求与设计文档，实现业务模块的开发\n5.对系统存在的问题进行跟踪和定位并及时解决；\n6.风险识别与警示、性能优化、代码重构\n7.完成上级安排的其他任务。\n岗位要求：\n1.四年以上java开发经验，互联网行业开发经历优先。\n2.熟悉java语言、java常用api，熟悉多线程编程。\n3.熟悉大型电子商务网站业务数据表设计和可扩展性设计，掌握在代码中实现数据库技术的重要概念和模式，精通Oracle/MySQL SQL调优。\n4.熟悉jee规范,熟悉网络开发、 JMS/KeyValue/RPC等分布式技术。\n5.熟悉开源技术和服务器，熟悉Spring的各项技术、Mybatis、Spring mvc框架等。能查阅所需技术的源代码。\n6.熟练掌握Maven、SVN等构建环境和技术，熟悉MySQL等主流数据库。\n7.编写自动化测试/单元测试，熟练解决单元测试难题。\n8.熟练使用Dubbo，懂Spring cloud+Spring boot框架进行微服务开发优先\n9.深入了解消息及缓存机制，有过rabbitMQ、redis项目开发经验；\n10.有良好的代码习惯，要求结构清晰、命名规范、逻辑性强、代码冗余率低，代码注释清晰；\n11.有较强的责任感，工作积极主动，善于沟通，有较强的团队合作精神，有一定的抗压能力。",
+      "encryptAddressId": "0afa1ac044818e021nV40ty8FldX",
+      "address": "安康汉滨区兆信大厦1006",
+      "longitude": 109.016008,
+      "latitude": 32.703278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c991139b1b90d02432ce936e3463783c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f6b8ab6c92e14f1f51adb2cfc10e3ce",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Dubbo",
+        "MySQL",
+        "Oracle",
+        "分布式经验",
+        "微服务经验",
+        "物联网经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230927/607f1f3d68754fd0298d3c6a8d1f4d21ca3eaa0365015ee67f07a88e8f50acede5bf4a2dc6aafa0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "陕西浩太无限软件开发",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f90d383c004225cf1XZ62dq8F1A~",
+      "brandName": "陕西浩太无限软件开发",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220720/7b5b554d84f9729c7d4ebebb00e928531c80a7529e08d2ae696e6f9a1832c191e3a9b5d85aa793f2.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "本公司承接各种官网，APP，小程序，PC系统。招揽有能力的合作人",
+      "labels": [
+        "工龄奖",
+        "企业年金",
+        "股票期权",
+        "底薪加提成",
+        "五险一金"
+      ],
+      "activeTime": 1721464988468,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西浩太无限软件开发",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

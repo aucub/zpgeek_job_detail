@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U82iWc_VR7YRN-G1AdgKXoqJkvctO62nBmsMQShpo_wt1ynOLGApXpVHJC6VMVWB83vHCvrIz8KNltOb5NM808wVsTIGrN8RULUzoWmN_klMUV-VtTY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fee913f16205e7531HB509y_FlVW",
+      "encryptUserId": "185f2c82afb4ee3f1HV82d2-Flc~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "【任职要求】\n1.1年及以上WEB前端后端开发经验，有地理信息相关应用开发经验优先；\n2. 前端基础扎实，有⼤型后台或移动端独⽴开发经验\n3.对前端框架有实际搭建能⼒,包括Vue,React等\n4.了解三维GIS开源开发框架，如Cesium,osg等；\n5. 熟练掌握vue、HTML5、jQuery，bootstrap、css等技术；\n6. 熟练使用JavaScript/TypeScripy等开源框架\n7.有webgis开发经验优先；\n8.吃苦耐劳、有较强责任心和执行力；",
+      "encryptAddressId": "cef2a5590c9588ec0Xdz3t66ElZRwYS9VPg~",
+      "address": "厦门集美区软件园三期B08栋13楼",
+      "longitude": 118.046148,
+      "latitude": 24.61469,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/327555d84363335d2dc517ca0836a783",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f8e338bbeb0a15a6a3da28fcf4c5dc7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "Vue",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191120/58577d2299f1522e3f7fb7a27541b573390dfff323baf19ced9c5eaaba1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "天卫科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d72d19ac408dab741nV_3t--GVU~",
+      "brandName": "天卫科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230704/7bf6f160950405e91d45cfa5951651dca43de9f50d7a68ae8cc9e2b156b9165446592792b00450ca.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "厦门天卫科技有限公司成立于2014年，公司与国内卫星系统研建机构合作并自主拥有和独立运控商用遥感卫星系统，是国内智慧城市顶层卫星源数据运营的开拓者，福建省唯一国家双碳产业联盟成员。\n公司是面向中国及全球客户的自主遥感卫星发射、运控及空间信息大数据服务商。公司主营业务为定制化遥感卫星发射服务、卫星遥感大数据产品、空间信息综合服务，覆盖上、中、下游全产业链。公司具备贯通产业链的业务服务能力，能够主动响应客户对卫星遥感大数据的规模化、定制化和差异化需求，为客户解决数字政务、智慧城市、乡村振兴、智慧海洋等领域的实际问题。\n    天卫科技充分利用“多颗卫星轨道资源”，以及中国航天科技合作技术资源，投资建设国产卫星“通导遥”一体化大数据中心，形成数据开放和共享机制，形成具有“金砖+”、“一带一路”、“闽台融合”特色标签的“通导遥”一体化卫星大数据服务特色产业。",
+      "labels": [
+        "节日福利",
+        "免费工装",
+        "有无线网",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721464225223,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天卫科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

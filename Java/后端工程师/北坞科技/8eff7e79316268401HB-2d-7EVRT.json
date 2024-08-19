@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aoYwe3eJ4X9vN-s14UeQHdFGtkhzx2CyIFcsqpHdh_WAn33R6fTfaaUXGA9VBLf1b4z80PziCHrD7zFQlWHUv-VN2ccWaYZjT85-JFjEz5V7f_qqLSE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8eff7e79316268401HB-2d-7EVRT",
+      "encryptUserId": "360875b515e9e4c31HZz29S6E1o~",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100600,
+      "locationName": "晋城",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、大专以上学历、计算机相关专业，2年及以上实际发经验；\n2、Java基础扎实，精通IO、多线程、集合等基础框架，了解JVM模型及原理；\n3、熟练应用spring/springmvc/springboot等开源框架，并对其核心思想、实现原理有一定认知；\n4、熟悉常用的关系型数据库mysql等有一定的了解并有一定优化经验，熟悉常用nosql数据库redis或mongodb等非关系型数据库，有实际使用经验\n5、了解分布式、缓存、消息、搜索、负载均衡等机制和实现\n6、熟悉Linux下常用命令；",
+      "encryptAddressId": "ced57d1cd458e7ff0XB_3t-9GVNRxoy3WP4~",
+      "address": "晋城城区瑞信小区2号楼",
+      "longitude": 112.843525,
+      "latitude": 35.488583,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf6394c5b9c653245f67d48f7f6b3a53666bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf9650ba4ebb7fea419bbe81737c91357c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "架构设计经验",
+        "物联网经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190326/98aa4f0866091dd14f964c1e05b4f37dcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "北坞科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2882dbdb0e748ae01Hd-2t--GVQ~",
+      "brandName": "北坞科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723459156248,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北坞科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

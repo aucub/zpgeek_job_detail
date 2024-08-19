@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NSYWUzWRzpYOt-_1WKpnysPSbka4CK0JBHaafENJ12rRuwvwH99j0QoppHmjmKGGv-Z9MuBPSuoYZ-q7X4AUZc5MyN9EONkcUn8lDkdLEr8xz2hw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6fb5113b0fd2ad7c1Hd-39W8FlQ~",
+      "encryptUserId": "f2c9d827b7a697790nZz2ti8EVQ~",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟悉Spring Boot、Spring Cloud微服务；\r\n2.两年及以上JAVA WEB及移动接口编程经验，熟练掌握Spring、Spring MVC、MyBatis等主流JavaEE框架，熟悉或了解ElasticSearch、Redis、Nginx。\r\n3.熟悉Javascript，JQuery，HTML/CSS等技术。\r\n4.熟悉或了解BOOTSTRAP、Vue.JS、Angular.JS等前端框架。",
+      "encryptAddressId": "2cdefc3c42ec6c6d1XBy2Nu0EVs~",
+      "address": "青岛市北区青岛纺织博物馆",
+      "longitude": 120.379206,
+      "latitude": 36.145192,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d1819bdffeb48c02351bc9638bac9c1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/638c4162c2ec81f167a0d1f42931fa9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "前端开发",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青岛合众鸿途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7e326171458dc7b91HB42tq-Fw~~",
+      "brandName": "青岛合众鸿途",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464938530,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛合众鸿途",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

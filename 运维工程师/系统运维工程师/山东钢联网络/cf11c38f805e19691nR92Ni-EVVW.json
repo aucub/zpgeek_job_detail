@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VgEV95QOBeYZ3-01-_Qc0cdWCSiaN4VZvA6-1u3F0xNNI7omtCdIBYou-X-XunP4GE6kclHevLnGLVskVftiUDHTDXDNbCkPfAqK0_aFAPP53SwWVXV8w7us-zppnQC2h1WDsaZG3v4kRA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cf11c38f805e19691nR92Ni-EVVW",
+      "encryptUserId": "20d15d443ca73f661nR-3du9FltQ",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101121700,
+      "locationName": "聊城",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n\n1.负责软件系统上线前培训、部署、实施工作，软件系统上线后的系统维护及用户问题跟踪处理工作。\n\n2. 负责微服务系统维护及优化，快速定位及排除故障，确保系统运行稳健。\n\n二、任职要求：\n\n1. 计算机专科及以上学历（学信网可查学历）；\n\n2. 熟悉linux操作系统\n\n3. 掌握Java基础 ，熟练微服务框架的应用，如springboot、springCloud等熟悉微服 务 (Java) 搭建、管理等。\n\n4. 进行微服务k8s和docker持续发布，监控，调优和故障排除等（必需掌握）；\n\n5. 对分布式服务的相关组件搭建过集群者优先，如nacos，fastdfs，rocketmq，rabbitmq，redis，mysql，mongodb……\n\n6.搭建过自动化部署平台的优先,对Jenkins,Gitlab,Harbor,Rancher,k8s相关服务熟悉优先",
+      "encryptAddressId": "16f930245c58cc7b1HJ909i8Fls~",
+      "address": "聊城东昌府区新金鼎新东方国际高管1165",
+      "longitude": 115.989228,
+      "latitude": 36.455483,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa290a19d1d15b977720c7bcc62e9f89",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e39e3f9f51c6ca58fad8fde349f795aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Web端",
+        "SQL",
+        "运维工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山东钢联网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "13eccb0ee7298dd50H1609W8Eg~~",
+      "brandName": "山东钢联网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721446572667,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东钢联网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

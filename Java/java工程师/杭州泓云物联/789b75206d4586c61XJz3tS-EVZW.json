@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "x1gLwm7IZ1HVo-b1ZcuBgnTcMaSxPxfWSLL_2MwGaG4P7GuzVL3UGvMJSqKrnhNXN8XM8mEYkgb1o5DWO9Mhx7XF2ownoJ-34IBchsYCYvdl9ixi-Ggj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "789b75206d4586c61XJz3tS-EVZW",
+      "encryptUserId": "65d86eddad91b6e00nV839-7FVRZ",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业大专及以上学历，2年以上java开发经验；\n2、精通Java开发语言，熟练使用websocket，netty等网络技术；\n3、熟悉Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud等框架体系；\n4、掌握至少一种消息中间件，如RabbitMQ，Kafka；\n5、有良好的数据库设计和SQL的编写能力，熟练掌握但不限于Oracle/MySQL/PG等数据库基础，熟悉Redis缓存技术；\n6、熟悉Linux系统优先；",
+      "encryptAddressId": "981544b077e1491c1XRy3NS9FVA~",
+      "address": "杭州余杭区海创科技中心4幢610",
+      "longitude": 119.996503,
+      "latitude": 30.276096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0e2e42a8e85f46f6df0e6bd0c6ee7a1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac1a9a92ea84b7bea7ad006c204760d8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "童先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "杭州泓云物联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d71c3b5b99335d31n143ti9EFc~",
+      "brandName": "杭州泓云物联",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州泓云物联科技有限公司是一家专业提供融合通信系统、应急指挥调度系统、应急管理指挥信息系统、城市运营中心应急指挥系统、智慧园区应急指挥系统、应急数据驾驶舱、无人机应急指挥平台等一站式应急解决方案提供商。慧点科技致力于智慧应急与公共安全的技术创新；",
+      "labels": [],
+      "activeTime": 1721468376073,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州泓云物联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

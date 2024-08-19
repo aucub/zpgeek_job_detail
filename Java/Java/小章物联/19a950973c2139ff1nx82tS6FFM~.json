@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lC9VjO3VSPeGN-Y1PmxoAKrpPz_oop947tDrPAxXIabVqDboqahO7eKn-MbvLjrLMSfZ1m3SsN119G6PzwLh5gjbvrqCogxig5k90d_1sKeF5yld",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "19a950973c2139ff1nx82tS6FFM~",
+      "encryptUserId": "035a5bab92006c701HJ809W5FFQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、按照工作计划和进度完成系统模块的开发任务，保证开发的质量；\n2、能理解复杂业务逻辑，对业务模型进行设计、建模，编写出规范的设计文档；\n3、对自己开发的功能模块进行单元测试及整体测试等；\n任职资格：\n1、Java基础扎实，理解IO、多线程、集合等基础框架，对JVM原理有一定的了解；\n2、3年及以上J2EE项目开发经验，对Struts2，SpringMVC、Mybatis等开源框架熟悉，了解它的原理和机制\n3、熟悉分布式、缓存、消息等机制；\n4、熟悉多线程及高性能的系统设计，有高并发后台应用的开发经验；\n5、熟悉Mysql，Oracle；\n6、熟悉nginx\n\n7、熟悉微服务，小程序，h5界面开发；\n8、熟悉memcache, redis, mangodb等主流NOSQL存储开源项目；\n9、良好的沟通、团队协作能力，责任心强，能承受较强的工作压力；",
+      "encryptAddressId": "5b891438ad7eea6c0HN72tS1GA~~",
+      "address": "深圳龙岗区鸿生源大厦B栋510",
+      "longitude": 114.084944,
+      "latitude": 22.624591,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/782c808c4c070e9198ae55e697694611",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f60c89295e28e95db514616b3786875",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "Web前端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梅先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "小章物联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5cd3b5716ab84e221nJ839S8Ew~~",
+      "brandName": "小章物联",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180410/0d536b3a06fea23da3a07a5660c4bb80cb06956a1284519e003dd54cbfd24a0c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "小章物联是物联科技综合服务商，专注移动支付系统开发与定制。\n为传统设备制造厂定制智能产品及收集大数据。小章以提升人们生活品质为使命，消除人与设备、服务之间的诸多障碍，达成资源大融合，让用户时刻享用所需的服务。现阶段，小章着重打造社会智能化生活。",
+      "labels": [],
+      "activeTime": 1721454403546,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小章物联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

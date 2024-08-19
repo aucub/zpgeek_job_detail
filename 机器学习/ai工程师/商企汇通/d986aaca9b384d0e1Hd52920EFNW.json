@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3FRvxAYJ90aNr-o1Xhnwj3-PW4HLYr-_qXiVJuHWkrWTpXt6eQpiOwfR9yIJu226XI_RKJni7z9susbtpryw2s8whjoO0d_JipQZGypl1R51LzfMJ--QaaezMPz_acrkR00K6sLbDJ_K",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d986aaca9b384d0e1Hd52920EFNW",
+      "encryptUserId": "07e05c032a857dd20nx_2t69Eg~~",
+      "invalidStatus": false,
+      "jobName": "ai工程师",
+      "position": 101301,
+      "positionName": "机器学习",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "知识库产品研发人员：负责设计和开发基于知识图谱技术的知识库产品，包括知识仓库、知识搜索、知识问答机器人等功能。需要具备以下技能：\n熟悉知识图谱的基本概念和技术，如本体、三元组、RDF、OWL、SPARQL 等；\n熟悉知识抽取、知识表示、知识推理、知识融合等方法，如 NLP、NER、KG Embedding、GNN、MLN 等；\n熟悉知识搜索和知识问答的基本原理和技术，如倒排索引、向量检索、BERT、QA System 等；\n熟悉常用的编程语言，如 Python、Java、C++ 等；\n熟悉常用的知识图谱平台和工具，如 Neo4j、AllegroGraph、Jena、OpenKG、Cognitive Graph 等；\n有良好的知识管理和知识工程能力，能够根据业务需求构建合适的知识库和知识产品 。",
+      "encryptAddressId": "7c35c25feac823f403Z83tq5GVpQwo6-Vvw~",
+      "address": "杭州萧山区碧桂园·深蓝国际1幢1806室",
+      "longitude": 120.233834,
+      "latitude": 30.235467,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd524f5e05232a09471f50c0c069c93716bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1ec0e64b5bd69f65fb9b4d415133be9d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "大模型算法",
+        "自然语言处理算法",
+        "数据挖掘",
+        "大数据处理工具(Spark/Hadoop/Hive)",
+        "AIGC 行业大模型"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "商女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230423/607f1f3d68754fd08bb52b277dffcfaa4080855b61f36be0319fa612c365588cd5583a12b12_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "商企汇通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e3d7c5dd5ae7c3041n162tu_FlM~",
+      "brandName": "商企汇通",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "专注于数字经济领域的创新型企业。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721911025000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "商企汇通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

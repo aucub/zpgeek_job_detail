@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LYjebXo3lgh3P-41tnTgn_qhPYdckCaa2ILcfRC02-lbSEq2tu9HlElewGsahmkYuMqljOVtlEzHsbAt9-E6JPOTUMXu2u2gTxYCswXb9uzW5SXSmQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ddd20b37e356f78433J_09q8ElA~",
+      "encryptUserId": "2f0c173371ae336a1nV83Ni5FFNW",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-5K",
+      "payTypeDesc": null,
+      "postDescription": "1.计算机相关专业，大专及以上学历，可接受应届毕业生,动手能力强；有实际项目、完整案例经验优先\n3.熟练使用spring boot、mybatis 、vue、uniapp  Maven、git等开源框架和工具；（*全栈优先*）\n5.熟悉tomcat  nginx；\n6.熟练使用MySQL redis等相关数据库；\n4.熟悉HTML、JavaScript、CSS、  VUE、uniapp\n7.具备良好的学习能力、沟通能力，能脚踏实地做事\n8.有较强的责任心和团队合作能力，能承受较大的压力",
+      "encryptAddressId": "c4a0c28865cd5b4e1HZ729i9ElM~",
+      "address": "重庆沙坪坝区华宇龙泉大厦",
+      "longitude": 106.468845,
+      "latitude": 29.553796,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b9ca0d815f12daa6d37277b3c063b47",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ef52eaca137bbd3dd17a9714419beb7f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "ERP开发经验",
+        "springboot",
+        "vue",
+        "mybatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "衡磊科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4247fa0acf41fc1433183dW_Ew~~",
+      "brandName": "衡磊科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723901098851,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "衡磊科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

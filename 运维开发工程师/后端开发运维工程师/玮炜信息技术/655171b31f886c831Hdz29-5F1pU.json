@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "32Tc2n1ub2MQT-d1gtDqYi2I4M2DOY1eNFg_hsMuiNq5v8vR4Q_ho9MNS3Wnn5gp1jGIh7G-vAT6QeQHYDVxqXlhY1vFFdPBm0gtEWj_XhrDHAt8nMok",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "655171b31f886c831Hdz29-5F1pU",
+      "encryptUserId": "82de36ed77b815030XV43964ElZW",
+      "invalidStatus": false,
+      "jobName": "后端开发运维工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容描述：\n1.本工作主要围绕医疗场景展开，客户以三甲医院为主，本岗位可概括为是一个定向发展的后端工程师，且听下面工作内容描述；\n2.工作内容包含：\n(1)医院内部系统间接口开发类：包括但不限于：医院信息系统（HIS）与自助机UI、LIS、PACS、EMR等的对接，对接方式包括但不限于：开发API（既有接口框架以.Net为主）、写视图或存储过程（以Oracle为主）、Winform小工具；\n(2)医院对外接口开发类：包括但不限于：医保接口、卫健委等卫生部门接口、各类上报接口等的开发；\n(3)上述开发工作的持续运维、升级工作\n技术能力要求：\n1.精通或熟悉Oracle、MySQL、SqlServer等的数据操作、函数存储过程等的创建测试\n2.精通或熟悉.net开发（目前既有业务以.net framework 和.net core为主）：winform、api\n经验要求（加分项）：\n1.有医院或医疗软件相关行业经验\n2.能够根据实际情况愿意接受和学习其他技术（例如根据医院既有接口业务的框架，可能是PHP、PYTHON、PB等，需要自身理解和转换，例如二如果未来有跨平台需求，能够学习国产化的数据库、后端技术）\n3.有数据库（DBA）、软件开发等相关国家资格证书\n作息福利相关：\n1.冬令时：9：00~17：30，夏令时：8：30~18：00\n2.有高温补贴、出差补贴\n3.项目完成时间优于预期给予奖励\n品质要求：\n1.要对自己的工作有责任心",
+      "encryptAddressId": "e9af047b3b9e455a1nR_3t61E1tZ",
+      "address": "宁波鄞州区科贸中心-东楼1105",
+      "longitude": 121.624384,
+      "latitude": 29.886148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94ce79f31a2e211e97851b553f97ce10",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b5fd1f0f7af8fb96d66b68621a2c9c2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd0554b207f8fad4e59aeec784717aebd07cf34c215a13cbdf8b54b7d14d68f42e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "玮炜信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "29e9d0f1901ee3601X162Ni5EFQ~",
+      "brandName": "玮炜信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230807/7bf6f160950405e939f86900dd48d73d971c46158bf224d8cf34c215a13cbdf8b54b7d14d68f42e8.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [
+        "底薪加提成",
+        "五险一金"
+      ],
+      "activeTime": 1721467350442,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "玮炜信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3UYRFd9catVgz-p11WwfbLxHSdr-WX-orhe-aeAwBoDKkYVWo1UxB5d873UzhWRVZQe3FHIyWUwzMoXldiKJLa-LfW8Tl11FhyTZZKoQfj5Z6CeDEOOi",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "217c463273a2724f1nd42ti0ElRY",
+      "encryptUserId": "76ba711e86aa28750nV-3N64FVJY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "Java语言基础。熟悉java语言基础，了解JVM、内存模型，重点考察面向对象、集合框架（继承关系，实现原理）、异常体系、IO体系、并发集合、多线程。熟悉多线程编程/并发/线程安全\n1、专科及以上学历，计算机类、软件工程等相关专业；\n2、2年及以上相关工作经验，最好能够组建团队加入熟练使用后台相关技术及框架，如spingBoot，Hibernate,spring MVC,spring cloud、servlet、Mybatis等，掌握Tomcat等应用服务器的开发；\n3、熟练掌握java开发语言，熟悉Linux/Unix环境，\n4、掌握软件设计流程，熟悉互联网产品开发流程，掌握常用web、桌面端、手机端后台开发相关技术；\n5、掌握SQL，精通MYSQL、ORACLE、sqlserver等至少一种主流数据库技术。",
+      "encryptAddressId": "94774d0a2d31188003Z82d60FFs~",
+      "address": "贵阳云岩区长冲农民新村(北门)79号",
+      "longitude": 106.7233,
+      "latitude": 26.611371,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e060ef6834ae1c91316ce72b18b63d72",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15e9ec86b6fa5e8fd83b06c237805c0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "Spring",
+        "Redis",
+        "MySQL",
+        "后端开发",
+        "Linux",
+        "GIT",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中力新能源科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "896207eb1f5f40ee1ndy2dm9FFI~",
+      "brandName": "中力新能源科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721454658829,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中力新能源科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

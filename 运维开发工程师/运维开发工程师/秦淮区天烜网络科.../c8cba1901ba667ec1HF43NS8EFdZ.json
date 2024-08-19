@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RyWW7SE4mGAin-C1HVKgYe7HLfoo8OqxlxTO3nEouyuxzqsInVKU_1CDQw2ITgqQvaziz_0JTJ6G3y1F5-1pAYiYiLCQDa_jyMP5hzrpXHXDYWQmloUD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c8cba1901ba667ec1HF43NS8EFdZ",
+      "encryptUserId": "bfc70f16a200c59b0XB63d-_FVVS",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n包括企业客户IT系统的运维，包括不仅限于以下工作：\n1.\t管理Windows 域控及 Azure AD 等基础架构应用。\n2.\t通过MS endpoint manager管理企业各类终端的权限、安全、应用等。\n3.\t管理企业虚拟桌面、云存储与公有云/私有云资源等。\n4.\t管理企业相关Web系统，包括网站 WordPress，Confluence，数据同步脚本等系统运维，\n\n任职要求：\n1.\t专科及以上学历，有留学经历优先，英文读写熟练或精通，口语优秀者优先；\n2.\tIT 运维动手能力强, 一年以上企业应用系统运维经验，PHP开发经验，精通WORDPRESS、MYSQL等；\n3.\t有通过开源自建O&M系统的经验与能力，对IaaS，PaaS，SaaS的运维有自己的理解与实践。\n4.\t掌握国际版和国内版Azure环境、MS HCI环境，有Azure搭建与云迁移的能力。\n5.\t具有完备的SLA体系构建能力，并能够实现故障排除以达成SLA。\n6.\t有Azure相关认证证书，有M365，AD，Endpiont属于加分项。\n7.\t熟悉linux+Mysql+Php, PHP和MySQL数据库的设计，配置、维护、性能优化；\n8.\t具有高度的责任感，有规范化文档编写良好习惯，有团队管理经验加分；",
+      "encryptAddressId": "b027507f491664890HN73d-8EFBVw4y8Uv0~",
+      "address": "南京雨花台区南京市雨花区金证科技园606",
+      "longitude": 118.778435,
+      "latitude": 31.971973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf75fd8594627a605149ceec72e3dec4676bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf7e7689ef5ecdac7fa89b75480fe10dcc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Zabbix/Prometheus",
+        "Ansible/Salt/Puppet",
+        "运维开发经验",
+        "CCNA/CCNP",
+        "MS endpoint",
+        "MS Azure"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "秦淮区天烜网络科...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2aaf176ad1cff7021HB-3tu4Flc~",
+      "brandName": "秦淮区天烜网络科...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240425/7b5b554d84f9729c46daa34972404807f63648605904a6652902b6d141cdc4b41eac306bd95bf0d4.jpg.webp",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "精品的中欧跨境ICT咨询与服务提供商",
+      "labels": [
+        "餐补",
+        "包吃",
+        "员工旅游",
+        "带薪年假",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723697756597,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "秦淮区天烜网络科...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

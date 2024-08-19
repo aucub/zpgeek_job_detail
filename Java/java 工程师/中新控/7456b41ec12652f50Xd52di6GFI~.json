@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k93Zt6ANvzWwF-01I8ap4zHpRgWz2gSHYS7Y-VxdML0wXWFkheaVTIwHJjeRD_cb7ltRdTDIznXu5hbR1wNWpjyY1ClWVAsVl3I1C1z6UtRci5lb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7456b41ec12652f50Xd52di6GFI~",
+      "encryptUserId": "9f4057d23a12bc350n162t20Fls~",
+      "invalidStatus": false,
+      "jobName": "java 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、完成软件系统代码的实现，编写代码注释和开发文档；\n\n2、辅助进行系统的功能定义程序设计；\n\n3、根据设计文档或需求说明完成代码编写，调试，测试和维护；\n\n4、分析并解决软件开发过程中的问题；\n\n5、协助测试工程师制定测试计划，定位发现的问题；\n\n6、配合主管完成相关任务目标。\n\n任职要求：\n\n1.  1年以上JAVA开发工作经验；\n\n2.精通Java语言编程，熟悉网络、多线程编程技术\n\n3.精通spring boot，hibernate等框架, 熟悉springcloud优先考虑;\n\n4.熟悉redis、memcache、kafka等数据组件；\n\n5.熟练使用mysql，熟练运用sql，并进行性能优化；\n\n6.具有高并发、大容量、分布式等系统的架构设计和开发经验，有金融支付系统的优先考虑；\n\n7.具备良好的编码习惯，较好的质量意识，文档编写能力。\n\n8. 具有微信支付/支付宝开发经验优先。",
+      "encryptAddressId": "f7d97cc779ebeea51XFz3d28F1U~",
+      "address": "深圳南山区花园城数码大厦",
+      "longitude": 113.920652,
+      "latitude": 22.499146,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2857f99fdaba18ad9fa9c9841343cc1a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76d0da3aa588923221211711b2c3d704",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Spring",
+        "Hibernate",
+        "分布式技术",
+        "MySQL",
+        "Redis",
+        "Memcached"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210614/8234ea4cf926c74cac5b18f8afcef17088fe4fc0b28cc764d9991665239_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中新控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d7830871df187d2103F82t2_Fw~~",
+      "brandName": "中新控",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721453829477,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中新控",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

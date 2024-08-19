@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XfTZV56W6qMq6-_14D3y69oLSDG1Uo_HpLX-iHVK8C9fXB6I-p4ab7gmhb5_9pOq4fFkoTbd2p42EAQ46InZo9Vswr3xHkAxDew2P1X9ZPWIdQasQj0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2e385831f8622f121XB92d-0EFtQ",
+      "encryptUserId": "9dc47f81fe8da4b50nB80t69F1E~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200900,
+      "locationName": "宜昌",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、按照业务需求，负责平台或业务系统的设计、维护，以及代码开发工作。\n2、负责项目功能开发、系统优化；协助解决项目开发过程中的技术难题。\n3、根据开发计划，按时保质保量完成公司交予的任务。\n4、维护项目平台系统正常运营。\n\n任职要求：\n1、软件类相关专业，1年以上全职Java Web 项目开发工作经验。\n2、java基础知识扎实,精通多线程编程,具有良好的编码习惯,对软件工程的标准开发流程有一定的理解和经验，具有独立开发和解决问题的能力。\n3、熟练使用maven、svn或git工具、熟悉spring boot框架，熟悉Spring对其他框架的整合。\n4、熟练使用MyBatis ORM框架,熟悉数据库连接池，熟悉MyBatis的核心API，对MyBatis的关联映射、继承映射、组件映射、缓存机制、事务管理以及性能调优等有深入的理解。\n5、熟悉MySQL/Sql Server 数据库中的存储过程、索引等功能，熟悉表结构设计的原则。\n6、熟练使用redis开源缓存存储方式、消息队列，了解其实现原理。\n7、工作认真负责，具有较强的责任心，有较强的学习意愿，沟通良好，能适应较强压力。",
+      "encryptAddressId": "c156968e64b55ec50XR43Ny4GFs~",
+      "address": "宜昌西陵区微特智慧谷3号楼",
+      "longitude": 111.326862,
+      "latitude": 30.689323,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/362f2823d2829e71d0fb9f8a552937df",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/234556331316ab076077edc2cba421db",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "金和科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7799811e13dc7da01XRz0tW-FlQ~",
+      "brandName": "金和科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721464955037,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金和科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

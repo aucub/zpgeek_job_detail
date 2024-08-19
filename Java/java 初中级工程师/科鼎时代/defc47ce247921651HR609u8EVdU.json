@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "p109WIHkm2Txk-413rDPdrOMlVLT3ilxlcv37lxIp-t_xt2i1ESl1gDUrSdqONTZ1zPKD_0mBysMd4B0A6EiJ5sJTB-nf8AEDlZDA7erdd49fPT058gDacL8smItXo8L_JufK5KMmdoLLIZb8V5JYGag",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "defc47ce247921651HR609u8EVdU",
+      "encryptUserId": "4c547e1c79a1a5cd0XV52NS7ElZW",
+      "invalidStatus": false,
+      "jobName": "java 初中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": ">>岗位职责\n1、根据需求文档，参与系统和模块设计。\n2、参与业务系统核心模块开发。\n3、根据项目任务计划按时、保质保量完成软件编码工作。\n4、完成代码的单元测试，配合相关人员进行系统测试，对软件Bug及时修复。\n5、严格遵守公司的软件开发相关规范，编制功能模块的开发文档。\n>>任职要求\n1、统招专科及以上学历，2年以上Java工作经验（不包含实习），计算机软件相关专业。\n2、JAVA基础扎实，熟练使用多线程、网络、文件、集合等基础库，对JVM有所了解。\n3、熟练使用Spring、SpringBoot、Mybatis、SpringMvc等应用框架，并对其原理具有一定的了解。\n4、熟练使用常用的数据库（Mysql/SqlServer/oracle），并可进行一定的数据查询调优。\n5、熟悉JavaScript基础语法，熟练使用jQuery、EasyUI。\n6、熟悉Maven、SVN、Git、Eclipse、Idea等常用工具的使用。\n7、熟悉Linux系统下的常规操作。\n8、有SpringCloud、Dubbo、Vue等开发经验者优先。\n9、具备非常良好的问题分析能力和沟通能力，思路清晰，善于思考，能独立分析和解决问题。\n10、较强的自学能力，对要求的新技能能够快速上手。",
+      "encryptAddressId": "f3fb20b1f875989b1nR93Ny4EVBR",
+      "address": "北京丰台区汉威国际广场4区3号楼",
+      "longitude": 116.295209,
+      "latitude": 39.821367,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861788f8e7c4bdec2799077ebac84e33",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/594b2ab52679175a8713c2bed1853945",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "不接受居家办公",
+        "中大型项目架构设计经验",
+        "MySQL",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230802/607f1f3d68754fd03758a76b997fe8b09d16e6e5e2db25720a56597bb24603731ce8ca730a2f938_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "科鼎时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "316107f76bcf230d1XVz3t-7EVo~",
+      "brandName": "科鼎时代",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "团建聚餐",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724046148391,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科鼎时代",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

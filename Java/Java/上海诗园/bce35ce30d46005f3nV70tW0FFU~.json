@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DLa0iuzGHD0M1-V1sHIJtd68z_ghvW01uQUIn2eG7wxXt7eew-U122JANLPM_wpoj63FYNZEXadA8eb72FntOr3K-kpyB0psxDUBSNpHPTpi2fVz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bce35ce30d46005f3nV70tW0FFU~",
+      "encryptUserId": "bef0939354933b2b1nZ_2tm9F1s~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "java 后端岗：\n岗位职责 \n1.与客户端、web同事进行前后交互调试\n2.独立完成部分模块功能开发，完善和优化现有模块功能，确保软件开发质量\n3.积极参与项目的讨论，并完成相关设计和接口描述文档\n4.公司会根据项目需要安排，在上海市内平安互联网产品线项目组驻场工作。\n\n岗位要求： \n工作年限：3年左右\n任职资格：\n1. 3年以上Java服务器端开发经验，有互联网金融行业开发经验者优先\n2. 精通Java core,熟悉tcp/ip通信，多线程及高性能的设计、编码及性能调优\n3. 精通J2EE开发技术，如Spring boot/mybatis等开源框架，如 apache/nginx/tomcat\n4. 熟练数据库相关技术，有mysql/sqlserver/oracle至少一种开发经验，对NOSQL相关技术有所了解，熟悉redis/hbase/mongodb更佳\n5. 熟悉微服务框架如spring cloud, 消息中间件 kafka,分布式任务如xxl,saturn等\n6. 具备服务化编程经验者优先，有性能调优经验者更优\n7. 具有良好的沟通能力及团队协作精神，有较强的学习能力",
+      "encryptAddressId": "9d7fc50c6aa21e161n1729--FQ~~",
+      "address": "上海普陀区中关村科技大厦5楼",
+      "longitude": 121.416702,
+      "latitude": 31.240585,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9e85d1f8ec3ed3a5198a1d8cff1890d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d8277da9a8e5e7fdda2c63ef48e5a67",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "Spring",
+        "全栈开发",
+        "HTML5"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孟先生",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海诗园",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4a73bb0f085a87e71H153d-5Eg~~",
+      "brandName": "上海诗园",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190924/403075cad4bb5f36b4134f75243823bcfe8c559b1d16fb46aaa667a39abd3fc9.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721454416165,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海诗园",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

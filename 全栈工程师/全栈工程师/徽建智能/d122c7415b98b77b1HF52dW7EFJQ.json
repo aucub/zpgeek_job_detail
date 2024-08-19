@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "px_dOIWNs5QQS-r1eVcQ0NcyARhUo88rbuxyAqsF3nnPkv6cScexDqu8imHwrQ1FSW0K9o-JFOwoD3VhmxXU1T0NRl9lantpQxqjExuQJBufyTsViI8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d122c7415b98b77b1HF52dW7EFJQ",
+      "encryptUserId": "803a7515ba0ac7470nBy39u0F1s~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司项目的前端、APP和小程序开发工作；\n2、负责前端交互及数据展示API接口的编写；\n3、参与项目总体架构设计，对开发内容提出解决方案，编写技术文档；\n4、基于Angular、nodejs、nestjs、jQuery、bootstrap、CesiumJS、ThreeJS等框架或库进行开发；\n5、根据产品需求文档和设计图，实现业务功能持续优化；\n6、参与公共组件库的开发；\n7、关注线上运营情况，保证线上高稳定性。完成上级布置的其它工作。\n任职条件：\n1、本科以上学历，计算机相关专业，3年以上相关工作经验；\n2、3年以上相关前端、APP和小程序端开发经验，否则勿扰；\n3、Java后台开发要求：JAVA基础扎实，熟练使用SpringMVC、SpringBoot、、MyBatis、Redis、Maven、IDEA等主流的开发框架及工具；\n4、前端开发要求：熟悉HTML、CSS、JavaScript、JQuery等相关前端技术，熟练使用 VUE框架进行前后端分离开发，并有实际项目开发经验;\n5、熟悉MySQL数据库，能应对MYSQL常见问题的处理，能对查询性能进行优化；\n6、熟练掌握常用的Linux命令 、shell脚本；\n7、有应急、公共安全、消防及住建部门信息化项目经验者优先。",
+      "encryptAddressId": "04361dc307b79f901nd-2967GVJS",
+      "address": "合肥蜀山区华东电子工程研究所101大楼3楼",
+      "longitude": 117.246589,
+      "latitude": 31.857192,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bf18ac4cc7ae9fb18608880ac18261876e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230728/48ba41acc9cef1bf36992e295e581f71bda5ed7905e22eb86bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Vue",
+        "JavaScript",
+        "HTML",
+        "Java",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190224/5a3ea20ac11b85cfa6d0fa9877b9fc03704231876ad3672a259328714f5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "徽建智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "42f8fd026ed3027d1XVz0tq0FVs~",
+      "brandName": "徽建智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723248563000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "徽建智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

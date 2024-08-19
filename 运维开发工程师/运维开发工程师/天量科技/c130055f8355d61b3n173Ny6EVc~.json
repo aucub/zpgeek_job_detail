@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fyRPVVYheGbJH-N1n8PwlggZQ66aT4R5hZoXfej4G-GWgZ-YI9SksFjnLen3fk-CVdm6vwA06kJMTEp0Bzanj-QHUKyEaHWetoZ7UU1UK-9Z9wBswg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c130055f8355d61b3n173Ny6EVc~",
+      "encryptUserId": "31d94a000e0240781H1_39i7FFY~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\n1、可以接受每周一次到两次的夜班（一周最多两次）\n2、可以接受每月两次的周末值班。\n\n工作内容/职位描述：\n1、 负责信息化平台的运维及二次开发，包括需求分析，平台实现，脚本编写，日常维护等； \n2、 协助系统故障诊断和自动诊断功能建设； \n3、 参与平台间的数据对接的开发与维护； \n4、 参与负载均衡相关技术的跟踪和调研； \n任职资格：\n1、 熟练掌握Python开发技术，具有Python运维开发经验或数据分析经验者优先； \n2、 有Django/Flask框架经验优先；\n3、 有Redis、MySQL数据库经验优先；\n4、 有Bootstrap等WEB前端技术框架经验优先；\n5、 熟悉Linux操作系统，熟悉Linux下常用开源软件的安装配置，如Tomcat、Nginx等； \n6、 熟悉Docker容器管理；\n7、 具有一定的项目运维/实施经验，有监控项目或自动化运维项目实施落地经验者优先； \n8、 责任心强，具有良好的沟通技巧、学习能力和团队协作精神。\n\n公司福利\n定期体检\n节假日礼品，社保和公积金",
+      "encryptAddressId": "aa490f472561a6d61HBz39y0EFY~",
+      "address": "成都武侯区环球中心N5栋19楼1911K",
+      "longitude": 104.061313,
+      "latitude": 30.571044,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41b1625647326156e2525c35e47cadbf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e08d4ab37785bdc1f2053e1bddb206ea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "自动化运维",
+        "SQL",
+        "Linux",
+        "Docker",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200910/0994efe78bfef5662252cac1af74e13410572bbbd0341361c1883c58d8e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "天量科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "555030b6949d2ffc1nV93tS4ElE~",
+      "brandName": "天量科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200928/3d3c1a9b1fe867ce0456e9c1c322a99310572bbbd0341361c1883c58d8e277e7_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "成都天量科技有限公司2020年7月成立，成立2月内已获200多万项目收入。公司聚焦智慧交通项目的集成和应用，创始团队中都是在行业内十多年经验的领军人物，覆盖商务推广、方案设计、研发实施、科研合作全领域。未来交通行业将急速向以AI和大数据为基础的物联网、车联网发展，有更多的信息化、数字化项目需要吸收更多优秀人才。希望志同道合的你，与我们一起努力，见证交通强国的实现。",
+      "labels": [
+        "五险一金",
+        "节日福利",
+        "加班补助",
+        "定期体检"
+      ],
+      "activeTime": 1721467320429,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天量科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

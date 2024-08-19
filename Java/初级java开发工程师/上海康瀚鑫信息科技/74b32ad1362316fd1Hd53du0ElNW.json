@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8MyMOlE6yIoBn-T1dPnRy4CxeVPV9aAP0a7Mmn5um-KiaTFCcDtS-67wFNFpgP-D5vQIoT2RedwBminBQTz4X2f4Ku8EEJgfsT_DF-FRPr9tgDmD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "74b32ad1362316fd1Hd53du0ElNW",
+      "encryptUserId": "85ac83372030eeb13nxy2tW9",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1、撰写相应的开发文档和接口文档；\n2、根据工作安排高效、高质地完成代码编写，确保符合规范的代码规范；\n3、与设计团队紧密配合，能够实现实现设计师的设计想法；\n4、确保代码有效对接，优化前后端性能。\n【任职要求】\n1、本科及以上学历，计算机相关专业，1年及以上Java开发经验，有软考中高级证书优先。\n2、精通运用Java，spring boot，spring mvc，Mybatis能独立设计并实现功能业务，优化代码逻辑，提高运行效率；\n3、能使用vue开发管理页面优先；\n4、熟悉SQL Server，MySql等关系型数据库，熟练运用Sql语句进行数据库操作；\n5、熟悉Redis，MangoDB等非关系型缓存数据库，熟悉kafka，rabbit MQ消息队列；\n6、有过安全信息化平台或其他安全相关大型管理系统开发经验者优先。",
+      "encryptAddressId": "20d52701a5b7926b1HN72tu5ElFVy4i4VP4~",
+      "address": "上海浦东新区陆家嘴金融街区101",
+      "longitude": 121.557394,
+      "latitude": 31.233802,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/435b5dcd3c99ec5296959196d2603901",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24a9331bdc91c0ee57682028f0b693de",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "上海康瀚鑫信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6305ccb5fe707f031HZ43N-5EVI~",
+      "brandName": "上海康瀚鑫信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723628427436,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海康瀚鑫信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

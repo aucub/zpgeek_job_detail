@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hc-CchLZW1zOt-I16hlFy8qI0d-cYe32aefPxlAm1-RYh_8SWoCTGUPihDbvOLzMF65r3M54O2p8bp_AFSDk2BN4DqsL4qkVMwtvSksFAS5B2-g~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d490897b970607021nR83dq9FVI~",
+      "encryptUserId": "8fe5f627c2d06ea01nV929m-E1o~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责移动客户端后台系统、数据采集系统的设计、开发、调试与运维工作； \n2、负责相关技术API接口文档的编写与维护工作； \n3、负责和业务相关部门的对接。\n\n职位要求 \n1、精通java开发,2年及以上java实际开发经验,熟悉linux常用命令的使用； \n2、计算机等相关专业本科及以上学历； \n3、熟悉MVC架构，精通Struts,Spring,Mybatis开源框架使用； \n4、熟悉TCP/IP编程,熟练使用mina,netty等网络编程框架； \n5、至少精通Tomcat/weblogic/jboss等常用的应用服务器的一种； \n6、具备mysql数据库设计和调优能力，至少熟练使用一种NoSql或者缓存架构的使用。如mongodb/memcached/redis； \n7、熟悉使用NginX+keepalived实现高可用的负载均衡； \n8、工作严谨认真，态度积极，责任心强，思维活跃；具有良好的敬业精神和团队合作精神；  \n9、有服务器负载集群架构经验的优先。",
+      "encryptAddressId": "14b8688a7761d2cd0nZ929m6Eg~~",
+      "address": "深圳旭生大厦5楼518V",
+      "longitude": 113.863603,
+      "latitude": 22.583821,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a16a4a3478d7807168abb65a29a5242",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1cbfc61171ef218ead39882af6b1c2f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160521/c1ecb7e7f233f2c575f54746810042758c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "微明",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4d2ffa22aa42b4841XN-3Ni7",
+      "brandName": "微明",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721461917651,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微明",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FHE779rV2lUNL-t126l32orv23rBBr_ym3xOUcyeNXGEk5Kgjz7aPL8k990PkoFlnxeoSuSdIiXsPJfdykgeZIYGeFyRBpxJ85zQIACUjFz-S4oixE8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "18befd67188c8e3e1nN72t-9FFpW",
+      "encryptUserId": "498b4c4cb73f61871nV80t6_FlVT",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司业务平台管理端开发；\n2、完成公司布置的任务；\n3、根据现有架构优化业务代码；\n任职资格：\n1、熟练掌握java基础知识；\n2、熟悉常用的设计模式及UML，常用的算法、数据结构模型；\n3、熟悉主流的技术，如Spring、Springboot、JPA、Redis、Nginx、MyBatis等；\n4、熟悉主流的关系型数据库，如mysql。有数据库设计、分库分表、主从分离、SQL调优等有相关经验优先。\n5、熟悉主流的NoSQL数据库如Redis、MongoDB、Elasticsearch，有高并发系统设计经验优先；",
+      "encryptAddressId": "9b565aaa291d304b1nd-3dW8FVY~",
+      "address": "海口琼山区上城名都1号楼1-108",
+      "longitude": 110.342484,
+      "latitude": 19.988325,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1d60b4aeda5c7f092a9ebe3fcba568e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28c1833fe35347ad79215855bee53333",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Redis",
+        "MySQL",
+        "全栈开发",
+        "Linux",
+        "MVC开发",
+        "SpringBoot",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "比特象",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "eba3a12c581476ed3nZ92du8GA~~",
+      "brandName": "比特象",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201103/8e8099df015412fcc5408f9a185f3502a32daab8b8c01c5c11bc8b1e490b0445.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "比特象科技属于初创公司，创始人毕业于北京邮电大学及英国帝国理工学院，有感于北大教授的工作流理论，出来创业，致力于实现理论的产品化。目前公司有两款产品，一款关注于企业管理数字化，目前在消防领域得到了广泛应用，典型客户包括南航、海航基地、大型酒店、医院等。另一款助力企业的数字化转型（正在开发中）。热忱欢迎各位人才加入比特象，投入到数字化时代的浪潮中，在下个10年创造自己和企业的辉煌。",
+      "labels": [
+        "股票期权"
+      ],
+      "activeTime": 1721464223670,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "比特象",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

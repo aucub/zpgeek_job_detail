@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hT5zOyoPSInBG-i1yuG5Sd4GldBTj4ARL8RkYo1f5vg4q_EeD5KHtCCZO-dn7A7MZVzIU3jgNZCWYOsnkXeuwQT0B6-aelb_2c7bw5R3xnAXNFyRFEbv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "309a4a2524a8c61b1nN_0t66FlFR",
+      "encryptUserId": "4e8903388225d4ae0nZ539y9E1JS",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "部署公司的产品，1.主要包括nginx nodejs vue mysql等基础软件的配置\n2.数据库初始\n3.有docker基础更佳",
+      "encryptAddressId": "df3071e0345fa3e51nd-0921GFs~",
+      "address": "杭州萧山区浙江大学杭州国际科创中心1212室",
+      "longitude": 120.257157,
+      "latitude": 30.20637,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51e1df5e871e5c45b8396ba7b4c1dfdc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c681d43ec28dd11aa39d8945a613e581",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "系统运维",
+        "Linux",
+        "Windows",
+        "Nginx",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "薛先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "小芃",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "99725a02347876061nBz3NW4FFM~",
+      "brandName": "小芃",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "工业智能制造领域的一匹黑马",
+      "labels": [],
+      "activeTime": 1721468676203,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小芃",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

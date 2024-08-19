@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pHojEGt7GfisZ-c1T8nGz6qSJRKmXScoiOnCaMvF50mX9S1knEb-BfKSWO452gN2k2pT0bXFM2GnYX961Bd4xqxoAdQWGdLv5OgN7-ImIdo0ObKm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fed2e2ec568140cc33Z72Nm7EFY~",
+      "encryptUserId": "cd39a08c564f24bd1XV42dm1EFM~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.精通java基础知识，熟悉多线程并发编程；\n2.熟悉SpringBoot、SpringCloud、Mybatis等常用后台框架，熟悉前后端开发；\n3.熟悉mysql、redis、MongoDB等数据库，并能进行性能调优；\n4.熟悉RabbitMQ、Rpc等消息通信机制；\n5.参与过高并发、高性能互联网项目优先；\n6.本科及以上计算机相关专业；",
+      "encryptAddressId": "39eeb516521033e51HR-3dW7FFA~",
+      "address": "西安雁塔区曲江影视大厦10层",
+      "longitude": 108.955138,
+      "latitude": 34.192637,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77b025fd11bdd90c99b53eb7b59ab33e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05e9d860027334008b58fe0b64edad54",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "NoSQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181107/b78ed9b2d351b7c1da65fd08698ad869748c92044cf779b98e46c69294c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中筑网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64430ce7f925300233B62Nu9FA~~",
+      "brandName": "中筑网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200610/47ba1a8a8ebdcfc0f7c1b9492e3e515a748c92044cf779b98e46c69294c58ae2_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "陕西中筑网络科技有限公司成立于2019年，是一家快速成长、勇于创新、锐意进取的科技公司。我们立足于建筑、医疗、教育、互联网等建设领域，致力于将5G、人工智能等先进技术应用于垂直互联网场景，建设行业内领先的数字化平台。我们研发的“中筑互联”即为建筑行业信息一体化解决方案。\n中筑网络遵循以人为本，以需求为导向，以客户为中心，以服务为宗旨，以创新、专业、求实、诚信为经营理念，正迅速发展成为网络科技领域的一枝新秀。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1721461760101,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中筑网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yZhXfbPW3OsF5-j1t8tkQzkp5wi_C0ifixu5SLJ-r2_I2DadQJjuGNCcDR-L9FejG23E9mG5HJ_TKsq2tSKPNNApgQ1IAdT4kdAShg8Jc0B8hV2r5G6DoszuRO-6gWbwe06W9O54AxdMhg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e6b1763c04bea3591XV83tS9ElRW",
+      "encryptUserId": "06178d9611e3a30f1XN63Ny9FFU~",
+      "invalidStatus": false,
+      "jobName": "初级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.参与开发项目的功能设计、分析与实现；\n2.在保证代码质量的前提下按时完成项目经理交付的日常开发工作。\n3.对已有系统进行后期维护以及二次开发。\n4.对已有系统代码进行提炼重构,提升代码质量，优化系统性能。\n5.项目模块间功能协作开发工作。\n职位要求：\n1.计算机或相关专业本科以上学历，具有1年以上java开发经验；有javaweb开发经验；\n2..熟练掌握Java面向对象编程，熟悉Java多线程；\n3.能够使用Springboot、MyBatis,JDBCTemplate等主流开源框架开发系统。\n4.能够熟练使用Maven、Git等项目管理工具。\n5.能够熟练使用Oracle、MySQL数据库、Redis。\n6.拥有良好的编程习惯。工作细致认真、敬业、责任心强，有良好的学习能力和创新意识，优秀的团队沟通与协作能力。",
+      "encryptAddressId": "0c112e06f3acd1920nVz09u6ElM~",
+      "address": "杭州上城区鑫亚·钱江国际时代广场1号楼",
+      "longitude": 120.205912,
+      "latitude": 30.24025,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78f1f49a7ebdd5a17f9d213af12a4e23",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d58d8fb06ef95ee3b679ab123415d6d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "SpringBoot",
+        "GIT",
+        "Maven",
+        "Oracle",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "瞿先生",
+      "title": "人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170428/12d677f502e57b26a7bc42e98b41b43878d479de076d7d9df7ce90291e6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "新渡桥科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6499336d5670e2c81nJ439W7EVo~",
+      "brandName": "新渡桥科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210507/9a90be919dbebe392d9e85ee59833196668e368b9696d3ad2b7a922cbf60b85c_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447707133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新渡桥科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

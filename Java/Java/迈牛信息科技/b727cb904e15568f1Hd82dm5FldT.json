@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Uhv0CPlzU2HSF-w1tvcIkATtdTCLq1Tb57UW9_LazMcyE-p9KK6QCvkHawO8Q3ZfFKkwWNurVOyq-jl4UqclG3chtvj9wnUAB_f1RquPGTJ_qsvvzmgY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b727cb904e15568f1Hd82dm5FldT",
+      "encryptUserId": "8e222299537209211nZ50tu0FFtU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090100,
+      "locationName": "石家庄",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 本科或以上学历，计算机软件或相关专业；\n2. 熟练使用Spring技术栈（Spring Cloud，Spring Boot，Spring Data, Spring Security）等主流框架和技术；\n3. 熟练掌握MySQL数据库原理和常用的优化技术，熟悉并实际应用Redis缓存技术；\n4. 熟悉缓存、异步、多线程等技术，精通TCP/IP、HTTP等Internet协议内容及相关应用；\n5. 熟悉Java设计模式，精通Java及Web应用的开发；\n6. 熟悉Linux日常工作环境，掌握常用命令，有Linux调优监控经验者优先；\n7. 熟悉Maven、Git代码管理，有多分支并行开发经验；\n8. 拥有对主流技术与发展方向的敏锐洞察力，对卓越代码和优秀结构的强烈追求；\n9. 拥有大规模高并发访问的Web应用架构设计和开发经验者优先；\n10. 具备分析问题和快读定位并解决问题的能力，有强烈的责任心。\n11. 有对接第三方系统经验，做过api对接第三方系统，优先考虑\n12. 熟悉前端技术优先考虑",
+      "encryptAddressId": "ecd257fa6dd4da2033F709-1EFE~",
+      "address": "石家庄新华区中储广场红星美凯龙5楼乐合众创B110",
+      "longitude": 114.476322,
+      "latitude": 38.06817,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25f4ebf5837cf03b66b67284558a7732",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/428dd8402cb07097569fecccac087fcf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式经验",
+        "微服务经验",
+        "SpringCloud",
+        "MySQL",
+        "接受无前端经验/技能",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "门先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "迈牛信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63664239e6b369461XZ93tW_GFc~",
+      "brandName": "迈牛信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "销售公司业务：有赞系列产品及行业销售，全面赋能商家，帮助商家全渠道经营\n\n1、作息时间：每周一到周五上班，上午08:30-12:00，下午13:30-18:00； 中午休息1.5个小时\n2、交通便利：中储广场红星美凯龙5楼，众创B110",
+      "labels": [
+        "绩效奖金",
+        "保底工资",
+        "底薪加提成",
+        "团建聚餐",
+        "有无线网",
+        "免费工装"
+      ],
+      "activeTime": 1724042738298,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迈牛信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

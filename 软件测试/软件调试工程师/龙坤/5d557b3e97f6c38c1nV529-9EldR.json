@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "helbgJeGZTLZD-N1VZl-J4nmQczjoMjlIZY8n8br3IRZbGhgxIoFspKBC_r9aou3YgQMLxw4Eg4oub11SUzcK202C7A0qsN-9iff7XXg5s0H9-QGynw~",
+    "securityId": "WCxbCZtsH4HLZ-D1lSZLKqt7NrhyIx83Amvn_jSyK86Q09WSMwux5EF-gN0Rie2k-eJkvjgglL-oAjTHJ_gvOopVh9b-W4TU5PRjvrudzudH_5CTg2m_GT7EJ_1lpNOUKpdQCYRw0zBGCgSflTvig28~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,11 +46,13 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "龙坤",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "93cef5917eeb6c331nZ-2Nm1Elo~",
@@ -70,7 +72,7 @@
         "通讯补贴",
         "交通补助"
       ],
-      "activeTime": 1718175252829,
+      "activeTime": 1724045351826,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "龙坤",

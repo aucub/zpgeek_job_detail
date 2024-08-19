@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IjSCY14HKe5I--g19gvOuDVPAhUR2peg4On66vweRBA-z9hDKf9dlRjLfrLlrJ5--7YDdjoSYw7-FloeovIOX6AkAy1sJZuy5YQlWr_98kYUQT6WaPIxOsMURL-q9NXJI1phR58dgUaJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78c01ee19b4fd8e91HN82tm-E1JS",
+      "encryptUserId": "45197b2623bfc9950HZ62NS7Fg~~",
+      "invalidStatus": false,
+      "jobName": "后端java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 理解AI产品业务需求，负责公司业务服务端研发；\n2. 参与需求讨论及方案制定，完成开发和联调测试上线工作；\n3. 关注生产环境应用的稳定性，日常性能调优及问题定位和修复。\n\n任职要求：\n\n1. 本科及以上学历,计算机或软件工程相关专业,1-3年以上Java开发经验,有小程序项目开发经历;\n2. 熟悉Java基础技术体系（包括JVM、集合、多线程并发、网络、IO等),同时具备一定程度的python开发能力;\n3. 熟练使用SpringBoot、Mybatis等框架,对框架提供的功能特性有理解，懂得原理及实现方式;\n4. 了解生成式AI相关概念,对向量召回、RAG、Agent、模型微调等相关技术有落地实践经历;\n5. 具备业务系统的高并发调优能力;\n6. 了解CI/CD,理解DevOps相关概念;\n7. 热爱技术,尤其是AI领域,有博客或技术开源社区贡献者优先考虑;\n8. 善于思考,能独立分析和解决问题,责任心强,具备良好的团队合作精神及抗压能力。",
+      "encryptAddressId": "44f21a8868d0b1001nV539q9GFRVxIi5Uv-Z",
+      "address": "杭州余杭区绿岸科创园406室",
+      "longitude": 119.986563,
+      "latitude": 30.27491,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf9b1db3e0bfb5af764649fa30c192ea5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf5a2876731aa16d354b1e7431ffa644fa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "大数据经验",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "云计算经验",
+        "架构设计经验",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "ceo",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240805/607f1f3d68754fd005208a15ffa7fe019d5107b496304bbf5e86f987bec8a1a5fe334e8cad57e63_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "杭州耀尚智汇网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5367a60016e327131HJ-0967EVA~",
+      "brandName": "杭州耀尚智汇网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240805/7b5b554d84f9729cfc527b29bc5d6aa70491fcc6708839075e86f987bec8a1a5fe334e8cad57e638.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723905700264,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州耀尚智汇网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

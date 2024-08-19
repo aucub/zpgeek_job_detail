@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vKXY-cwcUUXVu-J1OvrkckF6VYEjUWzOBP_4RLOuPMEdXz12hSPTlsijoXP8rpk8QCLDIDSsiJh-4mzVJIwZfDSo1uKc5lU3mI7N6GbK5NiPffJuzfDoRKC9cQ8915jSs6UIpgeRvCT5",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "40b53ded8fac05850HJz2du9EFM~",
+      "encryptUserId": "156af16dae6bf8891nR93t-0FVtY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1. 参与产品需求分析，数据库编写；\n2. 负责公司产品及项目的核心功能开发；\n \n岗位要求： \n1. Java基础扎实，熟悉io、多线程、集合等基础框架，对JVM原理有一定的了解；\n2. 熟练Spring、SpringMVC、Mybatis开发框架、熟悉SpringBoot，具有基于SpringCloud或Dubbo框架项目开发经验；\n3. 熟练Mysql数据库设计、分库分表等技术，了解Redis/Mongodb等nosql技术；\n4. 了解常用设计模式，对各种开源的框架有深入了解；\n5. 熟悉基本网络设置，能够应用多种操作系统，如WINDOWS、LINUX等。\n6. 编程思想清晰，有良好的的自学能力；",
+      "encryptAddressId": "ef46890921b7bf9a1XN72t-6GFo~",
+      "address": "杭州余杭区中国(杭州)人工智能小镇1号楼3层306",
+      "longitude": 119.964946,
+      "latitude": 30.271485,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf545a215b78a9c4eee1cfc6b229b8dc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32376dcec0f37d9fd88fa93bfe37cf95",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "MVC开发",
+        "HTML",
+        "初级软件工程师",
+        "后端开发",
+        "SpringBoot",
+        "Dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "业务总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数享智成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3699e29bcd1e3e4833Vy2tu1Fw~~",
+      "brandName": "数享智成",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200507/760d14f6ab21806badfc77ee850f314be1a9162187afc2dfb0c121c2779a88c0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "基于智慧城市的细分条线，进行软件定制开发服务。\n主要服务领域包括住建、城管、文旅等版块",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721447755639,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数享智成",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

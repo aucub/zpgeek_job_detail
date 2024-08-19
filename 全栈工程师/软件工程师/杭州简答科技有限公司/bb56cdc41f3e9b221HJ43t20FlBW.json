@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cvrlvLZokDUAC-w1LEpHKWQRXFL4SORe8E8pFs6Rwe-KHmrqHMxlIIK5L4BVMOYeikLpjmAuVCqdjVvJZ6T2qisMaHn6_lrnovKNGMB7uz8t-1plaPD_4i3DNWXPjxy4Fst6nzVrZznh-GQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bb56cdc41f3e9b221HJ43t20FlBW",
+      "encryptUserId": "a5fab5f0df31203b0XF80960GVBY",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n参与公司项目的开发和维护，包括前端和后端的代码编写。\n协助团队进行需求分析、系统设计和技术文档编写。参与代码评审，确保代码质量和性能。\n配合团队完成项目的测试、上线和维护工作。学习并应用最新的技术和工具，提升项目的开发效率和质量。\n\n岗位要求：\n对基本的算法和数据结构有扎实的基础，具备解决复杂问题的能力。有较强的英语读写能力。\n\n熟悉或了解以下编程语言和框架：\n编程语言：Python、TypeScript\n框架：Flask、React。\n\n了解云服务（如AWS、Azure、GCP）的基本概念和使用方法。具备使用Git进行版本控制的经验。\n良好的团队合作精神和沟通能力，能积极参与团队讨论和项目推进。\n\n自我驱动力强，能够在快节奏的环境中学习和成长。对技术有热情，愿意不断探索和掌握新技术。\n\n加分项：\n有实际项目经验或实习经历，尤其是在全栈开发方面。\n有运维与测试方面的经验。\n熟悉IaC相关工具。\n有使用CI/CD工具经验。\n熟悉AWS服务，如Dynamodb，Lambda, Cloud Formation, S3等\n熟悉如何使用OpenAI的API。\n有使用LangChain框架的相关经验。",
+      "encryptAddressId": "76a89413d882bc8f3nZ72d2_E1FTwoy4Uvw~",
+      "address": "杭州富阳区复城国际写字楼305",
+      "longitude": 119.933158,
+      "latitude": 30.050569,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf7ec4f9d50d526e24e2935126cc674cd86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230603/48ba41acc9cef1bf3440838fd3c93fbd976f8e50731de1dc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重",
+        "TypeScript",
+        "React",
+        "Python",
+        "Node.js",
+        "Django/Flask",
+        "计算机相关专业",
+        "前端开发经验",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "叶先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "杭州简答科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "33f73f762cf865e61HF52Nu9GVs~",
+      "brandName": "杭州简答科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721720652000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州简答科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

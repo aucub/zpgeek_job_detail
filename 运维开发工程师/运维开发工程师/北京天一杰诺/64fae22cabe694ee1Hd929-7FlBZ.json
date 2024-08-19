@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JHwpprNMhbnco-z19VwwIPEXN-7BU0YsXO8X5Xlx1t-gK-TYshl-B6SvF2FBlAGQRIhpf1UHTl70F21hjewwWStgt1IDE4sQkgDT8XSbkPFC2CwfUB1A",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "64fae22cabe694ee1Hd929-7FlBZ",
+      "encryptUserId": "fcf7648b8e9e78230Xd809i1EFBY",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "Python/ShellGolangElasticsearch网络安全相关经验运维开发经验HCIE\n岗位职责：\n1、负责团队产品交付部署，基础环境搭建、应用业务、数据库等软硬件的运维部署工作；\n2、负责响应业务及基础架构故障并处理，及时通知故障及处理状态，并对故障做合理的分析和总结；\n3、责任心强，有很好的沟通能力，了解银行业务者优先考虑。\n岗位要求：\n1、计算机专业相关专业，统招全日制本科及以上学历，有2年以上运维经验； \n2、熟练使用Shell，Golang，Python等至少二种脚本语言，可使用来完成运维自动化工作；\n3、熟悉Linux常用命令，具备nginx、ssh、firewalld/iptables配置等基础运维能力，常见Linux操作系统安装部署能力；\n4、熟悉shell、python2/python3脚本开发，对应环境部署，熟悉并掌握Docker容器化技术，docker-compose服务编排技术；\n5、熟悉linux内核原理、有内核开发，有过终端安全相关产品平台开发经验者优先；（加分项）\n6、熟练使用docker或k8s devops相关容器，熟悉云计算（IAAS、PAAS、SAAS）相关技术者优先；\n7、熟悉至常用的自动化、测试工具，如：loadrunner、Jemeter、pyppeteer 、qtp、Selenium等；（加分项）",
+      "encryptAddressId": "4c6a349fb84651590nB939u5EVZTxo62Uvs~",
+      "address": "贵阳云岩区中国人民银行(贵州省分行)222",
+      "longitude": 106.724302,
+      "latitude": 26.578496,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230808/48ba41acc9cef1bfc4d830209306a7b81d45ccd16aae3f786bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230808/48ba41acc9cef1bf5480b049774064c0420904b0805919c26bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python/Shell",
+        "Golang"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "运维人员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "北京天一杰诺",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "82ba3f4ae23b2bea1HZz2dm-GFA~",
+      "brandName": "北京天一杰诺",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721467433422,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京天一杰诺",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-v8AqLdISt-jG-N1YqkMfgavThxrrK6OD2blpPiFYGDUwZntTSsm7ifqjH7l3ijo1L2nCbsUC4c2SST2qWAETCoV_F1-aJCqTYBhLwan1S68lhkQUn1e",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "990406e2396406ab1n153d66FVRW",
+      "encryptUserId": "943370e340487dd10nR72tW6FFtX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机软件或相关专业本科及以上学历，1 年以上工作经验，具备扎实的计算机专业基础； \n\n2、扎实的 Java 编程基础，熟悉 IO、多线程、集合操作等基础技能，理解 JVM 原理； \n\n3、精通 Web 编程，熟练掌握 Java EE 相关的主流开源框架，如 Spring、Mybatis，熟悉实现原理和机制； \n\n4、具备大型分布式系统或高并发场景的系统开发经验，熟悉分布式技术方案，至少熟悉并深入了解一种关系型数据库如 Oracle、MySQL 等，熟悉缓存、消息等中间件的使用； \n\n5、熟练掌握 Unix/Linux 操作系统，对常用命令运用娴熟，能够根据实际需要快速编写 shell 脚本； \n\n6、具备系统调试、性能调优等技能，对疑难技术问题具备较强的排查能力； \n\n7、具备强烈的进取心、自驱动力、求知欲、工作责任感及团队合作精神，具有良好的沟通能力； \n\n加分： \n\n1、熟悉前端框架，如 ReactJs，AngularJs，jQuery 等，并深入了解过一两种框架及其对应的插件的加分； \n\n2、熟悉大数据平台相关技术，例如 Hbase，Hadoop，Spark 等的加分； \n\n3、了解数据挖掘及算法，能够对已有的算法进行拟合或者实现，同时能够根据业务需求进行改进，加分；",
+      "encryptAddressId": "8bc669b57cab40001Xd809m4EFs~",
+      "address": "福州闽侯县福州国家高新区软件园17号楼16层",
+      "longitude": 119.210097,
+      "latitude": 26.036354,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a99e23684e739e6b98a9f0c5e026975",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbab3f8854029e4cdbe10d9924777368",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "云工智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e618e8ad4068198c1n1_0t-9FVM~",
+      "brandName": "云工智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721467093577,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云工智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dm8wgROdR1QAm-s1mQ16FxAC9y3ayEhCrz-7cGG8yrffbPUZ-98e4-Cp4E3nH3Hhs5pvURjQaBAsByP2oT5AVG62dT6E0o6Wn5W5byAShELi1Ik~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "28ffe0109b9d73480Hx_3968ElI~",
+      "encryptUserId": "c12c3441d5c2da300Hd42969Ew~~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100400,
+      "locationName": "晋中",
+      "experienceName": "经验不限",
+      "degreeName": "高中",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n独立完成项目的编程、调试和模块调试工作；\n\n根据项目要求，参与业务分析和系统设计；\n\n独立解决开发过程中遇到的各种问题；\n\n负责项目模块标准文档的编写；\n\n代码规范，可维护性高。\n\n \n\n任职要求：\n\n大专以上学历， 计算机相关专业毕业优先；\n\n有3J2EE系统开发经验，有高并发的互联网产品开发经验优先；有分布式互联网产品开发经验优先；\n\n熟悉基础的设计模式，了解分布式架构，对TCP/IP、网络编程、多线程等有一定的开发经验；\n\n熟悉数据库原理，熟悉Mysql，Oracle等关系型数据库，熟悉JDBC，能够编写复杂的标准SQL。有Redis使用经验会作为加分项；\n\n精通Spring MVC、Mybatis、Hibernate等常用JAVA开发框架；\n\n编程思路清晰、代码规范，掌握SVN、GIT等代码管理工具，熟悉Maven、ivy等依赖管理工具；\n\n熟悉Tomcat、Jetty等主流J2EE应用服务器特性和管理；\n\n热爱技术，良好的团队沟通能力，并具有独立钻研和解决问题的能力。工作积极主动，乐于助人，责任心强，学习能力强",
+      "encryptAddressId": "ec41244c171ad5931HR50tS-GVA~",
+      "address": "晋中寿阳县永丰商贸城",
+      "longitude": 113.16058,
+      "latitude": 37.901676,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebe2607dab83b3d6d5cee3a73b7da91c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7494488b0f04c65d7e209c9ea7befd27",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "软件开发运营",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181022/d12567109f2aaa97bc47d6f53762eb64118617e485ec57f14fd5aa938454_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "梓子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8d6abe09e1c99a933d529y5GQ~~",
+      "brandName": "梓子",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464916257,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "梓子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

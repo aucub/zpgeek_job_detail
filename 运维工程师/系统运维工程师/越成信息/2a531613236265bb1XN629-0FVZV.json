@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YrMu3B4SNAt8i-t1TIOzlSTj37CTZISq0u_UbBkgQcjUnJD4D_fsnIGLY-O_uCGDQYjA-Ye-qi9_YamIW11KcSg4Ly13bvL4rPu1_BbVmNit-VI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2a531613236265bb1XN629-0FVZV",
+      "encryptUserId": "1f89c74fd608e5381XJ72di6",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101240100,
+      "locationName": "南昌",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责Jenkins流水线集成，使用Gitlab + Docker+Jenkins+K8S实现快速迭代发版:\n2、负责基于Docker快速部署微服务，编写Shell脚本提高运维自动化程度(包括但不仅限于日志定时清理、网络监控、安全管理等);\n3、负责中间件集群的部署维护、配置调优及资源分配，使业务系统流畅运行:\n4、负责系统大小版本更新迭代的计划管理与执行，规划定时任务;\n5、负责服务器环境搭建与日常故障处理，仓库 AP网络及Linux服务器的日常巡检:\n6、负责系统服务相关运营数据的汇总、分析及优化改进建议、相关文档编写。\n\n任职要求\n1、计算机相关专业，大专及以上学历，具有两年以上运维工作经验:\n2、熟悉Jenkins、Docker、K8S的使用，对代码迭代发布的流程有全面的掌握;\n3、熟练使用Shell、Python脚本，有阿里云或腾讯云等云服务器的运维工作经验:\n4、掌握Tomcat、Nginx、MySQL、\nMongoDB、Redis等主流中间件与数据库;\n5、学习热情高，有创新意识，有敏捷而周到的逻辑思维能力，有良好的团队合作意识。\n\n立即沟通",
+      "encryptAddressId": "5e13598a04c38fa833Vy3Ny_ElY~",
+      "address": "南昌红谷滩区江西省交通监控指挥中心519",
+      "longitude": 115.828638,
+      "latitude": 28.628691,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8b40ab52968bbb8b49728eadce38ea6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad343eb123ffae5cfc3f5d15f0beab9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Nginx",
+        "Redis",
+        "MySQL/Oracle",
+        "计算机相关专业",
+        "运维经验",
+        "运维开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221229/607f1f3d68754fd0a98dfa468207e3853cf80eca348e235665242fb0589dfadcd52f1264ff2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "越成信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0fc62ccc4a7dcaa41XV43Nm5Fw~~",
+      "brandName": "越成信息",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210519/9e7fffa282be8de097c344957a8764f19ddb6287e340bdf82635628f9307f659.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "寻找一起创业，志同道合的伙伴",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1721468124784,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "越成信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

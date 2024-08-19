@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WD9IZxdiJZhJT-H16UoJywBBtvR1D01IDL7xNsRFSJ61eoO-Ck-Y0BJBZ9EZjzuaa3rXLe-nIDhwv0iUibk37KYNMj3yAolqFs0MNApxrD79I1aj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ad469a18188c6fe1n152tu5E1U~",
+      "encryptUserId": "a936841ccb18eb591HN_3tq_GVQ~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\r\n1、有相关Java开发经验；\r\n2、扎实的Java基础，精通SSM（Spring + Spring MVC + Mybatis），熟悉Spring boot、Spring cloud 等主流开发框架；\r\n3、熟悉Linux操作系统，nginx、tomcat等服务器的配置及使用；\r\n4、对JVM有深入了解；\r\n5、熟悉Oracle、Mysql、Mongodb等数据库；\r\n6、熟悉redis，rabbitMq 等；\r\n7、熟悉分布式系统的设计与应用，熟悉Java多线程及高性能的设计与编程，熟悉netty等；\r\n8、较强的表达沟通能力，工作认真严谨，对系统质量有近乎苛刻的要求意识，富有团队合作和挑战进取精神；\r\n\r\n主要工作职责：\r\n1、深入发掘和分析业务需求，撰写技术方案和系统设计；\r\n2、参与技术方案和系统设计评审；把握复杂系统的设计，确保系统的架构质量；\r\n3、系统核心部分代码编写；疑难问题的解决；\r\n4、对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件。",
+      "encryptAddressId": "a5d7f8fa699c8e5e0Hx-29q0GQ~~",
+      "address": "重庆渝北区重庆创意公园A6-3",
+      "longitude": 106.609319,
+      "latitude": 29.648762,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a127a6e17a4b9f90f2b60d785a3bd0b6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae4dcb5a33ef463c1aeb9d94d681d8d3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180417/bf344495136a3dd46cf72fc098031a62cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "三傅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "484e90ce0ab7a3831nNy39y6Ew~~",
+      "brandName": "三傅科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180417/47978ad2906f05f615616af997e85c38cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "重庆三傅科技有限公司成立于2014年，是一家以软件自主研发为主，并辅以软件开发、项目外包、技术服务的软件公司。公司与重庆理工大学计算机学院的优质软件开发、培训资源合作，提供云点餐系统、信息管理系统、移动互联应用等设计、开发及咨询服务。",
+      "labels": [],
+      "activeTime": 1721464617693,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三傅科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c951yxcgQocJd-Y1vFOuuH66LG5IsTQtlH2ytP3ABjzgA198JCkd0agGi37vdAGc6BYTcIyqJSHdwUSoCQSOTTVBPlyFDXfAJfWHwUBViatIfU0EZxnr6w6N1wPGFzYL3VAflV6zRv2QSt8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4cc5bb2cc6199a81nV92dW-EVFV",
+      "encryptUserId": "f5de95bc066623340nV739q9EVpV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1.医疗保险行业相关业务系统开发运维\n2.研发环境的搭建\n3.医疗机构和保险公司客户的对接，有医疗信息化企业和商业保险信息部工作经历者优先考虑\n\n任职要求：\n1.计算机及相关专业本科毕业。\n2.熟悉数据结构，算法，操作系统原理。\n3.熟练Java语言。\n4.熟悉Spring生态，包括SpringBoot、SpringCloud全家桶。熟悉MyBatis、\n5.熟悉常用数据数据库，Mysql，MongoDB。\n6.熟悉常用中间，如缓存、队列、负载均衡。\n7.熟悉http协议规范。\n8.逻辑清楚，沟通好。\n9.一年工作经验，优秀应届生亦可。",
+      "encryptAddressId": "6132af2f816498911Hxz29q6FVU~",
+      "address": "上海静安区快易名商静安科技中心525号",
+      "longitude": 121.469143,
+      "latitude": 31.250636,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1727fc42b7793769c483f8dbbf439a6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9d9e2386ed059f0f546669a1ce715bfe",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "负载均衡技术",
+        "MySQL",
+        "NoSQL",
+        "MongoDB",
+        "信息化",
+        "互联网医疗",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海保链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0081c9fc4df30c301nd-3t-4FVc~",
+      "brandName": "上海保链",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "上海保链科技有限公司是一家专注于保险科技产品及服务创新的公司。上海保链以医疗数据为核心，致力于通过医疗健康数据生态和前沿的科技能力，为保险公司和大健康产业提供数智化创新产品和平台化服务，提升保险行业运营效能的同时提升用户满意度，真正实现医疗数据+科技对保险业的赋能。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721448735142,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海保链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

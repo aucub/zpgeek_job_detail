@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Kr7O2yMCDJjD6--1YhRtt9xnx51iE6mI80u9tBjvkdGN85xUtopADMRwwhNArjIbZW_7Ze4NBarKNvvAzj42YFAtsgZfZ7xc2jSe5a4feiX1qnHHSxLm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b67513f025aa13d11nZ-0t2_FlJQ",
+      "encryptUserId": "5f0219e4b81aba8c0nV92dS_EFRX",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责\n1、根据功能需求和设计方案进行开发， 完成代码的编写和调试工作；\n2、负责项目的前端页面及后端接口开发；\n二、技能要求\n1、一年java开发经验；\n2、熟练掌握java语言，熟悉spring、springboot、springmvc、mybatis等框架；\n3、掌握数据库设计，熟练使用mysql；\n4、熟练使用html5、css、js等前端页面技术，有vue开发经验优先；\n5、熟悉git、maven等工具；\n6、熟悉常用的linux指令；",
+      "encryptAddressId": "20bcf6ba9067878703Ry3tq6GVY~",
+      "address": "北京海淀区悦MOMA201",
+      "longitude": 116.314786,
+      "latitude": 40.043896,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70278da0b552f747599edb82bfe6ce20",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fac580d60160d2da77cfb5f654bc96a4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "CSS",
+        "前端开发",
+        "后端开发",
+        "Spring",
+        "SpringBoot",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创益行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3a39966d0f02f4c41nB7296-FVA~",
+      "brandName": "创益行",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721464620472,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创益行",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

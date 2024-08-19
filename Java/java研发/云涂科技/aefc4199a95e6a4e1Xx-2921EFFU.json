@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CrCKrO1M2OP6G-j17Ln9QBg4zEaiiYuR-nwPDPKKMU5a2lz3-_nR2jjdwVF2koKJSse54KAVlJDKztMhKhs15Y1r3X848m4UN3a7OzwPAEU5MF0oUchsqJTT8-lej6beLNQavW3kims5Ag~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aefc4199a95e6a4e1Xx-2921EFFU",
+      "encryptUserId": "8d51c030206c2df91HZ-0t64EVs~",
+      "invalidStatus": false,
+      "jobName": "java研发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发经验\n\n一、应聘者基本要求\n\n\t1）大学本科及以上学历，计算机类及相关专业优先；\n\t2）1年以上Java开发经验；\n\t3）坚持学习新技术，不断探索技术前沿和发展；\n\t4）具有良好的沟通表达能力，具有良好的英语阅读、写作能力；\n\t5）责任心强，具有团队合作精神，拥有不断分析问题并寻求合理解决方案的能力；\n\t6）熟悉MySQL/ORACLE数据库及其常用工具，有HAProxy相关经验者优先考虑.\n\n二、专业能力\n\n\t1）精通Java语言，熟悉常用设计模式；\n\t2）熟悉VUE与Node.js，能够编码实现相关前端交互页面；\n\t3）熟练使用Spring/SpringMVC/MyBatis等开源技术构建企业级分布式应用；\n\t4）熟练使用Hibernate/JPA/Hadoop等高级技术支持大数据分析；\n\t5）熟悉Linux操作系统，掌握常用UNIX命令，熟悉常用WEB服务器（Tomcat/JBoss/Apache/Nginx）的设置、维护和优化；\n\t6）熟悉Git, SVN, CVS等版本控制工具，能正确及时使用；\n\t7）熟悉Spring Cloud、Dubbo等微服务开发技术,具备软件架构能力;\n\t8）熟悉MySQL/ORACLE数据库及其常用工具；\n\t9）熟悉负载均衡、算法设计与应用；\n\t10）熟练使用相关开发工具（Eclipse、VS、Idea等）；\n\t11）熟悉servlet和tomcat等web开发技术。",
+      "encryptAddressId": "014ecf4ab339578a3nR729q9FVo~",
+      "address": "杭州西湖区瑞博国际B座921",
+      "longitude": 120.096512,
+      "latitude": 30.302437,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da07d1379c3fb6545d82d7ea6a3c175e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5be77f36c8858fb5a83087a27086360",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "全栈工程师",
+        "Java",
+        "不接受居家办公",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "项目主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云涂科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "85acaa38013536a51XV52N-6GFY~",
+      "brandName": "云涂科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447788905,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云涂科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

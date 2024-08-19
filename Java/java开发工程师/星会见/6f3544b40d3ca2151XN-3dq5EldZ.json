@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aPy4pDp57ia0L-f18t6HByHy-EMn3qhyxWaY91ldsESh3oM4onAL9B_sdOVDnPn4BOkV7qF1UoLeIPF7slYZcocZILBlLS-QRVOK5TzYdNCv0aH97YKdweD6VNsD5gXSmObeUZIwXp63JA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6f3544b40d3ca2151XN-3dq5EldZ",
+      "encryptUserId": "4f4633d22f9538bf1XJ62t28EVY~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、至少2年以上java项目开发经验，有大型产品/项目开发经验优先考虑\n2、本科及以上学历，学信网可查，专业计算机类或者理工科类\n3、熟练使用SpringCloud/Springboot框架技术进行开发\n4、熟练掌握Mysql数据库,Redis缓存\n5、熟悉数据库性能优化以及系统性能优化相关知识，具有大规模高并发访问的web应用架构设计和开发经验，有后台系统构架经验者优先\n6、具备良好的逻辑思维，以及分析问题和解决问题能力",
+      "encryptAddressId": "b8aeb713c70e6a081nR62dW9FVZRx4W3VfKb",
+      "address": "上海虹口区中信广场3307",
+      "longitude": 121.484145,
+      "latitude": 31.248391,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf49687e16f3ee8d73abc55faa9bd214826bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf7c2b88a51d4577c6a4729732046ed43c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "MySQL",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230408/607f1f3d68754fd054ba6460029778e0b9ec604ae7e59499bd4874ed02376f99c4347d6dc85_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "星会见",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "12e050714b8b91951XB83tq5FFY~",
+      "brandName": "星会见",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230322/7bf6f160950405e9601b624d73f49b2705778bdaa3c117bfbd4874ed02376f99c4347d6dc85b54d9.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "上海略会网络信息科技有限公司主要产品为“会见”云平台，主要为客户提供一站式会议解决方案，覆盖会前、会中、会后等各个环节，有效的提高会议组织效率，改善客户体验，提高资源利用率，增加会议影响力，提升服务竞争力。",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724037418448,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星会见",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "omw6PZPTzq4L8-x1onJDTf2coWMiWctWX5HHPFiZwRYLkuOhgT9HK5PdPK7yu71bLT5LwJikP-apSDXqk0OJ1rz0TRZQIRqHrdJ62hW8LgK-GsQwtAub",
+    "securityId": "ae3HBJvfiRAGG-q1HBF0cHZIKhw0VdFvpvpNCoPdipxi-LnR6kAqlc-Ws_tJR4LU6ibIKR6HcNZ29gofP3Wyt9KB3vgX1BKV6p2S-e-dOY0y_mX8n-A2D_vY9vVKtieLNQGQQgAAe3zIK8RwkuHBHEdv",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,11 +46,13 @@
       "title": "人事主管",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240318/607f1f3d68754fd008c16f0f0c6bc6da7cfb1dfedbdb4377d5e0f754efeaae59e10bcccebba6336_b.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "柳州松芝",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "2dd99578a21769651nx43dS0ElI~",
@@ -64,7 +66,7 @@
       "industryName": "汽车零部件",
       "introduce": "",
       "labels": [],
-      "activeTime": 1718610964916,
+      "activeTime": 1724047485961,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "柳州松芝",

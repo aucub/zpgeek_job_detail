@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VNb5UnBZGABGV-o1A3mCbGn_k3M_8ALUzrN6oSO0n1BBMl2kAKJysSjI7OoaUYhgdSvkDM8oC1q345dTvCylRiMq05qXQvk-LUArJ7o-P5KiRbYkVbA7hkYkR4Oeups2mGGvCitgtJ0k_g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f8e9d07d9cea9da1nN62d-5FlVS",
+      "encryptUserId": "3fb42d5ff5c506460nZ92dm-GFM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解",
+      "encryptAddressId": "3acac595dc7dfc101nV92N64EFU~",
+      "address": "杭州淳安县千荟庄园3-302",
+      "longitude": 119.006694,
+      "latitude": 29.593782,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f9c2519c8224032b8b630a907704614",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdf6af02fb55421e9e69e0ff6426db7f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "负载均衡技术",
+        "SQL",
+        "Shell",
+        "HTML",
+        "SpringMVC",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "辰衡信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6adaae5097711f4e1nx53dW6E1s~",
+      "brandName": "辰衡信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721447766994,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辰衡信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
