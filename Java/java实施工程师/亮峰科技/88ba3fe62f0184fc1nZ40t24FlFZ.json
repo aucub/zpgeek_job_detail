@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3F6fxRrStN61A-A1q95uqfokcWB1gXnNSk5jFLJ2TV1fE9L0qQyy6slbQfUGbebFTi9FzAdfgY6CtM0ZKk7MMJm5GmYirrhmpQmnUY9byVCDdMYMuCCC",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88ba3fe62f0184fc1nZ40t24FlFZ",
+      "encryptUserId": "90f90c4024c79fde0nV839S7EFNZ",
+      "invalidStatus": false,
+      "jobName": "java实施工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "前提：本公司为微小企业，需要相对稳定人员。\n工作内容:\n1.和团队完成客户现场需求调研，编写需求文档。\n2.按照需求和设计文档，在公司平台上完成配置、开发和测试工作，并形成测试报告交付客户。\n3.项目配置和开发工作量大约5，5开。\n4.对客户进行培训，辅助客户使用系统。\n\n\n技术工程师任职资格：(会VUE前端优先)\n1、强调：要求接受出差做项目，否则别瞎投简历。\n2、专科及以上学历，必须有java 2年以上开发经验；\n3、熟悉vue,H5,JavaScript、Ajax等，有vue项目经验优先考虑；\n4、熟悉并能编写Sql语句。\n5、具有良好的沟通能力、团队合作精神和学习能力，工作积极主动、服从安排，严谨的编码风格，有较强的逻辑思维能力。\n\n另外招聘实施顾问，任职资格：\n1.在技术工程师条件下，有软件项目实施经验3年以上。年龄25岁以上。",
+      "encryptAddressId": "19f634704e0bd3c31XZ43N25Ew~~",
+      "address": "深圳南山区深圳湾科技生态园11A",
+      "longitude": 113.952765,
+      "latitude": 22.530374,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/121772f4e4c570b5d30f8ac02daa4419",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dae254bf2ee9dcd7e8b70ec51c11b375",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "其他",
+        "SpringCloud",
+        "Tomcat",
+        "MySQL",
+        "java",
+        "VUE"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "亮峰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8f27008071f1db511ndz0tm4FFo~",
+      "brandName": "亮峰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "在平台软件基础上实施和开发，满足客户独特需求。需要去了解客户需求，并非纯代码开发。",
+      "labels": [
+        "带薪年假",
+        "绩效奖金",
+        "5险"
+      ],
+      "activeTime": 1723212663000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亮峰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

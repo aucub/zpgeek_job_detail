@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fK1I1FaPu1hBM-m1JeHReevYCF7snRIA_RUlZLS42Jq1OpIw3qPkYs5CiTEoJ-g3RRswSJcWlvoMue5mEcJk_esK8xLCHBNwXtU9xVebasOdwxl8ipNp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cb13f9b049b667301HJ-292_GVZT",
+      "encryptUserId": "a2bf61a9be1ee0ae0XB72t21E1pZ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、在项目负责人、高级工程师的带领下定期完成量化的工作。\n2、据开发进度和任务分配，完成相应模块的开发、编程任务。\n3、能独立处理和解决所负责的任务。\n4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量。\n5、进行编制项目文档和质量记录的工作。\n\n岗位要求:\n1、本科（全日制）及以上学历，计算机相关专业优先。\n2、Java 开发经验 2-3 年。\n3、需有微服务（SpringCloud）实际项目开发经验。\n4、扎实的 JAVA 基础，多线程、Io、反射、数据结构等。\n5、熟练使用Eclipse/Idea，熟悉 spring、springMVC、Mybatis 等开源框架。\n6、了解BootStrap、LayUI，MUI、React、Angularjs、Vue 等前段框架。\n7、能掌握 Oracle/MySQL/SQLServer，有 Redis，mongodb 使用经验。\n8、了解数据库、常见 SQL 语句的优化以及数据库中间件的使用，最好有 JVM， Tomcat 调优经验。\n9、具备良好的逻辑思维,有技术文档编写及表达能力，有一定的沟通能力。\n10、积极主动、服从安排，能承受较大压力。\n11、有良好沟通能力、团队合作精神。\n12、责任心和学习能力强，能独立分析问题及解决问题。\n13、高度的工作热情，良好的职业道德。",
+      "encryptAddressId": "8d147bc53d98271833Z52ty7FVNTw467Uf4~",
+      "address": "成都锦江区香江花园1",
+      "longitude": 104.09636,
+      "latitude": 30.606476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdd9b046be05833d8bff8baa3f8f545d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/31ccc069a5182da7defbac69656728b8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240509/607f1f3d68754fd0363663c05684b2743cb2fb23e7e549a8d3dc56015afeb85cf3a2ede6548eeda_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "珊瑚虫科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f348fd6dc185a6151HB939m7EVc~",
+      "brandName": "珊瑚虫科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240509/7bf6f160950405e94790c051e9b4f8f46f28da6a0b6b1e7bd3dc56015afeb85cf3a2ede6548eeda8.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "以研发为主，运用云计算、大数据、物联网、移动互联网、AI技术等前沿技术，为多行业企业客户提供信息化产品建设、定制化整体解决方案及运维服务，协助企业数字化转型，促进企业数字化建设，实现企业数字化升级。",
+      "labels": [
+        "员工旅游",
+        "带薪年假"
+      ],
+      "activeTime": 1722506410000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "珊瑚虫科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r8GCV2Zp0jtyN-g1Z410V2Jho6WaGZeGuo1dmm_bARUGd-AqA9CZTY2vf467ubPrC4Oz7y7jypSm6K01Ha6touZslQdteBC_3s5ipNa0H66TtJgDHAKG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "859346d60bd08d381HF_39-4ElNZ",
+      "encryptUserId": "8d1d65d998b8bd920XBy2dq1GVZY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与产品规划、需求分析、技术实现与用户体验实现\n2、参与产品数据处理、分析模块架构、开发以及相关系统体系结构分析、数据库接口工作等设计\n3、配合需求与产品设计，负责所属模块的代码开发、调试、缺陷修复和版本上线质量保障等工作，能够根据产品需求，为改善产品功能提出建议\n\n任职要求：\n1、本科及以上学历、计算机相关专业，2年以上JavaEE开发经验\n2、扎实的JAVA编程基础和面向对象的编程思想，熟悉常用的设计模式\n3、熟练掌握Spring、SpringBoot、Mybaties、Freemarker等开发框架\n4、熟练掌握Redis、RabbitMQ等中间件\n5、熟悉html、css、javascript前端页面知识\n6、熟练使用MYSQL、Mongodb数据库，并对SQL进行优化\n7、熟练使用Maven、GIT、Axure、PowerDesigner、IDEA、Eclipse等工具\n8、了解NIO、分页式，多线程等技术和框架\n9、能在linux上发布服务，跟踪问题，会使用常用的Linux命令\n10、有较强的沟通能力",
+      "encryptAddressId": "8d96f5667a2463eb0Hdy2dW4FFNYy428Wfo~",
+      "address": "成都武侯区红牌楼广场5楼",
+      "longitude": 104.02884,
+      "latitude": 30.633035,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4493877356f01c0863cbd8350d46416f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dda79ed8d9f9b16b6ebf6cd677e46f78",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "有前端经验/技能",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "JAVAEE"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "澜翼数字",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d66a72c8299c11431HB42t-8Els~",
+      "brandName": "澜翼数字",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721574511272,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "澜翼数字",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

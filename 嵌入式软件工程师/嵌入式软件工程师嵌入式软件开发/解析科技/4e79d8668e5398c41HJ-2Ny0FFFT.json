@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wunrupZo56Qbt-X1ueRpcGfw-B-sel5sefLv3rSA8BLWtUnn2e_2CPzJl1AccN6etCvv9ysLkJvul8lXZnsM4kRryuyls4a4Uf0zRkzPqjRFq6SUlU07",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4e79d8668e5398c41HJ-2Ny0FFFT",
+      "encryptUserId": "fbbf30cf404dc14f1nV73tS6GVNW",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师/嵌入式软件开发",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责水质检测产品的功能设计、代码编写与调试；\n2、软件更新与优化、嵌入式系统软件框架与模块化设计；\n3、编写软件开发相关技术文档、编写产品规格书；\n4、为生产与业务提供技术支持，解决开发与生产过程中的相关问题；\n5、配合硬件工程师完成系统的开发。\n\n任职要求：\n1、偏软件，能了解基础数字硬件；\n2、以C和C++编程为主，熟悉 py 或 其他高级语言、脚本语言、制作测试工具、数据解析工具；\n3、会用万用表、示波器、逻辑分析仪，分析设备故障点属于软件还是硬件问题；\n4、有freeRTOS或其他实时操作系统开发经验；\n5、熟悉stm32等MCU开发（HAL库为主）；\n6、对常见通信协议有所熟悉 i2c、spi、uart等；\n7、对网络编程mqtt、tcp、http 协议有所熟悉；\n8、对数据库操作有所熟悉 sqlite3 与 mysql；\n9、熟悉 面向对象 开发概念；\n10、能看懂芯片时序图；\n11、对 linux 应用层开发有所熟悉（不用做驱动）；\n12、对 wifi、蓝牙、4G 模块有基本了解（AT指令为主）；\n13、对 基本的数据结构 有所了解；\n14、对 模拟信号 采集有所了解。\n\n相关技术栈 \nfreeRTOS、linux（app）、GUI、网络编程、STM32",
+      "encryptAddressId": "f518dbbfd89ff9cf0Xd439i8FlI~",
+      "address": "深圳光明区华强创意产业园4A栋1002",
+      "longitude": 113.956046,
+      "latitude": 22.737666,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae4b6762ff6814a781b33501fef4228b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0ef7cdd033d58291c90bda525142876",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "STM32开发",
+        "C"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "庞先生",
+      "title": "行政副总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201109/a5e12cb278a6eb3d1329b70adbf78545cc6e774ebdf9c709ef0e4c79efb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "解析科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a0d4a3a9f27bca971nZ93N-_F1Q~",
+      "brandName": "解析科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101207,
+      "industryName": "环保",
+      "introduce": "",
+      "labels": [
+        "免费工装",
+        "有无线网",
+        "住房补贴",
+        "宿舍有空调",
+        "包住",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "企业年金",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721968955000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "解析科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

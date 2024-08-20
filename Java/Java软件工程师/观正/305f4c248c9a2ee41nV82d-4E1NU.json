@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JB3EepghCu7so-F1rsA7iFMs6nedMTy6P2iQ3u9kBeVXOy18_We_nvbwYfSpRKZYEY7cw66HB2rVkvjYZ5ISckSxVeYV0iSzygfYhFNgX5XfHz7sU1Va",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "305f4c248c9a2ee41nV82d-4E1NU",
+      "encryptUserId": "c91f13194a32de0a0nV609S7FlRZ",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责功能模块的详细设计和代码的编写；\n2. 分析并解决软件开发过程中的问题；\n3. 负责整理、书写、提交项目过程中的各种文档；\n4. 负责确保在项目生命周期中遵循公司的管理和质量政策；\n5. 负责对有关模块的整合、调试、部署工作。\n\n\n任职要求：\n1、全日制专科以上学历，计算机相关专业\n2、扎实的java编程基础，了解各种开源框架，如：spring、SpringBoot，MyBatis；\n3、熟悉主流数据库，如Oracle、MYSQL,MongoDB等，有SQL调优经验；\n4、至少熟悉一种消息中间件；activeMQ，kafka等\n5、具备良好的沟通能力、团队合作精神；工作踏实努力，积极主动，能承受工作压力",
+      "encryptAddressId": "e3d9afd48c58e7201Hx929W1ElA~",
+      "address": "成都成华区沙河锦庭(跳蹬河北路)杉板桥南三路52号1栋3单元9楼903号",
+      "longitude": 104.119238,
+      "latitude": 30.662734,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10e814caaef815781adc2f95ab6b4a5d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd630a70c453dae503c71f8fa0215941",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MySQL",
+        "Oracle",
+        "Java",
+        "HTML",
+        "JavaScript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "观正",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6d4975cd4852a6241nd53N-6FVQ~",
+      "brandName": "观正",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210417/a21778f030e81e29a65cc819d842505daffb5d03521b32764a53edd74288cef8.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "大型企业信息化服务",
+      "labels": [
+        "五险一金",
+        "定期体检"
+      ],
+      "activeTime": 1721576385220,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "观正",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

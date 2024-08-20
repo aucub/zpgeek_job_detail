@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mpHp_oGHHgAcM-V1skwmhTPhBztAtvhnryCEpDHybS5ur2dgeZcHck7I25WH00m5kU2nEM2ZjVP4c6EnjF2wID0O8-rIjBjxvXJbFIjmZNB8ampf5Hw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f7fb7b26740177c51XV609S6FFNT",
+      "encryptUserId": "34bb24eeb7f0f5171Xx92tm0EVY~",
+      "invalidStatus": false,
+      "jobName": "初级测试工程师 Junior Test Engineer",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "中专/中技",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "初级测试工程师 Junior Test Engineer\n工作内容\n1.负责公司嵌入式电子产品和项目系统软件测试，对公司产品进行质量严格把关，确保有较严重问题的版本不release给客户\n2.协助编写测试文档，创建和维护测试用例，对测试结果进行分析总结，编写测试报告并提交；\n3.协助自动化测试，熟练掌握使用自动化测试工具，熟悉录制脚本、脚本调优；\n4.在客户现场试运行期间的问题收集和跟踪\n\n需求条件\n1. 理工科相关专业本科学历，1年以上软件测试相关经验；\n2. 对测试工作有耐心，工作细心，认真负责。\n3.了解测试技术基础知识，包括自动化测试、白盒、黑盒、回归测试等；了解测试用例设计方法，如场景法、边界值分析法、划分等价类等；\n4. 对linux命令有一定基础；了解版本管理工具Git；了解缺陷管理流程，了解BUG生命周期；\n5. 良好的逻辑思维能力，能理解产品需求，有一定程序设计概念；\n6. 熟练掌握Java/C/C++/Python/JavaScript等编程语言中任一种",
+      "encryptAddressId": "0226a6919800e6b40nR739-1EFs~",
+      "address": "深圳南山区深圳湾科技生态园2A",
+      "longitude": 113.952765,
+      "latitude": 22.530374,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/121772f4e4c570b5d30f8ac02daa4419",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dae254bf2ee9dcd7e8b70ec51c11b375",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Linux",
+        "自动化测试",
+        "软件测试",
+        "白盒测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210322/d8d6e53de0400e0434392a0e9e2af8738d28a569958214ae0f02ce33dba_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "杭州耐能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cc63a61385ad9fb61nB-0t2_GVU~",
+      "brandName": "杭州耐能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210304/bf73a4fd5904995f7922eeba1d4c6bd38d28a569958214ae0f02ce33dba53bed.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "耐能2015年创立于美国的圣地亚哥，专注AI SoC专用处理器，是终端人工智能解决方案领导厂商。旨在通过边缘AI为终端用户提供低成本、强算力等软硬件结合的解决方案，包括终端设备专用神经网络处理器的研发、图像识别算法等。目前已在圣地亚哥、台北、新竹、深圳、珠海、杭州设立办公室，并拥有全球客户和合作伙伴。\n \n耐能投资者包括维港投资、阿里巴巴创业者基金、中华开发资本、奇景光电、高通、中科创达、红杉资本子基金Cloudatlas等。截至目前，耐能获得的融资额累计超过7300万美元。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723029808000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州耐能",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

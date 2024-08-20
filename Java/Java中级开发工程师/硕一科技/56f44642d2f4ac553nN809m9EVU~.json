@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "z9rYWerPi2BH0-x1q_LyIo4PfIplEADbJp9PDORnJg71aZbp2zOobtUp02lMowa6QQdkz-oa7KuOTqAnNiILNXT9AnZvmy_tLaHwW1caYrRn6bVF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "56f44642d2f4ac553nN809m9EVU~",
+      "encryptUserId": "830c4bfccdbfcc001nV82dW7E1c~",
+      "invalidStatus": false,
+      "jobName": "Java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述:\n1. 负责公司核心业务代码编写;\n2. 开发与维护系统核心模块;\n3. 负责数据库查询性能优化；\n \n任职条件:\n本科及以上学历，计算机及软件工程专业优先；\n1. 扎实的java编程基础，精通spring boot应用开发；\n2. 熟悉spring boot各个组件模块，和底层实现逻辑；\n3. 精通数据库查询，表关联映射；\n4. 有良好的编码风格和编码习惯；\n5. 熟悉MongoDB、Redis、消息队列；\n6. 具备良好的识别和设计通用框架及模块的能力，参与过完整的应用系统研发;\n7. 熟悉Kotlin语言，或者很快能上手一门新语言；\n8. 至少熟悉两种不同类型的后端开发语言(不包括 HTML、CSS、JS);\n9. 有前后端独立开发能力者优先考虑。",
+      "encryptAddressId": "adc111c0fbc6c50c1XJ43d64FA~~",
+      "address": "成都双流区原乡39-6",
+      "longitude": 104.049313,
+      "latitude": 30.520389,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88a870a2ab268e0dcf9ed583f8514cf5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13fce78efb905d3fb8a02f021d5a64bc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "中间件",
+        "Kotlin",
+        "分布式技术",
+        "SpringBoot",
+        "Netty",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230822/607f1f3d68754fd0165375ad667668bf7afcf157fff55ce2de900ea33d0ee417c85f6ca0333bcb0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "硕一科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "80b46fb13eea09180XJy3dq7EA~~",
+      "brandName": "硕一科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200617/81a4bc147dcf4af17e6895db78241e5dde900ea33d0ee417c85f6ca0333bcb04_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721575628360,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "硕一科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

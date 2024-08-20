@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vRlyj4v7mx46u-c1zYYTzQPgnqOb6dwlMKyd35a0uWi-AlZwYTZNO_7e6f_OQAoBSY-kt-d-15attul_MT2d0eehVRPgTH1LF6_F84nFAxfqs52dkGP_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "98bf926469dbb6c41XN429u6GVFS",
+      "encryptUserId": "c0376fb3abec30bc0nV92t69GVpV",
+      "invalidStatus": false,
+      "jobName": "前端/后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "前端工作要求如下：\n1.熟练掌握前端开发技术(HTML5、JS、JSON、XHTML、CSS3)，了解各项技术的相关标准\n2.掌握Ajax异步编程，能够写出高性能、可复用的前端组件；\n3.对OO、MVC、MVVM等编程思想、前端框架有深刻理解，熟练掌握一个前端框架（常用前端框架 Vuejs，AngularJS，React，Bootstrap，QUICK UI，移动端有：Frozen UI，weUI ，SUI，MUI，AUI）；\n4.前端安全机制，熟悉HTTP协议以及浏览器缓存策略；\n5.熟悉常见JS开发框架源码实现，（如：prototype、jQuery、Mootools，Ext， Dojo，underscore、YUI、Kissy），至少一种；\n\n后端工程师工作要求如下：\n1.对服务器端高并发，大数据量处理经验;\n2.精通 java，php开发，对相关的工具、类库以及框架非常熟悉，常用后端框架如 SSM（Spring+SpringMVC+MyBatis）框架集，对Web开发的模式有较深的理解（只少熟练掌握一套后端框架）；\n3.至少熟悉一种关系型数据库，如：mysql，oracle等。熟练使用oracle、sqlserver、SQL Develpoer，PLSQL，MySQL Workbench等常用的数据库管理工具，对数据库有较强的设计能力\n4.在高并发处理情况下的负载调优有相关经验者优先考虑\n5.精通面向对象分析和设计技术，包括设计模式、UML建模等\n6.熟悉网络编程，具有设计和开发对外API接口经验和能力，同时具备跨平台的API规范设计以及API高效调用设计能力\n\n[可兼职]",
+      "encryptAddressId": "5ce9525ab5391fc603R_39q_Flo~",
+      "address": "成都崇州市奥尔夫国际教育研究院120号",
+      "longitude": 103.675568,
+      "latitude": 30.612128,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/265369c1f8bfdbef89099ed7f19e58b2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c71bff1cdd53a6c236b58dcd44ba5710",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "Java开发经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "成都乐育谷科技有...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f0bea0ddaeef35781nB609m4E1E~",
+      "brandName": "成都乐育谷科技有...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721575033371,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都乐育谷科技有...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

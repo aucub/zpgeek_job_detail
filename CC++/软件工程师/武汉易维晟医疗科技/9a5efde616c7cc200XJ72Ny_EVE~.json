@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wYquN2rsx14WJ-s1YzJZx5pnNskJHIO2lGP1MIP5GnIYYYjeOQangG_A_1Qd3GkvX-JMri0eHmzJp_uMH9iYqc4PsNncMzUzEGBm7lgLjNcUhmhp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9a5efde616c7cc200XJ72Ny_EVE~",
+      "encryptUserId": "1ed8a5ede46f440b0nR-39m-EVU~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.熟练掌握C++语言，熟练运用C++新特性和STL容器，熟悉多线程开发；\n2.熟悉USB，I2C等通讯协议；\n3.熟悉主流工业相机和DLP芯片的二次开发；\n4.熟悉OpenCV框架，有一定的图像处理经验；\n5.熟悉Qt框架，有一定的桌面软件开发经验；\n具有良好的编程习惯，熟练使用Visual Studio，Git，Qt Creator等工具；\n工作内容：\n1.结合相关SDK，对工业相机和DLP芯片进行二次开发，如相机通信，相机控制和图像采集；\n2.根据产品需求，对相机图像进行处理；\n配合算法工程师和软件工程师进行整个产品的开发和维护；",
+      "encryptAddressId": "23c1c8ee8a0d44e21XN82Ni0EFc~",
+      "address": "武汉江夏区武汉高科医疗器械园9栋a单元402",
+      "longitude": 114.528439,
+      "latitude": 30.486489,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7a19cd529dae40b6a5691db2eb6a48d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9ef44a8c73a906ff01a59a08e7f34a01",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "QT",
+        "软件工程师",
+        "QT",
+        "算法设计",
+        "Visual Studio",
+        "GIT",
+        "C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "武汉易维晟医疗科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "560bd0d8add255561HVz0tu6EA~~",
+      "brandName": "武汉易维晟医疗科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721560387777,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉易维晟医疗科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

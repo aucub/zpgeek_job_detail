@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2W4nP2egAhkJM-T1OZtYGPuBeczlMWQyh5hG9ROnGhdk1NMEgNZvIsCUL4rHJSqXOFjcmy8zsLpfH4abrr7_bMyIarjGgKXAm1_oCQmuCYWU1JrOCXk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa36d25640d992d41n182ti1FFRR",
+      "encryptUserId": "38532fa656060c991HZ82Ni5GVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师+入职购买社保",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1.负责部门产品的功能开发与完善；\n2.负责产品相关技术文档编制；\n3.负责完成项目经理安排的工作\n\n*任职资格：\n1、2年以上相关开发相关经验，有大型项目开发经验优先；\n2. 有分布式软件架构设计和开发经验，对模块化和服务化有自己的认识和经验。\n3、熟练使用常用开源框架如spring boot、mybatis-plus等；\n4、熟悉nosql数据库，redis，MongoDB；\n5、熟悉前端技术，JQ、layUi等框架；\n6. 精通MySOL、Oracle等主流数据库系统的、相关技术及熟练使用各种工具；\n7、熟悉常用的设计模式、有较强的debug能力；\n8、有较强的沟通能力、执行能力。",
+      "encryptAddressId": "97bfc433fc6d547b1XV539-8FQ~~",
+      "address": "成都青羊区四川建行大厦(东门)2401",
+      "longitude": 104.073538,
+      "latitude": 30.659626,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e87c52026bc4bdac106a2d682632e03",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf6433ad60c5a798341f389ab2fb790c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Spring",
+        "Redis",
+        "NoSQL",
+        "MongoDB",
+        "微服务架构",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171120/d216966d6cfcb9947e6e4eee46f05457cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "寰沃科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "001cb5ed02a1be311nd829i6GFo~",
+      "brandName": "寰沃科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210108/34cb95b4cd6cfaa6fc7653b3be91c55224e17856f78f112cea5d855e6bdd3d10_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都寰沃科技有限责任公司成立于2020年1月，致力于为施工设计企业系统集成项目进行全方位服务，包括方案定制+方案执行+验收交付全委托。寰沃（科技），立足于实干，携手用户推开“数字化转型”的大门，迈出关键的第一步。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721575641457,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "寰沃科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

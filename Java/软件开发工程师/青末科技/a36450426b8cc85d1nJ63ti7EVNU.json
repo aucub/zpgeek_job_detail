@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BrHnzLtE0Hvbw-Q1sAfqOONSFVkEwfd7vSFSTwVpx37i3zsNUpaDybqmdbc6s96d9Qz6FlnkLq4pqn_FcRJZIKivlg2QeN35x0NTNc4Qa6ynGovulKw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a36450426b8cc85d1nJ63ti7EVNU",
+      "encryptUserId": "d16a2aa9dfb4277f0HB73dm1GFQ~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责/参与公司产品线，业务系统的架构设计、重构、优化，以及产品间的接口设计；\n2、负责/参与公司产品线，业务系统关键模块的详细设计，并开发实现\n3、参与制订相关的技术解决方案和技术难题攻关\n4、按照项目计划、按时提交高质量代码、完成开发任务、 解决项目实施过程中出现的技术问题。\n5、熟悉医疗HIS业务、公共卫生、妇幼保健、区域卫生业务优先。\n\n任职要求：\n\n1、有1年以上java研发经验，从事过医疗软件的研发，开发过his系统优先；\n2、有扎实的JAVA基础，熟练使用springboot、springcloud、spring、springMVC、mybatis等开源框架；\n3、熟悉主流数据库Oracle、Mysql，能快速定位问题并实现sql优化，有数据库设计经验；\n4、熟悉redis、nginx、MongoDB、mq消息中间件等技术；\n5、熟悉html5、css3、js、vue技术，且熟练使用前端UI框架\n6、熟练使用linux操作系统，docker容器；\n7、认真细心，有强烈的责任心，爱岗敬业，能够吃苦，有较高抗压能力。\n8、熟悉HIS、EMR、LIS、PACS等医院主要系统业务流程优先\n9、可接受短期出差。",
+      "encryptAddressId": "97cefa08b31fe2000nR92ti_FVQ~",
+      "address": "成都青羊区光华中心B座18楼",
+      "longitude": 103.963672,
+      "latitude": 30.670701,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/577a9ab1e2a7286e31f8cc6fdada8558",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6abb2be285c0a209909475b9661547f3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringMVC",
+        "Oracle",
+        "SpringCloud",
+        "SpringBoot",
+        "MySQL",
+        "WEB开发",
+        "全栈开发",
+        "VUE"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青末科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "91dd871adedef3c31nN_3Nm7E1U~",
+      "brandName": "青末科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721575094857,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青末科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

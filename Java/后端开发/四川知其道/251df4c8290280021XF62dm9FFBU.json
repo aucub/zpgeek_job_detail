@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rMRKwhceWs5qm-_11hk2Vr6LRfjsqbfQ6GzaicCupfQKX1BT--vrmD61aXm3RTeP_x0L9wFMR41lxGgIX_sd8UlaaMgrwdSYybBCTv7OjJXqXD5SjlEe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "251df4c8290280021XF62dm9FFBU",
+      "encryptUserId": "ed5afcce128372c40nJ52NW1FlVX",
+      "invalidStatus": false,
+      "jobName": "后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "中专/中技",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握基于SpringBoot、SpringCloud微服务全家桶、mybatis相关开发，以及常用微服务组件Feign/Ribbon/Hystrix/Nacos/Seata/Sentinel等的使用\n2、熟练使用内存数据库、MySQL、PostgreSQL等数据库",
+      "encryptAddressId": "e448c9de2e2548d50HZ73tq6FlQ~",
+      "address": "成都锦江区四川师范大学狮子山校区612",
+      "longitude": 104.122875,
+      "latitude": 30.609699,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51f2e5e0a0c4d57c560f600d84ec4c4d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/074d80637dbd3c2586ee63b3124c06f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "中大型项目架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "四川知其道",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "88b0f5aa663981c71Xd-2NW6FFI~",
+      "brandName": "四川知其道",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721575777710,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川知其道",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kMsJ244RlYbzv-m1skVjo_Ja946ztD1xT6WMmQyPPAwd_dhvZvvMDXxivahzmEuPzJnwWeDa51ZTq9xRiiFL5vCa93ASRCrMk77L3XbRk2SKdeafLztD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ef24ab8d3201f8141Xx50tW1GFRY",
+      "encryptUserId": "89a9edfd911595230nx93Ni6EldT",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "java开发工程师\n\n岗位职责：\n1、积极参与项目需求分析，新技术调研，按期完成指定系统的技术设计、开发工作；\n2、负责项目API接口开发及其功能实现；\n3、确保程序安全、稳定；\n4、深入理解业务需求，精简业务流程，优化业务效果；\n5、和项目相关部门同事、客户沟通；\n6、分析系统瓶颈，解决各种疑难杂症，对系统进性能调优；\n7、及时响应及处理线上问题；\n8、完成领导交代的其他工作；\n任职要求：\n1、专科及以上学历，计算机或软件工程等相关专业，2年及以上开发工作经验；\n2、良好的沟通表达能力，积极乐观的心态与工作态度；\n3、熟悉面向对象的设计和编程，具有扎实的java基础知识；\n4、熟悉Spring、Spring boot、Spring Cloud、Mybatis等开源Web技术栈；\n5、熟悉关系型数据库MySQL等主流数据库，有较好的sql基础。对Sql性能调优有较好经验;熟悉Redis等NoSql数据库；\n6、能够熟练使用IntelliJ IDEA等开发工具，git等版本管理工具；\n7、熟悉RabbitMQ消息队列、Webservice服务技术，了解互联网架构、微服务、分布式架构等技术；\n8、熟练掌握Linux下的常用命令，常用的脚本语言优先；\n9、熟悉vue开发、elementUI优先；",
+      "encryptAddressId": "23d880ff54a5761e33160tu9F1c~",
+      "address": "成都武侯区菁蓉汇5F",
+      "longitude": 104.06264,
+      "latitude": 30.53912,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13ac7c3a416b1c1c47d3b5f71871f9fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/386446121c091fe980429e02bdb600d0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C/C++",
+        "JavaScript",
+        "Java开发经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "任女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd0cee8e90f10bedc93f294062196a5234afe1a957e26912f77d9e07ef9fe42b6d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "沈阳矿脉科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79dbd9e898f49b921XFz29q7EFE~",
+      "brandName": "沈阳矿脉科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "百丽，李宁等品牌全国唯一团购官方平台代运营",
+      "labels": [
+        "有无线网",
+        "带薪年假",
+        "法定节假日三薪",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1721575600648,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沈阳矿脉科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

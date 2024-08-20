@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hETsvAihB7Vdq-M1i9O2r9_nCEsHLNHvScr6-IYcekhs7W3E9sfSyOWfMHTUBU7IRkjRSrIIVoptYYpUgIdWnQWxIUfoqboDZcYVsiZUdnRxWEu8e7Gx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a045d2d13740a6691nJ62tW7ElVS",
+      "encryptUserId": "12c96ba0b6513d021nV509q4E1NZ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求:\n1.      Java基础扎实，理解并能使用Java多线程及线程池，集合框架,I0类库等，良好的编程习惯\n2.      熟悉主流Spring、SpringBoot、SpringMVC、 MyBatis等 框架，快速上手新型框架\n3.      熟练使用Oracle、MySQL关系型数据库\n4.      熟悉利用Redis来实现的缓存、分布式锁、分布式session、前后端分离、页面静态化\n5.      熟练使用tomcat服务器、git版 本管理工具、Maven项目构建工具13.\n6.      Java、微信小程序开发，熟悉Android更佳\n7.      熟练使用js、jQuery、 ECharts等前台集成UI框架技术\n强制条件：\n全日制本科学历",
+      "encryptAddressId": "319672de86b51b081nN43du_EA~~",
+      "address": "深圳罗湖区怡泰大厦A座1905",
+      "longitude": 114.128093,
+      "latitude": 22.553974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a418acf6b788c8a7652710d5fd39a4c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ee9bc2f8e6c2c48c75649e3f0f04c1c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200618/a0020d56423655095d8c36a002d388dc2aac23503cef74e9590a1699e66_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "大均",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6697ceb92dfd434e1nB729m_F1M~",
+      "brandName": "大均",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721566869260,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大均",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

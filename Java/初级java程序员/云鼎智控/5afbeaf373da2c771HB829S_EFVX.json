@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B0AvYIafYBnwc-H1UrsWlAU--7hIbkHqGPpfPl76390QgBzWWt9FlQHF5o9w0y6r6oLSX0cAEkPui3Sdrd41esFGoVgFn5JPRWRls9MdZ6luHbWzfQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5afbeaf373da2c771HB829S_EFVX",
+      "encryptUserId": "91ded54deafb73610nF43dq5FlFR",
+      "invalidStatus": false,
+      "jobName": "初级java程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 本科以上学历，3年以上Java开发经验，代码规范；\n2. 有netty开发经验，有任意RPC协议开发经验；\n3. 有使用Spring Cloud/Spring Boot框架的项目开发经验；\n4. 有Java多线程应用开发经验；\n5. 能自己编写单元测试进行代码测试和调试；\n6. 有分布式缓存和消息系统使用经验；\n7. 有Redis、Sqlite、MQTT等开发经验，能编写复杂的sql查询语句；\n8. 有以下经验优先：配置使用docker， 熟练使用linux操作系统；",
+      "encryptAddressId": "e51246ef53b9ca5c0XN63N2-E1FZwY68Uf0~",
+      "address": "成都武侯区高新区益州大道与天府五街交叉口天府软件园G区元宇宙大厦15楼",
+      "longitude": 104.056173,
+      "latitude": 30.537404,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230816/48ba41acc9cef1bfaadc3514b21a1df4c1e2d9c9313296726bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230816/48ba41acc9cef1bfa71a95f3dd75d330bd9fa065dd43d1796bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221118/607f1f3d68754fd0f1125bc8b55787a447ee83bed1ea85d6c9a52f75de66fdc09fb952217fa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "云鼎智控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "046a160907fe64e233x62ty1",
+      "brandName": "云鼎智控",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190712/b7e25d248740273c82501e4154a333cb5ebe5012ac5aa30fbce6051cfb381139.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "成都云鼎智控科技有限公司成立于2013年12月，总部位于成都市高新区，公司注册并实缴资本2000万元人民币， 是一家专业从事军事仿真、兵棋推演、智能无人系统研发、 生产、销售、服务于一体的高新技术企业，具备某类装备总体及分系统设计能力。",
+      "labels": [
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724074883815,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云鼎智控",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

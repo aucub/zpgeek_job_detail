@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8leGiojcsAYYv-91Yn4fDBAF5a_BsPMP8TtfvvxJVkZFYwNWiFuergGpzk4pHqrT7mMJ2DGjUQVj0eWK153uTfpTL8S3Fvm9MtUBBXezFEp50fmV18w~",
+    "securityId": "kmjAnNFgdkNV0-s14GbQ0Pbj_UNbNr2NeIwqf2yPwwRAPtx23YuXuVrbhBsKzzYEK1yPVbaJpc3JsxG_8ZBu_2F1gpQ_ofv8ouSENBN8RUch5cuNleQ~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -35,18 +35,19 @@
       "showSkills": [
         "C++",
         "QT",
+        "OpenGL",
         "MFC",
-        "OpenGL"
+        "上位机开发经验"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "刘女士",
       "title": "人事主管",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd0b70193f044c1666929456513d8aebf84f239170cae06bcb4165f08e3c38_b.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
+      "activeTimeDesc": "刚刚活跃",
       "bossOnline": false,
       "brandName": "纵横皆景",
       "bossSource": 0,
@@ -78,7 +79,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1719916576523,
+      "activeTime": 1724149089645,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "纵横皆景",
@@ -95,7 +96,16 @@
       "interestJob": false,
       "beFriend": false
     },
-    "handicappedInfo": null,
+    "handicappedInfo": {
+      "onlyAccept": false,
+      "detailInfos": [
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/9db3de8ea9a1853ab1a00ba4746690019baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/db428f8b77002963e999b6b80671c5fb9baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "听力残疾",
+          "content": "该职位没有障碍程度限制"
+        }
+      ]
+    },
     "appendixInfo": {
       "canFeedback": false
     },

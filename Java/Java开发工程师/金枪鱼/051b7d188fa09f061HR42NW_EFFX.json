@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aSRL9NOeg2RiE-m1a4sD2_cJqOlPZlR8ncC-q1CXrZgIyQrefTinwFOz5aQ9jMkfO9FUJykbR_sFuRZQ-nLtq4Iqv6tX9-UAVKYruQltwU87u9Se3d5e",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "051b7d188fa09f061HR42NW_EFFX",
+      "encryptUserId": "374a7075903950c71nRy0t25FVtU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与系统分析，负责系统功能设计；\n2、按计划完成项目开发任务，并确保交付质量；\n3、根据项目要求，完成相关文档的编写；\n4、负责系统性能优化和现网问题处理。\n\n任职要求\n1、2年以上JAVA开发经验，熟悉Linux常用命令；\n2、精通JAVA语言，掌握常用设计模式；\n3、熟悉J2EE主流开发框架，熟练掌握Spring、SpringBoot、MyBatis的开发和应用；\n4、熟悉Spring Cloud等相关微服务架构的开发和应用；\n5、至少掌握MySQL、Oracle等一种数据库的应用，并熟悉SQL脚本优化；\n6、熟悉Redis等缓存服务的开发和应用，了解其实现原理和运行机制；\n7、熟悉Maven/JIRA/Jenkins项目管理工具；\n8、有运营商项目开发经验优先；\n9、我们是一家初创企业，如若对此有顾虑，请慎重投递。",
+      "encryptAddressId": "628d6d91c610572f1nRz3N61EVtW",
+      "address": "成都武侯区思达工业园(科园二路)A414",
+      "longitude": 104.040498,
+      "latitude": 30.622133,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf560086c223c64575cf9237e62d1094546bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bff82f222e7ceb79d94e2e6dab79f47d5a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Redis",
+        "Maven",
+        "Linux",
+        "MySQL",
+        "SpringBoot",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "金枪鱼",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9adb8a94c10c27251XRy0ty0GVU~",
+      "brandName": "金枪鱼",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230809/7bf6f160950405e9d485858971648921dfabdb3455949f181e08b500db328a72097fe6494603453f.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司主要从事石油行业、电信行业、教育行业的项目开发和自主产品研发",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721574931204,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金枪鱼",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

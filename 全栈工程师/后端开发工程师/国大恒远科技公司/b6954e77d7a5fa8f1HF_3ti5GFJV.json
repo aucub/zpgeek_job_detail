@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LF-rXzVSPtkf--g1WNWO1u_WOgRRx0jATe-uRXnEb_bTvalv-6YhcbTCaGALfUPg88CviIICbFz-y0xY0byY5nEHEOHs7pTeECR9Occ8nN6Qo-r25UbT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b6954e77d7a5fa8f1HF_3ti5GFJV",
+      "encryptUserId": "ebf29b56126d814f0XZ90927EFJX",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1、在项目经理带领下，参与软件的需求分析、系统设计、代码开发、测试、部署上线等工作； \n2、公司解决方案的迭代开发和持续优化； \n3、参与技术攻关、积累、分析并解决软件开发过程中的问题； \n【任职资格】\n1、大专以上学历，计算机相关专业; 地理信息遥感类专业\n2、1年以上使用Java进行web开发的经验，精通spring boot、mybatis等框架，熟悉Linux下的常用命令;\n3、JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息等机制;\n 4、熟悉MySQL、Oracle、Redis，了解postgresql等数据库，熟悉常用的数据库优化策略;\n5、熟练掌握mybatis plus的使用； \n【加分项】\n1、使用Vue2、Vue3开发项目(PC端、移动端),熟悉前端框架 ； \n2、掌握HTML及CSS,包括HTML5及CSS3。产出页面布局及细节合理 ，能快速解决浏览器兼容性问题 \n3、掌握Javascript,包括基本对象及操作 、DOM操作、事件、Ajax、错误处理、兼容性、ES5/6等内容; \n4掌握docker",
+      "encryptAddressId": "5e55a7a212a17add03Z53NW1EFZUwoi2WPk~",
+      "address": "武汉武昌区武汉大学教学实验大楼",
+      "longitude": 114.364339,
+      "latitude": 30.536334,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0de506b672e0d9341e78a926916546ce6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf48f0fa9a6e6b518927b419d59fc950666bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Vue",
+        "后端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "董事长",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "国大恒远科技公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4ada9db05e910a71HV92Ni-E1Y~",
+      "brandName": "国大恒远科技公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723808571233,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国大恒远科技公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

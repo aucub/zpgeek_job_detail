@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7gaDXcCevEMzb--1-4Moj0Rv0JJu5ynXB21Q717o5ms_vFwLK855qeTEoDBOarMSAj_DSlAC3NlXMZqHSwIRtJJS4qN2EBlr9R0fPCxIU6ph_pLW3A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "26185092e97949241nF50tm6FFBZ",
+      "encryptUserId": "ca56bea604d0883803J6396-EFM~",
+      "invalidStatus": false,
+      "jobName": "java 开发攻城狮",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述:\n\n1、负责区块链后台服务器、交易所、钱包等核心业务系统开发\n\n2、负责区块链后台分布式数据存储\n\n3、负责大数据网站架构设计及服务器部署\n\n\n\n任职要求：\n\n1、计算机软件或相关专业，一年以上J2EE项目开发经验\n\n2、精通Java，J2ee，Javascript相关技术和体系架构，具备相关项目开发经验；\n\n3、 精通Struts, Spring,Hibernate, ibatis或类似Java体系的应用；\n\n4、精通nginx、tomcat、mysql等架构设计；\n\n5、 熟悉Unix/Linux操作系统原理，常用工具，具备Unix/Linux下开发经验熟悉Mysql/Oracle等数据库管理、开发，SQL调优；\n\n6、 分布式系统设计与开发，了解中间件的技术以及基于中间件的开发模式；\n\n7、 善于制定工作计划，高度的责任心、具有良好的创新精神、学习能力、沟通能力及团队协作能力；\n\n8、 曾有过实际应用nosql数据库经验者优先，例如memcache、Redis等，向知名开源项目提交过代码或者patch者优先。\n\n9、会Go语言更佳。",
+      "encryptAddressId": "f7258bc9832bb42b1nV92Ni8FVVZ",
+      "address": "成都武侯区理想中心3栋1209",
+      "longitude": 104.063039,
+      "latitude": 30.595379,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d3ab201bfbd9ff2ce411503423e32197",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19f791c23f1c9c0f3bf7cd9d8754b5d9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "开发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "成都极数链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8b0e78bb103aa36133x73d65Eg~~",
+      "brandName": "成都极数链",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724155733922,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都极数链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

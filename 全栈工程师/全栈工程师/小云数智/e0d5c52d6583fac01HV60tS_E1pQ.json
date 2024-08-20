@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qHmc-IXV7FS8W-j1swV8pNN2lagcUkb0XMVp0ILJnKmswQTdrB99TG4PrjUB7fc-1OtqYwwlZc-TeJoKwDUO6F1L8r4En8K5vivn8dc9DBubVr-IaQI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e0d5c52d6583fac01HV60tS_E1pQ",
+      "encryptUserId": "5bdfdea11fd2f6b01HV42dq8FFo~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、职责\n负责公司java产品和核心模块的开发\n负责功能需求分析、功能设计和代码编写\n按计划独立完成系统功能的开发、测试和维护\n保证自身代码业务逻辑正确、代码高效、程序健壮\n按要求编写技术文档，文档结构条理清晰，内容详实准确\n高级工程师要求：需求沟通、架构设计、技术管理\n2、资格\n三年以上实际工作开发经验，本科以上\n具备扎实的 java基础\n熟练使用spring boot,mybatis等后端框架，vue，iview，webpack，gulp等前端技术，熟悉spring cloud优先\n熟练使用nodejs，熟悉sails框架优先\n熟悉版本管理工具git，svn的使用\n熟练使用maven或gradle\n熟练使用idea，webstorm等主流ide\n熟练掌握MySQL或Oracle等主流数据库\n数量使用Tomcat、Jetty等\n熟悉常用的linux命令，能够独立完成部署调试。熟悉docker容器技术\n熟练使用常用的调试方法与工具，能够独立快速的解决技术问题\n自驱力强，乐于学习，乐于合作\n高级工程师要求：熟悉软件系统架构设计、软件开发流程管理规范，有DevOps经验优先\n3、加分项\n\n独立解决问题，事前有规划有设计，事后有总结可复用可扩展，举一反三",
+      "encryptAddressId": "31df82ebf02ecb7f33J-3tW-ElI~",
+      "address": "武汉洪山区泛悦城13-41",
+      "longitude": 114.41554,
+      "latitude": 30.504893,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e07446ebed3cdd617873d129b53317de",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b935ed47f79fe4b4da7a4033b9ec4751",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Vue",
+        "Java",
+        "Spring/Spring Boot",
+        "MySQL/Redis/MongoDB",
+        "后端开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "创始人与技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "小云数智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "651dcd840eb96f2d1n140tu0ElU~",
+      "brandName": "小云数智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司业务稳定，公司专注与软件开发，大数据服务，人工智能产品研发！",
+      "labels": [
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "住房补贴"
+      ],
+      "activeTime": 1722953645000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小云数智",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
