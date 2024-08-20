@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cndDXA9Wi374F-61AJgr0EXoH_Pu8XEBqMBy0eZpfExFaOCuai8rjoQmzXnbHWofOIBeEM5To5INJ67M4LaflBr8fgI1XhoROQSOcyEsDoDCQaBU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "094d66614a46d0e21XZ93tm8FVY~",
+      "encryptUserId": "2418c54d2a77deb803Z63Nu9Elo~",
+      "invalidStatus": false,
+      "jobName": "JAVA软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "涉及公司业务系统/在售产品的设计，开发，升级，调优工作，包括java web系统，微信公众号、小程序，安卓应用；\n\n岗位要求：\n1. 熟悉前后台开发，熟悉VUE + springboot 前后台分离开发模式,有实际功能开发经验\n2.熟悉H5、echarts、jquery等常用页面技术。\n3. 熟悉SSH,SSM等常用框架并进行快速开发；\n4. 熟练使用MySQL， ORACLE、 SQL Server一种或者多种数据库；\n5. 熟悉各种缓存、消息中间件、工作流等技术，例如：redis、memcached、MQ、flowable等；\n6. 能承受工作压力，善于沟通。",
+      "encryptAddressId": "2d135bc2041b414333J429y_Ew~~",
+      "address": "武汉洪山区光谷总部国际1栋602",
+      "longitude": 114.418301,
+      "latitude": 30.480297,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10fd77629e65c5766adac8a9e2910684",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a89fcb246d0e262ee95dac1eb08fe493",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "vue",
+        "ssh",
+        "springboot",
+        "elementui"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180706/119a79e0346f595ae6036aa210d27a9bcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "武汉菱镜信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "07907f8b397c76851XZ92tu0GA~~",
+      "brandName": "武汉菱镜信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉菱镜在技术方向主要用目前JAVA主流的开发架构，VUE+springboot，基于springcloud的中台开发，以及SSM、SSH架构。公司在安卓扫码枪、微信小程序、公众号、地理信息系统ARCGIS均有技术储备，公司在数据ETL调度处理、报表呈现上也有相应的技术储备。\n      武汉菱镜的主营业务条线在食品药品农药码追溯方向，绿色金融方向，以及各种项目类性质的管理系统。公司已与哈药、三全、思念、榄菊、华润三九、建设银行等知名企事业单位开发相应项目。\n     公司目前属小微企业，诚心寻志同道合的同事们加入我们。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721555782781,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉菱镜信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

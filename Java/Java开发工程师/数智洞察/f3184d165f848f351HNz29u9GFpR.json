@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lfcObFDdqVHJL-S1jLVHlACcxEBj6K9Vod7sB5abD4aEjPd8E0RwrkLPsxg0anjgFSZEvxdbZHJVmLuU0fNOWy8R996AR3dzLPsOL-gX1nOC34oJM2CtOvcyHSdvnHJnGmpV7dwWYvxDJQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f3184d165f848f351HNz29u9GFpR",
+      "encryptUserId": "91ade8ccb7e6ffe61nZ-09W5F1Y~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.负责公司软件项目的模块设计及服务端开发工作，保证软件系统的交付质量和稳定性。\n2.参与技术解决方案制定和架构设计，制定开发计划。\n3.深入了解产品功能，制定出符合产品预期的实施方案，产品发布方案。\n\n岗位要求\n1. 统招本科以上学历，计算机相关专业，有企业级应用实习经验，严谨的代码逻辑和编程风格，有良好的开发习惯。\n2. 精通Java基础和基础算法，具备良好的计算机基础，熟悉Linux操作系统。\n3. 精通SpringBoot,SpringCloud,SpingMVC,Mybatis等常用框架技术和原理，有分布式架构设计或微服务、服务治理等经验，对消息中间件和分布式存储有开发经验优先考虑。\n4. 熟悉关系数据库MySQL，有复杂数据模型的设计和优化经验。熟练Redis、ES等NOSQL。\n5. 参与过复杂系统或复杂业务产品的功能开发，具备一定的抽象思维，将高复杂问题整合解决方案的能力。\n6. 具体快速定位问题和解决问题的经验，有过系统优化者优先考虑。",
+      "encryptAddressId": "514e780d4a017ca51nV539S0GVBSxIu3VPKb",
+      "address": "北京通州区锋创科技园7号楼11层1103",
+      "longitude": 116.568469,
+      "latitude": 39.781747,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf6c5ae966492f9419ac9d475d35d70ac86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfba6cf5cbb62cc887b947a1b0ed01a2f06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "JVM",
+        "MySQL",
+        "分布式经验",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201228/77693e8df90babe91563100a3489d72726ded8ff973291d55d02ebda692_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "数智洞察",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "72893eb01fce4bf81HJ62tm7EVM~",
+      "brandName": "数智洞察",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724123103544,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数智洞察",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mSIupzmP3G_ca-F1LbKoHiiW0NxbmtND0VN26OpvlcNb-cDtUtfvF7H0NvcHUmTFA6EEhekR83gMVVyiorCYhfLvIKEmKTMys0IDoj9E69ZbfdsfJGJKTmsknzpGVVLTBWpbceolBzU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1c408baf63399a0c3nN-3t66EVA~",
+      "encryptUserId": "8639e7c66b9e6ba10XV93NS5EVU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉 java，基础扎实，能使用java处理业务逻辑。\n2、熟悉使用 Spring 处理 java Web 开发，了解 MVC，IOC，ORM 等开发规范及原理。\n3、了解 mysql，sqlserver，oracle 的数据库的使用及备份，会数据库性能优化的更好。\n4、熟悉 sql 语句，会使用 mybatis 或者 hibernate 进行数据库连接和处理。\n5、了解 TCP，UPD 网络协议，熟悉http及https的请求运行方式。\n6、了解应用服务，能进行 tomcat，nginx 的为基础的 java 项目的部署及配置。\n7、能熟练使用 eclipse 等 ide 进行编码。\n8、熟悉 windows server 及 linux 的服务器的使用。\n9、了解 html、css、javascript ，会使用 ajax，会使用类似 Jquery，vueJs 前端库写简单页面。\n10、具备良好的理解能力和沟通能力",
+      "encryptAddressId": "1e0183f3189a7ca71HB-3du6Fg~~",
+      "address": "宁波鄞州区泰康大厦1501",
+      "longitude": 121.550893,
+      "latitude": 29.805855,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/440b24e19082aa122c97e1744e443ad2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/919a4572ca84d470c6e7e6156b7413fe",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验",
+        "文件管理系统",
+        "JavaScript",
+        "MySQL",
+        "PHP",
+        "HTML",
+        "后端工程师",
+        "网络协议",
+        "SQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "HRM，人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "蓝源软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "77ebf0bd3d52ea2103d-09y7EA~~",
+      "brandName": "蓝源软件",
+      "logo": "",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司核心做两块业务：一块是BPM系统，另外一块是做钉钉的服务商！帮助宁波客户把钉钉系统更好的应用。",
+      "labels": [
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724144389736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蓝源软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

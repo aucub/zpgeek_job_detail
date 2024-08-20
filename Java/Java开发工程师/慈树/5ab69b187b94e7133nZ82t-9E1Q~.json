@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jrCfL4hzCTlBA-D1ZonyeFuTxPEzwr7xqXuEfmUelkyvEG4iqroYdysR7AfUYbYAj6jv6PalLpGaC4M1pDXoh1Odjdx7XXMRSn0OFKCntEMbkn1S",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ab69b187b94e7133nZ82t-9E1Q~",
+      "encryptUserId": "054eda738ecd71e503J92d20EQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.全日制本科及以上学历，计算机、网络安全、电子信息等相关专业毕业，专业课基础扎实、编码实践能力强。（学历及专业不符者勿扰）\n2.3年以上编码、开发经验，Java基础扎实，对JVM运行原理与常用配置非常精通。精通Java常用技术框架和第三方类库。\n3.精通面向对象设计原则，掌握常用设计模式及应用场景。精通Mysql、Oracle等常用数据库系统，有SQL语句性能调优经验。精通spring框架，熟练spring mvc 编写rest后台，至少精通使用Hibernate,mybatis或者jpa中的一种；\n4.责任心强，学习能力强，有技术热情，具备良好的沟通能力和团队合作精神。\n5.熟悉Unix/Linux常用操作，能独立部署配置nginx、tomcat等常用web服务器者优先；有医疗行业或教育行业信息化系统开发经验优先。",
+      "encryptAddressId": "b7dcd33b3686490f03163Nq7GFI~",
+      "address": "深圳南山区深圳虚拟大学园平台大楼B座7楼708-709，720-722",
+      "longitude": 113.943675,
+      "latitude": 22.530125,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28e8987cb6b724e5621f629c1b980ef1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/25e0b850772ed000cb025d9147324d64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "服务器配置",
+        "Spring",
+        "Linux",
+        "Java",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171017/f33eb415c4cc2186c59ba9770718b628cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "慈树",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8e3669b05045745e1nV62N26EFE~",
+      "brandName": "慈树",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200810/aef582cdf2574992f7e0c5f8758111f47e25d85bd3807602b784226673641c09_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "慈树健康科技专注于心理领域相关产品研发，聚焦大数据、移动互联网、AR/VR、AI等技术方向，主要服务医院、学校、心理咨询机构等客户。目前公司已自主研发并获得20余项知识产权，并与心理领域知名高校和研究所的权威专家开展深度合作。\n\n目前产品已在中国某科学院、中日联谊医院、深圳市第三人民医院、深圳市萨米国际医疗中心（市四院）、东莞市人民医院等数十家知名综合性医院，深圳市福田精卫中心、南山精卫中心、重庆市綦江精卫中心等专科医院，以及深圳市荔园教育集团、内蒙古师大附属民族学校等知名学校有广泛商用。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "项目奖金",
+        "优秀员工奖"
+      ],
+      "activeTime": 1721539071138,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "慈树",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EeiC_rEm48EUZ-31Fiw78aGDQW5rQqrvVCM7SnaYlb-7Sa5TW5OOBqvWhBhTd_B76JxJl_Lnd0egOAVafiTtiw8usU-1jM_0V0pz-TiDKg2Y_XWYTw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3d37075e8e6a1d481nJz09W7FFNQ",
+      "encryptUserId": "e759c2b5e156ed270Hx70ti6Els~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n      1、负责通信能力平台代码开发及系统运维工作；\n      2、对接客户，解答客户在生产过程中的疑问；\n      3、排查系统生产中的各类问题；\n      4、监控生产系统运行情况，并对异常上报主管；\n      5、审核客户提交资料的完整性、合理性；\n      \n任职要求：\n      1、1年以上的JAVA开发经验；\n      2、熟悉MySQL、Nginx、Redis、ActiveMQ、RocketMQ 等相关技术；\n      3、熟悉Gitlab，SVN等版本管理工具的使用；\n      4、掌握Linux基本命令，有Linux环境部署维护经验；\n      5、能独立完成开发及程序二次开发工作；\n      6、有良好的沟通能力、团队协助能力。",
+      "encryptAddressId": "44362fc0897738121nV52N26FlM~",
+      "address": "北京朝阳区华汇大厦A座3楼3009A",
+      "longitude": 116.550762,
+      "latitude": 39.908104,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0094f15d6db40be5c9c1bd5a421462c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac49329fdc0776fb5561b10ce7b5530c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "Linux",
+        "SVN",
+        "多线程",
+        "消息队列"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "卢先生",
+      "title": "工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191011/7525bcf706d45a645ee104abd94696f00ee2dc33b94552aae8c27ade485_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京君悦天下",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "103a0a2481dcf1160XV809u9EA~~",
+      "brandName": "北京君悦天下",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100025,
+      "industryName": "运营商/增值服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721500738839,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京君悦天下",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

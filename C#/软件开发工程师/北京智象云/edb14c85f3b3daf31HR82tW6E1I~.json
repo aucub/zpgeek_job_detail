@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SNMdUAKmlf62O-r1fHAZi3PsUjL8kpAoJXm5f81p9nWYgS4moKtlKtDGF9mSniAqjytdnnWESUuynTDFBJ13RriUaJMOnYNTNMfmkML0Q7NzKIQK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "edb14c85f3b3daf31HR82tW6E1I~",
+      "encryptUserId": "928c9367b0eb9cde031-2Nu4GFA~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、按照项目要求可以完成软件的需求分析、概要设计、详细设计、编码开发及单元测试等工作；\n2、对开发的功能完成单元测试；\n3、撰写相关技术实现文档；\n4、工作态度积极，责任心强，能独立完成项目开发任务；\n技术要求：\n1. 精通C# Winform编程；\n2. 精通MySql数据库，能遵循良好的编程规范；\n3. 可以基于第三方API二次开发；\n4. 熟悉linux开发优先;",
+      "encryptAddressId": "3b0c627ef64806311XB929y1F1A~",
+      "address": "北京大兴区嘉捷·BDA企业汇",
+      "longitude": 116.558624,
+      "latitude": 39.7737,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b57eb18cc498889094fb984260bcf29",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4cb3bdc060b30b5e9191ba2480c85824",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "数据库",
+        "C#"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京智象云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7baa46749a18ec211HRz3N-1GA~~",
+      "brandName": "北京智象云",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190312/867b0953698ef58fbdae53ba9cc32a2b27afba74e8361cf16267e1d8fb68f152.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "医疗器械研发 生产 销售 培训",
+      "labels": [
+        "包住",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检"
+      ],
+      "activeTime": 1721544677386,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京智象云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

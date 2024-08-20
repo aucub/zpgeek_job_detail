@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "oyeIGhKEmFM3v-a16P_cLf-RVMgrlz8HJ2MWWjekqKTAqCL6qmzhnPmbi8dqBKjFMft-Bb96NY3JPijRzYEumOdlNdFGlMKQO4_cbZuqacOF5dagADwk",
+    "securityId": "AWAOGBa106q2I-01mRu-l5kRU607ogKJ6FzWFRib1rlEEJstghhGkRuTzi7KInRYAt12wO4gaTum7t2w2nRRaI4eJmR7A1tyY0Jr1EnObJTpktbZP6WlHsZUYFgk1Z0wp4lOlClg79MMf98~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -41,7 +41,7 @@
         "Redis"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "刘先生",
@@ -59,20 +59,30 @@
     "brandComInfo": {
       "encryptBrandId": "4dd042d39e2e9d141HB909y8ElU~",
       "brandName": "方树科技",
-      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240818/7b5b554d84f9729cc3be5bcca56ece4b2c4807760d6f7ba953274330062bfe4709c79c76c3ea90f7.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
       "scale": 302,
       "scaleName": "20-99人",
       "industry": 100020,
       "industryName": "互联网",
-      "introduce": "",
-      "labels": [],
-      "activeTime": 1722831134545,
+      "introduce": "公司从事互联网科技平台，叫做大同方树同城，邀请线下商家入驻大同方树平台，微信小程序可以查到的",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "绩效奖金",
+        "底薪加提成",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "团建聚餐"
+      ],
+      "activeTime": 1724130059688,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "方树科技",
-      "customerBrandStageName": ""
+      "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
       "inviteType": 0,

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YZMI9ZvCnaKfZ-X1c3uDqI18YmQ6rNKcu4gczmxEX1p6rGz7KaJgBtYAMnyK0PsFhaRq4Guzhbch5vm2A8vH3rZG7BAm0oV7W5svE8dBuFYllAev",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ecf7dfc6d8bc51a1XR_0tq8GFtW",
+      "encryptUserId": "22503b8bc71b7fa61XR80tm6EVc~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与整体项目的方案设计、开发过程；\n2、负责项目中主要功能模块的技术方案设计、接口设计、代码实现、文档编写，评估技术难点和风险点；\n3、对现有系统进行优化，提升系统稳定性和响应速度；\n4、根据任务安排，在指定排期内完成相应模块的开发，总结分享开发过程中解决的关键问题和技术难题\n任职要求：\n1、计算机或相关专业本科毕业，2年及以上相关工作经验，有扎实的数据结构基础，较好的逻辑思路，熟练掌握java基础知识；\n2、有较强的技术好奇心和求知欲，有技术总结的习惯（如写技术博客）会有加分；\n3、熟悉J2EE系统架构，了解Spring, Spring MVC, MyBatis等开源框架及其设计理念，有大型互联网项目开发经验者有加分；\n4、 了解Linux下的常用命令，熟悉Mysql，有数据库表结构的设计能力；\n5、熟悉redis、MQ等高性能并发中间件，精通多线程变成；\n6、工作积极主动，具备良好的表达和沟通能力、具备团队合作精神和独立分析能力",
+      "encryptAddressId": "c0223ce794e552a61nV-29W4GQ~~",
+      "address": "武汉洪山区光谷总部国际一栋6楼12号",
+      "longitude": 114.418719,
+      "latitude": 30.47998,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac583fb4f2a2e8a26de2e63a6eaadc7a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a80b7cea09cf3459cc335aa5d01f223",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "数据结构",
+        "多线程",
+        "架构师",
+        "Linux",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170914/70f9775969f9ac7c66965896c539e9252f5685f78e4d060db3d265a8699_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "思楼传媒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4c38b4a192f96f6333d83NS1",
+      "brandName": "思楼传媒",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200719/0057ba25a1ab4957ce484584f92fa4497d7653006a0aa6ac16e682a202c7f9d1.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "湖北思楼文化传媒有限公司是一家集软件研发，策划设计运营于一体的技术服务公司。公司自主研发的针对瑜伽馆，健身房等场馆的场馆管理系统已有390+客户。公司同时集成了智能瑜伽馆已在国内多个城市成功上线使用。",
+      "labels": [
+        "股票期权",
+        "零食下午茶"
+      ],
+      "activeTime": 1721555027149,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思楼传媒",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

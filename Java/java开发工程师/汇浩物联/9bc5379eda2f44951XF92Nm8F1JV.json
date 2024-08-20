@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lmDMkcM9HJRSK-a1rQ80rv6buppPR4GXB9SD-5hGehjlGl4DeY6qr5oKy7lXq0tbieO9jZL1Qxd89FlkfptPECKmGSNxyGadyoOVXRefBxfVfWoq_ZCa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9bc5379eda2f44951XF92Nm8F1JV",
+      "encryptUserId": "8704db0993bb2eb30nZ43t25FFtX",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、1-3年以上Java开发经验，本科及以上学历；\n2、Java基础扎实，理解JVM原理并有一定调优经验\n3、熟悉主流开发框架，如Spring、SpringBoot、MyBatis、Redis、SpringCloud、Thrift、ZooKeeper、Netty等，熟悉Git、Maven、Nginx等工具的使用；\n4、熟悉MySQL、MongoDB等数据库，具备一定数据库调优经验；\n5、熟悉分布式、缓存、异步等机制，有分布式系统、集群架构设计和使用经验者优先考虑；\n6、熟悉TCP、UDP协议，有socket通信开发经验者优先考虑；\n7、有独立系统设计及开发经验者优先考虑；\n8、良好的沟通能力，较强的逻辑思维能力，善于分析、归纳及解决问题的能力。",
+      "encryptAddressId": "92ee04a77b13fd3c1n1439m4EVQ~",
+      "address": "南京浦口区垠坤·创芯汇1-207",
+      "longitude": 118.692713,
+      "latitude": 32.15918,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75b8032e6f79b40681490a308a047a9e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0c8c6d3905d80d08f550bbe1b73253e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "全栈工程师",
+        "Java",
+        "不接受居家办公",
+        "大数据处理经验",
+        "中大型项目架构设计经验",
+        "后端工程师",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "法定代表人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210315/7d899b5aed392bc00e2a043b712e853b2cc4455852fc6dd1fb289116d33_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "汇浩物联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3e36ed64825ffc101nBy2NW6EVo~",
+      "brandName": "汇浩物联",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "工厂维护的数字化转型",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "通讯补贴"
+      ],
+      "activeTime": 1723430117000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇浩物联",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

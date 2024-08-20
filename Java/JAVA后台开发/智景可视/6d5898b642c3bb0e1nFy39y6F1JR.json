@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QPtAEOVeaStz1-B15mgo4rJmZXR5XZczQsEDdAtY30Yyq78gDbGnAmQ9gixEpYpwxi43c3jXLE5MFD03vfF9hZCQikd3LHxSxXyHBwd2MAB2tO0xTD-9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6d5898b642c3bb0e1nFy39y6F1JR",
+      "encryptUserId": "e5e1bae44544628d0nd509q-ElRX",
+      "invalidStatus": false,
+      "jobName": "JAVA后台开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n\n1、负责现有平台的维护，以及新平台程序设计与代码编写。\n\n\n\n2、负责编制与项目相关的技术文档。\n\n\n\n3、根据项目具体要求，承担开发任务，并按计划完成项目目标。\n\n\n\n4、独立完成软件系统及模块的编码。\n\n\n\n5、协助测试人员完成软件系统及模块的测试。\n\n\n\n任职要求：\n\n\n\n1、2年以上工作经验,扎实的Java基础,熟悉Java多线程/IO,熟悉常用数据结构，对JVM有一定了解。\n\n\n\n2、熟练掌握 springmvc,springboot ,mybatis等常用框架开发使用,熟悉常用设计模式的应用。\n\n\n\n3、熟练掌握常用关系性数据库(oracle/mysql)应用,并对SQL优化有一定经验,熟悉mongodb尤佳。\n\n\n\n4、熟悉掌握jsp项目开发，有elasticsearch、fastdfs开发经验者优先。    \n\n\n\n5、有及时通讯IM(聊天+实时视频+实时语音)开发、或对接第三方IM平台经验者优先。",
+      "encryptAddressId": "9a739196021af6f80XB_2tS_",
+      "address": "武汉洪山区湖北省农业科学院农业经济技术研究所103",
+      "longitude": 114.320797,
+      "latitude": 30.482908,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3927d23c6b80445010354031061d8fc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/21e3ed82d97ecc9303ebc1712fe62276",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "多线程",
+        "数据结构",
+        "搜索引擎技术",
+        "Spring",
+        "SpringMVC",
+        "Oracle",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智景可视",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c988db4319cac6b01nN53dq6F1E~",
+      "brandName": "智景可视",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721555864271,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智景可视",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

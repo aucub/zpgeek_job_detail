@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Oc7kJlDjCnjdK-X1glhwLvD0417LndSnz0z7IVZATXugMsQ1WIzhfCk2vNgS8Vd114TnD7D1A12b19HYILQJAx-vF99Y3haRjq2-zW0IxjR0qqKc5VE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "166d34c1b47a39a51XBy2Ni9EFVY",
+      "encryptUserId": "02ae54ee58dc83f6031_29S1FVE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解，对微服务springcloud全家桶，nacos ，redis,mysql有一定经验",
+      "encryptAddressId": "b10bbdf28a49b6fc0HV42NW6FVQ~",
+      "address": "广州越秀区东照大厦1808",
+      "longitude": 113.27658,
+      "latitude": 23.131452,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ead628fba6946c49160e5ad05547b70b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8e2de98bf0222f3286a15147e5f4b5d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181124/77c949d5e87351a8f046517e6c1cdcbd5f65045e4e1f7c5f602422cfbac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "简捷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b26bdc408e61c52e1Xd42dq4FlI~",
+      "brandName": "简捷",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "公司22年成立的，人数少于50人，以技术开发为主。",
+      "labels": [
+        "餐补",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1721547901391,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "简捷",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

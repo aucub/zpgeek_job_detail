@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ic5lj4w8KRjDh-q1oU4SMqYw4rhAekUtz8Lh3kKX45EovgNyFdcK0U3_zPqF3r2_7UECNbWqFVCwEmV16qh-EPfhBylu_VF2RxvaJqfUh5BQNhw6N-A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c5919f2cc7054d261XR639m6F1tV",
+      "encryptUserId": "0fecd43f2f78d4d60nd729i_GVJZ",
+      "invalidStatus": false,
+      "jobName": "JAVA软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、具备良好的编程技术能力； \n2、能独立处理和解决所负责的任务； \n3、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务； \n4、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量； \n5、维护软件使之保持可用性和稳定性，大部分的技术问题可以自行解决。 \n任职要求： \n1、计算机、数学或相关专业大专及以上学历；\n2、精通JAVA语言，3年以上开发经验，具备独立完成模块设计和开发能力；\n3．熟练使用J2EE主流开发框架，如Spring、SpringMVC等；\n4、熟悉Java数据库编程，有hibernate/mybatis开发经验者优先； \n5．熟练使用Oracle、MYSQL等主流关系性数据库，熟练掌握SQL语言；\n6．熟练使用常用的应用服务中间件产品，如Tomcat、JBoss、WebLogic等；\n7、有微服务（SpringCloud、Dubbo等）和Docker项目经验优先。",
+      "encryptAddressId": "ff398a8a94cc99e603N72tu9FlU~",
+      "address": "南京鼓楼区鼓楼创新广场A栋4楼401",
+      "longitude": 118.730988,
+      "latitude": 32.032428,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e87f7c3153a861089c3fab693e74c4ca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06f7976472621d572f9c9b14cbab57f2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "服务器配置",
+        "容器技术",
+        "Spring",
+        "SpringMVC",
+        "Dubbo",
+        "Hibernate",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "武女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210520/361e6f3c7502291c5ab159eeb5f5c13836d62be04a32063f77aad2a6eda_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "南京尚服",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a289ca2c58adb6c0HJ82ty8EQ~~",
+      "brandName": "南京尚服",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京尚服科技发展有限公司是一家专注于内河航运领域的计算机软件开发与专业技术服务的成长型小微企业。公司核心成员拥有丰富行业经验和技术背景，立志用技术推动社会进步，努力为客户提供先进适用的系统解决方案。尚服公司主营业务包括信息技术服务、技术咨询、技术转让；计算机软件开发；数据处理和存储服务；信息系统集成服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721535669908,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京尚服",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

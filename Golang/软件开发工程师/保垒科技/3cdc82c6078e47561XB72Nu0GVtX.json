@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3K8TcIa25FEKk-Z1k7DE6cXiWvDnD1M1e3a7-Zd3K6RLQLoSX4EQBZqZMZkWJlIZdppGRiPGVVLJ_0NqC6bsD_5lkuvmdQ8Ill4Sl8ilL_qICV7zoP8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3cdc82c6078e47561XB72Nu0GVtX",
+      "encryptUserId": "402d5eb8d433ee911nR82Nq6EFJY",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "职位职责：\n从事医疗卫生领域信息平台的软件研发。主要方向为服务器端后台应用开发和平台接口开发。\n\n任职要求：\n1.\t计算机或通信相关专业本科及以上学历；\n2.\t熟练掌握和应用golang、C#、C++等主流编程语言之一；\n3.\t熟悉Visual Studio、Visual Studio Code、Eclipse等常用开发工具之一\n4.\t熟悉SQLSERVER，MYSQL、Oracle数据库之一的应用开发；\n5.\t熟悉常用数据结构及算法的原理和实现；\n6.\t了解计算机体系结构及操作系统基本原理\n7.\t掌握网络编程的基本原理和实现方法\n8.\t具有良好的编程规范和编程习惯\n9.\t具有良好的问题分析与理解能力，以及良好的沟通协作能力；",
+      "encryptAddressId": "9537e8922027ca840Xx609S6FlU~",
+      "address": "南京雨花台区喜玛拉雅中心C座1012&1013室",
+      "longitude": 118.80458,
+      "latitude": 31.964218,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18d599b42353d118a58b4371f5f5ffbf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac9b6d61f2a2aa530196b480f3ed67d8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Gin",
+        "MySQL",
+        "计算机相关专业",
+        "Golang服务端开发经验",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "保垒科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7fcbda26c71cc37433R82du1FA~~",
+      "brandName": "保垒科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "南京保垒信息科技有限公司（以下简称“保垒科技”）是 国家高新技术企业，是中国智慧医疗的新秀，致力于医疗系统产品化、标准化、智能化的推动，将先进的和优秀的方案带给客户。\n        保垒科技总部位于南京，产品覆盖影像产品（PACS）、心电产品（ECG）、检验产品（LIS）、医院信息化方案、体检信息化方案。用户覆盖全国20多个省份，江苏用户覆盖率达50%以上。\n       保垒科技立足于长三角优秀的人才和丰富的用户资源，研发团队来自世界名企，产品遵循国内国际标准，公司拥有完善的质量管理体系，对产品拥有完全的知识产权。我们秉承“主动服务，超越期待”的态度，高占比投入研发，打造用户愿意选择的产品。\n       新时代下，保垒人以互联网思维布局医疗健康事业，紧紧把握科技发展趋势，让客户及时享受科技给行业带来的红利。全体保垒人将满怀热忱与社会同仁共建健康、和谐的健康事业！",
+      "labels": [
+        "五险",
+        "零食下午茶",
+        "节日福利",
+        "包吃",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "年终奖"
+      ],
+      "activeTime": 1724072811229,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "保垒科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

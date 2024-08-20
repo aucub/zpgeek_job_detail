@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "f0dY1xHWwiZS6-f1gI8sS9GUVcSiaNndZkCVFrhdlsGA3DPCwUIKdmdRt-h8m6aJ-mh9PSVeQkO7N1L0OevkRBBfGLl9gYGqRpVchwnLWcmUJNkvWBBf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ff2e55ddc3b90c6a1nB829-0F1JU",
+      "encryptUserId": "1bc26e418a0511c00nZ83tm1FFpW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（长驻烟草项目组）",
+      "position": 100901,
+      "positionName": "前端开发工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位要求】\n1、熟悉Java EE技术，包括Servlet/JSP、JDBC、JMS、Web?Service等，对各种开源的软件如Spring、hibernate/ibatis、Tomcat等有深入的了解；\n2、熟悉css/xml等网页技术，熟练Ajax，Javascript技术；\n3、熟练运行vue+element，vant等开发技术；\n4、熟悉Mysql数据库，redis,git/svn nginx等技术；\n5、有物流相关项目经验和地图开发经验，对matlab,python有一定研究的优先（熟练使用百度地图各种api）。\n【任职资格】\n1、大学专科以上学历，2年以上Java语言有效开发经验；\n2、工作认真，细心，有条理；积极性高，求知欲强；具有较强的沟通能力及团队合作精神；\n3、能适应省内出差；\n4、此岗位需长驻烟草客户办公地点办公。",
+      "encryptAddressId": "b37af7652affb1f903d_296_FFM~",
+      "address": "武汉汉阳区中维月湖琴声C区cs楼3楼",
+      "longitude": 114.245928,
+      "latitude": 30.564734,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb2b6b0468850d6bbea65057fcafd0e7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06a4bacc0634db2a716e01ab7cd87727",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Vue",
+        "SVN",
+        "Web端",
+        "CSS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "武汉志昆科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c7350141567ef5251nF-0t-4FVI~",
+      "brandName": "武汉志昆科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721555890166,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉志昆科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

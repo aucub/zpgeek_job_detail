@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PrKd2hKCef0tZ-n1gAmsVDuCd9hISJwVrrpx80k0hPNKSh93xncNlD3jXaVdn4B1BReLYQRPhjL5jDwrmx6MExhlsB2H_dx0mjqlfFN56dqTfJjj61U~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1b139d6f23e478281XV72d-6FltW",
+      "encryptUserId": "6972d51344eb893a0XF72Ni5FFs~",
+      "invalidStatus": false,
+      "jobName": "Java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1）负责物联网终端类产品的平台软件开发，数据库维护工作；\n2）根据开发任务，完成相应模块软件的规划、编程和归档任务；\n3）对产品进行方案设计、文档编写，对项目进行进度跟踪。\n任职资格：\n1）大专及以上学历，计算机、软件工程、电子信息等相关专业；\n2）1年以上工作经验，精通Java，熟悉IO、多线程、集合等基础框架，熟悉分布式、缓存、消息等机制；\n3）精通JavaEE、maven、redis相关技术，掌握Sping、Mybatis、MybatisPlus、SpringBoot、缓存技术；\n4）熟悉常用数据库中的一种或多种，如Mysql、Oracle等，了解常用的优化方案；\n5）能独立完成功能模块的研发和编码,具有良好的代码风格。\n6）有水/电/煤/气表项目需求经验者优先。",
+      "encryptAddressId": "af9be49400bc76690nR72Ny_EFA~",
+      "address": "南京江宁区麒麟人工智能产业园5号楼",
+      "longitude": 118.923074,
+      "latitude": 32.027597,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06932d4cb5851119f2b240910aa17850",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fd9ebc8ba9fa161ddb5a9b1d83fbb9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "物联网经验",
+        "Java",
+        "Maven",
+        "多线程",
+        "Redis",
+        "SpringBoot",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "致远",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e74dbdb3e2a1a9a21XR-2t-7FVA~",
+      "brandName": "致远",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司非常重视产品技术研发，已申请获得多个软件著作权，发明专利。\n先后获得了国家科技型中小企业、江苏省民营科技企业、江苏省软件企业等多种荣誉称号。\n始终坚持“以客户为中心”的经营服务宗旨，依靠科学的经营管理手段、雄厚的技术力量、优质的产品、良好的信誉、完善的售后服务赢得市场。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "免费班车",
+        "住房补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721535666000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "致远",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

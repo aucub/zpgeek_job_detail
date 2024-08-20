@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qQDMpm7qjuDi4-w1rrt-hvntmOw2pSkehg_JfszIb0a6bcnWzH8krAqV3ePdTVEp_pjg1r_0N3vp3iuOydvRktM_wvrhmWicQvPSzMv-Pe8Ll3wtiy7M",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ca98866187b9b2711nJ70ti0EVdQ",
+      "encryptUserId": "e81271f9c68b419f0nd82tq8EFFS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司产品设计与开发；\n2、负责指导、处理、协调和解决项目中出现的技术问题；\n3、根据公司产品的版本管理规范，完成所负责项目的服务器代码的版本归档、版本变更、版本发布工作；\n4、负责处理线上版本紧急技术问题，线上版本bug处理；\n5、负责服务器系统优化，提高性能。\n\n任职要求：\n1、计算机或软件工程相关专业，熟悉java开发语言,SQL语句编写及至少熟悉一种数据库（Oracle或SQL Server）\n2、熟悉常用的设计模式及软件项目开发过程，熟悉ssh开源框架及工作原理，熟悉springCloud者优先；\n3、从事相关开发工作一年以上，熟悉国土资源或房产相关行业者优先；\n4、具备良好的团队意识及创新思维、自我激励能力，善于与人合作；\n5、具有良好的表达与沟通能力以及独立思考并解决问题的能力。",
+      "encryptAddressId": "4b68689974189fb11HZy09W5F1M~",
+      "address": "南京玄武区常发广场3号楼723",
+      "longitude": 118.809771,
+      "latitude": 32.085685,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/954b50471d259f97b2446b731c7d7d2b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61e11988dea3fe8c19a81dbc72020f9d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "SSH",
+        "Oracle",
+        "软件工程师",
+        "Maven",
+        "SVN",
+        "Eclipse"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "饶先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "拓群科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "41832edf642f358e1nN92ti7ElI~",
+      "brandName": "拓群科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723508763000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拓群科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

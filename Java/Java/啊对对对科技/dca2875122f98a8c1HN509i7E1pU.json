@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "RgCOCPmPEMltb-s1ag3TzBXoHMV3GY4TLTb2bhaccsQMqkRq7DwUrCY13FZ6UxPK1Cz1NQhx7UX34AVlCE0v5MF9Jm-VnSW8wVusUmYnzaOrFUVZzN0Ch6xM1lA8m2pHL3SdOPdRZTOW5UlSoVhglvWzXBMPmd8pBuCBDeCCbL5Oo_zgtQ~~",
+    "securityId": "UzYbzoY7lRCHy-X1F2G5aVfZLFOpHznMmm6K7df5rlbYQmD-vT4Rr9yNQQ4Dg5S1dsh3osHqHmkiR4y0Iko1KNoLGqNdAoQVm6jHdXVsaDVG8qB6abXO9HRGwxwoeuc4TnWw5BiWGma-OYc~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "3-8K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责\n1、从事公司战略产品的开发工作；\n2、及时与设计、产品人员沟通，保证产品的开发进度；\n3、领导安排的其他工作；\n4、具备SaaS系统设计、开发经验者优先。\n\n任职条件\n1、本科以上学历，1-3年以上java开发经验，有扎实的Java语言基础，熟悉JVM，多线程编程；\n2、熟悉spring，spring boot，理解核心原理。有 redis，mybatis, es的项目经历；\n3、熟悉mysql,能进行简单的sql性能优化；\n4、熟悉常用的设计模式，有高可用的系统架构设计经历。对代码和工程质量有所追求；具有良好的编码习惯；\n 5、思路清晰，善于思考，有独立钻研移动领域新技术的热情和能力；具有团队精神、良好的沟通能力，主动性强；\n6、能承受较大工作压力，有拼搏精神；\n\n技术要求\n熟悉容器化相关的技术入Docker，K8s等；\n熟悉DDD架构设计方法，有一定的实践经验；\n对面向对象的软件开发思想有清晰的认识、熟悉掌握常用的设计模式；\n具备扎实的Java开发能力，对于Core Java有深入的掌握和较丰富应用经验；\n熟悉Spring/Spring boot等开源框架，具备基于Spring框架开发微服务经验；\n具备一定的数据库设计、调优经验，熟悉主流的数据库，对于1~2种数据库的核心原理有一定的了解，对MongoDB有深入了解；\n具备分布式计算相关的知识储备，熟练使用相关的技术解决分布式环境下的常见问题",
+      "postDescription": "岗位职责\n1、从事公司战略产品的开发工作；\n2、及时与设计、产品人员沟通，保证产品的开发进度；\n3、领导安排的其他工作；\n4、具备SaaS系统设计、开发经验者优先。\n\n任职条件\n1、本科以上学历，1-3年以上java开发经验，有扎实的Java语言基础，熟悉JVM，多线程编程；\n2、熟悉spring，spring boot，理解核心原理。有 redis，mybatis, es的项目经历；\n3、熟悉mysql,能进行简单的sql性能优化；\n4、熟悉常用的设计模式，有高可用的系统架构设计经历。对代码和工程质量有所追求；具有良好的编码习惯；\n 5、思路清晰，善于思考，有独立钻研移动领域新技术的热情和能力；具有团队精神、良好的沟通能力，主动性强；\n6、能承受较大工作压力，有拼搏精神；\n7、有《大数据模型》及《AI》 优先考虑；\n技术要求\n熟悉容器化相关的技术入Docker，K8s等；\n熟悉DDD架构设计方法，有一定的实践经验；\n对面向对象的软件开发思想有清晰的认识、熟悉掌握常用的设计模式；\n具备扎实的Java开发能力，对于Core Java有深入的掌握和较丰富应用经验；\n熟悉Spring/Spring boot等开源框架，具备基于Spring框架开发微服务经验；\n具备一定的数据库设计、调优经验，熟悉主流的数据库，对于1~2种数据库的核心原理有一定的了解，对MongoDB有深入了解；\n具备分布式计算相关的知识储备，熟练使用相关的技术解决分布式环境下的常见问题",
       "encryptAddressId": "2b304afee9db72681nR92ti9FVVSwYq3V_yb",
       "address": "广州天河区智慧城广百广场中深国投909",
       "longitude": 113.404775,
@@ -38,18 +38,20 @@
         "Dubbo",
         "SpringCloud",
         "MySQL",
-        "Redis"
+        "Redis",
+        "大数据经验",
+        "搜索/推荐/广告经验"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "元女士",
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "啊对对对科技",
       "bossSource": 0,
       "certificated": true,
@@ -68,12 +70,12 @@
       "industryName": "计算机软件",
       "introduce": "广州啊对对对科技有限公司旗下《爱玩呐》品牌‌属于进出口贸易行业还涉及到电子商务领域，‌通过团购链接，商品链接，小程序官方号，商品热搜等营销手段，‌指在增加特定商品的曝光度、‌增加商店流量以及增加品牌意识。‌这包括使用商品搜索广告、‌关联广告、‌横幅广告以及店铺搜索广告等多种广告形式，‌以帮助商家达成商业目标，‌触及对商品有兴趣的用户，‌增加销售和建立品牌。\n\n爱玩呐品牌介绍：\n欢迎来到爱玩呐，您的二次元动漫中古周边一站式购物平台！我们为您精心准备了徽章吧唧、谷子、亚克力立牌、挂件、食玩、游戏卡牌，以及日本进口谷圈潮玩等丰富多样的商品。\n\n无论您是偶像梦幻祭ES、排球少年、蓝色监狱蓝锁、文豪野犬、灵能百分百、时空中的绘旅人、光与夜之恋、未定事件簿、恋与制作人、还是奥特曼、假面骑士、神奇宝贝宝可梦、龙珠、机动战士高达、游戏王其他热门动漫作品的忠实粉丝，爱玩呐都能为您提供各类周边商品。无论您喜欢偶像梦幻祭2、meicari、潮物圈、toptoy、hoyoyo、一番赏、盲盒抽卡、任意门、模玩熊、千岛潮玩族、Lofter还是煤炉姬、魔法集市等，爱玩呐都是您的吃谷、挖煤、抽卡的选择。\n\n爱玩呐致力于为您打造一个与众不同的二次元购物体验。无论您是追逐潮流的时尚达人，还是对二次元文化充满热爱的资深玩家，我们都将为您提供优质的服务与全面的商品选择。\n\n快来爱玩呐，开启您的二次元梦幻之旅吧！",
       "labels": [
-        "加班补助",
-        "零食下午茶",
+        "节日福利",
         "团建聚餐",
-        "节日福利"
+        "零食下午茶",
+        "加班补助"
       ],
-      "activeTime": 1721970456439,
+      "activeTime": 1723916668092,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "啊对对对科技",

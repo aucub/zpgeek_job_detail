@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pqUahIPOYpSec-p1vb5YrFfboGlv0sFws4_6QY_Y16X40z8U6E9z92IeAcvc0y7kV21Af-991j77x0Ab_H86ZDw4z0gPypk1leaLVYPBvlA3fk2dCg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cb8596de549926421n153NW8GFFV",
+      "encryptUserId": "4d28dbea793adf5803B739W6FFc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、 根据项目具体要求完成系统架构设计和规划。\n2、 根据系统架构设计，完成系统架构搭建、整合以及解决框架及技术问题。\n3、 负责系统架构设计相关需求和设计文档的编写。\n4、 负责核心业务模块代码编写。\n5、 参与系统技术标准和规范的制定及执行情况落地检查。\n6、 支持产品的本地化实施，配合项目经理完成相关任务目标。\n任职资格\n1、 精通Java开发语言，熟知JavaEE技术体系的原理和机制。\n2、 精通spring cloud、dubbo微服务架构，熟练掌握Redis、Kafka、Mycat等主流中间件，熟知Nginx的配置。\n3、 精通Spring、Hibernate、Mybatis、Struts等主流开源框架，熟知http、websocket、WebService等常用协议。\n4、 熟练使用HTML/CSS/JavsScript等前端开发技术、有Ajax的实际开发经验。\n5、 熟悉产品设计、系统架构设计、数据库设计等设计工作。\n6、 至少掌握Tomcat、Jboss、Weblogic等应用服务器中的一种的配置和使用。\n7、 至少精通PostgreSQL、Oracle、MySQL等主流数据库中的一种。\n8、熟悉物流或商城业务优先考虑。",
+      "encryptAddressId": "8c598aef86bbce323nV92dm5GQ~~",
+      "address": "武汉洪山区保利国际公寓A座1109",
+      "longitude": 114.409907,
+      "latitude": 30.490119,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ceda4fcd56ee7371da79797a1f783360",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5958b706e0acb26e7f3d7bcc231f5d3f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "分布式技术",
+        "微服务架构",
+        "服务器配置",
+        "网络协议",
+        "Socket技术",
+        "Spring",
+        "Dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180809/696829d0c743e3f96f8617d178adce3bcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "德胜云丰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7417747177bce4b51XBz3ty7EQ~~",
+      "brandName": "德胜云丰",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200927/b05a728d32c8b79e943bb24f273ab3badb73e9d9f676339ae10841c91fa6592d_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721555159233,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "德胜云丰",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

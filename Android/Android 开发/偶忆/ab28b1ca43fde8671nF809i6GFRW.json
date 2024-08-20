@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N6GAbOc1fRmpN-t1EzwokCmyr-SWyIcaw8zaRvxxnYnqhNJKbrxJcpN87dZmbu9oQIXUEXZ4Kmm6RSPz7Y4dIvdSSFTG8vQH9cvNv2pJTPw0nauL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab28b1ca43fde8671nF809i6GFRW",
+      "encryptUserId": "c37fe2a7d892e7291XV63dm9GVU~",
+      "invalidStatus": false,
+      "jobName": "Android 开发",
+      "position": 100202,
+      "positionName": "Android",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "0. 前言\n  - 环境优美开放，氛围活泼，可吸猫两只\n  - 技术氛围浓厚，欢迎积极讨论\n\n1. 工作内容\n  - 负责公司产品的 Flutter 端的开发\n  - 负责公司产品的Android端的开发\n  - 以及上述工作过程中可能的文档规划，架构设计\n\n2. 任职要求\n  - 基本要求：理解java/android\n  - 基本要求：理解Android工程的搭建，发布，上传等管理，包括maven相关的内容\n  - 基本要求：理解软件工程，基本的计算机组成，数据结构，常见算法，基本网络编程，基本数据库表设计及使用\n  - 需要理解响应式设计的开发，机型兼容性处理\n  - 掌握自定义控件\n  - 有简单基本的 javascript 理解\n  - 了解 SQL/ORM 的一般使用\n  - 了解 UDP/TCP，以及Ble 开发\n  - 掌握 HTTP/HTTPS 相关的在线服务使用开发\n  - 一些常见的设计模式有基本了解\n\n3. 优先说明\n  - 拥有搭建良好的博客，请附地址\n  - 学习能力强，思维清晰灵活，胆大心细，易于敢于沟通，好奇心强\n  - 理解java/C/C++的内存模型，以及对编译链接过程熟悉\n  - 熟悉Linux/Unix(macOS) 的命令环境，简单的脚本编写\n  - 熟悉版本管理工具 git\n  - 理解jvm的一般行为",
+      "encryptAddressId": "033628370fb88fb003F_09i0FlM~",
+      "address": "深圳宝安区航城智慧科技园B栋3A18",
+      "longitude": 113.841013,
+      "latitude": 22.608275,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b49bd8250dfdda50c2e3660ca7d48cf2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89c05fe3c1047103e2a26bf38a7145fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "GIT",
+        "Flutter",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "汪先生",
+      "title": "软件负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "偶忆",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b933c2dbaf1a8a1903x729q-",
+      "brandName": "偶忆",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180324/4269ad1d0e7c707b026709112ecbd6cc00a1889125b30dfa58d8d2c451cfacad.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721540287184,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "偶忆",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

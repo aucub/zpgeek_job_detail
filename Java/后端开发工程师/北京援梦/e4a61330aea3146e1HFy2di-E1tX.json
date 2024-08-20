@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EIAsRVtvNQi9r-A1y5nu91zVQrvshke9HVFr2oJB-PMNCPQbPz7cd-8DVploiQ3mGyoItlCSOSOpehYqVHidotxXi35J5KC-LzriMFE3astZYtdKDjtR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e4a61330aea3146e1HFy2di-E1tX",
+      "encryptUserId": "8a3fcaf1dcc04df20Xd52dS1GVJR",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：.熟练掌握Java编程语言和相关的开发框架，如Spring、Spring Boot等。\n2.熟悉MySQL或Oracle等关系型数据库的设计、优化和SQL语言。\n3.具备大数据开发经验，熟悉Hadoop、Spark等相关技术框架，能够处理和分析大规模数据。\n4.熟悉Redis缓存和消息队列（MQ）的使用，具备在项目中应用它们的经验。\n5.具备RESTful API的设计和开发经验，能够设计和实现高性能、可扩展的API接口。\n6.熟悉微服务架构和容器化技术，如Docker、Kubernetes等，具备相关的实际应用经验。\n7.具备良好的数据库设计和优化能力，能够设计高效的数据库模型和查询优化方案。\n8.熟悉软件开发流程和敏捷开发方法，能够与团队成员协作进行迭代式开发。\n9.具备良好的问题解决能力和调试技巧，能够快速定位和解决后端开发中的问题。\n10.具备良好的学习能力和持续学习的意愿，能够跟上后端开发领域的新技术和趋势。\n11.能够与前端开发人员、产品经理和其他团队成员紧密合作，理解和实现项目需求。\n任职要求：\n1、教育水平：本科以上学历。\n2、经验知识：2年以上开发经验\n3、精通php/mysql/laravel开发，熟悉redis\n4、熟悉git、composer、npm、restful;\n5、对web前端技术有了解，能构建h5网页",
+      "encryptAddressId": "4f97d6902831a9b403V_3d28ElVZwYW8U_I~",
+      "address": "北京朝阳区源创空间大厦251",
+      "longitude": 116.50661,
+      "latitude": 39.902368,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfe975e8ac10c5aa2fe7252fb4c66ce9d26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf634105b653e08a049d3aa35faf62b9e26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C",
+        "Spring",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "北京援梦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f42dee42352396291HZ-39q4GVY~",
+      "brandName": "北京援梦",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723533823447,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京援梦",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

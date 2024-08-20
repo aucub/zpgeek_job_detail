@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qfSFQ3dscUDzz-q1iop70vnCxC1VJFfIrg77DS7n_-tvq7Zb7AtXtRMlbwTcu4-kNqfQsp2qERzCUB6_wI2NIRaPX4PAcrbuQBUV4yun5mMgJTyZsNQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "22036a2edca0195f1HBz3t-7EVVU",
+      "encryptUserId": "10a269d74738786133d70t28GVY~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "自研公司，非外包岗\n加班情况很少,能接受文档编写\n\n任职要求：\n1.全日制本科，计算机相关专业, 2-3年Java开发工作经验；\n2.性格开朗，擅于沟通交流，能参与需求讨论设计，参与文档编写；\n3.对于Java基础技术体系(包括面向对象思想、基本语法、基本特性、JVM、类装载机制、多线程并发)有一定的掌握和应用经验；\n4.熟练掌握Spring Boot、Spring、Mybatis，Spring MVC等主流开源框架，了解微服务开发模式并具备Spring Cloud相关知识；\n5.熟悉关系/非关系、NoSQL数据库基本原理，MySQL/Redis等数据库使用经验，并具有SQL优化能力、编写复杂SQL能力；\n6.熟悉Vue+ElementUI优先；\n7.熟悉Docker镜像打包，Docker网络配置，服务编排；\n8.了解Linux基本命令及脚本编写；\n9.学习能力强，吃苦耐劳，有团队合作能力",
+      "encryptAddressId": "6088dd3a77f26f4f3nB82du9FVdRxoS9WPo~",
+      "address": "南京玄武区锦创数字产业园C座528室",
+      "longitude": 118.808498,
+      "latitude": 32.045689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ddb256b28a32db42d97e76264ee91a0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f71e55b0b3d54b150cc93a8fd576d22",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "乐意科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f3562593987c6a601XR93N2-ElM~",
+      "brandName": "乐意科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230630/7bf6f160950405e95c1af0fa05d51a047ebc28a819bb1be7eda5b8b68dfc708f39075de55f3737d8.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "本公司为一家专业服务企业数字化转型、服务企业运营治理、服务政务及乡村振兴的信息科技型企业。立足于高质量发展的新需求、新要求，重点开展大型国企管理创新咨询、信息化战略研究、企业架构治理、业务流程再造、数据资产运营等智力及技术服务，提供从顶层设计到项目实施的全过程解决方案，孵化并研发出售信息科技产品，致力于拥有自主知识产权的核心技术，并加强技术成果与经营成果的高效转化。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724054050807,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐意科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

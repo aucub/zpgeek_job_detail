@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EVyrYoqexH6sG-Q1ebRVi0UDaCjVfwROJk8rBw2q2-PF38tdCXlkw5Dtr-jl8YBPv3rRtJqfyWPTkiIrsoEkZbaoXAXJaKdA2p2KN2QtXe63KSU5oYA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db7a0ddbaa0118bc1XV53Nu4GFJX",
+      "encryptUserId": "f5fd06cae71a39c10nx70ty7EFY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述\n1.Java后端服务的设计、搭建、编码、测试直到上线运行；\n2.设计服务API和数据库数据模型以及业务流程；\n3.采用敏捷开发方式并保证上述所开发网站或APP后台服务质量和性能；\n4.持续改进以消除软件中的缺陷以及满足产品和业务不断变化的需求；\n5.撰写文档，并不断更新维护；\n\n职位要求\n1、全日制本科学历及以上，计算机类相关专业；\n2、扎实的Java语音编程基础，良好得编程习惯。熟悉J2EE体系架构，了解微服务架构特点；\n3、扎实的编程能力，精通服务端语言JAVA，熟悉常用的Java开源框架如Spring(mvcbootcloud) Mybatis，Dubbo等\n4、熟悉Web2.0标准；精通DOM、XML、JSON等相关技术；\n5、熟练使用Oracle、MySQL等主流数据库，有较高的SQL语言处理能力；\n6、理解计算机原理，有良好的数据结构和算法基础；\n7、具有较强的沟通能力与团队合作精神；具有良好的分析问题、解决问题的能力以及较强的学习能力；",
+      "encryptAddressId": "8076ca6b80bcf40f0nV72dy9F1E~",
+      "address": "武汉洪山区融创智谷(东门)b2栋801室",
+      "longitude": 114.32228,
+      "latitude": 30.454799,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79d22f60e03ff467d4b552a551e7eb86",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8c0275ea06af6df68116123181cd3f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "微服务架构",
+        "网络协议",
+        "数据结构",
+        "后端开发",
+        "Spring",
+        "Dubbo",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "人力专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "山东慧育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f21b308b43624f41n183dW9E1I~",
+      "brandName": "山东慧育",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721555831736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "山东慧育",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

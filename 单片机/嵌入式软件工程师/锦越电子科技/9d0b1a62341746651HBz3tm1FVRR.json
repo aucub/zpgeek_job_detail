@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ndgI8Hxw_RadA-S113ebJr_ATS7T-CpuIalUk4OELq7nE2d8pa86XqtTdEAeoqP44mYuLaGhLfr6ajYGErC0NRHZS_lEZ5a-dF0-j-lu1WirfQSn-Co-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9d0b1a62341746651HBz3tm1FVRR",
+      "encryptUserId": "f4db15d7259e07bd0XZz3dm5FVBQ",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100804,
+      "positionName": "单片机",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责单片机、嵌入式产品软件的需求分析、整体方案设计、系统框架设计，协助制定具体项目研发计划；\n2.负责单片机、嵌入式产品的设备固件/驱动和应用程序的代码设计和开发；\n对开发完成及修改完成的软件进行相关测试；\n3.参与硬件和软件的集成调试；\n4.参与产品性能分析、质量分析及优化改善；\n5.负责软件设计及测试文档的编写，对软件系统的各个版本进行归类整理。\n任职资格：\n1.能看懂产品电原理图，能熟练使用示波器，逻辑分析仪等测试工具；\n2.熟悉STM32，GD32单片机软件编程，熟悉常用的RTOS应用；\n3.熟悉物联网，物联网平台，MQTT协议对接开发；\n3.具备良好的编程风格，熟悉面向对象思想，功能模块独立，可移植，可扩展；\n4.熟悉MODBUS通信协议，对串口通信能熟练编程和调试；\n5.熟悉PC机上Qt编程，能开发产品测试用的简单功能软件。\n\n1.负责公司stm32单片机产品线的程序开发。主要涉及到lcd，485，bootloader等。\n2.负责输出软件测试用例，协助测试工程师对产品bug进行修复。\n3.物联网平台，MQTT协议对接开发。\n4.有仪表，485，CAN总线开发经验优先。\n5.有良好的编码习惯，敏捷逻辑思维能力，能有效解决编码过程中出现的bug。\n7.能读懂原理图，配合硬件工程师对信号进行调试。",
+      "encryptAddressId": "b06380f2d56b67540HZ-3966E1ZXwYu4Uvk~",
+      "address": "武汉洪山区未来公馆A栋",
+      "longitude": 114.345947,
+      "latitude": 30.528194,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231031/48ba41acc9cef1bfd8820280cf87d857b57452c978a2d6486bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231031/48ba41acc9cef1bf6306c32650725c8601fb438f21b5e2ac6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "RTOS",
+        "STM32开发",
+        "ARM开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "锦越电子科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60eac89a3b3fbf641XF42d21FlU~",
+      "brandName": "锦越电子科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721558014310,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "锦越电子科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

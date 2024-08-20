@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "H70eR3NspLDUN-Z12ILq33VNOb3SqiW8qW5xEnP6S8fXA10tYsNEfHfyXAuahhuf6ucjCc75F97GsIHZvwQF1PJ7Wizf3erp23pYV3n2BLmcBvxOzs9M",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5d3ca82212fa2921XV73964F1JR",
+      "encryptUserId": "33cf2db7a7afd3040nRy2N66GFBY",
+      "invalidStatus": false,
+      "jobName": "Java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "java中级开发3人\n1、java开发2年以上工作经验，能够接受短时间省内出差\n2、熟悉springboot开发，会一种使用orm框架（mybatis或hibernate），并对此有一定理解。\n3、至少使用过一种关系型数据库（oracle、mysql、SqlServer），熟练使用sql语法，对sql优化有一定的经验。\n4、熟悉使用Nginx、redis，熟悉linux命令行使用。\n5、有前端框架（vue）开发工作经验优先。\n二、基本条件\n1 计算机类相关专业统招本科（二本）及以上学历。\n2具有较好的学习能力和解决问题能力，有产品意识，对技术有热情。能承担一定的工作压力。",
+      "encryptAddressId": "9b33997f1ea5cb100nR52d-8GVc~",
+      "address": "武汉洪山区恺得国际大厦1605",
+      "longitude": 114.343126,
+      "latitude": 30.499137,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e04b76a917375d81e1d243cd38e1d6f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2597fc122489fa03140746d1ef1b588b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "服务器配置",
+        "Linux",
+        "Hibernate",
+        "Oracle",
+        "MySQL",
+        "Redis",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220901/607f1f3d68754fd07b923aade513ed28d6ba3bf835f465ed6602e60f7bf734d72b4a09fd88a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "友财云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e20a01bd6ae496c11XR-39--EVs~",
+      "brandName": "友财云",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721555566745,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "友财云",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

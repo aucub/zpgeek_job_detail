@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kJaKAeKbf8R1V-a1xQREDHEGG2VPfrZ1yg9gh9rZaigvxJQjig5ojntdksBBNtZiUHj44sl6SvMgk0YYRbdiGVuYkVrXfjergkA7MTwvpH9xSQR3mBnJVsYjOxwiaCLTusKFDL8d9W8H13A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3258a57ea72072411HN73dS6FVdZ",
+      "encryptUserId": "10635fafe9a6c0ce1nR62tW-EFpQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121500,
+      "locationName": "日照",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\n1、计算机相关专业，专科及以上学历，有2年以上实际开发工作经验，有一定的管理经验；\n2、精通Java开发，深入理解jvm原理，熟悉常用框架（Spring、SpringMVC、Mybatis、dubbo）并能掌握其原理和机制；\n3、熟悉spring、mybatis等基础框架原理及运行机制，具备搭建经验\n4、掌握SpringCloud、Redis缓存、消息队列等高级框架开发，具备搭建经验\n5、掌握Tomcat等中间件环境运行机制，具备单点搭建及基础配置能力\n技能要求\n6、了解TCP/IP、HTTP、SSL、VPN等网络协议及基本知识，具备基本网络问题分\n析能力\n7、熟悉功能模块设计，能够独立进行一般性功能模块及接口设计实现；\n8、掌握数据结构设计，能够独立进行一般业务的数据结构设计；\n9、具备系统调优、性能调优等技能，对疑难技术问题具备较强的排查能力；\n10、熟练掌握Linux系统操作，了解shell的相关知识",
+      "encryptAddressId": "3990592a502139b31nRy09u5E1ZQxI-9Uvie",
+      "address": "日照东港区华地丽舍一单元",
+      "longitude": 119.502256,
+      "latitude": 35.408803,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf046c718db94043b33c89c8251cf0d1446bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230706/48ba41acc9cef1bf54d40720b2d75d99f7a6f48d1b009bf66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "接受居家办公",
+        "团队管理经验",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人资",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240717/607f1f3d68754fd0a18b3ba1ac7c88f9557923d8c075c90246d6745a4f8f08c4d0e303f29d8cfca_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "日照云锦科技发展",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8e536860e85545e31HJ72tW7GVI~",
+      "brandName": "日照云锦科技发展",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724062365617,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "日照云锦科技发展",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

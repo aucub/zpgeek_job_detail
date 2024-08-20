@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oqa5h1Vdou4RR-T1YIoOD7_0umK5B-yOEZTShSF4gA3FDcM2D4JWkbvoeoREDJgDjPA8BRobMuZapU-PKHpgRENeNnsSe7qZ4zv37fwHnlz9VWbmEGM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2f9ed7f28c8abe01nF82Nm9FldQ",
+      "encryptUserId": "1efe8514e0a1207f03Vz3ty8F1U~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位诱惑：\n金融科技,创业公司,时间灵活,地铁旁\n\n职位描述：\n岗位职责：\n1、负责公司产品功能模块编写及相关代码优化工作；\n2、负责公司服务器的日常运维工作。\n\n要求：\n1、本科以上学历，1年以上Java相关研发经验，具有扎实的Java基础知识；\n2、熟悉常用的设计模式，熟悉微服务开发模式，熟悉SSM框架；\n3、有丰富的MySQL/Redis/MongoDB数据库经验，具备数据库设计及优化能力；\n4、熟悉常见的Linux命令，具有Maven、Tomcat、Nginx使用经验；\n6、有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低；\n7、具备优秀的学习能力，动手能力强，能承受压力；\n8、有支付或电商系统运维经验者优先。\n\n加分项：前端技术\n1、熟悉JavaScript/CSS/HTML等Web前端技术，具备前端工程化的思维和实践经验；\n2、熟练使用Vue框架，对前端组件化有一定理解和尝试；\n3、具有H5混合式开发经验。",
+      "encryptAddressId": "c426d377b83f404c03F42964FQ~~",
+      "address": "南京浦口区长峰大厦星火路14号长峰大厦",
+      "longitude": 118.695305,
+      "latitude": 32.156728,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62a4c9234b45860879525b42724c5955",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56dc6702ebf3aab87aef9c2443b65300",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "服务器配置",
+        "微服务架构",
+        "SSM",
+        "Redis",
+        "MongoDB",
+        "MySQL",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "洪先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180705/957d96083c27bc6e1f7d0ca08037e5c5cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南京全盾科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6f565bd20af3d9191nJ83di5GFE~",
+      "brandName": "南京全盾科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721534873020,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京全盾科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

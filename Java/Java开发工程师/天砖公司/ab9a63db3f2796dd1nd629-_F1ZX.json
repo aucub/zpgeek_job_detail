@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9laZNhRF6eWEU-P1JKIqexW0epBXzTtBjxvYpxm8iAL_VCcd6fUONgVIvAOif_EQS1QFXCK6J64mrkJq0jFXgJFmt7G_6yL6WIxd0ecgt9RBaFztTgHi",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ab9a63db3f2796dd1nd629-_F1ZX",
+      "encryptUserId": "6df88601065558990nZ43d65GVRR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通Java服务器端编程，熟悉B/S结构开发模式、J2EE体系架构及主流的开源框架 (spring + hibernate)及ibatis等，掌握JSP, Servlet, JDBC，JavaScript、AJAX等J2EE技术；\n2、精通微服务架构，熟悉SpringBoot、SpringCloud、Redis、Kong、Nginx等技术者优先；熟悉Kafka或RocketMQ等消息中间件；\n3、精通Docker技术，熟悉kubernetes等技术者优先；\n4、熟悉IOS、Android和Web前端移动应用开发技术优先；\n5、熟悉Linux和运维自动化，熟悉ElasticSearch + Fluend + Kiban及CEPH分布式存储等优先；\n6、熟悉各种主流技术架构,对各种常用的框架优缺点有较好的把握，具备在开源框架基础上二次开发的能力；\n7、能够独立胜任产品架构设计，熟悉大型央企软件项目安全设计要求，能研究和解决项目中技术难题；\n8、具有强烈的责任心和良好的沟通协调能力，具备良好审美能力及语言表达能力，较强的团队合作精神，抗压能力强。",
+      "encryptAddressId": "f28c870cbabe9ea903Z739i_GVY~",
+      "address": "广州天河区南国嘉园·苹果城1707",
+      "longitude": 113.401865,
+      "latitude": 23.122856,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc35b79bdf3e97a085a9f02d0f354ffb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86e34f40217d2f68bc75fe2faf0e75ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "IDEA",
+        "软件工程师",
+        "计算机软件",
+        "Android",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "江先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "天砖公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "923c0442fd8d97f01nBy3tu8EFQ~",
+      "brandName": "天砖公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724042522925,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天砖公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

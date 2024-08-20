@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BY2lRSHI5uS7A-t174T4u3eDQxmQJzLc-k_8cQptaQW_aKX25pvHnTMpDm799FvCS9nTV-DrBbOxHtT9mk-lUhQrerzVDzcPdwn3FzTiPByDHnvx5h76",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6e8da5448039d3ad1XV93tu5GFJZ",
+      "encryptUserId": "f90d9be6d92e406c1nV83N69FFBQ",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "java服务端\n岗位职责:\n\n1、参与产品的架构设计和技术调研\n\n2、负责重大项目的架构设计和核心模块设计、编码、单元测试及文档编写\n\n3、负责对现有系统目进行优化和升级，提高系统性能、稳定性、可用性和扩展性\n任职要求：\n\n1.具有扎实的Java基础，深入了解Spring Boot、Sping Cloud、MyBatis等框架（特性及其实现原理），\n\n2.熟悉SQL语言，熟练使用MySQL、SQLServer等主流数据库，具备一定的SQL调优能力及数据库优化相关经验\n\n3.熟悉分布式，缓存，消息等机制，有分布式、微服务系统开发经验，熟悉Redis、MQ、ZK、ES等常用中间件\n\n4.具备强烈的责任心，良好的设计能力、沟通能力以及团队协作能力",
+      "encryptAddressId": "10d8769e7f2fdea80nZ_2ty8ElU~",
+      "address": "武汉东西湖区武汉东皇网络文化传媒有限公司五栋903",
+      "longitude": 114.13931,
+      "latitude": 30.617903,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e1bb614bce6e0bc275d09c1ef93b024",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de0c10a1deb377a7e81042bbff846e00",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "客户端开发",
+        "SpringBoot",
+        "SpringCloud",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钱女士",
+      "title": "行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220923/607f1f3d68754fd09052b646de0765822f96adfdd786944d6fc99f9184626c17e4dd0a0eec5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "东皇网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d8a47d279567d2ab1nN92928Elc~",
+      "brandName": "东皇网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "东皇网络文化传媒有限公司成立于2015年3月，公司致力于科技项目研发、智慧城市建设、系统应用开发、电子商务为一体的互联网科技公司。公司为企业转型提供必要的物联网工具及平台服务，包括模块固件、多场景SaaS云服务、软件库等，为企业快速实现物联网化的行业价值。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1721555563357,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东皇网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

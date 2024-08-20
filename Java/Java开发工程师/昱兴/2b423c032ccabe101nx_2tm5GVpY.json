@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ibljjvY6Qe4ns-_1WIgVvNTkPbsdA-I88-LhuZaAwQS-J9ntnjQxy7-ruZdsWiHAdYP3ZDTO1Zcmhbx7VEWGVTr0YqE8Ze4E8H9rorRrb34lMffOnXI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b423c032ccabe101nx_2tm5GVpY",
+      "encryptUserId": "5e806e752529ef900nR72Ni5ElVY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、  工作内容：\n1）  负责研发公司应用软件的模块设计、开发和交付；\n2）  负责编码，单元测试；\n3）  按照功能组件的详细设计；\n4）  编写技术设计文档。\n\n2、  任职要求\n1）  项目存在驻场开发；\n2）  要求1年以上工作经验，做过基于springMVC+Hibernate框架项目；\n3）  熟悉Mysql、Oracle、DB2等常用数据库系统，有SQL语句性能调优经验；\n4）  熟悉使用Springboot框架开发；\n5）  熟练使用javascript、Ajax、JQuery等前台框架；\n6）  具备良好的编码习惯，较好的质量意识，文档编写能力；\n7）  熟悉使用redis、rabbitmq等中间件的优先。\n\n3、  特别说明：\n1）  具有较强的学习能力，主观积极性要强（较为看重）；\n2）  具有良好的表达和交流能力，较强的沟通能力，富有进取心；\n3）  岗位招聘2人。",
+      "encryptAddressId": "4299268e4e1f25721n192tS0FlY~",
+      "address": "南京鼓楼区幕府创新小镇大学生创业园A27-226",
+      "longitude": 118.801324,
+      "latitude": 32.119978,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4422bf6893a49bbe7f966d4d19057e38",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f36fd61a8d363224cdabc30adb73b75",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "SQL",
+        "MVC开发",
+        "SpringBoot",
+        "DB2",
+        "Linux",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "软件研发部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230718/607f1f3d68754fd0decca7bb119e308bd199f0f23f81dff9ccfc1cc231257270f530e227699c7cb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "昱兴",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1ca0823ff28d62280HVz0t-7GQ~~",
+      "brandName": "昱兴",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200528/c2371b6a94402068401e8e5760112f65562713ccd8f526d4bf8b06ac4b956957_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖"
+      ],
+      "activeTime": 1723948275000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昱兴",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

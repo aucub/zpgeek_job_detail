@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X1sD8yJzqLTJ--x1vZG1TIMAUpK0ZLsapsXJDQamL7mUwdmibG80P-dY5yyAyr_vex7GH5Y4kLnmuqnPKwd6rdZV9Zj9272B4PQwuj2b96kbQGihTAePU9j6C5Z5swAV2j2OtNSuhh4vIVw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5fc65be3fff099051Hd-2920F1BZ",
+      "encryptUserId": "811ef60bffd4198b0nVy29i0ElBR",
+      "invalidStatus": false,
+      "jobName": "物联网工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230500,
+      "locationName": "泉州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-4K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责\n1.设备管理：定义设备、资产和客户之间的关系，做好传感器、PLC、网关等物联网设备的技术选型、安装指导、注册配置和运维监控。\n2.数据接入：负责与设备厂家沟通MQTT、CoAP、HTTP、LWM2M、SNMP等通讯协议、地址点表及数据接口，接入设备并采集和储存数据。\n3.规则引擎：编写规则引擎，处理进入到系统的数据，通过可视化的方式构建规则节点和规则链，实现对数据的处理分析。\n4.数字中台：开发、配置部件面板和仪表盘，动态设计、订阅（websockets）数据更新，展示设备或资产的遥测数据，搭建可视化的数据中台。\n5.告警通知：采集遥测数据并进行相关的事件处理进行警报响应和通知。\n6.远程控制：基于远程 RPC 调用、控制设备，并进行OTA（Over-The-Air）升级。\n7.外部交互：通过规则引擎节点实现与外部数据交互（例如Kafka或RabbitMQ规则节点），并将处理结果报告回系统平台以进行可视化。\n二、任职要求\n1.计算机科学与技术类相关专业，大学学历。\n2.熟悉MQTT、COAP、HTTP、NB-IoT、LwM2M、LoRaWAN、SNMP、Modbus、REST、TCP/IP、WebSocket等网络传输协议。\n3.熟悉linux、docker、idea、maven、nexus、html、css、JavaScript、Java、postgresql、cassandra、kafka等软件开发的工具、环境、仓库、语言和数据库。\n4.熟悉主流的开源物联网平台的架构体系、源码编译、调试部署和性能分析。\n三、其他\n1.公司提供专业性、针对性的技术培训。\n2.底薪+绩效+利润分成。",
+      "encryptAddressId": "a65f81ea422bc2a21nV-39S0GFRT",
+      "address": "泉州万达星光耀写字楼18栋1611",
+      "longitude": 118.658703,
+      "latitude": 24.916378,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf5b3152fe9eff77717c096d8dad3770f96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230626/48ba41acc9cef1bf0580c573a63043c2d2e5635b573d35736bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Kafka",
+        "Zookeeper",
+        "Docker",
+        "不接受居家办公",
+        "PostgreSQL",
+        "物联网经验",
+        "大数据经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "蔡先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "亘川科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6bb20980022c31381nB42d68FlA~",
+      "brandName": "亘川科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230306/7b5b554d84f9729c0c0222984f9b5341d524ea8c8662085c64e50569aba0beb164452ae4fcec3d68.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100030,
+      "industryName": "物联网",
+      "introduce": "福建亘川科技有限公司，2018年成立于福建省泉州市，是一家聚焦于“智慧水务”领域，积极推动智慧水务与物联网技术深度融合与应用实践，在智能设备、系统集成、传感物联、智慧运维及其解决方案等方面具有深厚积累和专业优势的高新技术、“专精特新”企业。公司开发的智慧水务“六位一体”监测运维系统，是一个全面覆盖水资源管理各个环节的智慧云平台。该平台系统将“水源、水厂、管网、泵站、排口、河湖”六个关键环节有机结合起来，利用物联网、大数据、云计算和人工智能等技术，实现对水务系统的全方位监测和运维。",
+      "labels": [
+        "团建聚餐",
+        "工龄奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1724142126236,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亘川科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

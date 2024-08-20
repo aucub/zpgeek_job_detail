@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "61VIgWrNCiMKI-d1CaL2xsrcPcXiXguAuiGDO-ls70iB5UL4tISXsi72KTVz1dkLY4UwL-MhfqJGD4ukavGqiTIJjcmr9cSHfqVIRgDAtKD8ZaInfjo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "93fe29e6f2cc9cca1XR_2928GVJY",
+      "encryptUserId": "f89f21a4e40598d10Xx409u7EVA~",
+      "invalidStatus": false,
+      "jobName": "软件开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责java应用程序开发；\n2、参与系统分析和设计，独立完成编码、单元测试；\n3、负责现有问题排查，系统联调；\n4、系统需求、设计等各类技术文档编写。\n任职要求：\n1、具备1年及以上JAVA开发经验，熟练掌握Java基础，熟练使用Springboot，Mybatis等框架；\n2、熟悉各种Web前端技术，包括Html、Xml、Javascript、Ajax、jQuery等；\n3、熟练掌握SQL，熟悉至少一种主流的关系型数据库，如Oracle、MySql等；\n4、熟练使用eclipse或idea开发工具，熟练使用maven、git等技术；\n5、熟悉各种Web前端技术，包括Html、Xml、Ajax、Javascript、jQuery等；\n6、责任心强，有良好的沟通能力、学习能力与团队合作精神。",
+      "encryptAddressId": "0056f6028b84c1ee1Hx709y9EFI~",
+      "address": "武汉江汉区盛世江城湖北省武汉市江汉区新湾路9号盛世江城商铺",
+      "longitude": 114.246682,
+      "latitude": 30.632972,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1b94d73bfec3920eea2e6ba3b39042b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd3c77d0dee2f81665719790bfca4624",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "网络协议",
+        "SpringBoot",
+        "GIT",
+        "Maven",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "管女士",
+      "title": "行政人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220224/607f1f3d68754fd080b5eabf0b966da640481f603cd6b79a32ad71cd8aca3dc2fc350434c28_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "晨农商贸",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f99aa7b879a353241nRz0ty5FVY~",
+      "brandName": "晨农商贸",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "公司简介\n2020年新冠疫情肆虐全球，对人们生产和生活造成极大影响，一方面让我们认识到人们对健康生活的追求，另一方面也让我们静下心去打磨产品，思考企业应该承担的社会责任。武汉晨农商贸有限责任公司诞生于这个特殊的时代，是一家集农产品收购、加工、销售为一体的生活服务公司，旗下有优质农产品基地、地方特产、京东烟酒、京东母婴、快递驿站等。\n晨农商贸以服务社区便利，共享健康生活为宗旨，公司在神农架、恩施等地建立产品基地，响应国家号召，推动农业产业化进程，带动当地农民脱贫致富。",
+      "labels": [
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1721559183736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "晨农商贸",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

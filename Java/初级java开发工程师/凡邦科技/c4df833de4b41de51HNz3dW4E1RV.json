@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iXX6gUoF-DwQo-11rd5bHwd9l8EErP2rNsdZTjOTPq2tOLWFteNb_7lX3Y85Qi5W2lITIdxdJ8pZ6FvwgWFnIEvTVC3ZCIGSAUtvgoOa5Ckn7SK4QDWvbHfyVUCuRPNj3sPm3H092vM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c4df833de4b41de51HNz3dW4E1RV",
+      "encryptUserId": "15c452cde0200eda0Hd82Ni8Eg~~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1.日常根据需求文档，完成开发工作；\n2.开发过程中与前端做好配合；\n3.每日给开发经理汇报进度；\n二、任职要求：\n1.本科以上学历，计算机专业；1~3年Java开发经验；\n2.Java基本功扎实，精通面向对象，熟练使用各种集合类、时间日期函数、Stream。熟悉Java EE、Redis、MQTT，对各种开源的框架如SpringBoot、SpringCloud、MyBatis 、Nginx以及RESTful等有深入的了解；深入理解java面向对象设计的思想和常用的设计模式；\n3.熟练掌握Mysql数据库；\n4.负责基于SpringCloud微服务系统开发；\n5.具备低代码开发经验，有前端开发经验者优先；\n6.逻辑思维清晰，善于沟通，有团队合作精神及创新能力，有良好的规范设计风格；",
+      "encryptAddressId": "75541984a02276800nd539S5FVM~",
+      "address": "济南历下区济高丰奥嘉园北区一号楼一单元1001",
+      "longitude": 117.108349,
+      "latitude": 36.689626,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf123dd62f83b32139969c8f2e562627",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/99f3869d348dc1e9586c0a68b2d3f289",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "SQL Server",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "凡邦科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2eed413d6fb3d5e60XN83ty8GQ~~",
+      "brandName": "凡邦科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200228/f0074a7ba300dd0f3bd560a9d0cc8b5cc4e6f836dd49a2c8ce9bd167a6a07b99_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "一、公司简介：\n       山东凡邦信息科技有限公司2017年成立，致力于为企业用户提供最具创新价值的产品最具灵活性的企业管理应用解决方案。公司以务实严谨的理念自售前、调研、设计、交付、运维等一体化一站式研发服务为公司安身之本。成立之初即与建设工程领域内领军信息化企业签署长期合作关系，为建筑产业的中国建造助力，为国富邦兴贡献不凡的智慧和力量。\n二、目标客户：\n        主要服务中铁、中建、中交、中冶客户\n三、开发平台：\n       • Net开发：\n         拥有自己的开发平台，项目主要是B/S模式。\n         C#语言开发，SqlServer\\Oracle数据库。\n       •Java开发\n         Guns开发平台，基于Spring Boot2\n四、主要项目：\n        施工项目管理系统\n        设备管理系统\n        施工方案管理系统\n        考试系统\n        固定资产管理系统等",
+      "labels": [
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724143441181,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "凡邦科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

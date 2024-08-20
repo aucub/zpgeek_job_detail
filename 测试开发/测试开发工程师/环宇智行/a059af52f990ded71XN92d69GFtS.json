@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1Sh5_eHJ8aU6J-d1gwGqSLUgzlTT73mm44QcvZL7l-YJUoo18s_sU1spRJ8iwp88gCZvcB1yOz1DJQJv1mKIjHMoVs0JhmB3UYI2y0ttptR0GHc4oA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a059af52f990ded71XN92d69GFtS",
+      "encryptUserId": "2d10220668dd853703Z43Nm_E1s~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "主要职责：\n基线版本仿真测试：拆分L3,L4产品场景定义，输出测试用例，进行仿真测试并输出仿真测试报告。\n基线版本实车测试：实车测试L3,L4基线软件，根据测试用例进行实车测试并输出实车测试报告。\n模块测试：针对软件系统内部各个模块的软件测试，并输出测试报告。\nBUG管理：收集整理测试BUG及BUG数据，上传到Jira,禅道等工具并协助经理跟踪闭环，维护jira,禅道等 BUG管理平台。\n基线版本管理：负责L3,L4基线版本管理，分支管理。\n实车演示：负责自动驾驶实车演示相关工作。\n集成支持：协助集成部署解决基于基线版本部署所遇到的问题；协助搭建自动驾驶测试台架，协助完成自动驾驶车辆改制\n工具开发：基于基线软件系统，开发相关测试工具以及监控工具，简化工作流程。\n\n基本技能：\n1.了解LINUX操作系统，熟练使用shell、bash等脚本语言，熟悉python，了解C、C++；\n2.熟悉can通信，熟悉canoe操作使用，了解capl 语言；\n3.熟悉对各类传感器硬件部署标定，驱动部署；\n4.系统性了解泊车相关产品，对市场上量产产品有深入的体验\n5.熟悉各类测试报告编写，能较好完成各类测试报告输出\n6.有优秀的测试思维和分析能力\n\n专业技能：\n1.熟悉自动驾驶（或机器人）技术原理，具备相关测试经验；\n2.熟悉自动驾驶测试相关流程，测试用例的编写及执行，使用Jira ，禅道等管理工具进行bug管理；\n3.熟悉自动驾驶软件框架，各模块需深入了解，对各模块软件部署需熟练掌握；对各模块软件模块化测试需熟练掌握；\n4.需有驾照，能安全熟练驾驶车辆",
+      "encryptAddressId": "da5b030851128b480nZ90tS4FVE~",
+      "address": "武汉汉阳区华中智谷D5栋3楼",
+      "longitude": 114.201016,
+      "latitude": 30.509603,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22a3979d35790108e094c99ad9405dc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3e2bb8172956b112b4e18f21ddc9eaf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Jira",
+        "Shell",
+        "Python",
+        "自动驾驶",
+        "实车测试",
+        "APA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210223/a2e066bbf7550b3492762ea3fee87b0bc3ff6d7c65f89b07712649bff64_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "环宇智行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "504046002f9c4f3c1Hx52tm8EA~~",
+      "brandName": "环宇智行",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190314/66ce8017d1bf80c574369fa925007f0318833998da1fe0fde033b8ca7539fa4b.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉环宇智行科技有限公司成立于2014年。公司专注于自动驾驶和智能驾驶算法研究及产品开发10年，是汽车智能化域控和智能驾驶领域的先驱者。\n\n      环宇智行目前专注于自动驾驶产品、解决方案和技术服务，聚焦L2+到L4级自动驾驶主战场，产品有APA/VAP/AVP HiParking智能泊车产品，L2+ HiPilot智能行车产品、Athena自动驾驶软件系统、Titan系列L4限定场景自动驾驶域控制器、Pallas 泊车控制器和行泊一体控制器等。能够为主机厂，tier 1和行业客户提供智能泊车、高等级智能辅助行车、自动驾驶域控制器等产品系列。借助武汉大学等优质高校人才高地优势，公司在视觉感知、高精定位、视觉建图等方面形成优势竞争力。\n\n      经过多年发展，环宇智行已成为长城、东风、岚图、吉利、奇瑞、路特斯、小米汽车等头部车企以及中国通号、中国移动等行业头部央企的供应商，在自动泊车、记忆泊车、对标FSD的复杂环境自动驾驶、限定场景自动驾驶系统批量供货方面与车企和行业客户建立了深度合作。同时，公司完成了记忆泊车功能在主要城市重要停车场的覆盖测试，并具备量产交付能力。未来我们将对技术落地不断拓展，进一步巩固智能泊车功能的市场竞争力。\n\n行业领先：自动驾驶算法的引领者  计算设备的优质供应商\n\n高配团队：武汉大学教授、德国汉堡科学院院士、美国华盛顿大学博士、武汉大学硕士　　\n\n      未来，环宇智行立志做中国一流的自动驾驶技术和产品供应商，不断做精做强自身核心产品，与同行共同推进国内无人驾驶领域的产业发展及进步。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1724148327383,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "环宇智行",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

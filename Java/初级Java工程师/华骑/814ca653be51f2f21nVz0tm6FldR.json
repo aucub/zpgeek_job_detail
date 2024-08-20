@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CTrQ1LAQBQsKV--10n95F_0Rd4uRRlLP8_YLwv_KWcwdiPIKKT2w3g0wu0j_EBXb4XSATK7hpuybPM8GxjCsHyMW8D5_99RPdHEy57T_gapNwjRb7Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "814ca653be51f2f21nVz0tm6FldR",
+      "encryptUserId": "52da1bfb61612f551Xx40tS0FlE~",
+      "invalidStatus": false,
+      "jobName": "初级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责公司业务相关系统及产品的设计及研发工作；\n2、作为核心开发人员，参与小组的产品设计讨论，负责功能模块设计、子系统交互等具体研发任务；\n3、对关键构件、接口进行设计，撰写系统设计方案；\n4、参与研发部门技术评估、技术积累、技术难题解决等工作；\n5、按照开发规范标准，严格进行项目编码开发，编写符合规范的技术文档及维护手册。\n\n任职要求：\n1、大专及以上学历，计算机及相关专业优先，2-3年左右Java相关开发经验；\n2、扎实的编程基础，精通 Java开发语言，熟悉JVM、缓存、消息队列等；\n3、熟悉面向对象和设计模式，熟悉主流开源应用框架，如Spring、MyBatis、SpringMVC、Maven、git等开发技术及工具；\n4、熟悉分布式、多线程、高并发及高可用、设计、编码和调优；\n5、了解常见的微服务框架原理，如 Dubbo或SpringCloud, 了解知名开源项目，如 Redis、RabbitMQ、Kafka、ElasticSearch等；\n6、熟练掌握MySQL数据库使用，熟悉SQL调优；\n7、熟悉 Linux 开发环境，熟悉常用命令，熟悉正则表达式；\n8、能快速学习、灵活解决问题、有上进心和创新思维，有一定抗压能力。",
+      "encryptAddressId": "de565cbbc525434a03B42Ni6Fg~~",
+      "address": "深圳南山区健兴科技大厦3层",
+      "longitude": 113.953435,
+      "latitude": 22.569074,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/045ee1b582325b859e5f374130f8a1f2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb6d3ebd036b67091169a5bdaffb9f7e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "微服务架构",
+        "消息队列",
+        "Spring",
+        "SpringMVC",
+        "Dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "华骑",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "00cebde7c4933c4d031z2t-7EA~~",
+      "brandName": "华骑",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "公司出于初创期，目前三条业务线服务于教育、医疗、游戏行业",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "股票期权"
+      ],
+      "activeTime": 1721539043030,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华骑",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

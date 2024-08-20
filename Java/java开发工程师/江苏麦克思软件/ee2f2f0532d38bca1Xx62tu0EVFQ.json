@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kvgk5sROHQRwV-S1Ed0RrAIHUSd4s7I2eIEYyEoglVbstBreI5etAkyYiUL1mZMQtTfPHI-SETx7aycYd9ieraYO8EYQgWlGj09_djWM8zN8dJ6VJMARfsJCm8PAgDqEvEW-opi-i63rkdU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ee2f2f0532d38bca1Xx62tu0EVFQ",
+      "encryptUserId": "fbfd3325d482d13f1nV43tm8GVpZ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、计算机软件及相关专业本科学历以上，学信网可查；\n2、非江苏徐州勿投；\n3、具备通用UI框架开发经验者，熟练掌握VUE 、Angular优先\n4、具有丰富J2EE架构设计经验；精通java编程、设计模式和组件技术，熟悉jvm工作原理；\n5、熟悉Spring MVC、Spring、Mybatis等常用开源系统；\n6、熟悉tomcat、nginx等服务器的配置及调优；\n7、熟悉mysql等常用数据库，精通sql语言，对SQL性能调优有一定经验，了解memcache,redis等内存数据库；\n8、具备良好的团队合作精神和沟通交流能力；",
+      "encryptAddressId": "95525ec677e9d84533N82ty-FlI~",
+      "address": "徐州鼓楼区苹果汇邻湾3号楼",
+      "longitude": 117.207485,
+      "latitude": 34.301362,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1582bd8e74628e895bd0d6010f027e78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49a1f5dc0b451f4ed5585cc8174add8f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "石先生",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "江苏麦克思软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf89055cbd6f65781XJ93tS9F1M~",
+      "brandName": "江苏麦克思软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230418/7bf6f160950405e9bbdd5d5142dd347156a4799c9db1b0d5156b02244006193de40ab6436e94ed35.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "江苏麦克思软件有限公司，所属行业为计算机软件。 公司是业界领先的身份管理和认证(IAM/IDaas)产品和服务提供商，以安全连接、传递信任为宗旨；由具有行业资深身份管理和认证经验的专家和工程师组成，致力于身份安全管理(IM)、单点登录(SSO)、RBAC权限管理和云身份认证(IDaas)领域，为客户提供专业的身份管理和认证，提供全面的4A安全管理（指Account，Authentication，Authorization和Audit）。",
+      "labels": [
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724144542998,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "江苏麦克思软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

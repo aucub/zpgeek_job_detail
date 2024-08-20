@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KHxPbOT9zsazq-P1VT72zEzrww9BTIeLYo93U98ck5Wckgn8--_TcgQFXM9XPk1Ma1ufQhF_uKqpZhjBtFaN-TnIO1ZpX6_GYeC7o4CCdoZL28Mtgo0z",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "98224117b014b5e41nF_2NS9EFZX",
+      "encryptUserId": "50b10749664d963d0nd7292-FltY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.主要负责物联网平台、智慧交通平台后端功能研发\n 2. 负责对接物联网设备，智慧交通边缘设备，并完成设备相关协议解析以及与前端开发接口对接工作\n\n职位要求\n\n1、有一年以上的后端开发经验\n2、java基础扎实，深入理解各类主流框架Spring,Spring boot等\n3、可熟练使用各种中间件 并对mysql有深入了解\n4、做过modbus协议、Tcp/Ip协议、Http协议相关硬件接入工作",
+      "encryptAddressId": "88d2bf1b0e09a7791XV93NW8",
+      "address": "武汉江夏区当代梦工场0610",
+      "longitude": 114.417198,
+      "latitude": 30.466663,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2981dab9a16f7c828d5494e971d39466",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d542bfcbea64f4f14785c4714979ce5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "Spring",
+        "MySQL",
+        "后端开发",
+        "消息队列",
+        "SpringBoot",
+        "SpringCloud",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "湖北翘楚科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51c38a99abcfc0e81nJ-29W1GVY~",
+      "brandName": "湖北翘楚科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230615/7b5b554d84f9729c0199d9f2598a8027745cc7fefa34d0943f70b4fa3f0db9f22b7aa310189e09c1.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1723803512881,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖北翘楚科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

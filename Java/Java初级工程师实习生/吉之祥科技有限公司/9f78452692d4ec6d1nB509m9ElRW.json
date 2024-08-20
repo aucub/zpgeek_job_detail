@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aR8ILGhMyt2Bt-B1oJU5W2qxcnJA7fbDxarow7otLmkZU6PtwreljoGxACveRJIlpDDkWPZyBnvnfI6sIw8hSjzZAa7Ac06BrKwJM1-dWtcHNMavhv0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9f78452692d4ec6d1nB509m9ElRW",
+      "encryptUserId": "17a1a9f10b471cc51nR_3tq1E1dY",
+      "invalidStatus": false,
+      "jobName": "Java初级工程师/实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n-参与基础软件的设计、开发和维护，如缓存系统、数据库、Linux操作系统和Java优化等；\n\n-参与高性能分布式服务端程序的系统设计，为产品提供强有力的后台支持；\n\n-参与产品的开发和维护，完成从需求到设计、开发和上线等整个项目周期内的工作；\n\n岗位要求\n\n-具备扎实的数据结构和计算机系统基础，编码功底扎实；\n\n-掌握WEB后端开发技术: 协议、架构、存储、多进程、多线程、缓存、安全等；\n\n-熟悉计算机网络、操作系统相关原理；\n\n- 较好的产品意识，愿意将产品效果作为工作最重要的驱动因素；\n\n-积极乐观，认真负责，乐于协作，强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；\n\n-有独立思考及解决问题的能力和较强的自我学习能力；\n\n加分项\n了解OpenStack, K8S等开源编排系统，了解KVM虚拟化相关开发经验；\n有Ansible/Saltstack/Puppet/Terraform等自动化部署和编排工具开发经验。",
+      "encryptAddressId": "8bd1149c0cd2f5001XJ73Nq7EA~~",
+      "address": "北京丰台区西国贸大厦5A层5A021",
+      "longitude": 116.310075,
+      "latitude": 39.855701,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95f106e4878a974204fef53368abd61a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53f43fd0ee7e2aaef8692fee84c77b53",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "MVC开发",
+        "微服务架构",
+        "容器技术",
+        "负载均衡技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "吉之祥科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f7128b292c2eaa780H1z2dS-GQ~~",
+      "brandName": "吉之祥科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721547609829,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "吉之祥科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

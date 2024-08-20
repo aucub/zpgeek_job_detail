@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8OM7QgqCDVNiF-W1BQYr8TaJU2gzBEaTMzvb9Ee-BMygf8WrAND-ISLJYrGDYx7zrDzTXBThRzZ34hxO22SbbyxVjizX52VYzzXlQ_Nhz_MiCUf0R1wxDRiABL9nCxWrZ82WiD1GbYFHUA3pe2m50jFYjReZuWSVfcPEi0gN4bDuWxhkiw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8900df643a96f0b21XZ83Nm0E1VY",
+      "encryptUserId": "596bf1b865e1eec81n1_39m5F1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "1.工作地点在福清市，不能来福清市的请勿扰，薪资可以面谈\n2.只接受线下面试，如果不能过来线下面试请不要打扰，不要问能不能线上面试，我们不接受线上面试，不能进行线下面试的，请不要打扰。\n3.本科及以上学历，计算机/软件工程等相关专业，1年以上 Java 开发经验；\n4.对于Java基础技术体系（包括JVM、多线程并发、IO、网络）有一定的掌握和应用经验；\n5.熟练掌握目前流行开源框架spring framework或play framework，并且对其核心思想、实现原理有一定认知；\n6.熟悉MySQL数据库开发与设计，能够进行性能优化最好，以及缓存系统Redis或 Memcached的设计和研发；\n7.熟悉Restful api开发；\n8、本岗位需要有实际的工作经验，没有项目经验的请勿扰\n9.有良好的沟通和学习能力，强烈的工作责任心和良好的团队协作精神；\n10.加分项：1、有微服务实际产品研发经验 2、有大型分布式、高并发、高负载（大数据量）、高可用性系统设计开发经验优先。",
+      "encryptAddressId": "ae01dc8b40c5ed770nF-2tm-GFJSw462WPw~",
+      "address": "福州福清市福清市互联网产业园7楼A1",
+      "longitude": 119.347724,
+      "latitude": 25.718422,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bff5a1e7f92db73f39570c70ac75d86ffb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf024f21ff5bacb800366f3634d00d68816bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "不接受居家办公",
+        "MySQL",
+        "微服务架构",
+        "分布式技术",
+        "多线程",
+        "Redis",
+        "Spring",
+        "后端工程师",
+        "计算机/软件工程相关经验",
+        "Framework"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "并行网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f70415c14c9520411nN80ti-FlA~",
+      "brandName": "并行网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231026/7b5b554d84f9729c79353782687372649ffb6df3e5ac364a7f534da3b49ece4c896afa72b77ef965.jpg.webp",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "全勤奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1724145629238,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "并行网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

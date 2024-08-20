@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "s8wn-7QGopEb6-p135a4Y_cIs_bCHtKpiy33e-xN68HJE9YFaoHD7A_oKPQgBx3gBiwihI6O0nztWXAu-cJZF_WW7hwYYa6ag_uNgkiZ8bQLgy98mCmR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "29906a10e2c99a6b1XB_29u1ElZT",
+      "encryptUserId": "0bbcea93d104a5e50nF-3ty_GFRQ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n1.参与物联网产品评审和需求定义，划分功能模块并进行模块设计，编码和测试及bug修复。\n\n2.符合总体技术架构和编码规范，及时响应各种线上各种问题和需求。\n\n3.熟悉 Spring/SpringBoot/SpringMVC、Mybatis/ibatis 等开源框架。\n\n4.熟悉常见的关系型数据库与常见的缓存、MySQL、NoSQL 、Redis等\n\n5.熟悉常用的中间件MQ，Redis，ES，开源RPC框架等\n\n6.具有协作意识，具备良好的业务理解和沟通能力，有一定的技术钻研能力和抗压能力\n\n7. 加分项：有vue，element-ui，css经验\n\n7.熟知常用的物联网协议编程，例如基于TCP/UDP的私有通讯协议的处理，有采集通信方面和cms平台的物联网项目开发经验优先",
+      "encryptAddressId": "f95cb9a71218f9e70X192Nu7Flc~",
+      "address": "深圳龙华区HBC汇隆中心504",
+      "longitude": 114.033106,
+      "latitude": 22.61034,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/067b140547ff413333415cdb553133d9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2e8a9ac2a0fb966be4dcfdf448da496",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MySQL",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "温先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "亿宏(深圳)",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "55464835b77e70c71XZ93N6-FFc~",
+      "brandName": "亿宏(深圳)",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721539599445,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿宏(深圳)",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

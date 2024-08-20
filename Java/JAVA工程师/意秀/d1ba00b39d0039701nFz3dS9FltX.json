@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8umY3efVlEOPX-G1W9s2bFS8XTbN9s4TFPJSP05KVnYLVJe13gYWAjNWLeegCS0smAEUZ2RaHqKPpx8oRR8aFkvf5QPnBt3n_WkMEDeBzSdnBXDcJzNa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d1ba00b39d0039701nFz3dS9FltX",
+      "encryptUserId": "347ed94493a4517b0nd-3t-1E1NQ",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、协助完成模块设计、数据库设计、原型设计以及相关设计文档撰写工作；\n2、独立完成模块编码、功能实现；\n3、能分析产品中的缺陷、并能给出解决方案；\n4、能对自己负责的功能模块进行调试和单元测试；\n5、负责前后端java代码开发；\n6、负责微信小程序前端开发；\n\n岗位要求：\n1、Java基础扎实，理解IO，多线程，集合框架等，熟悉JVM垃圾回收机制，内存管理等；熟悉常用设计模式； \n2、对于主流的技术框架有非常丰富的使用经验，如spring全家桶（包含不限于springboot，springcloud），mybatis，nginx等；\n3、熟悉分布式缓存，消息，异步机制，理解分布式事务\n4、具备电子政务类、文旅类以及APP，微信小程序前后端开发经验者优先。",
+      "encryptAddressId": "84c1f07c071a4c8e0HBz3N-8",
+      "address": "深圳宝安区瑞思&BEEPLUS深圳玖悦雅轩空间3006",
+      "longitude": 113.904306,
+      "latitude": 22.569714,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd35a743464849725293d728042513d9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a90171d55614711eda9fe30db08fa8e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "PostgreSQL",
+        "大数据经验",
+        "企业级应用开发",
+        "WEB开发",
+        "Linux",
+        "MySQL",
+        "服务器端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "计先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "意秀",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8c3cd87918a3741f1nN-0966EVU~",
+      "brandName": "意秀",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220305/7bf6f160950405e9da3d0d5776749691087868213f402f1fe70fc8d66e8c61c1fda623d36bfd5827.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市意秀信息技术有限公司注册地为深圳前海，注册资金：500万，成立于2014年，主要经营范围包括：计算机软硬件的技术开发和销售；计算机技术开发、技术服务与技术咨询等。主要项目对象包括景区、博物馆、展览馆、园区、医院、学校、企业、政府部门等。主要软件产品包括智慧化管理服务平台及大数据中台系统等；公司文化是：stay hugry，stay foolish，stay young；公司价值观是：把数字世界带进现实（ESHOW），用智慧赢得未来（WIN）。",
+      "labels": [
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723638307215,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "意秀",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wdaZW2ejObvaH-h1sMDYs6TwiHIHCvUJlMc-gI8cD5Sfw55Qx1Cr1gauPOuOFy4Ru-LHeTtXsfGX6kKjNsxVUYtDSwRDqITxlkY3mONpsx3Kh7yv2GE5",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4de75fd390a628c81nVz3tu1EltZ",
+      "encryptUserId": "75db7d9524e3d4550nV539m0E1NS",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责软件项目的设计与开发，独立完成核心模块的设计、编码及相关文档工作；\n2、负责系统后台数据库性能调优及数据安全工作；\n3、参与产品架构设计和搭建。\n\n任职要求\n1、全日制大学本科及以上学历，计算机或相关专业。\n2、有Java深层次开发经验，具备深厚的Java功底，熟悉HTTP协议，熟悉JSP、Servlet、HTML、XML、JSon、AJAX、JS等技术。\n3、熟悉B/S开发模式，熟练掌握主流开发框架Spring、Hibernate、freemarker等，了解前端开发框架vue、react等；\n4、熟悉SQL语言，以及至少一种持久化技术（Hibernate、MyIbatis等\n5、熟悉常用应用服务(如：nginx、tomcat、apache等)的使用及相关开发配置，了解Linux系统常用操作命令；\n6、思维敏捷，具有发散性，良好的逻辑分析能力及问题解决能力；\n8、良好的跨部沟通和抗压能力，积极发扬团队合作精神。",
+      "encryptAddressId": "19a988c33d435ecc1H1-3tq8GFE~",
+      "address": "南京江宁区南京工程学院江宁校区综合服务楼319(江宁高新园)",
+      "longitude": 118.878768,
+      "latitude": 31.923521,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ac6746596578924fb7840d0ff12b3208",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83229cc2073612a22a0e7b5e1dee0c93",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "服务器配置",
+        "Spring",
+        "Hibernate",
+        "Linux",
+        "计算机软件",
+        "数据结构",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "行政",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=1b86245b59fd274fjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5bnHl0tNEvvtk9HAfpmOAwZOz2KpMH6by6Cj4oYFxS8XNc-KigRyMZF7LiC09txIhMHgHjmKwF-l4eA4bi0H4kDXcW_U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "互链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "044f60954279a8461nd83d-1FlM~",
+      "brandName": "互链",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721535977561,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "互链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

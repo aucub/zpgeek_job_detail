@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PScobYGlf63CM-71O6jj9tDTNU6mHYFTNq77d53KeHo5t6T-Q_lLMIyc8jqLdfPo_3GBslzwB8jOPZAI_SQGxzUgiilLBUgeqqHI3krbfDiLK0509BPW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "feab096cbdc08f431nJ-3tW4EVBS",
+      "encryptUserId": "0b25dfa630d5426d0nd73ty9F1RU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历（211、985优先），二年以上JAVA WEB系统开发经验，有大型项目经验优先考虑；\n2、具备扎实的编程能力，拥有良好的编程习惯；\n3、JAVA语言基础扎实，熟悉JDK核心类库，有并发、JDBC编程经验；\n4、至少熟悉一种关系型数据库，精通SQL语言，对 sql 语句性能有认识；\n5、熟悉Sping Boot、Spring、Mybatis/Hibernate等常用开源框架；熟悉缓存机制，如Memcache、Redis等；熟悉使用前端框架vue等技术\n6、熟悉linux 操作系统，能在linux 字符终端下完成应用部署和应用级故障排查，懂shell脚本更佳。",
+      "encryptAddressId": "babf6c36058e84921Xxz0tq6",
+      "address": "广州越秀区北秀大厦(小北路)小北路266号",
+      "longitude": 113.275373,
+      "latitude": 23.138973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/102a0af87e59ca2979a1b0b18e3ad9dd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9180c167fc09dccd13b569d027b14db1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "凌女士",
+      "title": "人事行政经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240806/607f1f3d68754fd0fcbe8ed49aeab21d33d51a83bb2409179d5c0a66b26d8e1505f22183d9e7103_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "中恒创达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "633bf966578ebc881nJ-2Nu-FFE~",
+      "brandName": "中恒创达",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1722926732000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中恒创达",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

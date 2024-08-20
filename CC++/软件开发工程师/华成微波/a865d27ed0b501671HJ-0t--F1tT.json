@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "PRQyHQ8ywQd2d-p1Wn8k-PmTLt0PM8Sc7CVwal_tvnjlPUOK2wURA5hSSRDnLX5Hnc8e7IhOVFRYMZGeaD7mo0k2X5w1_hvFCZHJ9zJaEsc9kIffhcYWAS1uQed3NP1c_sq-XyQEtMN_",
+    "securityId": "li-pSDkdbrqTa-c1D5x64hr6OEQi0q6JTzb3zBEYEGTR5RvAceTy0mIkR1RSyADebHXB_3mfsbuC_JUWdf9mAu1TG0IymJSlfhCWsL_lOUsUZJ9lY_f3eCvomro_X7ZqotUArRHSMO4jBleakHhrP5c~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -16,7 +16,7 @@
       "positionName": "C/C++",
       "location": 101190100,
       "locationName": "南京",
-      "experienceName": "1-3年",
+      "experienceName": "经验不限",
       "degreeName": "本科",
       "jobType": 0,
       "proxyJob": 0,
@@ -32,9 +32,12 @@
       "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240617/48ba41acc9cef1bf36095766c81ab456bddddc6eb986d7fe6bb61e3b7bce0931da574d19d1d82c88.png.webp",
       "overseasAddressList": [],
       "overseasInfo": null,
-      "showSkills": [],
+      "showSkills": [
+        "C++",
+        "QT"
+      ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "黄女士",
@@ -42,7 +45,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240105/607f1f3d68754fd0eea1da44e8ac562f745b8a8c7ffb1e3296a8a07913adb8c2143f44413ee1735_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "华成微波",
       "bossSource": 0,
       "certificated": true,
@@ -77,7 +80,7 @@
         "出差补贴",
         "发明专利奖励"
       ],
-      "activeTime": 1721187610867,
+      "activeTime": 1724127781118,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "华成微波",

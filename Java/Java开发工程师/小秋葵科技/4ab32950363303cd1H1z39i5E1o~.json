@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nE1PO95nRxKvV-g1LKIklyVQIo7R6sxQh40A4FG_eoyk6uxk32gpkocOvVUMpPGWbKZcpNB-FpA9ASZkBXFTGDMF-mXhf8hv5r7s_eq7MDio-2cZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4ab32950363303cd1H1z39i5E1o~",
+      "encryptUserId": "412381003cc375290n142t69E1Y~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.  具备独立完成中后端功能模块化设计与编码工作的能力且保证代码质量；\n2.  深入理解业务需求，撰写技术方案和系统设计；\n3.  大数据技术栈相关技术的研究、探索。\n职位要求：\n1.  具有面向对象的分析和设计能力，掌握常用的设计模式；\n2.  擅长WEB专业开发、B/S结构开发，熟练使用SSH或SSM等框架；\n3.  熟练掌握Socket、WebService、Http等接口开发技术，有前后端分离的开发经验；\n4.  熟练使用MySQL等常见关系型数据库，精通相应SQL语法；\n5.  熟悉Linux，掌握Linux常用命令，熟悉J2EE应用的安装和部署；\n6.  有良好的编程规范、开发技能，熟练阅读英文开发文档，具备一定的文档编写能力。\n7.   热爱研发工作，学习能力强，具有理解、分析、解决问题的能力；具有较强的责任心和沟通协作能力，具有良好的团队精神和敬业精神；\n8.   具备如下工作经验者优先：\n •    有Activiti等工作流引擎的开发经验；\n •    有NoSQL ( MongoDB)等开发使用经验；\n •    有大数据分析系统开发经验：Hadoop（HIVE, Scoop, Pig, Mahout），Spark(Streaming)，Kafka；\n •    有Python脚本语言开发经验。",
+      "encryptAddressId": "4a2cb922f5e6f79e1nZ53d--ElQ~",
+      "address": "武汉洪山区铁机新居17-2-403",
+      "longitude": 114.364175,
+      "latitude": 30.600155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c61663ff79483a2af599aaf67138fbf8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6e698fe01749b560fc87281ff11e5be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML5",
+        "后端开发",
+        "中间件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "小秋葵科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "024625fdafabed6603R-396-Eg~~",
+      "brandName": "小秋葵科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724107813846,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小秋葵科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "djmGr38p1a3dW-x1TUAuGROPm2mkHBAc-8dd4sVOFWDzlvr3Rak5Fsfb_8Ja2PcFf6XpkYPNI-sNFWP5UuFJJZYEu_WAtWp22Z7GJku3K00CBayUqfwJd_HCBV3PUQNXZGQSzRVLCFWN",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e3b9404993e891871nZ62Nu5F1FT",
+      "encryptUserId": "753da7193df2a3cb03F72960FVI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. Java基础扎实,对spring、Spring MVC、MyBatis了解其原理和实现机制；\n2. 熟悉基于Mysql、SqlServer等数据库的设计和开发，熟悉Redis等常用NoSQL解决方案； \n3. 熟悉Tomcat、Nginx等应用服务器的应用部署和配置； \n4. 练使用常用Web前端技术Bootstrap、JQuery，会前端者优先；",
+      "encryptAddressId": "a554635689b9537933B52NS9F1Q~",
+      "address": "杭州钱塘区潮听名苑30幢2单元1301室",
+      "longitude": 120.472383,
+      "latitude": 30.297498,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41e4f89dfc38131e7b9fe7907e3c8e3f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3d722274d392fdc28907606505d67519",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "SQL Server",
+        "后端开发",
+        "Windows",
+        "中级软件工程师",
+        "IDEA",
+        "供应链"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230812/607f1f3d68754fd0274a40b649f9caab0c68fadc68b88e31dc006a44ae9208f59c5ba4836ea22bf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "签鸟网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ebc3d8e802391971XJ40965Eg~~",
+      "brandName": "签鸟网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723036537000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "签鸟网络",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

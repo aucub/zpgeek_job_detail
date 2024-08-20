@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jAnJ7M9mPMCNp-w1oDQ3o_L9tAepqG8mJlD2-mdD4r2U9GyOS6r7hvtt4GY1m7LImCLkvgiTrN7h8zydWIjtG_KNJ8Y0jB6EswEnmOk6nUHoKCFINg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17cdc9247e53220f1nN509-5F1VT",
+      "encryptUserId": "ea4e3bf7a315f0961HFz3ti0FFM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科以上学历，计算机等相关专业;2年以上的JAVA软件开发经验;\n2、精通JAVA研发，熟练使用IDEA等开发环境及工具;精通struts2/SpringMVC等、Spring、hibernate/Mybatis等主流WEB框架;\n3 精通JAVA通信技术，了解GIS知识;\n4. JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制;\n5. 熟悉mysql、mangodb等数据库开发，有较好的数据库设计能力;\n6. 熟练主流应用服务器框架、分布式数据库、缓存、文件系统、消息系统等技术;\n7. 熟悉常用设计模式，有大型分布式、高并发、高负载、高可用性系统设计开发经验;\n8. 具有良好的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神;\n9. 有测绘档案行业从业经验者优先。",
+      "encryptAddressId": "ec830ad4bcb2cba81nB92N2-E1Y~",
+      "address": "武汉洪山区武大科技园创业楼2026",
+      "longitude": 114.410632,
+      "latitude": 30.457416,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64445e5c3b11fbf37e5ce5558debda58",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40864061e6d1f6b209a01c7a156cf7cc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "MVC开发",
+        "负载均衡技术",
+        "Spring",
+        "Hibernate",
+        "Struts"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180314/a61e63e38b1bf5a8b7f4ea1ce31a9f8eaed2fc1c047eb0459bc3b18f29b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "武汉众归",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7fbbd924c24e696c03F52ti6Eg~~",
+      "brandName": "武汉众归",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200928/6ac5e777e1911f3290f943ef415f8db6f5f194c59121fbf3f2159dc3bc0de1c7_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "武汉众归科技有限公司于2016年01月28日成立。法定代表人李涛，公司经营范围包括：计算机软件的开发、销售；互联网信息技术服务；电子商务平台建设及运营管理；游戏开发；智能硬件的研发、销售；人力资源服务等。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "出差补助",
+        "加班调休"
+      ],
+      "activeTime": 1721555799651,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉众归",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

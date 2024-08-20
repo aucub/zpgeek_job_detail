@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IGwycR3kI2CoP--1zDmvoDe3O3QBueY0UU1EWlihpRaBzWCXbvk-lscSLU9nOzZRT17m3MUQaEtY9gcrtswuE2_7_oRXUtBy1hXvGVSh_NspuAou_cq9eqnnHWJBSbDqZ_lyyaE_XUniQQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "845542c1747f17f81HN53du8F1tU",
+      "encryptUserId": "50e3e3d063afa1251HR_3N66F1s~",
+      "invalidStatus": false,
+      "jobName": "服务端开发工程师（实习）",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】 \n1、负责需求评审及系统设计： （1）根据产品需求、原型设计，负责概要设计、详细设计、项目后端代码的开发，保证后端接口的性能，完成开发文档的编写； （2）与前端开发配合，实现前后端数据交互； （3）参与代码设计、审核、检查，解决开发中遇到的问题； （4）参与系统稳定性、扩展性、性能调试； \n2、负责系统编码工作： （1）根据开发规范与流程独立完成核心模块的设计和编码工作；（2）解决项目中的关键问题和技术难题，协助团队成员完成相关设计编码工作； （3）能够配合他人完成复杂的工作，独立完成领导分配的任务。\n\n【任职要求】 本科及以上学历，2年以上PHP项目开发经验（优秀应届生亦可考虑）； 1、掌握PHP基本语法，熟悉VUE，Jquery，Element UI，HTML，JavaScript，CSS等前端基础技术； 2、熟悉git等常用工具,熟悉linux系统常用操作命令； 3、熟悉MVC架构底层原理, 能独立设计MVC层的开发者优先； 4、了解Workerman的基础应用，了解进程使用； 5、熟悉数据库MySQL，Redis，MongDB常用技术，如SQL编写、优化、数据库设计，Redis队列等； 6、熟悉tcp、http协议，熟悉socket使用； 7、熟悉软件和硬件对接开发者优先； 8、熟悉摄像头视频的推流和解码的开发者优先。",
+      "encryptAddressId": "d2f7b701ee2e40073nR62dm4GFRTxou9V_w~",
+      "address": "北京海淀区科实大厦D座8层",
+      "longitude": 116.312443,
+      "latitude": 40.034133,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c37de7899699cb41e0df63ac2f4fdd8f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/752c62bc1786ca6a63267afdd560c53c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "LNMP/LAMP",
+        "Java",
+        "计算机相关专业",
+        "服务端开发经验",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "产品研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "衢塘科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f47bb3f7e67d10451HV_3ty1ElY~",
+      "brandName": "衢塘科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1722847415000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "衢塘科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

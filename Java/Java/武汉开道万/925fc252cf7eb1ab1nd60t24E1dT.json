@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "x7jUDFZF8q2ia-R1UpEXFC64oLpAqEVlOJj01MGh9dYsHF6tYF0qNQyZOJ0605zVwMtVwD3AzYOjMSr04weWFzCXazRrJ-uvCuwkru_GfzlVQbnTJkU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "925fc252cf7eb1ab1nd60t24E1dT",
+      "encryptUserId": "9b427430522f387d0nZ62dW-FlNS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求:\n1.精通JAVA语言，具备良好的编程能力，有J2EE 编码经验；\n2.熟练使用Spring，Spring-boot, mybatis；能熟练为前端开发人员编写对接代码。\n3.精通一种以上数据库并熟练运用SQL，具备Mysql数据库开发经验者优先；\n4.熟悉linux操作系统的基本命令，能在linux主机部署和维护java系统，数据库系统以及文件系统\n5.思路清晰、学习能力强，勇于承担压力和挑战；\n6.具有较强的上进心和较好的团队合作精神。\n\n岗位职责：\n1.软件后台java代码设计和编码；\n2.参与相关项目活动，协助确保软件设计及实现按时保质完成；\n3.积极主动与对接客户人员沟通项目进度，确保项目顺利开展。\n\n6-11k",
+      "encryptAddressId": "9b7fc01fbd0ee6d103Z70t25FFA~",
+      "address": "武汉江夏区光谷科技港4栋802",
+      "longitude": 114.399774,
+      "latitude": 30.456156,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9a8061aa37583837e7e32f626e41321",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13026bb34b05045e1feb9e89beaf9bba",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "MySQL",
+        "后端开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210316/e8f5b2c978a0dc6bf82f803dbdb628d3a36b9959459aa76d3f53b85c3f8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "武汉开道万",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cfab224b284e898b0nd_09u0Eg~~",
+      "brandName": "武汉开道万",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721554999133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉开道万",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

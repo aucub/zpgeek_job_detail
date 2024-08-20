@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JC1rw7IUwl6BI-I1648jnfxAY4qWxRlajcOEUWnOXwIB2xlDq8WGZ_yRfm_DzBgFw5J2BWzyIwXnZi_6AL2b1TIs6cX__kQgwXSWbYtTamqW5hi2rnXs26U9QocL2MmwKXnZy3iYZCYEaCo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8650434c51c780ca1nF929q5EVtU",
+      "encryptUserId": "b582e13c2593b4220nd529W1EFpW",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、完成软件系统代码的实现，编写代码注释和开发文档；\n2、辅助进行系统的功能定义,程序设计；\n3、根据设计文档或需求说明完成代码编写，调试，测试和维护；\n4、分析并解决软件开发过程中的问题；\n5、协助测试工程师制定测试计划，定位发现的问题；\n6、配合项目经理完成相关任务目标。\n\n任职资格：\n1、对软件开发有浓厚的兴趣，责任心强，工作细致；\n2、 具备良好的学习能力、沟通能力及团队合作能力；\n3、 熟悉Java语言；\n4、 熟悉SpringBoot + Spring + mybits框架；\n5、熟悉vue框架\n6、 具备开发经验优先。",
+      "encryptAddressId": "65b929cd412a75040nZ529y7",
+      "address": "北京海淀区怡美商务楼107",
+      "longitude": 116.320585,
+      "latitude": 40.039578,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93126b94f9d7b934d69389532f398a0a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/125bfc0658fda452002fe7507538d66b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SQL",
+        "MySQL",
+        "MongoDB",
+        "全栈开发",
+        "Linux",
+        "软件工程师",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "联晖创元",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2104aab2e6ca4a231nN42du4FFc~",
+      "brandName": "联晖创元",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723715057608,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "联晖创元",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

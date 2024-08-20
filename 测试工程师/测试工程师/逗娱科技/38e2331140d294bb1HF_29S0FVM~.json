@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "4b2xMrZq-RlUk-m1b8osfLie16nBkTsrGMZoYWuwPJFEgraS2cg6Mja14CfKkqWczDqW2Cf9pUAUVns7sVfiB53bELPH5Y71Vl2YKcznyIavSIk7ZY6t6jnypfIurwaA3LRfzCNyYYu42lvR4Xzd",
+    "securityId": "_CulDr27xkyMi-W1FlNbCjt2R_V11s1KmdII-LXT0YQlBkIak2pAf1h8gXw0ifamm3i-q_F83322pcAGkvowYLUK366QGUAS7z1bNDUt3AHjBwHUnuyZn2OcK7d2O65m_9cxASlwZXkOVlCXnj1U",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,10 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "逗娱科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "938490bbcfa0b91a1Xd52NW4FQ~~",
@@ -74,7 +76,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1718692411876,
+      "activeTime": 1724138150831,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "逗娱科技",

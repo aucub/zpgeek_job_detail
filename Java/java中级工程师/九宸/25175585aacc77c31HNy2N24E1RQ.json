@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fcc7tE9CWHQFA-S1lMliu1Dn4ncvuw7b05Co8JX5zsxjDI2HyobxXfep_dgOGYcGBSIEKqooWDV7vOpCyZlHlwrEuD7aIEVmkxrI58oMAUtgkXsfBsQYmdb4-7OYdUjYAf-8JGje6oMx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "25175585aacc77c31HNy2N24E1RQ",
+      "encryptUserId": "6fc36eab5a42b6941HB42N66FVM~",
+      "invalidStatus": false,
+      "jobName": "java中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与项目的系统分析和详细设计，完成开发任务；\n2、有良好的质量意识及代码规范，保证单元测试质量，并完成设计优化及性能优化；\n3、参与建设通用、灵活、智能的业务支撑平台的讨论与设计；\n4、根据设计文档或需求说明完成代码编写、调试、测试和维护；\n\n岗位要求\n1、精通web开发的相关技术，有扎实的java基础，3年以上使用JAVA进行web开发的经验\n2、熟悉Spring Boot，Spring MVC，MyBatis、Hibernate等常用框架\n3、熟悉redis、消息队列、搜索引擎(如Solr、ES等)机制\n4、熟悉常用的关系型数据库如mysql、oracle，熟悉数据库优化及SQL优化\n5、熟悉git、maven等版本管理软件\n6、较强的逻辑思维能力、学习能力，有良好的沟通和团队协作能力\n7、有低代码相关经验优先",
+      "encryptAddressId": "b51eb7942b1296af0Hx609S6FFE~",
+      "address": "杭州余杭区华滋科欣·设计创意园4号楼503室",
+      "longitude": 120.113187,
+      "latitude": 30.339203,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b60e64090209d5c79b3600c8f5279adb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9fc7c9276feb59a5278932ec0a9e732",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Nginx",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "团队管理经验",
+        "微服务经验",
+        "低代码平台"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230127/607f1f3d68754fd021449d8b17e7f9a1d72542dd3861a9f20992e47e6ea8212baa88e94a0d7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "九宸",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e1a0e683ddd98b0b03R_3N28Eg~~",
+      "brandName": "九宸",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200305/d8fab6e52ae631e72be0a755799dcf86e76a453bf9cd4009f13c382a8e87b2e6_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "帮助传统行业互联网化.我们致力于为不同行业客户量身定制高效、优质的全方位软件解决方案; 为合作伙伴提供最新、最实用的、最佳的系统；为企业创造更多的价值，满足企业的多元化管理需求。",
+      "labels": [
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "有无线网",
+        "绩效奖金"
+      ],
+      "activeTime": 1724041362849,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "九宸",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

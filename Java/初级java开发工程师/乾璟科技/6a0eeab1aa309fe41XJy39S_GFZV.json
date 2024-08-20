@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fiPxHU81VHEdz-q1R1t0unv9Hq2aCDJn33VZoblO0zBpHB0BaE-IncybZevuX28wdWetEBA-doKnTQ2vykNWl45vjzcMRHb0vj_w1TzZaThdHvNFa_Y~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6a0eeab1aa309fe41XJy39S_GFZV",
+      "encryptUserId": "4cd7c244c6cd849e33V43ty9FFc~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的业务需求沟通，功能模块详细设计，功能实现，单元测试，系统维护；\n\n2、编写相应模块开发文档；\n\n3、按照设计文档搞效，高质完成指定任务的代码编写工作，确保符合代码规范，并对其质量负责；\n\n岗位要求：\n\n1、统招专科及以上学历，计算机相关专业。\n\n2、扎实的Java基础，良好的编码规范和习惯，追求优雅的代码实现。\n\n3、熟悉多线程并发和Socket编程，对Redis和RabbitMQ有一定了解。\n\n4、熟悉Linux常用操作，有良好的问题排查能力优先。\n\n5、有Oracle/SqlServer等数据库开发经验，了解数据库事务操作。\n\n6、熟悉springboot及其相关生态链，有微服务设计和开发经验优先。\n\n7、喜欢尝试新的技术，从技术趋势和思路上能影响技术团队者优先。\n\n8、善于沟通和协调，有mes开发经验优先。",
+      "encryptAddressId": "5bd47e0ce176bf8d0XV43tW_EVQ~",
+      "address": "深圳龙岗区龙城街道7栋",
+      "longitude": 114.222785,
+      "latitude": 22.702189,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00b91474e297aa8acfead83b8ec6fa93",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/241cf11b336cf839d4650eec7b12e753",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis",
+        "Java开发经验",
+        "项目实施"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "寇女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乾璟科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "985d03f5b3a21a521XV709S1ElI~",
+      "brandName": "乾璟科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721539112265,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乾璟科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

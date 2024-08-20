@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2fygTPOJnxmwW-91Qjja7pl2OhYCY5jp_rDgZtfUgqE4V-3fD7yqm2OA7TqPlgt1cN3zw9mirIh9-G4W1Huhl7tnO1-f-Ix8crHbnAUhpR0Wt_dwKQw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "56d1d246cd05f6c71Hd73NW6GFdV",
+      "encryptUserId": "8c2774f8a5fd435e0Xd90ti4GFE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n工作职责\n1、根据功能设计文档执行集团业务所需系统的功能实施与开发；\n2、完成系统的接口技术设计工作；\n3、完成指定任务的文档编写工作；\n4、协调和组织团队成员完成开发工作。\n\n任职要求\n1.专科以上学历，1年以上java开发经验。\n2.有较好的java基础，熟悉集合、并发、多线程等工具包。\n3.熟悉使用Spring Boot、Spring Cloud、MybatisPlus、Rabbitmq、Redis等框架。\n4.熟悉Linux和常见数据库及缓存数据库(MySQL,Oracle,redis等)，有较厚的理论基础和实践经验。\n5.能够熟练使用git、maven等工具，熟悉Oracle或MySQL等关系数据库。\n6.具有较强的独立工作与学习能力，愿意学习新技术，具备钻研精神；良好的团队意识和协作精神，有较强的内部沟通能力，良好的抗工作压力能力。\n7.熟悉前端vue和uniapp开发优先。",
+      "encryptAddressId": "0f6a28ddfcd1e7641nd70t25GVNQ",
+      "address": "南京雨花台区云密城E栋",
+      "longitude": 118.750727,
+      "latitude": 31.96928,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d0fd544e512624c0039a3c912972f96",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/479be51b8aa656e64da2d8e3032746d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PostgreSQL",
+        "不接受居家办公",
+        "大数据经验",
+        "QGIS、GeoServer"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231027/607f1f3d68754fd0e19691f9cfa98f5582dae25907a9579b35759ab92b9b665d6f6d6be834557bb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "三体四维",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5392e8d203a9a6b91HV739q-Elo~",
+      "brandName": "三体四维",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "有无线网",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1721534853839,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三体四维",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "p9wubJ6SH7uEm-u1aedVquy0gWNjWO4YOUfWjec3xPVFTp5Laput305ZyZcxiPw46x4hGuKILL7-qIJyTK4U1pzO-RrqGz9JgiEstsqJnF7Wp6DvIlI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8994381b8105a3731XF409W-FlRQ",
+      "encryptUserId": "942e32e4e116f8e51Xx839S0GVE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "技能经验**：\n   - 精通Java开发框架，如SpringBoot、Spring Cloud、Quartz等，并有相关的项目经验\n   - 熟悉物联网平台开发及相关协议，如MQTT、TCP、MODBUS、PLC-S7等\n   - 具备分布式系统设计与实现的经验，了解高并发、高可用的后端模型设计\n   - 对Linux操作系统及数据库技术（如MySQL、Redis/MongoDB、Memcached等）有深厚的理解和应用等\n个人素质**：\n   - 良好的问题分析、解决能力及创新能力，能独立面对和解决复杂问题\n   - 热爱技术，具备较强的自我学习和主动学习的能力\n   - 良好的沟通表达和团队协作能力，能够与团队成员及其他部门有效合作，能接受工作强度等\n工作职责**：\n   - 负责物联网平台的研发工作，包括物接入、物管理、物引擎和时序数据库等产品的开发与维护\n   - 参与需求分析、系统架构设计、模块开发、测试与部署等软件开发全过程\n   - 负责设备后端软件开发，确保设备通过app、H5、小程序等控制设备的使用功能等\n同时需具备良好的个人素质和能够胜任多样的工作职责。",
+      "encryptAddressId": "4989d8d4584c71210nN72t67FVtYxYq-Vv8~",
+      "address": "深圳罗湖区新丝路时尚文创园1栋1楼",
+      "longitude": 114.137052,
+      "latitude": 22.57993,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bf24fc28542b8a4275f49cf404a28dce886bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf6c918a6fd3f28ee00a35c9796ea21ddd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Java开发经验",
+        "中大型项目架构设计经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230218/607f1f3d68754fd0db5e1573575c260038b95dbc8ce72fb0acf99ea7754e0805ff1f0411e4d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "物链网",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "27ce6d58b5ae531c1Xd83Nm7E1I~",
+      "brandName": "物链网",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "免费工装",
+        "有无线网",
+        "住房补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724127186303,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "物链网",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

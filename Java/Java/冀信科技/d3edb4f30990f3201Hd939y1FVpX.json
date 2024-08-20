@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bRC0IAm9OWC2L-a1sELhub224qQ28qbl1V5_JELv3DSBndUyHM_w7ap5gv0Q3Ts5ld7zVN920LLxqF8lIe1TZ69wNjX7L4i06HlqMDPiSt_SqxFJs6_aVMpj7QxQpFlM48J7LlYeFDxfuqc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d3edb4f30990f3201Hd939y1FVpX",
+      "encryptUserId": "6bd30c2909a06d431nV-2tW7E1JU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "Java 编程语言：具有扎实的 Java 编程基础和经验，包括面向对象编程（OOP）、异常处理、多线程编程等方面的知识。\nSpring 框架：熟悉 Spring 框架及其各种模块，特别是 Spring Boot。Spring Boot 提供了简化的配置和开发流程，非常适合构建后端服务和 Web 应用程序。\nRESTful API 开发：了解和熟练使用 RESTful 架构风格，能够设计和实现符合 RESTful 标准的 API，并处理 HTTP 请求和响应。\n数据库管理：熟悉关系型数据库（如 MySQL、PostgreSQL）以及对应的 SQL 查询语言，能够设计和操作数据库表结构，并实现数据持久化操作。\nHTTP 和 Web 安全：了解 HTTP 协议及其工作原理，熟悉常见的 Web 安全漏洞（如跨站脚本攻击、SQL 注入等），并能够编写安全可靠的代码。\nOAuth 认证：理解 OAuth 认证流程，能够实现 OAuth 2.0 授权服务器和客户端，用于与 Shopify API 进行安全的身份验证和授权。\n版本控制：熟练使用版本控制系统，如 Git，能够有效地管理和协作代码库。",
+      "encryptAddressId": "031fcf8c54af04eb1ndz2tW_EFJZ",
+      "address": "杭州拱墅区尚坤数智园6号楼710",
+      "longitude": 120.101069,
+      "latitude": 30.322689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd6fd5eeb497fc2cab775b1bdb07d0b0a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf7f81a01a49aeeb3201f1489ba5ed22bb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200630/92f362f1b39b0b059060403e0a946e2826d6030d44075d50ae3292bde08_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "冀信科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2d2402b118f3bde1XRy2926GVE~",
+      "brandName": "冀信科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724118991479,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "冀信科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

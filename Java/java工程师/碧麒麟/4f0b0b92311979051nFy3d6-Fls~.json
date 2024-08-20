@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZEkzCJgQlCNfO-c1-RzIAfnflNFB3d9uEWu3_HX1YKDz5kM_j8HEkHljK46KTJlqVwuF_iSbylgq6BWc8pXtwg63--RUQHVEjLFoE5JU2blhNRUA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4f0b0b92311979051nFy3d6-Fls~",
+      "encryptUserId": "202a65501ab926aa1HZ_3dq6FVs~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、参与系统的需求调研和需求分析，撰写相关技术文档\r\n2、搭建系统开发环境，完成系统框架和核心代码的实现；\r\n3、项目概要设计、详细设计、开发计划等的编制并实施；\r\n4、系统开发测试、部署和集成；\r\n5、负责解决开发过程中的技术问题；\r\n6、参与代码维护与备份。\r\n任职资格：\r\n1、2年以上Java Spring Boot/Spring Cloud项目开发实施工作经验，计算机软件及相关专业本科学历以上；\r\n2、具有丰富J2EE架构设计经验；精通java编程、设计模式和组件技术，熟悉关系型数据库；\r\n3、熟练使用uml、xml相关的开发工具和处理程序\r\n4、熟悉Spring Cloud微服务架构；\r\n5、熟练使用eclipse、cvs、svn、maven、ant、tomcat、mysql等常用开发工具和开发环境；\r\n6、熟悉、Restful、WebService、xml-rpc、jax-ws、xmlschema等标准或风格，熟悉、axis2、xfire、cxf、restlet、中的至少两项，熟悉、apache、系列开源软件；\r\n7、了解、JMS、JSON、restlet、json-rpc、Osgi、SCA、JMX、ESB，了解分析模式与设计模式并能够灵活运用；\r\n8、具备良好的团队合作精神和沟通交流能力。\n9、英语四级CET4以上优先考虑。\n10、熟悉开源AI绘画项目stable diffusion并做过应用及开发的优先考虑。",
+      "encryptAddressId": "a7cc2b1c2ab3516b03N63ti6FVM~",
+      "address": "深圳宝安区智创矩阵B201",
+      "longitude": 113.837436,
+      "latitude": 22.627395,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04b974bc84bf7343b6c32dbca0596652",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f84a54f6e4701125e80d4d693dcc45d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "接受居家办公",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "全栈"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171116/cd1597ebb0938850a3a7f41b5b8b7cc1d964f028f19409b1b206db33afa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "碧麒麟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fcc9bd97506b561e1nZ-39m7Fw~~",
+      "brandName": "碧麒麟",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171214/53bcf856a1ac614680cf91ca0c55ae26cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "做最有趣的智能商业引擎",
+      "labels": [
+        "五险一金",
+        "住房补贴",
+        "节日福利",
+        "零食下午茶",
+        "全勤奖",
+        "工龄奖",
+        "节假日加班费",
+        "绩效奖金"
+      ],
+      "activeTime": 1721539322030,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "碧麒麟",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

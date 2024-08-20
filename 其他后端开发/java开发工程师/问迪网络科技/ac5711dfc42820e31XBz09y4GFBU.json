@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xUTd-Pp5Jx9a1-y1Xn4p5gUZZc1XIV6K6S5PHz9ezjUdSIE8caIyY4jvIVMz4PMx8zTFuy-eYB7H-0PF7JfnKXi-1mpZji4giVdSCN9LUq4L6HsT487N",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ac5711dfc42820e31XBz09y4GFBU",
+      "encryptUserId": "81c9029cd35acf4e1nV709-4FlJW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100199,
+      "positionName": "其他后端开发",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1负责：系统后端开发，包括后端程序开发、接口开发与调试、编制相关技术文档\n2.参与：参与详细设计，参与需求、设计评审，配合完善测试用例、安装部署手册等。\n3.策划：负责前端性能优化策路研究与实现。\n4.开拓：提升数据库等开发能力，文档编写能力与开发管理能力，技术人员培训能力\n5.从事：系统后端程序技术实现、与需求、设计、测试、实施组的工作协作与交流\n6.其他职责：制定负责工作计划，按期完成项目交付\n\n岗位要求：\n1、全日制统招本科及以上学历；计算机，软件工程，自动化等；\n2、Java基础扎实，良好的代码风格，注重细节，有深入的数据库使用经验，快速理解数模设计和业务设计；\n3、熟练使用开源技术以及框架 (Spring cloud、springboot、mybatis、httpclient等）；\n4、熟练使用微服务技术栈，能够灵活使用spring的常见注解，至少使用过一种主流微服务框架进行过微服务开发；\n5、熟练使用基础linux命令，可独立编写shell脚本完成对java程序打包部署；\n6、熟练使用eclipse、idea等开发工具，熟练使用git，熟练使用maven、熟悉SQL语言，熟练使用MySQL, Oracle数据库其中的一种；\n8、熟悉Linux环境以及常用命令，SVN、git、MVN的使用,熟悉Nginx,Tomcat等web服务器至少1种；\n9、具备微信小程序开发经验者优先。",
+      "encryptAddressId": "1388a186394da71c0HVz2Ny9EFU~",
+      "address": "南京浦口区金都汇广场3栋707",
+      "longitude": 118.725312,
+      "latitude": 32.134964,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d45739254661777ef01b453ddc567843",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8931a217fddcc3c301f2d33646f924f8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "问迪网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "08b896e34e93aba21Xd-29y9ElU~",
+      "brandName": "问迪网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230522/7b5b554d84f9729ce0c5a54d0369aa89b80c7b645e22f0a88b3588534e7b2d0f9d560661408325b5.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721535760082,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "问迪网络科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

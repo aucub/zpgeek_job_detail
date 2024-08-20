@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-9CAdLfZ1Z-su-I1wln8TJgGY0baby9dKH4cBgowxDi8bYm-iBt3Om4wzJZutBnRm6ePH8rxdsF2gOdZpSZHrZfEoMw3bVELSrgKqlZbZr1oojn_Qr2m_V1d1ouaLXK1EddN3Lo-PElj4w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c5b838da18a2ebbb1nx52Nu5F1NZ",
+      "encryptUserId": "74293a41ae399fa303Z73tS0ElQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281900,
+      "locationName": "揭阳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "1.Java基础扎实，熟练JVM以及性能调优；\n2.熟练使用spring、mybatis、hibernate等常用Java框架；\n3.熟练使用springcloud整体技术架构、rabbitmq等消息中间件，有分布式开发思维；\n4.熟练使用docker容器；\n5.熟练使用SQL SERVER、MySQL、Postgresql等常用数据库，SQL调优。熟练使用redis等nosql数据库\n6.熟悉网络基础知识，熟悉http协议；",
+      "encryptAddressId": "0cade2a8a0dd66b91nJ409u0E1Q~",
+      "address": "揭阳普宁市池尾街道电子商务公共服务中心3楼",
+      "longitude": 116.144295,
+      "latitude": 23.302224,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c13c527125c2d7b53bc0031422281043",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a3a5234246babdb93012fa8c3150430",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "GIT",
+        "MySQL",
+        "SpringCloud",
+        "SpringBoot",
+        "Spring",
+        "后端工程师",
+        "中级软件工程师",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邱女士",
+      "title": "人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "快马商标",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d88050b42e2575171nB62969FlU~",
+      "brandName": "快马商标",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100607,
+      "industryName": "专利/商标/知识产权",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724136434280,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "快马商标",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

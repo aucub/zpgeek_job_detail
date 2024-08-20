@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uJjop7Tgc1Jun-h14XOKaD28lLkO_2XXQkJmYh_xx_bRJYycYD4lCfia_vv3dQfVah-vpCMfZBjhSv7TCzCfM6n4KobYSSg-hvGc-QJaD1eAL4THn24~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e770971dc9e09ada1n143tm5GVtR",
+      "encryptUserId": "1194397657ed463803F839u9ElQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、2-3年及以上java开发经验；专科及以上学历；\n2、深入理解面向对象，熟练掌握JAVA基础，熟练使用SpringBoot、SpringMVC、Mybatis框架，了解MVC、OR-Mapping规范的开发思想；熟悉常用设计模式。\n3、熟悉Vue、php、JavaScript、AJAX、JQuery；\n4、熟悉Socket通讯、TCP、HTTP协议，了解多线程、高并发技术；\n5、熟悉Mysql数据库，熟悉数据库建模，掌握SQL优化；\n6、了解Memcached、Redis等分布式缓存的开发和使用。",
+      "encryptAddressId": "58147ec661f76fd30Hx829u_FlQ~",
+      "address": "南京浦口区高新别墅5栋",
+      "longitude": 118.705294,
+      "latitude": 32.16278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06152ee4ff9d673c97a959ea8740d6c1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8aea3b8b6f8b20bc1c3f8c7542754ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "PHP",
+        "分布式技术",
+        "多线程",
+        "网络协议",
+        "MVC开发",
+        "Socket技术",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "南京迅迪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f7afb8226ddb78471nd-2ti6EFE~",
+      "brandName": "南京迅迪",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211202/7bf6f160950405e986cf050d4dba270c23ce3e1d8713ff2af26252a4cce17ca26de4ec64fb87220c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721534907845,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京迅迪",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

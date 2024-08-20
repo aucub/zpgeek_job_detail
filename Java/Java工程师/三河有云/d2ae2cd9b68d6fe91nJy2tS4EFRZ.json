@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FYoI0M3ChD243-D1mLkES_yjDyoSaFntK2c2phw2reHi5OpCmApcowg_Gzmk0JauTFjZKtLPUnAly0u5qRAG646VBvnQccOdc1uA5tlNbYvkIrZvw5D4",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2ae2cd9b68d6fe91nJy2tS4EFRZ",
+      "encryptUserId": "8e24a58950e857171nR52d65ElJV",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与系统分析、设计，参与技术选型，完成程序开发及测试工作；\n2.负责系统分析、设计等相关文档编写；\n3.及时对系统安全、性能、BUG等问题进行跟踪修正；\n4.根据市场需求提供售前支持；\n5.完成直接上级交办的其他工作任务。\n\n任职要求：\n1.大学专科及以上，主修计算机科学或相关专业；2年以上开发经验；\n2.熟练使用idea或Eclipse；熟练掌握 MySql、Oracle 等关系型数据库；\n3.熟悉Javascript、HTML、CSS等技术，熟悉前端 JS 框架 (Jquery、Angular、Vue等)；\n4.熟悉 Linux、Maven、SVN、GIT等系统、工具；\n5.熟悉springboot/springcloud/springmvc/netty主流开源框架；\n6.热爱技术、对技术有不懈的追求，喜欢研究开源代码，具备良好的代码书写规范，善于思考，能独立分析和解决问题；\n7.强烈的责任心与团队精神，较强的抗压能力和良好的沟通、协调、组织能力。",
+      "encryptAddressId": "04f3edd65850c29533Z829W6Fg~~",
+      "address": "北京通州区兴贸一街7号院1号楼B座501-1",
+      "longitude": 116.576522,
+      "latitude": 39.766853,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8183e1ce56c59d137d29e5b3842a11f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce8b1ff5908dde5076208ddf9a2d9898",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "MVC开发",
+        "Spring",
+        "Netty",
+        "Oracle",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "三河有云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3b9f898da9aaf7831nB43tW7GVo~",
+      "brandName": "三河有云",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721544995871,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三河有云",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

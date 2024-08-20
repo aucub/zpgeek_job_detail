@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OeqdQwo8eWAzl-y15eUFBpm4Ual2syV0ro7pPAA5iwhJy3I0NAFYWopvgstIfZV13cDufvVIu0OU4ytY4D-QKjbfdoPUAfs5ZZcPVAf5PD1lnJR6hVuH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cc83b6e3b07a6f4b1HZ739S1ElJS",
+      "encryptUserId": "f864759bf27c83c31nV63NS7GFJW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：使用 Java 编写高质量的、可维护的代码，参与软件开发和测试工作。\n遵循软件开发流程和规范，按时完成任务，确保代码质量和交付进度。\n参与需求分析和设计，与团队成员密切协作进行系统开发和优化。\n协助解决日常的技术问题和项目风险。\n\n岗位要求：\n\n计算机及相关专业本科及以上学历，1年及以上互联网/计算机软件行业Java开发经验；\n具备扎实的 Java 编程基础知识，理解面向对象编程和设计模式。\n熟悉 Java SE 相关技术，如集合类、多线程、IO 等，并有实际项目经验。\n熟悉数据库开发和操作，具备良好的 SQL 语言和至少一种关系型数据库的使用经验。\n熟悉常用的开发框架，如 Spring、Spring Boot、MyBatis 等，并有实际项目应用经验。\n熟悉 Web 开发技术，了解前后端分离开发模式。\n具备前端基础，了解 HTML、CSS、JavaScript，掌握其中一种前端框架（如 Vue、React、Angular）。\n熟悉常用的开发工具和版本控制工具，如 Eclipse、IntelliJ IDEA 和 Git。\n具备良好的学习能力和问题解决能力，能够自主学习和应用新技术。\n具备良好的沟通和团队合作能力，能够与团队成员协作顺利开展工作。\n\n加分项：\n\n有微服务、分布式系统或云计算相关经验。\n对分布式系统、消息中间件、缓存技术等有一定了解和实践经验。\n有云计算（如 华为云、阿里云等）或容器化技术（如 Docker、Kubernetes）的使用经验。\n有敏捷开发经验，了解敏捷开发流程和常用工具，并在实际项目中应用过。\n具备英语读写能力，能够阅读和理解英文技术文档。",
+      "encryptAddressId": "2447fb519e7dbf331nd93du4EldW",
+      "address": "广州天河区佳都商务大厦西塔201",
+      "longitude": 113.370377,
+      "latitude": 23.122785,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/68fe0013455631d7a5a9ef68c27b46a1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41e93926d880391698356b83909935a4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "彩宽项目组",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广州彩宽",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e91d7d07909a7c851XNy2Ny7EFE~",
+      "brandName": "广州彩宽",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721810627000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州彩宽",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

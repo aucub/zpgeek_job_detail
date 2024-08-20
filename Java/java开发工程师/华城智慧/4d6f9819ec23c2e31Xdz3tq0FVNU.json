@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8p0oNBncDjCxK-c1KFlctwtlpmyxyUie0QPzZbOH9ZpRFS8dY9hBOrM9V6KUBvHglggXF2-d3k3NTx7_5XgVgh9zjX3nt7jMXEJhojrxBEpiaOnRFw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d6f9819ec23c2e31Xdz3tq0FVNU",
+      "encryptUserId": "91d58343547f9d250H15292_F1A~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、较强的逻辑思维能力、学习能力，有良好的沟通和团队协作能力，具备独立完成工作能力，能快速适应新的工作环境；\n2、扎实的Java编程基础，熟练掌握Java系统的故障排查和性能调优技能；\n3、熟悉Spring, SpringMVC, SpringBoot, SpringCloud, Mybatis,Dubbo等框架的应用；\n4、熟悉RabbitMQ，RocketMQ, Kafka等至少一种消息队列；\n5、熟悉MySql、Psql、redis等数据库，对Sql优化有一定的经验；\n6、具有良好的编程规范；\n7、熟练使用Maven、SVN、Git等版本管理工具；\n8、熟悉linux应用环境，对linux服务器的日常维护、使用有一定的经验；\n9、熟悉Resin、Tomcat、Nginx等WEB服务器应用；\n10、了解docker容器以及Rancher的使用",
+      "encryptAddressId": "dc0483a5c8762ccf0XN40tW4E1E~",
+      "address": "深圳宝安区万骏经贸大厦1012",
+      "longitude": 113.880561,
+      "latitude": 22.54903,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a106072eec66d68a6ea71843f9e22b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5921d73c14307cec800c887f6290fc9c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220805/607f1f3d68754fd02f9606bc096e9f85036d56e479ce0b3fdfbd2a969478cd541c999393717_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "华城智慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51ed90384650eb7a33dy39m4GA~~",
+      "brandName": "华城智慧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳华城智慧科技有限公司成立于2018年7月7日，注册资本500万元。公司主要业务为智慧交通系统开发，智慧城市CIM应用开发，软件系统及数据运维等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721539072754,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华城智慧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

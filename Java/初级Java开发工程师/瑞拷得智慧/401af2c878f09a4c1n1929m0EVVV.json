@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OFFnh9peRLYDQ-y1G0_5DBIS5DtHllw-8UqH82yIJOAkZQDjFbPquXIascJ0VuQrdKKC7naOv2tUNt0XqmXAKZITLKZqcLCYV5cm40r5jbi-VzJZBQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "401af2c878f09a4c1n1929m0EVVV",
+      "encryptUserId": "ef425ec38336e7b91Hx82967E1U~",
+      "invalidStatus": false,
+      "jobName": "初级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1-3年工作经验\n1、熟悉JAVA编程语言，熟悉SSM架构开发；\n2、熟练使用主流的java开源框架，如：spring boot、spring cloud、nacos等\n3、熟练使用MYSQL数据库，有sql优化经验最好（加分）\n4、熟悉redis、es、solr、RabbitMQ、kafka等中间件（加分）\n5、熟悉html、css、vue等前端技术（硬性要求）\n6、能有效的分析和拆分需求，结合项目给出自己的解决方式\n7、有良好的代码书写、注释和单元测试习惯；\n8、具有较好的主动性、投入度，以及较强的学习能力、沟通能力、团队协作能力。\n福利待遇:\n1.五天工作制，周末双休，朝九晚六，不加班，享受法定节假日以及三节福\n利。\n2.定期公司聚餐;\n3.五险一金，带薪休假等;\n4.可享受公司组织的:部门聚餐、公司聚\n餐、年底绩效奖\n不接受线上面试，学历必须学信网可查！！！！",
+      "encryptAddressId": "9745e1d678dfad6233By29m9FFtWxYW-VP8~",
+      "address": "南京鼓楼区联创大厦B座8楼",
+      "longitude": 118.723306,
+      "latitude": 32.033982,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230505/48ba41acc9cef1bf173676711c1e5320c60377812cecc6ef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bf14945e2fb0938e9dff32f44cf7df87446bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "数据结构",
+        "Spring",
+        "SpringMVC",
+        "MySQL",
+        "后端开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200818/8d3627522f677bf1c455eab287736e48336978e4f64d129a0e732ef5f99_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "瑞拷得智慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d82d26f30dc1861a0nR82d60Fg~~",
+      "brandName": "瑞拷得智慧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司依托河海智慧水利研究院雄厚的研发实力和人才优势，拥有精干高效的管理、研发团队。公司的管理和研发团队中，有计算机技术、档案管理、技术经济与管理专业的教授4人，工程师多人，其中有博士学位的5人、硕士学位3人，他们发挥着各自的专业理论和实践经验的优势，为公司的发展提供保障。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723429591000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瑞拷得智慧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

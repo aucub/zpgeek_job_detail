@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SEn8qesn-8Ivr-q11KRvQuSrpItBsCstlcQRQjJV4AFBzyWQJ7YGU3tbMXZO_mRTQlz_mUXh711mdA5bejVSi5TjezqaFdN3iNahhkvMC2i-MWO4",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a1651885544b1c5c1n192tu1E1Q~",
+      "encryptUserId": "b78ec771c13589321HRz2Ni0FlM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述 \n工作职责： \n1、参与项目系统设计，完成软件项目的程序开发工作； \n2、负责产品需求分析、设计和文档编写； \n3、根据产品需求和设计进行软件开发； \n4、完成直接上级交办的其他工作任务。 \n职位要求： \n1、熟悉JAVA、JSP、Servlet、JavaScript、XML、JDBC等J2EE相关编程技术，熟练使用Eclipse、idea等开发工具。\n2、熟练基本使用开发过程管理工具，包括maven、SVN等辅助工具； \n3、熟练使用Spring、Hibernate、mybatis等主流框架编程，\n4、了解MySQL索引原理，可以进行查询性能优化，具备mvc实践经验\n5、有使用Mycat等数据库优化方案的经验。\n6、熟悉常见设计模式和jdk内存优化经验优先。\n7、具备良好的沟通能力、协调能力和问题解决能力； \n8、具备较强的需求分析和系统设计能力，良好文档编写能力；",
+      "encryptAddressId": "b30662b872a5e2361HJ82N21EQ~~",
+      "address": "北京海淀区古城金融街长安中心26号院7号楼706",
+      "longitude": 116.18278,
+      "latitude": 39.904312,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/de5795a7327d7cfb45b20f8c0c98a2d3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7323b5a250df1544409b94566087d147",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Javascript",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "英派德",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "da4b82a93749defd1nx73t27Fw~~",
+      "brandName": "英派德",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200628/43631fcd5e107998f9f3d3e503153162d834a8f9d457e5c3ac3c192960ff52f3_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "英派德（北京）软件技术服务有限公司介绍成立于2012年。专注于IT及家电维修服务行业管理软件、在线学习系统、汽车后市场软件、农资农产品溯源及农业物联网的开发及运营。公司经过多年的积累，在企业信息化及平台建设方面都积累了大量的经验。\n我们的团队成员曾经供职HP、电信盈科、方正电脑、长城电脑等知名公司，并在这些公司主持承担了服务运营系统和供应链管理系统的设计和开发工作，这些系统现在都正在运营中。\n我们公司文化的核心是无私，一方面体现在为客户全心全意服务，另一方面体现在公司内部每个人都要为他人考虑而无私奉献。我们相信只有这样才能最好的为客户服务，并使公司和员工得以最大的回报。\n公司经过多年的农业、IT、家电、汽车后市场等行业的企业服务信息系统的咨询与项目实施，形成一套基于流程引擎技术快速部署业务流程及系统的专业技术和开发平台。我们在技术开发、软件测试、以及产品售后维护方面应用等方面有专职技术团队。",
+      "labels": [],
+      "activeTime": 1721500978762,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英派德",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

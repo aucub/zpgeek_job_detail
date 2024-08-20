@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aZgnV6YmU5FrA--1WcMV4USMFhy1ANoRZVVkyABPLAffj6eqy04WLbyCeNexTVZSkhULYXOEhNGFWINVE6HhUeCmyE0ICyKu1brMMILCAk-JHQA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ac7bbd96736da1f50Hx93dq4GVA~",
+      "encryptUserId": "93eba049e9fa698a0Hd70tW5Fw~~",
+      "invalidStatus": false,
+      "jobName": "初级Java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "银行软件开发\n1.Java后端开发，熟悉spring mvc，MySQL等流行技术\n2.熟悉linux基础知识，掌握常用命令。了解Docker容器的部署应用\n3.掌握 Jquery、Ajax、Vue、Element-ui等表现层技术。\n4.熟悉Tomcat、Jboss等常用容器的部署和应用。\n5.熟练使用Git、Svn等项目管理工具。",
+      "encryptAddressId": "56270713bf56706e1nR_3N-8Fls~",
+      "address": "南京建邺区南京金融城4号楼8楼",
+      "longitude": 118.718158,
+      "latitude": 31.98734,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7163f21f0d6e1b55a4e56f4e28e25cfe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e71d8de5b03268f8e8a1a147e96307eb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MVC开发",
+        "MySQL",
+        "银行"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州银信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "40e954c68a0a1c8c1HB-29-7FA~~",
+      "brandName": "杭州银信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721535684906,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州银信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

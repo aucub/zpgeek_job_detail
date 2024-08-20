@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dJOWRGwshAc5n-y1PiY32_NimTSwTvg_LedQlkkuRLSOOlOMABqmr2rfQ2JJ_w7myIhRvbuFwnKyubGl8jKe4EDq1byxF41hVu0iVeAYL-G7aicSnOyMNlOrP5iX7hqRrmbYd-NaBHXF8yE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "23ebb463c97bf29b1HN40t60FFdR",
+      "encryptUserId": "743ad9dc5c366c2f0XR609W6EltR",
+      "invalidStatus": false,
+      "jobName": "java开发助理工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、负责业务项目服务端的设计开发和接口输出；\n2、参与实现方案的设计和前期开发，对通用技术整理提高技术复用。\n3、参与功能需求设计，并负责完成功能开发。\n岗位要求：\n1、有Java开发经验，扎实的Java编程基础，具有体育或互联网平台开发经验人员优先；\n2、 熟练掌握Spring、SpringMvc、Hiberate、MyBatis、Docker等开源框架，熟悉常用设计模式；\n3、熟练掌握SpringCloud技术栈开发，以及restful接口规范。\n4、熟悉基于MySQL、Oracle、Mongodb、Nosql等数据库设计和开发，熟练应用分布式框架Duboo、Zookeper、kafka等；\n5、熟练Linux日常工作环境，掌握常用命令。 \n6、富有责任心，具有良好的团队合作意识。",
+      "encryptAddressId": "8e520e6d34edb0791HB82d24EVZZwYW-Uvw~",
+      "address": "厦门集美区厦门软件园三期F01栋802-3单元8层",
+      "longitude": 118.02113882459749,
+      "latitude": 24.60792713515648,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231210/48ba41acc9cef1bf78467b253b5f5d6e3d4e77fae5aebb256bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231210/48ba41acc9cef1bf546d4f5d113e1f08a96fdd5d5d67d05b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Dubbo",
+        "Zookeeper",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "不接受居家办公",
+        "微服务经验",
+        "分布式经验",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": null,
+      "bossOnline": false,
+      "brandName": "字节耘动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a5cabd1217f6dc511XNy2d67E1A~",
+      "brandName": "字节耘动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231026/7bf6f160950405e9092a23d3281d25078c2cdb87b6be69628bc879655cfc5abc54252706430734f4.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "数字运动（ByteSport），让运动更自由！",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "全勤奖",
+        "绩效奖金",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724143290308,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "字节耘动",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
