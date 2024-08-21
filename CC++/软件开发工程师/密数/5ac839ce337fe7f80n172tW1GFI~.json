@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CKhEqGuGZ51Bn-31LJh2ZDQ7Yh8PvMfySSR99gFibqSE_I0MJOy69eBDAqYG-GiYP0DnRN3G6HArC8x_uBBrkEtAsmHVIqaColwMpmCHjVgd78aa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ac839ce337fe7f80n172tW1GFI~",
+      "encryptUserId": "dfe30b95f7cd5a8f0HF_0tm_FlE~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "16-30K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "公司致力于云计算安全、网络安全和数据安全领域的软件研发，团队成员来自国内外一流企业和高校。\n五险一金齐全，考勤人性化，配套人才公寓，良好办公环境，免费零食，节日福利。\n交通便利，走路10分钟到地铁2号线钱江世纪城站。\n环境优美，走路10分钟到钱江世纪公园。 \n\n工作内容：\no\t独立完成功能模块的开发测试部署以及编写文档；\n\n职位要求：\no\t 计算机相关专业，本科+1年以上工作经验；或有实习经历的应届研究生\no\t有Linux C/C++开发经验，熟悉C/C++、数据结构；\no\t熟悉SQL以及RDBMS (PostgreSQL, MySQL, Oracle等至少一种)；\no\t工作积极主动，良好的团队协作能力；\n\n优先条件：\no\t熟悉密码学算法、硬件加解密、网络安全等相关知识者优先；\no\t熟悉Shell, Python, Go, Java, Javascript等至少一种者优先；\no\t熟悉NoSql数据库者优先 (Redis, HBase, MongoDB, Couchbase等)；\no\t熟悉数据库开发和云计算开发环境者优先；",
+      "encryptAddressId": "c0f5bd5a9dc92d8e1XJ53t-8FVY~",
+      "address": "杭州萧山区天人大厦",
+      "longitude": 120.239837,
+      "latitude": 30.239141,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2c72e2b820aca9940c2e92c320fce91",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e7c34aa6f0353e31c21332a3969b2e6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C语言",
+        "Linux",
+        "C++",
+        "密码算法",
+        "数据库开发",
+        "网络安全",
+        "后端开发",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "密数",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60fa0d14783a42fc0XZ63tu6GA~~",
+      "brandName": "密数",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "致力于云计算安全，网络安全和数据安全领域的软件研发和销售",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721664230697,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "密数",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

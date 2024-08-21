@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "J0ZxfD5pwWQcJ-o1ZvFD_q0ZSsM-zFjNP2-rQWEJZ4kyLEl160b91hplcyMvBlWevTvpEJqf7i0hWW11TLv7LOX9Z5or5pH9AYhAeahtnbpJ__ANgQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d94593a7f852c3d1nN43t2-GVBZ",
+      "encryptUserId": "4086d6b889628e791XR9296-GFo~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责公司系统接口、web、app、小程序等测试；\n2、按照测试流程和规范执行测试过程，保障产品质量；\n3、日常的自动化测试的脚本开发和维护，持续集成回归；\n4、在组内定期分享项目业务，经验，测试技术等；\n\n职位要求：\n1、计算机，通信，电子及其相关专业，本科及以上学历，2年以上测试工作经验；\n2、熟悉软件测试的基本理论和方法，熟悉测试流程及缺陷管理流程，能独立负责一个项目的测试；\n3、掌握接口测试方法，熟练使用postman，curl，jmeter等至少一种接口测试工具，掌握charles，fiddler等其中一种抓包工具；\n4、有一定的接口自动化使用经验，熟悉newman，testcafe，appium等任意一种自动化测试框架；\n5、熟悉git基本操作，熟悉jenkins等CI工具的优先考虑；\n6、熟悉linux/unix操作系统，掌握linux常用命令，具备较强的定位问题能力；\n7、掌握sql基本语法，熟练操作mysql；\n8、基本的英语读写能力，英语4级以上；",
+      "encryptAddressId": "447eecef713b265d1nV_3ty0GVA~",
+      "address": "杭州西湖区华星时代广场A座1301",
+      "longitude": 120.124791,
+      "latitude": 30.276996,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ffb80986fd5a7afaa3a6bab07f105c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/166615dd3fb61c39d700454ba2d30375",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件测试",
+        "接口测试",
+        "系统测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蔡女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201022/6565d00557c3bc64b00fa65b4da7c1d2d01ba6022f6d0afd678ed69a37f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "盛康网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8741b7806d9380901Xx63927Eg~~",
+      "brandName": "盛康网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200514/aeb46b808e492b6ecc23d7fddf1dfb73c94abb9d98bc79afb2acb25ad7b2c664_s.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "盛康网络(Citcon)，于 2015 年成立于美国硅谷，致力于提供移动聚合支付的跨境移动支付与营销平台，是银联、支付宝和微信在美国的最大支付合作伙伴，业务覆盖美国、加拿大、欧洲等地的 3000 多个客户。我们拥有来至 Visa、Cisco、阿里巴巴、华为等多家知名企业的研发团队，及来至Groupon及Yelp等北美知名企业的产品销售团队，我们的愿景是将现有的基于信用卡的数字支付体系转变成全球规模的移动支付体系。公司与DFS、Caesars Palace、 Pacific Gateway（美国第二大机场零售管理集团）、凯撒集团、美高梅集团等国际品牌合作，为其提供了行业领先的全球移动支付解决方案。2018年盛康入驻杭州，在杭建立核心业务体系，组建架构、算法团队。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721659217856,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "盛康网络",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

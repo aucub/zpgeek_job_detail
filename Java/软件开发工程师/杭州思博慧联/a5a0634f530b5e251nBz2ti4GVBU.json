@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8XRk-mr8qlXB2-I1V9x-LzEmJ-vOhNLaJEgV7EUtXs4ZaF3RwqZjwoZdJeKAEcC24tcf5uLlV4xVTcjC2f2JrTdGvK0cmZwRQOxmcM_jID8hh7rANEi3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a5a0634f530b5e251nBz2ti4GVBU",
+      "encryptUserId": "7bf267e7470ee4871nRy2NS9E1pT",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作地点：无锡、杭州\n职位描述：\n1. 参与项目需求分析,进行系统框架和核心模块的详细设计；\n2. 根据产品开发进度和任务分配，开发相应的软件模块；\n3. 根据公司技术文档规范编写相应的技术文档；\n4. 根据需要不断修改完善软件；\n5. 编制项目文档、记录质量测试结果；\n6. 完成程序测试；\n7. 研究项目技术细节，编写相应的说明书\n\n岗位要求：\n1、精通Java开发语言，并具有面向对象的开发思想，熟悉多线程、网络通信开发；\n2、熟悉spring boot、spring cloud、VUE、Angular、ionic 等前后端框架技术；\n3、熟悉oracle、sql server、mysql 等数据库系统\n4、熟悉Android、ios 手机APP开发\n5、具备编码和撰写文档的能力；\n6、熟悉音视频编解码及流媒体开发者优先；\n7、熟悉地图引擎、GIS开发者优先。\n8、具有良好的数据分析和问题解决能力，优秀的团队合作和沟通能力，强烈的责任感。",
+      "encryptAddressId": "8be4401237d6aa3903B42N-0GFo~",
+      "address": "杭州余杭区中电海康集团基地A楼906",
+      "longitude": 120.014008,
+      "latitude": 30.273957,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0d845966a81481b4e1c6136b32ca13b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8642c6d80351be5a07d75adfee8486b8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "多线程",
+        "音视频编解码",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州思博慧联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "873546f985a35dbe1HF539W1GFQ~",
+      "brandName": "杭州思博慧联",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721657656427,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州思博慧联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eSKxbHqeKGn2X--1h7BhDxXCkiNhVXZ_SNP50Aadq72s63rOt7OmlA0wQmrIzp-1wCKNoksSehqkjEeDz5iPYQjqTc3-g5GngS4WxQNtVgoQ41SgyRAE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b8cde265afb754d41Xd539i9EVVX",
+      "encryptUserId": "a4a9f441929f184b0nB_3929ElVX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、搭建公司电商app系统开发环境，完成系统框架和核心代码的实现，负责解决开发过程中的技术问题；\n2、负责JAVA/J2EE技术的相关产品规划、需求、设计、开发、测试等工作；\n3、负责研发产品在工程项目中的实施，对项目进度、质量负责；\n4、参与软件工程文档、产品文档编写，满足质量要求。\n岗位要求：\n1、统招本科以上学历，计算机相关专业，2年以上的实际开发经验；\n2、精通java，熟悉常用设计模式，深入理解面向对象的程序设计思想，对于Java基础技术体系（包括JVM、类装载机制、多线程并发、IO、网络）有一定的掌握和应用经验；\n3、熟练掌握常用开源框架，如springboot，spring cloud等；\n4、熟悉Oracle、pqsql、Mysql等主流数据库及部分nosql数据库（如mongondb、redis等），了解常用的数据结构；\n5、熟练JavaScript、VUE等Web前端开发技术；\n6、有底层中间件、分布式技术（包括缓存、消息中间件、热部署、JMX等）的经验者优先",
+      "encryptAddressId": "e540d223412103a80XB52tq-EVI~",
+      "address": "上海闵行区虹桥国际展汇南区15",
+      "longitude": 121.323513,
+      "latitude": 31.209381,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75580f9ea9b88822c7f6ea0af101bd78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/129e46031b1b1ead3a8de3cc93b43846",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "秦女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220629/607f1f3d68754fd0f7be9fd90046a34d95e03b706a767de21b751e4549c4748cc9b4a5fe296_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "职聊网",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "14acc09bcb65652f1nx53tm8FVU~",
+      "brandName": "职聊网",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220630/7b5b554d84f9729c6b421eb2b69ed274926badb8c502697a7b46d8f8c858e39309d805ece862360e.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "加班补助",
+        "企业年金",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1721664729031,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "职聊网",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

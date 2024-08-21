@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ZwGu5ZvRWQJRA-q1TzkmOtfpJS3B1VI6zrvl-czo_EUXPxixIuny4Owj217-59VLKrLbgQsKKoP1OiVSDgjMcVVvIk2ERfJhkBnA8Wg7SLmoAl5mHJv9wQmiJ0aO2n-PzZvkgG8IxqMQMWA7aobaZipluR72yrzS0-PsgO_x9TZb",
+    "securityId": "JMTh9ol3EcdTK-K1UkPJbP1ERQaHfigJ1UZa_WwEuzN1dkKu0KA_3vnjX9oqc2HkUgrIrhaRa91VoR0NElqq8sKozruA9n6ABYgvWTscS4ld-mGTrbI42qQNLKjk3PK7O2sXrXWgtgpgzzWXjTM~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,23 +21,26 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "8-11K",
+      "salaryDesc": "9-14K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责（初级）：\n1、负责编写项目过程的需求文档、设计文档；\n2、负责项目实施过程中系统代码或业务核心代码开发；\n\n任职资格：\n1、全日制公立大学统招本科、计算机相关专业毕业（双证学信网验证）；\n2、1年以上项目开发经验，熟悉J2EE规范，掌握Java编程技术；\n3、能熟练使用SpringMVC、SpringBoot、MyBatis等框架进行项目开发；\n4、熟练使用MySQL数据库及相关工具，熟练掌握SQL；\n5、熟练使用多线程组件，如Executor框架；\n6、熟练使用系统集成框架，如Dubbo、Eureka框架、Netty框架、MQ组件、Redis；\n7、熟练使用Tomcat 等应用服务器软件；\n8、具备良好的文档编写能力，较好的沟通能力，较强的学习能力;认真负责，能够独立分析解决问题；",
-      "encryptAddressId": "2fc027b18788eade0Hx_3dS8GVE~",
-      "address": "北京丰台区丰科中心1层",
-      "longitude": 116.30408,
-      "latitude": 39.829215,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d8bd5c2362a3f64ad8d9e9163d8a2cb",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db745f262513fa3341d3d21628a19d32",
+      "postDescription": "岗位职责（初级）：\n1、负责编写项目过程的需求文档、设计文档；\n2、负责项目实施过程中系统代码或业务核心代码开发；\n\n任职资格：\n1、大学统招本科毕业至少满一年（双证学信网验证）；\n2、1年以上项目开发经验，掌握Java编程技术；\n3、具备扎实的Java开发能力；\n4、熟练掌握SpringBoot、SpringCloud、Mybatis等常见框架；\n5、熟悉 Redis、RabbitMQ、Kafka、ZooKeeper等常用主流中间件，并了解其基本原理；\n6、熟悉PostgreSQL、MongoDB等数据库;\n7、熟悉Linux操作系统环境下常用命令、常用配置和服务部署；\n8、了解GIT等版本管理工具。",
+      "encryptAddressId": "5615efc28b4374571nV82dm8GVVTw4-3UPKb",
+      "address": "北京丰台区丰台路口七十二号院邮储银行数据中心",
+      "longitude": 116.276866,
+      "latitude": 39.871158,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8f3777e4fa44ecb522560cfae1efaba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58d177ced7cff9aaadd24cd67533ac8d",
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Spring",
-        "MySQL",
-        "Oracle",
-        "Socket、多线程，高并发"
+        "SpringCloud",
+        "Zookeeper",
+        "Kafka",
+        "Redis",
+        "PostgreSQL",
+        "MongoDB",
+        "linux"
       ],
       "anonymous": 0,
       "jobStatusDesc": "最新"
@@ -53,7 +56,7 @@
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "1d0b8fb389f1e12b1XR_2Nw~",
@@ -81,7 +84,7 @@
         "有无线网",
         "团建聚餐"
       ],
-      "activeTime": 1719201792484,
+      "activeTime": 1724230689465,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海睿民科技",

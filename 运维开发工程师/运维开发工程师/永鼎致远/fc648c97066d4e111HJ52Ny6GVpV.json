@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4tnnNFFeyBnvi-21zOGmmoIT52iJ_-v78md9lvIbbbGRpY5_g7kMhl9Y--8SGa2wVtwqGfotpWZpICBYWC_6Q2pEuUuAdM-zSRvKcXImaQBEVF0i",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fc648c97066d4e111HJ52Ny6GVpV",
+      "encryptUserId": "e0cc3e35a04f7e750nZ-2NW5Fg~~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "17-25K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司网管系统的开发、维护，保障系统的运维运行；\n2、负责公司软件系统的自动化部署，监控功能，满足软件升级、监控需求；\n3、收集系统状态、分析系统运行的问题或薄弱项， 定义网管系统的自动化运维；\n4、熟悉Hadoop群集生态系统各模块的监控。\n\n任职要求：\n1、具有Java开发开发经验，熟悉shell/python脚本编程；\n2、熟练Hadoop生态圈，或使用过Prometheus等大型网管产品的优先；\n3、熟悉TCP/IP协议，掌握网络抓包工具使用，有 Wireshark 的使用经验\n4、熟悉Linux操作系统，熟悉使用常用命令（awk、sed、grep等）；\n5、熟练常见关系型数据库如mysql等的使用。",
+      "encryptAddressId": "e2f795cd40510c1b33193t29GFtTyoS3Uvs~",
+      "address": "北京海淀区银谷大厦15层1506",
+      "longitude": 116.33426,
+      "latitude": 39.986918,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfdc2959147112e9b569b7aac8518fbd9e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf26b0d0b01e657ef4952ac23bdbfaf3646bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "Java",
+        "MySQL",
+        "运维开发经验",
+        "网络安全相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211118/607f1f3d68754fd0a6255907ac90af8eb45022ce62e2d30980f4a9717abbe872191b3feb69e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "永鼎致远",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f764fa28bc9dc181HZ-3d2-GA~~",
+      "brandName": "永鼎致远",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210927/7bf6f160950405e981cca0a00599df9e798a92f04eb85648a5ed3190f163face09e7e8cb5938df31.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京永鼎致远网络科技有限公司成立于2011年4月，注册资本7000万元，是专业从事移动数据业务软件研发、系统集成、销售、服务为一体的高新技术软件企业。\n为移动运营商运营数据业务提供强大的数据支撑、运行维护和业务管理等，帮助运营商应对市场变革，构建更为稳固的最终用户关系和更为创新的最终用户体验。\n\n核心产品—移动用户上网行为集中分析查询系统，是一套高效的移动数据业务维护、业务验证和业务管理工具，为运营商的网络部、网管中心及其服务的职能部门提供解决方案。\n\n1、平台级系统（移动网络数据业务集中分析与查询系统、移动数据业务IP溯源系统、移动通信流量流向分析系统）；\n\n2、优化服务（移动网络下的数据业务专题优化服务、移动通信网微信流量监测优化服务）。\n\n项目研发：\n\n1、移动数据业务DPI系统：是移动通信网运行维护的重要支撑系统之一，系统通过对GGSN设备的GN和Gp接口进行数据加工，输出用户移动上网流量详单(FDRSYS)，从而帮助客服坐席，网络维护和分析人员对终端用户上网流量进行查询，对终端用户的移动上网流量质疑提供证据，提高用户满意度，保证服务的先进性。\n\n2、移动数据业务LTE网络分析系统：对用户上网的流量进行分析合成，最终输出用户上网的流量详单，提供明确的上网行为和业务流量细节。提供运营商给最终用户开放上网去向详单，语音通话计费提供具体的通话时间点及主被叫号码的详单，有效处理大流量、海量数据下的高效、低成本数据处理、存储和查询。\n\n技术服务：公司拥有高级技服队伍，具有移动互联网工程实施，售前技术支持，售后服务经验；为用户提供在线技术支持、远程支持、现场支持和排障等技术服务；处理关于用户投诉、解决疑难问题﹑产品系统升级和系统维护等能力；有效地进行问题收集、整理、归档和内部反馈等。为客户及时准确提供全方位服务，帮助客户排出故障解决问题，有效地满足客户的需求。\n\n市场营销：公司拥有资深的销售队伍，具有通信行业工作背景与独特的资源优势，销售渠道通畅；掌握相关技术与销售策略；与客户进行有效沟通与产品技术经验交流；有实力应对激烈的市场竞争，在竞争中求生存求发展。\n\n经营理念: 以人为本，顾客至上；关心员工，尊重他人。\n\n立足本职，科学创新；携手奋斗，分享成功。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1724236239701,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "永鼎致远",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

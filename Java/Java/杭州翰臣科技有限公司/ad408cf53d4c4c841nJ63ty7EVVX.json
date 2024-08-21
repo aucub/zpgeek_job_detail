@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gqJOuCIdKmd82-b1udLZx92IojGMEMfE9Y2dtEVcQ0Kcd4YZikur_HiwUc1weLEy3cCqUlXHjvrjfD6Z4V15hlC8dQXuWXN88zLfQ1njHjzNaaTe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad408cf53d4c4c841nJ63ty7EVVX",
+      "encryptUserId": "dfb480fe6bffcd2f03Vz3di9F1Y~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练掌握Spring、Mybatis等开源框架；\n2.熟练掌握Oracle、Mysql数据库，有良好的sql能力，并熟悉Mysql或Oracle性能优化。熟悉MongoDB，Redis，Memcache等NoSql产品者优先；\n3.了解jvm运行机制和原理。熟悉spring cloud、dubbo等微服务框架中一种。\n4、了解Tomcat、Weblogic、Nginx等应用服务器的使用；\n5.熟悉分布式、缓存、消息、搜索、数据分析等工作机制；\n6.熟悉消息队列ActiveMQ、RabbitMQ、RocketMQ、Kafka其中一种\n7.熟悉软件工程和数据库理论，深入理解UML和设计模式，对统一软件开发过程有深入的了解， \n8.对缺陷跟踪和管理工具有一定的经验；\n9.具有出色的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题\n10.有丰富Java编程、设计经验,具有多线程、分布式、高并发、高负载、高可用性、系统调优经验者优先；",
+      "encryptAddressId": "54beddffb1560b5633Jz2dW9EQ~~",
+      "address": "杭州西湖区杭州翰臣科技有限公司507",
+      "longitude": 120.066507,
+      "latitude": 30.290321,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71267b4075efbf8fa3c04a666ed1c593",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/220f2f70a19116b7d151ed5986ed235e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "MySQL",
+        "Oracle",
+        "多线程",
+        "分布式技术",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180705/3e8f33004859c54e3a876a8c57a8f0489b9b2c5ba9d1e68f28d083b3818_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州翰臣科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c143d2df78ff50a93nVy3N-7",
+      "brandName": "杭州翰臣科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180712/7dc715e308cf847e8df2414c579e8d2b9b9b2c5ba9d1e68f28d083b38189f963.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "翰臣简介\n翰臣成立于2009年，是中国独树一帜的用“品牌塑造思想”\n为企业提供：网站建设、政务软件开发、APP/小程序与功能型平台开发、\n电商及插画设计、多媒体制作、Logo/平面设计、网络营销策划等全案服务，\n帮助企业及组织成功走AIOT（人工智能+产业互联网）时代。\n公司网址：www.68team.com/",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721657575177,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州翰臣科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

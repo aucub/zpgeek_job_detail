@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SIAlP6Bu4yCcm-U1aGSrbOlxcPlsXyoyB-GvS8K0jZtLm5yAd4p1s7ifmVE2znPBLZzr88mkuzW4ZaemynC4V6hdiA2JY6qsoaPNgWZPAe3FZTkZEmU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "81f286dccb4673441nZ83Nq7E1FT",
+      "encryptUserId": "ec848bffc908b9481nd409q9GFE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解\n熟悉dubbo、rocketmq、redis集群\n做过数字货币交易所的优先",
+      "encryptAddressId": "582238d2d839711203V52dq0F1Y~",
+      "address": "杭州余杭区英国中心写字楼3202",
+      "longitude": 120.003462,
+      "latitude": 30.280261,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdf2ed204390de3a9fb8c707ed31f2a7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9373b0773e82ce2e6d454d9ed02e67fa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "分布式技术",
+        "微服务架构",
+        "消息队列",
+        "Socket技术",
+        "SpringBoot",
+        "Dubbo",
+        "Netty"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "本阁",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "34a08ba6850820b81nB-3N69FFs~",
+      "brandName": "本阁",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210312/6c4d0b278bc04c264b0eeb44d6a30decd6049778736a6f21c4ab4520f29fbe28.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "杭州本阁文化传媒有限公司主要是做计算机软件，IT类前端开发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721657588364,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "本阁",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

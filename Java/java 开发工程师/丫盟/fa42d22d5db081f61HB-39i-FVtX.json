@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "f0jz-q-rugzWK-w1G5No5eyPxhjf90apRv4-kxaUoLkMyBhGTmUJhcxLmV_-fXa9SgqG3V-lxhFxxx3D7OrcFu8jKJhJkwTP1zXCSHwtAgdUBOBZ3mYE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa42d22d5db081f61HB-39i-FVtX",
+      "encryptUserId": "f6a04bcebe2466990XB73d24EFJW",
+      "invalidStatus": false,
+      "jobName": "java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-18K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "【 职位描述】\n1. 负责公司业务平台的详细设计、开发工作，包括参与需求分析、数据库结构设计、核心代码开发； \n2. 维护和完善平台系统，快速定位并修复相关缺陷，及时解决出现的问题； \n3. 解决关键的技术问题，保证系统的稳定。 \n职位要求：\n1.计算机或相关专业大专以上学历，1-3年及以上工作经验；\n2.java基础扎实，熟悉jvm性能调优、线程处理、设计模式、熟悉java编码规范； \n4.熟悉spring boot, spring cloud, mybatis等主流开源应用框架，精通对spring的原理; \n5.熟悉mysql数据库开发,具备数据库调优能力; \n6.熟悉Maven的使用，理解Maven的原理与使用技巧、熟练用Git进行代码版本控制；\n7.熟悉WEB前端技术和常用的前端框架，如JQuery、Bootstrap、Vue等；（加分项）\n8.有独立开发项目和需求设计的能力，能独立设计数据库表结构、接口文档；\n任职要求: \n1.责任心强，做事有头有尾，有良好的团队意识，安排的任务事事有反馈，学习态度端正、有求学欲、性格积极向上！",
+      "encryptAddressId": "f5ae44678f6396940XB83Ni5ElpUxI-8Wf4~",
+      "address": "上海虹口区上海星荟中心3楼",
+      "longitude": 121.486577,
+      "latitude": 31.24615,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ee5dea66dc5ffbe7f76e5c42c31f3e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4b3311fc18ec6f7225c89fd0031dc82",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Golang",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "SQL Server",
+        "架构设计经验",
+        "搜索/推荐/广告经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240311/607f1f3d68754fd071a2b9e86c2e9d07ae87bd2bf8bdebc7e2978a633886ed9fcb31ac1fe37918c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "丫盟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6da1448dc2f6df741Hd-2tu5FFM~",
+      "brandName": "丫盟",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "绩效奖金",
+        "带薪年假",
+        "员工旅游",
+        "团建聚餐",
+        "节日福利",
+        "生日福利"
+      ],
+      "activeTime": 1724148180483,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "丫盟",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

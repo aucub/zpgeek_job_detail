@@ -1,0 +1,116 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8QA5xx5yKzwEd-N1NDrXyPWzE7UlkU5l3y9UACETY3I6DvUxWkosBd24B9CEop-HrzaKSGAoa5x3nO-HkEkiXMMg89xWDhBj1hpO3JbD5aeO-LmU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "67de5400349a4e0a1XRz2dW7GFdW",
+      "encryptUserId": "7d78f92cc329841c1nJ_3N-0GA~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与系统的需求分析、以及软件相关设计等工作；\n2、按照设计要求，完成编码，调试，测试和维护；\n3、分析并解决软件开发过程中的问题；\n4、按照规范完成系统的核心模块代码的编写，并进行单元测试；\n5、对一些重点、难点的问题进行攻关。\n\n任职要求\n1、本科及以上学历，计算机相关专业，具备3年及以上Java开发经验；\n2、熟悉MVC设计模式、熟练使用Spring Boot ，Spring Cloud微服务架构，了解SpringBoot Data JPA、MyBatis；\n3、熟悉Mysql、PostgreSQL、NoSql等数据库的应用；\n4、熟悉互联网IT技术开发流程，熟悉Git等工具；\n5、有较强的学习能力，具备良好的沟通协调能力和团队合作精神；\n6、有开源框架和开源代码贡献者优先。",
+      "encryptAddressId": "5d15b5634d00171e0XN-3tW7E1I~",
+      "address": "上海普陀区浙铁绿城·长风中心2期南区9号楼3楼",
+      "longitude": 121.388794,
+      "latitude": 31.226278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ceac549bd62189ea80fdb509b08fc269",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f6bfd4a4e871192b1f1fe3c6b04e1ee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "GIT",
+        "分布式系统开发经验",
+        "MySQL",
+        "SpringCloud",
+        "Redis",
+        "SpringMVC",
+        "SpringBoot",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梅女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210608/9653efac7dd2154a062070fd0fc6bdc2023fa4a829b2282c7dcc176de05_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "心科(上海)网络...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "772bed81a5bf435003B909m9Fg~~",
+      "brandName": "心科(上海)网络...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190611/8a38c28c2b804e722ded947bda44ce5d53b0b7651acaeac59c04282f7cf30e50_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "心科(上海)网络科技有限公司（简称“心科”），总部位于上海市普陀区，以互联网+应用和数据驱动创新的互联网平台战略,提供智慧商业、智慧城市的研发及运营服务。\n\n在商业领域，服务的生态企业涉及有盒马、小米等；服务的品牌互联网+企业涉及有李宁、亚细亚等；在城市领域，与上海、安顺等多个城市达成战略合作。\n\n心科已与复旦大学智慧城市研究中心达成战略合作，同时也是蚂蚁金服的合作服务商，致力于建立产学研一体化及互联网生态合作共享机制，践行科技让商业更智慧，智慧让城市更美好的愿景，为实现未来城市各领域数字化运营与智能化发展贡献力量。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "生日福利"
+      ],
+      "activeTime": 1724233377000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "心科(上海)网络...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

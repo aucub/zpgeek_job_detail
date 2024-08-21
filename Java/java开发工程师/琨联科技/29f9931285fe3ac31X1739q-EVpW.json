@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O4SQcS1KPjAUy-z1wdS22jcU2p_5fsyB6gfs9UZ5Lf8q7djgWcvo0WPzMYgXHHsRqfbmP-C209e6Y2yEvP8oqOq7LA3yLpn2QiTszO9pW74nuBz1_ana",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "29f9931285fe3ac31X1739q-EVpW",
+      "encryptUserId": "bf72dcf95cd308850nF73Nq-ElJW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-17K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.能够独立完成分配的任务；\n2.按照编码规范编写代码并对编码进行测试；\n3.负责解决开发过程中的技术问题，积极配合其他同事完成系统的联调和测试工作；\n4.完成核心业务代码开发，保证项目进度及项目质量的可控性\n\n任职要求：\n1.计算机相关专业优先，本科及以上学历，编程基础扎实，3年以上JAVA开发经验；\n2.熟练使用J2EE相关开源框架进行开发，如Springboot、MyBaits等；\n3.有较好的sql基础，熟练使用oracle\\postgresql\\mysql等常用关系性数据库，并有一定sql性能调优经验。\n4.熟练掌握redis，rabbitMQ，Kafka等中间件的使用。\n5.熟练使用Eclipse、IntelliJ IDEA等开发工具，熟练使用Linux操作系统，熟悉使用常用的Linux命令，能够编写shell脚本，熟练使用git版本控制工具；\n6.具有阅读相关技术需求文档能力，具备一定的软件设计能力和文档编写能力；\n7.具有很好的团队合作精神，有较强的学习能力和适应能力，能承受工作压力。",
+      "encryptAddressId": "ed133e76c5ea4e1f0XJ92N65E1s~",
+      "address": "上海青浦区LM虹桥世界中心L3-A幢3楼",
+      "longitude": 121.304576,
+      "latitude": 31.184073,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ff3948d828c9a6d8b238efc88dc31ec",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/963915f6d4c5a3fb36aae388ed3b08bd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "琨联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "42c2c0628e35c59a1XZ63dW8GFs~",
+      "brandName": "琨联科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230801/7bf6f160950405e9dc3f5d12e79f93a20988a03730177b4837225667633c131efccbd21fc0735fab.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "是国内全新一代 智能空间技术（Smart Spaces Technology）的引领企业。公司以自研的琨泰KunTech数字智能空间平台为基础，融合大数据、人工智能、虚拟仿真/增强现实、数字孪生、地理信息和泛感知等信息技术，打造行业领先的公司产品，全力赋能政企数字化。",
+      "labels": [
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724221002880,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "琨联科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

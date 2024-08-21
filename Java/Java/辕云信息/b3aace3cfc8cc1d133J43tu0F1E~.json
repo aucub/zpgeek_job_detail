@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N1Lkulic5zXty-W1yhSLNS_nX_MDXiAFCFJ8Q16tOmuMwEDfcXOHI1x5bTan2VuTlgHAd8Pa6YyHOtgKNpDnQRAeg6onogSfsc83amvqrjBkPxej",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b3aace3cfc8cc1d133J43tu0F1E~",
+      "encryptUserId": "9f706ff98eace9991XJ63dm-F1o~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "金融类客户驻场服务工程师\n任职要求：1.计算机相关专业，本科或以上学历，2年以上java项目开发经验；2.熟练使用java、熟悉shell； 3.精通Java开发语言，熟练多线程编程；4.熟悉MySQL、Oracle等主流数据库，熟练使用 MQ，Redis，熟练使用 MySQL，对数据库有较强的设计能力；5.熟悉Tomcat、Redis、Kafka、Jetty、Jboss、Nginx等常见服务或组件；6.熟悉Linux/Centos操作系统的基本操作，能够独立搭建Grafana等常见开源工具；7.熟练使用SVN、GIT等代码版本控制工具；8.具有较强的分析能力，动手能力以及语言表达能力；9.具有良好的沟通能力，团队合作和职业稳定性，工作积极主动，服从安排，能承受较大压力，具有责任心和较强的学习能力；",
+      "encryptAddressId": "03fd5140f79441ad1HZ62Nq9F1c~",
+      "address": "上海长宁区太平洋中心",
+      "longitude": 121.432463,
+      "latitude": 31.21493,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc32d3b93a70b4468ccb126b9b127af4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/684d9e316bde6c3f05364cca1da8e663",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "GIT",
+        "SVN",
+        "Java",
+        "MySQL",
+        "Oracle",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "倪先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "辕云信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b387413d454ec6ef3nZ50tq7Eg~~",
+      "brandName": "辕云信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664747209,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辕云信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

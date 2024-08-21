@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vZqBNALEj36MG-U11slg3oorvQv2cCVlCSWeFQxFlnKcfiEemB6qS3IjfFkYKPUiM5tkbTCTJKbW6HvVQ-tLC-0052bqn6YTepvSPYCtCSQ4eLk-8EM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0184232ca7c02b781nx-29y-GVpU",
+      "encryptUserId": "6bc1e0eaa76cf37d0nJz396_EVU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1.参与公司软件系统和项目的需求调研，与客户沟通完成需求收集、需求整理和用户需求分析等工作；\n2.根据平台总体架构和技术方案，负责软件系统后端的详细设计、编码实现，配合测试完成BUG修复，参与系统部署及日常运维等工作；\n3.有能力独立解决开发中遇到的难点问题；\n4.完成上级交办的其他工作。 \n岗位要求：\n1.本科相关专业及以上学历，2年及以上java开发经验。\n2.熟悉J2EE相关技术，熟悉Spring、SpringMVC、MyBatis等开源框架；了解高并发开发架构，有Java的Socket通信编程经验，了解Java的线程同步、异步技术，了解进程共享MQ、管道、共享内存等相关技术；\n3.熟悉数据库技术，数据mysql、SQLServer、Oracle、DB2等数据库，熟练使用sql、存储过程等；了解Redis、Memcache等缓存技术；\n4.了解Linux操作系统技术，有Tomcat、Ngnix等环境配置经验，能较熟练使用Linux命令和shell脚本；\n5.有强烈的责任心，抗压能力以及团队合作精神；有技术热情，较强的团队沟通和协作能力和自我驱动能力。\n薪资面谈",
+      "encryptAddressId": "b448f06c830613f003Nz09W7E1s~",
+      "address": "杭州西湖区浙江发展大厦10楼",
+      "longitude": 120.14953,
+      "latitude": 30.278594,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f58eaecc3da64cdb5d91a8d310edd77e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a09466a92a06bcefa9189e4bb95906f6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "服务器配置",
+        "Socket技术",
+        "Linux",
+        "MySQL",
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "综合管理部",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "数据管理公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "601a3a027bc2f0321nxz29S6FVU~",
+      "brandName": "数据管理公司",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "浙江省数据管理有限公司，为杭钢集团下的全资子公司，省属国企。本公司主要经营云计算中心，云服务，能源和智慧城市解决方案。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721881685000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数据管理公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

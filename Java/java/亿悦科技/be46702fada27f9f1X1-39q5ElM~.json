@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8vYGSj2szNFZe-_16XrBo1PoU8JmDaxo0-Xy_IUrn-HZKRTCabGXWwxIYfGrCHjfVtEWT1GIL1B6u92pxqkWLmUoMV7b0Dn9uvZWVVG8CNUgfGkY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "be46702fada27f9f1X1-39q5ElM~",
+      "encryptUserId": "521a6b9a841ac68b1XRz0960Elo~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n岗位职责：\n1、协助项目经理进行需求分析、系统设计、制定技术解决方案；\n2、负责java后台功能模块设计、开发、测试工作；\n3、优化现有服务模块，精简业务流程，解决项目线上问题\n \n任职要求：\n1、2年以上相关工作经验；本科及以上学历，计算机软件相关专业；\n2、能熟练的进行项目设计，开发，调试\n3、熟练掌握java语言开发，熟悉JEE常用技术和框架（如spring，springboot,mybatis框架等）\n4、熟悉大容量、高性能的数据库系统的应用开发，对各种开源的软件有深入的了解，有1年以上的大规模高并发访问的Web应用开发经验\n5、熟悉常用开源软件（如Nginx、Jetty、ActiveMQ、Kafka、Redis，RabbitMQ, Memcached等）的使用和调优；\n6 、能够对所负责业务的架构理解清晰，包括故障风险点、性能瓶颈点等\n7、熟悉企业应用设计模式、面向对象的分析和设计技术，包括设计模式、UML建模等。",
+      "encryptAddressId": "92caea7c911527221XB839S-EFY~",
+      "address": "杭州四季广场",
+      "longitude": 120.3368,
+      "latitude": 30.3205,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d486d3e644893abe5fce58b36dfd762d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/130127dbce4b91bceedd94937d88fd8d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201013/46420ddf12a488782743934de2c8b382a35aeacfcf3db3354f030cbc2d5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "亿悦科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1924559c331e6e0b1nJz29u6Ew~~",
+      "brandName": "亿悦科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191204/0230bc2110501ba612d72683e2c0f608a35aeacfcf3db3354f030cbc2d5d23fc.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721657599914,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿悦科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

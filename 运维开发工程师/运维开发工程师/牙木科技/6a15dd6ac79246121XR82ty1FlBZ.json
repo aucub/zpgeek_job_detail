@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eTgACqYTDpLeK-V1e-i5zSEcMfRMcd1RnkHiwm0XXIIKPKIpIXhotpEyDd4YuzXQkWdgHSBqB_xSXDhE1PJ9Ne_8K7Myq-27MsE5Tn8qhWoLRjKwqX0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6a15dd6ac79246121XR82ty1FlBZ",
+      "encryptUserId": "cead6c43dd7715000nNy2Nq6FlY~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1. 负责产品的运维管理和系统监控开发；\n2. 负责 CI/CD 的流程管理；\n3. 负责 SaaS 产品和本地交付项目的架构设计及部署实现；\n\n任职要求：\n1. 本科或以上学历，计算机相关专业，3年以上相关工作经验；\n2. 熟练使用 Golang/Python/Java/C++ 中的至少一门编程语言；\n3. 熟悉常见的自动化部署工具，如 Ansible/Salt/Puppet 等；\n4. 熟悉常见的 CI/CD 流程及相关工具；\n5. 熟悉 Docker/Kubernetes 的使用及相关知识；\n6. 良好的分析及解决问题的能力，良好的团队合作精神。\n\n加分项：\n1. 熟悉网络安全知识；\n2. 了解 GitOps/DevSecOps 等概念；",
+      "encryptAddressId": "116afb2131b4bea003x_3tm1F1M~",
+      "address": "上海徐汇区牙木科技股份有限公司4楼",
+      "longitude": 121.407909,
+      "latitude": 31.17001,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00e74abda5dd016f73e35b4ea0915244",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8bb4b793061c3410e3bdc5c533775fb9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "容器技术",
+        "自动化运维",
+        "Ansible",
+        "Docker",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "顾先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "牙木科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bbe880907d0a6e901nN-09S1FlQ~",
+      "brandName": "牙木科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210616/eca25ad5b6ea9a8a1b5e5383196fbe05de071177d62292da55c95cc997d7e906.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "牙木专注于DDI领域18年，是国内早期自主研发实现DNS相关标准协议的公司之一，推出DNS（域名管理）、DHCP（网络地址分配）及IPAM（地址可视化管理）一体化的DDI解决方案，以及YamuCloud牙木服务网络、HyperHandle工业互联网标识服务网络、WavePoint DNS-NG下一代DNS大数据分析系统、SmartDial智能拨测调试系统、PrivateDNS专属DNS服务系统、SmartNFV服务系统等产品解决方案，帮助企业提升用户体验和访问安全，加速业务创新。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶",
+        "免费班车",
+        "意外险"
+      ],
+      "activeTime": 1721656955757,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "牙木科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

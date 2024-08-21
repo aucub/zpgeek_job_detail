@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aAErTUYCL0D8q-u1PYMTgcq4orG2Qa3WXnxhYcWPh1l1I5fawYVfWX4Fv9QMPhtgmxvF4l1woNpp-Mh7aRsJbYp4zkRT58rgxnHmdiZyd1OFKml7xwoj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2af8e89aaed9e6db1nR70ty9EFNS",
+      "encryptUserId": "c94d84f4ab978b2a0nR43ty4FFpX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、对项目需求进行分析、系统设计；\n2、参与代码设计、编写、审核\n3、负责根据详细设计文档进行数据结构、框架、组件和程序等的组织和开发工作；\n4、参与解决项目中的技术难点和技术预研工作；\n5 有扎实的Java基础，精通Java的核心语法，熟练掌握并使用常用的设计模式；\n6.熟练掌握Spring、SpringMVC、Mybatis、SpringBoot等技术进行开发工作；\n7。熟练掌握Oracle、MySQL、SQLServer等常用关系数据库的使用；",
+      "encryptAddressId": "53c53e27c23b55a01HF_3Ny0E1Q~",
+      "address": "上海浦东新区仁和大厦13层161室",
+      "longitude": 121.549776,
+      "latitude": 31.248448,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8683c9d97a7fe85dfee1c71c4f1b9e3d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/721a70d6f07ef78ccd4d012684dd047f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200925/917c868cb3bb4db42e5be903ea671510d74fda54d9cad2fb748a4898a64_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "拓弘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "91fe564d3b3b8edf1nZ63d25EVc~",
+      "brandName": "拓弘",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664761968,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拓弘",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

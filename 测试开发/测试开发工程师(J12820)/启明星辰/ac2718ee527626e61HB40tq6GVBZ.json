@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7ccZKprHzHip9-Z1o_R05wJuAwjVcgMSYaNjQBVAZLWeWBciVvZuIkYrJ3dAZc2n3p91cgCenRVD5TmrmAzS3KOsgvpO7NH4c9huqMnV4aiDGszwEw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ac2718ee527626e61HB40tq6GVBZ",
+      "encryptUserId": "39dc5344c0996d0b1nVz2dy_GVdS",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师(J12820)",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-18K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1.参与产品生命周期内相关软硬件质量问题的分析、定位、跟踪测试过程中发现的问题\n2.对测试策略和质量体系建设有一定的思考，具备较强的执行力和推动力；\n3.有较好的分析解决问题能力、学习能力、抗压能力、沟通能力和团队协作能力\n4.负责对应业务的质量基建，包括功能测试，自动化、稳定性等，解决可测性问题及保障系统稳定性；\n5.参与部门测试工具和自动化框架的开发与维护；\n任职资格:\n1.熟练使用 charles、wireshark 等抓包工具，\n2.熟悉数据库、linux 配置、网络配置、Shell 使用、常用中间件等性能知识；\n3.熟悉接口测试、自动化测试经验和开源测试工具二次开发，如 pytest、locust 等，有测试平台开发经验优先。\n4.至少掌握 Python/Go/Java 等至少一门编程或脚本语言，有项目测试框架/工具/平台开发实践经验",
+      "encryptAddressId": "24bbf14f8985a4571nR_3di_GVpT",
+      "address": "上海徐汇区启明星辰研发楼1",
+      "longitude": 121.395809,
+      "latitude": 31.162314,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bf194ecd7b9a22de7e14f3af660de5c8b76bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230627/48ba41acc9cef1bfa9f60a5b872fc517ca5b0dedbda88abb6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "自动化测试",
+        "测试工作经验",
+        "自动化测试经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "翟女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220908/607f1f3d68754fd0a3cbfb5859ae42dbbb470e4fa099de10910aca07b3c67b0dd2df0c336d3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "启明星辰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abb849f82bf302781nV80tq5",
+      "brandName": "启明星辰",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20191130/4bdfb334e5075b71883e8f186cdb345dbe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "启明星辰信息技术集团股份有限公司成立于1996年，由留美博士严望佳女士创建，是国内具备超强实力的、拥有完全自主知识产权的网络安全产品、可信安全管理平台、安全服务与解决方案的综合提供商。2010年6月23日，启明星辰在深交所中小板正式挂牌上市。目前，启明星辰已对网御星云、杭州合众、书生电子进行了全资收购，旗下投资参股公司达到30多家。自此，集团成功实现了对网络安全、数据安全、应用业务安全等多领域的覆盖，并为打造一个可控的安全生态体系不断努力。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724237666485,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启明星辰",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

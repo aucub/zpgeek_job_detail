@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wj5caxdeVC6j2-w1eekRjyUyx_KN0qq4J5kLrdZG0ER3FNP_bx9ELJjKZjiyus8rZUwojXT5yxUMK9RXVyXzfGma3qd0nYAcMBYyv-Kr2ABKt6HvoojI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5330a9dd93655bad1Hd439-7GFZX",
+      "encryptUserId": "c331c5d489a6f6490nFz2t-8EVVX",
+      "invalidStatus": false,
+      "jobName": "工控软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 学习并使用现有的AGV调度管理系统，能熟练使用。\n2. 依据项目方案要求进行调度系统脚本编写并实现多机联调。\n3. 分析和处理解决AGV调度软件的异常及故障，问题反馈，将发现的问题形成工作报告记录并反馈给工程部经理。\n4. 协助进行对AGV机器人的路径规划、调度、监控等上位机软件系统的开发及算法开发工作，负责多AGV路径规划算法、交通管制算法的研究和开发，并完成相关算法的仿真测试、编程实现并测试改进相关软件。\n\n任职要求：\n● 全日制本科以上学历，自动化、计算机科学、软件工程、电子信息工程等相关专业毕业。\n● 熟练掌握至少一门面向对象编程语言：C++/C#/Java ，具备多线程程序开发经验。熟练应用SQL Server、MYSQL等数据库的开发。\n● 掌握TCP socket通讯发开发，具备TCP服务器端程序开发能力。熟悉Modbus TCP等工业协议通讯原理，可以独立开发相关通讯模块。\n● 有AGV/AMR调度系统算法设计和程序开发经验，深刻理解AGV单机和调度系统协同工作原理。熟悉AGV调度系统任务管理和车辆管理流程。掌握运输任务生命周期管理、路径规划、路径锁闭与释放、死锁预测等基本算法，能够独立开发完成相关功能模块。\n● 具备调度系统实际交付经验，熟悉厂内物流系统及AGV/AMR使用场景，具备AGV项目行车路径布局设计和优化能力。\n● 能依据项目需求适应出差及加班，完成项目交付。",
+      "encryptAddressId": "27adb392fe9e59290HV429S0FFE~",
+      "address": "上海嘉定区嘉乐园商务大厦1512室",
+      "longitude": 121.239759,
+      "latitude": 31.386092,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28e641736b9478b0fc6c04dab9ce6562",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33ce1e9b7dc112432a299346e60d689f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "人力资源部总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220907/607f1f3d68754fd05bd154aab1e317e6728e923ba28f36f91facd4f4b67915a215352bf73fc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "脉艇科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f444fdb35142075e1XZz3tm7FlE~",
+      "brandName": "脉艇科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "服务于自动化科技领域，年轻有活力。",
+      "labels": [],
+      "activeTime": 1721665451266,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "脉艇科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

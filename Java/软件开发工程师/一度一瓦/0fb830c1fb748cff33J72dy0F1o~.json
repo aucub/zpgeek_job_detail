@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KPvPvNKL8zGTm-w10IfUu0U7CC--GOvwSxH4pv7wYGFE5PLjH51RcdZifQa9WsukoiRhc27gv-4IXKMumRVgSsinG7B2PbjCILGCbLCTakF687FoQg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0fb830c1fb748cff33J72dy0F1o~",
+      "encryptUserId": "8217c421eba3b2911nV5096_ElNY",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "主要职责：\n参与公司物联网云平台开发测试和维护，具体有\n-    参与需求分析、概要设计、数据库设计等\n-    根据开发规范与流程完成模块设计、代码开发、单元测试、功能测试及相关文档\n-    参与系统交付、质量保证，对项目实施提供支持\n-    参与方案讨论和技术调研、负责方案升级、更新。\n  \n职位要求：\n1.  具有Java编程基础，欢迎应届毕业生应聘，\n2.  熟练使用spring、hibernate等开源框架，了解其运作原理。\n3.  有web前端开发经验，对jquery,css,html,jstl,freemark等技术有一定的了解。\n4.  熟悉应用服务器软件及相关产品，如Tomcat、Jboss等。\n5.  熟练使用Redis等缓存框架。\n6.  熟悉 Linux 操作系统及 Linux 环境编程。\n7.  熟悉分布式系统的设计和应用。\n8.  熟悉MySQL，熟练使用SQL，能够进行基本的sql优化。\n9.  熟悉微服务和消息中间件。\n10. 具备独立解决问题的能力，具有较强的工作主动性，能够与团队成员进行有效的沟通与合作。\n11. 良好的编码风格和测试习惯。\n12. 富有激情和创造力, 学习能力强。",
+      "encryptAddressId": "58df75ffca056e661HV-2N-0FVQ~",
+      "address": "上海长宁区凌空SOHO",
+      "longitude": 121.352,
+      "latitude": 31.221969,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f05c9652e6b79740b37b387008a17e7b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64213a0aa0fb43c3170615efa7700b28",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "云计算",
+        "物联网",
+        "软件工程师",
+        "架构师",
+        "系统集成工程师",
+        "大数据",
+        "人工智能",
+        "IT服务"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "一度一瓦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "59a506cebe6e9f2533170tu4Fw~~",
+      "brandName": "一度一瓦",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721666077827,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一度一瓦",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

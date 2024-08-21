@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CxVrBKM95S8GE-w1akH0hk1kWjpDMZQfjvWIQw93GrUPAMCOGiy_G7xi55Wag87tEN_qONzSXmu-VI8za2Yb7zoMSR17sInjeNEKus67b07vYGxymC0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4facaf21c2912fc11XF52tS9FldU",
+      "encryptUserId": "588847879234c2ff0X140ty9GVI~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1.负责并参与web或app产品的全流程测试，包括需求分析、设计评审、测试设计与执行；\n2.独立完成项目测试工作，构建测试环境、维护测试数据，进行测试设计，并执行测试用例；\n3.与开发经理、产品经理等项目组成员进行积极有效的沟通，推动问题解决；\n4.研究解决测试解决方案，优化测试方法，改进测试流程；\n5.设计、编写、执行自动化测试，在必要的时候进行性能、安全等专项测试。\n任职要求\n1.有一定的软件测试经验（后端服务、web、APP、H5、小程序等）\n2.熟练掌握需求分析、测试设计等测试流程，能够熟练编写测试用例，分析测试结果，有一定的定位bug的能力，有自动化测试经验，能独立编写和维护接口自动化测试脚本。\n3.具备linux、mysql、docker等基本技术能力，具备各种测试环境搭建和维护的能力\n4.熟练掌握一门主流软件开发语言，java/python等\n5.对数据库（如Mysql以及nosql类型数据库）、缓存、任务队列等第三方服务有一定的了解\n6.有较强的逻辑分析能力和学习能力，拥有较好的沟通技巧及团队合作精神\n7.抗压能力强，能胜任项目推动类工作，适应高强度，快节奏的工作环境",
+      "encryptAddressId": "8bbea49f94ecfe550XN739u5EFA~",
+      "address": "杭州滨江区浙江农资大厦2006室",
+      "longitude": 120.209201,
+      "latitude": 30.209103,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be3210ced436b09a6edb490486fb4308",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbdccd25fd6ef7caf77894a13c94f444",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "来先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "麦子智创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1779780d89b7d70e1XV83dS0EVI~",
+      "brandName": "麦子智创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "麦子医疗科技是一家经营医疗器械为主体的贸易公司，成立于2010年，原公司为上海熙冉，2018年变更浙江麦子医疗科技有限公司，公司主营骨科产品，代理产品有：康辉、双羊、邦美、捷迈、康盛、史赛克等进口产品。\n公司主旨为消费者提供品质可靠，价格更优，安全性更高的产品。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "法定节假日三薪",
+        "节假日加班费",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721658762095,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "麦子智创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

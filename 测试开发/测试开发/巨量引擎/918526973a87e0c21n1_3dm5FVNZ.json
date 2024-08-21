@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7ewZkOXEQmO18-y1CDuykiEmSHV5fd8cEVHGVBK6Dex7PLEN7fUk6EyGPmpnx0XZqogDHQnffcUSTyclaRWvkGquA0jP3H-zCqxcPEZrZMOH68KI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "918526973a87e0c21n1_3dm5FVNZ",
+      "encryptUserId": "54e904171a99d1ff0nV73d68EQ~~",
+      "invalidStatus": false,
+      "jobName": "测试开发",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "测试开发工程师- 抖音电商物流中台\n杭州·社招·正式·职位 ID：LX3P\n职位描述\n1、 承担字节跳动电商物流中台的质量保障工作，包含需求分析，风险评估，用例执行，问题定位等质量保障工作；\n2、推动项目按时按质上线，识别风险，有效沟通推动问题及时合理的解决；\n3、构建线下和线上的立体化的质量保障工作，包括复杂链路的全链路联调，白盒测试、兼容性测试、容错性测试、资损防控，全链路压测，线上问题分析闭环等；\n4、基于业务痛点开发测试工具，自动化测试框架等提升测试的效率和覆盖度。\n职位要求\n1、计算机软件等相关专业本科及以上学历，学习能力强，具备良好的问题分析和解决能力；\n2、具备较强的业务分析能力，沟通表达和综合协调能力，构建质量保障体系的能力；\n3、掌握各种软件测试技术、方法，如功能测试、性能测试、安全性、可靠性、资损防控等. 有通过复用或者自建工具提升测试效率和覆盖度经验；\n4、熟悉中间件技术，有大流量高并发系统的测试经验者优先；\n5、熟悉至少一种开发语言（PHP/GO/JAVA优先）。\n6、有物流、电商中台相关经验者优先。",
+      "encryptAddressId": "627c0a732b4dbc541XZz2N2_GVs~",
+      "address": "杭州余杭区爱力中心(A座)11楼",
+      "longitude": 119.995048,
+      "latitude": 30.2816,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aaa44419a787b91b7e2c5a8b1cc306ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8c7971a2a1691475630ecfe2c8c0aa7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "接口测试",
+        "接口自动化测试",
+        "系统测试",
+        "Golang",
+        "SQL",
+        "Shell",
+        "MacOS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "测试开发专家",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=6d92ba11c160a0e8jzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoHNxegihivd0o6Io9G1TvmbI0ZOr3cpBU4u-6WjotY19Vp3AM9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "巨量引擎",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b2721875c5df053e0XJ72Nm-Fw~~",
+      "brandName": "巨量引擎",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721659009846,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "巨量引擎",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

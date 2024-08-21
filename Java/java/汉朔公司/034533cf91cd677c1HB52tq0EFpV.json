@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pWCAurVyR7Trt-B1g5ZzDYukb03NFBUgW_Lj0AhSrIqtxh3m3Qh4R-PRk7ekeO2DdjWst8jb7YYBSLueOapNfOdzJn62OviegNPv0DLemiBSa4S4Ios~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "034533cf91cd677c1HB52tq0EFpV",
+      "encryptUserId": "db467e12b5248f360XB42dy8EVFQ",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司项目产品的设计与研发\n2、参与日常需求讨论与技术实现\n3、同研发经理制定相应开发计划,进行工作安排\n4、日常线上系统问题的及时处理与解决\n任职要求：\n1、本科及以上学历，计算机、软件工程或相关专业\n2、3年以上JAVA语言编程经验；熟悉JAVA语言特性，如GC、多线程、常用数据结构等\n3、熟悉Spring Boot、Spring Cloud、Mybatis等常用框架\n4、熟悉微服务架构及相关组件，如：Nacos、Apollo、Euraka、Gateway、dubbo等\n5、熟悉SQL语言，能够合理的进行SQL优化\n6、熟悉常用的中间件，如Mysql、RocketMQ、ES等\n7、具有一定的独立设计或建模能力,良好的问题解决和分析能力\n8、有金融,保险,商城相关经验者优先",
+      "encryptAddressId": "d8f56f65631921d10XJ52dW6EVdYxIq2UfM~",
+      "address": "上海浦东新区兴全基金管理有限公司28楼",
+      "longitude": 121.563431,
+      "latitude": 31.212512,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bfe99f6c4aa99fd0b38e4a6112933cb35f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bf076739af2c46ace56ac4a497652b5fd66bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "关先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240313/607f1f3d68754fd029bb51e06c7b913102a9640aebe1e376805400f2f9bd5bed3434ce1ebbe07d3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "汉朔公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a612937f95138a480nV_3tW0EQ~~",
+      "brandName": "汉朔公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190926/9dd5b660340ae59e74ffa6ce11e330e21aebc4f6ed16d6f3374bb119105720c8_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "上海汉朔信息科技有限公司创立于 2014 年，上海市软件行业协会会员，双软认证企业，ISO9001 认证企业。公司总部设立于上海，沈阳、北京、大连、福州、成都设有研发中心。汉朔科技致力于金融专业化技术服务、资管领域技术应用、交易平台、监察风控、清结算、行情、账户管理、大数据等领域取得了优秀的业绩，企业打响了“汉朔科技”的品牌，为数十家客户提供了高水准的咨询、产品、解决方案和服务，并结合公司定位和积累形成多项自主知识产权产品。公司秉承高端、专业、创新、共赢为公司价值观，定位于资产管理核心技术和商业创新，成为行业解决方案和专业化服务领跑者的金融科技公司。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724233849349,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汉朔公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

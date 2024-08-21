@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c7I5Z5sayCND7-a1PFTM9L-GK06ZKaVvbOFwFA2dNQMERHO1smwWSvFaiHSkIp07rT1x506aoYH_ISQ7m8jVQUC-p3VNC14yPu95gaTjSioTuxpfxjg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "33d5303344de28691nZ93NS1EFBW",
+      "encryptUserId": "ddbcb75239a527b20nFz0tW8FVA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述： 1. 深入挖掘和分析业务需求，撰写技术方案和系统设计，确保系统的架构质量； 2. 系统核心部分代码编写，疑难问题的解决； 3. 维护和升级现有软件产品和系统，快速定位并修复现有软件缺陷； 4. 能为团队引入创新的技术、创新的解决方案，用创新的思路解决问题，能对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件的优先。 岗位要求： 1. JAVA基础扎实，理解nio、多线程、集合等基础框架，对JVM原理有一定的了解； 2. 1年及以上使用JAVA开发的经验，对于你用过的开源框架，能了解到它的原理和机制；对SpringMVC,MyBatis,SpringBoot等开源框架熟悉； 3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题； 4. 掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验； 5. 掌握Linux 操作系统和大型数据库（Oracle、MySql）；对sql优化有丰富的经验； 6. 学习能力强，适应能力好；具备耐心/细心的品质； 7. 喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队。",
+      "encryptAddressId": "30856fa293f2c6da03V_0tm_EFc~",
+      "address": "杭州余杭区英国中心写字楼3202",
+      "longitude": 120.003462,
+      "latitude": 30.280261,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fdf2ed204390de3a9fb8c707ed31f2a7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9373b0773e82ce2e6d454d9ed02e67fa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "SpringBoot",
+        "MySQL",
+        "数据结构",
+        "后端开发",
+        "区块链",
+        "大数据"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220118/607f1f3d68754fd072dea95994930028adb5eb83407c006b311a60d11615a7d18daf2a6551c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "本阁",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "34a08ba6850820b81nB-3N69FFs~",
+      "brandName": "本阁",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210312/6c4d0b278bc04c264b0eeb44d6a30decd6049778736a6f21c4ab4520f29fbe28.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "杭州本阁文化传媒有限公司主要是做计算机软件，IT类前端开发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721657619766,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "本阁",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

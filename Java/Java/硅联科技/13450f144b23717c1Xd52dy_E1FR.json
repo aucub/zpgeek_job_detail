@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UoxZT9nSOeF9H-x1w__e8i93GI6qWqSmveLQdnnTMAuKrz-sd2GciSAkDZh33jPZVXWtvJhGBw4mgxrrA8Ap4ZmETCT4gR81sI0qteA-SUn3LQrQAwc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "13450f144b23717c1Xd52dy_E1FR",
+      "encryptUserId": "e4ef0844b4a41b101Hx-09S_GVQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、\t熟悉java/python/c#/c编程语言，也了解一些Go语言，了解一定的jvm；\r\n2、\t精通mvc框架、熟悉spring、spring boot、mybatis、redis、maven等开源框架或工具、熟悉spring cloud微服务框架、熟悉分布式、缓存、消息中间件等；\r\n3、\t熟悉mysql、oracle数据库开发、熟练使用sql语言；\r\n4、\t熟悉前端html、css、js、jquery、ajax；\r\n5、\t熟悉使用代码管理工具、熟悉docker能操作常用的docker命令；",
+      "encryptAddressId": "12a4da17b385fa990XB50t29E1o~",
+      "address": "杭州拱墅区万科·智谷401",
+      "longitude": 120.162856,
+      "latitude": 30.331683,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f77c8c4ee086ef008983f92edd2af009",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1835335ccb81c18a58865fb0fb099bd3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "微服务架构",
+        "软件工程师",
+        "后端开发",
+        "服务器端开发",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240703/607f1f3d68754fd011b2a083c3a90efc59b5f3aff8459ce51c7850da163dc3f332d1e50856feed8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "硅联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "353cebf9deee7c701XV83NS8EFQ~",
+      "brandName": "硅联科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721657586415,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "硅联科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

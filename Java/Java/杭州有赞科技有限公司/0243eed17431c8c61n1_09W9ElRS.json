@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5DiDmn2vZmCxo-G1_irhaoo1Zt8suvVcRKncQLE8iVfSC7NpqcpBbX77z0N53fAjVRLdplh7nVUunVcCnHV0XmKLVzPQI6DGc72CSd1GSyhkP8GZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0243eed17431c8c61n1_09W9ElRS",
+      "encryptUserId": "0a57e3a93d49de300HJ93ty7E1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.作为底层系统开发人员，通过中间件技术、通用产品、通用平台解决业务架构难题，保障和支撑有赞业务的快速增长和迭代；\n2.参与有赞PaaS中间件(微服务框架、消息中间件、数据中间件、分布式KV存储系统等)的设计、核心代码开发，维护系统稳定性，提升产品和系统的性能；\n3.深入理解所负责的中间件的技术原理、架构和使用场景，帮忙业务开发更好的利用中间件产品解决技术难题，提升业务的开发和迭代速度；\n4.参与产品推广、技术宣讲和培训，提升业务开发对底层中间件和系统的了解，减少和消除因对底层系统不了解造成的故障；\n5.结合业界实践和有赞的实际情况，规划中间件和底层系统平台的发展方向，保障底层系统的持续稳定运行。\n工作内容：\n1.了解业务开发的需求和痛点，对业务实际中遇到的问题进行总结，抽象成为对中间件产品的需求\n设计、开发核心中间件产品，不断满足业务在功能、性能、稳定性等方面的需求；\n2.在结合有赞的业务场景和实际情况的前提下，吸纳开源产品优秀的设计和架构，并进行针对性的改良和适配；\n为需求方做技术培训，组织技术分享并能输出技术沉淀；\n3.协助业务方进行底层系统的技术选型和方案评估，为业务方提供专业的建议和支持；\n4.推动整体业务开放对底层中间件系统进行规范、合理的使用，保障底层系统的健康、稳定运行。\n任职要求：\n1.熟悉C++、Golang或Java语言 ，2年以上相关工作经验；\n2.熟悉高并发、分布式，存储、微服务架构等相关技术，熟悉网络编程；\n3.熟悉Linux操作系统、熟悉业界主流和常用的中间件软件；\n4.善于独立思考，有快速学习能力，不断突破技术瓶颈，乐于探索未知领域，在较大压力下保持工作激情；\n5.熟悉消息中间件，RPC框架，数据层，性能优化等相关技术经验者优先；\n6.熟练使用关系型数据库，对索引调优有一定经验或者了解其原理者优先；\n7.有良好的问题排查经验，有 docker 容器管控、PaaS 平台等领域的实践经验者优先。\n成长建议：\n1.关注和重视技术基础，对数据结构、算法、操作系统、网络编程等计算机基础课程进行深入的学习，并在实践中不断加深理解；\n2.不断提升对所维护和开发的产品的了解程度，结合业务实际场景进行深入的思考，提升对技术产品整体的认识能力和架构能力；\n3.学习和了解业务主流开源中间件产品的设计和架构，深入思考其架构和设计思路；\n4.积极参与项目设计和问题的讨论，积极参加公司内的分享和活动，提升自身的认知范围；\n5.提升自身对业务系统和场景的了解程度，能够从实际场景出发进行设计和规划 。",
+      "encryptAddressId": "fde4eb56adf0468e1XZz2Ni1E1o~",
+      "address": "杭州西湖区平泰工业园有赞",
+      "longitude": 120.08595,
+      "latitude": 30.256279,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/255355a459374621a673e4a71c611928",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d29f2bc59de29c47c8bfd493ed9d086",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "消息队列",
+        "容器技术",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "Java开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190924/406ecd87b5a1a9f507a123131f9bd201aa4c47c8afd11ae7c1450acac46_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州有赞科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d516069a866b17200ndz2tS1",
+      "brandName": "杭州有赞科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180413/e7ba347133c2506fe4b24f7567fcdf0c.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "创业是个失败概率很大的事情，我们很高兴从2012底到现在还活着， 而且还活的很不错。 我们认为，相比较业务来说，团队才是公司的核心。真正一开始就能找到业务定位的团队并不是多数，大多数成功的团队在做好现有项目的同时抓住了另外一次机遇，然后迅速的崛起。这么说并不是指我们现在的项目有多差，相反，我们目前的项目在业内保持了领先的地位，我们招募更多的优秀人才，主要是为了保持更大的领先并拓展更大的平台。 目前有赞旗下的产品有：有赞微商城、有赞分销平台、有赞联盟等。有赞主要是基于云服务模式向商户提供免费、强大的微商城系统和完整的微电商行业解决方案，并致力于通过粉丝营销、交易创新、消保体系为广大商户、消费者搭建移动购物平台。 目前有赞团队的工程师比例占60%，我们对工作经验和学历没有什么特殊的爱好，如果你没有很好的作品，或许我们只能通过工作经验来推测你的能力，当然，我们会面对面的沟通，你可以尽情展示你的才华。 我们希望你能独立的完成交给你的任务即可，如果你能独立完成工作的同时还能做其他更多的事情，包括但不仅限优化我们的架构和系统，指导新来的同事，那真是求之不得。 我们的工作不是很轻松，但我们的氛围很轻松。我们倡导简单直接的沟通方式，希望做一家透明的公司。这里并没有职位的等级划分，你可以随时提出自己的意见和任何人PK。 入职我们会提供MacBook，福利方面提供五险一金，每月800元的餐补是为了鼓励大家一起用餐。经常出去吃饭运动，办公室里常备零食、水果，休息区有电视、游戏机、桌球、乒乓球、三国杀。有空会一起打Dota、星际、CS，每天晚下班的打车费报销，每年旅游和体检等等。这些在我们看来都是基本的。 作为一家创业公司，在我们能够提供的时候，我们定当最大程度的持续的投资团队和客户。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "底薪加提成",
+        "保底工资",
+        "定期体检",
+        "交通补助",
+        "餐补",
+        "年终奖"
+      ],
+      "activeTime": 1721657638600,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州有赞科技有限公司",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

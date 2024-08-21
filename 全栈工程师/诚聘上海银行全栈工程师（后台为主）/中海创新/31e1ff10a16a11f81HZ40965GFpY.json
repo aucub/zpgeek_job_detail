@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ogFOykdK8YCGe-w1mR_v5ahVptR_amrr8s3mWKfSp79ayZer99g2DJBYp02_nE3AdtWgYGEk4ZtvixEnnRwyzt0Z8xj12n0SCATiUDkMAqHaxZGIoIe-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "31e1ff10a16a11f81HZ40965GFpY",
+      "encryptUserId": "3e729c2282fa88a10nJz09q9FlpX",
+      "invalidStatus": false,
+      "jobName": "诚聘上海银行全栈工程师（后台为主）",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-13K",
+      "payTypeDesc": null,
+      "postDescription": "1）学信网统招大专及以上学历，2-3年Java经验；工科专业优先\n2）熟悉Java8新特性，了解设计模式；\n3）精通spring3、spring  cloud微服务架构\n4）熟悉应用服务器，如tomact、apache等的配置、部署、优化、调优，熟练使用linux操作系统；\n5）熟悉多线程、分布式使用机制；\n6）熟悉mysql数据库，熟练使用redis数据库\n7）熟悉VUE，有一定前台的经验",
+      "encryptAddressId": "7c45d15f660524ee3nR-2NS0ElI~",
+      "address": "上海浦东新区speialized(凯龙金领大厦40栋店)上海市浦东新区新金桥路1888号凯龙金领大厦40栋",
+      "longitude": 121.623549,
+      "latitude": 31.260232,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05af239a6af5f670bc3362e360dc0332",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ea2d91ecde3abc62eca0584df02aa25",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Vue",
+        "Java",
+        "银行",
+        "金融"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒋先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240130/607f1f3d68754fd07156455e42c05b4c341ec23c0d70c3b9c6320a4aaf09b39e5c79b91cda9a676_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中海创新",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a02cba8a66e4267f1XB63ty1Fls~",
+      "brandName": "中海创新",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721656612672,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中海创新",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

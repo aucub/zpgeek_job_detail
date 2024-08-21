@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cXnC8auC6gqTb-Y1Fl6oC7p6Ge6PfoaCnIqGcUyo9JIDDoa7nGcw8R3le5mxgX71hMBDURXfNG0UWND_6OV1W59c-aiBayaHj8d3_mERogH45alo-EXc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8f55baf79a0710a51Hd92dm9FVRQ",
+      "encryptUserId": "31fb332dbb21e8710nV53ty4E1FQ",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责新产品核心业务功能与底层基础功能设计、代码实现;\n2、根据项目开发进度和任务分配，评估工作量，开发相应的软件模块;\n3、根据公司技术文档规范编写相应的技术文档;\n4、解决项目开发过程中遇到的技术和业务难题;\n5、有良好的沟通能力进行跨团队的合作。\n\n任职要求:\n1、大专及以上学历,计算机软件或相关专业,具备java开发经验;\n2、深入理解微服务架构，熟悉k8s、springcloud体系流程并且有实战经验，熟练使用spring cloud、springboot、rocketmq，mysql等开源框架,并有丰富的开发经验\n3、掌握系统需求分析，梳理和设计能力，能快速理解业务需求，并进行相关的逻辑设计，平时具有规范的开发，设计文档写作能力：了解Java基础技术体系（包括jvm、类装载、线程等)",
+      "encryptAddressId": "7a6d2419f728982433B62dq0ElE~",
+      "address": "上海青浦区E通世界商务园华新园G栋701-702",
+      "longitude": 121.211353,
+      "latitude": 31.219592,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1947d9ca70e2568e6ec55423e3fa2528",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4622b69e31cbeb3ba9cbf7216d0a0eea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "SpringCloud",
+        "Redis",
+        "架构设计经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240222/607f1f3d68754fd097860d532668f75fb295d05a4cb0948bc7cf05770b37fca9378780b3bfda597_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "大帮佰应",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9cddb76d42f24b61XFz39u1EVY~",
+      "brandName": "大帮佰应",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100803,
+      "industryName": "4S店/后市场",
+      "introduce": "",
+      "labels": [
+        "免费工装",
+        "有无线网",
+        "餐补",
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1721665438686,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大帮佰应",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

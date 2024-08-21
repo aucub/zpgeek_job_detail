@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ACrh9YzfZBXzg-x1UWmPB2nl8frIUzQXxCefvRNBjbY7N0JuZ2FLMhFK7qQVMf-MdlowKq23lMtYO0RRivrK95L_YOQDoQ3PfppI4T59etP2fHSxvTs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c404450bb87be5d91Hd53di-EldV",
+      "encryptUserId": "d65b018a1c5fb8a333B93NW9F1A~",
+      "invalidStatus": false,
+      "jobName": "性能测试工程师",
+      "position": 100304,
+      "positionName": "性能测试",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-18K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n腾讯云的增长速度非常快，作为中国的头部云服务供应商，我们提供的IaaS，PaaS，SaaS被众多行业使用，包括金融、交通、政府等领域，IaaS作为PaaS/SaaS的基础，其性能与稳定性、可靠性至关重要。我们通过场景与workload分析，Benchmark测评工具、emon、perf、ebpf等分析工具的开发和使用，对内核、操作系统、虚拟化进行性能测评与性能问题的分析与定位，保障IaaS提供具备市场竞争力的高性能高可用的特性。\n\n需符合下列要求：\n1. 本科计算机科学或者相关领域的学历\n2. 熟悉不同类型的Benchmark工具的作用和区别、用法，如fio，netperf, spec cpu 2017/2015, spec jbb 2015, tpc-ds等等\n3. 熟悉测试的基本技巧，等价类划分，pairwise等手段。\n4. 熟悉Linux命令行的使用，shell，python脚本的开发\n5. 积极乐观，乐于学习\n\n首选的资格：\n1. 熟悉某一领域的性能分析方法，如CPU的微架构分析，topdown分析，use分析；磁盘I/O的blktrace分析等等；\n2. 熟悉perf、ebpf工具的含义与用法，有超过1年的实践",
+      "encryptAddressId": "650f0adf29462b6a03Z53N61EVpUwYy9UfM~",
+      "address": "杭州西湖区西溪乐谷创意产业园5楼",
+      "longitude": 120.079424,
+      "latitude": 30.28137,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/373feec416a048a1ce8c14052179b4b0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea7b73fa2938904671c54cbb4f0349c9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "C++",
+        "Golang"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "专家工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "腾讯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64bfe11d3d8b5b6e1XV629u4F1A~",
+      "brandName": "腾讯",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200430/4204e9c9f200b00b77fb59d093acd281be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "腾讯以技术丰富互联网用户的生活。\n通过通信及社交平台微信和 QQ 促进用户联系，并助其连接数字内容和生活服务，尽在弹指间。\n通过高效广告平台，协助品牌和市场营销者触达数以亿计的中国消费者。\n通过金融科技及企业服务，促进合作伙伴业务发展，助力实现数字化升级。\n我们大力投资于人才队伍和推动科技创新，积极参与互联网行业协同发展。\n腾讯于 1998 年11月在中国深圳成立，2004 年6月在香港联合交易所主板上市。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶",
+        "公仔周边活动",
+        "免费健身房",
+        "免费早晚餐"
+      ],
+      "activeTime": 1721658746434,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "腾讯",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

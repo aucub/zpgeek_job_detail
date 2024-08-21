@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gEJaLimgOVF8G-I1pDWnZ-RIb1xrMO_l0TTPIx0da-B7zS8uXRvoeCoxNCqmZGmlcOtFJRgpGbSk2kjwII1JOdlwPiR1LkmIT3mKiJFUH7wAGQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1682d0cfbd2176371XZ-2dy5E1RT",
+      "encryptUserId": "f8109b686e0dad591XZy0to~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "40-50K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责开源向量数据库Milvus及Zilliz Cloud的质量保障\n2、负责测试用例设计，开发和维护，包括接口测试、功能测试、性能测试和稳定性测试等\n3、参与版本交付和验收测试，制定和执行测试计划，记录并跟踪缺陷的修复情况，总结测试报告\n4、持续优化改进现有测试框架、测试平台，提升测试质量和效率。\n\n职位要求\n1、计算机相关专业本科及以上学历\n2、有7-10年数据库或分布式系统测试相关经验，熟悉数据读写链路基本设计和原理者优先\n3、熟悉zipkin、pprof 等工具做性能分析，设计相关测试场景探索和发现系统瓶颈\n3、掌握软件测试理论和常用方法，熟悉软件测试的基本流程和测试规范。\n4、有较强的编程能力，熟悉python、java、go、rust等至少2种或以上语言\n5、熟悉常用的数据库和中间件使用，包括Kafka, Pulsar, Etcd, MongoDB、Redis、Postgres等\n6、熟练使用TestNG或Pytest测试框架进行接口自动化测试\n8、有云服务安全测试经验者优先。",
+      "encryptAddressId": "eae6aba52f6349183nxy39m9",
+      "address": "上海杨浦区安联大厦1601",
+      "longitude": 121.516077,
+      "latitude": 31.258118,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d220cfdbc531af78fd29e07fdde1121",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afd7b31c49f53c6c8093af5a43232370",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "TestNG",
+        "Golang",
+        "性能测试",
+        "自动化测试",
+        "计算机相关专业",
+        "自动化测试",
+        "服务端测试",
+        "系统测试",
+        "软件测试",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "招聘专家",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "Zilliz",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aca3a6f2861b3dc71HR429y1EA~~",
+      "brandName": "Zilliz",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220804/7bf6f160950405e93f460104cc2fcdcfbc5cc6cb9cb58006ffd4053f2eee37ba6c157b0d3ed3dd38.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "Zilliz 是向量数据库系统领域的开拓者和全球领先者，研发面向 AI 生产系统的向量数据库系统。Zilliz以发掘非结构化数据价值为使命，致力于打造面向AI应用的新一代数据库技术，帮助企业便捷的开发AI应用。Zilliz的产品能显著降低管理 AI 数据基础设施的成本， 帮助 AI 技术赋能更多的企业、组织和个人。\n\nZilliz 由前甲骨文工程师星爵于 2017 年创立，得到了高瓴资本、沙特阿美旗下P7资本、淡马锡旗下兰亭投资、五源资本、云启资本和挚信资本等一线投资人的支持。Zilliz的技术和产品在全球范围内被超过1000家企业所采用，广泛应用于计算机视觉、图片检索、视频分析、自然语言处理、推荐系统、定向广告、个性化搜索、智能客服、欺诈检测、网络安全和新药发现等领域。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "补充医疗保险"
+      ],
+      "activeTime": 1724234019114,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Zilliz",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

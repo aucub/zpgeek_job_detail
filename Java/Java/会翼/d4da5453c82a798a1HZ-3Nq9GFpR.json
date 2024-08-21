@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pL6x_KUGLFZWA-P1grM2QtGSRqaqSOtDRCV46i20wEhow5wfmurx4tgL3Md_6RRBRkPr18UGhXUOYk1fwUg3A8rl3W8-JLJLRrtn8Rx8U6xGE7Hpog~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4da5453c82a798a1HZ-3Nq9GFpR",
+      "encryptUserId": "0ce7daceaf13deac1nZ_39W0FlA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责公司业务系统的需求分析、方案设计、功能开发、测试验证、上线部署和运维优化。\n2、负责系统的架构优化，包括性能改进，链路优化，动态算力，实验策略优化，稳定性建设等，能从具体问题中抽象出通用解决方案，提高需求实现效率、算法迭代效率。\n3、负责系统的工具建设，包括监控工具，排查工具，实验工具等，帮助合作方提高问题定位效率、case解决效率。\n职位要求：\n1、本科及以上学历，计算机、统计学、数学相关专业，1 年以上工作经验；\n2、精通Java Mysql, Redis, Nginx, 消息队列等服务端主流技术，能按场景优化使用；\n3、熟悉分布式系统，有大规模分布式系统的设计和开发经验，能独立完成系统的设计及开发；\n4、有广告或游戏SDK相关工作经验优先。",
+      "encryptAddressId": "413742235198fa8a1nd409S_GFVU",
+      "address": "上海杨浦区长阳创谷C4栋4层",
+      "longitude": 121.533361,
+      "latitude": 31.272436,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfe31a0f921d898d8bd22cc395133411ab6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf40c61bf9994dc6ee7e0e15f2d8b7f3286bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Golang",
+        "Nginx",
+        "MySQL",
+        "搜索/推荐/广告经验",
+        "大数据经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180813/1c0ff36208f96649388782ddc687fdb18b3f5a5c3704a7677c9874adfe5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "会翼",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "43a5fd2093580c9d03B73tm_GA~~",
+      "brandName": "会翼",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190524/b99a594856ce08f6816658942215b1370ab784f5c70867d5b4097c17d345451c.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们是一家面向全球的人工智能科技公司。\n开发总部位于上海，业务范围遍布亚洲，欧美等市场。\n核心创始团队均来自国内外知名科技企业，有超过10年的专业IT开发与运营方面的经验，在IT领域有丰富的资源。\n我们始终相信，未来最重要的是人才。一家优秀的企业，人才必须是最优秀的。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721664761169,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "会翼",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

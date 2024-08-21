@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ky-Ve00BDbNpH-Q1uR-MPpFwSOdBhHpEKFFwJvuW9uK0tb2K3eASITFlL4DZ6WkjAtAxaYMJjksp4LpL_95V1bLbUX5JvYTuvi9AsD4QhWdOsYXQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d97a8eef61b9e9a21nJ409S4F1Q~",
+      "encryptUserId": "96d410a66e44bf551Xxz2dW9EFU~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\r\n1. 负责软件产品的编码,解决开发中的技术问题;\r\n2. 负责相关技术文档编写;\r\n3. 良好的英语读写能力；\r\n4. 完成上级交办的各项工作\r\n\r\n职位要求\r\n1. 大专及以上学历\r\n2. 两年以上Java开发经验\r\n3. 熟练使用Spring，Spring MVC，Spring Boot，Mybatis，Hibernate等开源框架\r\n4. 熟悉至少一种数据库 (如MySQL / Oracle / PostgreSQL等), 并了解SQL用法和数据调优；\r\n5. 熟悉常用的缓存技术（如Redis等)；\r\n6. 具有规范代码能力，能自主独立完成开发；\r\n7. 金融相关工作经验优先。",
+      "encryptAddressId": "c9d5155e431e88471XB63tm5GFo~",
+      "address": "上海黄浦区中国民生银行大厦(威海路)",
+      "longitude": 121.4703,
+      "latitude": 31.22845,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd55fa4a079a8f90efd439e6443d8e84",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f338a0ac0fef9202c1d079f47f63364a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171116/1894dc3f55f85a714e4f8e1272812a0101d78ef3f14182cb3c454c3dbe1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海苍阙",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "70806344dcc98bac1nd40t-5EQ~~",
+      "brandName": "上海苍阙",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171228/f501c3f64fb0c734307a2f30b0cbed40cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "上海苍阙信息科技有限公司，成立于2017年，位于上海市，是一家以从事专业技术服务业为主的企业。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721665535529,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海苍阙",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

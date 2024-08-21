@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Xe3WKfzoSTeQs-K1nhwf8bTqWWa6R1hg9hsJiLY4coM8SR3tsLczsN9bPsfHtI1uCYJvyuLjoDYjJ0bLZrVw7Rj1DnmUa0LXGFBvMftdgweQXt7lKESV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f16a178beda4b341nx73927FVJU",
+      "encryptUserId": "579ee05fd4b0c48b0nZ609W_F1ZY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n    1. 根据业务规划制定相应的技术规划，解决项目过程中关键技术难题；\n    2. 负责平台系统功能的持续迭代，保证性能及稳定性\n\n岗位要求:\n    0. 计算机及其相关专业, 本科及以上学历, 1年以上JAVA服务端工作经验\n    1. 具有扎实的Java基础, 具有面向对象编程的思想\n    2. 熟练使用Spring, SpringMVC, Springboot等框架\n    4. 熟练掌握Linux, Maven, Git, Docker等工具使用\n    5. 了解Python/Bash等脚本语言\n    6. 熟练应用主流数据库软件, 能进行复杂SQL语句的编写, 可以通过执行计划分析语句进行调优\n    7. 能承受压力, 具备良好的沟通协调能力, 工作积极主动认真负责, 富有团队精神, 具有良好的自学能力和独立解决问题的能力",
+      "encryptAddressId": "41ddf7d5e83a56551nx63Ni_E1o~",
+      "address": "杭州萧山区浙江大学计算机创新技术研究院萧山区天人大厦33层",
+      "longitude": 120.239796,
+      "latitude": 30.239589,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/75123711de8a3da3429a95d8c28c53b9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b815a9e72d6b301429e74261ad84b639",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "Maven",
+        "GIT",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "茹先生",
+      "title": "h r",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "聚力汇文",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e048df1c5503b5c61nB829m0Flc~",
+      "brandName": "聚力汇文",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "为报社、电视台等传统媒体，提供完整的新媒体解决方案，让逐渐没落的传统媒体不再成为时代的眼泪，快速进入互联网时代的浪潮。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1721657872744,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "聚力汇文",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nQf0KNsvm6qS7-N1xeWh2j1SQNfpc_uFUNYrU1sUv-KIZwzfUxhmKYdsblgj-3gM5FUnYj6usvWovhWupCTui8EJN_-8tek6mQqMWu6mVsAahXdM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e2969cf65f9635991XN409S5ElpZ",
+      "encryptUserId": "a5f73297d0de241f0Xd92dy1GFM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-22K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "【福利待遇】\n根据经验能力定级定薪，固定14薪，浮动1-5个月不等（看绩效），周末加班双倍工资，生活补贴，公积金按实际工资足额12缴纳，补充医疗，过节费；\n\n【岗位职责】：\n1、参与产品需求分析，参与系统分析和设计，承担系统功能或组件的代码编写\n2、参与技术难点的攻关，持续提升系统的代码质量、稳定性，扫除存在的风险点\n\n【岗位要求】：\n1、JAVA基础扎实，擅长Spring,SpringBoot,Mybaits框架，熟悉多线程，分布式计算操作\n2、熟悉Mysql/PostgreSQL/redis等数据库使用，能对复杂SQL进行性能优化\n3、熟悉网络、IO、内存等监控排查手段，有nginx、kafka组件使用经验\n4、熟练使用Linux 操作系统和常见数据库，能对复杂SQL进行性能优化\n5、了解Docker/Kubernetes，有微服务的开发、部署、运维经验\n【加分项】\n有如下任一领域优先\n1.有数通基础优先，有sdn控制器/分析器开发经验；\n2.熟悉Flink，clickhouse等大数据框架，有大规模数据处理经验\n3.微服务相关的技术或项目背景者；\n3.智能运维AIOPS\n4.运维领域开发工作经验",
+      "encryptAddressId": "14f20dcb62a4625633d_0tu8EFE~",
+      "address": "杭州滨江区新华三集团1",
+      "longitude": 120.19812,
+      "latitude": 30.18519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/152b8984fd10097343315b84ce17b8ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/489891d3e8e9a9318c194c6d4c57e6a0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "网络",
+        "大数据处理经验",
+        "后端工程师",
+        "Spring",
+        "分析器"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜先生",
+      "title": "开发负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "新华三技术有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a3cf0a499b7d26f30nZ73N65",
+      "brandName": "新华三技术有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/64b52e58892b20959203719a7cdb1394cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "紫光旗下新华三集团作为数字化解决方案领导者，致力于成为客户业务创新、数字化转型最可信赖的合作伙伴。新华三拥有计算、存储、网络、安全等全方位的数字化基础设施整体能力，提供云计算、大数据、数字化联接、信息安全、新安防、物联网、边缘计算、人工智能、5G等在内的一站式数字化解决方案，以及端到端的技术服务。同时，新华三也是HPE®服务器、存储和技术服务的中国独家提供商。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723255283000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新华三技术有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

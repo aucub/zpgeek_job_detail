@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NNgJWlzQLvK2V-q1SaECVOVcsUj2Kbo5GcBoCAfMQtMnTB6juEm9av8AaJr7OFfpmxrHvKqss5w3AJbqwh2T65YLDe-Q1QqmPr4JvN8sGK1U9-RNpw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "80c9c93c0b3a66db1XZ_3NW0F1NZ",
+      "encryptUserId": "df6a27771eb559071XJ_3Ni4GFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-16K",
+      "payTypeDesc": null,
+      "postDescription": "1. 精通Java（熟悉IO、多线程等基础框架，熟悉分布式、缓存、消息等机制）\n2. 深入理解微服务原理，对各种主流的微服务框架有较深入的了解，使用Spring Cloud、Dubbo或Service Mesh等做过实际项目\n3. 深入理解企业应用设计模式，有大型分布式、高并发、高负载、高可用性、健壮性的设计开发经验\n4. 了解Jetty、Tomcat、maven等应用服务器配置、部署及优化\n5. 熟练使用主流的java框架和中间件，如springboot、springmvc、mybatis、rocketmq、redis缓存等\n6. 精通SQL，精通hadoop和spark等分布式关系型计算\n7. 熟悉阿里云大数据和云计算系列产品优先   \n8. 具备较强的逻辑分析能力、学习能力和沟通能力，具有团队合作精神；\n9. 能接受加强的工作强压,对新技术有较高的钻研热情，愿意主动钻研开源代码",
+      "encryptAddressId": "ba88602ee4e64ce90XV-3Nq6EVA~",
+      "address": "杭州上城区三新银座资募大厦21",
+      "longitude": 120.202754,
+      "latitude": 30.259151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6a62c5bf7f3b0fa975c3119117c0705",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/666c65f65387d4d36dd1cbc933631439",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "中级软件工程师",
+        "后端开发",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "研发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220511/607f1f3d68754fd0cce4dff48ead0952a71737e670f7b0d4af2b69c0f9e79c26c3952a3fb88_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州定川信息技术...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "04d07452de67dad803V72tS0EA~~",
+      "brandName": "杭州定川信息技术...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190819/9c418e183adfd713cbd9ea1db0f6e627d95f97e57724a8dcbe004826dc3730e4_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州定川信息技术有限公司成立于2005年7月，是浙江省水利河口研究院（浙江省海洋规划设计院）在原自动化信息技术研究所基础上创办的国有企业。\n       主要从事水利信息化的规划、设计、咨询、开发与应用创新，业务范围涵盖软件开发、系统集成、遥感应用、大数据和人工智能等领域。\n       经过多年的技术积累和专业沉淀，公司成为浙江省首批高新技术软件企业，建立了浙江省水利防灾减灾重点实验室（3S技术实验室）。\n       深耕水利与信息化融合，借助物联网、大数据、云计算、AI、5G等新技术，利用“互联网+”模式打造发展新生态，本着“定立水利、川行天下”愿景，致力打造中国水利智慧化服务提供商",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "餐补"
+      ],
+      "activeTime": 1721657563922,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州定川信息技术...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

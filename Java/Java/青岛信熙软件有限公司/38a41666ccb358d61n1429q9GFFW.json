@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SeIohuwK8yjrq-71kIqeOQrcwwApa8XUn3EU0qrYktsp6nB8apkbPjnIckyMdF5kxkwsiz1OZrMrQix1L1zolevKRLjgJAqkBAvWeggpJ6v3rrIuZkHS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38a41666ccb358d61n1429q9GFFW",
+      "encryptUserId": "1aea35f4ad961ee20nZy2Nq0GFFY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一：岗位职责\n1. 主要完成产品的核心编码,需求整理,文档编写,维护更新,以及对外提供支持\n2. 完成本部门其他产品、项目及部门、公司工作任务\n二：任职要求\n1. 计算机相关专业全日制普通高等教育专科及以上学历、两年以上Java开发经验\n2. 熟练使用Java web 开发框架、如：Spring Boot 、Spring Cloud、MyBatis等\n3. 熟练使用开发中可能用到的各种工具，如：git、maven、gradle等\n4. 熟练使用Redis、MQ等常用中间件\n5. 熟练使用Java排查各种问题的工具、思维清晰、能够快速准确定位问题\n6. 具备Linux运维应用能力",
+      "encryptAddressId": "9f9f10c18b6dabc11XV93Nu-E1o~",
+      "address": "青岛市北区海信环湾大厦(兴隆路)111",
+      "longitude": 120.345299,
+      "latitude": 36.12607,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2c82272ec96250f36f6a756e16381224",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8878db6d4ee626c1b8cc5f86fc7faab3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Redis",
+        "Linux",
+        "GIT",
+        "Maven",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青岛信熙软件有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f5678ed88b7ef0351nJ_3dm_Els~",
+      "brandName": "青岛信熙软件有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210518/d513b73cc34014e7a089f83f379ea41a23df906455baa0ffa621833c93c66777.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "青岛信熙软件有限公司成立于2019年09月02日，主要关注于轨道交通类项目集成开发，聚焦于wms mes 等企业领域应用服务研发服务，目前合作服务多个企业大客户",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721649962245,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛信熙软件有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

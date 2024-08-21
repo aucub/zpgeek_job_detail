@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kDWGD4-O01eSZ-K1zclGY_QVIULN_k3YRaYC7DcjxAmnb92e7FOgFnGrKfk2OJ3Wk4UHKTTu5fv__xzzi9qvWZ4NHtAA_dVaUvcF6rYFzTbS73bZ2Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9b2c8f46191b0c7d1n172t64FldZ",
+      "encryptUserId": "4cbca4b84a1ecba01XV-39W4FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-18K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、通过对业务的理解 ，对现有产品和系统进行改进和优化；\n2、从用户和技术出发，实现面向未来的系统规划、设计和落地；\n任职资格:\n1. JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；\n2. 2年及以上使用JAVA开发的经验，对于你用过的开源框架，能了解到它的原理和机制；\n3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；\n4. 掌握多线程的设计与编码及性能调优；\n5. 熟练掌握Linux下的常用命令，常用的脚本语言。",
+      "encryptAddressId": "751ce90344c5c6b81nBy2dq0E1I~",
+      "address": "北京西城区万通金融中心B座2007室",
+      "longitude": 116.354637,
+      "latitude": 39.922721,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a601ede6a4f93f81eabf5d9a01e72e98",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e785bbd5030a2820bb9540c37f00cc0d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "微服务架构",
+        "证券",
+        "银行"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "HRBD",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭缘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "158482e5017f84d31nZ_3dq_GQ~~",
+      "brandName": "杭缘",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171121/5bf5f0623a34766f7710900500e6e02f0a6b638ded44ce267aa3a42801c808af.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721656559276,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭缘",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

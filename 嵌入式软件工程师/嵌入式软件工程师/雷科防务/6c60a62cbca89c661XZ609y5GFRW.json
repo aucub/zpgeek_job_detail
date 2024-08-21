@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7rs08wOcKueWb-J1k2e51fQESeM_qg3d2JhuZI0hOOzaR8oTy9Y7eD5UOMJt0sX9MwIcTTw85sTWOXPxIkOf85SZ05AlFCkAqefJ5AHx-nik7VknYw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6c60a62cbca89c661XZ609y5GFRW",
+      "encryptUserId": "4659a3085241e8190HB_3Nm6E1A~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1. 负责嵌入式linux平台软件开发，满足产品软件需求；\n\n2. 基于不同的硬件平台，进行性能测试评估和优化；\n\n3. 实现边缘端容器程序的批量部署、OTA升级等；\n\n4. 外部通信接口（网络、串口）开发与调试，使用TCP/MQ/DDS/HTTP等通信中间件；\n\n5. 负责软件的系统联调测试，能够编写测试用例。\n\n\n岗位要求：\n\n1. 计算机、信号、通信、自动化相关专业本科及以上学历；\n\n2. 精通C/C++、python编程语言，熟悉基础算法与数据结构；\n\n3. 熟练使用Nsight、Vim等开发工具，熟悉Makefile并能编写；\n\n4. 熟悉Linux多线程编程、网络编程、shell编程，有嵌入式Linux开发经验和ROS开发经验者优先考虑；\n\n5. 熟悉Docker等任意一种容器化技术者优先考虑\n\n6. 熟悉K8s, K3s, KubeEdge等边缘容器化技术或使用经验者优先考虑；\n\n7. 有OpenCV使用开发经验者优先考虑；\n\n8. 有深度学习开发测试经验者优先考虑；\n\n9. 有通信行业、交通行业软件经验者优先考虑；\n\n10. 有独立学习新技术能力、沟通能力、团队合作能力及良好解决问题能力者优先。",
+      "encryptAddressId": "4db5db23e65a87430nRy0tu_EFU~",
+      "address": "济南长清区北京理工大学前沿技术研究院A-17层",
+      "longitude": 116.809468,
+      "latitude": 36.509132,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83560c0f909fc407b4f8e83fadfbbe2c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2fcd60e43f0cb22882e63688bf39fae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "C语言",
+        "Python",
+        "嵌入式技术",
+        "Socket技术",
+        "系统集成技术",
+        "Linux",
+        "嵌入式软件开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "毛先生",
+      "title": "智能网联事业群副总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191108/4693dba043e6a92b99ab7ef561aad80be31e94fcff7be648e9912b133b7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "雷科防务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "95778ffc9dbdc5651Hd-2t-4Eg~~",
+      "brandName": "雷科防务",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220223/7b5b554d84f9729c65d7e0260ff444abe4d5e91a2983f833e31e94fcff7be648e9912b133b7c0a2c.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100905,
+      "industryName": "铁路/船舶/航空/航天制造",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721653084101,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "雷科防务",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

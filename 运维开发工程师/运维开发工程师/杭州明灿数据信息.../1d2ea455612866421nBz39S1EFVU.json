@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yF7c489Y64P3I-U1L5NgnQapq69FtNSTTZje3psUxQEnOkI6YHuzSahG7Vhby1imU3fALclJAZL3KfICrRDunhgsSTTiUrnm1_AlsVXNqAn_N1TmsarF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1d2ea455612866421nBz39S1EFVU",
+      "encryptUserId": "ac0f1847ec0a24b10nZ92NW1FlNV",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责公司分布式存储集群的运维和成本优化工作 2、实现应用的构建发布部署流程的自动化； 3、设计研发应用构建发布平台； 4、保障应用发布的健康和高效，使得发布可靠； 5、设计研发应用持续交付过程平台； 6、完成应用部署容器化，建立容器化部署和运维模式； 7、建设系统监控告警平台，监控应用运行状况和系统水位； 8、答疑及工单处理、应用上下线、伸缩容、日常巡检、告警处理等；   任职要求：   1、本科以上学历，计算机相关专业，2年以上运维实战经验 2、熟悉linux操作系统，理解TCP/IP、HTTP等协议，有良好的网络、数据存储和计算机体系结构方面的知识，具备故障排查经验 3、熟悉K8S和Docker技术，并有相关运维经验 4、熟悉Go或Python语言，有Java开发经验者优先考虑 5、责任心强，具备良好的沟通和协调能力，善于学习新技术 6、有大型互联网公司及分布式系统运维经验者优先",
+      "encryptAddressId": "e526a18de2a22bc103B52d2_FlE~",
+      "address": "杭州拱墅区JWK(运河万科中心)2幢1705",
+      "longitude": 120.125962,
+      "latitude": 30.32777,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c50a922d8af2ec2cb1eaee61a8de1ac",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b9a0f855524e9ba096ad96ae292ce96",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "容器技术",
+        "分布式技术",
+        "网络协议",
+        "Docker",
+        "K8S"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州明灿数据信息...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5a16fab937107f3a1nFy3NS5EVU~",
+      "brandName": "杭州明灿数据信息...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210421/3b0bafd994610d0d2a25344aa12a92e676c6c8a373f32493ea724b15986a8256_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "杭州明灿数据信息技术有限公司，参与下一代互联网大数据存储基础设施IPFS建设，分享数据资产FIL激励收益。明灿为客户参与IPFS（FIL）项目提供专业的管理服务。它是一个去中心化的数据存储、分析和分发网络；它将区块链理念（经济激励体系、不可篡改、可追溯、去中心化等等）和共享经济优化资源配置理论结合在一起，为建设实施下一代互联网存储基础设施提供动力",
+      "labels": [
+        "节日福利",
+        "股票期权",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721659484111,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州明灿数据信息...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

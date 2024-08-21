@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9hKKcU9BDCxEo-21LBUb_lo77Z0X7J7NGH_Rxr9MDEMhCXZlnDT6Yl651v78_ebMnEnP8SlcOPDnzmK63fveYih2i0MjJ5i1MUIfo41NIzH6Qvk3vP9n",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "51fe27885f13f5561HZy2ti_E1dR",
+      "encryptUserId": "24a3d04e8f0775f40XZz3NS4E1VZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟悉主流技术SpringBoot、SpringMVC、 MyBatis等，掌握前端基础技能，熟悉html、css、js、JQuery、vue、bootstrap；\n2、熟练操作sqlserver、mylsqL等一种或多种数据库，并能对数据库进行日常维护、故障处理、性能优化等运维工作；\n3、熟练操作linux系统，能在Linux环境下部署及维护项目；\n4、熟练使用SVN，git，Maven等开发及管理工具",
+      "encryptAddressId": "e1985e3507cb221d1HZ92dy_E1RSwom3U_0~",
+      "address": "上海浦东新区张江高科技园区蔡伦路",
+      "longitude": 121.600986,
+      "latitude": 31.209222,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f459054c098d7bec5c0bdc940eb0f68",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00ec228cb852b0138131d27c0c80b18c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Docker",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231218/607f1f3d68754fd0a172e22e384502a3559fa24f2c43c9d63bc053d8786089eb7fbf688eb6d4437_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "无锡卡思商务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d83269fd57d542371HZ63tS6EVU~",
+      "brandName": "无锡卡思商务",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100604,
+      "industryName": "人力资源服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664789468,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "无锡卡思商务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

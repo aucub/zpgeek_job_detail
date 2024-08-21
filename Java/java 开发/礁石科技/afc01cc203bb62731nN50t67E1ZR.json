@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tc7aneFqyvG8D-d1CFHfUotKL-aTHxFBHQHrZzTxXfM90b98B9Ra6Q0hWBc5TJVwJHopp5uBeGDd31HP4QjZRoBXshdFILnpFkusTANQAd1fO2XbaZQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "afc01cc203bb62731nN50t67E1ZR",
+      "encryptUserId": "f183a2161bca6c441XR8392_FlU~",
+      "invalidStatus": false,
+      "jobName": "java 开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、参与项目需求分析、技术评估、架构讨论；\n2、参与公司项目开发工作，按时并规范完成分配的开发任务；\n3、完成客户定制化的软件功能，对遇到的疑难技术问题有突破解决能力；\n4、按公司要求的开发流程完成相应开发、测试、部署、调试、文档整理等工作;\n5、与业务部门做好相应的沟通，能够理解客户需求及业务诉求；\n6、能够出差（省内为主）；\n\n任职要求：\n1、计算机及相关专业本科及以上学历，2年以上开发Java开发经验，具有扎实的Java基础，有安防行业相关项目经验，具有良好的团队协作能力和沟通能力;\n2、掌握高并发、高负载、分布式系统相关技术，并具有实际开发经验;\n3、精通SpringMVC，Spring，Mybatis，dubbo，springboot等开源框架并熟悉其实现原理，具有JVM调优能力；\n4、精通SQL及优化，熟练使用Mysql数据库，掌握redis,memcached等常用nosql技术并具有实战经验；\n5、熟练掌握HTML/CSS/JS，熟悉Web标准；\n6、熟练开发、测试、部署流程及调整优化",
+      "encryptAddressId": "0085b22b379132511nBz3tq_FFo~",
+      "address": "杭州上城区迈达商业中心3号楼9层901",
+      "longitude": 120.206907,
+      "latitude": 30.28967,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09e92b922bd75a0270fefef42ef6c14a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8912be10498e80a9f8d627117190af91",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CSS",
+        "分布式技术",
+        "MVC开发",
+        "负载均衡技术",
+        "Spring",
+        "Dubbo",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/d2a437e6abd59501a9713d5b563e8f021a9d068d034a8721ad0961b4ccb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "礁石科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6431071c20972b861nx_0tS_E1c~",
+      "brandName": "礁石科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "公司从事公安行业应用软件开发与技术服务业务。",
+      "labels": [
+        "团建聚餐",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1721657551517,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "礁石科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

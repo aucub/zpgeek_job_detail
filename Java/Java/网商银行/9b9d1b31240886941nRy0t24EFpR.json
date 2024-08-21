@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kwUz08C8ajc0v-Z1HafkBad_dI3rfHgPLTU10QYQplmcMPBU0XZfD8TFW4h-XX5NUL_f1CIPJox38-493-DD6l_bg0VGGMfw7r5Fr7kprAPjbBlCJw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9b9d1b31240886941nRy0t24EFpR",
+      "encryptUserId": "782fcd0bc2eca09703F53ty1GFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "1.工作内容\n（1）主要存款、贷款、结算、保理、票据、理财等业务系统的设计与开发工作，承担核心组件的编写\n（2）负责系统技术难点攻克，持续推进系统稳定性与并发处理能力。\n（3）推动新产品的实施与落地。\n2.职位要求\n（1）扎实的Java基础，精通Java虚拟机、多线程\n（2）精通JAVA EE、spring、redis、Kafka等中间件，了解中间件的源码。\n（3）精通微服务框架，熟悉dubbo、zookeeper等主流分布式组件。\n（4）精通关系型数据库，如mysql、oracle\n（5）具备大型互联网产品设计与开发经验，或者银行核心系统研发背景的同学优先考虑。",
+      "encryptAddressId": "196f98b9b0bbea681HN73920F1c~",
+      "address": "杭州西湖区德力西大厦15-20",
+      "longitude": 120.131202,
+      "latitude": 30.272997,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a84eb9eb8e79bd4481c24e49b59e7e2e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3a0084df8028196075fa7b6fbb61921",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "微服务架构",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "技术专家",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190911/66798f5e38a683b56ba72bb928462e0fdbaf8341687b28fe504340a4be9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网商银行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "22fa09a188c7165b1nB93N-5FA~~",
+      "brandName": "网商银行",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180226/cdcccd257874715c64fecbdc2b5922f2cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100201,
+      "industryName": "银行",
+      "introduce": "浙江网商银行股份有限公司是中国首批试点的民营银行之一，于2015年6月25日正式开业。\n网商银行将普惠金融作为自身的使命，希望利用互联网的技术、数据和渠道创新，来帮助解决小微企业融资难融资贵、农村金融服务匮乏等问题，促进实体经济发展。\n网商银行是中国第一家将核心系统架构在金融云上的银行。基于金融云计算平台，网商银行拥有处理高并发金融交易、海量大数据和弹性扩容的能力，可以利用互联网和大数据的优势，给更多小微企业提供金融服务。\n网商银行定位为网商首选的金融服务商、互联网银行的探索者和普惠金融的实践者，为小微企业、大众消费者、农村经营者与农户、中小金融机构提供服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "零食下午茶",
+        "餐补"
+      ],
+      "activeTime": 1721657573080,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网商银行",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

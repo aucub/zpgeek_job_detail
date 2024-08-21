@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ukHxQVSyKnwwE-j1XWiJOShFr2mhbXSZWJX9LFHlasQzivO20OgifPhvaR7XEPV2DauSrsfaOYAAYrm0W3O1QRHdJ-9YXexb8hCT_7MH_K4TKs1MGw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a73f3b1db1011beb1nx52dS8GFpV",
+      "encryptUserId": "774ff01dbff07f771XJz0tS1FlM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.   5年以上经验\n2、熟悉ssm框架 redis mysqI  会前端vue框架\n岗位职责：1.参与项目的需求评审；2.充分理解项目需求，独立承担单独拈的代码设计以及编写，并完成自测；3.独立快速解决开发过程中遇到的技术难题；4.修复测试工程中发现的代码缺陷，保证质量；5.服从上级领导安排，主动提交工作报告以及进度报告供项目经理掌握项目情况；6.完成公司安排的其他事宜等。任职要求：1.计算机相关专业本科及以上；2.5年以上JavaEE的Web应用开发经验，有良好的编码规范；精通Java/JavaEE编程基础，熟悉多线程并发编程，熟悉常用的设计模式；3.熟练掌握Spring、SpringMVC、SpringBoot、SpringCloud、Mybatis等主流框架，能够熟练应用；4.熟练掌握SQL语言，熟悉主流关系型数据库（Mysql，Orcacle等），有一定的SQL调优经验；5.了解Linux系统，熟悉基本的操作指令；6.能适应出差、进行项目的现场开发和调试；",
+      "encryptAddressId": "2bcbddcc4e4af6a41nxz29i7Elo~",
+      "address": "武汉洪山区光谷软件园E区E1楼1402",
+      "longitude": 114.405573,
+      "latitude": 30.479131,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/87f811ea2c21cd5c2f2b2bed4f280f9b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebdadc00b86e8819d49b9e8f52476868",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "负载均衡技术",
+        "Linux",
+        "后端开发",
+        "SpringBoot",
+        "SpringCloud",
+        "SpringMVC",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240404/607f1f3d68754fd09713726d11200cf73eded1b5e848bf74ea5023e288b91d74ceb62ef852cdec4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "刘备致远",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a957f917cb6bb4bb1XZ-3d-0FA~~",
+      "brandName": "刘备致远",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180810/310e169f85cb24064af391156e55653aeaf5741ab5fd66f7d1ed6020afb10b0c.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "湖北刘备致远信息技术有限公司",
+      "labels": [],
+      "activeTime": 1722310654000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "刘备致远",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

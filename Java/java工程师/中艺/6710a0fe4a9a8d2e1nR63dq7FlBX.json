@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mEalVHCkFnqV7-t1kQL9AW5g8fRYgym07COleojkw6kDHT60YYvfQtHdsbTwBQBQA5PnM_0_vjTffACwOJ-MYhWEXBXvg0oa9g0aDH1kcDGhwPLaArX6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6710a0fe4a9a8d2e1nR63dq7FlBX",
+      "encryptUserId": "c4a569e5ef8b4b070nR709i5GVdU",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 独立负责公司互联网产品的开发与测试；\n2. 负责需求立项和功能开发，承担核心架构的代码编写，负责系统改造和升级；\n3. 功能研发和维护统一的软件开发架构；为改善系统的功能积极提出建议；\n4. 主导推动跟进业务线需求，进行项目的分析、设计及开发工作，确保项目进度和质量。\n5. 完成项目的测试、系统交付工作，对项目实施提供支持；\n\n任职资格：\n1. 有2年以上JAVA WEB开发工作经验，本科以上计算机专业学历\n2. 精通JAVA面向对象编程，熟练掌握spring, Mybatis , struts ,hibernate等相关web框架，了解Velocity / freemarker等模板引擎；\n3.精通Web编程，熟练使用jquery、Ajax技术,了解WebService、Xml技术，\n4. 熟练掌握常用数据库MYSQL,ORACLE的开发，有一定的数据库设计经验，熟练使用SQL语句；\n5. 熟悉Apache、WebLogic、Tomcat等J2EE应用服务器； 能熟练在 Linux 上部署应用程序者优先。\n6. 精通Java Web项目开发； 至少开发过2个以上中大型互联网应用。\n7. 熟练使用Eclipe、SVN等开发与管理工具，LINUX等操作系统；\n8. 有良好的软件工程知识和质量意识。\n9. 良好的沟通技能，团队合作能力，能够独立完成技术文档编写。\n10. 服从公司管理、责任心强、能承担压力、踏实肯干；\n11.热爱互联网产品技术开发，有积极的技术创新精神；",
+      "encryptAddressId": "88eef9c02b3dfc6e1HF409S1Flc~",
+      "address": "上海浦东新区上海张江高科技园区川沙路锦绣东路路口",
+      "longitude": 121.682087,
+      "latitude": 31.251499,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b05cc93b8cb1cff363a8af185d9fbb2a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d37c921ff8bf427d11821728df03c344",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "软件工程师",
+        "后端开发",
+        "SpringMVC",
+        "Spring",
+        "SpringBoot",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中艺",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d4c77bcb532c3aad1nVz39y9FVc~",
+      "brandName": "中艺",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "是一家提供互联网应用软件开发的服务提供商。\n多年来一直专注于互联网应用与云计算领域的产品研发, 是行业内提供互联网解决方案的科技公司。\n公司秉承“思路创新、服务用心”的理念为客户提供专业化服务。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721665450716,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中艺",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

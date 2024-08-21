@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "n0SyS7ijeQiFJ-H1SdxMMuEqJHRCTops02AdNhrWe8W-Zxg7wg3F8PQIzzjtTGOo7S3A-1q3pVcDm9qpv7ID20TxexGbQnYUtlr1lCi1eoaq3KY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cfcce400b8481b180nN43tW8FlQ~",
+      "encryptUserId": "0749d1dee9fd0e6d1XJ62Nu_GVA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "兼职招聘\n1、2年以上开发经验，熟悉富文本；\r\n\r\n2、java基础扎实，编码规范，程序具备较高的健壮性，熟悉常用设计模式\r\n\r\n3、熟练MySQL、Redis、Oracle等数据存储系统\r\n\r\n4、熟悉MVC、RPC等相关技术，例如：Spring MVC、Spring、MyBatis、Spring Boot 、Springcloud等\r\n\r\n5、熟悉搜索引擎和网络爬虫相关架构及技术、python、正则表达式等技术优先",
+      "encryptAddressId": "66af16a46f25b9801nJ43tW1EVU~",
+      "address": "杭州西湖区创业大厦(华星路)六楼",
+      "longitude": 120.121303,
+      "latitude": 30.278611,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d60220f2cb33c653cb80b84a4dc88d5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da52546722e11bc6769b11326898471e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MVC开发",
+        "搜索引擎技术",
+        "网络爬虫技术",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州新思维",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "271ed92e9ca652d20nZ80t-7",
+      "brandName": "杭州新思维",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721657563166,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州新思维",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

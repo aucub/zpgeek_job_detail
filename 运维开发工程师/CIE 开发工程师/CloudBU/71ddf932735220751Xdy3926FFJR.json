@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Jw_7ZSoad1VpY-E1kye5bmKUhfwe7zGHPbPb6idOxkUlqWBBnghj8qv7JdDguYlPZGaAX1mpk1Y6yt7GDq1aNEDoN6sIh9RprlIu5Mr8o6xAF6VbNrk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "71ddf932735220751Xdy3926FFJR",
+      "encryptUserId": "07914d9a3a46d3380nd63Ni1FFZW",
+      "invalidStatus": false,
+      "jobName": "CIE 开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.编写及维护项目构建脚本和自动化测试脚本\n2.在不同环境下搭建持续集成环境及完善对应脚本适配,优化等\n3.能够积极推动项目进程,提高研发效率\n4.与业务沟通,收集需求,提高使用体验,维护效率等\n岗位要求:\n1. 熟练掌握CI，CD，CM工具链的维护和配置，例如Gitlab, Jenkins 等源代码管理及持续集成工具；\n2. 熟悉 Linux/Windows 系统及常用命令，熟练掌握Python、shell、批处理命令脚本编程语言；\n3. 熟悉Java/C#/C++编译构建工具，了解他们的构建过程\n加分项:\n1.熟悉android，ios，windows，mac的调试，测试工具，或有对应平台开发经验\n2.熟悉linux\n3.有音视频行业经验",
+      "encryptAddressId": "66f483c555c4a9ba03Bz0tW_FFU~",
+      "address": "杭州滨江区华为科研基地江淑路360号",
+      "longitude": 120.205783,
+      "latitude": 30.183937,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dead0c142d6fe1e74067944acfafa274",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f7a6f57825f16496e22d08c4975bc86",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "Jenkins",
+        "运维开发经验",
+        "计算机相关专业",
+        "英文读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邹先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "CloudBU",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2dc5f75565c848191nZ83t2_Eg~~",
+      "brandName": "CloudBU",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/1734aeb2de76d7c29dd112cd16318a59.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "http://www.hua⋐-⋑----/",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721659501074,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "CloudBU",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ScUckQo0jv0yr-H195wmPaH7QhZvqAV4wGkGqZ6o6-K_An2aBiXk1UxEskoDREycXZmbReEESfWvbD069kdka199io4oGE2-B-_lfniZUOybGnOPCqaz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1b4b60a2dfdc41f71HB52tu_EVRR",
+      "encryptUserId": "f8242eec9cd57c710nZ72Nq8E1BS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机、软件工程及信息技术相关专业；\n2、具有3年以上互联网开发工作经验，40周岁以下；\n3、精通主流Java开源框架，如spring boot系列、Mybatis等；\n4、熟练掌握io、多线程、TCP/IP网络编程、集合等基础框架编程，对JVM原理有一定的了解；\n5、熟悉前端技术栈，掌握vue、javascript、html、css，uni-app等开发技术；\n6、熟悉MySQL、MongoDB数据库，SQL语句编写熟练，具备SQL性能优化能力；\n7、熟练应用Jar包部署或容器部署至少其中一种，熟悉nginx。\n8、了解消息队列、NoSQL数据库如Redis；\n9、了解云服务相关知识及Linux操作系统，能够独立完成系统的部署、调试；\n10、了解Python基础知识，能使用Pandas、FastAPI等常用库搭建简单应用；\n11、有独立项目开发经验和作品，或具有技术团队管理经历。\n12、有良好的沟通、客户意识、严谨细致的逻辑思维能力；\n13、积极主动的态度，有较强的责任心和抗压能力。",
+      "encryptAddressId": "c8b1f1734754728a0XZy2Ny0FVdTx4y8Uvo~",
+      "address": "长沙天心区现代财富11楼",
+      "longitude": 112.98673,
+      "latitude": 28.095437,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240315/48ba41acc9cef1bf8779d9366152fa106bec04e71987ee4b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240315/48ba41acc9cef1bf04488736aeda49815f5a769d7dbeb57d6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "大数据经验",
+        "团队管理经验",
+        "MySQL",
+        "接受无前端经验/技能",
+        "MyBatis",
+        "架构设计经验",
+        "Spring",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "可大科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1df5a81acccea5481Hd_2du0EFI~",
+      "brandName": "可大科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721649995456,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "可大科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

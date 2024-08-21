@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wcweyXadaTLWL-V1_AKUhNVKWzw678Sp39TjSCYeYIN2W7HUOTUuYJXhp1DUKLfE79rjxbnwme0E7R6eipevbLDWepYVs45JRrveuWAh83NffuhEiWs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c7c8ee11207fdfb51X152dy-GFBS",
+      "encryptUserId": "ce8ec2dfbc90d18a1H1_2tq5GVU~",
+      "invalidStatus": false,
+      "jobName": "嵌入式工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责嵌入式应用程序的开发；\n2. 参与芯片SDK的开发和维护；\n3. 参与嵌入式固件优化（footprint、执行效率）；\n4.协助解决客户问题；\n\n\n任职要求：\n1. 计算机、电子通信、自动化等相关专业，本科及以上学历；\n2. 精通C/C++语言，熟悉ARM处理器体系架构；\n3. 熟悉以太、eMMC等SoC常用的接口协议，有在实际硬件上调试程序的经验；\n4. 有较强的英文技术文档阅读能力，可以从文档和社区中获得问题答案；\n5. 善于学习、自我驱动、有团队合作精神和勇于挑战的探索精神；",
+      "encryptAddressId": "61ffc080c1444d390HB739W7F1s~",
+      "address": "北京海淀区盈创动力园区E座南厅西区9层",
+      "longitude": 116.301928,
+      "latitude": 40.054619,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61f0488878074775df7a5da257b0c130",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec824c7cf8d8eefde38476c940ff7348",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C",
+        "ARM开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200305/b46509dc1fbd8f547220aa4d432df40d86bb0958590e280d60ec6ae0c88_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京凯芯微科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "56b42afc9267b2781XZ52ty5GVI~",
+      "brandName": "北京凯芯微科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221104/7bf6f160950405e9cba4fd2b62ee7360933f7fa98c20382186bb0958590e280d60ec6ae0c88c3ebd.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101405,
+      "industryName": "半导体/芯片",
+      "introduce": "北京凯芯微科技有限公司（以下简称“凯芯科技”）成立于 2021 年 1 月，位于北京市海淀区，是一家由清华大学科技成果转化的高科技公司。公司专注于开放的车规级高性能计算芯片平台的研发，提供面向于智能驾驶、无边界机器人、智慧物流等领域的产品和服务。 \n凯芯科技坚持自主创新，深耕于传感器信号处理、感知融合算法等技术领域，构建车规功能安全 SoC 架构并研发多种室内外定位技术，致力于提供精准可信的时空感知传感器及开放的高性能融合计算芯片平台。\n凯芯科技是中国汽车芯片产业创新战略联盟成员、北京市半导体协会会员、北京集成电路学会会员。公司针对汽车智能化的质量稳定性、功能安全性以及信息安全性的核心要求积极布局，公司芯片产品满足105℃苛刻环境的 AEC-Q100 Grade2 车规级质量要求，管理流程已通过莱茵 ISO 26262 功能安全管理体系ASIL-D 认证。\n\n 公司产品 \nKT3010：多星座多频点 GNSS 导航定位与短报文 SoC 芯片。采用 40nm 低功耗工艺和完全自主知识产权的 GNSS 技术，已在高精度和短报文行业得到批量应用。 \nKT5030A：符合 AEC-Q100 Grade2 的车规级高性能 SoC 定位融合芯片。采用 22nm 先进制程，内部集成多路射频单元，搭载高性能多核 CPU，支持双精度浮点运算处理，内置 512KB L2 高速缓存，支持百兆以上高速外部存储扩展，集成满足时间同步特性的以太网接口，可高效、可靠、快速地运行各类定位融合算法。芯片提供 secure boot 签名认证机制，支持片上存储 ECC 校验，可有效提高系统的可靠性、安全性及稳定性，减少系统故障风险，面向智能驾驶、ADAS 等应用场景。 \n凯芯科技团队近 70 人，核心团队来自于清华大学、北京大学、中科院微电子所等高校。\n团队成员包含时空感知信号处理、高性能 SoC 计算芯片、数模混合芯片设计实现、高精度定位算法等多方向的资深专家。公司四分之一以上人员拥有博士学位，十余人获得 ISO 26262 功能安全工程师资格证书。\n薪酬福利：\n1.薪资体系：基本薪资（12个月）、绩效奖金（1-6个月）、股权激励；\n2.福利体系：全额五险一金、带薪年假、年度体检、健身运动、补充医疗；\n3.员工关怀：弹性工时、下午茶、团建活动、员工旅游；\n4.奖励机制：员工持续服务奖励、即时激励和内部表彰。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724216981550,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京凯芯微科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

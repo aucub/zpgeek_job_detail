@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "g64WL0CulUG3h-q1ZgOZesk7zMtVaR_JRrqx2yjs5oPUxmWzb4gcTFT2AG1PSZFmcbJ0D43dUou19JeS48Z2IH57VKS2IqzZVPuavWDFC2T19VWY",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b927a231a53db2a90Hx-09q8FVI~",
+      "encryptUserId": "bf08ebd90ae3e1241Xx93ti5EVQ~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n\n1、能独立处理和解决所负责的工作任务； \n\n2、完成相应模块程序的设计、开发、编程任务； \n\n3、程序单元、功能的测试，查出软件存在的缺陷并保证其质量； \n\n4、编制项目文档和质量记录的工作； \n\n5、维护软件使之保持可用性和稳定性。 \n\n6、熟悉系统架构\n\n岗位要求： \n\n1、大学本科及以上学历，计算机类、自动化类等理工科相关专业；（能力 \n      突出者可放宽学历）\n\n2、熟悉JAVA开发、熟悉SSM、SPRING BOOT等框架；\n     掌握spring boot + spring cloud开发\n      java基础扎实，熟悉多线程编程，分布式系统架构，可以独立完成模块 \n      功能开发。\n\n3、掌握至少一种主流数据库的使用和配置，如Oracle，SQL Server， \n      MYSQL等，能熟练编写常用SQL语句，熟悉数据库编程； \n\n4、熟悉linux操作系统，熟悉docker部署开发。\n\n5、熟悉nginx配置，rabbitmq，redis等消息中间件。\n\n6、熟练掌握js、html5、css3、ajax等前端技术，熟练使用vue、uniapp、微信小程序、jquery等前端框架，熟练使用elementUI、vant等UI框架，了解node.js、git等\n\n7、具备良好的编程习惯、文档写作技能，具备用户需求分析、程序设计的能力；\n\n8、具备很强的团队协作意识，工作积极主动，沟通能力强。\n\n9、有分布式经验、做过商城类、校园安全、校园管理、智慧社区的优先\n\n10、有使用主流公有云服务器经验优先。\n\n\n\n在我们这里，你可以得到什么：薪酬待遇：无损失地参与一个伟大公司的创业，看到满大街的人都在使用你开发的产品，领到一份足以中年之前腰杆很硬地带着老婆退休并沦为一对废物（如果你愿意）的期权和股份。",
+      "encryptAddressId": "b3cded95342739410XN83tm0Eg~~",
+      "address": "杭州拱墅区乐富智汇园12号楼606",
+      "longitude": 120.111658,
+      "latitude": 30.334277,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4b21a7b0e7d0bd46addb3a05efce25c0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6a037e741c84401c22836892d41b8f0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "服务器配置",
+        "Linux",
+        "软件工程师",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "舒女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240126/607f1f3d68754fd06660a2b1d41bc52e44d786389efa618e45464f840d82514586179d4f3f60fb0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "浙江华寓科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fd3e6cefc23eb73133d82t-4FQ~~",
+      "brandName": "浙江华寓科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220111/7b5b554d84f9729ccc6fc5ea1a6b8b142f9007882e62fef745464f840d82514586179d4f3f60fb0a.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "浙江华寓科技有限公司是一家软硬件结合的科技企业，公司汇聚了一群热爱教育、热爱互联网、热爱科技的伙伴，致力于打造出能为家长、学校、学生带来顺畅便捷的家校互联产品。\n公司目前在做的项目有：\n1.智慧校园安全“校寓无忧”\n2.孩子安全定位‘寻宝’\n3.老人智能安全定位等。",
+      "labels": [
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "股票期权",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "五险"
+      ],
+      "activeTime": 1721657677848,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江华寓科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

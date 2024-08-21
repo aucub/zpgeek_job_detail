@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QC6UUYmoZifQ9-m1Yzp4nCs1rPqBoq4O-3Sf4sOXdZP4O-7pRteGWluIFGJIgH5SS-JUxIIo_NreuF2GmsCqEzc8oUyQc7G5U9lWX5KrjRkz9l134A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a1606f5334d0eb9933B-3d21FFE~",
+      "encryptUserId": "31fda1f2a12d5b3e1nR_3Nu9EFJX",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210700,
+      "locationName": "温州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与项目需求技术分析,并完成相应模块的设计、编码以及相关文档的编写；\n2.负责承担java项目的主要开发工作\n3.负责解决开发过程中的关键问题和技术难题；\n4.负责系统持续优化，并编写单元测试,查出软件存在的缺陷并保证其质量；\n\n任职资格\n1.精通JAVA，熟悉基于J2EE的WEB架构设计，熟悉Web开发流程，有丰富的Web开发经验；熟练掌握SpringBoot、Spring、MyBatis等。\n2.熟练掌握Mysql等数据库，精通sql语句，熟练掌握sql优化，数据库性能优化。\n3.熟练掌握内存数据库Redis、Memcached、Ehcache等，对闭包、事件和异步有独到的见解。\n4.比较优秀的需求分析、数据库设计及系统设计能力。\n5.熟悉Linux/Windows环境，熟悉项目部署结构。\n6.沟通能力好，逻辑思维强，有开发团队管理经验优先。",
+      "encryptAddressId": "5f55f4300482d9860XZy29y7GFs~",
+      "address": "温州龙湾区浙南·云谷B幢404室",
+      "longitude": 120.793029,
+      "latitude": 27.954494,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90080a6c9ba1ecaf2bad2a64c3876996",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf5c9b28b10a12846f385a28e11da7ee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SQL",
+        "Java",
+        "Redis",
+        "IT项目管理",
+        "GIT",
+        "Linux",
+        "IOS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "温州提亚网络科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "eae27634223ac1dd33Rz29u6Fw~~",
+      "brandName": "温州提亚网络科技...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211106/7b5b554d84f9729c676668954313d44e5adc4587b2475ba3e7077e0b54008491600bc48687bfa942.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "温州提亚网络科技有限公司成立于2008年，是一家以数字信息技术研发为核心，以输出领先的数字化解决方案和培育数字化新生态为宗旨的高新技术企业。公司定位产业数字化领域，以支撑产业数字赋能为目标，以市场需求为导向，重点围绕互联网应用开发、企业级系统设计、物联网应用平台开发、数字化应用平台开发、大数据智慧平台开发、云基础设施管理、网络安全、大数据整合等业务领域，旨在通过数字技术所带来的生产数量、质量和生产效率提升，助力政企单位转型升级，为数字赋能高质量发展提供创新、技术支撑。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724224175723,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "温州提亚网络科技...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

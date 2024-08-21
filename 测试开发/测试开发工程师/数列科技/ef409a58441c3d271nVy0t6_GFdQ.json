@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pV8BprnCnj2cu-A1G9_xfZBK1qfcKd1amaqlQ-KJ60SS_-IhMyjEmWTIkXyALbqTu72046UesP397DNHjnR151tyjhgA47hX4vvbFkkEnK-837PX",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ef409a58441c3d271nVy0t6_GFdQ",
+      "encryptUserId": "c347652280f520c41H1y3tm0GFI~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-30K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容偏测试开发，需要有一定的编程能力。\n\n工作内容：\n1、搭建技术产品的自动化测试技术\n2、构建产品的质量保障体系，用技术的办法解决质量的问题\n\n岗位要求：\n1、熟悉Jenkins、Selenium、JMeter、Gatling等工具\n2、熟悉Java、python任意一门语言\n3、熟悉linux系统命令\n4、熟悉分布式架构，清楚分布式系统的测试方法\n5、具备快速学习新框架的能力\n6、熟悉软件测试行业，了解常见的软件测试方法论，有性能、白盒测试等专业测试领域经验",
+      "encryptAddressId": "4243586f7baa7bee1H152tm1FVQ~",
+      "address": "杭州余杭区创鑫时代广场3幢-A座-601",
+      "longitude": 119.976795,
+      "latitude": 30.273262,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/700f5fbfb0724f6d95edb80d71d56d3c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93f35534cd3572316eb9bccec9e4a9b0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "系统测试",
+        "接口自动化测试",
+        "Java",
+        "TestNG",
+        "Selenium",
+        "LoadRunner",
+        "Jmeter"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陆先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数列科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0edbc0bdf0d754981Hd90ty5",
+      "brandName": "数列科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201228/0b22003a9d16cab19ca37f8d2439730d7f9f5c95e97c9fb99b0486397db2e372_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "数列科技成立于2017年，是主动防御式稳定性保障平台提供商。旗下核心产品Takin通过在线上主动演练的方式发现系统隐患，精准给出隐患清单，精准解决问题，实现以主动防御方式达成系统高稳定性的目标，可助力企业IT系统建设7*24小时无故障不中断的连续生产能力，大幅提升IT系统确定性。\n\n数列科技的服务涵盖互联网、零售、物流、金融、电子政务、新零售、教育、出行服务、本地生活等领域，已与顺丰、中通、中国人寿、国家电网、SHEIN、浙江大学等行业头部用户达成深度合作。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "培训学习"
+      ],
+      "activeTime": 1721658951295,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数列科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ENwPMuxMlPhZd-x1NHuDkgHZDJw7emFoZWgJyrCqpsdKbp5avQk6AyUzPmRPd0sxMOkRcIIKifLMiqJ99kjHAs7wqy0hIJZOV1xVsBwzvY0OJcc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f3d219b89d8a117b1X172t66GFQ~",
+      "encryptUserId": "5e1740c8245489111HR-2d--GFU~",
+      "invalidStatus": false,
+      "jobName": "java 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "14-25K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n   1、计算机、软件工程等相关专业毕业，本科及以上学历；\n   2、1年及以上Java开发工作经验，熟悉Spring-cloud开发框架以及JAVA多线程和高性能的设计与编码，需至少有spring boot实际项目工作经验；\n   3、熟练使用SQL语法，熟悉MySql数据库应用和Tomcat、JBoss等应用容器；\n   4、熟悉JMS协议以及具体中间件(Kafka，HornetQ，RabbitMQ)；MemCached、Redis等缓存；\n   5、熟悉网络爬虫框架，需有具体网络数据抓爬项目经验；\n   6、熟悉ETL工作原理，需有实际ETL编程项目经历；\n   7、有较强的逻辑思维和分析能力、创新能力，有很强的学习与解决问题的能力；待人诚恳、谦虚，善于沟通，团队协作能力强，工作认真负责，主动性强。",
+      "encryptAddressId": "2ea4b9f1500dc5f41nd42t26EQ~~",
+      "address": "杭州余杭区恒生科技园1号楼317",
+      "longitude": 120.005807,
+      "latitude": 30.278029,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/129249432b759ae511b48fa2293eee1b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/529a3db06c2c5b1ab74b18b2fb3d7d66",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "包先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "哈雅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b032415e3571d9503nB92NS7",
+      "brandName": "哈雅科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180702/fb615421afdf7414b10e5a70f013d487cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "杭州哈雅科技有限公司（www.hzhaya.com)专注于企业云服务，解决企业技术难题，降低企业IT成本，自创办以来已为电商、零售、商超综合体、餐饮、生鲜、教育、智慧园区、物联网等相关行业，提供了多项可靠的技术解决方案及产品。",
+      "labels": [],
+      "activeTime": 1721657677256,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "哈雅科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

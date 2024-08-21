@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eG3lkGfx8yIM3-S1bAbtKl2WdPzFpYBvYJ5KhtpYAE_4FO8XXy2iqa3EE0LqaPA1ugvcPj_i19BCeIR6dIefVW0ZVkxRku0aYmzYD4eraHTV-9p_XPn6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d26cf95a210713b21XZ_3dS1FlpW",
+      "encryptUserId": "1e7112ca684f57550nR639u4F1JY",
+      "invalidStatus": false,
+      "jobName": "EDA软件自动化测试工程师",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、完成FPGA原型验证测试工作，确保公司产品在整个原型仿真验证流程中可以正确工作；\n2、对产品每个新功能进行验证（主要是开发包括小型电路、验证平台、运行脚本在内的测试用例），并进行产品的性能、鲁棒性以及可用性的分析评测，签字认可产品的最终新版本发布。\n任职要求：\n1、微电子、电子、通信、计算机及相关专业本科以上学历，掌握数字集成电路基础知识，如：Verilog HDL、逻辑仿真、形式验证、逻辑综合等；\n2、熟悉 FGPA 原型验证或ASIC 设计流程，有使用 FPGA或EDA 工具（Xilinx/Altera/Cadence/Synopsys/Mentor）经验者优先；\n3、 有以下三方面经验（之一或以上）者优先：\n(A) 了解SystemVerilog和/或UVM，或者有纯Verilog Testbench编写和仿真经验；\n(B) 熟悉各种接口规范，如SPI、I2C、PCIE等，或者了解RISCV、NOC等技术；\n(C) 熟悉 Linux/Unix 工作环境，有脚本设计或自动化测试经验； \n4、具备良好的交流能力和团队协作精神；\n5、 对技术有追求，能快速接受和掌握新技术，有较强的独立、主动的学习能力。",
+      "encryptAddressId": "c04fc50290a0cc450nd42Nu7EFM~",
+      "address": "无锡新吴区无锡(国家)软件园巨蟹座A座6楼601",
+      "longitude": 120.371091,
+      "latitude": 31.487928,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b15ee033585578bbea2c4736943dcc3e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9180b62326221a399532f0ef29cff147",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "接口自动化测试",
+        "Verilog HD",
+        "FPGA原型验证",
+        "EDA 工具"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人事HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "汤谷智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e96fa1a02b5f17461nB70t-1EFU~",
+      "brandName": "汤谷智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211221/7b5b554d84f9729c8d4112af04dfe7ab3a8cfab66575552beb17209323e7ef4d3ec694b001ada0c8.png",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "江苏汤谷智能科技有限公司专注于自主研发的数字芯片前后端设计工具、EDA专用芯片的研发以及集成电路设计服务，致力于成为全球领先的数字芯片设计工具企业。 公司凝聚两代顶尖人才坚持自主创新，拥有多年EDA算法、芯片架构研发设计、原型验证、以及先进制程量产经验，团队来自江南所、海思、比特大陆、CETC，得到多位院士的指导和支持。\n          公司自主研发用于百亿门级数字电路原型验证平台，并长期为CPU/GPU/AI/HPC等超大规模数字芯片提供国产化设计工具、IP以及设计服务解决方案。核心团队成员在TSMC、SMIC、UMC量产过多款芯片，包括两款大规模FPGA芯片，超算芯片，Serdes及PLL等IP，工艺制程涵盖40/28/16/14/12/7/5nm。公司获得国家工信部高质量发展专项支持，建设国家软件与集成电路公共服务平台，发起制定多项团体标准。\n      公司成立四年实现收入规模数十倍增长，2021年合同收入过亿，A、B轮2亿元融资完成，估值19亿。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1721655917813,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汤谷智能",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

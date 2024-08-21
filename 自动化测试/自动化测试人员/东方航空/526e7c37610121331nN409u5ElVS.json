@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Rrlo_N4gu4SLr-h1PwvmlTaAO3pQgjmx4znPSOKMwHQIUOuQMxkGmqNszd2IC4ZK0VtF-g6oPWBudDP_i6da5EbiVnyoVuZ47L1ZxDO23InfuS1y",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "526e7c37610121331nN409u5ElVS",
+      "encryptUserId": "6db9342d1b325e090HR63tq0E1U~",
+      "invalidStatus": false,
+      "jobName": "自动化测试人员",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-30K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1) 完成CI/CD以及devops流水线的建设落地，提高软件产品的交付效率与质量；\n2) 负责推动质控多套测试环境的治理与维护；\n3) 带领团队完成质控部数据平台建设，配置中心建设；\n4) 完成自动化团队建设、人员招聘和自动化技术培训；\n5) 带领自动化团队，实现核心系统的自动化测试覆盖；\n6) 总结测试经验，进行内部交流；\n7) 构建测试团队绩效考核方案，负责每个周期内团队考核；\n8) 定期向上级述职，按时完成各项报表（测试工作周报、测试报告、及其它部门统计分析报表）；\n9) 完成上级领导交办的其他事项；\n岗位要求：\n1) 6年软件类工作经验，4年以上测试开发经验；\n2) 本科，计算机及相关专业；\n3) 熟悉软件测试理论和软件测试流程，熟悉web、app、后台测试；\n4) 熟练掌握java、python、ruby、C++中的1~2种编程语言，熟练使用JavaScript、shell等脚本语言，熟练使用Oracle、mysql、MongoDB、redis等数据库，并了解其工作原理，能够进行数据库方面的性能调优；\n5) 熟悉HTTP协议、socket、websocket、dubbo协议，了解TCP/IP协议，熟练使用抓包工具 fiddler、wireshark 等抓包进行辅助测试；\n6) 熟练使用 jenkins 平台进行持续集成，熟悉自动化部署工具，熟悉 Devops 和CI/CD 相关工作实施；\n7) 熟悉常用的代码扫描工具 sonarque,fortify,cobra并和 CI/CD 做集成，熟悉代码覆盖率工具Jacoco等，能够对相应开源工具做二次开发；\n8) 熟练使用 java, Spring Boot、SpringCloud，hibernate，testng，mvn、webdriver 等开源框架进行自动化测试开发\n9) 平台开发和搭建，熟练使用 testng、appium、selenium、httpclient、spock、springTest 等开源自动化测试工具进行接口、App、UI 自动化测试。熟悉 pact 测试\n10) 熟练掌握 Linux 的常用命令和 k8s，docker 相关操作，熟悉搭建使用zabbix，skywalking，Cat 等服务监控系统；\n11) 良好的学习能力、自我驱动能力，性格开朗，推进能力强，具备良好的沟通协调和团队协作能力，具备优秀的发现问题、分析问题、解决问题的能力；",
+      "encryptAddressId": "9cd3388b120009bc1nV_0921EFA~",
+      "address": "上海闵行区东航之家虹翔三路36号",
+      "longitude": 121.330672,
+      "latitude": 31.186001,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f67c8c9b6027dd0635cea2e2a44f0a49",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e3caead78ff66edde9bdf4a593d18ee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Java",
+        "Shell",
+        "C/C++",
+        "Linux",
+        "Selenium",
+        "Appium",
+        "TestNG"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "信息部",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201225/c245507629bdf30255de6a40b5a98de00b7f63f63c757b77a4b22910e81_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "东方航空",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "503dfb1bb7a239191XB-3dS4",
+      "brandName": "东方航空",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200420/f2986469349e7f1826e497c8fc3d52877a319fc773ea730ee281471eaaf94b8a_s.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "非外包，东航信息部项目组直招",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "节日福利",
+        "生日福利",
+        "有无线网",
+        "企业年金"
+      ],
+      "activeTime": 1724226543832,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方航空",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

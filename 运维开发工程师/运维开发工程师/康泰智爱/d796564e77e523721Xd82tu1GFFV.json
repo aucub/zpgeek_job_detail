@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "j6844tyNSNgWW-N13VdTY3cSOne2fLQuAKdN28Jd52JlGmd4QScJuw8OGkCilZoELbIOh0chIqgfaERyh2lniLXUvT35W9QOS7P5bVAuDNCdTMkCzg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d796564e77e523721Xd82tu1GFFV",
+      "encryptUserId": "adc1a689a7721ee31nZ73N--E1o~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1. gitlab ci环境搭建与持续优化;\n2. 产品自动化部署,离线安装脚本编写;\n3. openstack集群部署和交付工具的开发;\n4. 公司运维环境完善；\n职位要求\n1. 本科及以上学历，1年以上相关工作经验;\n2. 熟悉自动化运维脚本编写，如shell、Python等;\n3. 熟悉linux系统运维和网络配置，能对PHP、JAVA、NGINX、MYSQL基本问题进行排查、处理;\n5. 对mysql有较深的理解;\n具备以下条件之一者优先:\n1. 熟悉阿里云、Aws云运营商系统；\n2. 熟练SQL编程操作；\n3. 熟悉python，有相关开发经验的；",
+      "encryptAddressId": "ba5c78a88d50e1b10XF93dq0FlA~",
+      "address": "北京东城区环球贸易中心A座11103",
+      "longitude": 116.409967,
+      "latitude": 39.968147,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45081b08727142cfa5dcdb54019f2e57",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a5c27f6f469634d9d6e4f05ac0f9a04",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python/Shell",
+        "Nginx",
+        "MySQL",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "UI",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190225/a34e8a1fe599dea09ec12b822cee99cdcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "康泰智爱",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73d8e79f7f3bd3f40HN42Ny0GQ~~",
+      "brandName": "康泰智爱",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721656975536,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "康泰智爱",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

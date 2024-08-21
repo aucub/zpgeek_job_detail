@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kXkKWmXW4tm4J-71lw6Tzv5SqTajqDmcTbESJFnTGG-9qEYfJ0nFkfH3d-gmYFbcIHFGYbq1hev1p2Uqsr874HxOX9WpclFztkVO2_XREFvuMlid",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c4c9e9934faf2f01XF809q7FVFU",
+      "encryptUserId": "ae4bb9c1d402053d1HB439m5FlI~",
+      "invalidStatus": false,
+      "jobName": "java全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-22K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位详情\n\n公司福利:早9晚6:30，双休职位要求:\n年龄24-30周岁，一年以上实操经验后端:\n1、3-5年Java经验，加分项:Python、其他\n2、扎实的java编程基础，对JVM原理有一定的了解，集合框架、多线程并发、IO/NIO、网络通信等:\n3、熟悉常用的Redis等NoSQL数据库:\n4、熟练掌握Spring Boot、SpringMVC、Mybatis、 Spring Cloud、Dubbo等开源框架:\n5、熟悉常用数据库(MvSQL、Oracle等)的原理和使用，对SOL优化有丰富的经验:\n6、熟练掌握unix/linux操作系统，对常用命令运用娴熟，能够根据实际需要快速编写shell脚本:\n7、有第三方如微信oa等联调的经验\n8、熟悉docker、k8s、nginx等\n\n熟悉前端技术:\n1、3-5年前端开发经验;三年以上前后端分离方式的项目开发经验;电商或互联网行业经验优先;\n2、熟悉各种浏览器平台的特性，有丰富的移动端开发经验，能够很好地解决兼容问题;\n3、熟悉前端MVC、MVVM框架(如:Anqular、Re act、Vue、JQuery、Bootstrap等);\n4.熟练使用 vue 框架，对生命周期，计算属性，vue\n\n网络:\n熟悉docker、k8s、nginx等前端:\n1、3-5年前端开发经验;三年以上前后端分离方式的项目开发经验;电商或互联网行业经验优先;\n2、熟悉各种浏览器平台的特性，有丰富的移动端开\n发经验，能够很好地解决兼容问题:\n3、熟悉前端MVC、MVVM框架(如:Anqular、Re act、Vue、JQuery、Bootstrap等);\n4.熟练使用 vue 框架，对生命周期，计算属性，vue指令，组件通信了若指掌;\n5.熟练应用 vue 的周边生态，vuex vue-router等:\n6、熟悉各种网络协议原理及相关知识，对web性能优化深入的理解，并能够在工作中取得有成效的问题定位和解决过程实践;\n7、有责任心，思路清晰，具备良好的沟通能力和团队协作精神。\n8、有微信公众号、小程序、微信支付等开发经验者优先。加分项:\n1、有Python、经验\n2、熟悉分布式.多线程及高性能的设计与编码及性能调优;\n3、电商、金融行业优先考虑:\n4、研究过优秀开源软件的源码并有心得者优先。",
+      "encryptAddressId": "a65f935b04a8429d0XZ93d65Flo~",
+      "address": "北京朝阳区龙湖长楹天街3栋27层",
+      "longitude": 116.5991,
+      "latitude": 39.92428,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e93873b6d1c9b2f16dd954d0714ffa9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b98611af35a1f86e12e007e50da2ba2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "全栈项目经验",
+        "cicd",
+        "围棋"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180831/8e9a36ee2476c99ff9f53a5c5bc8caa510f1bef259676444fc79d9af05f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "中诚动力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b87840f4b4a4e3d81Xx839-7",
+      "brandName": "中诚动力",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240123/7bf6f160950405e97925d6bab81aa3c933386619367a8a17df7a929d9cc9f9a81b5e6f377a459474.png.webp",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "公司介绍\n公司主要业务:\n提供电子商务平台为核心的互联网产品技术服务和跨屏数据营销管理咨询服务\u000b\n目标成为业内领先的电商大数据技术及代运营解决方案提供商",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723958593391,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中诚动力",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

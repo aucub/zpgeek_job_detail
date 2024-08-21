@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TwB2QF4HNRWkn-31mYmjoR_fWoqa3a_Ob9BscXe-FgjR9Ksp_ribKd8xfK8wGOWvTVBLBogSyScTaExwAAmr8aueGndMtWf2Ezdl_e-4yvovC4faQ5qm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9fe3b1f18e77c8391XNy09W0ElNV",
+      "encryptUserId": "acdbcbed73faa5ba0n143dm4F1FZ",
+      "invalidStatus": false,
+      "jobName": "编译及工具链软件工程师",
+      "position": 101405,
+      "positionName": "集成电路IC设计",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作描述：针对RISC-V指令集，负责编译器工具链移植和开发；负责编译器的正确性用例、性能测试套件以及库的开发。\n\n工作职责：\n1.\t完成编译器后端的移植；\n2.\t完成针对RISC-V指令集的编译Pass优化；\n3.\t完成编译器相关的Benchmark和测试用例开发；\n\n岗位要求：\n1.\t计算机及软件相关专业本科或以上学历；有编译领域的相关经历，熟悉开源编译器工作原理；\n2.\t以下几类经验至少一种，有多种经验的优先：\na)\tGCC：熟悉binutil, Gimple, machine descriptor, 指令选择与约束;\nb)\tLLVM：熟悉llir，tablegen, 窥孔优化；\nc)\tOpenJDK：熟悉C1/C2编译流程, IR, intrinsic，窥孔优化；\nd)\tV8：Chromium, Node；\ne)\tMono/.Net Core\n3.\t有非x86编译器开发、移植经验者优先；有工程化经验，熟悉Makefile/cmake，ELF格式和交叉编译；\n4.\t熟悉常用性能测试套件以及调优方法，例如spec2006/2017, coremark, dhrystone, specjbb, specjvm, jtreg, octane；\n5.\t熟练掌握C、C++、常用脚本语言；\n6.\t具备良好的沟通协调能力和团队精神，有责任心。",
+      "encryptAddressId": "13d90c1a0b7025cd33Jz39q-GFc~",
+      "address": "上海浦东新区云飞大厦12楼",
+      "longitude": 121.608651,
+      "latitude": 31.181606,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cdbe7cf8e55d866a4a314885574621d8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df5c5e12f32fd0628a8d3074c6461668",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Python",
+        "GCC/LLVM",
+        "Eclipse/Pl",
+        "编译器",
+        "指令集",
+        "RISC-V",
+        "集成开发环境"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "凌女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "超睿科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1fc1379678c623691XR80tq4E1U~",
+      "brandName": "超睿科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220522/7bf6f160950405e9f924b17ccc4e7beb9294d3ac59bb98a316d4c801c5a5f992653974ab241e9183.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "超越未来     睿智同行\n\n超睿科技（上海）有限公司（UltraRISC Tech）专注于研发RISC-V架构的高性能、高能效、智能化的多核处理器芯片产品，致力于打造真正安全、可靠的国产处理器产业应用生态。公司总部位于上海张江，在上海、长沙和无锡三地设立研发基地。\n\n公司自主设计开发采用RISC-V指令集架构的UR-A和UR-E系列处理器核IP，提供IP授权服务，同时开发自主品牌的桌面和服务器用高性能多核处理器芯片系列产品，并提供面向应用领域的芯片产品定制化开发业务，满足专业领域的特定计算需求。公司产品能够广泛覆盖边缘计算、桌面/服务器、云计算、自动驾驶等多种高性能、高能效比主流应用场景。\n\nRISC-V是继x86、ARM之后的第三大通用计算机指令集架构，背靠全球化的开源社区，正在全方位加速打造RISC-V软、硬件生态体系。RISC-V的开放商业模式将深刻影响并改变全球半导体产业格局，RISC-V的目标是成为所有计算设备指令集架构的工业标准，可以适应未来50年IT技术与市场的发展需求，这已经正在发生……\n\n我们拥有一支业内一流的技术团队，核心骨干均具有二十多年的高性能处理器研发经验，来自几大国家级处理器研发团队和华为海思、英伟达等行业顶级公司，同时具有良好的与国内顶尖高校的合作关系。目前公司正在进行多轮融资，未来发展空间广阔。\n\n我们始终坚持“以人为本”，为每位团队成员提供完善、有竞争力的薪酬体系、福利保障体系以及清晰的职业发展体系，注重work-life balance。我们相信企业与个人的发展息息相关、密不可分，我们将为团队成员的个人发展提供多方位的支持。\n\n诚邀优秀的你加入超睿科技，与行业精英并肩前进！\n\nwww.ultrarisc.com",
+      "labels": [
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724223741176,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "超睿科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

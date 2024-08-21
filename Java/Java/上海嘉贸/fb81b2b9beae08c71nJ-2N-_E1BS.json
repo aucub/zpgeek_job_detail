@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "chW5yY79wFyCg-41VGPlTCdXT74LVDpW39Kvx0qEZl-TqpDxZZWeuXc_j9Pk3xhNBzc1ywxKxAtR1jH-xmiPcjb11y3LJ8Iu2pubmjm1P8Q75O982x1l",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fb81b2b9beae08c71nJ-2N-_E1BS",
+      "encryptUserId": "2f81f9d25b0e76130ndy2960FFBW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "1）本科，一年及以上开发经验；\n2）具备扎实的Java基础和良好的编程习惯，熟悉Spring、Spring Boot、springcloud框架，了解微服务开发理念、实现技术，熟悉常见设计模式；\n3）熟悉分布式系统相关技术，如：redis、Nacos、Dubbo、MQ、Apollo等常用中间件；\n4）了解JavaScript，vue 全家桶（vuex、vue-router等）；\n5）熟悉SQL，熟悉ORACLE数据库；\n6）熟练构建工具 Gradle、Maven，代码管理 Git\\SVN\\IDEA开发工具；\n7）理解能力强，善于沟通，有责任心和团队精神；",
+      "encryptAddressId": "371b07abd578272903Zy09m0Fg~~",
+      "address": "上海黄浦区致远大厦20K",
+      "longitude": 121.471461,
+      "latitude": 31.201601,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fdf2f871a0a30950ac46e8c5d386740",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86ce01165b913088c1d1d2a9ebea1df2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海嘉贸",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c342522968bc67ca1nNz2N-8F1Y~",
+      "brandName": "上海嘉贸",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664760398,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海嘉贸",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

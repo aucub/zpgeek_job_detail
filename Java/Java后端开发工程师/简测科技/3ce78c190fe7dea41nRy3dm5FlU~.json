@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wmFnrhY9U80QD-w17qb727udIhrCkK81pHcXyGn5cMAyuOaaJxlMtzpwVg2poKimuQljzw84YG7lmxL4FNQfWesphVF3k-HIM7cOZb2_AdvJK_w~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3ce78c190fe7dea41nRy3dm5FlU~",
+      "encryptUserId": "ffefb4c0448baede1nZ909q1Els~",
+      "invalidStatus": false,
+      "jobName": "Java后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-25K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 负责后端服务器架构设计，要求系统具有可扩展性， 能够支持大量并发用户；\n2. 根据产品需求完成服务器架构和模块设计、编码、测试以及文档编写等工作；\n3. 优化系统性能， 保证服务器质量和性能。\n\n任职要求：\n1. 本科及以上学历，计算机软件或相关专业，英语CET4以上;\n2. 精通java编程，熟悉java sdk提供的主要能力;\n3. 精通Spring boot Framework轻量级J2EE容器框架;\n4. 熟悉Mysql，精通SQL语言\n5. 熟悉linux系统，了解shell脚本，能够利用常用的工具对程序进行跟踪诊断;\n6. 具备良好学习、沟通能力及团队协作精神，对工作积极严谨，勇于承担压力。\n\n加分项：\n1. 熟悉版本发布流程，具有版本管理意识；\n2. 熟练掌握一门动态语言如python，lua；\n3. 有分布式系统开发经验，对消息服务、负载均衡、高可用机制等有深入理解;\n4. 熟悉apache dubbo远程调用框架；\n5. 具有一定电商平台开发经验；",
+      "encryptAddressId": "a25178cefaf56e920nd409S8Fw~~",
+      "address": "杭州滨江区三维大厦C座305",
+      "longitude": 120.165252,
+      "latitude": 30.187099,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/df44dd3f926368fc08b178f4fe9b48ce",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0fa09007c3e849034be2cfe5e99fc05",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MYSQL",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "简测科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb2a556e2658251e1HB83tW7",
+      "brandName": "简测科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160818/d2ea31b9a655a6e92fcb9c3fb9a639dcce628cac7f7e6fd015add918dd99c499.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "简测科技是上海微谱检测科技集团股份有限公司，一家致力于实现检测分析测试的互联网化公司。该公司专注于聚合检测服务机构为中小企业和个人用户服务。测博士是其创建的互联网检测平台，依托于全渠道服务对接系统和大数据中心，实现食品、纺织品以及有害物的云检测服务。我们致力于成为中国的最大的民生云检测平台，团队成员基本都来自于网易等一线互联网公司，公司有着良好的工作环境和扁平式管理，希望携手大家一起走向成功",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721657884397,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "简测科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

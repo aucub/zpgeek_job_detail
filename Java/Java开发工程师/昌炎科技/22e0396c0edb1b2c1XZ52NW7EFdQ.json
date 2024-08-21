@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_3tu6b4RzaXhq-b1h84m55qWnUciuG6yBTdxEzpPgAVeZPLNsTPQBP_Dc8p9AI_D-FYx2oX6uAGDNe6zqOIdG3eSKEgIOqRmeNxaO3e-zgP6MNwhwRnw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "22e0396c0edb1b2c1XZ52NW7EFdQ",
+      "encryptUserId": "15d92457b5e080e60nRy2Ni9GVJT",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据业务需求，完成相关的设计、开发、测试、排查问题等任务\n2.针对系统的问题以及相关的咨询，与保司、渠道、第三方等进行沟通，做相关答疑工作\n3.根据保险行业客户的业务场景和技术架构，提供基于易保云产品和技术解决方案的服务\n\n岗位要求：\n1.喜欢钻研，主动学习能力强，对技术和创新有热情；\n2.计算机、软件工程等相关专业本科及以上学历；\n3.熟悉数据库Oracle或MYSQL，熟练编写SQL语句；\n4.熟悉Redis、ElasticSearch、MQ等技术，了解docker容器技术；\n5.熟悉基于SpringBoot、SpringCloud的微服务架构；\n6.有过保险或金融相关项目者优先；\n7.注重团队协作，有良好的沟通能力。",
+      "encryptAddressId": "51c2f17e6acfee2b0XR_3d27FVI~",
+      "address": "上海浦东新区涛飞国际广场A8楼8001",
+      "longitude": 121.660868,
+      "latitude": 31.237763,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ac0c763d1ae45c8df76ff8efd031720",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28b2a34a4d60c6c7477feab45ba54f00",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "微服务架构",
+        "SpringBoot",
+        "Spring",
+        "Oracle",
+        "后端开发",
+        "保险行业经验",
+        "学信本"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201123/dd7cca83af2284de1d4a6d11582f559b6f82d6911c2474266a6618296ac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "昌炎科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f26558f6be2b4a2c1XV63Nu9EFc~",
+      "brandName": "昌炎科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220423/7b5b554d84f9729ce453871fac45b6692c015d945906cd566f82d6911c2474266a6618296accf679.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "1.专业的IT人才服务和系统方案提供商，成立于2017年，立足上海，辐射全国。\n2.主营业务：提供专业的IT技术人才外包服务和项目定制开发服务。\n3.专业的技术开发团队，技术骨干均来自金融、互联网、高科技等龙头行业。\n4.丰富的人力外包，定制开发和项目管理经验，规范的人力外包交付流程，快准稳的需求响应，坚持“客户至上”，坚持“以人为本”，为客户提供持续稳定的开发和人力外派服务。\n5.秉承着“专业、担当、灵活、共赢”的企业文化理念，愿为国家科技发展提供合格人才。",
+      "labels": [
+        "交通补助",
+        "零食下午茶",
+        "餐补",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721665467878,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昌炎科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

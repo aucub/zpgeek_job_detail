@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xinRoKeLPhjZs-j1h82_EQUXvNRKO5efw8yKgpie2PRcD7B0dMJ-OvgQgpVyoKzIkziY4rurGpccO-RnHUl1AjHzD95Qy9AVTzpI4CPoKISDj2z0ThVc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "272b7a1baf40b7b11nxy2tW6F1JT",
+      "encryptUserId": "308a88b12f82a9a91nR93d24GFJQ",
+      "invalidStatus": false,
+      "jobName": "Java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "职责：\n\n1. 参与公司业务产品研发，参与需求分析、协同产品、测试、前端团队完成核心能力的设计、代码实现及单元测试\n2. 参与公司的SaaS产品的探讨以及对应领域详设和业务建模\n3. 参与公司的SaaS产品体系的研发工作，并能分析多方竞品的差异性\n4. 熟练掌握公司的研发体系、PaaS平台/技术研发底座及研发体验类工具，并持续提供优化建议及贡献代码\n\n要求：\n\n1. 本科或以上学历，1年以上经验，Java基础扎实,  掌握 SpringBoot/Dubbo/Mybatis/Netty 等相关开发框架, 并了解其原理\n2. 有分布式系统设计和实现经验, 掌握主流中间件Redis/ES/MySql/MQ， 能熟练排查问题,  并能进行性能调优\n3. 较好的沟通和协调能力, 能理解和拆分需求, 有带团队的经验者更佳\n4. 思路清晰、具备较强的逻辑分析能力、语言和书面表达能力\n5. 强烈的责任心及自我驱动能力，拿结果能力强\n\n\n技术加分项（满足任意一项即可）\n\n1. 有自己的技术博客、GitHub开源项目经验者\n2. 曾获得计算机行业相关奖项者\n3. 曾参与过SaaS产品的研发工作\n\n\n业务加分项（满足任意一项即可）\n\n1. 曾参与财税平台、SaaS应用等领域并担任主力研发岗位\n2. 解决过财税领域相关业务痛点",
+      "encryptAddressId": "9063caad5f435ad71nN53dW6FVQ~",
+      "address": "杭州西湖区阿里云飞天园区1号楼",
+      "longitude": 120.080074,
+      "latitude": 30.132317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ae59e2fb60d424783c97009bdb8c5cd4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/120169a6651caeb8951c951ac6b2cc05",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "GIT",
+        "Maven"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "高级技术专家",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "钱谷科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bfab191241b593801nx92NW7FVs~",
+      "brandName": "钱谷科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210908/7bf6f160950405e95a956471777597de56b7f84258f35db90509a3eb6acf3dda54af2bdfe8fbc253.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "一家追求简洁、高效、自动、创新的SaaS公司",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721657553207,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "钱谷科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

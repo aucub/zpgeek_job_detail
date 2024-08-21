@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Ppjt-Rj2kjzWf-d1UEYPM4IhIF9tQNpWsfHylLJOrfwFHWCgSfPEHywN8BN-yJ1xShaUvAjCubmpGg82J71aIxuT9TpZCSwoPT34mkLgY1ZICDa02bdJhQwtSBfOmvPkocM9tXiYm9IX",
+    "securityId": "Cm0uxJMcJyKRY-P1gXZMmvV8uSqH3zbqhzSKBrhh4pNeG1nabE5tYCe-quK2hiCbc69m13JlCC89YCNjzRm8X8dEVzJgZ6tvsZtlYXCN1gZ0qqYpGkVDTdQszIf5TxUkg-uoJ2YR0l4HvFMUVqWSazb_wt5GRJRALRzSf07LUg77MyoR",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "7-9K·13薪",
       "payTypeDesc": null,
-      "postDescription": "要求做过三星或华为器件模块测试，有手写笔、sensor、指纹测试经验\n职责描述：\n1、负责对手机/IOT等产品进行测试，执行测试用例并提交测试报告；\n2、针对测试过程中出现的缺陷问题，能够与开发人员进行沟通，了解并分析问题根因，持续跟踪改进；\n3、学习使用测试相关工具包含BUG库、adb命令、Monkey指令、log抓取工具以及工作相关系统；\n任职要求：\n1、专科及以上学历，计算机、电子、通讯类相关专业优先；\n2、有手机/笔电/IOT测试经验者优先；\n3、无经验对软件测试有浓厚的兴趣，具备较好的学习能力和良好的沟通能力亦可\n4、具有一定的抗压能力，能接受加班",
+      "postDescription": "显示触控主客观FDE1人+性能稳定性6人+功耗测试5人+器件测试\n1、器件FDE（有sensor、指纹、手写笔、外设连接等看护经验，最好有华为、三星、小米项目经验）； \n2、显示触控主客观FDE或TE（只会显示主观也接受，要求有华为、小米或三星项目测试经验）； \n3、器件TE（有华为、小米或三星项目sensor、指纹、TP等测试经验）\n职责描述：\n1、负责对手机/IOT等产品进行测试，执行测试用例并提交测试报告；\n2、针对测试过程中出现的缺陷问题，能够与开发人员进行沟通，了解并分析问题根因，持续跟踪改进；\n3、学习使用测试相关工具包含BUG库、adb命令、Monkey指令、log抓取工具以及工作相关系统；\n任职要求：\n1、专科及以上学历，计算机、电子、通讯类相关专业优先；\n2、有手机/笔电/IOT测试经验者优先；\n3、无经验对软件测试有浓厚的兴趣，具备较好的学习能力和良好的沟通能力亦可\n4、具有一定的抗压能力，能接受加班",
       "encryptAddressId": "a6826b8a5b4cd203031509-4EFs~",
       "address": "上海徐汇区龙旗大厦12",
       "longitude": 121.408377,
@@ -44,12 +44,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211214/607f1f3d68754fd0f5c0c078fbd0417cdc84a90b41fb8a6be616bfac1cd11a997c23811c770_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "南京睿晖",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "e8d55c8f932e03b21XV62t69EQ~~",
@@ -81,7 +81,7 @@
         "意外险",
         "五险一金"
       ],
-      "activeTime": 1722510612442,
+      "activeTime": 1724227566912,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "南京睿晖",

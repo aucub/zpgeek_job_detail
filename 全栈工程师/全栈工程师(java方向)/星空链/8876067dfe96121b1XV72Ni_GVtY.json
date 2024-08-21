@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "52cNQNY5FzonN-O11qTbGnMKJPPR97qZnfqrmZ2R_DuPkxpERokVyWNkVXC9MRmBgh3sKuHUQg4TFJvIPfWyhPdyvShKvVaB7vCj93zRHvRI36igxg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8876067dfe96121b1XV72Ni_GVtY",
+      "encryptUserId": "d1841d5827a3bdd51XJz2tu7FFE~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师(java方向)",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.参与过2-3个以上JAVA产品或项目核心开发; \n2.精通Springmvc,springboot等框架，有Spring boot或手动集成来搭建项目的经验; \n3.熟练掌握Mysql、SQLServer等主流数据库的使用，了解SQL调优，能独立进行数据库设计; \n4.熟悉缓存技术和分布式系统理论，熟悉NoSql产品，如Redis、Memcached、MongoDB或Hbase等; \n5.有Spring cloud或者dubbo设计分布式系统者优先; \n6.熟练运用git进行项目版本管理(git flow)\n7、熟悉各种前端技术; vue，uniapp等\n8、具备一定的系统调优、性能调优、JVM调优等知识，对疑难技术问题具备较强的排查能力; \n9、有良好的学习能力、沟通能力、协调能力、文档编写能力，责任心强;\n10、能以公司的利益为前提，和公司价值观相同，共同打造美好未来",
+      "encryptAddressId": "a162863226c873041XVz0ti6Flc~",
+      "address": "苏州虎丘区苏州国际科技园-四期研发楼A栋20楼",
+      "longitude": 120.665986,
+      "latitude": 31.296084,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cffe3f41abdbfd748626e2a6f71a9b24",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eff3d8ce2950e78467266031b6228a13",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "前端开发",
+        "SpringBoot",
+        "Spring",
+        "Dubbo",
+        "GIT",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "招聘者人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "星空链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "76fe86dd03a1c6cf33x929W-Ew~~",
+      "brandName": "星空链",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210717/4681c7933869fb4940a1ccab5365db3c4b1792c616a1c624723725b748bc7108.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100013,
+      "industryName": "社交网络",
+      "introduce": "星空链有限公司成立于2020年，由中证创投、nuls等互联网行业精英人士等共同投资创建的，是中国领先的社交流量产品研发企业 总部设在中国苏州，联网企业顶级团队的资深与家，致力于更好地链接。核心团队来自阿里巴巴、腾讯等一线软件开发团队。 商业模式创新与技术实现的科技企业。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721656569051,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星空链",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

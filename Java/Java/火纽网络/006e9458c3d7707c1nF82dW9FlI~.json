@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1ML08ZRGxRfqF-N1frlbtBQ-aOSylgUVatVGNMZ7iilndk1TIVbwAWUlNMaGowJgLGT7R5Y8UupwmLIQm7sgI1-dFgvFu9u62V1zPVyu7zdMTesp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "006e9458c3d7707c1nF82dW9FlI~",
+      "encryptUserId": "55ad37b95ebe23081HZ_09m0FlY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-20K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责公司技术维护开发，制定开发规范，撰写相关技术文档指导和培训工作；\n2、具有良好的沟通协调能力和团队管理意识，能够主动总结和分享自己的开发经验；\n3、负责公司产品的开发、维护、优化等技术研发工作；\n4、负责解决核心技术问题，对技术方案进行决策。\n\n任职资格：\n1.4年以上软件开发相关工作经；\n2.精通Java，熟练掌握SpringMVC、Hibernate、Mybatis等主流开发框架；\n3.在互联网金融公司、p2p公司负责过APP及平台运营维护优先；\n4.精通html，Css，Jquery，bootstrap等网页技术,并熟悉Json，Xml等数据协议，熟悉相关如redis、memcache等缓存技术；\n5.具有高并发、高负载、高可用性系统建设经验优先；\n6.熟悉J2ee体系结构和设计模式，熟悉分布式系统的设计及应用；\n7.熟练使用Tomcat、nginx等web应用/代理服务器，并熟悉服务器配置原理；\n8.熟悉并具备数据库系统如oracle、mysql、sybase，db2等至少2种，熟练掌握高性能sql的编写；\n9.熟练掌握Linux操作系统的配置及Web服务发布工作。",
+      "encryptAddressId": "081dddf9bded88020HV73tq8EA~~",
+      "address": "上海浦东新区良丰大厦21C",
+      "longitude": 121.519,
+      "latitude": 31.24313,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9b93b3fa817ca8633b9cc4eb5aeca45",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e58e220bde778d3ea123ce07dcbfe8a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "企业软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171117/e97d1b6bb0efcc5986507a32a8ab5fdce1a6770bb4b06162e00a1ea167d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "火纽网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "defe1248cfb79c071nZ-3dq9EQ~~",
+      "brandName": "火纽网络",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171117/49bf211f0ad1a0d67827b1ee363f941ae1a6770bb4b06162e00a1ea167d54a65.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "金稻草|Cashstraw是一家结合海内外领先科技与风险管理的专业从事Fintech的企业，通过大数据技术分析海量数据信息，为个人和企业提供快速信用评估服务。\n公司管理团队来自于国内外顶尖金融和互联网企业，有非常丰富的风控和管理经验，同时公司不断创新，不断尝试新技术、新领域。金稻草|Cashstraw产品运用互联化、动态化的科技不断为中国移动互联网市场注入活力，以金融科技的变革满足您的即时需求！",
+      "labels": [],
+      "activeTime": 1721665532715,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "火纽网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

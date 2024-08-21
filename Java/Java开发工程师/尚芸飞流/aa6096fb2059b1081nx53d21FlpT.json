@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jwtxxVy1ZApQh-p1NXP23RltxJopko3np6byaTsSZO_-fBGyQsMnerSv7iogz_zpDiGB6Q-PLZqjaOgPFft-T8zLujOjeUMIQOayX59OQcBuW9ClTQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aa6096fb2059b1081nx53d21FlpT",
+      "encryptUserId": "2c7507427953e781031929u_GVE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-23K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、参与金融软件解决方案的设计和开发、系统架构设计及优化、进行系统改造和升级\n2、优化产品架构，提升开发效率\n3、负责性能优化，提升系统稳定性\n\n\n工作经验：\n1、计算机相关专业，3年以上java开发经验。\n2、熟悉Spring各种开源框架，如：spring、springboot/cloud/data，dubbo，mybatis等。\n3、熟悉redis，MongoDB等非关系型数据库应用开发、配置优化。\n4、熟悉常见消息中间件，如kafka等。\n5、能独立完成功能模块的规划和研发，对系统的性能及扩展性设计\n6、有金融，银行系统设计及研发经验背景优先考虑。\n7、具有高度责任感和主动性，代码编写规范，保证开发质量，review代码，技术扎实，逻辑思维能力强。",
+      "encryptAddressId": "7db9f085f72521b81nR72t26F1o~",
+      "address": "上海浦东新区证大五道口广场1号楼2601B",
+      "longitude": 121.549974,
+      "latitude": 31.226769,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3863244e0681b634f189453b10e5d653",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7265daeaf94d5839e203bdd232d80f2f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "架构师",
+        "SpringBoot",
+        "Spring",
+        "Dubbo",
+        "NoSQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人事行政经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210318/a19a1767f30bfad1510ea4e5d95464544a418c9de639f3e5a2c72099013_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "尚芸飞流",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ae824197a12223831HV439q_GA~~",
+      "brandName": "尚芸飞流",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181128/f732247c623a0c9ca305469c025466f4cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721665467500,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "尚芸飞流",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

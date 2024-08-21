@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jFJ7Ag2BQbJL7-e1-5hZNZLfixVfHiC37tRJVYwD_PSOTUmrVDp9vyhWowm1-AncdURC71eV-ixBC4uqNek26XT6lsHD_zhoZCzJoRSXxrdsHKs4Spg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e6151c547cdd5e2a1nJz29u4FVpU",
+      "encryptUserId": "a54f6c879844f0e33nxy3Nq7FFY~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K",
+      "payTypeDesc": null,
+      "postDescription": "经验要求：\n1、2年以上java开发经验，熟悉设计模式；\n2、Java基础扎实，熟悉SpringCloud微服务体系，\n3、熟悉 nacos/consul/zookeeper(任一)、feign/dubbo(任一)、seate、nginx、redis、Mybatis等主流框架；\n4、熟练使用mysql数据库，了解sql优化方案；\n5、熟悉Linux操作系统，熟练使用Linux常用命令；\n6、熟练使用消息中间件(ActiveMq、RabbitMq)；\n7、了解JVM底层原理与机制；\n8、学习能力强，有自主学习意识；\n9、有较强的沟通能力、团队协作能力、能够独立完成开发任务。\n\n  工作职责：\n1.负责聚合支付相关系统的设计开发和分析维护\n2.参与核心技术难题的解决，并能识别风险，提供优化方案等。\n3.有高并发、微服务架构、多线程开发、SQL优化经验者加分\n4.参与大数据量并发者优先\n5.有聚合支付经验优先",
+      "encryptAddressId": "87a40f7a4ee89b0e0nZ82dq1F1I~",
+      "address": "杭州滨江区双城国际3号楼1单元7",
+      "longitude": 120.200873,
+      "latitude": 30.207273,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1cce06d1233f52846a8e4dc97b81e813",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a9df9fa9b97ba86aefd2e658a029617",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "微服务架构",
+        "Spring",
+        "Dubbo",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上呗",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5aa0c39aaa30abcf1nV_0t-6EVs~",
+      "brandName": "上呗",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210203/4b4d1688a4b7554d8a6c633fe4912020ae8e0eb05d514f9b8d6abe44c0029823_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "杭州上呗科技有限公司成立于 2013 年，总部位于互联网之 都杭州滨江，是一家专注于金融领域技术开发和服务的科技公司。 公司自主研发的上呗科技支付增值平台，包含银行营销SaaS 系 统、卡券核销系统、会员系统等，依托线下支付场景连接银行和商 家，在解决银行营销痛点的同时，联合银行持续赋能商家， 达到 三方共赢。",
+      "labels": [
+        "五险一金",
+        "节日福利"
+      ],
+      "activeTime": 1721657585248,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上呗",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

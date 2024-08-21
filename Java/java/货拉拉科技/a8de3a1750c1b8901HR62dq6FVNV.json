@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hEXIoLDxkPHA2-o1IrTXqQV76soX5fuQpH9JeonreA3TOAOw0Ym9Nzvh-n5a9iQT49ojPlwbowU2EltZhGFJz5U202g1jEsxavNTcmYitV5k",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a8de3a1750c1b8901HR62dq6FVNV",
+      "encryptUserId": "1c78373e421e260a1nZ93t2-FVs~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责资金平台领域的开发设计，能独立高质量交付需求；\n2、负责解决系统运行的故障和性能问题，保障系统稳定性与资金安全；\nbase地可选深圳、杭州\n\n岗位要求：\n1、全日制本科及以上学历，计算机相关专业，有1-2年开发经验，优秀可放宽至23届应届生；\n2、熟练掌握Java，理解IO、多线程、集合等基础框架；\n3、熟练使用MySQL并理解原理、至少熟悉RabbitMQ、Kafka、Redis中间件中的一种；\n4、熟悉使用Spring、Spring Boot、Mybatis等流行开源框架；\n5、熟悉面向对象设计开发，了解常用设计模式并有在具体的应用场景落地经验者优先；\n6、有三方支付/互联网金融/银行支付系统/网银系统等开发经验优先、对开源项目有贡献者优先；\n7、期待你是一位学习能力强、解决问题能力强、有责任心的人；",
+      "encryptAddressId": "5295e2a0df47aea71nR809q1FldT",
+      "address": "杭州西湖区黄龙国际中心六楼",
+      "longitude": 120.127984,
+      "latitude": 30.275405,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c915145a3ac80cfb6cc6b3fd807417da",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f1e29a95302f80607b6a04856487d47",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Java开发经验",
+        "支付",
+        "资产"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "Java开发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "货拉拉科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0bc562732fcf91fe3nJy",
+      "brandName": "货拉拉科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200403/5773c5e0b5de90db82af47f402733b05be1bd4a3bd2a63f070bdbdada9aad826.png",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "货拉拉于2013年在中国香港创立（英文名为：Lalamove），2014年进入中国大陆和东南亚市场，2019年扩张至印度，是一家互联网物流服务平台。货拉拉以“货物出行更轻松”为企业使命，通过共享模式整合社会运力资源，完成海量运力储备，依托移动互联、大数据和人工智能技术，搭建“便捷、平价、安全、专业”的货运平台，实现多种车型的即时智能调度，为个人、商户及企业提供高效的物流解决方案。截至2020年3月，货拉拉业务范围已覆盖286座中国大陆城市，中国香港、中国台湾及海外21座城市。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721657562872,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "货拉拉科技",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

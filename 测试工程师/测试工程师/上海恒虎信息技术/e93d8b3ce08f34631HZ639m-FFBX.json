@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "taJkiUPl2cgBH-P1xYWDAFQ1isJbxsZ5i0tbeL19dNWkUV3vXCMjD7ANEFukZb621ek856NCwn068R46xuSmhL8wrjqet4owmiXtJU04jDeYSi0CAbTJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e93d8b3ce08f34631HZ639m-FFBX",
+      "encryptUserId": "c44d79514fda42450nx529q8E1JU",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、负责业务系统的测试工作，测试内容涵盖功能、接口、安全、性能、自动化、兼容性测试等；\n2、制定测试计划，设计测试用例，组织及执行整个测试流程，包括接口测试、系统测试和回归测试。协助开发定位问题，跟踪分析，推动解决测试过程中问题及线上问题；\n3、优化产品研发测试及发布流程，维护测试环境及测试数据，制定测试策略提高产品质量和测试效率；\n4、引进和完善测试方法，开发测试工具，构建测试框架，开发维护自动化案例；\n5、推动质量运营工作，通过复盘问题、过程总结，发现团队(产品/研发/测试)存在的问题，制定措施，落实到位，改善产品质量；\n\n\n任职资格\n1.具备1-3年以上软件测试测试经验，有较强的逻辑思维能力，能快速理解业务需求，擅于主动提问题及分析问题 \n2.具备良好的沟通能力，责任心强，做事细心，有良好的团队意识，能承担一定的工作压力 \n3.熟悉软件开发生命周期、软件测试方法、缺陷管理流程 \n4.熟悉linux常用命令，查看日志协助定位问题 \n5.熟悉mysql等数据库多表查询，了解页面操作对数据库数据的影响以及数据的改动对其他模块的影响 \n6.熟悉常用的抓包工具，及google开发者调试工具 \n7.熟练掌握jmeter，具备一定的脚本编写能力（java、python），可以开发接口测试脚本以及场景化的性能测试脚本",
+      "encryptAddressId": "00459e195648907533N639W_EVE~",
+      "address": "上海徐汇区徐汇御苑5",
+      "longitude": 121.454748,
+      "latitude": 31.192556,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04b458eb6777520db2b8540c59ffda4b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e8a5c52e0242840131c2b410554d565",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "自动化测试",
+        "性能测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "HRD",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "上海恒虎信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63afaf8de91f61871XF53N-_FlE~",
+      "brandName": "上海恒虎信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1723833672626,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海恒虎信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "67etsWqCXRuy3-N1t5TnvArzprgKLyD3t433YgmM8-_eNMB92hGws_Bg-4J0Z_PMxu4d9Hqt2ZJD2HLFtSWRhsD8npmb7H7hfejEwufxWxlUDUA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad420e889bbd472033J90tm4FlA~",
+      "encryptUserId": "a5bedf09b00e6a9f0Xx-3NS4GA~~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-13K",
+      "payTypeDesc": null,
+      "postDescription": "有相关钱包开发经验的优先，或熟悉区块链的优先。\n1. 大专及以上，计算机相关专业，3年以上 JAVA 开发经验。\n2. 熟悉主流开源框架 Spring Boot、Spring Cloud 且至少在一个项目中深入应用。\n3. 具备良好的数据结构基础，有扎实的Java程序设计与编码功底，对面向对象思想有深入理解。\n4. 熟悉 JVM 原理及运行机制，能根据实际情况对JVM进行定制优化。\n5. 深入掌握 JAVA 软件开发技术，具备中小型项目的分解能力，并能指导初级工程师完成技术工作\n6  熟练分布式消息通信kafka，RabbitMQ等一种以上，熟悉主流SQL数据库系统（MySql），NoSQL存储系统（Mongodb,Redis等)。\n7. 熟练使用 Git 进行项目代码管理以及版本控制，并遵循一定的流行规范；\n8. 具备良好的团队协作精神；",
+      "encryptAddressId": "593179d6a289310c1X1y2Ny7FVI~",
+      "address": "上海普陀区纳什空间532",
+      "longitude": 121.398876,
+      "latitude": 31.23257,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af31d5d795e2a65a3ab80aab2afb61c6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f85eecada919a1e4f9c821c0a655e96e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java",
+        "架构师",
+        "MVC开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240107/607f1f3d68754fd06cb895a049b2f52adabc5c058f2cb4b2b6938da398388178112fbed803e96e1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "辉聚网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "81b4ab9c522959f833R-0tm8Eg~~",
+      "brandName": "辉聚网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200925/803564ef31e4ed01e349d0b898b3b81fb6938da398388178112fbed803e96e10.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "辉聚网络是基于区块链技术的产销一体化资产交易与支付工具，我们针对全球零售商家和终端用户，在整个应用内集成了便捷的快速支付工具、客户管理系统和产品质量追溯体系，并帮助经营者进一步优化产业链条，让原本充满低效交易和被中间商所把持的交易网络，重新焕发二次生机，利用区块链技术为实体经济“降成本”、“提效率”，助推传统产业规范发展。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补"
+      ],
+      "activeTime": 1721664682348,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辉聚网络",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

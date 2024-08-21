@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AxJ9XkLQDezl1-R1b8l4Ez7n74xSISay7M2zvDBv2usmf8FIPY8s0paFwTlz8o_6L4wsa5jWB6EdhRQnP5cNAT_4ASMOZeIg8n3BBp56t-oK_Zlsbc3i",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2f308bc4b287da751HFy2dm-FlVR",
+      "encryptUserId": "4e0e2795fb3276b60nF429i6F1JW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-60K·18薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责 TEMU 海外物流系统的需求分析、设计、开发和测试工作，确保项目按计划顺利推进。\n2、完成各业务模块的需求对接、方案设计和功能开发工作。\n3、负责与上下游各方高效合作联调，保证整体运作效率。\n4、有一定的领域知识和领域设计能力。\n\n任职要求：\n1、计算机科学、软件工程或相关专业本科及以上学历，具有扎实的计算机基础知识。\n2、2~5年以上Java开发经验，熟练掌握Java基础知识，具备良好的编程习惯。\n3、熟悉常用Java框架和类库，如Spring Boot、MyBatis、Hibernate等。\n4、熟悉关系型数据库（如MySQL等）和NoSQL数据库（如HBase、MongoDB、Redis等）的使用和优化。\n5、熟悉分布式系统的原理和架构，具备分布式、高并发、高可用系统的设计和开发经验。\n6、具有良好的问题分析和解决能力，能够独立承担技术难题。\n7、具有良好的团队合作精神，能够积极与团队成员沟通和协作。\n8、有责任心，肯学习，肯上进。\n\n加分项：\n1、对海外物流业务和电商业务有较深入的理解。\n2、对核对系统、领域开发有深入理解。\n3、熟悉微服务架构，并在生产环境进行过实践。",
+      "encryptAddressId": "55a2e266ce0bd6ab33F73Nq9EVRVxYi4U_0~",
+      "address": "上海长宁区金虹桥商业广场娄山关路523号",
+      "longitude": 121.402662,
+      "latitude": 31.208938,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4659d4936c84f8cfbf6cd3841bd152e6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861a8dfc6d6e9d7e732ec22c171ec0c1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Kafka",
+        "Dubbo",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "架构设计经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "服务端开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海从鲸信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69b348dde14edb051HB73tq6EFQ~",
+      "brandName": "上海从鲸信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240821/7bf6f160950405e9e8a47f355d22075223af7ee06a66ddef1dd844291f83ddb340bee7fa8b6e5891.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724243281585,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海从鲸信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XvrWnlkxVvzKd-M1LG0FqcxJLSQBn8oebOX6HXDzS8pOhQYLznxkzZrj19Nb6vGaPDndZXlIVnM-cOAoYw3lJmLmTqViBiZCs4Ayji17FVJdBtZu5w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "07621d81a5311f9a1nZ-0tq1F1FQ",
+      "encryptUserId": "c1ba7fa347250d481H1z2di-GQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "14-15K",
+      "payTypeDesc": null,
+      "postDescription": "1、大学本科及以上学历，计算机、软件工程等相关专业；\n2、3年以上java开发工作经验,精通Spring,SpringBoot,SpringCloud应用框架,有微服务架构经验优先\n3、熟悉微信开发，有微信公众号或小程序相关开发经验优先\n4、熟悉前端框架Jquery，bootstrap，CSS,HTML5,JS,Vue\n5、熟悉各类开源后端技术（如Web框架、RPC、消息中间件、存储、分布式、Docker应用容器引擎等）\n6、有基于MYSQL，ORACLE等主流数据库、PLSQL开发的经验；\n7、熟悉持续集成的工具并有项目运用经验\n8、具备较强的沟通能力，有一定项目管理经验\n9、具备较强的抗压能力",
+      "encryptAddressId": "8657ce5fa4951f5a03Ry3Ni9GVE~",
+      "address": "上海静安区上海闪尖软件科技有限公司江场三路169号301",
+      "longitude": 121.437798,
+      "latitude": 31.293318,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7bad21456bd46fd6518e5fdba0892ff9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f641d232d4e6702a935adc4a81ec8fd0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SSH",
+        "SpringBoot",
+        "Redis",
+        "MySQL",
+        "全栈开发",
+        "计算机软件",
+        "高级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "研发总监",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=fb393c98223ad623jzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6R8pH99agnpr5op5uY86SwHpzuYxNLmiL5VR473pC259Z1tSoyQM9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "胜狮软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cedcf2b0078ecca81nB439m5GVI~",
+      "brandName": "胜狮软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210306/222170e8aeceb6cd8dd88680a50669fd860a38a32cb2f9fe7b20380ea32fc757.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "胜狮软件是一家专注于互联网技术的软件研发公司。公司50名技术研发，公司以两名博士和8名硕士研究生为核心研发团队，主营方向大数据和人工智能。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721665466947,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "胜狮软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

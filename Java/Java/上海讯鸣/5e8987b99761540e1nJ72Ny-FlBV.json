@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qZd9yysM8s9Su-t10v_ARS172eXeIZ_PPTox9vWMVV4x-3ao0nmsrOgCRW2PKyBMr7COlaQ5Eh8H6O2cfvB8SSbqFJimT1CcJ9Yo22sisYXTKkzutUE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5e8987b99761540e1nJ72Ny-FlBV",
+      "encryptUserId": "4d377e142255dcaf1Hdz0tu_ElE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "了解io、多线程、集合等基础框架，对JVM原理有一定的了解。\n熟练使用spring boot 搭建项目并开发。\n有基于springcloud开发经验，能独立搭建微服务。\n熟悉vue开发，且有实际开发经验。",
+      "encryptAddressId": "afa3473448c36ad41nN929m5GA~~",
+      "address": "上海浦东新区上海海关民生路办公区(东南门)750号",
+      "longitude": 121.54852,
+      "latitude": 31.225134,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69d022c3015ff22376851fc08ed228d3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ffc32c596483648aaad1704b06498baf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "微服务架构",
+        "Spring",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180123/713fe4dbd4c08f880379f240818dc610db8e9ea4e5038be402644029817_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海讯鸣",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8f6bbe522e0bcfc11nN839-0FlE~",
+      "brandName": "上海讯鸣",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664729627,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海讯鸣",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

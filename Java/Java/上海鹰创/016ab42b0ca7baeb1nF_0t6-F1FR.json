@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8HvPmJj4N8od--S1AmgdtpM6rXRJ4qRJCIvJIShCTCwA_Tjp8nvRq4MX20hctrGHoWreU0KtEGbeV9BdLz2rNPEwfLXYU20T0McAVbT3REDPyBtGY1gd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "016ab42b0ca7baeb1nF_0t6-F1FR",
+      "encryptUserId": "02c63bbddf6ef7c20nd43969F1VT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与公司产品开发，完成需求分析，完成子系统和模块设计。\n2.根据项目进度要求，完成子系统和模块开发、单元测试和系统联调。\n3.根据公司规范要求，编写技术文档。\n4.系统重构、功能升级和解决bug。\n任职要求\n1、熟练springboot++springcloud+rabbitmq+redis（要求有实际工作经验）；\n 2、前端会vue+jquery（要求有实际工作经验）；\n 3、熟练mysql&oracle使用，要求会写复杂sql和常见的sql调优（要求有实际工作经验）；\n 4、熟悉常见的设计模式；\n\n    加分项：\n 1、微信公众号/小程序开发；\n 2、全媒体呼叫中心开发经验或工作流开发经验；\n 3、熟悉freeswitch/flutter/nlp/webrtc；",
+      "encryptAddressId": "0cbc87340fad316c03Z50ti0",
+      "address": "上海静安区祥腾财富广场7层706",
+      "longitude": 121.447449,
+      "latitude": 31.293879,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/566c4c3d0ea536d6b176d8fc14b66959",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2769cd6823355510ab835a5dd157bf08",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "分布式技术",
+        "微服务架构",
+        "SQL",
+        "SpringCloud",
+        "SpringBoot",
+        "Oracle",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海鹰创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ddf0a73f6455d0bd1nJ829m1GFo~",
+      "brandName": "上海鹰创",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664743427,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海鹰创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

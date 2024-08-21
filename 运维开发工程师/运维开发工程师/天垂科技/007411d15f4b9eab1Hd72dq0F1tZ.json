@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1oyNz3vTqacv0-Z1aaOyKfMnfZHOcGUyWJCPOEo5ocw7bi9LLPV6TeWpYlkiAx5RdFEqVLkBhMsii6y1TPGJfoSHb43g-RMiz3P35b_N01wDApMFPQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "007411d15f4b9eab1Hd72dq0F1tZ",
+      "encryptUserId": "03e3e9273b04c3b60nx40926F1NS",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责 CI/CD、日志、监控等系统的开发落地和持续迭代\n2.负责基础设施及服务的日常维护工作，协助线上问题排查\n3.持续跟进、学习和引入行业内优秀的DevOps实践经验，并指导开发/运维团队成员运用DevOps理念进行实践\n\n任职要求：\n1.3年以上的工作经验\n2.具备一定的生产运维经验，熟悉DevOps工具及研发流程\n3.精通容器技术(Docker、Kubernetes)，熟悉云原生体系下的日志和监控体系\n4.熟悉 linux，熟悉主流云服务\n5.熟练使用 Python/Nodejs/Java 中至少一门编程语言，熟练掌握Shell\n\n加分选项：\n985，211院校毕业生",
+      "encryptAddressId": "310b84d090046f1533F72t67F1Q~",
+      "address": "杭州滨江区杭州交投集团浙江天垂科技有限公司C座10层",
+      "longitude": 120.233108,
+      "latitude": 30.205327,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d9786a029462ef26763bca468867f7c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f903216d0f9170c4e2223e9db32ae95",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "python",
+        "Linux",
+        "运维开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "天垂科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fa1dc89941192f2233d93NW9",
+      "brandName": "天垂科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170721/d8fe9cf7b8dddc9bb42ee06ca93270c8d5faa3c2b5d2160176e7362432644940.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "Teletraan天垂科技成立于2016年，是国内领先的工业互联网平台、工业APP和工业大数据整体解决方案供应商。\nTeletraan以工业大数据、工业互联网、机器学习、人工智能为核心技术，通过多年专业的研究与实践，形成了自主的企业级工业互联网平台和多项智能工业软件系统等。\n公司始终秉承“使人和机器工作得更好、更快、更智慧”的企业使命，不断赋能工业企业，提供从智能工厂整体方案设计到项目实施落地全流程服务，帮助工业客户以最新技术、最短时间、最低成本进行生产和运营，实现数字化和智能化转型与升级。\nTeletraan天垂科技创始成员与核心技术团队荟集了斯坦福、加州大学、浙江大学等海内外知名学府人才，组建了具有行业专有知识，且掌握机器学习及软件开发等技术能力的团队，致力于打造国内领先的工业互联网平台、大数据应用及其他工业软件产品。\n公司官网：https://teletraan.io/",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "加班补助"
+      ],
+      "activeTime": 1724061767915,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天垂科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

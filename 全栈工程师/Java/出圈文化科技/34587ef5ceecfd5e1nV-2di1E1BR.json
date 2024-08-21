@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "x2h3OMwNfXS88-41pTL7aVDCH7QI2WMsyJOEqWbLTyv78Ge9YXwrA8aslw-SA_qSL5W_m3hvdz3SCOAxG6xlgYCGOETcaf6RMx7IDqnivys7DC--2CF3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "34587ef5ceecfd5e1nV-2di1E1BR",
+      "encryptUserId": "3ff23a04c20f649c0nRz3Nq1GFtU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1 精通java开发,熟练使用springboot，mybatis plus，有独立完成或主要负责项目的相关经历，2年以上开发经验\n2 有产品系统架构设计、技术选型、方案编写的能力\n3 掌握mysql，数据库调优\n4 熟悉使用redis\n5 能够在linux下开发、部署、问题排查\n6 良好的沟通能力，团队合作精神；认真负责，具有高度责任感\n7 有微信小程序或移动端app开发经验者优先\n8. 对潮流玩具感兴趣者优先",
+      "encryptAddressId": "4339647a953e60351Hx40tq-F1U~",
+      "address": "北京海淀区复兴路32号院永定路东街四号院5楼四号",
+      "longitude": 116.269787,
+      "latitude": 39.904818,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2da7029985c31bf1ff24fc283d0b47f4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7061245a799f6171d801e87a9d17e018",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "MySQL",
+        "SpringBoot",
+        "Mybatis",
+        "微信小程序",
+        "IOS",
+        "Android"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201207/ac6fa9a956bce7cb7766f85e8a18a3efcfb591c550d3b8db1fadf4d498c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "出圈文化科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf410363424877501nd42t-9EFo~",
+      "brandName": "出圈文化科技",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "深耕潮玩领域的数据平台",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721656547005,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "出圈文化科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

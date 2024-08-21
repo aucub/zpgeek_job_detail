@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uRjb_3bC4zxIX-81QAm2_RpUA6n7M1gk1nr1-OODmEjihFfwNSHNPfE9Bu4iIf64SbIhiCs4JdI0SaR2sDPJaV4nGsLYe39ZWaqrUU6ZlMXizhGWQSM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c15e723bd23aee861Xx42t29EVJT",
+      "encryptUserId": "97e48960792c501d3nB809y4FFc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练面向对象开发，熟练掌握java基础，如java集合，JVM内存模型，多线程等\n2.熟练使用常用框架，包括但不限于spring springBoot springCloud myBatis等常用框架\n3.熟悉oracle或者mysql数据库，具有一定的SQL语句优化经验，熟悉分布式缓存(redis,memcache)\n4.能独立部署完成系统，熟悉LINUX,NGNIX服务\n5.有实际开发项目优先\n6.学习能力强，代码质量高，拥有良好的编码习惯，并能高效的完成开发任务",
+      "encryptAddressId": "435ed4b02b9e2afa33xy09W8FFc~",
+      "address": "重庆江北区星耀天地29栋13-3",
+      "longitude": 106.572629,
+      "latitude": 29.588923,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab412d2f9af8ce454f6ea158ed0c1477",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4521b06002aef70e2627f1db6d933cf2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式系统开发经验",
+        "中大型项目架构设计经验",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "史先生",
+      "title": "短视频主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220822/607f1f3d68754fd08c54db22ad5f4853eb69123a72c008035661a4372b4a19dd88ef1cd83be_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "思之路",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cda8a24b328ec03f1XJz0tW6Flc~",
+      "brandName": "思之路",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721650040573,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思之路",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": {
+      "onlyAccept": false,
+      "detailInfos": [
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/7d75d5c87418f7bf85030d6c28dd26d89baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/53f07ee2b4c7100228b868c382f5b8e19baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "肢体残疾",
+          "content": "该职位支持下肢残疾"
+        }
+      ]
+    },
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

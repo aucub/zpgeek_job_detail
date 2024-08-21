@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aMEUYTkq2RhCl-s1UZ-GcmVpfjqUIX9fEVnDcP5WDyMRcATMFOfLIJIDHVIKvBJj3Jty8EnCrv4Ot9ovBUtzsCCkeTLDUvOauQyvz58aSCg7j56D",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d58a68fc282796240HV72Nu0EVM~",
+      "encryptUserId": "fc3310abf7caad5b0HJ-3dS0EVE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n\n1、能独立处理和解决所负责的工作任务； \n\n2、完成相应模块程序的设计、开发、编程任务； \n\n3、程序单元、功能的测试，查出软件存在的缺陷并保证其质量； \n\n4、编制项目文档和质量记录的工作； \n\n5、维护软件使之保持可用性和稳定性。 \n\n6、熟悉系统架构\n\n\n岗位要求： \n\n1、2年以上Java开发经验，熟悉SpringBoot、SpringCloud相关技术，基础扎实。\n2、精通Java，熟练使用IDEA或Eclipse、Git、Maven等开发工具，精通Spring Boot\\Spring Cloud等框架；\n3. 熟悉微服务领域相关技术或产品，如：gRPC，Dubbo，Nacos，Seata ，Spring Cloud，Sentinel等。\n4、精通Java&Spring体系，熟练掌握中间件与微服务框架，有微服务拆分架构等实际项目应用经验\n5、良好的沟通能力和技术文档、方案等表达能力，具有产品思维。",
+      "encryptAddressId": "a404d264f50433b53nFy3du1EVQ~",
+      "address": "杭州西湖区莱茵达大厦17楼",
+      "longitude": 120.123915,
+      "latitude": 30.275958,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c11decca6b27db54367cc2d82e7b208a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60732a1666ebfdadc4e2cf439150c578",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "容器技术",
+        "服务器配置",
+        "微服务架构",
+        "Linux",
+        "图形图像处理",
+        "Redis",
+        "Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "安校科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c77ce83c89f49b1f0n183967GA~~",
+      "brandName": "安校科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190924/1dc34884e36fe8de811661aea32ca50d2f3cdf49f10775cdf9b87165148dc65c.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "安校科技专注于平安校园建设，通过人脸识别等技术结合物联网技术，并通过数据技术，整体提升校园安全，做到人，物，环境的有效管控。",
+      "labels": [
+        "五险一金",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "住房补贴"
+      ],
+      "activeTime": 1721657874087,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安校科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

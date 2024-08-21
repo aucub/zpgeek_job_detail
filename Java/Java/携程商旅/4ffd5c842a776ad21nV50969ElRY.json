@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EzLUJ5S4ZQnlr-J1RuJhhKTwZ4SLGeCLO6Vi2nlKYM0sfCz86dAfexRDxow7R0ejW0-xFItddxyaUxkxMdSCiLdL8B_EFxIuWhBoXRfuqFNXflU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4ffd5c842a776ad21nV50969ElRY",
+      "encryptUserId": "992bf4bc7c50e0c50nRz39q6F1VT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-25K",
+      "payTypeDesc": null,
+      "postDescription": "为什么选择我们？\n携程集团在全球拥有超3万名员工，致力于为全球用户提供幸福的旅程。加入我们，你将与优秀的程里人一起，迎接挑战，为旅行者的每一秒难忘体验出谋划策。我们期待您对旅行的热爱和专业技能点亮携程在全球化进程中的万千星辉。携程集团也将为您提供不设边界、引爆潜能的舞台。您有无限种可能邂逅机遇，施展才华，看见更大的世界，在更广阔的范围与选择中创造职业价值。如果您和我们一样，拥有开放的眼光和坚定的信念，欢迎加入携程集团，实现您职业生涯的另一个飞跃吧！\n【岗位职责】\n职位描述 \n1、负责业务系统核心服务的需求分析、技术调研、方案设计、系统开发及质量提升工作，推动业务和技术融合落地\n2、深入理解业务，主导部门重大项目的业务分析，架构设计和开发工作；\n3、主导技术难点攻关，持续提升系统在海量数据、高并发下的处理性能，解决系统潜在技术风险；\n4、协助提升团队技术影响力，参与基础设施建设，完善技术体系等\n5、参与业务架构设计、流程优化及方法论提炼\n【岗位要求】\n1、本科及以上学历，五年以上JAVA开发经验\n2、扎实的编程基础，精通Java编程技术，深入了解spring, mq, cache, rpc, search等机制与代码，熟悉jvm，web开发、缓存、分布式架构、消息中间件等核心技术\n3、精通SpringBoot、MyBatis等相关主流开源框架 \n4、熟悉数据库技术(MySQL/Oracle)，数据库优化及SQL优化\n5、熟悉缓存、消息、大数据存储相关技术，例如：redis、ActiveMQ、mongodb、hbase等, 有实际中大型分布式、高并发、高可用性系统设计和开发经验优先\n6、熟悉Linux平台下常用命令操作、环境部署\n7、具备良好的沟通和团队合作能力, 能在压力下高效工作、勇于尝试、敢于推动，有较强的创新意识和业务敏感度\n8、对技术富有热情，关注JAVA或互联网行业技术发展趋势",
+      "encryptAddressId": "20837dfee5a9ced81Hx70tW4GVM~",
+      "address": "上海长宁区虹桥国际科技广场B栋",
+      "longitude": 121.351537,
+      "latitude": 31.220038,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd26f491d28ce9297517232d48b8add7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0fdb8c9de14af4f91e10b03cd78dc311",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "携程商旅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a4a2c55301331a5833J62w~~",
+      "brandName": "携程商旅",
+      "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160309/e538afa35125993b15eb4a4e8d7cc7fea127fc6bc984ca650701389bdd9eb3e4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721664728049,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "携程商旅",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

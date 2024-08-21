@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4enLvzoeGFcgT-518cw8lVoU6B8JCGC2TSzYWGH6JKbb1ecgHRycyViPlRCRIuXqEIUqcbzpiw2GXEXmiMAWMiQIy_tZpswUuEHInteSgJBDLMGcCj3b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a1c95a641b0adfd81HR409--F1pQ",
+      "encryptUserId": "bc7827b6862f3ecb0XV-3t27F1NV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、深入理解新业务的需求、场景、后续发展方向，进行系统分析、架构设计以及核心功能的开发\n2、成熟业务代码的优化与重构\n3、熟悉领域模型设计，优秀的业务理解抽象能力，有一定的数据库设计经验和大表Sql性能调优经验\n4、责任心强，良好的沟通能力，抗压能力强\n\n岗位要求\n本科及以上学历，计算机相关专业；有使用Spring Boot开发项目的经验：\n1、熟练掌握Java编程语言,有良好的编码习惯\n2、能进行基本的前端开发,熟练掌握Javascript，HTML、CSS等技术，会使用vue开发的优先\n3、熟悉J2EE体系架构，掌握Mybatis、 springboot、spring data JPA、 spring cloud等开源框架，有Mybatis项目经验优先\n4、熟悉Mysql数据库，熟练掌握SQL语法，了解MySql性能优化\n5、熟悉Nginx、Redis、RabbitMQ等技术\n6、熟悉Linux，熟悉k8s+docker的部署，有实际使用经验\n7、熟练使用常用的开发调试工具（如IDEA）\n8、掌握微服务基本理论；精通常用设计模式，并能够在实际系统设计中灵活运用\n9、善于学习接受新知识，视野宽阔，具有良好的沟通能力及团队合作精神",
+      "encryptAddressId": "7313f1ecfb4f7e961nV62N66FlJY",
+      "address": "上海宝山区华滋奔腾大厦B-9F",
+      "longitude": 121.494105,
+      "latitude": 31.336753,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf620e77454de37534ef81e43430697d3c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfb3b54b64a07e12866ced9b34d5532d0b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Redis",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "云储智链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3e1781e36f1328f71X1-2du6EVU~",
+      "brandName": "云储智链",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721664713211,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云储智链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

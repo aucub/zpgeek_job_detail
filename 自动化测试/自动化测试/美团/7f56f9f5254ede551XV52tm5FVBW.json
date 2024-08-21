@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YImqrxSsHStDd-S1TvZHeZTgedMl1taeMDjM6svA4QI0SjJRohOWmG5os533M2hQbS8PKtfYrm5ZOXPLrwZfi0pOSUmqWIIE1UpAh78ZQRdatc6uiVI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7f56f9f5254ede551XV52tm5FVBW",
+      "encryptUserId": "d881f3850f66cf8103x73tm7EVM~",
+      "invalidStatus": false,
+      "jobName": "自动化测试",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n负责地图相关后台服务、数据平台的功能测试、接口测试、策略算法测试、性能测试等；\n全面把握产品的功能及非功能需求，设计针对不同产品的质量保障和测试策略；\n规范整体测试流程、完善发布流程，维护测试环境及测试数据；\n参与code review，参与生产环境的故障应急、排查和修复；\n从业务中提炼效能工具需求，引进和开发测试工具来提高整体需求迭代效率，完成工具推广使用和质量数据运营；\n参与测试体系建设，团队技术规划和相关测试技术平台建设和技术输出；\n\n岗位基本需求\n计算机或相关专业，本科以上学历；\n三年以上后台服务开发或测试经验，有大型软件项目或互联网软件研发经验；\n有良好的编程能力（熟练掌握Java编程，并熟悉Ruby/Python/JavaScript/Shell等脚本编程中至少一种）；\n对服务端接口自动化、流量回放平台、监控体系、Tracing 链路体系、全链路测试等某一方向有深入理解；\n了解软件测试的行业动态，熟悉常见的软件测试方法论、设计模式、微服务架构等；\n结果导向，具备良好的团队合作精神，能够分解复杂问题并带领团队拿到结果；\n有大数据、机器学习等领域经验者优先；\n对技术有浓厚兴趣，乐于构建工具或对工具做改造（Hack精神）；",
+      "encryptAddressId": "35852fc321cb6b890nRy0tS_FFQ~",
+      "address": "北京朝阳区利泽东二街2号院不限",
+      "longitude": 116.485108,
+      "latitude": 40.011484,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb7d981fb1b9943ef7d8c84b58b9b83e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa8e6f92a98dbff605401c06cd7c7ab8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "MySQL",
+        "测试开发",
+        "服务端测试",
+        "TestNG",
+        "Selenium",
+        "移动端自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "测试工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220223/607f1f3d68754fd06b79846a62ac8457d38750b2a129cb023cbb01bd699352b09571673d3fe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b633a34f787d94f21nZ_0929E1I~",
+      "brandName": "美团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240628/7b5b554d84f9729cd6153cd447e2129f0afbea7ed015e2e6ec010062a73c093f09fcbc768dec40c2.jpg.webp",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "了解工资以及工作内容内容",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "意外险",
+        "定期体检",
+        "年终奖",
+        "保底工资",
+        "底薪加提成",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "交通补助"
+      ],
+      "activeTime": 1721655928669,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

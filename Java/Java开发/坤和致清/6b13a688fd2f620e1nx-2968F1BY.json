@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jM3er6vxnARyE-71bZAMvvAfgRXDB0rCDwgCXutseaPrGnbT5Jq8vgDT2zSDW1KRAetLXkzr4Ysr8XAQe5qct7GANSNdsfN_zruX7F9r6u8F99QGYbaM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b13a688fd2f620e1nx-2968F1BY",
+      "encryptUserId": "9b67ec611ebde4d80nd52Nq_E1FQ",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位基本技能要求：\n1、统招本科以上学历（二本及以上），计算机及相关专业，工作年限2年以上；\n2、熟练掌握java开发、熟悉springmvc、springboot、springcloud等框架；\n3、熟悉kafka、rabbitmq等消息队列；\n4、熟练使用Oracle、MYSQL等主流关系性数据库，Redis，熟练掌握SQL语言；\n5、熟悉常用的应用服务中间件产品，如Tomcat、WebLogic等；\n6、有华为阿里云开发经验优先。\n\n岗位综合素质要求：\n1.具有较好的沟通能力，善于思考，能能够独立分析和解决问题；\n2.有强烈的责任心和团队合作精神，心态积极，能主动融入团队；\n3.具有快速编写和修改代码的能力，面对复杂问题有清晰的解决思路。",
+      "encryptAddressId": "67abf2b1893c80541n1439m7FlE~",
+      "address": "武汉洪山区蓝晶绿洲2栋",
+      "longitude": 114.363803,
+      "latitude": 30.582874,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b644976e6a0ebaa02f1b294fc570cde1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e78b7b8cbd234f274a374cc82bd15f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Oracle",
+        "MySQL",
+        "Redis",
+        "SpringCloud",
+        "SpringMVC",
+        "企业级应用开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "坤和致清",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0baf5a728c98b80b1nN409-8GVE~",
+      "brandName": "坤和致清",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210630/9ab33299fea8d6a671ae391003350b7cf8479a097b6449b7bed0ce522ee38f61.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100014,
+      "industryName": "人力资源服务",
+      "introduce": "北京坤和致清科技有限公司基于多年来电力行业的业务开发与合作基础，主要从事电力行业及新能源领域的技术服务、软件开发、咨询服务的一家科技公司。\n公司名称“坤和致清”，“坤和”坤取自易经，“地势坤，君子以厚德载物”；“致清”，至诚、至善、至清。企业自设立起，秉承厚德载物的精神，以至诚、至善、至清作为经营理念，建立对社会、对客户、对员工的和谐关系，实现多方共赢发展。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "带薪年假"
+      ],
+      "activeTime": 1721666763092,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "坤和致清",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

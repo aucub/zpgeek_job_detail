@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BAlakL0ZquvoC-x19JVDYkQLpHQbsFBdOySl8GMytOaTgxMshZHEbCZ--c1H0b4JINU8R01eG-MWG2qLjs98xYMsloH10bWr63H-K30rA--dJV2sLw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "93e6fe422f5fdd271nB829q5ElpX",
+      "encryptUserId": "1a3a70818da90d830XJ_0925FFY~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1.参与系统需求分析与设计，负责完成核心代码编写，接口规范制定，架构设计；\n2.参与后台服务架构及核心模块的开发及优化；\n3.负责所属模块的代码开发、调试与维护工作；\n4.能独立解决开发中遇到的难点问题。\n任职资格:\n1.本科及以上学历，计算机或数学相关专业 ，有2年以上Java开发经验；\n2.理解IO、多线程、集合等基础框架，了解常见的设计模式 熟悉分布式、缓存、消息等机制；\n3.熟练掌握Spring、Spring Boot、Spring Cloud、MyBatis等框架，熟悉RESTful接口规范 熟悉Git及maven工具;\n4.熟悉MySQL等主流数据库，熟悉MongoDB Redis等NoSQL技术；\n5.熟悉高并发、高负载、高可用性系统的设计、开发及调优；\n6.熟悉Linux系统，熟悉Jenkins、Docker等持续集成和自动化构建；\n7.良好的沟通能力和团队协作精神，较强的主动性和责任心，能够自我驱动，不断学习",
+      "encryptAddressId": "2c79dce56c9b6c4e03d50tu5EFY~",
+      "address": "上海徐汇区徐汇苑大厦15楼",
+      "longitude": 121.443252,
+      "latitude": 31.178843,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cf7982d64f6756fe3c6e3e975e2a493",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35ddb2be16d775df774acd7d81a6f724",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "负载均衡技术",
+        "容器技术",
+        "Spring",
+        "Redis",
+        "NoSQL",
+        "MongoDB",
+        "架构师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240420/607f1f3d68754fd0e145d846a2a63bbf804ce7a56578ea0892733b46fc2afca1df791854a686779_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "链馥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "907b6b2131c88c180XZ53Ni6Fg~~",
+      "brandName": "链馥",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200709/f6fc5eba8176b4044fab6bbe0fc40b505d42969e01aeba66615dab088d41a7cf.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "上海链馥信息科技有限公司是技术研发与场景应⽤解决⽅案的公司。\n背后有专业的技术团队，强⼤的财团做后盾，采⽤线上线下相结合的模式，\n\n我们坚持“品质为本·财富为果”的产品理念，为成为全球游戏领域领跑者而努力，持续为客户创造价值。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1721664713012,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "链馥",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
