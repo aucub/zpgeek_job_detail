@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B809VAwgD7cgV-W1d4TsqciqMGmQvf3IMlCFwVyKib0hHM7DcD_M5UQTBbyvWGFyILbjZrQ_XjNHkP7xJTcv_1TQTCNOcqoPKi7c--WY-XFB9CLRvS4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "182ced5c3cc4c6b21XVz09S9E1RU",
+      "encryptUserId": "5d13106df4d7dbfd1X1y3924EFY~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、信息工程、计算机等相关专业； 对MES/ERP基础功能有一定了解。 \n2、有制造行业经验，熟悉制造业计划、物流、生产、质量、设备管理等业务流程。\n3、对项目实施难点和应用难点有攻克的信心和计划能力，顺利提出解决方案； \n4、具备较好的沟通和协作能力，极强的自驱力，执行力和学习能力。 \n5、具备MES/ERP开发经验，有过至少一个MES或ERP相关系统建设经验； \n6、熟悉Oracle、MySQL、SQL Server其中一种数据库的维护\n7、熟悉visual studio 2017及以上开发环境，擅长C#开发，熟悉常用设计模式，对多线程开发有实战经验\n     用WPF开发过上线的项目，有.net core实战经验更佳",
+      "encryptAddressId": "cfb301510942633303xz09i_GFI~",
+      "address": "武汉江夏区光谷·芯中心无",
+      "longitude": 114.451117,
+      "latitude": 30.418478,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89bef6e194d645987e9683e236bf7f14",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2798740aad5324e271c11f744b1b7cf8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MVC开发",
+        "Winform",
+        "Oracle",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230215/607f1f3d68754fd06fe1db5679de3692d2d6866b2b228a2ebab7e91842a1ee536c310783261_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "长园",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0226a7201e3df83a1nV43t67Fls~",
+      "brandName": "长园",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220105/7bf6f160950405e9f9ee6300c00188b5bc5e9c850e93a3ddcc48aec52a87d1c7c67e7f8ebbd3cdf8.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100901,
+      "industryName": "机械设备/机电/重工",
+      "introduce": "长园装备制造有限公司隶属于长园科技集团股份有限公司（股票简称：长园集团，股票代码：600525.SH）。公司产品主要有智能裁剪机、智能铺布机、智能吊挂系统和智能制造整合，致力于打造自动化、信息化和智能化于一体的智慧服装产业集群，为服装工业4.0的实现而奋斗。公司依托深厚的技术底蕴、卓越的研发实力和快速的专业服务保障，整合全球优质的合作伙伴资源，产品远销日本、印度、巴西、美国、德国和英国等众多国家和地区。公司坚持“客户至上、开拓创新、合作共赢、为共建智能制造的未来而前行”的经营理念，为行业呈现多款智能设备及智能工厂解决方案。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721709319333,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长园",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

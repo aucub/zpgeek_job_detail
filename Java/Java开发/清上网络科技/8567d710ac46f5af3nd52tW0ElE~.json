@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JDp0FygFnEhh4-X1OKHlR60Xtj-Ab2qvNRmiJoAWodIkUutbaB_EWr_m2RbFpEtY_a-vYTXTgZSpsXyVnjC-fD2zKeprY_lZOHL1ChKnfRxtaG1W",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8567d710ac46f5af3nd52tW0ElE~",
+      "encryptUserId": "87440e44697f3f680Hx83926GVI~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、计算机或相关专业本科及以上学历毕业；\n2、中级需两年以上的java开发经验。有实际大中型软件项目集成开发的经历；（2018年以及之前毕业的候选人）\n3、热爱软件开发技术。\n4、有较强的Java语言功底，熟悉I/O、多线程、集合等基础，熟悉J2EE架构, 熟悉springBoot/SpringCloud (2年以上的经验)、SpringMVC、RESTFull定义与开发等；\n5、精通Spark、Kafka、ElasticSearch、Redis、Neo4J等大数据组件的开发接口，尤其是Python语言接口；\n6、熟悉一些的前端开发技术，了解软件开发前后端交互过程；\n7、精通MySQL数据库，熟悉关系数据库逻辑和物理建模，熟练使用SQL语言；熟悉NoSQL数据库；\n8、熟悉Linux环境及常用命令；\n9、能够独立担当软件系统功能模块的设计开发，熟练掌握大数据组件开发技巧与性能调优策略；\n10、具备较强的问题排查及分析能力，快速定位并解决；\n11、具有良好的开发文档的编写能力；\n12、具备良好的沟通能力、团队合作能力和独立分析解决问题的能力；\n工作职责：\n1、负责智能信息系统系统模块设计及代码开发；\n2、负责输出软件系统设计文档及开发过程性文件，如代码结构说明；\n3、负责对已经完成研发的系统进行升级改造，提供过程文档；\n4、参与单元测试或交叉验证；\n5、参与所负责功能点的需求实现确认；\n6、根据测试负责人要求，参与系统集成测试及验证性测试；\n8、跟踪并修正系统测试过程发现或回归的bug，保障系统达到质量要求。",
+      "encryptAddressId": "2e87f770dd2014d81Hd829y0EVU~",
+      "address": "广州白云区广州白云国际机场股份有限公司白云机场AOC运行控制中心",
+      "longitude": 113.300405,
+      "latitude": 23.37078,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a6a204259618c5a822b071453f2c5d6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3de9d892a63570392b334feb0a0cdc74",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191015/cbb68a14f44f72940b58cfa766416abfcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "清上网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1ab1e87d3a51dab30XZ73NS6Fg~~",
+      "brandName": "清上网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "办公环境好",
+        "弹性工作"
+      ],
+      "activeTime": 1721723766862,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "清上网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

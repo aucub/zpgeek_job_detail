@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pHxvtnB4LS98G-C1zn9F61r9aDSRUcH3IIM3GPvUButtoK8nlF6VgnuBQjTO2R8vuItTWTtnhpfGYElPPciyZ-iFm9FDIqJTutJMxMqdd5xKl9-o",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cf10fcc64d03ce351HB509u5FlRY",
+      "encryptUserId": "aeea68057d56adc31HB409u4Elo~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-50K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 负责拼多多存储平台管控系统的设计及架构，实现对分布式KV/缓存，表格存储(HBase)，图数据库，通用文本搜索(Elasticsearch)，实时分析型数据库(OLAP)，消息队列(Kafka)，数据传输平台DTS等分布式云原生存储产品进行管控；并持续优化整个产品线的稳定性、可用性、安全性(如防误操做)和用户体验；\n\n2. 负责智能管控闭环链路设计，实现各存储产品的运维自动化、智能化，优化成本，支持大促。\n\n任职要求\n1、2年及以上工作经验，有过大型网站后端服务开发经验；\n\n2、精通Java语言，熟悉spring boot，mybatis, zookeeper, redis, kafka ，工作流引擎等主流开源组件和框架；\n\n3、熟悉高并发、多线程相关的开发工作；熟悉分布式系统、异步消息和微服务框架，有前后端全栈开发能力优先；\n\n4、熟悉各种分布式存储产品，如分布式KV/缓存，表格存储(HBase)，图数据库，通用文本搜索(Elasticsearch)，实时分析型数据库(OLAP)，消息队列(Kafka)，数据传输平台DTS等，有过各种存储产品管控项目经验者优先；\n\n5、有AIOPS 方面应用经验者优先；\n\n6、有很强的责任心，执行力及抗压能力；对新技术有浓厚的兴趣；有良好的编程规范，对代码质量有追求。\n岗位职责：",
+      "encryptAddressId": "b2ef336fe8dcce3f3nJz2Nu_GFo~",
+      "address": "上海长宁区金虹桥国际中心8",
+      "longitude": 121.402658,
+      "latitude": 31.208938,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e526e549848473405baa04749aa48f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a46434b03d623b666dbcc78b75904a0f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重",
+        "JavaScript",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "消息队列开发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230816/607f1f3d68754fd00fc16014d6fdd2c9c212453fcad7804623ff32266a19a0927cd62f41560ae56_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "拼多多",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ea9c5680f57d53d71HV90ty5",
+      "brandName": "拼多多",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211022/7b5b554d84f9729ceac4079214ef022eef2b25759e5ab91d3a2564a80c2638685fe2a4e5ee0b91ee.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "拼多多于2018年7月26日正式登陆纳斯达克全球精选板块，股票代码：PDD。\r\n拼多多是中国新电商模式的开创者，目前拥有超过3.44亿的活跃买家和超过170万活跃商家。\r\n在以人为先的理念下，拼多多融合物质消费与精神消费，用户可以通过拼单，与好友分享买到便宜好货的快乐。\r\n同时，拼多多还构建了分布式AI智能代理网络，将商品与消费者进行匹配，帮助海量订单精准触达制造工厂，在C2M模式下为消费者创造“便宜有好货”的价值。\r\n拼多多目前拥有五千多名员工，平均年龄仅26岁，其中70%毕业于世界知名高校，大量工程师曾服务于谷歌、微软等一流互联网公司。\r\n拼多多恪守本分价值观，致力于构建一个独立的公众机构，满足最广大用户的消费需求。我们永不放弃做正确的事，永不放弃为最广大人民群众创造价值。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "包吃",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724293778282,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "拼多多",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

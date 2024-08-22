@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nhJH3mEpHIQNq-B1N33ol6svEu-jigj2ClvEjtSGbOAVBsmWZkrSmpY5y21RlfEHHI_4cueuSU99dGK7xRdsNcTfFCew-wN84JrPSIn7xARjA9M3KA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1dadfe3c3fbbd2b71HR509q5F1dY",
+      "encryptUserId": "28babd0ec503389003d_09W9Fw~~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "【职位描述】\n1、负责系统的前后端研发；\n2、分析和发掘现有系统的不足，定位系统瓶颈，提高系统性能/稳定性以及业务扩展性；\n3、利用机器学习、数据挖掘、搜索引擎等技术实现数据挖掘、业务搜索、关联分析等相关业务需求；\n  \n【职位要求】\n1、有扎实的计算机基础，工作1-3年；\n2、有后端代码和服务开发经验；熟悉Python，Java，Golang，C++等语言中的一种，Python优先；\n3、熟悉后端开发相关知识/技术/工具链: 协议、架构、存储、缓存、安全等方向；\n4、对微服务架构组件有实践经验，关注并理解架构的高可用性与可扩展者优先；\n5、优秀的分析问题和解决问题的能力，对解决具有挑战性问题充满激情；\n6、有数据挖掘、搜索、深度学习相关经验的优先；\n7、有前端代码开发能力的优先；\n8、必须对复杂变化的业务开发有兴趣，能承受频繁变化的业务需求和持续改进压力",
+      "encryptAddressId": "0ec651e54b963ba40HJ60ty6GVY~",
+      "address": "北京朝阳区住邦20003号楼",
+      "longitude": 116.494333,
+      "latitude": 39.914805,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1f8805d084bfd25bda36bb80dfe4157",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/640290e741122a8dae95a5bb11c2fbdc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "React",
+        "Python",
+        "全栈项目经验",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170531/ca67bc0efba49e0dec0006949c5b330c8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "掌数",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7185bf6cc75e61531nZ63tS1F1Y~",
+      "brandName": "掌数",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201027/c6c01ecb96d6e55405dae1b6016b3630f55c2e3f4149fcc99a5856617c4c2acb.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京掌数信息技术有限公司成立于2019年，注册资金1000万元人民币。创始人及核心团队主要来自启明星辰、广电、央视等单位的技术精英，在网络安全领域有十几年的经验和技术积累，核心团队成员参与过多项传媒行业重点安全项目的设计施工，拥有多项著作权和核心技术积累。\n\n公司秉持“客户第一、场景为先”的理念，以让“网络空间更安全，让安全产品更有效”为使命，致力成为国内领先、国际一流的传媒场景智能安全解决方案专家。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "通讯补贴",
+        "住房补贴",
+        "零食下午茶",
+        "培训补贴"
+      ],
+      "activeTime": 1723510422000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "掌数",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yO29tDM6pU5BW-p1tDl2GWVCNs5LNDUcLv7blIilXlGjJ6pUj-LT7GmhhuxpvTZXJWUMthJsNa-S1TAvXxxMAsv_MpcmEAzegIHIcTx7AB7wQbYE0g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "633ae66e603282fa1nB-2tW9FVBV",
+      "encryptUserId": "eca6ab4e4b328fcc1HV60t65FVM~",
+      "invalidStatus": false,
+      "jobName": "DevOps工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K",
+      "payTypeDesc": null,
+      "postDescription": "公司介绍：\n\nAirwallex是全球金融科技独角兽企业，致力与创建全球化金融基础设施，助力企业的高速发展。自2015年成立以来，Airwallex先后获得DST Global、红杉资本中国基金、腾讯、高瓴资本、戈壁创投、维港投资、Square Peg Capital和MasterCard等国内外顶级投资机构的支持，总融资超过2亿美元。 Airwallex 坚持以技术为核心，持续推出高效、透明且经济的跨境支付产品，业务涵盖全球收款、货币兑换、和国际支付等各个环节。 此外，Airwallex 核心成员均来自 JP Morgan, BCG, Google 和 Tencent 等国内外顶尖企业，拥有丰富的行业经验，在其带领下，Airwallex 已在香港，墨尔本，上海，北京，深圳， 新加坡，伦敦，旧金山等多个城市设立办公室，业务覆盖130多个国家。\n\n\n工作职责：\n\n1. 使用亚马逊云、阿里云等，通过自动化脚本，部署、维护和优化跨境支付产品的运行环境；\n\n2. 通过软硬件监控保障各个业务稳定运行，解决生产环境出现的问题和隐患；\n\n3. 部署、维护和升级开发测试环境，不断提升开发效率。\n\n\n任职要求：\n\n1.    本科以上学历，计算机及相关专业毕业；两年以上大型互联网网站运维经验，管理过大型生产集群；\n\n2.    有 CI/CD 实施经验，熟悉Linux、常见开源软件、监控软件及容器技术，熟悉计算机网络；\n\n3.    熟悉Shell、Python、Java等至少一门语言，有一定编程能力；\n\n4.    具备较强的独立分析问题和解决问题的能力；\n\n5.    具备至少一种数据库的运维管理经验；\n\n6.    具备良好的英语读写水平；\n\n7.    加分项: \n1）熟悉 PostgreSQL / Redis / NoSQL；\n2）熟悉 Kubernetes\n3）熟悉 ELK / Beats；\n4）熟悉服务器、防火墙、路由器、交换机等软硬件维护；\n5）英语流利。",
+      "encryptAddressId": "003386fa18d848791Hd_29m0EFI~",
+      "address": "上海黄浦区中海国际中心A座18楼",
+      "longitude": 121.476697,
+      "latitude": 31.211372,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6add45fc97f2d844e526fd1b2c7e4772",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54e08e171f20b46f87373d4b530277bc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "CI/CD",
+        "Kubernetes",
+        "Redis",
+        "SRE",
+        "运维开发",
+        "Docker",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "DevOps Lead",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "Airwallex",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d3b517523410a29031829u4FQ~~",
+      "brandName": "Airwallex",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190719/dedeb100b8b796f6c27040905b75ef86924f8fa4c71083511eb8a9713902a4cb.jpg",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100206,
+      "industryName": "互联网金融",
+      "introduce": "Airwallex空中云汇是一家全球金融科技公司，通过构建全球金融基础设施，为各类规模的企业提供数字化的金融科技产品。在全球互联的信息化时代，以更高效安全的方式帮助企业在全世界高速发展。\nAirwallex空中云汇通过科技构建新一代的数字化金融基础设施，为企业提供端到端的金融服务平台：从付款到收款，从本地到跨境，提供实时、安全且高效的金融解决方案，节省客户的时间及成本；同时提供网页端应用和API解决方案，覆盖从大型机构到中小企业的不同需求。\n\n使命 Mission\n以技术为核心，构建全球金融基础设施与系统应用，帮助客户全球展业\n\n愿景 Vision\n创建全球金融云，让企业在世界各地便捷运营\n\n目标 Purpose\n持续连接创业者、企业家、创造者与世界每个角落的无限机遇，赋能各类规模的企业跨境运营，以此助力全球经济发展",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721706581700,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Airwallex",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

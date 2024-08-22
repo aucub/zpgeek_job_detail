@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1JlleqvpycCF--r16ynluy7NKaS1sAyHPxZmUKiWU_xojAcQPksyf2opoHw_lToWxD2F85lnPBP_Ciclf3LkEdxanh9I-aHjI3iQEOttKY4Vtc49rHzL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "18c5cd643295aa421nV-0ti9ElNX",
+      "encryptUserId": "fe3276d58e8759810nV62t68FlRS",
+      "invalidStatus": false,
+      "jobName": "研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位：软件工程师\n主要做“知识库”、“知识服务”等软件方面开发工作，能够配合项目经理完成相关产品的研发及项目实施。\n对前端熟悉者优先\n技术要求\n1、2年以上Java开发经验，扎实的java基础。\n2、熟悉Spring Boot，Spring MVC，Mybatis，Hibernate等框架；\n3、熟练使用JSP、HTML开发，熟练使用JavaScript、Jquery、Bootstrap等；\n4、至少熟悉Mysql、SQL Server、Oracle等数据库中的一种，熟练常规SQL语句；\n5、熟练使用Elasticsearch等全文检索组件优先；\n6、了解linux平台下的常用命令，能够独立部署软件系统优先；\n8、思路清晰、能独立解决问题，沟通和学习能力强，能够承受较大的工作压力；",
+      "encryptAddressId": "8b25e5d068010a6b1Hx-2Nq-EFA~",
+      "address": "北京海淀区辉煌国际广场东六号楼364",
+      "longitude": 116.301371,
+      "latitude": 40.05308,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6fb583313f2b70af3d3934074462978",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26386f723709f3573633879891946cac",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "HTML"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "销售总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240107/607f1f3d68754fd02e45707264f37c275aa3104b091b1ffbdc7821f8f855b8d41d675a15c80ab0f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智义",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c88e65a82952c3f11nd42dW1EFc~",
+      "brandName": "智义",
+      "logo": "https://c-res.zhipin.com/jrs/b895470a03283da1d16b918fb962d484.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京智义科技有限公司（简称：智义科技）是一家运用人工智能技术于非结构化大数据，构建领域知识图谱，提供知识服务的科技公司。\n\n智义科技核心团队是国内最早一批从事于知识图谱研发及落地的产品研发专家，具有10年+的技术积累，创造性地将知识管理、自然语言深度学习、知识图谱构建成完整的应用体系。目前，智义科技拥有以知识图谱为核心引擎驱动下的知识服务、智能机器人和智能知识库三大产品线，广泛服务于军工、科研机构以及企事业单位的呼叫中心、营销推广等领域。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721715484963,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智义",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

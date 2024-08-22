@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XxGuEWR7o8pl3-z1pmQc8pe2wZ0UkShqsqH87vL3UNuZJwR1u89mOu6TdMbfm-508oucRLWy2fQxs-klFG9oXOI7G7Qma4TzckbhBPMEsO1W7NNzZfUs",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af76ccfe14932e571nx-3tW0GFtW",
+      "encryptUserId": "e8b513ecaf7721ea1nZ63tm7E1dU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-17K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1参与项目需求分析，进行系统框架和核心模块的详细设计；\n2.根据新产品开发进度和任务分配，开发相应的软件模块；\n3.确保所负责的服务模块达到制定的质量标准（功能、性能、可靠性、高并发、扩展性、可维护性\n）；\n4.负责解决系统中的关键问题和技术难题，负责服务端代码的迭代更新和维护，快速定位并修复缺陷。\n\n1.计算机相关专业，本科以上学历，3年以上相关工作经验。\n2.3年以上大型系统的设计开发经验，熟悉JAVA，深入理解JVM、多线程、IO等技术。\n3.使用JAVA进行分布式系统开发的经验，精通Linux系统，熟悉常用命令，熟悉web开发的相关技术，对web认证、鉴权和加密有一定开发经验；\n4.熟悉常用开源框架Spring系列、MyBatis、JPA、Redis、Kafka、ZK、ES、MongDB等，开源源码贡献者优先。\n5.有中间件研发经验优先，熟悉阿里系中间件产品Nacos，Sentinel等产品优先。\n6.熟悉分布式系统设计，熟悉微服务治理，有丰富的SpringCloud的项目实践经验。\n7.有大规模、高并发访问的应用开发经验，有一线互联网业务背景优先。\n8.抗压能力强，具备强烈的责任心，目标驱动，结果导向，执行力强。",
+      "encryptAddressId": "f6af10f7b6f84d920XZ_2tu5GFNYxIi7Wfk~",
+      "address": "深圳宝安区前海人寿金融中心t11305",
+      "longitude": 113.879705,
+      "latitude": 22.552185,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf235e361f267009231953d8f6f3f5255f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf31c6deee1487c312cb20a5bfeb3c6bf86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "go语言",
+        "互联网金融",
+        "Python",
+        "高级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邢女士",
+      "title": "人事行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210329/83f31e904483b204797faccb7d5e03c32320d687cc49a453d9bf0ef6527_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "深圳德磁汇科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d933973268e036211X1_29W0EFA~",
+      "brandName": "深圳德磁汇科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721716167425,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳德磁汇科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

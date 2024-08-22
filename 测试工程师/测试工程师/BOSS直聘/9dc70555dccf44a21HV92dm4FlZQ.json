@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iWxsW6jnQoPX7-B1NupxEs4EhdQi7myYQvaVLRuM8ggDNcQeTbb1X9sDj3559NkJ75Tw5zqpCCA67qmGdV2qnQ84CoP3nUrixrkUnGRkgwM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9dc70555dccf44a21HV92dm4FlZQ",
+      "encryptUserId": "e227cecec2267a181XV90t-9GVY~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "16-25K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责BOSS直聘、店长直聘质量保障工作\n2、完成测试需求分析,测试计划制定,测试用例编写、评审和执行,输出测试报告\n3、完成产品的功能、接口和UI自动化测试\n4、总结改进测试工作，提升测试技能水平\n5、跟进用户反馈，推动解决、答疑解惑并归纳\n\n\n任职要求：\n1、计算机及相关专业毕业，本科211以上学历\n2、熟悉软件工程及方法理论，熟悉测试流程，了解测试文档制定标准\n3、熟练使用常用测试工具、Bug跟踪工具（Jira、Bugfree、bugzilla、Testlink）等；\n4、熟练使用C/C++/Java/php/python/go 等至少一种编程语言\n5、有较强的逻辑思维能力，能够从用户角度把控产品体验\n6、有良好的学习能力、沟通表达能力、责任心强、具有团队合作精神\n7、有大型平台测试经验者或参加过相关技术比赛获奖者优先\n8、热爱测试工作，对测试工作感兴趣",
+      "encryptAddressId": "6e8994facebd99b51nd60tm8FltT",
+      "address": "北京朝阳区冠捷大厦(太阳宫中路)5层",
+      "longitude": 116.44583,
+      "latitude": 39.970243,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c269ae6292a66b3abc682fd370ad6be1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1adbdaa21dc96538e0ce29919d8b93d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "android自动化",
+        "server端测试",
+        "ios测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "测试主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210716/741f90986b1511aca20cf0d45a1cf37fd33d6eb8e7600bda4d75de2313e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "BOSS直聘",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fa2f92669c66eee31Hc~",
+      "brandName": "BOSS直聘",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/3e9d37e9effaa2b6daf43f3f03f7cb15cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100014,
+      "industryName": "人力资源服务",
+      "introduce": "BOSS直聘是一款在全球范围内率先发展移动互联网“直聘”模式的在线招聘APP，于2014年7月上线，2021年6月在纳斯达克上市。\n\nBOSS直聘致力于用技术的手段和用户第一的服务理念，为招聘者和求职者搭建高效、便捷、易用的求职招聘的平台。\n\nBOSS直聘产品的核心是“移动+智能匹配+直聊”，通过将在线聊天功能引入招聘场景，让应聘者和用人方直接沟通，让招聘最终决策者直接参与线上招聘，跳过传统的冗长环节，提升效率。\n\nBOSS直聘应用前沿人工智能技术，不断追求岗位与人才的多维度的智能匹配，提升招聘效果。",
+      "labels": [
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "加班补助",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "住房补贴",
+        "节日福利",
+        "交通补助"
+      ],
+      "activeTime": 1724316557315,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "BOSS直聘",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

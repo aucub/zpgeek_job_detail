@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O23RrcsUCdWlS-Z1GqTagOBco720eU5PRUVcvPzWodn_icWo9bEDAAYVLaKZUDDq5thDUtHkxYe_NiHKJTpJ_U35Xq-l01Dv72SraLna3guXj3ZrWg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "460059ab689099e61nB93Nq8E1VW",
+      "encryptUserId": "1345060c06f92e9b03Vz2Ny6E1c~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责系统后端相关模块的开发；\n2、编写及维护软件功能规格说明书，设计及开发过程中产生的系列文档； \n3、参与系统架构设计和核心代码的编写；\n4、参与网站性能优化、产品体验优化以及产品功能迭代；与前端开发团队紧密配合，确保 代码有效对接，优化前端性能。 \n职位要求： \n1、3 年以上 Java 开发经验，有金融行业经验优先； \n2、具有扎实的 Java 编程基础，熟悉常用的设计模式，对 JVM 原理有一定的了解； \n3、熟悉 SpringBoot、SpringCloud、Dubbo 等分布式框架，熟悉 Git、Maven 等工具的使用；\n4.了解SOA架构，对RPC、序列化、服务治理有对应了解，熟悉Oracle应用开发，对NoSQL有研究更佳",
+      "encryptAddressId": "08924c12ca1b0e2803dz2dS6EFQ~",
+      "address": "北京朝阳区华业国际公寓A座18层",
+      "longitude": 116.488262,
+      "latitude": 39.918936,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/474d4c54cdc06557d4c43ff7ba765f0d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41a75ef81fbe020b265301b253457a4b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "WEB开发",
+        "软件工程师",
+        "JAVA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221012/607f1f3d68754fd09d37c232ff4c4ea4ca00af7ce96979924c8f3d912bcaa639f9b6d8840d2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "亨致睿达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6728493472cd804433x72ty9GA~~",
+      "brandName": "亨致睿达",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721710363720,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亨致睿达",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

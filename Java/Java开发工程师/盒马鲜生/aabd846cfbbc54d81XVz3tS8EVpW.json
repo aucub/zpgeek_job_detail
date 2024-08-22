@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sbZtxeol5IW2j-F17FVLD1zC1vAmwpTlA4To3CanKfyZztyzpsXVmNWsQT1bfdc8MEMerkYgcPX7acbZBOHsHl-3kUqiH15kbTmwxT_hOaY9dPr8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aabd846cfbbc54d81XVz3tS8EVpW",
+      "encryptUserId": "9f88a5fa56bccbf503F62N-7F1E~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述\n\n1.致力于打造线上线下一体的新零售物流履约解决方案；\n\n2.面向盒马快速创新，提供高可用，可扩展的技术方案并落地交付，高效支撑业务规模化发展；\n\n3.对现有系统进行分析，找出关键瓶颈，攻坚克难，持续优化，推动产品技术能力提升与沉淀。\n\n岗位要求\n\n1、本科以及以上学历，计算机软件或相关专业，1年以上Java开发经验\n\n2、熟悉Java的基础技术体系，包括JVM、类装载、线程、并发、IO资源管理、网络等\n\n3、深入理解微服务架构，熟练使用springboot、kafka、redis等开源框架并有丰富的实际开发经验\n\n4、熟悉主流开发流程，熟悉各种常用设计模式，喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；\n\n5、具有供应链、ERP、仓配体系经验者优先",
+      "encryptAddressId": "e355b0376f6ec15d0nd40964FFs~",
+      "address": "武汉江汉区武汉云数字经济总部区23层101",
+      "longitude": 114.259372,
+      "latitude": 30.603299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/52d3492ed88b34af75e7513edd222c02",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88d2acb6b870c867295c4e6f4ff6403e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件工程师",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "盒马鲜生",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b3eeae786aedaa270XFz09m0",
+      "brandName": "盒马鲜生",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/725a26380b8a4a5c42221d6f9fc3c308cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100007,
+      "industryName": "生活服务(O2O)",
+      "introduce": "阿里巴巴集团旗下，以数据和技术驱动的新零售平台。\n以鲜活水产和新鲜蔬果为主打，开创了“新鲜不隔夜 \" 的 \" 盒马日日鲜 \" 等系列心智商品，为您提供最快 30 分钟极速送达的智能购物体验。\n希望为消费者打造社区化的一站式新零售体验中心，成为一二线城市品质生活首选，期待用科技和人情味带给盒区居民“鲜美生活”!\n期待有你的加入，让我们共创辉煌、铸梦未来！",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721709331098,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "盒马鲜生",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

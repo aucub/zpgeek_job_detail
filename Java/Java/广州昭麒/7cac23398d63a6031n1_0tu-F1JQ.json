@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5hQ0mpXfnDkAH-Y1O36tJ6ErdzhYrDOIyIMdUrvIkMakVt3TOdHCz7vDhQhp_m1Mv9b4Hzhyd2qhiexoprurbldDk4ohcQp_nuELf9TaCMbtYwW6ysis",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7cac23398d63a6031n1_0tu-F1JQ",
+      "encryptUserId": "c0dabccff6b696fa0nVz2dm5ElJU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n岗位职责\n1. 负责后台系统的设计与实现，系统框架、数据库、接口等设计、开发与维护；包括：消息、存储等；\n2. 负责与产品及前端工程师合作，开发交互、性能、安全性良好的产品；\n3. 负责系统架构设计、优化，提升系统性能和开发效率，保证服务高并发高可靠。\n任职要求\n1. 本科及以上学历，计算机相关专业，2年以上Java后台开发工作经验；\n2. 精通spring、spring boot等主流开源框架，熟悉spring cloud体系结构；\n3. 熟悉HTML、JavaScript、XML，熟练使用Ajax；熟悉restful api原理及实现方式；\n4. 熟悉devops相关开发实践，能够熟练使用Jira, Git, Jenkins进行项目开发。有Docker K8S相关开发经验者优先；\n5. 了解java平台常用的中间件,如：redis、rabbitmq、zookeeper、ELK、mysql等；\n6. 思路清晰，善于思考，能独立分析和解决问题；责任心强，具备良好的团队合作精神和承受压力的能力；\n7. 能自如的看英文文档。",
+      "encryptAddressId": "b151e1d1fb8d78481HN72ti5EFU~",
+      "address": "广州海珠区广州日报裙楼6层整层",
+      "longitude": 113.336521,
+      "latitude": 23.107417,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22776cbe241a8e2fb31d1772683eea76",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/71b7f37dde5c309ad01895fb47ace493",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Redis",
+        "后端开发",
+        "架构师",
+        "MySQL",
+        "多进程",
+        "文件管理系统"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "甘先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231020/607f1f3d68754fd0998a03cdc01d501d3803cc6521ffa14e2e181f760bbd835f73e13afdbdf323f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州昭麒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "986424d1adde9c201XR_3dq4F1E~",
+      "brandName": "广州昭麒",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723156850,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州昭麒",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

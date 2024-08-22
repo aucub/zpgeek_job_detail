@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vYxq6qBw1vLTC-31Cy_jU0QWaETfw2Vbj2THqsPNWHnB7eT4k0sPeB7ktI-0nctL4BJjtHJ2DJ2j06uE3-DEiGShLooxQ1j6a19w1tup9qBVyegSyiddODot0JylbNXSAlqtRuboUvvkCCCBocgQRi1k1rIZmSL7vsrfrHWKG3Ogu-zMyA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ade9e1a958c427871HNy3tq-FFdZ",
+      "encryptUserId": "f79fd7dbd79374fa1HF_3tq6GFI~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-16K",
+      "payTypeDesc": null,
+      "postDescription": "1、大学全日制统招本科及以上学历，5年及以上基于Javaweb语言开发经验；\n2、JAVA基础扎实，包括JVM、IO、多线程、并发、网络等；深刻理解面向对象，熟悉各种设计模式；\n3、熟练掌握常用的设计模式，精通数据持久化、缓存、消息、通讯等的相关开源框架，对分布式开发、大容量、高并发系统的设计与调优有丰富经验尤佳；\n4、熟练掌握SpringBoot、SpringCloud、Spring、SpringMVC、Mybatis等技术及Tomcat、jetty、Nginx等服务器的应用;\n5、熟练使用Oracle、MySQL等数据库、熟练Redis、RabbitMQ等中间件；\n6、熟练常用的linux命令，维护生产环境及问题排查；\n7、熟悉敏捷开发过程，对技术前沿与发展方向的敏锐洞察力，对卓越代码和优秀结构的强烈追求；\n8、有复杂业务系统的抽象设计能力，思路清晰，善于思考，积极主动，能力独立分析和解决业务、技术问题，具备团队合作精神；\n9、有银行开发优先考虑",
+      "encryptAddressId": "ea4a5415ea19ea751nV83dq8FFRZwoq6Ufie",
+      "address": "上海浦东新区张江高科技园区张江高科",
+      "longitude": 121.600986,
+      "latitude": 31.209222,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f459054c098d7bec5c0bdc940eb0f68",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00ec228cb852b0138131d27c0c80b18c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "JVM",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220221/607f1f3d68754fd0d6ddf0b0158c721245ce466c1321f117dad956430be152b1710d1d6679d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "智尚远航",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5b946e89c8ded4561HB42tq9GFs~",
+      "brandName": "智尚远航",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724317182336,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智尚远航",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

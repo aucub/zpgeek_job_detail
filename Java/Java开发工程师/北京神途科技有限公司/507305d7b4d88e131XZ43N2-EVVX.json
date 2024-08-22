@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rntwot6I8Edc8-t1MIDE_KMRpc_vSqvysmTH912hN8xW3QGrhH1St-QXowYGE12LIgtBYrwsfeGPs0V42IYOX0BDDxb1AgRNI9UjpeLF4cYQ3mOD0aw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "507305d7b4d88e131XZ43N2-EVVX",
+      "encryptUserId": "19622f8577f63c9103x93du-E1o~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作内容\n\n1、在项目经理的带领下，参与项目的业务需求梳理，讨论；\n2、作为团队核心开发人员，参与项目的开发工作，具备独立完成开发任务的能力； \n3、按照公司统一标准完成相关文档；\n4、对新技术有强烈的好奇心及动手实践能力。\n二、技能要求\n\n1. 统招专科及以上学历，计算机相关专业，2年以上Java开发经验；\n2. 熟悉Java，JavaWeb技术,了解html,js,vue等基本的前端技术；\n3. 熟悉开源框架Spring、MyBatis、SpringMVC,SpringBoot等；\n4. 熟悉Mysql、Redis、MongoDB等常用的存储技术，具备优秀的SQL优化能力以及分库分表拆分经验；\n5. 熟悉消息队列RocketMq,Kafka,rabbitMq中的一种；\n6. 熟悉solr，es相关搜索引擎中的一种；\n7. 大中型分布式架构集群架构经验，高并发稳定性问题解决经验；\n8. 熟悉dubbo、zookeeper、springcloud 微服务技术，有docker、k8s使用经验。",
+      "encryptAddressId": "a8b7f7ac3db630e50XR52tm1GFs~",
+      "address": "北京海淀区航天科技大厦99",
+      "longitude": 116.312762,
+      "latitude": 39.92331,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5808327b17adcfeeea422b09be204203",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8a66b9f0503e69a15597047344ff3bab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "分布式技术",
+        "消息队列",
+        "软件工程师",
+        "后端开发",
+        "SpringCloud",
+        "Linux",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北京神途科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e3b0ec7bbc759e1b1XV639y0GFo~",
+      "brandName": "北京神途科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京神途科技有限公司成立于2021年1月，是一家提供面向政府及企业数字化转型方案的研发型高科技公司，公司以“用心服务，共创价值，共同助力中国信息化”为核心理念，致力为客户提供最优秀企业信息化和信息化安全解决方案及相关咨询、研发、培训和实施服务。",
+      "labels": [
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724251529539,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京神途科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

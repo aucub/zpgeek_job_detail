@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nf5DHCjvTlISu-t1GnRM2S4wh7PsygD5jomk6R9ZUumB6bDOQnUOyQHSKp1esD0JcFKjNk_Q0BF8d_eEvZEs0xvFPtpYxiEoXdRZNEvKxMP3iD31U3I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ea6231ce90e71fb1Hdy09u8E1BU",
+      "encryptUserId": "8dd85408ffcbd1ba0n1_0t-7Flc~",
+      "invalidStatus": false,
+      "jobName": "Java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n业务技能要求：\n1、精通主流开发平台（JAVA、J2EE）、熟悉mysql数据库、熟悉sql语言；\n2、精通常用的Java开发工具，熟练掌握Linux操作系统，熟悉主流应用服务器(tomcat、JBoss等)；\n3、精通Java语言，熟悉Maven、Springboot框架，熟悉SpringCloud微服务开发者优先\n4、了解HTML/CSS和Javascript等前端语言，了解HTML5、Javascript库(如jquery等)；\n专业知识要求：\n1、专科以上学历，计算机相关专业，2年以上相关工作经验；\n2、具有较强的业务理解能力、沟通能力，热爱软件开发工作，能够承担工作压力；\n3、良好的周边沟通协调能力。\n4、熟悉oracle 或mysql 等数据库，熟悉apache、tomcat 等应用服务器部署和配\n置；\n5、掌握项目开发中常用的工具及开源；\n6、有java 线程、socket、设计模式等编程经验优先；\n\n根据项目需要，会有出差驻场研发的情况。",
+      "encryptAddressId": "8172ae0117e8b0e80nN73920GFdQwoS2Ufw~",
+      "address": "北京昌平区TBD云集中心2号楼302",
+      "longitude": 116.367252,
+      "latitude": 40.098705,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfc55c51db811bf962f9369e7cef50e4da6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfa1d90f87921cb3a98f7ea602fe51f3306bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "分布式经验",
+        "Socket技术",
+        "文件管理系统",
+        "SpringCloud",
+        "服务器配置",
+        "SpringBoot",
+        "SQL",
+        "Elasticsearch",
+        "Docker",
+        "微服务经验",
+        "负载均衡技术",
+        "MySQL",
+        "MongoDB",
+        "架构设计经验",
+        "MVC开发",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "史先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190408/f019c0a197cd4b0024969a34158232507a2cf6d6f4d76ce1781446bc482_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "北京数通智达科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3655eb624142c1161HR_3d67GVU~",
+      "brandName": "北京数通智达科技",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "有无线网",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1724142163944,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京数通智达科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

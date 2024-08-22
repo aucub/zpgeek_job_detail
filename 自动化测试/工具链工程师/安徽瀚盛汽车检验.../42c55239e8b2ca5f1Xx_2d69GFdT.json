@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "A8kLG9U3QPGDj-r1U2ilkcZ5PMtb6U1_id29PPZ_vk2u3g2idiTDpbLvKy4NWZmY6fyUhwD6oRxFOUbaXHWQHFF57d0ey411jhM8HCw-Cu56OOW3MBbv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "42c55239e8b2ca5f1Xx_2d69GFdT",
+      "encryptUserId": "911bbbe642aa935f1nV62d27E1JW",
+      "invalidStatus": false,
+      "jobName": "工具链工程师",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-22K",
+      "payTypeDesc": null,
+      "postDescription": "该标定工具链需要提供以下功能：\n1. 自动化构建和测试：通过使用工具链中的构建和测试工具，可以自动化构建和测试自动标定脚本，从而减少手动错误和重复劳动。\n2. 版本控制和协作：工具链中的版本控制工具和协作平台可以帮助标定工程师更好地管理DCM库，协作开发和追踪问题。\n3. 标定自动化集成：使用工具链中的自动化标定集成工具，可以更快地部署自动标定集成程序，降低出错率。\n4. 统一的标定数据管理：工具链中的集成数据管理模块可以提供一致的存储服务，从而让不同的标定工程师之间更容易协作和共享数据。\n在本次项目中需要完成的开发工作主要包括但不限于一下功能列表中的内容： \n\n岗位职责\n1\t标定工具链产品定义：广泛地调研VAS标定工程师与实车测试工程师在开发过程中由于缺少自动化工具链而存在的痛点和产品需求，生成产品定义PRD\n2\t自动标定模块开发：1）基于INCA COM开发适配INCA的自动标定模块\n                                        2）基于昆易G4设备接口开发适配的自动标定模块\n3\t标定自动集成模块开发：开发具备自动解析a2l、hex与DCM，自动完成软件与标定集成、释放功能的模块\n4\t标定文件管理模块开发：开发可以实现版本控制的a2l、hex、DCM文件管理模块\n5\t测量文件管理及自动分析模块开发：开发可以实现对dat、mdf、blf等测量文件进行管理和自动分析的模块\n6\t系统测试运维：完成对工具链系统的测试与运维工作，确保工具链稳定上线使用",
+      "encryptAddressId": "3ebfd2e52ffbfbc50HJz39S6F1o~",
+      "address": "上海嘉定区上海蔚来汽车测试中心1",
+      "longitude": 121.237194,
+      "latitude": 31.311096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a3d133c3d04847923a7423a6b9210fe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad034953b0e727da8bb6088bf7f11c9a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "工具链",
+        "标定自动化",
+        "标定工具链"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221219/607f1f3d68754fd0d804ab0a11d0cf5137e05159e9a6f9d6aea31eb88eefdd3114ddb617ec5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "安徽瀚盛汽车检验...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6a877d44dcec29b81nF53ti9EFE~",
+      "brandName": "安徽瀚盛汽车检验...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100802,
+      "industryName": "汽车零部件",
+      "introduce": "安徽瀚盛汽车检验服务有限公司成立于2014年4月，注册资金500万元，主要从事汽车试验代驾业务，提供整车集成测试工程师，维修,HOMO,NVH，EPRT，PPO拆装改制，Safety等技师支持\n我公司目前共有长期工作员工122名。自2014年3月成立之时就服务于江淮并同年7月份开始全国工况试验，模拟用户试验，道路信息采集，车机功能测试。2022年与蔚来汽车，奇瑞集团和全国各大检测中心签署实验协议……",
+      "labels": [],
+      "activeTime": 1721706143131,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安徽瀚盛汽车检验...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ToRljYYvDBIOC-a1yw0PkYprJv0zJEkvIqklLHvqp52egAJXPttcUMCJChEv6DrNoZIQYFH2DWyvBc4CanjUSVy5s3fvaTqfGy9Nkr6fj4iC136LIBQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6c104fd92be1efee1XBz2d-1EFFT",
+      "encryptUserId": "b0b6290c96e347341HZ73NW8GFU~",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求:\n1，负责公司运维系统的相关模块的功能设计和代码开发工作及其接口文档的设计与撰写；\n2，负责公司相关项目产品的需求调研与分析，概设详设，撰写相关文档；\n3，协助完成产品测试、问题修改以及发布工作；\n\n招聘要求:\n1，统招本科及以上学历，计算机或相关专业；\n2，优秀的计算机专业知识背景，熟练掌握python、c/c++、perl等编程语言；\n3，有python web框架使用经验（如Django/tornado/flask等），熟悉restapi。\n4，了解常用关系/非关系数据库，熟悉sql语句语法以及数据库性能优化方法；\n5，熟悉常用消息中间件，如：rabbitmq等；\n6，熟悉linux系统，以及基于Linux系统的软件开发；\n\n加分项:\n1，熟悉监控运维系统，做过相关开发工作的；\n2，爱好学习和研究新技术以满足产品的需求的；\n3，有强烈求知欲，对人工智能及AIOps有浓厚兴趣的；",
+      "encryptAddressId": "e97b774a6fb17e100HV82NW0GVM~",
+      "address": "北京海淀区海淀绿地中央广场12号楼-512",
+      "longitude": 116.192637,
+      "latitude": 40.071529,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/015640b3c92aec548ec5e1df55bb5aad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c7b3ea65da27df29429054e1c2ea1a1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端",
+        "Python",
+        "C/C++",
+        "MySQL",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "研发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd0032a33ea5814d2a764dfb5c482854373a5ca6a166e498ee14d83c36dcdb72b1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "精一强远",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7e1b953b58d251291nZ63ti1ElE~",
+      "brandName": "精一强远",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721734715162,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "精一强远",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

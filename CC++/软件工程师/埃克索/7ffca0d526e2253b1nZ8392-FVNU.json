@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "itpEo1YnILENt-J15kxRvd-UDg4IlNWbl1uuwkbJRIf8l7uIZlRGI7ReGP8EEKeVA93gyzNvpNTm9e4N1atSOFj_cPFZ1wGY5q2FL3u60Xqu61rPsuU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7ffca0d526e2253b1nZ8392-FVNU",
+      "encryptUserId": "9901cb3f00e82f4d33B42NW1FlE~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-35K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司软件产品架构设计及研发；\n2、不断完善和重构相关代码;\n3、负责核心图像处理算法的开发、优化、集成；\n4、负责项目相关文档撰写。\n任职资格:\n1、本科及以上学历，计算机科学、数学等相关专业；\n2、2年以上C++编程经验;\n3、扎实的C++、STL、数据库基础\n4、熟悉QT界面库、OpenCV图像开发库、了解CMAKE使用;\n5、有VTK、OPenGL或相关三维图像显示及处理开发经验优先;\n6、有导航机器人相关开发经验优先。",
+      "encryptAddressId": "724f7bd1328898751nd82di8Flo~",
+      "address": "北京大兴区永昌工业园8号楼8304",
+      "longitude": 116.509243,
+      "latitude": 39.803664,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3486e36147e4ace3fc5dc828b6d8fe1f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43722e6537efe6a94d390e723f6df9f2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "软件工程师",
+        "OpenCV",
+        "STL",
+        "OpenGL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "埃克索",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6085be62a0adc8c21nB-2N28EFs~",
+      "brandName": "埃克索",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210528/5b6c288bff3b416a9f48f07289e35bcbacf97029537d258f4528d4fbf1cc11fd.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "埃克索公司是一家以医疗器械研发、生产、销售为主的科技型公司。公司成功开发的外科手术导航机器人采用三维多模配准导航技术，现已进入临床阶段。\n总公司在北京经济技术开发区，子公司在安徽巢湖经开区。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723718827077,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "埃克索",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

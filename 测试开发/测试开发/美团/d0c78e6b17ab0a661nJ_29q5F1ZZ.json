@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YeWVsoOTUJhCD-L1gk5kE-KIIyvvoUFwtS01j8SRn9KGWDuPYQSwyB6ajeINRiREuiFb0iINEKavGRgRMHSH0vUBsOa46MDHmOQmvs-kfZvObn45Aww~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d0c78e6b17ab0a661nJ_29q5F1ZZ",
+      "encryptUserId": "6e995338f09584af1XV709S0EVU~",
+      "invalidStatus": false,
+      "jobName": "测试开发",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-35K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "美团的使命是“帮大家吃得更好，生活更好”。作为一家生活服务电子商务平台，公司聚焦“Food +Platform”战略，以“吃”为核心，通过科技创新，和广大商户与各类合作伙伴一起，努力为消费者提供品质生活，推动生活服务业需求侧和供给侧数字化升级。\n2018年9月20日，美团正式在港交所挂牌上市。美团将始终坚持以客户为中心，不断加大在科技研发方面的投入，更好承担社会责任，更多创造社会价值，与广大合作伙伴一起发展共赢。\n岗位职责\n岗位描述：\n1.负责美团金融相关业务的质量保证工作；\n2.制定整体的测试计划，测试方案选型，完成项目测试，端到端的为交付质量负责；\n3.合理制定自动化测试策略，编写、维护自动化测试脚本；\n4.参与搭建CI/CD体系，将问题更早暴露、缩短测试耗时；\n5.识别质量风险，不断探索和实践提升系统高可用性。\n岗位基本需求\n任职要求：\n1.扎实的软件测试理论基础，能够持续优化改进研发测试流程、测试方法；\n2.有良好的编程能力（熟悉Java或C编程，并熟悉Python/JavaScript/Shell等脚本编程中至少一种）；\n3.熟悉Linux或Unix系统、mysql等主流数据库、git的日常操作；\n4.具备丰富的自动化测试经验，有自动化框架搭建、二次开发经验者尤佳；\n5.具备较强的逻辑思维能力和较强的分析、处理问题的能力；\n6.良好的团队协作和沟通能力，对测试行业有较大热情，性格乐观有韧性。\n加分项\n1.有互联网金融产品相关测试经验，负责过大型项目；\n2.对CI/CD、DevOps有一定认知，有实践经验者；\n3.测试行业某个方向上有影响力方面的输出（技术文刊、分享、专利等）；",
+      "encryptAddressId": "97b24a1536fb3d1403Nz2dW5Eg~~",
+      "address": "北京朝阳区望京恒电大厦B7",
+      "longitude": 116.487901,
+      "latitude": 40.008555,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38188254c3a2416b65903c5da1a98a27",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c63b82d9d4cbc0d3857c1a40d71d0f99",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "软件测试",
+        "服务端测试",
+        "金融测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "高级测试开发",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170216/ab21ab86242f881131db4e4878fbb5458c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b633a34f787d94f21nZ_0929E1I~",
+      "brandName": "美团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240628/7b5b554d84f9729cd6153cd447e2129f0afbea7ed015e2e6ec010062a73c093f09fcbc768dec40c2.jpg.webp",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "了解工资以及工作内容内容",
+      "labels": [
+        "意外险",
+        "底薪加提成",
+        "夜班补助",
+        "工龄奖",
+        "住房补贴",
+        "交通补助"
+      ],
+      "activeTime": 1721729993708,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

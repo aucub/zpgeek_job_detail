@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TzDd5AJtLwmTb-G1mjupixj2ssjJxgyoetQPBvSqyeUtzRiUJNXWxV8PbhiMK-3QiDMwGGuTZoDpA8hdOnedkzZhx8Zh8HQtuyNmN32EM0fdzamMT6s~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ec8a7c91906412f1Hd_096_F1VV",
+      "encryptUserId": "75e50ddb65cfd62b0XF73dq9FFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与公司产品平台及项目的核心业务系统的设计和开发、优化\n2.为重大项目或技术难点提供解决方案，并能主导推动项目的推进与落地；\n3.优化和重构现有模块，提高性能和复用性，保证系统的安全、稳定；保持技术前瞻性，持续推动系统架构的合理性；\n4.负责系统及相关产品需求分析、项目规划及架构设计，能够出具完整的技术方案。包括不限于：技术选型、原型设计、接口规范制定、技术文档编写等；\n5.  带领团队进行技术研发，指导初中级开发人员工作，培养技术人才。\n岗位要求：\n1.计算机相关专业，统招本科及以上学历，3 年以上 java 后端开发经验，精通 Java技术栈，具有小型团队管理经验者优先；\n2.有扎实的 JAVA 编程基础，良好的开发习惯；熟悉 IO 、多线程、集合设计模式等；对数据结构与算法有较深理解； 3.熟悉Spring Cloud 微服务架构，有实际的项目开发经验，有架构设计、重构经验者加分；\n4.熟练掌握主流开源框架，如 Spring 、Spring Boot 、MyBatis 、Redis 等了解内部原理，精读过相关开源代码；\n5.熟悉分布式、缓存、消息队列等机制，可熟练使用分布式系统常用解决方案，主导完成技术调研、技术选型等工作； \n6.熟悉主流关系型数据库的使用和管理，精通数据库设计、QL 编写和优化，熟练掌握 MyBatis等数据库开发框架；\n7.熟练掌握 Linux 系统的使用，熟练常用命令，完成部署、调试、优化等工作。\n8.喜欢钻研，对业务、技术具有浓厚兴趣；具备较强的逻辑推理能力、分析能力和抽象思维能力，有能力将共性需求提炼成产品。\n9.良好的学习能力，具有很强的分析能力和问题解决能力，对新技术有热情，并愿意致力于新技术的探索的研究。\n10.  有较强的责任心和团队领导能力，承压能力；具有丰富的技术知识、研发经验积累，可在团队内部进行分享，推动技术落地。\n待遇：月薪10000+五险一金",
+      "encryptAddressId": "0d564aeda290894d1nZ92d27FlI~",
+      "address": "北京海淀区辉煌国际中心4号楼816",
+      "longitude": 116.30084,
+      "latitude": 40.053299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a034646b11f7667ef822efb767fa416",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23c62299ee772881b4a9f6c9b927a3f9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "易女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "北京知行和易科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1cfd2076ce63f50b1HZ90tq4F1c~",
+      "brandName": "北京知行和易科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730280819,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京知行和易科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

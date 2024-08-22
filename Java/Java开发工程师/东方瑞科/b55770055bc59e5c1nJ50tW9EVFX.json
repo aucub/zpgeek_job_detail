@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oVstVUpZVSQPH--1xnHBX59Z_72R-2Q7gESArhPkgqcLfhhlMAf2ipxjs3IB0x8hNke8kN3BEo49QL2JD9L2aDoUTTwPPfoo217-75v2G-2AQJeOlm8M",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b55770055bc59e5c1nJ50tW9EVFX",
+      "encryptUserId": "b7c37829c1d4a4590nd93dS9FVBT",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1.计算机或相关专业本科以上学历；\n2.有1年以上软件开发经验；\n3.具备扎实的JAVA编程基础，熟悉常用的数据结构、算法知识。\n4.熟练使用PHP\n5 .熟悉Java领域的常见开源框架;(SpringBoot等)\n6.熟悉mybatis、Hibernate等ORM框架的使用；\n7.熟练掌握SQL语句的编写，对复杂查询优化有经验；有主流数据库使用经验，如MySql、Oracle、SQL Server等；\n8.熟悉Linux操作系统的常用操作，能独立部署应用；熟悉GIT、Maven等。",
+      "encryptAddressId": "159338f17685af1503R52tu-FQ~~",
+      "address": "北京海淀区中黎科技园1号楼2层C段262",
+      "longitude": 116.313575,
+      "latitude": 40.037565,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22212cd122e95a7de267f28cddc22fd4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46db401752536518c0a62adb3a748f1a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "SQL Server",
+        "Oracle",
+        "Linux",
+        "SpringBoot",
+        "GIT",
+        "Hibernate",
+        "PHP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "国女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/ca8c06946bf80f90e19cf3b7e86a5e31433a350c889d371587030bf0381_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "东方瑞科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c1e37bbf2b94c3581nNy09S5FVI~",
+      "brandName": "东方瑞科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "餐补"
+      ],
+      "activeTime": 1721710366031,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方瑞科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

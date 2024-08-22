@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EjeaVz-yBw2ym-A1IruAir08a55-I5OMHdyrfwW13S2fBAVnXFZ4lhFBy28Rl2INMlTO8l5sOXHeMaKvIm5FstduaKnbyv32XAQg-ICoEM-m4eGx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fc53e63a878085d11nN-3dq5FVtX",
+      "encryptUserId": "d3191470352af7a50nN_2tu4FQ~~",
+      "invalidStatus": false,
+      "jobName": "Java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-30K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1、计算机及相关专业，本科及以上学历，有2年以上的运维开发相关工作经验；\n2、基础扎实，理解IO、多线程、集合等基础框架，对JVM原理有一定的了解良好的\n3、熟练掌握Java EE相关技术，熟悉Spring, iBatis，SpringMVC等开源框架\n4、熟悉前端开发语言，至少熟悉一种前端框架，如Angular、React、Vue等，能够独立完成前后端分离项目的开发；\n5、熟悉常用数据库，如MySQL、PostgresSQL、Redis等；\n6、熟悉运维自动化、监控系统等运维系统平台的建设，有监控系统开发的优先；\n7、强烈的责任心与良好的团队沟通协作能力，对所负责工作有owner意识，并能自我驱动成长；",
+      "encryptAddressId": "e0c29648cf7a77681nF62969EFQ~",
+      "address": "北京昌平区天通苑中苑视觉工业基地",
+      "longitude": 116.4284,
+      "latitude": 40.07365,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f273ac3fc9f51bd7fa53cb99efe0e563",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0f494dc546dbeb7e3ecb93e0908e501",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "SpringCloud",
+        "微服务架构",
+        "MySQL",
+        "后端开发",
+        "Spring",
+        "Dubbo",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "技术vp",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240329/607f1f3d68754fd0bcc63965bbede8bcc59632ac22503370b0ce6671a9f1a8e36fedc9eb1d99a48_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "国医精诚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dfd97c95f98335051Xdy2t65Fg~~",
+      "brandName": "国医精诚科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730287755,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国医精诚科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

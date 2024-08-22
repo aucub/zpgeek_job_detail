@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RTKEGaq1FXd78-o1CWOLyrmrObB9r2hBtAfhhnceiXq_-AFsDwTMcLnJIG2KgrxKJLARgeb-TL267x8t47mnLN8F-C3scwngKX2BMgVPmYcckWyG5Wv2gOHilXo0oYVNhvmGZHxwG5eQdIk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "83ac1ea3b0e0563a1HJ-0t-7EVJS",
+      "encryptUserId": "f8adaf9dc2104f4f0nV-29S5GVBT",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-15K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】 （核心能力）\n  1、参与公司产品服务设计与开发；\n  2、能够独立完成职责范围内的开发任务，迭代开发中能够把控迭代开发进度；\n  3、具有一定的代码设计能力，并根据开发进度和任务分配参与需求设计、详细设计和代码的编写及测试工作;\n4、与团队同时保持良好沟通，对产品需求进行合理化建议，按计划确保开发工作顺利进行；\n\n\n【任职要求】（业务能力要求）\n1、有2年以上Java开发经验, JAVA基础扎实，理解io、多线程、内存处理，GC等基础原理并有应用经验，对JVM原理有一定的了解；\n2、熟练掌握Spring、mybatis、等主流开发框架和技术；\n3、熟练掌握各种算法及Redis，MQ等中间件，了解或使用过Elasticsearch；\n4、具有一定的设计能力，并使用UML等工具展示架构设计结果，并根据设计进行相应的开发落地；\n5、熟悉Mysql数据库，熟悉存储过程的编写并有一定的SQL优化经验，能够熟练应对日常开发中涉及数据库搭建，配置，管理等需求；\n6、熟悉Linux/Unix，具备一定的运维服务经验和优化能力，能够独立完成应用部署和维护，能够编写基本的Shell脚本。\n7、熟悉Git版本控制工具，理解Git Flow工作流。\n8、具有良好的团队合作精神和职业稳定性；工作主动性强，有责任心。；\n9、具有开发或对接大语言模型产品经验优先。\n10、具有对接第三方api/sdk的经验。\n\n\n【薪资详情】\n薪资待遇：薪资范围12K~15K，薪资范围仅做参考具体面议；五险一金按比例缴纳。\n休假情况：大小周，大周单休，小周双休，法定节假日正常休假。\n工作时间：早九晚六，弹性工作制。\n绩效考核：按自然月进行月度考核。",
+      "encryptAddressId": "d02bbd43524077ec33Z53tu0ElJRxoy6Wfk~",
+      "address": "杭州上城区白塔人家兰巷70号",
+      "longitude": 120.148715,
+      "latitude": 30.204413,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf2d790c342b6571f8b4cb88f8f42460906bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bfaba6f0d50daab3d629420d4910424fa56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭女士",
+      "title": "HRM",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "杭州睿轶信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5b5f53780d8ea63d1HZ72960E1U~",
+      "brandName": "杭州睿轶信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721970008000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州睿轶信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

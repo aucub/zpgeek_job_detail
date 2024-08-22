@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9UD607bMLsovG-E1kuqYy99ZAdN8Z7oDIM2T1da0kfrl_IIYwE_cZK3DipeZKdldpzj4FT2RvEH4F3q_CQCdaKh6q0O8YMV2tYlJoM2ijFyirtWV31YQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "efa3ea521ddaf0e31nF52Ni8GFpZ",
+      "encryptUserId": "0f52c7720e8e55700nVz2dq_FFVY",
+      "invalidStatus": false,
+      "jobName": "JAVA 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发\n\n职位要求\n\n1、精通Java编程，能够熟练应用spring、Springmvc、mybatis等主流开发框架；\n2、良好的软件工程意识，熟悉常用的软件工具（如：Git、Maven、jenkins等）\n3、熟悉分布式、缓存、消息、搜索、等机制，能对分布式常用技术进行合理应用者优先\n4、熟悉mysql、Redis、rabbitmq等常用中间件，对SQL性能调优有一定的经验\n5、责任心强，具备良好的沟通技能，团队合作能力和承受压力的能力\n6、有电商业务系统开发经验的优先\n7、熟悉阿里云EDAS平台优先\n8、熟悉微信小程序开发者优先考虑\n9、熟悉手机APP小程序的开发者优先考虑\n10、从事过交管行业软件开发的优先考虑\n11、有从事过交管局，车管所的相关工作经验的优先考虑",
+      "encryptAddressId": "6e46c375b612024c03V739m0GFM~",
+      "address": "北京海淀区银都大厦5层",
+      "longitude": 116.30016,
+      "latitude": 39.924557,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/038c81fb4efd0fb580e16e324342c133",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5374bda539876e9ed91b5cabe73fe25f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "Spring",
+        "SpringMVC",
+        "Redis",
+        "GIT",
+        "Maven",
+        "Jenkins"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230912/607f1f3d68754fd012e834d550633ad8d790255cfab3aed959e9854d8a40d44a37a225aa361e5fa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "银都新天地",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "eb629933c5d63cd71nB50t-9FFs~",
+      "brandName": "银都新天地",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "北京银都新天地科技有限公司2001年成立于北京海淀，是中关村认证的高新技术企业。2003年开始，公司在继承传统影像技术及相关应用系统建设的基础上，逐步面向公安交警信息系统建设与服务的业务转型，通过近二十年的努力，已经成为国内交警信息系统建设与服务的知名公司之一。\n\n自2003年公司在北京交管局车管所提出全国第一套“机动车驾驶人档案电子化管理系统”开始，至2019年，我们已经为全国超过50家以上的地市交警提供了信息系统建设及服务，为满足部局法规政策需要，满**警客户的信息化需求推出的各类信息系统超过100类，普遍得到了各地交警客户的认同与赞扬。\n\n在中国进行交警信息化建设，离不开无锡科研所的支持。我公司自2005年就与无锡科研所建立了合作关系，并合作推出多个交警业务应用系统。系统涉及机动车档案管理、驾驶人档案管理、业务窗口管理与服务、机动车大数据系统服务等多个方面。这几年，随着部局相关便民政策的不断推出，我公司与无锡科研所多个部门的合作也不断加强。",
+      "labels": [],
+      "activeTime": 1721730282941,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "银都新天地",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

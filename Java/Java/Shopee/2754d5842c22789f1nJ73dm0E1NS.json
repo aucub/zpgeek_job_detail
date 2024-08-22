@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dF7N3IRs3fFPF-S1Gwd2C-ndWUE3nCYCyvp2BjNAbXCz3Uo9Nx94iWXokGsoGt-0gE-TilhXZBuAFN44xLqXmko8Z8IXguMMmi9EOXe7GWctWwRu",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2754d5842c22789f1nJ73dm0E1NS",
+      "encryptUserId": "0585cbe7b68129b133Fz2tm8F1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-50K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责大数据周边生态系统的服务端整体架构设计与相关模块设计，要求系统具有高可用性和可扩展性；\n\n2、根据系统设计，完成系统的服务端开发与测试；\n\n3、负责系统的服务端调优，保证系统服务端的质量和性能；\n\n4、负责设计、开发、测试等相关文档的编写。\n\n\n岗位要求：\n\n1、统招本科及以上学历，1年及以上相关工作经验，Java基础扎实、熟悉多线程、熟悉Java网络编程、了解设计模式、熟悉模块化编程、 熟悉主流Web开发技术；\n\n2、精通 Spring MVC、iBATIS、Hibernate 等常用开发框架；\n\n3、熟悉Mysql，熟悉常用的SQL优化方案；\n\n4、喜欢钻研技术，具有分享精神，喜欢和数据打交道。\n\n（非必须）\n\n1、熟悉Hadoop、Hive、Hbase、Spark等大数据相关开源系统优先；\n\n2、有 Web 系统架构设计经验者优先；\n\n3、有Java后台相关工作经验，有大型互联网公司或大数据数据周边生态系统开发经验者优先。",
+      "encryptAddressId": "e4dde77074a5d29f03J729y4ElY~",
+      "address": "深圳南山区达实大厦33楼",
+      "longitude": 113.941974,
+      "latitude": 22.535005,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d686bc1ce1deabce049c2de7e9b1e3fe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fe1232e070f91dc985e822c65c2d947c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "MVC开发",
+        "网络编程",
+        "Spring",
+        "Hibernate",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "客户端高级工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220825/607f1f3d68754fd019e34842521625f5ed75ea655441aa8741a8bceb63165dece6e7d4cb01a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "Shopee",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0e1bc15942b85a7d1nB90ty8",
+      "brandName": "Shopee",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/23e21c31f42452d5262cd9a5fe799f83cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "作为领航电商平台，Shopee持续推动企业实现数字化并扩大其在线业务，帮助更多人触达并获益于数字服务，以及振兴当地社区，旨在促进具有包容性和可持续性的数字生态系统发展。\n\nShopee每日为数百万消费者提供便捷、安全、互动的购物体验。作为东南亚数字经济发展的重要贡献者，Shopee同时致力于帮助品牌和创业者在电子商务领域获得成功。\n \nShopee母公司Sea(股票代码:SE)为全球领先的消费互联网企业。透过旗下三大核心业务：Shopee、Garena和SeaMoney，Sea集团的理念为运用科技的力量改善当地消费者及中小企业的生活。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1721716364379,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Shopee",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

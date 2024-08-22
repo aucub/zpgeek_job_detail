@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mLx4Ia_e8dI8D-l1FEYdJhw_guv9zDoFnHuqAk-uK_4oU-LVDU4QTomcwnHN3UqSJore2_M_hOnN2oMTlx6GUEm74ljk8kPKmwUwIUnxnbo2kUhSFOiL2Jpd99QVcyM-7FbwtXbAOA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dece01d1bfd4b6fc33d92t6_FlY~",
+      "encryptUserId": "82e6a31b698caaaa3nx609-4GFA~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n熟悉产品功能，对客户提供技术支持。\n提高产品可测试性，开发自动化测试流程使系统易于维护。\n与咨询团队协作挖掘潜在需求，以精益开发方式提供解决方案。\n对模块化产品进行上云迁移，逐步运用基于云的技术架构，确保可用性、可测性和多租户支持的特征。\n改善系统架构、功能实现和客户支持，缩短修复时间以提供SaaS服务。\n所需经验及相关要求：具有计算机专业相关学位或同等工作经验。\n熟练使用Git，Java11+， Javascript（浏览器和Rhino技术）Junit 4/5以及关系数据库。\n具有良好的沟通能力，使用中文和英语与工程师进行技术交流、培训和激励。\n深入研究issue列表和代码库以掌握项目需求和实际功能表现。\n平衡个人和工作角色，实现自我驱动的工作。\n\n优先条件:\n具有在AWS平台上开发云原生应用的经验。\n有Scrum或其他敏捷开发模式的实际经验。\n有使用HCL Notes和HCL Domino工作的经验。\n具有使应用可监测，可观察，自修复和可维护的经验。\n熟练使用Ruby，TypeScript，Ansible，Terraform，GitHub，Circle CI，SonarQube，Trac，IntelliJ IDEA，Subversion，Gradle，Apache Ant，Oracle Database，Apache Tomcat，Apache HTTP Server，Redis，Lucene，Elasticsearch，Google Closure Tools。\n可书面使用日语读写，以迅速理解客户需求。\n\nResponsibilities：\n・Learn existing features and provide technical support to customers.\n・Make products testable, and automate test procedures to ease to maintain product.\n・Investigate the hidden wants with consultants, and provide solutions in the lean software development style.\n・Lift-and-shift packaged product onto cloud, and apply cloud based architecture step by step to make it available, observable, multi-tenancy.\n・Shorten MTTR to provide products as SaaS by architecture, implementation and customer support.\nQualifications：\n・A CS degree or equivalent work experiences.\n・Skill to work with Git, Java 11+, JavaScript (browsers and Rhino), JUnit 4/5, and RDBMS.\n・Communication skills to teach, coach and motivate other engineers to hack via Mandarin and English.\n・Ability to dive into the issue list and codebase to grasp existing spec and behaviour.\n・Ability to perform self-driven work by balancing personal and organizational goals.\nPreferred skills:\n・Experience to develop cloud native apps on AWS platform.\n・Experience to work in Scrum or other agile frameworks based on empiricism.\n・Experience to work with HCL Notes and HCL Domino.\n・Experience to make apps monitor-able, observable, self-healing and maintainable.\n・Skill to hack with Ruby, TypeScript, Ansible, Terraform, GitHub, Circle CI, SonarQube, Trac, IntelliJ IDEA, Subversion, Gradle, Apache Ant, Oracle Database, Apache Tomcat, Apache HTTP Server, Redis, Lucene, Elasticsearch, Google Closure Tools, Sencha etc.\n・Skill to read/write Japanese language to grasp customers’ requirements quickly.",
+      "encryptAddressId": "2179e3fd1540db1a1X143N6-EFE~",
+      "address": "上海普陀区环球港B座",
+      "longitude": 121.412675,
+      "latitude": 31.232976,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9725350d6a0a853254fe805aa179c4af",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/46f63cd9109de08edb489108c245f014",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "英语",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "万革始WAP",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "85de0b98236be3d10nB-2Ny7",
+      "brandName": "万革始WAP",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180815/c40ed3f2a4847f35423a95a5f797af23cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "Works Applications(WAP)公司成立于1996年，本部位于日本东京。另在上海，新加坡，印度设有分公司。\r\n主营业务为适用于大型企业的ERP产品的开发，销售及售后咨询。\r\n公司采取全球统一人才招聘战略，2010年中国区招聘开始，招聘学校包括清华大学，北京大学，上海交大，浙江大学，复旦大学等知名高校。目前已有200多位中国工程师在上海，东京，新加坡从事ERP的开发工作。\r\nWAP2010年获得财富杂志举办的【最佳雇主】评选日本第一名，并连续5年排名前五。公司自由的氛围，公平的评价机制深受员工的好评。入职3年内升任manager的比比皆是\r\n我们的招聘标准是【只招聘优秀的人！】\r\n你想在只有优秀的人的公司工作吗？你想做充分发挥想象力的工作吗？你想不断的挑战自己升职加薪吗？加入WAP实现你的梦想吧。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721725741501,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万革始WAP",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2sd5pAtBqXIel-61YaH4WRrz6zuCotWIqB2bX34YRrM8syV3aJWBSgczPExoOQvnWg6D9g1FF_7e0_MYgeSJacZFTn4hpDmyuvwCl5jOK9Hn1cCFiVKi36E2g-8EO_ipI5abUU7x58cljcpE3qS-0rA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d35a7d5f3958df901XV43ti5EldQ",
+      "encryptUserId": "5e7f38fc21276e2e0Hxz39-0EVU~",
+      "invalidStatus": false,
+      "jobName": "Java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、持续优化系统架构，保证系统的高可用性（性能、安全、容量）；\n2、独立完成功能的设计,编码,文档工作,保证项目的进度和质量.\n3、负责后端代码的开发维护及设计\n任职要求：\n1、专科以上学历，软件工程、信息工程、计算机科学等相关专业毕业；\n2、Java基础扎实, 理解io, 多线程, 集合等基础框架；\n3、熟练使用linux操作系统 \n4、熟练使用springboot, springMvc、springcloud等主流框架\n5、常用的数据解析方式，如JSON/XML 数据解析，数据抓包；\n6、熟悉使用MySql,ElasticSearch,mongodb,kafka\n7、具有较强的学习能力和团队意识，具有良好的逻辑分析能力。\n\n工作地点：亦庄经济技术开发区",
+      "encryptAddressId": "16718b7ef29a73760nR929-7EVA~",
+      "address": "北京大兴区泰豪智能大厦B座泰豪智能大厦B座503",
+      "longitude": 116.517463,
+      "latitude": 39.787377,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/705829ba708655b80bfce0d5f35b75a9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ff966f28d653752473174b62c97f901",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "计算机软件",
+        "物联网",
+        "多线程",
+        "SpringCloud",
+        "MongoDB",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221102/607f1f3d68754fd072e1bcffd09c6d4388602a1d81435e0c0ecfb9ca90cb0d9cd8241dd3bc4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "小物科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f3094aa1e38601c41XR_2ty4E1I~",
+      "brandName": "小物科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220221/7bf6f160950405e99efab9d6d8dfacdc25c2efd7bba20c090ecfb9ca90cb0d9cd8241dd3bc41fbe5.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "我们专注物联网控制系统研发生产，是中国自主可控物联网控制系统的先行者，通过整合云原生物联网控制系统、智能控制器、传感器及控制组件生产制造技术，物联网安全技术，建设物联网控制系统支持、服务、运维及供应链平台为客户提供创新型全过程智慧化工程、运维服务。\n小物科技实实在在做中国的自主可控的物联网控制系统，我们认为多么精彩的纸上作业、可视化渲染、PPT报告都不如拿出实际产品更重要，中国要有自己的控制系统。",
+      "labels": [
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724295409650,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小物科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

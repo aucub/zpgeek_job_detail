@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XXB1YUIipSM9F-O1kNT-b1z2lb2L8k05rr_ZSttv4lBrT4BXiP3CxX4I8FCl11FPQEJo4vZkAXU6P-7wZJXOFtzQa0_QBh4r4VMghw9Yo9VLFWqZwFODSzuolju4LLPfdJ-WIdtVk3Zbzg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4101c458be3c453d1XN_3Nm9EVBY",
+      "encryptUserId": "6c2ba8e554666cc603x72d-0EVM~",
+      "invalidStatus": false,
+      "jobName": "java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n负责所属模块的功能规划、需求分析设计、技术实现和用户体验提升；\n负责所属模块的代码开发、调试与维护工作；\n参与公司系统的架构优化，性能优化并辅助其他模块进行技术实现；\n协助并完成其他各类技术开发任务。\n\n任职要求：\n计算机或者相关专业，统招全日制本科及以上学历。\n良好的问题理解能力，能够理解以及处理复杂逻辑。\n2年以上Java及Web应用软件开发经验，熟知软件开发流程；\n熟练应用Spring, Spring MVC, Spring Boot, Mybatis框架，理解其运作原理，具有Spring Cloud部署经验；\n熟练使用各种缓存工具，如memcache、redis、mongodb等；\n了解或熟悉一种或多种消息框架，如rabbitmq、kafka、activemq、rocketmq；熟悉ElasticSearch, k8s，docker容器化部署。\n熟悉Linux下Nginx/Apache、MySQL各种配置和调优，能够在Linux环境下开发，掌握各种调优技巧；\n有高并发、高负载、高可用，分布式、集群系统开发经验优先；\n具有工业互联网、能源互联网或新能源领域的工作经验者将优先考虑；\n能适应出差。\n211，985，国外著名计算机高校优先考虑",
+      "encryptAddressId": "78848f422fe491840XR_3Nu-GVc~",
+      "address": "上海杨浦区同济科技大厦1121号2201",
+      "longitude": 121.504225,
+      "latitude": 31.28684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/765bf2d4bea83a35326aa8f832ab43dc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/52342cf8fca0f59792c4a67b7b86da50",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "群维新控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9c1b08b47c1508ad1XR93d68GVs~",
+      "brandName": "群维新控",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220418/7bf6f160950405e967145f37f16a61d34c6f35b9e5064cf34417e5831388c689b4828cb953cd7623.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "住房补贴",
+        "餐补",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724316255745,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "群维新控",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

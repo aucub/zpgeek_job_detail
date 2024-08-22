@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "-h6P9WV9S18xo-N1JaUnUpO-0Mx-SRa-PUIsvWJfcEdUQwsbm-lAsDQQEsh3oaBjci2gRa3dkIKHpFB6p2ZEsQI7GUg183J62sA_Lkcu8td_nnrzBFh4vwCBu8oOj4JRTVRN04m-uC5jdQJ8rfnVbsFK5i3H83Lc7GsBzLfh8AYhmqXZMQ~~",
+    "securityId": "GX_USnpbH2ZJj-g1iG85LWrBHgOgewtfzjAwLtyGPos_mtMZi9ySdX21CmZpZs2BK-qbS4dA4ZQ4GQaii70zPK-uLhhriGCFk0QTsbKCRjK6ogD2IemlQX976A1P1e8ogu5-AZyYiOzt2g~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-14K",
       "payTypeDesc": null,
-      "postDescription": "工作内容：\n1、负责游戏服务端框架搭建，部署，安全，优化。\n2、负责游戏产品后端功能模块的设计、开发，并编写对应文档。\n3、编写业务接口，实现前端的联调交互。\n目前侧重点是服务器性能优化和安全方面，如果您从事多年只有业务开发方面，就不适合了。\n岗位要求：\n1.熟练使用linux，熟练Java语言，熟练使用ruoyi-vue-Plus（我们后端在用的框架）ruoyi有很多版本，SpringBoot，SpringCloud，SpringMVC等框架，宝塔搭建，对阿里云服务器中度熟练使用。\n2.熟练数据库mysql。\n3、具有良好的面向对象思想，熟悉常用的数据结构，算法，设计模式;\n4、熟悉高并发网络编程和多线程编程（这个要熟悉，不用熟练）;\n5、了解低代码 云开发\n6、拒绝屎山代码！拒绝无注释！拒绝...！拒绝摆烂躺平，话就到这里了，想好好做事情。欢迎！\n7、有责任心、团队协作意识，良好的沟通能力与表达能力，能承担工作压力，主动性强。\n特别注解：\n1、此岗位工作内容重点就是主要实现游戏服务端的各种业务。\n2、此岗位业务需求不是很多很杂，我们是小游戏，小型的服务端。\n4、后端主要就是实现与前端的数据回调；用户管理、微信提现、积分系统、分销系统、结算系统、风控系统（针对异常手机ID设备号网络IP等各种数据进行自动手动检测限制等等，只是举了些最简单的常人能想到的，主要是防止假用户进行薅羊毛，当然也有可能你过往工作中根本接触不到，甚至网络服务器都没接触多少）。\n以上注释已经是大白话了，要求就是这些了，如果还是懵，就....",
+      "postDescription": "工作内容：\n1、负责游戏服务端框架搭建，部署，安全，优化。\n2、负责游戏产品后端功能模块的设计、开发，并编写对应文档。\n3、编写业务接口，与前端联调交互。\n目前侧重点是服务器性能优化和安全方面，如果您从事多年只有业务开发方面，就不适合了。\n岗位要求：\n1.熟练使用linux，熟练Java语言，熟练使用ruoyi-vue-Plus（我们后端在用的框架）ruoyi有很多版本，SpringBoot，SpringCloud，SpringMVC等框架，宝塔搭建，对阿里云服务器中度熟练使用。\n2.熟练数据库mysql。\n3、具有良好的面向对象思想，熟悉常用的数据结构，算法，设计模式;\n4、熟悉高并发网络编程和多线程编程（这个要熟悉，不用熟练）;\n5、了解低代码 云开发\n6、拒绝屎山代码！拒绝无注释！拒绝...！拒绝摆烂躺平，话就到这里了，想好好做事情。欢迎！\n7、有责任心、团队协作意识，良好的沟通能力与表达能力，能承担工作压力，主动性强。\n特别注解：\n1、此岗位工作内容重点就是主要实现游戏服务端的各种业务。\n2、此岗位业务需求不是很多很杂，我们是小游戏，小型的服务端。\n4、后端主要就是实现与前端的数据回调；用户管理、微信提现、积分系统、分销系统、结算系统、风控系统（针对异常手机ID设备号网络IP等各种数据进行自动手动检测限制等等，只是举了些最简单的常人能想到的，主要是防止假用户进行薅羊毛，当然也有可能你过往工作中根本接触不到，甚至网络服务器都没接触多少）。\n以上注释已经是大白话了，要求就是这些了，如果还是懵，就....",
       "encryptAddressId": "a701e9306098f64a3nFy2d61Elo~",
       "address": "杭州上城区金龙中心B座4-410室",
       "longitude": 120.216609,
@@ -48,7 +48,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd07952fb1b40528091a11db6249ada4ab229a39be0ca0a63a2505a015dc0b_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "杭州将游网络科技",
       "bossSource": 0,
       "certificated": true,
@@ -69,7 +69,7 @@
       "labels": [
         "年终奖"
       ],
-      "activeTime": 1724145217868,
+      "activeTime": 1724312508784,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州将游网络科技",

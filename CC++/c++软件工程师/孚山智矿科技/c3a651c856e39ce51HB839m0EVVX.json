@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bOs4SYsilzFhX-Z12pE2m2zSHye_sOUrDbNdIYF4EIgxv9Vj9XEiaVM2lZQHCRAiQpW73OETZDbGzKc33BLuQwJ7aLgrymVEkXxzex60mNnRDuNTg0Su",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c3a651c856e39ce51HB839m0EVVX",
+      "encryptUserId": "28e7fbdba804d3c90nF52du7GVRV",
+      "invalidStatus": false,
+      "jobName": "c++软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "c++岗位职责：\n1、负责无人机采集激光点云的相关后处理算法、调试、封装工作，包括匹配拼接、切割补全和体积/面积计算等；\n2、负责点云相关软件调研、设计、开发、测试和维护工作；\n3、负责点云后处理软件相关算法的文档、专利或软著的撰写。\n岗位要求：\n1、测绘、计算机、自动化、数学等相关专业本科以上学历；点云算法领域2年以上工作经验；\n2、精通c++编程，精通STL等c++标准库，熟悉Linux开发环境，熟悉cmake;\n2、熟悉点云数据基本处理流程和方法，掌握点云匹配、点云去噪、点云滤波、点云聚类、点云分割算法，并对算法有深刻的认识；\n3、熟练掌握运用pcl或者open3d或者opencv库或者其它的点云处理库，参与过实际项目的相关开发；\n4、有煤矿，非煤矿山（金属矿）点云数据处理以及应用软件开发经验的优先，如开采量评估，形变监测等。",
+      "encryptAddressId": "b70ceae1b51c83070XB839q7E1RUxo-2UfI~",
+      "address": "北京朝阳区中关村科技服务大厦C座4层",
+      "longitude": 116.436105,
+      "latitude": 40.000478,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64f22e02f50f7c4d837dbfed1a52ddbb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3552a790c40df2bf212c3c353e1f5eb9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "地图/导航经验",
+        "无人驾驶",
+        "智慧矿山"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒋女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220801/607f1f3d68754fd0fdfca03ebd4a31c4d7be8c2c25d04adea3a8cccb51acb8fe9eb5c8ee374_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "孚山智矿科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b9b9b9c1f2ce0e941Hd709u0ElA~",
+      "brandName": "孚山智矿科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100030,
+      "industryName": "物联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724320023059,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "孚山智矿科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

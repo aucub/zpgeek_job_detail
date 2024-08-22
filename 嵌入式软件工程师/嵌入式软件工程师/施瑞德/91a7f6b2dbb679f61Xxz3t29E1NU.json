@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dbRNi54EuLh5--d1mD1OwOAit_CG3l4Ll76leomSskJsvKA1Buuki5-6OXxYgvqpike5RVStC7oLjg1sJQB1bXmzfMefXWooFDVz-ERapeIYsEGwASQ7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "91a7f6b2dbb679f61Xxz3t29E1NU",
+      "encryptUserId": "4703ccdb5785cf010nF43d-6FFdV",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1.嵌入式软件方案设计、代码编写和调试； \n2.协同硬件部门进行方案评估、硬件选型以及相关器件测试； \n3.负责嵌入式软件架构设计工作\n4.根据版本管理规则，负责开展代码版本操作工作；\n5.负责底层接口驱动模块或裸机程序的开发工作\n6.负责组织并开展项目内部技术的难点攻关工作。 ；\n\n岗位要求： \n1.大学本科及以上学历，计算机、电子、自动化等相关专业； \n2.具有扎实的编程功底，熟悉常用的数据结构和算法； \n3.熟悉Keil/IAR/汇编/嵌入式C等设计开发 ; \n4.熟悉51单片机、STM32等嵌入式CPU开发流程，具有嵌入式驱动开发经验者优先；\n5.熟悉SPI，I2C，UART，GPIO，USB，CAN等一种或多种接口的开发； \n6.至少精通一种实时操作系统例如rt-THREAD,freeRTOS的工作原理，做过对应的移植工作；\n7.对开发遇到的难题有极强的好奇心，并积极主动寻求解决方案；\n8.具备良好的沟通能力和团队合作能力，自我调节能力强，对工作有责任心和服务意识。",
+      "encryptAddressId": "af6ac4563d77396733B42dy6F1M~",
+      "address": "武汉江岸区IFC国际金融中心1308",
+      "longitude": 114.274384,
+      "latitude": 30.591733,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/475d112f996d3c535b78a99ba0c69634",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35dc873a2bdb2205408be20469f07766",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "ARM开发",
+        "STM32开发",
+        "RTOS",
+        "计算机相关专业",
+        "电气电气/自动化相关专业",
+        "嵌入式/单片机开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220828/607f1f3d68754fd0ec7151497f703013cb2303ee29f34a948873ebb290ca6b4c0e38e39133c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "施瑞德",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9116cd61d45472041n182du7FlM~",
+      "brandName": "施瑞德",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100207,
+      "industryName": "投资/融资",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1721708256867,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "施瑞德",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CKIdWRZAqo6A2-P1YOuQB3GsxL_pVls1VDUUlBqIKaJhNMfzlxrp6fRW6UzedBH8o2VZIsHiEVkb9Zdfv4F5EQUTWLE-KLN1T1Kb9gyS9h2UQ5Xn1e0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "96fb4ce26150b9931XRz29S7GFdY",
+      "encryptUserId": "8f9c203691923baf0HJz2ty5EVo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-30K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "主要职责\n1.负责公司业务系统研发工作。\n2.深入发掘和分析业务需求，撰写技术方案和系统设计。\n3.根据产品需求，进行系统设计和编码。\n4.持续对系统架构进行改造和优化。\n应聘条件\n1.境内外院校大学本科及以上学历。其中海外留学生需提供国家教育部国外学历学位认证书。\n2.计算机及相关专业。\n3.诚实守信、遵纪守法；综合素质较好，具有较强的综合分析、逻辑思维能力和团队合作精神。\n4.身心健康。\n5.年龄一般不超过35周岁。\n6.符合公司亲属回避要求。\n具体要求\n1.熟悉Java开发，熟悉常用的设计模式，数据结构和算法。\n2.熟悉Mysql 、Redis、消息队列等常用服务组件，有定制化改进经验者优先。\n3.具备较强软件架构设计能力和代码优化能力。\n4.熟悉互联网架构体系，对微服务拆分、服务治理、负载均衡、流控等有较好的理解和实践。\n5.积极主动、自驱力强，深入了解业务并与业务中各角色建立沟通，能独立负责一块业务，迅速推进项目与问题的解决。\n6.有服务端负责人经验、0-1搭建团队经验者优先。",
+      "encryptAddressId": "d4017655f090a295031_3tu1ElA~",
+      "address": "北京东城区民生金融中心B座b18",
+      "longitude": 116.420789,
+      "latitude": 39.907391,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b214003fa92ed058cc132c9d17c41f7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/979a7624468b6fbb79a6d7b64c5b27b1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "后端开发",
+        "SpringBoot",
+        "SpringCloud",
+        "IDEA",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "高级研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "农银金科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "caeae148a19698c51ndz3dq8FlA~",
+      "brandName": "农银金科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721731023767,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "农银金科",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "C9VuK6m2Tng4d-v1VgqHuN5UoM5DTCrwniXloX9XAjGIjjaQXvS2s3tVoK_7AfhYZ6ePGwNoqqQ_-HEDe-kfDavgF-OXzGoGzV8raEurxFw7hM-caOqw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cea6ba8bcc1cc08b1XF50tW_FFtX",
+      "encryptUserId": "0b6e5b4930b16f1f0nJ82du1FFVQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-20K",
+      "payTypeDesc": null,
+      "postDescription": "1、具备扎实的Java基础，精通多线程编程，熟悉JVM，精通SpringBoot，SpringCloud等技术栈；熟悉分布式架构设计理念，有过Dubbo、SpringCloud、SpringBoot等微服务架构实践经验；熟悉Restful、WebService等标准，具有一定的公共接口编程经验。\n2、熟练使用mysql、MariaDB等数据库；熟练使用Redis、MQ等中间件有深入理解。\n3、具备大型高并发互联网系统开发经验，熟悉分布式、缓存及消息服务、负载均衡等机制和实现。\n4、熟悉docker,k8s等微服务架构，并有实际经验者优先。\n5、熟悉HTML、CSS、JavaScript、Ajax、JQuery、Thymeleaf等相关技术，并有实际项目开发经验。\n6、熟悉Linux 操作系统及shell的使用。\n7、熟练使用Eclipse、IntelliJ IDEA、maven等相关开发工具以及SVN、GIT等相关源码管理工具。",
+      "encryptAddressId": "db72445a154f67900Hdz29q1ElU~",
+      "address": "北京东城区YOLO·文化产业园21栋-103",
+      "longitude": 116.386544,
+      "latitude": 39.869251,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09ad9a4c279b21a3587950a5a8c6b42d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d3ca2990afd7fd2e9652631460b7668",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "程先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "好日子瑞之",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73d26ae1147851411Xd939i9GVU~",
+      "brandName": "好日子瑞之",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100017,
+      "industryName": "新零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730808591,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "好日子瑞之",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

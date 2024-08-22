@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QXZqSr0J1nkMJ-H1AzxUX9uGbvw94Lu9UI1jDTEzcjcpg_T9PVOP3Rrt27g7IHOBJOJznCPwaCIT_X1unyYvPXV4kn-PocMgbzr7PWLP1LQOz4xXIfI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f0a1a5b0c3da7c441HR43di4E1FX",
+      "encryptUserId": "479ac54cf86b2f541HV92t6_FFI~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "职位职责：\n1、独立完成产品相应模块的设计、开发、单元测试；\n2、编写产品相应模块的设计文档；\n3、高质量完成编码工作，确保代码的质量，具有高可维护性；\n\n任职要求：\n1、全日制统招本科及以上学历，计算机、软件工程等专业背景，应届生（无工作经验者）985院校毕业优先；\n2、2年及以上Java语言为主的软件开发经验，Java基础扎实；熟悉io、多线程、集合等基础框架，熟悉Java Web开发；对java面向对象思想有了解，且运用。\n3、熟悉Java相关的主流开源框架，SpringBoot、SpringMVC、Mybatis等，能够熟练进行使用，熟练掌握MySQL，redis数据库系统的应用；\n4、熟悉分布式框架SpringCloud, dubbo等。\n5、熟悉项目开发的各个流程，如版本管理git、svn，持续集成等；\n6、对高质量的代码有强烈的偏执要求，具有较强的业务需求分析能力；良好的编码习惯，代码可读性高；\n7、作积极主动，有责任心及抗压力，具有良好的团队合作能力和沟通能力；\n8、熟练使用idea和vscode开发；\n9、加分项 有docker, k8s，ELK (Elasticsearch , Logstash, Kibana )经验，以及相应环境搭建。",
+      "encryptAddressId": "8141fdd58299b7841nR809S9GFFV",
+      "address": "北京朝阳区东朝时代东区1栋203室",
+      "longitude": 116.498237,
+      "latitude": 39.898487,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf809d6f28b26ba0b9cd2f27943e33153e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230626/48ba41acc9cef1bf35dd0459eb66c2f136d48b42b4f416f96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "廘尊科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4210ec2871e5ec21nx62d60E1s~",
+      "brandName": "廘尊科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730471347,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "廘尊科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

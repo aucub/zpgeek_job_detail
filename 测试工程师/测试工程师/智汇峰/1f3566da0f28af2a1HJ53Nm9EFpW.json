@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XoUvDXvqC3T8T-81EddIPsT54KoSB-ufGdawQKXKxT43kuS_1e5cDp8s7I_rni8aHOf-bPuE-hreSdxwdCEe3zew5IR7rCVlQZJj_Qr_yiorOYTaqsHW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1f3566da0f28af2a1HJ53Nm9EFpW",
+      "encryptUserId": "02f32cc3307c44720XF909q8F1pR",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、对系统软件进行单元和整体功能测试；\n2、根据软件功能模块的功能编制测试用例，验证功能模块；\n3、评估修改功能模块对系统的影响，并执行验证测试工作；\n4、负责测试记录汇总及测试结果文档的编制；\n5、熟悉软件测试方法和软件工程知识，流程意识强，具备有效发现问题和解决\n岗位要求：\n1、熟练使用接口测试工具，如Jmeter、postman，soupUI；\n2、熟练掌握MySQL等数据库基本操作；\n3、熟悉C#/C++/Java/pascal/python等语言中的一门或者多门优先;\n4、有性能测试、接口测试、自动化经验优先;\n5、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏捷、逻辑清晰、执行力强、工作责任心强、抗压能力强;\n6、具备一定的安全测试经验；\n7、医疗项目经验的优先；",
+      "encryptAddressId": "89b6b549473ea4913nB52d25ElNVyom5V_8~",
+      "address": "合肥蜀山区置地·汇金商务中心(建设中)A座606室",
+      "longitude": 117.230732,
+      "latitude": 31.783193,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bf0bfd5b9a8144ac94da730511d34ea6146bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230619/48ba41acc9cef1bfd8ee0d215e0dd310a6c2e76a3bc4ebc06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "自动化测试",
+        "JMeter",
+        "接口测试",
+        "数据库基本操作"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "智汇峰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4db30c01a1e008301HF-2N-0ElU~",
+      "brandName": "智汇峰",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "体检",
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724325562384,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智汇峰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

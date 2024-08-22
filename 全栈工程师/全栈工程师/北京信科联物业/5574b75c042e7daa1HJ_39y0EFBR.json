@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X0Kv0NUk9A8gN-u1IXDQv6A7VDcshQ6zACdfLvxxyXVhsBaiNC80phrt3STHKnhRzSDUyQ_a_RjOaiiP2cZDRsMT4I7NLqBoiCTtJSviCAUoZf4JuN0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5574b75c042e7daa1HJ_39y0EFBR",
+      "encryptUserId": "326105a8b2758b6d0nV93d-0E1NR",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n 1. 参与公司 ERP 系统研发，在现有产品构架上功能板块的基础上独立开发，包括 PC 端;移动端-微信小程序等应用，并进行代码维护工作，优化代码质量；\n 2.参与产品需求评审，提出可行的技术方案，确保产品具有优质的用户体验；\n 3. 协助系统功能的测试，及时修复对应的问题，对项目功能的可交付落地负责；\n 4. 承担部分前端 U!交互设计，以及后端接口.服务器运维等开发工作；\n 5. 不断理解和优化产品架构，关注前后端前沿技术，指出架构中的问题，输出合理的调整建议。\n 6.按时高质量完成开发编码工作。\n\n岗位要求：\n 1、计算机相关专业本科及以上学历，JAVA 基础扎实，有1年以上微服务开发实践经验。\n 2、熟练学握 springboot、springcloud alibaba、mybatis、redis、消息队列、mysql 并且具有实践经验。 \n3、熟悉微服务及服务调用相关技术优先，如 Docker、K8s、 Dubbo或 Feign、RestfulApi. Springcloud 等：\n4、熟练学握 mysql数据库，具备手写 SQL 输出数据统计分析报表的能力。 5、有较强的业务逻辑分析和数据库设计能力，有一定的数据库优化经验； 6、熟悉分布式消息中间件(RabbitMa、 Kafka 等)，熟悉缓存中间件(Redis 等）并能针对以上使用场景进行合理使用并优化配置，\n7、熟练学握 DOM、 HTML5、CSS3、JavaScript 前端技术，熟练使用 Vue、Element-Ul 前端框架，具有 UNIAPP 开发经验，能独立开发小程序及手机 APP。\n8、熟悉 linux 相关命令操作、熟悉 nginx、elasticsearch 相关配置、独立部署。\n9、能接受工资计件制，每月按开发页面数量核算薪资\n\n福利待遇：薪资10000--12000，周末双休，五险一金",
+      "encryptAddressId": "456ce00f7e1c81d90HRz3NW9FFVXy4m2Wfk~",
+      "address": "北京海淀区信科联集团一层",
+      "longitude": 116.309372,
+      "latitude": 40.055317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bf45b5b08c095b6e662905b47b692318be6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bf89a4c3e07354a5cfc729aa8d0a9564e46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈无侧重",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "PHP",
+        "C/C++",
+        "计算机相关专业",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "花女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230919/607f1f3d68754fd05bffd18d96af75afeff40b4f33216e591ed6a15334b97afcd1d6d793d2c32e2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京信科联物业",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3df0dc318d24b14933N43Ny_FQ~~",
+      "brandName": "北京信科联物业",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101106,
+      "industryName": "其他生活服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724319587782,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京信科联物业",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

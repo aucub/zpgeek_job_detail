@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aHzMtnCZcwVJm-q1CScIfkB6sh-gv9bnmPEzrhNsf8JycyQVeMPT0Rf00KuybPgjN_uLYKeEYuKmcN6F_vlJPL22Wo5I8hSvumyAFLi-0xnRpWxDIhXaKgbpxpMUyju0-FrAS-aXeLnrXg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e33c3d846a3b1bb61HJ63di5E1JQ",
+      "encryptUserId": "cc93497d3d7272d10nFy3dW6GVo~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 1,
+      "salaryDesc": "40-70K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发\n岗位描述\n1. 参与公司经营支撑中台的可行性评估、系统功能、稳定性、用户体验等系统设计及研发落地工作；\n2. 开发和维护应用系统，发现和解决存在的技术问题，保证系统的性能和稳定性、文档撰写、code reivew和单元测试，确保项目的进度和质量；\n3. 紧跟技术发展趋势，将先进成熟的技术应用到产品中，通过技术助力业务发展。\n岗位要求\n1. JAVA基础扎实，精通多线程编程，熟悉分布式,缓存,消息队列等机制；熟悉JVM，包括内存模型、类加载机制以及性能优化；\n2. 对各种开源的框架如Spring、Ibatis等有深入的了解，精通关系型数据库设计及SQL，熟悉unix/linux操作系统；\n3. 具备良好的识别业务关键需求和设计领域模型的能力；\n4. 对技术有激情，喜欢钻研，能快速接受和掌握新技术，有良好的逻辑思维和语言表达能力，有较强的独立性和主动学习能力，良好的沟通表达能力和团队协作能力；\n5. 具备区块链/云计算等业务的商业化系统开发、设计工作经验者优先；\n6. 具备业务运营支撑系统相关经验者优先。",
+      "encryptAddressId": "bd49c6116c3603f703x62NW4F1M~",
+      "address": "杭州余杭区五常街道文一西路969号",
+      "longitude": 120.036538,
+      "latitude": 30.24899,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bca35bdb056a3f420a1c61f98326622",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4860cd50a77e10fa453d620c02645b2",
+      "overseasAddressList": null,
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C",
+        "Python",
+        "SpringCloud",
+        "JVM",
+        "Docker",
+        "MySQL",
+        "SQL Server",
+        "Hive",
+        "云计算经验",
+        "分布式经验",
+        "区块链经验"
+      ],
+      "anonymous": 1,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "猎头顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240614/607f1f3d68754fd01b5011bdacd0367cffaf0732ea1d7f08754588fa8b7ffd7ec641a0e7721f323_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海丰才",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "",
+      "brandName": "某500强上市公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/d3c6baef296e95762de0802dabf63c06a778a0d7c89f7c91cc68f632d30ad625.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724325169797,
+      "visibleBrandInfo": false,
+      "focusBrand": false,
+      "customerBrandName": "某500强上市公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

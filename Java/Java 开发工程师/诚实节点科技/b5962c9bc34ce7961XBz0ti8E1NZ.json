@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZZXfvWb837t4E-Z1YE5QWADNA2Gt9krY0Kvqnta8p-ca9LWFCxYrIZZxdiANAJKcXFtjxGCqQB1wpZSgj5oLrvXJaT4Y5E8poanc5k3Pi4q_piishAo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b5962c9bc34ce7961XBz0ti8E1NZ",
+      "encryptUserId": "799755914602f5750nJ52tm5GFVW",
+      "invalidStatus": false,
+      "jobName": "Java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 负责区块链相关项目后端开发工作。\n2. 后端模块设计及业务解决方案设计。\n3. 参与前后端接口设计讨论，实现后端接口相关业务代码。\n4. 负责相应后端项目的 Bug 修复及优化。\n\n职位要求\n1. 本科以上学历，1 年以上后端开发经验，具备对产品和业务的独立思考能力，较好的问题分析和沟通能力，具备良好的学习能力。\n2. 具备扎实的计算机技术基础，良好的面相对象能力，熟悉算法、数据结构、计算机网络等相关技术领域。\n3. 精通 Java 基本知识，基本数据类型，数据结构及设计原理。\n4. 至少熟悉并在工作中使用过 Spring 及 Maven/Gradle，并有较深入的研究。\n5. 对区块链技术有基本认知。\n6. 对新技术和新的技术方向有新鲜感和求知欲。\n7. 能独立阅读英文技术文档及白皮书。\n\n优先考虑\n1. 使用过 Web3j，对接过 Ethereum 合约。\n2. 独立开发或参与开发过区块链 App。\n3. 对 Ethereum 及合约有深入了解，可以阅读合约源码，可以编写简单合约。",
+      "encryptAddressId": "bd7b54d5a04050c00HZ629m8E1U~",
+      "address": "北京朝阳区天阶大厦24层",
+      "longitude": 116.453092,
+      "latitude": 39.91611,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5829a7579996a5021802c4e07841c97f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c855117a60fa26a11297c6e33777482",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "诚实节点科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0bca05a020e78fa41XJz3965Fw~~",
+      "brandName": "诚实节点科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180905/557d003f0e1186837a68777a8cba6e7ecfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "HonestNode致力于将计算机技术与金融工具结合，构建一个不断演进的系统，以捕捉金融市场低风险、高回报的投资机会。我们具有丰富的交易经验，覆盖场内与场外交易、现货与衍生品、中心化与去中心化平台，年交易额超过百亿美元。\n\nwww.honestnode.io",
+      "labels": [
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721730286703,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "诚实节点科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

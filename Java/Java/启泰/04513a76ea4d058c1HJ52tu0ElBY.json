@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HlbbtUFtvMoN_-I1uGCBk3d1xstd7jPFXo1tY88Nzj1LPLbmmrpKuoOqZQuKJofmHaKMyBhoFO1G1I8zhUp6T0kjYIX7PIqqCwFm15cmmWPfmIoWtso~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "04513a76ea4d058c1HJ52tu0ElBY",
+      "encryptUserId": "4b014680350d374a1HR72tm6EFE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "京东正式编招聘！！！\n注意:要求最多5年内2份工作，10年内3份工作\n岗位职责：\n1、负责京东合规审核系统的架构设计和开发；\n\n2、参与性能优化、稳定性保障、故障排查和解决等工作；\n\n3、负责对业务需求进行需求沟通、设计、开发、上线、维护。\n\n任职资格：\n1、本科及以上学历，计算机相关专业，具有良好的计算机知识基础和团队合作能力；\n\n2、扎实的数据结构和算法基础，优秀的工程实现能力；有4年以上Java开发经验，熟悉Spring、Springboot、MyBatis、RPC 等主流框架,了解其实现原理；\n\n3、熟悉基于Sql和NoSql存储的应用开发、常见的性能调优和可扩展性设计，对事务、锁、并发等实现机制有了解。\n\n4、优秀的业务理解和问题分析、解决能力，主动性和自驱性强，对前沿技术和业务挑战充满热情；\n\n5、拥有审核类系统开发经验、电商交易/促销/价格相关系统开发经验优先。",
+      "encryptAddressId": "0bcb1ddd0a8a76a73nd42dy7GVFQyoy8U_8~",
+      "address": "北京通州区京东大厦京东总部1号楼",
+      "longitude": 116.56293,
+      "latitude": 39.786622,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05caa4219f74f38ef824ab78f9c69799",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/840efd72f1eec92e3f46e7c6fe70144c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Kafka",
+        "JVM",
+        "MySQL",
+        "Redis",
+        "HBase",
+        "Java",
+        "后端开发",
+        "软件开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "晁先生",
+      "title": "部门组长",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170805/a962d0a7618ec5b519255474d765aeb9bd89a126ac1e3d91563a33991db_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "启泰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe38446883d14c901XNz2N-_FlM~",
+      "brandName": "启泰",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100903,
+      "industryName": "原材料及加工/模具",
+      "introduce": "对公司生产的磁片，原材料等半成品进行销售，多对企业面销，会开车最好。公司上升期，希望志同道合的人共谋发展，前期会有培训。",
+      "labels": [
+        "包住",
+        "包吃",
+        "底薪加提成",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1722514043000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启泰",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

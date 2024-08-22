@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "giFDzM9kt9Cyz-i1H63JspuSQ6PHdVrvjBmnrlhE73oR3StRacsnB0UqL6aamqem4O1Sow27sa7MYB5JLAn6AcTjKdRlib9y8yCMkwmCCmq-ATiAr60~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "616610ac9e3b1caa1XZ_2d61GFNQ",
+      "encryptUserId": "812a79a9b1aab30e0nR_3t65F1A~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "Java工程师\n岗位职责：\n1、负责企业业务相关系统的研发设计工作；\n2、按照项目计划，按时提交高质量的代码，完成开发任务；\n3、开发高并发、高可用性应用，能快速定位并解决问题；\n任职要求：\n1、计算机相关专业本科及以上学历，经验不限；\n2、对设计模式和设计原则有深入理解并能在此基础上设计出符合产品特性的可扩展框架；\n3、java基础知识扎实，熟悉集合、I/O、多线程、了解JVM工作原理，熟悉java领域常用框架的使用和原理；\n4、熟悉Servlet、Spring、SpringMVC、MyBatis、mq、SpringCloud、SpringBoot、Redis、ES开发，对SOA模式有深入理解，有分布式系统开发经验优先，对其原理、源码有一定研究者优先；\n5、熟练MySQL，对数据库有较强的设计能力，同时熟悉SQL优化。对分布式数据库、分布式事务有较深研究者优先；\n6、熟悉Maven，GIT，熟悉Tomcat等应用服务器，熟悉高并发处下的性能优化；\n7、熟悉网络编程，具有设计和开发对外API接口经验和能力；\n8、具有非常强的责任心，能够承担压力，团队意识强，思路清晰、善于思考、能独立分析和解决问题。",
+      "encryptAddressId": "ae024ec5bcd5f1fa0XR63tu8E1E~",
+      "address": "广州海珠区琶洲新村11栋蟠龙新街3号31楼",
+      "longitude": 113.382725,
+      "latitude": 23.098387,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f8c09ba20d71cc39a1342df40ba85f1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/30d7c1a7ffbd72b723de2f6f682e8e39",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "文件管理系统",
+        "软件工程师",
+        "全栈开发",
+        "Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曹先生",
+      "title": "行政事业部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220414/607f1f3d68754fd0f8f7998078fffce40cd805c34c82e24af3031235931895938c74dc69da7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广东航鑫",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f0d989d0d63803a51nx73Ni_FFA~",
+      "brandName": "广东航鑫",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100702,
+      "industryName": "工程施工",
+      "introduce": "",
+      "labels": [
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721724886375,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东航鑫",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

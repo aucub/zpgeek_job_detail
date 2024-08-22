@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lCNE2m4znbjDe-x1YtAihM1kSXFcqTMzXF7-pnhH51DC9oefTKN4tD_MPtO2yPINFVC4f30F70Dga7DIlwE7c8xWDaqcD2GZqS9XPM81Mcs5mAgissdz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9315b9d86b616cc71nBz3di0FFJX",
+      "encryptUserId": "2a8507db240539bd0nV83Ni1E1FR",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-17K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业，本科及以上学历，具有扎实的计算机基础理论知识；2、熟悉java语言jdk1.8以及之后相关版本的特性，SpringBoot、Spring框架。有一定的微服务开发、部署经验。熟悉Linux操作系统常见指令，会使用docker；3、掌握MySql、Oracle等关系型数据库的使用，对数据库设计有比较深入的了解；4、熟悉springcloud、dubbo分布式开发框架 以及kafka,rocketmq等中间件优先；5、熟悉mongodb、Redis等Nosql数据库优先；6、熟悉elk日志服务，熟练使用es，logstash组件的优先。7、有大型软件项目设计开发经验；8、具有良好的团队精神、责任感强，具有良好的沟通能力及技巧； \n任职要求： \n1. 实现产品功能在低延时、高并发条件下的高质量落地；\n2. 参与需求分析，编写代码实现产品功能，完成项目开发，撰写相关技术文档；\n3. 遇到技术难点，能评估主流技术与解决方案，完成技术选型，设计合理的技术架构并落地；\n4. 重视开发质量和效率，保证服务长期稳定运行，能根据监控结果，进行系统优化；\n5. 协调整体研发进度，为前端调用提供足够技术支持 。",
+      "encryptAddressId": "ca1a7d50811cb2ac1XR-2dW9EFE~",
+      "address": "北京通州区世界侨商中心2号楼",
+      "longitude": 116.659357,
+      "latitude": 39.920977,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0ba89ef5c671fe0097b898bfa42ce8b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e99803169b0a315dc32acdac0c5b5fc6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "微服务架构",
+        "多线程",
+        "NoSQL",
+        "MongoDB",
+        "SpringBoot",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "闫女士",
+      "title": "人力资源总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "万千互连",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d1f0ad0cf1d75f31nB62N20FlA~",
+      "brandName": "万千互连",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210427/be2785dfcc8a4ee7a9717937e156d80d5f727787a74c4b71f692793af3932ca3_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京万千互连科技有限公司是一家专注于计算机视觉领域的人工智能科技公司，公司以科技创新驱动行业发展为理念，运用深度学习算法，结合云计算及大数据分析，推出了包含人脸识别、人体识别、文字识别、物体识别等一系列核心产品。万千互连高度重视实际应用场景的落地，在智慧办公、智慧园区、智慧社区、智慧工业、智慧校园、智慧金融等应用场景中为客户提供全方位的计算机视觉服务以及综合解决方案。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "交通补助"
+      ],
+      "activeTime": 1721737595904,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万千互连",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

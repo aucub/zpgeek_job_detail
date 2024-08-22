@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iXLebHsYWpmgK-r11ZleV97rtoN-i-uJdBocwkfNeYi2PioC1PZLW6Vg_4YcFGpKgFQ7q7TBFzKcimehDaiyjS9Bf84SJBCd-a_ucPIb-eFQr2J94xgz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "34a69f5b8f729c2d1Xd-2dS6FVpU",
+      "encryptUserId": "f1735e1007af07d80nV43t-4F1ZX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "中后台研发工程师\n岗位职责\n1、参与产品方案设计、核心功能的代码编写，重点模块的设计开发工作；\n2、深入理解业务需求，分析和发现系统的优点，并推动实现；\n\n任职要求\n1、计算机相关专业本科及以上要求，1-3年以上相关工作经验；\n2、扎实的Java语言基础、基本功和强悍的编码能力，熟悉网络、IO、多线程、JVM等。掌握常用的数据结构、设计模式与原则；\n3、精通Spring、MyBatis或其他主流开发框架；\n4、熟练掌握微服务开发框架，如SpringBoot，SpringCloud Alibaba Dubbo，Nacos，Zookeeper等。\n5、熟练掌握Redis、RocketMQ/Kafka,ElasticSearch等中间件技术；\n6、熟练使用MySQL，对数据库有较强的设计能力，具备SQL优化能力；\n7、有较强的逻辑思维能力与沟通能力，并有一定的项目推动能力；具备良好而规范技术文档编写能力；\n\n其他福利:\n1，根据能力和工作表现，可提前转正。\n2，能力突出，公司可免费提供住宿。",
+      "encryptAddressId": "c693c507505ebe130XBz09i9F1Q~",
+      "address": "北京通州区锋创科技园23号楼一层",
+      "longitude": 116.568469,
+      "latitude": 39.781747,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/89fbe6fe667b9e1825d2ed723b8d21de",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/559ac94b7e8f42fd4b0e6ed018d6ca06",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "搜索引擎技术",
+        "分布式技术",
+        "数据结构",
+        "多线程",
+        "后端开发",
+        "SpringCloud",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd04641eafcc2c5660685a75097a87710fd3efebad0a5b3af9e620f4e729a5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "联信技术公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a2fe8ebc2830d44c1XV83tu4FlQ~",
+      "brandName": "联信技术公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220718/7b5b554d84f9729c4641eafcc2c5660685a75097a87710fd3efebad0a5b3af9e620f4e729a548062.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "联信技术公司是一家以技术驱动的数字物流平台服务商，旗下运输管理软件TMS、仓储管理WMS、网络货运平台LX-SaaS等产品，业务覆盖煤炭、钢铁、建材、家电等行业，在西南、华北、华东、华南、华中等区域已落地。",
+      "labels": [
+        "带薪年假",
+        "全勤奖",
+        "夜班补助",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721731031427,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "联信技术公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wayz81fGDl2Bj-H1uGO3ckGt-zzxAHo9F2ApMnluozSpa_IQCB9GPNgBZxvHivtn1-YjhhrSmnu0wpfjo3_g9EUogwYwtfTxcG0yDpnu0PW1kErO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b5cf93732e85ddaf0XJy2t6-E1I~",
+      "encryptUserId": "e9e29a5470fd73fd0nJ639m9Els~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\r\n1、参与公司项目概要设计、详细设计、开发计划等的编制并实施；\r\n2、参与大数据项目开发程序的设计和代码编写，参与系统架构设计及核心代码开发；\r\n3、跟踪项目的进度，协调项目开发成员之间的合作；\r\n4、解决开发中的技术难题，确保系统性能的稳定，参与系统软件和数据库配置和优化；\r\n5、项目开发上线后负责后续日常维护与更新迭代。\r\n任职要求：\r\n1、3年以上后端开发工作经验，计算机专业本科及以上学历，算法和数据结构基础扎实；\r\n2、熟悉 Java或C++，熟悉linux开发环境；\r\n3、熟悉常用分布式系统相关理论基础，有一定的分布式系统开发经验；\r\n4、熟悉 MySQL 或 Oracle 等数据库，熟悉数据库基础理论；\r\n5、快速学习能力、独立解决问题能力。",
+      "encryptAddressId": "5504ede76e9428bc1XN909i6GVY~",
+      "address": "北京海淀区东升大厦",
+      "longitude": 116.333649,
+      "latitude": 39.993897,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6fcb9da49f343bb1f5b31a6214a7077f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2df5d56e7559fe161b0b49d29ec7cdf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C/C++",
+        "Java",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191230/e95b610f9b5a95ed3c60b7af8096a08acfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "瀚沙数聚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d52324580c59d80a0XBy2t-8GQ~~",
+      "brandName": "瀚沙数聚",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191120/ba755e4ed4273e8edbaf041eb4f9cb38d813f05a8b893de768c3aae5abea7600_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "瀚沙数聚是智慧教育行业的平台型企业，对接各地政府教育主管部门、高等院校和用人企业；统一赋能教育行业，助力行业的数字化、智能化转型；公司发展战略：建立智慧教育生态体系，以学生为本， 从教育行业闭环生态链开始，逐步构建一个开放的教育行业大数据人脉系统平台，服务广大院校、学生和企业。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "加班补助",
+        "年终奖",
+        "股票期权"
+      ],
+      "activeTime": 1721715517965,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瀚沙数聚",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

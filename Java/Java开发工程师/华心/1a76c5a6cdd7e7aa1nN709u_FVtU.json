@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rM5JUYa2nhSE--C12tGMlzViG2YH6sYwEI8yetidv2wwROQ-eeXtNIpmDl9FNrmQX62l2XSztaXzwGdMv2nCkg3q9g8Qp1qfwNG15Ow1u0KKcsISZ8E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1a76c5a6cdd7e7aa1nN709u_FVtU",
+      "encryptUserId": "bc7637b9beef063203Fz2t6-GFE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-18K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、计算机相关专业，本科及以上学历，1年以上工作经验\n2、熟悉Java EE规范及体系，熟悉JDK 8的新特性\n3、熟悉Java开源框架，熟悉Java多线程；理解MVC设计模式；熟练使用Spring、Spring Boot、Hibernate等开源框架进行开发\n4、熟练操作Oracle、MySQL，深刻理解业务建模和数据建模，会优化Oracle数据库查询性能\n5、熟悉ECMAScript 6标准，并能熟练使用；熟练前后端分离开发模式\n6、有互联网服务器端软件研发经验\n7、熟练使用Git、Subversion等版本管理软件\n8、能保持对开源框架学习的热情、具有较强的责任心、较强的逻辑分析能力\n9、具有良好的沟通能力、项目控制能力和协调能力，具备较强的团队合作能力\n\n\n具有以下条件者优先考虑：\n1、有阅读源码的习惯\n2、熟悉常用的软件设计模式\n3、对服务端性能调优有丰富经验\n4、熟练使用Vue.js与ElementUI等，或类似的前端开源框架\n5、熟练使用Redis数据库\n6、注重代码格式\n7、有从事过java，数据库、实时数据库经验，微服务机制-接视频监控事例、从事SIS或DCS系统开发经验",
+      "encryptAddressId": "0c9d617f671a779133N92du1",
+      "address": "武汉洪山区慧谷时空2108",
+      "longitude": 114.432091,
+      "latitude": 30.504993,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2be8e2d950ea93d90c42709ac8f8d2e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/515c8f753e77dae09e0310183c38cf5f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "Oracle",
+        "MySQL",
+        "服务器端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180910/9ea0b2d686a7d201943418e7c89bb113ef0a70b2680aac144000d9d2e0f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "华心",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f6d6c6bc8638ba971nB929u9F1A~",
+      "brandName": "华心",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724313094531,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华心",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

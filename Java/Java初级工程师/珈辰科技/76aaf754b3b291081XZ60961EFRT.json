@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "L9pRZlaKqNSQv-I1hfWNwf5VVdlLtn3SaHy4Ay_PpC1kLEUFfRh0m5dhDOauSgstWgA-TuI684xY8V97UIcWxHdPpdqjdeNXQcVsk-WHGOOCMytK9Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76aaf754b3b291081XZ60961EFRT",
+      "encryptUserId": "b9d876f07ad6a11f1XN509q8Els~",
+      "invalidStatus": false,
+      "jobName": "Java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位名称： java开发工程师-初级           \n职务描述：\n1、完成软件系统代码的实现，编写代码注释和开发文档；\n2、辅助进行系统的功能定义,程序设计；\n3、能理解业务需求，并能将之反映到代码及电子文档；\n4、分析并解决软件开发过程中的问题；\n5、协助测试工程师制定测试计划，定位发现的问题；\n6、配合项目经理完成相关任务目标。\n具体要求：\n1、本科及以上学历，计算机相关专业优先（能力突出的，专科也可以考虑）；\n2、1年以上Java项目开发经验，熟悉web项目开发；\n3、熟悉XML，Struts/Spring，Spring MVC；\n4、熟悉Java语言、精通JQuery、SprintMVC、Mybatis等技术及机制，熟悉J2EE规范；\n5、熟悉Oracle关系型数据库，了解编写SQL语句；\n6、具备良好的表达和沟通能力，具备极强的团队精神和合作精神，有工作热情，善于思考，能够在一定压力下工作；\n注：能适北京本地项目驻场工作，外地人员如来京可根据情况提供住宿。",
+      "encryptAddressId": "21617ffc0a82c4830nd93di0FVU~",
+      "address": "北京昌平区嘉铭奥森产业园2",
+      "longitude": 116.403206,
+      "latitude": 40.039562,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a62223ffa40439a3cf0308493b3581a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/77775d9096c9a4b4e50f8cf1d5036040",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MVC开发",
+        "Spring",
+        "Struts"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姚女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191024/667b1598151201d8ea036b776aed5c2f7fb8434d7d73d1750ef3ce810a7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "珈辰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c423b27c428f9f6e0nJ82d21Fg~~",
+      "brandName": "珈辰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721715403149,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "珈辰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

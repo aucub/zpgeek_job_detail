@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6EtYTWbiiLqd_-11kqhhS061IWwQ-z1NFJufdgK5N05qPcH9P_PiD3LB9DLkf337U-NiIosEYqb1LoetUwS1izbuMjgXMRnobPZeTQ0VOut7vkN6UA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c5f342ee8a51b5e1nx92tW0ElFX",
+      "encryptUserId": "f291020944126fce0HFy2ty4GFM~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 对面向对象的软件开发思想有清晰的认识、熟悉掌握常用的设计模式；\n2. 精通JAVA并有较全的知识面，熟悉spring、MyBatis、springboot等主流框架；熟悉常用设计模式，熟悉高并发、高负载、高可用性系统设计开发及调优\n3. 熟练掌握Mysql、MongoDB，以及Linux操作系统及基本的命令使用；\n4. 熟练使用缓存（Redis）、消息队列（RabbitMQ,Kafka），对分布式、负载均衡等有一定了解；\n5. 热爱技术，有责任心，能够承担较大压力，具备良好的沟通能力及团队协作精神，乐于接受挑战；\n任职要求\n1、统招本科及本科以上学历（学信网可查），计算机相关专业；\n2、3年及以上开发经验，有良好的JAVA技术基础，熟悉多线程开发技术；\n3、具有团队合作精神和责任心，有较强的学习能力、沟通能力以及分析与解决问题的能力。",
+      "encryptAddressId": "2575ccb6adf02e741nV-3du_FFU~",
+      "address": "北京海淀区铸诚大厦A座6层614北京智之科技有限公司",
+      "longitude": 116.324944,
+      "latitude": 39.964622,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3789cd61aaab707bcca0b60a66ca8b7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10085aed635e4d3d669906831653a5d6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "SSH"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210720/c72ed164775be7ba6527cd14ac316534e3e82bb9fa7db8a226ab9b0bb2d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智之科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "af25985f69ca4a111nJ73d29Fg~~",
+      "brandName": "智之科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191216/ee483c75dcce98ee57ef39ec74555ef2389b4d03f4c91a65b01f2599cb1d3b53.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京智之科技有限公司成立于2016年8月，位于北京市中关村核心区域。公司主要面向指挥控制、无人作战、智能仿真等业务，致力于成为一家引领智能防务业务、智能数据服务的高科技企业。\n公司以军工文化为牵引，通过总体设计、核心研发、系统集成，为客户提供智能作战实验室和智能数据中心的核心软件及系统集成服务，支撑客户主体业务的附加值得到尽可能的提升。公司核心产品均为自主研发完成，具备自主可控特点，主要包括体系仿真引擎、指挥控制平台、无人平台自主群控平台、蓝军模拟系统、健康管理系统等，这些核心产品已经在军内院校或机构、军工企业等市场的作战训练、装备测试、战法研究、技术规划等领域形成了较为广泛的应用推广。\n\n公司团队普遍具有行业资深背景，能极好的理解客户需求，适应客户需求，必要时可为客户提供战法设计与需求分析；同时，团队采用系统工程方法，为客户定义方案、开发产品、集成建设，提供业务全周期的技术支持，致力于打造客户急需的智能仿真系统和智能指挥系统，支撑客户的论证、演示、管理、验证、训练、研发和测试等工作。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721710365107,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智之科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

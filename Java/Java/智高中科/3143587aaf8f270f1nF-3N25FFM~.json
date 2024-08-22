@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WTqjUV5VBFLj3-p1-uoT8Gsv7wcMOko7Lc3Z4ZdNARf3Tvh--UalJejbqXIxtLaeRUXOF4RdzWvE2XRLAz9VB4vn9I5etNxCZhWaK8_XhAQBMtaG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3143587aaf8f270f1nF-3N25FFM~",
+      "encryptUserId": "157f62322539ce901HZ-2Ny5GFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-20K",
+      "payTypeDesc": null,
+      "postDescription": "Java：\n1、有一定的带队能力和基于springmvc的基础架构能力\n2、有分布式和服务化开发经验\n3、熟练使用spring，spring boot，spring cloud，dubbo，zookeeper\n4、有业务系统开发经验，对原有业务有深度和广度的了解\n\n前端：\n1、熟悉JavaScript,Ajax,html,css等技术，熟悉各种浏览器平台特性，能够很好的兼容问题\n2、熟悉并在项目中运用过任意一门js库。有vue开发经验优先\n3、对html5，css3等新技术有一定的了解\n4、有模块化编程经验优先",
+      "encryptAddressId": "e4000e7ce95c0f800HR-39m8Fw~~",
+      "address": "北京海淀区中关村智诚科创大厦3层",
+      "longitude": 116.370533,
+      "latitude": 40.037117,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dac02dd1909ac6c4b9182bc5cab7c4f9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/809bd808da0c903eee25e6515d086030",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智高中科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "997466ad3c6a6a251nZ43N-4Fw~~",
+      "brandName": "智高中科",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721714380116,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智高中科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

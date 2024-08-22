@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XNpq613c9qes1-w1zRofINW-AmYrTcbpfl9C3Ak35jTgkqXpIgvIuL9M8K0FdCuUnWCdAQ_K7ht8aIIdj8x20naAvXTn_uFU-538x_DTXCD2ymJIadlp",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bfac9de8e1d8c8691nN72dq1GVFX",
+      "encryptUserId": "4020bf388f4122d20ndy2967EVZW",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、与本企业法国研发团队协作，负责实现云平台在中国市场的移植；\n2、对本企业现有系统架构进行评审和分析，负责针对中国市场提制定和优化运维解决方案，完善部署和监控的自动化；\n3、参与核心基础系统和服务的设计开发，协助开发人员攻关技术问题；\n4、负责云平台在中国的日常运维和异常处理工作；\n5、根据本企业质量管理制度和规范，及软件开发标准，负责协助翻译相应的中、英文技术文档，并对通用技术进行整理，提高技术复用。\n岗位要求：\n1、1年以上 DevOps 工程师经验；\n2、1 年以上 Java/Python/Gode后端开发经验；\n3、熟练掌握 Linux，熟练使用Terraform/ Ansible / Puppet等自动化工具；\n4、熟练容器服务部署，熟悉 docker 等容器技术；\n5、熟练网络应用开发，熟悉 Socket 和 HTTP ；\n6、扎实的计算机科学基础知识，熟悉操作系统，数据库、常见数据结构和算法，以及软件设计实践；\n7、良好的英语读写说能力（英语四级及以上）。",
+      "encryptAddressId": "c50612d26d7a13a0031z3ty9Fg~~",
+      "address": "广州番禺区永邦文化5层532",
+      "longitude": 113.366424,
+      "latitude": 22.951014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/335c266ab715733d8b403057ebdb9bc9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/789906a93e4503e109ce5774c87d887d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化运维",
+        "Python",
+        "Java",
+        "容器技术",
+        "网络协议",
+        "Socket技术",
+        "Linux",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210629/b18ddee1bcf21977871e3af714d3d81832331a6a258d3628907ed82397c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杰城商务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4f644fb6c1509d781nx62di7FFU~",
+      "brandName": "杰城商务",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721729382074,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杰城商务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

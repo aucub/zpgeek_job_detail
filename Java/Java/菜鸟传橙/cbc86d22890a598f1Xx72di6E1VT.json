@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8b4ozGfBvktp8-R1d-2VYA3XQ7H25YYzx9Nx0Vo-6BHuA7Yvej9EoAzjMGYwOOLcB-lBdngh7HEFy-lPTD6xcQcEx4hIx3KGdLL1aw5XGeArg9qFtiU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cbc86d22890a598f1Xx72di6E1VT",
+      "encryptUserId": "a9ecc06bf07dee080nBy3dm8E1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-15K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1. 深入理解国际物流供应链业务，参与需求分析和业务代码编写；\n2. 日常业务问题排查、解决以及其他技术支持。\n\n职位要求\n1、了解面向对象设计和编程的方法，精通Java编程语言，有多线程设计经验，了解JVM原理；\n2、熟悉HTTP协议和Servlet工作机制，对某一种Web框架的原理有较深入的了解；熟悉Spring框架，了解IoC、AOP等原理；\n3、有一定的系统架构和设计的经验，善于解决高并发，分布式通信，存储等方面的问题；\n4、熟悉应用容器，服务框架、消息中间件、数据中间件、业务流程等技术并有实践经验；\n5、熟练使用关系型数据库，有一定的SQL调优经验，了解非关系型数据库，如Mongo，Hbase等；\n6、对技术有热情，有团队合作精神，敢于担当，有自驱力；\n7、有全栈开发能力者优先。",
+      "encryptAddressId": "97b3f001634c29ac33x53dy_EVc~",
+      "address": "杭州余杭区菜鸟总部园区办公大楼5楼",
+      "longitude": 119.9646,
+      "latitude": 30.262188,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4812a348e4393858bbbcf63b6d48e420",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0de6ec7c2a4d1cca1e001dbbfe4e33ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "叶先生",
+      "title": "招聘者",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "菜鸟传橙",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "027bd4e452eba8741XR43d27GFA~",
+      "brandName": "菜鸟传橙",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230925/7b5b554d84f9729cec295008a792b6a5509687fb9443755712ae4f39efbf9947d3380f5010cadf28.jpg.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100510,
+      "industryName": "装卸搬运和仓储业",
+      "introduce": "阿里巴巴集团旗下菜鸟速递",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "底薪加提成",
+        "绩效奖金",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721745310784,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "菜鸟传橙",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

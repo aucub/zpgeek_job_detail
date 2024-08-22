@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5qJ00VTtU6P3f-d1BBhL7G5MgQ2AhZYeclrwt7rJBobAH2NMwsqb3fyEHnmTipToe58WeCPLJd0IcR6FMta4Kgz0-xof5S98_-aVkZ2ejq7fflWm9Y8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f501e2d3e4d2c2921Hd-2Nu0FlNU",
+      "encryptUserId": "242b1612b38f2f010H1439u6EVY~",
+      "invalidStatus": false,
+      "jobName": "基础软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "22-40K",
+      "payTypeDesc": null,
+      "postDescription": "职位职责描述：\r\n根据系统需求，开发基础软件相关功能。\r\n\r\n主要工作内容：\r\n（按重要程度排列，限6条以内）\r\n1、主动从系统层面的功能需求梳理基础软件相关功能开发需求；\r\n2、负责基础软件相关功能的需求分析，架构设计，详细设计和实现，以及测试和验证工作；\r\n3、负责基础软件相关功能的功能、性能、安全及平台化设计和开发工作；\r\n4、参与基础软件相关功能开发范围包括但不限于：基础软件架构，OS、RTE配置及应用，多核应用，上下电设计，功能安全框架及措施（内存保护，时间保护，FFI开发等），信息安全开发（安全启动，安全刷写等），固件升级（FBL、OTA），内存栈功能，Memory map设计，软件集成等。\r\n\n\n任职条件：\r\n全日制大学本科以上学历。计算机、通信、电子、电子电气工程、软件工程、自动化、机械电子等。\r\n1、2年及以上基础软件开发经验；\r\n2、精通C编程，熟悉一般编程算法，熟悉Makefile编程框架和编译原理；\r\n3、熟悉AUTOSAR架构，有主流商用BSW解决方案（Vector，ETAS，EB，Mentor）工程应用经验优先；\r\n4、熟悉AUTOAR/OSECK OS功能应用及原理，有基于OS的多核应用、安全开发（内存保护，时间保护）经验优先；\r\n5、有至少两项汽车基础软件功能开发经验：基础软件架构，OS、RTE配置及应用，多核应用，上下电设计，功能安全框架及措施（内存保护，时间保护，FFI开发等），信息安全开发（安全启动，安全刷写等），固件升级（FBL、OTA），内存栈功能，Memory map设计，软件集成等。\r\n6、有多核软件架构，功能安全软件架构设计经验优先；\r\n7、具备一定文档编写能力，过程管理意识，熟悉CMMI、A-spice或ISO26262开发流程；\r\n8、有功能安全（ISO26262）ECU产品项目开发经验优先；有软件安全分析经验优先。",
+      "encryptAddressId": "860c146b3e8eb9de1H1909S8ElFRxI63Wfo~",
+      "address": "上海浦东新区浦东新区上海研发中心",
+      "longitude": 121.544379,
+      "latitude": 31.221517,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b975afaed2a757f5f8cf049a0014514",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/76e77aa34b00bd0d0f4fa2c4064bbace",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "嵌入式软件经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230826/607f1f3d68754fd00399cec7aeab814aa7c29fdec088e01b19bb2549886c03697285398f9c05ea6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "晖星",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f90bfde4c5109e201HV72NW9EVs~",
+      "brandName": "晖星",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100604,
+      "industryName": "人力资源服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721706937471,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "晖星",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

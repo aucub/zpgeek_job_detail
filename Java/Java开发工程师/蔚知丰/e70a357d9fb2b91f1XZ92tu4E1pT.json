@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OOKcVYwtw2ac3-31RxB8caqF2vZor1bCMBauaV3ryGmAvb-NpAgrHugcky83WuGS3Mf3C4HeSkCuRBg86een52GQqwbwBCiwTWgO2wqAs3-MgXW_NAc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e70a357d9fb2b91f1XZ92tu4E1pT",
+      "encryptUserId": "2f6aaf6cb62fe4620nV83Ni9FVI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-16K",
+      "payTypeDesc": null,
+      "postDescription": "java工程师招聘（全职/兼职均可）\n要求1、计算机相关专业，本科及以上学历（学信网可查）\n2、二年及以上软件项目开发经验，有2年订单系统开发项目经验优先考虑，能认真独立完成分配的任务；\n3、扎实的Java基础，熟悉springboot、springcloud，mybatis、redis、等技术、熟练掌握多线程编程\n4、对MySQL数据库有一定优化经验；\n5、有团队精神和敬业精神，具备良好沟通能力、自学能力和独立的解决问题能力，能承受一定的工作压力\n6、具有良好而规范的编程习惯和技术文挡编写习惯。\n7、熟练掌握python，熟练使用numpy 加分\n8、必须有单独业务数据量高于千万的项目经验",
+      "encryptAddressId": "0a4ebc441a7eea440XR80ti8ElQ~",
+      "address": "北京朝阳区酒仙桥街道街道",
+      "longitude": 116.490748,
+      "latitude": 39.965175,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e82da574f8c678861ef8af53c0ae2bfc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a4d3e8e39e4f1f1e3d6ca923e266d3d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "MySQL",
+        "SpringBoot",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "蔚知丰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "66659f70c743f2d01nZ73d25FVc~",
+      "brandName": "蔚知丰",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721715452889,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蔚知丰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

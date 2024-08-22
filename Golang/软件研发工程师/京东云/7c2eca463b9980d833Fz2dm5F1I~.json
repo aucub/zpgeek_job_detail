@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Po2mYkiXo7zAJ-_1uIV6ugz_ZmglNV1EEglHuI9pYWrtw7rjTmKGr8cqCIGEvsuoOA2tbLkkUNZN49UNgT004xnYl2-T5jjFK9J0jzgMUDl4pxo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7c2eca463b9980d833Fz2dm5F1I~",
+      "encryptUserId": "11be422eb6eb26011HJ40tu9GFc~",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n\n1、京东云MongoDB数据库相关产品研发，包括管控系统、数据传输服务等；\n\n2、MongoDB部署的优化、性能调优、以及运营和日常维护，以及协助用户进行上云操作等；\n\n3、基于k8s的云原生数据库管理服务系统的实现；\n\n4、负责对云数据库新技术和架构的调研。\n\n任职要求：\n\n1、计算机本科及以上学历，至少有2年数据开发经验；\n\n2、熟练运用C++/Golang/Java中的其中一门语言，多项者尤佳；\n\n3、熟悉数据结构、linux开发、分布式服务系统开发等；\n\n4、熟悉MySQL/MongoDB等开源数据库的特点，熟悉数据库技术的原理、使用以及调优尤佳，了解源码优先；\n\n5、熟悉Docker，Kubernetes，有过 Kubernetes operator使用经验尤佳；\n\n6、具有较强的学习能力、责任心、团队合作能力和沟通能力。",
+      "encryptAddressId": "2c3854f9a973f7271HVy2Nm9ElE~",
+      "address": "北京朝阳区北辰世纪中心A座5楼",
+      "longitude": 116.387929,
+      "latitude": 40.000355,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca898bea277c2e88d3be3f258b277add",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c18ebbd8ff6308f618f41e78450290b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "云计算",
+        "分布式技术",
+        "Linux",
+        "Java",
+        "C++",
+        "Go"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "软件开发工程师岗",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180320/945b05d2154ec897208c94223a29513a483f40053430b6966b0bd1b9f99_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "京东云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73b91dcc05b6398e1XB409y4",
+      "brandName": "京东云",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180730/03e77ddd4f44735b5a36ebfb85c453a6cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "京东是一家以技术为成长驱动的公司，从成立伊始，就投入大量资源开发完善可靠、能够不断升级、以应用服务为核心的自有技术平台，从而驱动电商、金融等各类业务的成长。未来，京东将更加重视技术的战略地位，发展云计算、大数据、智慧物流、人工智能、AR/VR、智能硬件等最新技术，以推动京东实现快速、可持续增长。\r\n技术对京东的价值可以总结为业务保障和技术突破两个方面。业务保障包括基础保障、平台保障和安全保障，能够支持京东的高速顺畅运营，应对618、双11等电商大促的海量订单压力。在完成业务保障的基础上，技术突破会给京东带来更高的运行效率和更多的商业机会。目前京东的技术突破有相当的比重是从大数据中产生的，比如大数据能让用户体验更好、运营效率更高，完成个性化推荐搜索、自动补货、自动定价等应用；京东云在完成全面京东业务运营支撑的同时，会成为京东对外提供技术、方案服务的平台，京东将自身的技术、资源和经验全面云化输出，帮助政府及行业用户迅速走上“互联网+”道路；京东智慧物流应用发展迅速，无人机送货在今年618前夕实现试运营，自动化物流中心已逐步落地，无人配送车进入路试阶段，不断提升运营效率和用户体验。\r\n\r\n京东致力于成为一家为社会创造最大价值的公司。经过13年砥砺前行，京东在商业领域一次又一次突破创新，取得了跨越式发展。与此同时，京东不忘初心，积极履行企业社会责任，在就业、纳税、全球化等方面不断为社会做出贡献。未来，我们会不懈努力，将京东打造成为一家让国人为之自豪的伟大企业。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721710437934,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京东云",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

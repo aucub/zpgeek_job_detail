@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sANMLvsVjYnFf-X1j7WzskgrMrMMNytj-jXaS94u2-1Jy567sBRMO0xqWSOvZtRntEALPhu7mSh0jjze5Yd3JhpFIfbGmyvDEmOtA6HLDufh_N8cDFg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "da9f16792d3caaf71nV72dq1EFZX",
+      "encryptUserId": "a67e911183aa8b440nZ62Nu-EFo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "1. 本科及以上学历，计算机及相关专业，3年以上java开发经验。\n2. JAVA基础扎实，精通io、多线程并发、集合等基础框架，熟悉jvm调优\n3. 技术栈：SpringBoot、Mybatis、Mysql、Redis、Kafka、RPC\n4. 熟悉常⻅应⽤框架，熟悉常⻅设计模式， 有系统设计经验，研究过优秀开源软件源码并有⼼得者优先。\n5. 有复杂系统的架构设计能⼒及业务规划能⼒，有带⼈能⼒优先。\n6. 精通SQL,熟悉 MySQL、SqlServer 等主流关系型数据库。\n7. 熟悉 javascript，React 等前端技术优先。\n8. 具有出⾊的抽象设计能⼒，能独⽴分析和解决问题，逻辑能⼒强，思维活跃，乐于接受新事物。\n9. 有很强的责任感，良好的团队合作能⼒，能够承担⼀定的⼯作压⼒",
+      "encryptAddressId": "89b94a68da7880ab1HN83dm8E1M~",
+      "address": "北京海淀区金隅嘉华大厦F座F座503",
+      "longitude": 116.308543,
+      "latitude": 40.037519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e6e295fedc1d56c61dd4d5cb430f05c7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/252c6718c45825adef4464532667ce97",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190128/07d2dc3afd93c85adb829c92210f7b4a34f2d99f8a7f4568fafe011fd14_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "酷趣互动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b3b698d4969d7dcd1nZz39-0GFY~",
+      "brandName": "酷趣互动",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721710440871,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "酷趣互动",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

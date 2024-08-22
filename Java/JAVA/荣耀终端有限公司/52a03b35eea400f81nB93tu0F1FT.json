@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hXymeE1BmMNi_-N1rlK-7-w5cJZILH75_3f4ErPo8jIY6Mw4-pVZsVLoKP-xdKKIb2hGxHaWIciNYlHb9R8d4WFQFl9Dt0tqILR25jpomOQHIuLM8A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "52a03b35eea400f81nB93tu0F1FT",
+      "encryptUserId": "2769e20aa28b291d1HJ50t68FFs~",
+      "invalidStatus": false,
+      "jobName": "JAVA",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "16-30K",
+      "payTypeDesc": null,
+      "postDescription": "1、通过开发工具或开发方法的改进提高开发效率，参与定制设计及实现各项研发规范，指导设计、实现、及部署工作；\n2、负责关键技术研究和技术预研，并结合实际应用需求运用于平台系统架构中；\n3、负责平台产品的性能评测、容量评估、线上技术问题跟踪和处理；分析、拉通并解决平台开发和运维过程中的技术问题；从可测性、容灾和系统稳定性方面推动平台的发展。\n4、AI领域智慧业务云侧的特性设计及开发，完成高质可信的特性开发交付；完成跨模块的服务对接调试，负责到端的特性交付。\n5、将负责电商零售领域、营销服务领域、采购供应链领域、财经交易领域、HR及行政综合领域、云平台等IT产品开发。\n\n任职要求\n基础能力要求\n1、计算机、软件、通信等相关专业本科及以上学历；\n2、热爱编程，基础扎实，熟悉掌握JAVA编程语言，有良好的编程习惯；\n3、具备独立工作能力和解决问题的能力、善于沟通，乐于合作，热衷新技术，善于总结分享，喜欢动手实践；\n专业知识要求\n1、熟练掌握Java EE相关技术，熟悉Spring、iBatis、Dubbo、SpringMVC、Spring Cloud等开源框架；\n2、熟练掌握MySQL、Oracle等数据库开发和设计，掌握DB原理与调优、熟悉数据库建模、具备MySQL数据库设计、数据库性能优化经验，具备数据库分库分表实战经验，熟悉一种或多种NoSQL数据库，如Redis、MongoDB、HBase；\n3、具备丰富的系统建模经验，熟悉分布式、多并发技术、SOA缓存技术、熟悉MQ、ES、BPM、Nginx等，熟悉面向对象设计分析及UML建模，熟悉JVM、Web性能分析与调优；\n4、熟悉CI/CD、docker、kubernates、Linux等运维部署经验；\n5、有高并发、分布式、微服务治理、大数据、财经ERP、支付、开票、结算等相关经验者优先考虑；",
+      "encryptAddressId": "217fb0bec41c131003R63du-EFM~",
+      "address": "深圳福田区深圳新一代产业园1栋22F",
+      "longitude": 114.059697,
+      "latitude": 22.57344,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84009731f259deb4fc86fd2a18ed1f64",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9026d9650edd3a2c71d93b26dbd82b5d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "MVC开发",
+        "容器技术",
+        "Spring",
+        "Dubbo",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "单先生",
+      "title": "工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "荣耀终端有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "39a50c1b8a5244f033173tW5EQ~~",
+      "brandName": "荣耀终端有限公司",
+      "logo": "https://c-res.zhipin.com/jrs/3097d0c6a750681194958b5b6379d32b.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100027,
+      "industryName": "消费电子",
+      "introduce": "HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。\n我们致力于成为构建全场景、 面向全渠道、服务全人群的全球标志性科技品牌，\n荣耀以创新、品质和服务作为三大战略控制点，坚持研发及前瞻性技术的持续投入，\n为全球消费者带来不断创新的智能设备， 创造属于每个人的智慧新世界。",
+      "labels": [
+        "五险一金",
+        "通讯补贴",
+        "节日福利",
+        "免费班车",
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险"
+      ],
+      "activeTime": 1721745262225,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "荣耀终端有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7A68yTTqkA-Ar-d14bVzoK0AI4Mu9Fy1UqKtJ0hykSJOWK4H9TOE17sQPmbNc9y0p6bbmtGstcK83L-KewRLjxI2nYexdW8Qx8pPFsMRqJOPFlCUpicYVIC6SD_T8lbvlAwQ5L9l7xwU5A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c1477f2f263125ac1HJz3t21EVpW",
+      "encryptUserId": "0e4c928ef56437360XBy3dm0E1I~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-60K·18薪",
+      "payTypeDesc": null,
+      "postDescription": "Java工程师/专家 - 跨境电商交易核心系统\n岗位职责：\n1、参与拼多多跨境电商平台核心业务系统建设工作，包括交易平台、商品平台、营销平台、用户平台、消息平台等；\n2、完成各业务模块的需求对接、方案设计和功能开发工作；\n3、负责或参与核心业务系统的持续技术升级改造，包括可用性建设、性能优化、故障排查、安全加固等工作，保证系统稳定运行；\n4、参与跨境电商基础业务架构演进，不断优化底层业务模型，优化技术架构，保证架构的合理性和前瞻性。\n任职要求：\n1、有大型复杂分布式互联网系统的设计开发者优先；\n2、JAVA功底扎实，能编写高质量、简洁清晰的代码；\n3、熟悉主流开源框架（如Spring，MyBatis）的原理与实现；\n4、熟悉分布式系统相关框架和中间件（如Dubbo）的原理与实现，并能熟练使用；\n5、熟悉MySQL、Redis、ElasticSearch等主流存储引擎的原理，并能熟练使用；\n6、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作。",
+      "encryptAddressId": "3ea755ee226b53af1nR52t61ElVQwoW_Ufuf",
+      "address": "杭州中沙时代银座1202",
+      "longitude": 120.33174,
+      "latitude": 30.304771,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b39bc139731a85724d5aedbc8dd16c74",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c9f7744e5ec06782c00062b61a2c220",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Kafka",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221106/607f1f3d68754fd0af074486646691eb054b5f59ea78d8e8c10faccdb79829c4265699e9d5b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海从鲸信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69b348dde14edb051HB73tq6EFQ~",
+      "brandName": "上海从鲸信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240821/7bf6f160950405e9e8a47f355d22075223af7ee06a66ddef1dd844291f83ddb340bee7fa8b6e5891.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724311827041,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海从鲸信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

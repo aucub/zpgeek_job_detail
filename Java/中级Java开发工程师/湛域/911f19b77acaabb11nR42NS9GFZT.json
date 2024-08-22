@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SGh8iMJJJ3JMu-M1rQVsMXJMmsg_OhmcGURbAKAQH5_yH-uF111Z27xbe8Rfoco1tgxqKlLz5bpHTv22unTVS49kAmQFhK3j88OvOe5zAK-MvgVjYA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "911f19b77acaabb11nR42NS9GFZT",
+      "encryptUserId": "113d0c8289904dd90Hx829-0FlA~",
+      "invalidStatus": false,
+      "jobName": "中级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述:\n1、 可独立完成需求的整理和软件设计 \n2、 按照项目计划，按时提交高质量代码，完成开发任务 \n3、 规范文档的编写、维护，以及其他与项目相关工作\n4、 帮助团队其他成员解决技术问题、及相关技术分享\n5、 核心业务系统架构设计及优化\n6、 负责系统关键模块的设计、开发文档的编写\n7、 负责计算引擎、征信网关相关业务开发\n\n任职资格：\n1、 2年及以上互联网工作经验，基金、信贷、电商、理财、秒杀等To C业务的金融领域或背景的项目优先\n2、 有扎实的Java语言技术栈和常用基础组件，了解JVM的原理，具有较好JavaIO、多线程、网络等方面的编程能力\n3、 熟悉HTML5、JavaScript、Ajax、CSS、JQuery、 Extjs、Dojo、node.js等Web前端技术\n4、 熟悉主流开源应用框架，如Spring、struts、iBatis、hibernate、velocity、XML、JSON、Maven等开发技术\n5、 熟悉webservice、Dubbo、ZooKeeper等\n6、 熟悉关系型数据库MySQL Oracle等，以及相应数据库调优、SQL优化\n7、 熟悉Memcached、MongoDB、Redis、HBase等\n8、 具有一定的软件项目管理知识或经验者优先，具有大数据开发经验者优先",
+      "encryptAddressId": "bb49f41c0468410e1HF729i1EVI~",
+      "address": "北京朝阳区鹏润大厦B座北京市朝阳区霄云路26号",
+      "longitude": 116.466716,
+      "latitude": 39.958957,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c93ca93d8de0c289056f79c79940443e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/765b14ce0e4325d05655d1a21fce1c7b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Dubbo",
+        "数据结构",
+        "Redis",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200916/6506712f63ab0d37eb8c3fd72a11b53f6366bacefc8db6e81b1869ce768_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "湛域",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69896da9056d635603180961Eg~~",
+      "brandName": "湛域",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200914/086280c52442eea43457e3e829c47cf98e872f7ae132882d53913d4627983a5d_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721715454014,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湛域",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

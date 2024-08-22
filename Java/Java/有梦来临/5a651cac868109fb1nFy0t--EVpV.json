@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PirpJ76Ilo02x-N1cwVSvCP_lj-jL1Ef0OxW8zWjgO1-zN72MhevrsfsxPYBOzv-QumEOc5pspPgOQO5ZWx0_if08As2uNhcBBj7edlJvrc9-Mcs4nsrYtbyayikOnviqp8QmGi57lRywQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a651cac868109fb1nFy0t--EVpV",
+      "encryptUserId": "7dc07b1b3c0f15e10nF43dW_FVE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n（1）计算机相关专业，大专及以上学历，2年以上应用系统项目开发经验；\n（2） 熟悉SpringMVC,SpringBoot,Mybatis等开源框架；\n（3） 熟悉主流的关系型数据库如：Mysql,SqlServer，对Sql调优有一定的心得；\n（4） 会使用非关系型数据库，如MongoDB。\n（5） 了解Redis缓存技术。\n优先考虑：\n1．有分布式如Dubbo+Zokeeper环境开发经验或者SpringCloud+Eureka环境的开发经验。\n2．熟悉Linux脚本，有Linux服务器实施经验。\n岗位职责：\n（1）对现有平台进行维护和升级；\n（2）根据新需求，协助开发新的功能模块；\n（3）根据项目需要和开发流程的要求，编写相关技术文档；",
+      "encryptAddressId": "b345953e6d9886f80Xx829y6",
+      "address": "杭州文化创意大厦1702",
+      "longitude": 120.294855,
+      "latitude": 30.392888,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e87494099e26eb16f4ac00063c02654",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95fed07fd54701b15423af1ccd263485",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "SpringBoot",
+        "Spring",
+        "MySQL",
+        "Linux",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190226/a9ee59416960905259966444d1d635e3270feeca6e4cb835336c662a164_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "有梦来临",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9f10431ea233f9761nJ-3965Elo~",
+      "brandName": "有梦来临",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721748072416,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "有梦来临",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

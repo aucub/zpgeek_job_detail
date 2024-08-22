@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eRKZEmBuUbqHm-E1jyiS9h1z6tFYYH1O3XAIdGmPvKIdW2F3JxhasmVXuuzJlcVg8pqVJjbBI-K-fDtKdSzJwiwpMVy71lYM6nnxT2UbVNIhsPiIN9ZWGpkCKVIkXadflwiee2ct4gN6Ttk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e96c1a3b359953a91Hd83d-9F1ZZ",
+      "encryptUserId": "374fdc3d1b048dec0Xd-0tW4E1VQ",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.掌握Java语言，熟悉Springboot,mybatis等主流开源框架；\n2.熟悉软件工程，有较强的需求分析、架构设计能力，能编写各类技术文档；\n3.能够根据安排完成一些日常工作任务；\n4.具有良好的团队合作精神、沟通能力、学习能力强、能够承受一定的工作压力。",
+      "encryptAddressId": "355f5edde9f38d5e0nB53NS8GFBVy4q2UfM~",
+      "address": "上海浦东新区证大立方大厦证大立方大厦",
+      "longitude": 121.552024,
+      "latitude": 31.224513,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bcbb4ee3e7f26d269f6803a08f773b0f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03e566e30dbc24c75ad6ed14b96a4472",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "福建祥承",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "551be921b4314d601HZ83du8FFc~",
+      "brandName": "福建祥承",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724262154657,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "福建祥承",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

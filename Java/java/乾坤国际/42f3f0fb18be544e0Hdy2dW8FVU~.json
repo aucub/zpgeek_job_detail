@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GExqKe-DR4BhS-Y1MLk87CPkTIGlDJOReTOs1DodQIBavVkI42X-6O2WDVdLhhtP2O7H-0Oo0bxcXbNKDICkSv8wGozi-XTrCdaGScNC5I8qCWSo",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "42f3f0fb18be544e0Hdy2dW8FVU~",
+      "encryptUserId": "53c4cc8237f1568733V82dy6EFE~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-50K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、推荐系统中的工程相关工作，与算法解耦，支撑算法快速迭代；\n2、协助标签体系建立，可以支撑标签相关业务的管理，并且持续迭代标签发现；\n3、数据集市建设，为决策、效果分析提供支持，提升效率；\n4、及时发现系统不合理或者有风险的地方，制定优化方案并落地；\n\n任职资格\n1、编程基础扎实，精通Java语言，熟悉流行的开源框架；\n2、熟悉互联网产品架构，有大型分布式、高并发、高负载、高可用性系统设计开发经验者优先；\n3、熟悉RPC原理，对于中间件、SOA框架等原理有一定理解；\n4、熟悉MySQL、MongoDB等数据存储技术，熟悉Memcache，Redis或其他缓存技术\n5、对于系统问题可快速定位并制定合理方案，有大型系统在线重构经验的优先；\n6、强烈的责任心与主动性，对所负责工作有owner意识，并能自我驱动成长；\n7、有数据仓库建设经验的优先。",
+      "encryptAddressId": "664b0a901412daa41Xx_39y9F1M~",
+      "address": "北京朝阳区望京SOHO",
+      "longitude": 116.480639,
+      "latitude": 39.996356,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb01b71d0921cadd54139eaea4ca7a8e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d760c4b723f58a6a8e99534e24943fee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191203/4002ff039cbe65891d037e6a4c7946efb0b440d6ab5319009f23bcbcb52_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乾坤国际",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2333d1954e6eb4ed0XF92ti5GA~~",
+      "brandName": "乾坤国际",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731022732,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乾坤国际",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

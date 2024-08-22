@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dmuUrp2YtErIk-c1O1a36Uu6kBTb-vAaI2AB246XilSekX6WaXIY-U4WS39ldxU5cv83xlXJjW3Ryb_7zu4tn1Sfbimkz_Y8wGlQVCT3xzjJW157ILI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cb9f60215b68bf9a1XZ739y-FFBZ",
+      "encryptUserId": "4594db068878a8840nR_39y8EldR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-22K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、承担信息化项目后台开发及公司产品研发工作。\n2、深入理解业务需求，梳理业务流程，提供相应的解决方案。\n3、参与项目运维工作，梳理线上系统架构和调用链，能够及时响应问题和处理问题。\n职位要求\n1、两年以上的工作经验，或其中至少一年以上参与中大型网站开发经验。\n2、熟练掌握Java语言，熟练使用SpringCloud等主流开发框架，熟悉node.js优先。\n3. 熟悉Linux操作系统、网络、主流数据库等基础知识，具备快速排错能力。\n4、具备系统架构能力，熟悉分布式容错、分布式缓存、高并发等主流技术。\n5、熟悉工作流引擎(flowable、activiti)优先。\n6、熟悉zookeeper、kafka、rocketMQ等中间件。\n7、熟悉mongoDB、redis等nosql数据库\n8、具有docker容器化服务经验，熟练使用k8s服务编排，熟悉rancher者优先\n9、能够独立完成项目经理所分配的软件开发任务。",
+      "encryptAddressId": "1a2363c4c8bfeca30nB629y8GFM~",
+      "address": "广州越秀区紫园商务大厦1座6601",
+      "longitude": 113.304107,
+      "latitude": 23.132213,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5656675899247fa4c96aa7427061207",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c978d7512366984550b8baca8bf0c06f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "容器技术",
+        "分布式技术",
+        "后端开发",
+        "NoSQL",
+        "Redis",
+        "MongoDB",
+        "SpringBoot",
+        "微服务架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210307/2c65509d413c4bcffec74045b02e422b1906527499573052e1974886f17_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "青芒科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "70626a4b9e04611e1HN_0t-6EA~~",
+      "brandName": "青芒科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723023262,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青芒科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

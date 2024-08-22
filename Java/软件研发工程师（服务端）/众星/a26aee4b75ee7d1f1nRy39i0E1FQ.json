@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MuIAqAqfR7GUm-J1gHOFXWKQLxUCfAi4x1oNCMnvVRvSci2u8sdHv1i7KvpKlTaNJQCKdRwzCh887rwdsjwcxCSRVbrfetlG08WY-SboFF3287wnYxI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a26aee4b75ee7d1f1nRy39i0E1FQ",
+      "encryptUserId": "6ccea8361ede1f730XZ-29W9FVU~",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师（服务端）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作描述                                                        1、参与团队内开发框架、微服务框架的构建与完善                                                           2、参与团队内Java开发规范的制定与推广工作                                                                   3、参与或主导项目的需求分析与设计工作，主导项目后端开发工作                                  职位要求                                                       1、本科以上学历、计算科学与技术、软件工程专业，具备互联网后端开发2年以上工作经验                                                                 2、熟练掌握Java后台开发，熟练使用Spring/SpringMVC/MyBatis/Velocity等Java Web开发框架                                     3、熟练使用MySQL，具备基本的SQL性能分析、优化能力。                                         4、熟悉基本的前端开发知识，具备独立开发简单前端页面的能力，熟练使用html5/css/javascript等技术，熟练使用jQuery/Bootstrap等常用前端开发框架，有使用VueJS前端开发框架经验者优先 。                    5、有大数据、高并发架构、分布式部署和性能优化等经验， 能设计高可用架构和方案 。6、有良好的编码习惯，结构清晰、命名规范、逻辑性强、扩展性好 。                        7、具备良好的分析和解决问题能力，能独立承担任务和有项目进度把控能力 。             8、热爱技术，主动好学 ，有强烈的责任感和内驱力，有良好的沟通和团队协作能力 ，能承受一定的压力 。                                       9、有使用过Linux系统，熟练掌握Linux环境常用中间件(如Nginx/Haproxy/Tomcat等)部署、运维者优先。",
+      "encryptAddressId": "5753631cd06db9811HN62NS-FFM~",
+      "address": "深圳南山区企航科创研发产业园e栋二楼",
+      "longitude": 113.936261,
+      "latitude": 22.631016,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4835afdc3c92af879a0072883b5319bc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d7b8c84d8bba3e85d793f57d48b2de36",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JavaScript",
+        "SQL",
+        "CSS",
+        "分布式技术",
+        "MVC开发",
+        "服务器配置",
+        "微服务架构",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240527/607f1f3d68754fd049364fb6339f96f19b408e88f5d61a21ad5521b8f2c5c73d27aaddc986883fe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "众星",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7b4aeb2639197d671nV92NS_E1U~",
+      "brandName": "众星",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721716602841,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众星",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

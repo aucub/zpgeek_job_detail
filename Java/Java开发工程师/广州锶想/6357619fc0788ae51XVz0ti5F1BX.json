@@ -1,0 +1,121 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Rd396GLeBaiRn-B1oc963UYbleZmR4Am9s4c50ByWRLCuPb5Gj2Qu7rYuPfoPbcTND8u6R4XHHuwBLrqEuJPcpSqk2DRhoQJr-bbV3E2FavcJmku6A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6357619fc0788ae51XVz0ti5F1BX",
+      "encryptUserId": "acfe9076edc1bb5e1XV73N-9FVU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责智能硬件产品，物联网平台的后台业务研发；\n2、负责产品需求分析，参与产品中相关的分布式流量调度平台、稳定性保障平台、统一配置中心、即时消息中间件、流媒体支撑平台等核心系统的技术架构；\n3、负责后台服务器的集群协议设计、协议解析、协议的编码与联调；\n4、负责人工智能技术应用服务搭建。\n任职要求：\n1、计算机、软件工程等相关专业，2年以上工作经验，学信网可查的学历；\n2、熟悉springboot,springcloud等主流框架；\n3、熟练掌握MySQL、Redis及 NoSQL 相关知识，了解基本优化原理；\n4、熟悉Linux平台开发及Shell的编写，熟悉IO、多线程、集群等基础框架，熟悉分布式、缓存等机制；\n5、编程基础扎实，熟悉TCP,UDP, HTTP,HTTPS,Socket/WebSocket, MQTT等协议和常见的网络通讯诊断工具；\n6、常用RPC框架如dubbo、motan等，常用消息中间件如Kafka、rocketMQ、RabbitMQ等；\n7、有团队精神，身心健康。",
+      "encryptAddressId": "3fbecdb03fda10333nR-3dq9GFY~",
+      "address": "广州黄埔区高新兴科技集团股份有限公司612",
+      "longitude": 113.456086,
+      "latitude": 23.175054,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf7d129ab2d2b31168e1fc3e8e5363e3456bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf5de52e30bb690a114e3d3f8036da857f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "负载均衡技术",
+        "Socket技术",
+        "SpringCloud",
+        "分布式技术",
+        "多线程",
+        "网络协议",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200929/143f543fa715fadcc7bb7661701cf6cecdab9e2d37b6d3877544f468d0f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广州锶想",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "10711542a69edb090X163Ny_EQ~~",
+      "brandName": "广州锶想",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191222/1ed832470bb18bd097f9912063aae5b31c16bcb41a56fefbf8f5da501c429caf_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "主要产品涵盖IM、物联网和机器人，是国家认定的高新企业，企业发展方向明确，有抗风险能力，是优质成长型公司。\n真正做好硬件，坚守长期价值，欢迎有技术的同好前来面试。",
+      "labels": [
+        "节日福利",
+        "住房补贴",
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1722925852000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州锶想",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": {
+      "onlyAccept": false,
+      "detailInfos": [
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/9db3de8ea9a1853ab1a00ba4746690019baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/db428f8b77002963e999b6b80671c5fb9baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "听力残疾",
+          "content": "该职位支持三级及四级障碍人群及以下"
+        },
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/7d75d5c87418f7bf85030d6c28dd26d89baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/53f07ee2b4c7100228b868c382f5b8e19baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "肢体残疾",
+          "content": "该职位没有障碍程度限制"
+        }
+      ]
+    },
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

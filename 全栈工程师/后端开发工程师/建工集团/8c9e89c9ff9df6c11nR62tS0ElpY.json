@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "V1aZl6ut2HkEh--1Ng5GoVgfmPzngpGz0XMH8nui8wSVeJ_QuV-MDl6BQbvrBTaItUN5QWFVtOhykFyBqa1pmiQT4E1RO7NX21v-_GbRPSqDvo7m",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8c9e89c9ff9df6c11nR62tS0ElpY",
+      "encryptUserId": "e1dab665de3a25750XR729W7Eg~~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-15K",
+      "payTypeDesc": null,
+      "postDescription": "HTML，CSS，JS，Java，PHP，Python\n技能要求：\nHTML/CSS，JS，Java，PHP，Python\n职位描述：\n\n参与公司产品的后端开发工作, 与前端开发人员紧密配合，完成项目的持续交互；\n\n任职资格：\n\n1.本科及以上学历，软件开发或相关专业毕业；\n\n2.两年及以上开发相关工作经验；\n\n3.了解前端技术，能够编写简单的前端页面；\n\n4.熟练掌握一种以上主流后端开发语言，如PHP、JAVA、.NET、PYTHON、GO等\n\n5.熟悉HTML、CSS、JS\n\n6.至少熟练掌握一种数据库编程，如mysql、sqlserver、oracle等\n\n7.熟悉主流软件开发流程及开发方法，如瀑布式开发、敏捷开发、TDD、CI、CD等\n\n8.熟练使用SVN或GIT等源代码管理工具；\n\n9、理解分析能力强，主动积极，执行力好；\n\n10、具备独立的设计思考能力，能推动项目中设计工作的进行，有出色的表达沟通能力；",
+      "encryptAddressId": "06594dd01783af641nJ73d-4EVo~",
+      "address": "北京西城区建工大厦1613",
+      "longitude": 116.32813,
+      "latitude": 39.893781,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0e7fd5653204e6ff2f6a8ab04a89771",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08c4ec8cad79eb814c38b038ee1621a5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "PHP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "HRM",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190919/9d1a3c85f4fdf13277ac35aea11329adcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "建工集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "98a4fc86464a02fd0nx42N64FQ~~",
+      "brandName": "建工集团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200615/594d2bcaecae0884c829bcd5e4b22255a43e8c9e75100d705d73cc52dbc2876a.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100702,
+      "industryName": "工程施工",
+      "introduce": "北京建工集团有限责任公司作为北京市属的大型国有施工企业和国家建设的主力军，自1953年成立以来，始终保持着中国建筑业的领先地位，并逐步发展成为一家具有国际竞争力的新型企业集团，跻身全球250家最大国际工程承包商、中国500强企业、中国工程承包商10强企业。曾入选“建国60周年百项经典暨精品工程”8项，累计入选“北京十大建筑”22项，先后96次捧得全国建筑质量最高奖一“鲁班奖”，74项工程被评为国家级优质工程，40项工程获詹天佑大奖，有着丰富的建设经验和被业界称道的工程业绩。",
+      "labels": [
+        "住房补贴",
+        "节日福利",
+        "包吃",
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721737454051,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "建工集团",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

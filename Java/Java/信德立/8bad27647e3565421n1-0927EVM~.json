@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VDgTmRdyhZCAJ-z1tDBsdbNY3Cr1bphLx3S_0JJSB23p1enj-PUxHa5GXH10vQfPTynx1R5Nulvw_U46H69NVgxrdHv8MkEbv-81ld8lenSpmjE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8bad27647e3565421n1-0927EVM~",
+      "encryptUserId": "8ca1c8e21bdc57591Hd609W0FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述： \n  1. 负责电商SAAS系统的开发\n按照系统规划完成API的编写和测试\n \n岗位要求：\n1、至少3年以上Java开发经验，编程基础扎实，理解io、多线程、集合等基础框架。\n2、精通Java及Web应用的开发，深入了解spring，ibatis，cache，rpc，jvm等机制与代码。\n3、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制。\n4、熟悉Linux开发环境，熟悉Tomcat/Nginx/Apache服务的安装配置，对生产系统故障排查有实际工作经验。\n5、具有高度的责任心与自驱力，良好的沟通协作、应急响应与处理问题的能力\n6、有良好英语沟通者优先考虑， 也可酌情降低技术能力要求",
+      "encryptAddressId": "e15d4b0ebe2855650Hx83t-4GQ~~",
+      "address": "北京朝阳区北京财富中心3105",
+      "longitude": 116.459624,
+      "latitude": 39.916071,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d40c6922d9721b02b32f81b4b3f90a5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/142c53a0c2f2247832f23c95f010ff19",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171209/ece6fea96fc109aee2b1a77a506a423454df9258929dbcc8c6658c010c1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "信德立",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e96872b58f6a8441HJy0tm_",
+      "brandName": "信德立",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170611/5c74486c7542df34f0f4769129b33f6f304526512e490faa5ae0075501deb712.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100013,
+      "industryName": "社交网络",
+      "introduce": "saas开发公司",
+      "labels": [],
+      "activeTime": 1721714985980,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "信德立",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-ESxbiKTLRw07-W1jW8P07574nuxgHxhgJehSz_5pausUjwriZ3wF1CtKCmYml_Z4X8XDI15tcqz-PI2Fugw4rk4Vb9TFylS-c1zUtFaWkHp_GVlNQw6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "49bc6f80fc3040ee1nV839-8GFpT",
+      "encryptUserId": "e297ce52cc47318f0nV72968FVpT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1. 参与和负责项目系统的设计、开发、优化，按时提交高质量的代码，完成开发任务。\n\n2. 参与项目系统的产品设计、概要设计、数据库等详细设计文档的编写。\n\n3. 参与系统的测试、部署，与客户的协调等工作。\n\n4. 保证系统的高可用、高可靠、可扩展、安全等。\n\n任职要求：\n\n1. 计算机相关专业，1-3年JAVA开发经验，熟悉Spring、Spring Boot、Spring Cloud、Mybatis、Dubbo等框架和工具的使用。\n\n2. 基础知识扎实，熟悉常用的算法，喜欢技术钻研，有熟悉常用工具算法源码原理的优先考虑录用。\n\n3. 动手能力强，勇于探索，有解决复杂问题的决心、兴趣和能力。对于系统架构的设计和实现有独立思考和见解。\n\n4. 要求熟练应用Web后端开发的相关技术，包括Tomcat、MySQL、Redis、RocketMQ、RabbitMQ等。\n\n5. 要求有一定的客户端javascript编程能力，有过vue + element ui项目经验的优先考虑。\n\n6. 有医疗器械、体外诊断试剂行业开发工作经历的优先考虑录用。\n\n企业福利待遇：\n\n●有竞争力的薪资待遇，入职即交五险一金\n\n●完善的培训和学习体系，广阔的发展空间\n\n●法定节假日正常休，春节假期长达15天\n\n●节假日和生日福利，每年组织外出旅游\n\n●享受正规小区宿舍环境\n\n●喜欢运动的你不会孤单：许多的同事每天运动打卡\n\n●喜欢读书的你不会寂寞：购书经费能帮你清空书单\n\n●还有全年无休的咖啡与茶，各种各样零食免费供应\n\n●上班时间：8:30-17:30（弹性时间30分钟）\n\n●福利多多：双休，餐补，全勤奖，带薪年假",
+      "encryptAddressId": "07b7c6e2bb5f158a1Hx93ty0GFU~",
+      "address": "北京通州区台铭国际企业花园C20",
+      "longitude": 116.623845,
+      "latitude": 39.839267,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0491b7bf8f1bf67f5332dd6176c53f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0234a16f7014149f666caea18957c11",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Spring",
+        "SpringCloud",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京小禹数行科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "66accf797b6d4c3e1nd_3du-F1Y~",
+      "brandName": "北京小禹数行科技...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721745279882,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京小禹数行科技...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

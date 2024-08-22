@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XJPlbxCqmwaDq-H1PGHnXCThWDWxn6aWeFA6aH5DVsen8-KJry_Y1Y6t3t5GoPslaYmrWu04CV-zEI7F5fecWX7j8fHKRKLlRpIk-UUAGhpZ8WqTt-hbe5wvOugGhcPy3EdrpteamBCb7ec~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d852618d3eabde11HN93N21FFNQ",
+      "encryptUserId": "6507da6e836d4dc70nFy3tu9FVJQ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-60K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责跨境电商搜索推荐服务架构设计，打造高性能、高可用、可扩展的架构，支撑业务快速发展；\n\n2、负责端到端全链路的研发和优化， 包括检索、打分、排序等相关后端服务架构， 包括前后端链路的交互方案把控， 优化搜索推荐引擎的计算和存储性能，提升单机吞吐；\n\n3、维护和开发基础组件，包括索引库、检索服务、服务框架、资源管控等，提高系统的性能和扩展性；\n\n4、深刻的理解业务，抽象和设计合理的技术架构，保证架构的合理性和前瞻性, 以适应不断变化的需求；\n\n5、维护线上环境的稳定性，做好限流、熔断、降级等系统保护措施； 做好监控、告警等问题发现手段，及时响应问题修复和排查。\n\n任职要求\n1、具有扎实的计算机基础，熟悉操作系统和网络，精通C/C++或者JAVA任一语言， 对数据结构&算法设计有较深刻的理解；\n\n2、有良好的沟通和逻辑思维能力，有足够的技术和业务好奇心，善于学习，善于分析和解决实际问题；\n\n3、至少有搜索、推荐、电商、大规模检索系统或者分布式系统中的一项特长；\n\n4、责任心强，思路清晰，技术视野开阔，对业界新技术敏感，喜欢钻研，具有良好的学习能力并注重团队合作。\n\n加分项\n1、有海外电商经验者优先，熟悉多国家、多语言环境下的架构设计者优先；\n\n2、大型互联网系统（广告、搜索、推荐）开发经验者优先；\n\n3、熟悉分布式计算、存储、机器学习系统加分，如es、k8s、Hadoop、MPI、Spark、Flink、tensoflow、HBase等系统。",
+      "encryptAddressId": "3b5acf3888bd55401nV_3du6GVZUw4u3Vfmb",
+      "address": "上海长宁区金虹桥国际中心523号",
+      "longitude": 121.402658,
+      "latitude": 31.208938,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1e526e549848473405baa04749aa48f5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a46434b03d623b666dbcc78b75904a0f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Dubbo",
+        "MySQL",
+        "HBase"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "傅先生",
+      "title": "资深软件开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "上海从鲸信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "69b348dde14edb051HB73tq6EFQ~",
+      "brandName": "上海从鲸信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240821/7bf6f160950405e9e8a47f355d22075223af7ee06a66ddef1dd844291f83ddb340bee7fa8b6e5891.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724243396060,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海从鲸信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_quoYfGKzvNsd-61dTJtYGOZjtmiVQmSg6LsQlLuZuZtpt0mA0TewOB7735-2oiLIL2JOzDHnSOv8aoWIrBFbZo45dPiTWNShWLentMp6hxTf3Ai",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "10ce34e8f0cf4f260XNz29W0ElI~",
+      "encryptUserId": "9fd54d502d9c0ee63nVz0926F1c~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "一、 \r\n\r\n解决方案应用工程师【嵌入式方向】（武汉）\r\n岗位职责：\r\n1.进行基于小米iot模组的软件开发支持，支持客户或合作伙伴进行产品接入；\r\n2.对客户进行技术培训，指导客户产品设计和产品开发；\r\n3.对客户进行技术跟踪，解决客户开发过程中常见的软件技术问题。\r\n\r\n岗位要求：\r\n1.本科及以上学历，一年软件开发经验；\r\n2.熟悉C语言以及嵌入式编程，了解常用外设总线，如IIC、SPI、UART、PWM等；\r\n3.熟悉基本硬件原理，具备软硬件调试能力，会用工具（仿真器，示波器，逻分等）进行产品故障诊断和排除；\r\n4.熟悉TCP/IP、有Wi-Fi SOC应用开发或者Wi-Fi驱动开发工作经验；【Wi-Fi方向】\r\n5.熟悉BLE协议栈、使用过nordic/nxp/dialog/realtek其中一种，有BLE mesh经验优先；【蓝牙方向】\r\n6.积极主动、善于沟通；\r\n7.良好的团队合作意识，较强的责任感及进取精神。\r\n\r\n二、 \r\n解决方案应用工程师【APP方向】（武汉）\r\n\r\n岗位职责：\r\n1.进行基于小米iot模组的软件开发支持，支持客户或合作伙伴进行产品接入；\r\n2.对客户进行技术培训，指导客户产品设计和产品开发；\r\n3.对客户进行技术跟踪，解决客户开发过程中常见的软件技术问题。\r\n\r\n岗位要求：\r\n1.本科及以上学历，一年以上软件开发经验；\r\n2.熟悉前端开发框架（angular、react、Vue等）及流程（基于node.js的构建、测试与压缩），有RN相关经验优先；\r\n3.有Andriod 或者iOS APP或者微信小程序开发经验；\r\n4.积极主动、善于沟通；\r\n5.良好的团队合作意识，较强的责任感及进取精神。\r\n\r\n三、可穿戴产品-嵌入式软件工程师（武汉）\r\n\r\n岗位职责：\r\n1.负责穿戴式智能产品GUI开发\r\n2.负责RTOS设备的液晶屏驱动开发\r\n岗位要求：\r\n1. 本科及以上学历，两年以上工作经验\r\n2. 精通C语言，熟悉汇编语言佳\r\n3. 熟悉RTOS或Linux内核，熟悉内核调度、线程通信、文件系统及驱动模型\r\n4. 熟悉常用人机交互硬件（显示屏、触摸屏、按键等）的通讯接口和驱动开发；\r\n5. 熟悉UI交互优化，性能优化，在低主频，小分辨环境搭建过显示系统者优先\r\n6. 有TouchGFX开发工具TouchGFX Designer开发经验者优先\r\n7. 积极主动、勇于挑战、良好的团队合作意识\r\n\r\n四、\r\n\r\nIPC-嵌入式软件工程师（武汉）\r\n岗位职责：\r\n1.针对摄像头的linux应用程序设计、开发、移植、调试和维护；\r\n2.负责第三方产品的接入与开发工作；\r\n3.负责撰写软件开发相关文档，参与需求分析和讨论。\r\n\r\n岗位要求：\r\n1.熟练掌握嵌入式linux下的C/C++开发；\r\n2.熟悉Linux操作系统，对网络编程、进程通信、多线程编程有一定理解；\r\n3.熟悉Linux下的代码调试工具，如gdb、valgrind、strace等；\r\n4.熟悉音视频编编码，有H264/H265、aac/g711/pcm/mp3等编解码经验优先；\r\n5.有P2P（TUTK、尚云等）相关经验优先；\r\n6.熟悉ffmpeg、vlc、gstreamer等开源项目经验者优先；\r\n7.熟悉linux下各种工具链的制作，熟悉Makefile、shell，有builtroot、docker实际使用经验者优先；\r\n8.具有良好的团队意识，责任心强，能够独立分析和解决问题。\r\n\r\n五、\r\n\r\n嵌入式软件工程师 （武汉和北京）\r\n岗位职责：\r\n1.小米IoT嵌入式平台研发工作，利用底层的Wi-Fi/BLE/Zigbee、以及上层的MQTT、CoAP等搭建IoT通信系统\r\n2.软件方案设计、编码和调试、code review、测试\r\n3.指导小米生态链公司、第三方公司使用小米IoT平台能力接入产品\r\n岗位要求：\r\n1.本科以上学历，1年以上嵌入式开发经验；\r\n2.精通C语言，多语言优先，嵌入式开发经验越多越好；\r\n3.熟悉Linux或者RTOS，熟悉多线程通信、内核调度等原理，熟悉socket编程；\r\n4.熟悉BLE协议，熟悉蓝牙Mesh协议或有网关开发经验者优先；【蓝牙方向】\r\n5.熟悉802.11协议，有Wi-Fi SOC开发经验者优先；熟悉MQTT/CoAP经验优先；【Wi-Fi方向】\r\n6.熟悉加密算法、系统安全设计优先；\r\n7.真心热爱嵌入式、致力于IoT和智能家居的发展\r\n\r\n六、\r\n\r\nRTOS内核研发工程师（北京）\r\n岗位职责：\r\n1.负责RTOS内核功能开发、调试；\r\n2.负责RTOS中间件开发移植、周边配套的工具开发和自动化测试框架开发；\r\n3.负责移植RTOS到MCU/Wi-Fi SOC/BLE SOC；\r\n岗位要求：\r\n1.精通C语言，熟悉汇编语言和脚本语言，了解编译和链接原理；\r\n2.熟悉RTOS或Linux内核，熟悉内核调度、线程通信、文件系统及Linux驱动模型；\r\n3.熟悉Display/Graphics/嵌入式GUI优先；\r\n4.熟悉Wi-Fi、BT、Zigbee协议栈优先；\r\n5.开源社区committer和有开源项目社区维护经验者优先；\r\n6.熟悉bash/perl/python等脚本语言，有自动化测试开发经验者优先；\r\n7.积极主动、勇于挑战、良好的团队合作意识。",
+      "encryptAddressId": "0ad2adad3c240bc01Xx62dS9E1U~",
+      "address": "武汉洪山区光谷APP广场2号楼12F",
+      "longitude": 114.402709,
+      "latitude": 30.480277,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e8c70cbc5015b1d80eeef72f03f962ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bc95b3b48183924fc6320176e833be1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "嵌入式技术",
+        "Socket技术",
+        "流媒体技术",
+        "音视频编解码",
+        "单片机开发",
+        "驱动开发",
+        "物联网"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "雷先生",
+      "title": "高级软件工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "小米科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f3ffef2936d5845e1Hd-3926GA~~",
+      "brandName": "小米科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191102/3454d0b7056d72f3c9c81e89194e13777f5011eb07298493554c68ce3a56c6df.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "在小米，创业的氛围让每个人都积极创新，为做出美好的事情而努力。在这里没有大公司的等级观念，每个人都可以随时提出自己的创意和想法。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "免费班车",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721726776231,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小米科技",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oF7mmK5BCxYd4-a1fXrAvAa6TPD5N-PIa6kophLLErZkIusm0W-RlhOIUO8e1BKC-nKzfX5NvKxUtYKU_LYTsGiRT3_6z43Z6WFYwfC6SNggeFlpug~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7289f63b921d91171nx90t2_GFpW",
+      "encryptUserId": "490a11b886b5107d0nN90t6-GQ~~",
+      "invalidStatus": false,
+      "jobName": "Linux软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "工作方向：\n1、工作方向为数据安全，存储安全，通信安全，工控安全等领域的信息安全产品研发。\n2、工作内容为基于飞腾，龙芯，君正，ARM，PowerPC等CPU、MCU平台的嵌入式软件开发。\n\n工作职责：\n1、负责软件模块的详细设计、编码实现、单元测试；\n2、负责软件问题的调查分析、错误修改、代码优化、回归测试；\n3、负责与客户进行代码联调，以及相关需求的实现以及现有代码的BUG修复。\n\n职位要求：\n1、本科及以上学历，计算机、信息计算、通信科学等相关专业，从事2年及以上相关工作经验；\n2、熟悉C语言，熟练使用常用的数据结构；\n3、熟练使用Linux操作系统，熟练使用Linux命令行工具；\n4、熟悉Linux网络编程，了解TCP、UDP传输协议及套接字编程；\n5、熟练使用gcc及相关交叉编译工具链，熟悉gcc编译选项；熟练使用gdb及相关工具进行问题定位与分析；\n6、工作认真细心，善于提出问题并解决问题，有良好的钻研精神和团队合作意识。",
+      "encryptAddressId": "e27d9c4213663d6f1XRy0tm9FlQ~",
+      "address": "北京海淀区金源时代商务中心A座7楼7F",
+      "longitude": 116.288091,
+      "latitude": 39.96115,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e04f3261fca870876b6ca8b2f9173c9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5db6f985ff3c0fca85edf29d6a425621",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "嵌入式技术",
+        "网络编程",
+        "数据结构",
+        "Linux",
+        "中级软件工程师",
+        "后端开发",
+        "信息安全"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "廖先生",
+      "title": "软件组负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220107/607f1f3d68754fd02195851cf58fbaaa46bb3f093a1a95bb8dc8f33cc04e37200880adcab3a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中城洛邑",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b78d5c6cfa862d1n143tu1Els~",
+      "brandName": "中城洛邑",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "我们公司主要做数据通信安全，数据存储安全等信息安全产品的研发，公司主要研发团队有硬件组，软件组，FPGA组和测试组，研发团队里都是具有多年工作经验的技术牛人。现有产品包括TCP/UDP数据传输密码机，网络存储密码机，USB移动加密硬盘，安全TF卡，桌面数据密码机，CAN转TCP安全通信设备，卫星地面安全设备等。欢迎对此感兴趣的有能力的软硬件和FPGA工程师加入我们。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1721721460726,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中城洛邑",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

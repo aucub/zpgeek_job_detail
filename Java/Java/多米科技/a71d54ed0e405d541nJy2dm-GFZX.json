@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UqeITu6H39cKP-_1FyMOKPNR4_txuHgMO8qzR3BAE5syWejrP3YVyOFwN-GKzVwKt6nUymQvdXT1gcMKBYEp4l-M3IJaqOU7REyH7GIpkcQfGj2FfxI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a71d54ed0e405d541nJy2dm-GFZX",
+      "encryptUserId": "39a040353851d8d303173t24GVs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-16K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、 能独立负责业务板块，按照业务需求进行业务需求分析、评审和设计\n2、进行软件详细设计和编码实现\n3、 相关文档编写、整理和维护\n4、 参与软件系统的方案讨论、技术调研、系统分析、重构、优化\n任职资格:\n1、计算机或其他相关专业毕业，本科以上学历；\n2、3年及以上软件开发工作经验；\n3、精通Java编程语言，熟练运用SpringMVC,mybatis ，idle，SpringBoot等Java EE框架\n4、对Vue.js有所了解\n5、具有较强的逻辑思维以及系统分析和文档编写能力，良好的编程风格，能快速学习和掌握新技术\n6. 了解SpringCloud等微服务框架\n7．了解Hardoop，Spark等大数据平台框架\n8．熟悉Mysql数据库，熟悉Tomcat，Nginx\n9 . 熟练使用svn,git等项目管理工具；\n10. 具备较强的自学能力，团队精神及抗压能力，思路清晰，善于思考，能独立分析和解决问题；\n11.前后端可分离，但是基本知识需要了解。",
+      "encryptAddressId": "bcf68ef101b3fed60XF93tS5GA~~",
+      "address": "南京雨花台区南京运满满总部1楼",
+      "longitude": 118.776018,
+      "latitude": 31.971535,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f64b666287413bda46c8f0cddc6b6802",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/122665ea56c3faf047a11a4c7f6d64b4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "多线程",
+        "MVC开发",
+        "SpringMVC",
+        "Spring",
+        "SpringBoot",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181116/3e29d62e877535732ae5a54ffcd9a206e65870c24f0ab6299fdc8627f0f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "多米科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "43462193fcadd6a71nx73Ni4ElQ~",
+      "brandName": "多米科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721745280873,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "多米科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

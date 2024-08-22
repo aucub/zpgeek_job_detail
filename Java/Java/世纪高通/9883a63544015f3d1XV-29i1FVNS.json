@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ptvIevC15W007-u1fOOhRJ-U9Txyx2d8s3aRi4q0_N1TJ4MbqOwYgoWMnBGWX10UMpKOmliPEgCvjuJc2fJE6AQiXXCfhpW58x1VCsrGhgXh47l48Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9883a63544015f3d1XV-29i1FVNS",
+      "encryptUserId": "4b7513fcc0b6328d03Vz2N64E1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-25K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1.参与公司基础地图服务平台建设，负责后台地图服务架构设计，功能开发和性能优化\n2.保障所负责服务的性能、稳定性、可维护性和扩展性，参与研发相关的技术选型，方案设计\n\n\n任职要求:\n1.有良好的java基础，精通spring boot/spring cloud开发，熟悉微服务架构，了解框架的原理和实现机制\n2.精通sql并有一定的sql优化能力，熟悉PostgreSql数据库以及redis等常用中间件的使用\n3.熟悉开源GIS技术(PostGIS、GeoServer、GeoTools、GDAL等),有一定的源码阅读能力优先\n4.有较强的自我驱动能力，逻辑思维清晰，能对负责的模块有自己的认知和想法，针对难点问题可以自己寻找和提出解决方案",
+      "encryptAddressId": "0493f61a7a7bbaeb0nV63dS7EFo~",
+      "address": "北京海淀区四维图新大厦A202",
+      "longitude": 116.245579,
+      "latitude": 40.072501,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9bcdcc11de13966d28c73984e9dcd1fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5af8197c4ec27f299d4f9315ebc23aee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "Spring",
+        "PostgreSQL",
+        "Redis",
+        "软件工程师",
+        "后端开发",
+        "Linux",
+        "容器技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "基础产品中心",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "世纪高通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6f1f7cf2647040ab1nR_2dy4FQ~~",
+      "brandName": "世纪高通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180531/9b469c4f341194afff97098cb3f3451bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "北京世纪高通科技有限公司成立于2005年，作为四维图新（SZ 002405）旗下数字孪生城市生态服务商，致力于构建孪生城市的数字化感知基座，融合路网、高精度地图、实时路况、卫星影像、倾斜摄影、视频数据等，精准刻画物理世界的人、车、路、环境、城市基建等，并进行IOT的动态链接，形成面向公共安全、智慧交通、智慧交警、智慧城市、金融保险、互联网等多场景化数字孪生解决方案，成就数字孪生智慧城市愿景。\n        世纪高通拥有海量、多源位置大数据，构建了权威的全国位置数据仓库。公司专注研发的MineData位置大数据平台，聚焦于数据、算法和服务，可提供企业级位置智能方案，信息日均处理量达到TB级，存储容量达到PB级，服务于全球知名车企，全国数百家政府，企业；车企客户包括奔驰、宝马、大众、丰田、福特、特斯拉、上汽，长城等等。政企客户包括交通部路网中心、北京交通信息中心、上海交通信息中心、云南省公安厅、浙江省交通厅、西安交警、广州交警、世界银行、腾讯、中国电信、海信网络等政企客户。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721714952049,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "世纪高通",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

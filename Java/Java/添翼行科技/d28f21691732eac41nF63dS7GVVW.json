@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4DORVj3Apkyqj-A13N7SI3f0pTtpIO2J9SVMrdZb4YkaS_iixrjcvBov9sx39znQyxpJopjXYYhHcR0yayvI9B7I10fktQr0X1l4cJBHl8i86z3dsa9o",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d28f21691732eac41nF63dS7GVVW",
+      "encryptUserId": "43e4b2af59d5ad2b0nZy09i4EFBS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 按需求完成产品的设计、以及开发工作；\n2. 负责模块内的业务架构的设计、改善；\n3. 在项目搭建及实施中，分析系统中可能存在的性能瓶颈或漏洞，并设计合理的解决方案，保证系统在平稳运行的前提下安全升级，提升系统性能；\n4. 积极改善工作，提高产出以及质量；\n5. 给推荐业务提供技术支持；\n6. 积极配合运营人员完成项目的运营环节。\n\n职位要求\n1、本科以上学历，要求学信网可查；\n2、 有Java领域的设计与开发经验，有大型平台研发经历，有良好的组件级建模能力，熟悉系统性能优化；\n3. JAVA基础知识扎实，熟悉设计模式，有良好的编码习惯与文档习惯\n4.精通J2EE架构体系，熟悉Spring、Mybatis、SpringBoot、SpringCloud等主流开源框架；\n5. 对数据库的基本理论和内部实现机制有比较深刻的理解，熟悉主流数据库（Oracle、MySQL等），熟练掌握SQL、存储过程等，拥有较好的数据库设计能力；\n6. 熟悉NoSQL、MQ、Cache；\n7. 责任心强，具备独立分析和解决较为复杂问题的能力，有较好的协调能力及合作意识，能够承受工作压力；\n8. 熟练使用Linux系统、熟练使用shell\\python等脚本语言的优先；\n9. 有电商平台项目经验的优先；\n10. 工作经验在两年以上的优先。",
+      "encryptAddressId": "945ab3f444c93ef503B_0t68FlA~",
+      "address": "北京朝阳区焦奥中心B座203",
+      "longitude": 116.530531,
+      "latitude": 39.851037,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f623be249401ef37420fe5c4f5197c05",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1fcdf646df284a6413fd68d71922884",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "软件开发部经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=75f78985d28a1e6cjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5en35049ko6Ns7TgfoybFmPuz5cpQAtey-X2N_ZQxQoSQL_KnzRnMXRuLqDEM6wo9MTAG3z_tYqAkfXtTl0HAuV3AS8k-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "添翼行科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8afead24a2d7ade1nFz2dm1FFs~",
+      "brandName": "添翼行科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730464428,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "添翼行科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

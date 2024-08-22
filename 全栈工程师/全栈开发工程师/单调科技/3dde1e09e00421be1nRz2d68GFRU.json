@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qkheuetwJE2q4-j1H9xnDDXpYW5KxjyZRARaW_MD1lyC7KbOTTdL8maRhTQI1z0SKK_DG4PJN7c04dz9jj-sc_sZ90Ff6YDI5xsE576_r3bG2wxouSw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3dde1e09e00421be1nRz2d68GFRU",
+      "encryptUserId": "6b80b3147f920d640nB43NS0F1c~",
+      "invalidStatus": false,
+      "jobName": "全栈开发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "18-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "公司介绍\n北京单调科技有限公司是一家人工智能科技初创公司，目标是搭建高效、安全、便捷的机器学习加速器，帮助企业机器学习相关业务迭代优化、节省研发成本投入、突破产品研发瓶颈，为企业提供完整的机器学习生产线。\n\n\n岗位职责\n1. 负责IoT项目的开发与测试工作；\n2. 负责数据标注、存储、管理等平台的研发；\n3. 负责项目技术文档撰写；\n4. 能够独立处理和解决所负责的研发工作，及时解决项目中产生的技术问题；\n5. 根据存在的技术问题进行新的解决方案的技术研究。\n\n\n任职要求\n1. 计算机相关专业本科以上学历(1-3年工作经验)；\n2. 精通python/golang/Java开发语言(至少一种)，熟悉Linux开发环境；\n3. 有Web开发经验，熟悉HTTP/HTTPS通信协议、Restful前后端交互流程等；\n4. 熟练使用MySQL等关系型数据库以及MongoDB等非关系型数据库；\n5. 熟悉 AWS/阿里云/腾讯云等公有云服务，了解 IoT、对象存储、函数式计算等服务；\n6. 具有较强的学习能力，具有良好的团队合作精神和沟通能力，可适应持续高强度工作。\n\n\n加分项\n1. 有IoT云服务开发经验者优先；\n2. 参与过Web大型项目者优先。",
+      "encryptAddressId": "056bbc83630bfc841HN42dy7FFM~",
+      "address": "北京海淀区东升大厦A座4层",
+      "longitude": 116.33342,
+      "latitude": 39.993943,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13ab05543b74e45c8073c6912eef2d3a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59e51294449a895977bc14d890ec1b74",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "MongoDB",
+        "智能驾驶",
+        "Golang",
+        "MySQL",
+        "全栈开发",
+        "网络编程",
+        "消息队列"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "米先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190414/2f38da275fd24b196d7b6cc34d0d644874791cdaba9b0da8a5146ec140e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "单调科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ebfd5f2fe05c0541nZ93Nm4F1I~",
+      "brandName": "单调科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721737458828,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "单调科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AQ2CnPxRcD7iL-w1-KnwcRiVKAQ3TbDo_3p-uq3x4sEaw6kqwyl9Z3Zt43oIskYUy-G5hzLXYw8BsnKAGcRYhlf3wm9wFn_iM4DLxu3GM_uBN0yiDrXPL-nfoxya-Sri1ll8u1HEQp2dnw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "933ebe3e9b49307d1HJ_2NW7E1RQ",
+      "encryptUserId": "b579e3d343b9362d0nR609i8EFA~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责及工作内容\n1、负责核心代码编写、开发文档编写工作\n2、新技术的研究，汇报，实施\n3、解决开发过程中遇到的关键技术问题\n4、参与产品设计部门需求讨论，对技术可能性给予建议\n岗位任职资格\n1、计算机或相关专业大专及以上学历，3年以上Java开发经验；\n2、熟练使用 Spring Boot、Spring、MyBatis、Maven、git、MyBatis-plus等框架及工具的使用；\n3、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制，掌握SpringCloud组件使用；\n4、掌握MySQL、Oracle、SqlServer等至少一种主流数据库，对sql语句及其性能有较为深入的理解；\n5、熟悉redis、MQ、ES等工具使用\n6、有3D库房开发，以大型WMS仓储管理系统开发经验的优先。\n7、有较好的沟通交流能力，善于主动思考和行动，乐于解决具有挑战性的问题，对待新技术有强烈兴趣；",
+      "encryptAddressId": "6106d8749338725f0Xxy3dq0EFJQx469Vfw~",
+      "address": "杭州豪波安全科技有限公司103号",
+      "longitude": 120.256334,
+      "latitude": 30.466688,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51153ae65fcfe4414a27959a253c407d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/972d4ec1c38c1e3f7a3caef0d8dbb5d1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "大数据经验",
+        "redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "豪波安全科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "668547a79090a3ed1nB42Ni-E1Y~",
+      "brandName": "豪波安全科技",
+      "logo": "https://c-res.zhipin.com/jrs/0f85f382c1465973967a82cb15166af6.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "豪波安全科技有限公司，成立于2001年，是一家创新型物联网科技公司，也是国家高新技术产业，公司依托于先进的管理理念和领先的核心技术为国家机关、银行保险等政府企事业单位搭建一体化涉密数据服务平台。核心业务领域涵盖智慧档案管理、公共物資智能倉儲及涉密印制。\n      公司在業務領域實踐發展中重視科研開發及核心競爭力研發，累計取得檔案計算機軟著17項、檔案榮譽證書11項、檔案資質體系認證證書13項、印刷榮譽證書15項、印刷專利與計算機軟著證書43項、印刷資質體系證書24項。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "包吃",
+        "节日福利"
+      ],
+      "activeTime": 1724316575666,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "豪波安全科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "m5KAtjh7zIrYH-F1ZMdaMmPascV8XGVdnHjAYYdhsoQrYVWS6UFSpV-kZ9nr0wRBopYQxcTavRHYYw1KlruLU6mVTwTJi4-7Dt2vgwVujG-Af6i1",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3cc6af0a9e1e22d30HF53tq0FlQ~",
+      "encryptUserId": "2be967731a85b7fc1HN42NW7E1I~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件开发工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-35K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1.在自研边缘计算AI SoC上构建系统软件平台。\n2. 负责公司ARM Linux AI SoC方案底层软件开发和调试及维护工作。\n3.负责系统性能、功耗优化，可以设计单元测试代码。\n4.针对客户产品需求，提供建议方案，支持客户项目落地。\n5.结合底层驱动，进行SDK的开发维护。\n6.负责客制化驱动的移植整合。\n\n任职要求\n1. C/C++编程经验 \n2. 基本的Linux内核知识与驱动开发调试经验 \n3. 基本的Linux常用基础库和调试调优工具的使用经验 \n4. 具有以下方向经验之一 \n  USB协议与驱动经验\n  V4L2开发经验\n  多媒体以及视频编解码经验 \n  HAL/SDK等抽象层相应的开发或支持经验 \n  ISP及其他图像处理工具与驱动相关经验",
+      "encryptAddressId": "2172fb3d49aa860f0XZ629m-GFQ~",
+      "address": "深圳南山区康佳研发大厦18B",
+      "longitude": 113.956931,
+      "latitude": 22.539358,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57070b0db782395a215b444d8f4c029",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0953eb391a5643d0f2d4480f064e010",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "驱动开发",
+        "ARM开发",
+        "C++",
+        "Linux",
+        "人工智能"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "索先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200423/ac5d361685d3b0900e71780431ac0c2c7fbc29ef465c39b7e084293bb8c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "晶视智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1a94a13a017790f90HN929q-Ew~~",
+      "brandName": "晶视智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210203/40f49b80bcdbf558acbc5610f0373bd3c172a2161099e2d6dd6b06de4f8ba3cf_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "北京晶视智能科技有限公司（简称”晶视智能“）是一家专注于视频监控及边缘计算技术研发的芯片设计公司，拥有国内性能领先的AI TPU运算核心及SoC 芯片整合技术。目前晶视智能研发领域涵盖SoC芯片设计、AI工具链、AI及图像处理算法、TPU及ISP设计等，致力于打造人工智能机器视觉一站式技术解决方案，为客户带来丰富价值及技术创新的产品与服务，在北京，深圳，武汉，香港等地设有研发中心和运营机构。\n公司官网：www.cvitek.com\n公众号：CVITEK",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721691855371,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "晶视智能",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

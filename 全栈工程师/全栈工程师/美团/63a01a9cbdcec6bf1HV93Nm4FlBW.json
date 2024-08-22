@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OZbjGQclW9t3K-c1LgvGwTK7pCkFnHe39rvtPnEiUjCSLIWu7oLQRJpiuHMNyHT0l77GgbNiC_RKAzLsCJP30EOLM91ViSYNXLnBvuwsG3dIC2zwU-I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "63a01a9cbdcec6bf1HV93Nm4FlBW",
+      "encryptUserId": "92e9797b26bb85fc1XJ-2ti-FFU~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-60K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责数据安全相关业务数据（实时离线）部分数仓建模、生产、消费、治理；满足业务需求的同时做到高质量、高可用、低成本；\n2.负责数据安全相关业务数据在线服务化相关能力建设；满足高可用、低延迟和高吞吐。\n\n1、本科及以上学历，有Java后端开发或Hadoop大数据开发工作经验（至少2年）\n2、计算机基础扎实，熟悉数据结构、Java语言、设计模式、数据库原理\n3、具备优秀的逻辑思维能力，可独立分析、归纳并使用创造性方案解决问题 \n4、具备优秀的表达沟通、项目管理能力，可独立分析业务需求 \n5、熟悉Hadoop技术体系（MapReduce/Hive/Spark等），分布式实时计算技术（Storm/Flink等）\n6、熟悉java服务端技术栈\n7、熟悉NoSQL、搜索引擎、OLAP解决方案\n8、有数仓建模经验者优先\n9、有数据安全领域经验者优先\n\n1.丰富全面的技术体系--大数据+大吞吐+图技术等；\n2.有挑战的项目目标--如tb级数据规模之上的高性能低成本分析能力\n3.广阔的个人成长空间--项目建设初期，未来发挥空间大",
+      "encryptAddressId": "a19284a8af048dd71nZ42NS5EVZV",
+      "address": "北京朝阳区望京科创大厦1",
+      "longitude": 116.487479,
+      "latitude": 40.008259,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/424a97bfbb59685541397e58f6d1a56b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8882326d3ce340a774d7c0b350fb154b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "Java",
+        "后端开发经验",
+        "大数据"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许先生",
+      "title": "数据开发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b633a34f787d94f21nZ_0929E1I~",
+      "brandName": "美团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240628/7b5b554d84f9729cd6153cd447e2129f0afbea7ed015e2e6ec010062a73c093f09fcbc768dec40c2.jpg.webp",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "了解工资以及工作内容内容",
+      "labels": [
+        "意外险",
+        "底薪加提成",
+        "夜班补助",
+        "工龄奖",
+        "住房补贴",
+        "交通补助"
+      ],
+      "activeTime": 1721737458306,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "IuE36lMSLpDVf-i1YyjgXoTlpKVHu9vGqMhQ_0fjPysyIrT2MdPD8WHXe54TavvoBZDYMEfqqlT95uYspHqjVd4o9r96nEUmzmLCbh3t5A30tyIm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5e2fff8bd2ef921d33R709u6E1A~",
+      "encryptUserId": "ad3a20f88c93f8ca3nVy09q6GVo~",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责IOT产品的服务器程序框架搭建，功能开发和实现以及服务器的后期优化/维护；\n2、负责物联网车联网相关产品的数据库的建立和维护；\n3、参与整个产品流程的需求评审及开发评审；\n4、与产品经理、前端工程师紧密合作，实现产品功能、保证良好的用户体验；\n5、撰写相关项目文档；\n任职要求：\n1、本科及以上学历，具备3年以上服务器后端开发经验，具备物联网物联网工作经验者优先；\n2、具备独立搭建服务器架构的能力，具备Spring等框架搭建经验者优先；\n3、熟练掌握Java/C++等语言，熟练使用常用的开发工具；\n4、熟悉IO、多线程等基础框架，熟悉分布式、缓存、消息、搜索等机制；\n5、精通Web 编程、网络编程，熟悉常用的网络通讯协议 mqtt，http，tcp等；\n6、精通一种或多种关系型和非关系型数据库，如MySQL/Oracle/Redis等；\n7、具有小程序开发经验者优先；\n8、熟悉阿里云开发者优先；\n8、具备快速学习能力和良好的抗压能力，有较强的敬业精神，团队合作精神，责任心及良好的沟通能力。",
+      "encryptAddressId": "cdcd555e8aaafbcd1Xx_2Ny7E1A~",
+      "address": "上海闵行区慧峰创意园D座",
+      "longitude": 121.430681,
+      "latitude": 31.088639,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b3230532834f5c62fb45913dcef35db7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/156245e99501203df9d187e928c3d8dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "Python",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "智能驾驶"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "英粤科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02208e605be49a6733d43di8Ew~~",
+      "brandName": "英粤科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200516/46d51f6efebe8fd4b3aeae51b05dd919cc5b1bdbb78abbcb6def90c7e8cd0597_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "英粤汽车科技致力于通过智能驾驶，人工智能研发，专注于中低速全空间（室内室外）场景智能移动赋能，最终打造融合感知环境，进一步拓展边界，打通边界，重新盘活边界内外资源，融合多方位技术储备为数亿辆汽车提供一双眼睛辅助驾驶，为低速无人驾驶提供低成本自动驾驶感知技术，创造全新体验。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721706528911,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英粤科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9jpyedIssYfas-E1u9ZpkdAyjRHUSLTrqiUo5j6Ggn811_mOmKXMzfcInLM3fXD4rEgm3kvKRWnvuAfVURL6u03nDgjyHgVbOhI433Ea0UYkAteP3_Qx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "99f9cde67a8779541nZ42t6_F1tW",
+      "encryptUserId": "db33bf16527b46300nV43NW9GFNV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-17K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通JAVA面向对象程序设计及Java编程语言；\n2、具备清晰的编程思路和良好的代码规范；\n3、对网络编程、多线程有相当的了解；\n4、熟悉Java EE相关技术和MVC框架，包括Spring，mybatis，springboot等；\n5、熟练使用ssm，ssh等开发框架；\n6、熟悉MySQL或Oracle等数据库及使用SQL开发；\n7、熟悉缓存技术，对缓存数据库Redis有使用经验优先；\n8、有分布式经验，用过消息中间件，了解springcloud分布式框架",
+      "encryptAddressId": "b72663b35220824d0H1z0928GVc~",
+      "address": "青岛市南区发达大厦4楼A10室",
+      "longitude": 120.318582,
+      "latitude": 36.064152,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d30827a7642e61f70759e193cbc69589",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6396ecc0d54abe48005e43da18460a5f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "MVC开发",
+        "网络编程",
+        "Spring",
+        "SSH",
+        "SSM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "新研信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ce2a30da6e7ec7e31nd_0t6_F1Q~",
+      "brandName": "新研信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721745326504,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新研信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

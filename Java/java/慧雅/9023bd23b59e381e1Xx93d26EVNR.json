@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yMHCRsaj6jDv9-Q1Xu74PBXDCx_DVQZLXdMF7eThzwQy4dayCFJJ6HgJVX2bHxLN1uSfMDKDkFJi17wtQINStraC_Sw4YgaNRtm2rfj8KnBvWstf42D9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9023bd23b59e381e1Xx93d26EVNR",
+      "encryptUserId": "f0cf0a0d71b989cd0nR43d6-FltX",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责公司内部系统和对外产品的分析、设计、开发等工作;\n2、负责公司产品线上问题排查与解决，系统码重构和性能优化，保障系统稳定运行;\n3、负责撰写开发设计、接口等文档，参与需求、测试评审等活动。\n岗位要求:\n1、要求1-3年Java开发经验，iava基础扎实，有良好的代码规范习惯;\n2、能够熟练使用spring、springboot、MyBatis等开发框架，熟悉redis、MQ等中间件的使用\n3、熟悉Mysql的使用，可以较好的完成数据库设计和遇 炊爱俺悲性能优化。\n4、有较强的业务理解能力，可以较好的把业务场景映射到系统设计中。",
+      "encryptAddressId": "1aa8ac8b9da5f8f23nZ-2d27FVs~",
+      "address": "北京昌平区龙旗购物中心8201",
+      "longitude": 116.347187,
+      "latitude": 40.067107,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bf62d47f559b6fbc4d7e6b2ddac22f16526bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfa3aa677c9be93b2bbd0c2e3acf1b7f996bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "常先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230224/607f1f3d68754fd0d4860e59ac153086fabca2dd04bdc383274a33fa082d0fa8e79cd601cf5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "慧雅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "841633c6c7077c681XR63N21EVI~",
+      "brandName": "慧雅",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "工龄奖",
+        "节假日加班费",
+        "夜班补助",
+        "加班补助",
+        "保底工资",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721730804860,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "慧雅",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

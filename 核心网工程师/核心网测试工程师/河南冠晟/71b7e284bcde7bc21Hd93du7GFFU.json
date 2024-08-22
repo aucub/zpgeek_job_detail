@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OIhlp9ah3Mh4e-i1ltcuwXNfLy7dwvGI-bsrGi0s3dndybvJhG9p9fIduIAg7oXw-cGnmgMpT42gI8rGwjbh51avHZY_pmRAaXzVmUNTRJmWM1ORY-16",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "71b7e284bcde7bc21Hd93du7GFFU",
+      "encryptUserId": "1e8282fa5b98612e0nR82ty6ElFZ",
+      "invalidStatus": false,
+      "jobName": "核心网测试工程师",
+      "position": 101013,
+      "positionName": "核心网工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.主要负责华为、华三的企业级cpe、PR、路由器、光猫等网络通信产品的测试等相关工作。\n2.负责网络通信部分网元、网关等方面的测试工作。\n\n岗位要求：\n1.主要测试企业级交换机、路由器等相关网络产品的接入方向，网关网元这些。需要人员懂网络协议。\n2.熟悉测试数据驱动参数化。\n3.熟悉交换机配置命令、VLAN接口、配置IP地址、三次握手、四次挥手简单网络协议相关知识。\n4.熟悉linux 常用命令，如文件操作、日志查看、网络配置等。\n5.有华为、华三、中兴OD测试经验优先，主要是做网络通信、核心网、承载网设备测试，自动化测试等部分\n6.会用到pytest做接口自动化测试经验，熟悉pytest用例间参数传递的优先\n7.本科学历，2年以上相关工作经验\n8、懂5GC。",
+      "encryptAddressId": "d297948b2eb84f470nF-2N6_EVZQwo22V_s~",
+      "address": "广州天河区天河软件园华景园区1层",
+      "longitude": 113.356426,
+      "latitude": 23.135343,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230423/48ba41acc9cef1bfbcdc36adc359e9aa1d2aa17ef0135d416bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf1a82919672c4bdcaa9557eb44f30e7176bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "核心网",
+        "网络协议",
+        "网络交换技术",
+        "5G",
+        "4G",
+        "python",
+        "5GC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孔女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240122/607f1f3d68754fd0bdcdc79ec1abfc331bc09d6f0b1acf61cf0d9b2871d3482de3b8b15585635ce_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "河南冠晟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0cf115633edd846a1XRy3NW6FlI~",
+      "brandName": "河南冠晟",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724231199826,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "河南冠晟",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

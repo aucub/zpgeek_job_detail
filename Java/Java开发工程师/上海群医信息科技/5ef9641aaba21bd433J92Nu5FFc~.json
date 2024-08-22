@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-UNXydT3xHTRM-u1N0dmyATPYWHJvHB5KJInOyUijIbQX0gn6junLbL9sJe45-3ezekybYtX0lb4VwTba0OctpeGRpbpKxAX2NnFGCl8-nTH7U6ZlI1_z5gZOAUn3fAF-2a6PIDK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ef9641aaba21bd433J92Nu5FFc~",
+      "encryptUserId": "bbc3f6d7f23a4f211HN_0t-6GQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1、参与平台产品业务的设计，以及核心开发。 \n2、解决研究研发、上线过程中遇到的各种问题及方案沟通落地。\n3、负责java服务的性能分析和调优工作。\n4、负责移植先进技术框架到公司框架。\n岗位要求：\n1、计算机相关专业，1年以上java开发经验。\n2、能独挡一面,懂软件系统架构设计，明白底层原理，能提出设计方案。 \n3、熟悉基本的后端技术，Spring boot、MyBatis、Nginx等，以及RPC、RESTful。 \n4、熟悉分布式系统,了解spring cloud 、consul工作原理。\n5、实际参与或主导过SpringCloud、SpringBoot 微服务体系建设，有大中型应用系统开发和实施的成功案例；对软件性能、安全、规范有一定的积累沉淀，有实际解决问题的能力。\n6、工作责任心强、善于沟通和总结、有良好的团队意识。",
+      "encryptAddressId": "f3b751016b8095991HV5392-EFo~",
+      "address": "上海浦东新区科海大楼8楼",
+      "longitude": 121.604919,
+      "latitude": 31.178414,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c2a6a4f685d0da79882441aed18e2c0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f81e3885826057965cd3360a57554629",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "架构师",
+        "服务器配置",
+        "Spring",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240516/607f1f3d68754fd08e3a264bdd0bd1d9b9f623f4549a673119d58010d265e84621239eb9e647348_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "上海群医信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "19fc0d59aa32de160XF83tm-",
+      "brandName": "上海群医信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/234db6068cf5beaf6af18b4b20c3b64aa6fa354ee9cc09af7d4fe59da173f931.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "母公司上海康迎医疗耕耘于医疗数字化手术室十余年，子公司是上海群医信息致力于将互联网医疗和AI技术应用于医疗领域，构建了远程医疗视频云平台，为医联体，医疗集团，市县医院提供远程医疗综合解决方案及医疗影像人工智能服务。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1721725534129,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海群医信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

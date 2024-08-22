@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "WaHXkMMpRPmxn-_1f1Sh5dBJ4PXd1dsHcsXe51SXwlKpvpIRu3A6537dEnwnSlAFJ5ehSSfirPsJy1hSdPQeVq7RufYUBOVtPeCWqtPaSjlUBgR4rQL7WPXY5XjawqZcraQBkjOM1ZHn8wbOzpCqE0jslZM0Q2d2munpR1imQ1m46feAHE0~",
+    "securityId": "6XNKzRO49ALts-V1sdfKmHCv22C16IIRVXiX8qwUfCRcMx9dGqDNZ5HBrKPBYrn40f4frC8Dk02xmlTmVGYZtcP56xtahnIyaaAecFDOVCkbu5Z3GwVak848lZYyNbaLvLf6f8Bpt3L5NVWEC7ASefXrJes-mcZK-Sl6nI_WIxvbfmcmLVs~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -76,17 +76,17 @@
         "年终奖",
         "定期体检"
       ],
-      "activeTime": 1724208732977,
+      "activeTime": 1724327635225,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "鼎霖通讯",
       "customerBrandStageName": "天使轮"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
-      "canSendResume": true,
-      "canSendPhone": false,
+      "canSendResume": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

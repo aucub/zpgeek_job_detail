@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hEn6xzCa37YEo-v1VLgPLW3-CErx-oJ1Rmy8c_KFZ8Nr5J-jIEWLIpuAitxwRxbOIBtVlnt8inVTBKKnshnt-pyKZJroZw3s22QLhs_vHWrHwg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "edabff416f36db561XZ62Ni7FlVU",
+      "encryptUserId": "814d27db74aa76be0nNy0ti5EA~~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-30K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n   - 负责微博商业团队电商等相关产品客户端、及服务端的测试工作。\n   - 负责制定测试计划、设计测试方案；设计测试用例；准备测试数据；搭建测试环境等整体测试工作。\n   - 负责发现并解决产品研发和测试过程中的技术、流程等方面的问题。\n   - 参与测试方案、测试框架、测试工具的设计和开发，涉及自动化框架的开发和维护、自动化用例编写、性能数据分析等\n       \n\t能力要求：       \n   - 计算机或相关专业本科及以上学历，具有互联网相关工作经验者优先 \n   - 具有2年以上软件测试或开发经验，熟悉软件测试流程、技术，有大型项目的测试经验者优先 \n   - 具有Web测试经验，接口测试经验\n   - 具有PHP或Python或JAVA经验\n   - 熟悉Linux操作系统\n   - 熟练使用测试工具，如：Fiddler/Charles, SVN/git, wireshark, TCPdump，ADB命令等 \n   - 熟悉前端、服务端的区别，知道数据交互和Bug排查的重点 \n   - 熟悉平台特性，包含iOS、Android不同版本系统之间的共通点和区别 \n\t- 具有性能类测试经验or自动化测试经验o熟悉junit/testNg等单测工具者优先 \n\t- 具有支付、电商、直播类产品测试相关经验者优先\n\t- 具有优秀的沟通能力和团队合作能力 \n\t- 具有认真负责的专业素养、积极主动的工作态度、和良好的学习能力",
+      "encryptAddressId": "77b7230c05a5014c0nd_3N--EVU~",
+      "address": "北京海淀区新浪总部大厦新浪总部大厦",
+      "longitude": 116.276277,
+      "latitude": 40.041462,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53f40f1f815d1bf3cc3c6068213044c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a04f744c97f110535be91311d97deab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "电商工作经验优先"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230615/607f1f3d68754fd0133a1fe1071b0ccf4c60a1019f5f6dc7b872fa86548dc6460d522fb77e9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "微博",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f3e62b9ed1bfa70b1nNy09w~",
+      "brandName": "微博",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200629/7d893d759ab92844234643d8d033008dbe1bd4a3bd2a63f070bdbdada9aad826.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "微博是一个由新浪网推出，提供微型博客服务类的社交网站。用户可以通过网页、WAP页面、手机客户端、手机短信、彩信发布消息或上传图片。新浪可以把微博理解为“微型博客”或者“一句话博客”。用户可以将看到的、听到的、想到的事情写成一句话，或发一张图片，通过电脑或者手机随时随地分享给朋友，一起分享、讨论；还可以关注朋友，即时看到朋友们发布的信息。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721735393935,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微博",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

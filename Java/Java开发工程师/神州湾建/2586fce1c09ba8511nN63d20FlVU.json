@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Moe3gLFFFgKkm--1AzP9ieqMSMqPUleEJaVz2QQASlgRo3pcS6LA6g76kCo1IPro0cud-_iyrlr8_wQpPGZ35BpUm7brqXJZSs2i_fkR87amGsww-dK0",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2586fce1c09ba8511nN63d20FlVU",
+      "encryptUserId": "2ca6a2831fba30b71nR509i9GVFY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "Springboot，mybatis，redis，mysql，springcloud，nginx，tomcat，swagger，security，会Linux基本操作，会前端更好不会也行，有过高并发项目经验可以优先考虑，要求熟悉springcloud或者做过项目都ok\n\n岗位要求：\n1、计算机软件或相关专业，要求全日制大专及以上学历，2年以上Java开发经验。\n2、熟练使用Java的核心语法，对于多线程、JVM优化、IO等有一定的经验。\n3、熟练使用常用的框架,如Spring Boot、springcloud、Mybatis、Spring mvc等。\n4、熟练使用MySQL、Redis、MongoDB等至少一种数据库。\n5、熟练使用RocketMQ、RabbitMQ、Kafka等至少一种消息中间件。\n6、有良好的沟通表达能力和文档写作能力，有良好的团队合作和敬业精神。\n7、学历全日制大专及以上\n\n岗位职责：\n1、参与需求讨论并提出需求优化建议，保证需求的严谨性。\n2、负责系统的需求分析和核心代码开发，确保代码的可维护性和高质量。\n3、参与线上系统环境的升级、监控和性能调优，保证运行的稳定。\n4、参与并推动技术架构、工作流程、开发标准的优化。\n\n*公司位置交通便利，附近有3号线林和西站、1号线体育中心站、可步行到广州东站",
+      "encryptAddressId": "c65bf72ef326db7403J92dy8Flc~",
+      "address": "广州天河区寰城中心广场（天河北路365号）10楼1003单元（粤建云）",
+      "longitude": 113.328752,
+      "latitude": 23.14209,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8936edf2a376bf34ee194d377508fc11",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be030509a84f932e01497a97d678b5c7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "庄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210615/93debb0f8219f00ed0a4e38e2784eab81aeea8e045387cfd09f78170020_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "神州湾建",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "749c447e687fa2d01nN_3tS5EFY~",
+      "brandName": "神州湾建",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723801445,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "神州湾建",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

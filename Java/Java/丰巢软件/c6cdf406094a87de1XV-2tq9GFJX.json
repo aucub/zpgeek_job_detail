@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "x12I_dFTbzA1h-z1JFD_CZo8OxHWcEtOvpI1niPY2uvy7GmCKm_8MeQaAtIOSInsREbBhEbEcIBOcOhXAnRTNqwuTNqCWUEDkuKRdXKUtr6AemnKsS-L",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c6cdf406094a87de1XV-2tq9GFJX",
+      "encryptUserId": "21850c66ef21078f1nV63dm1GFpQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-16K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：职位描述：1、负责研究和学习新兴后端研发技术，结合公司实际发展需要，应用至公司后台系统；2、负责公司后台系统的技术分析、概要设计、详细设计等工作；3、负责公司后台系统的架构设计、系统研发、代码版本维护工作；4、负责公司后台系统的开发测试、升级更新、问题修复、技术支持工作；5、负责公司后台系统与业务部门的协调沟通工作。任职资格：1、计算机相关专业本科及以上学历，4年以上Java后台系统独立负责设计开发经验；2、具有3年以上企业级应用系统开发经验、2年以上架构设计、项目管理经验；3、熟悉netflixoss、springboot、springcloud、dubbo等至少一种开源微服务框架,熟练掌握容器、K8s、rancher等相关技术；4、精通JSP、Spring、Hibernate/Ibatis等常用编程技术；5、至少有2种主流数据库的使用经验，如：Oracle、mysql、redis、MongoDB等；6、至少熟练使用一种消息中间件，如ActiveMQ、Kafka、RocketMQ；7、有C++、MFC开发经验的优先考虑；8、具有较强的责任心和学习能力。",
+      "encryptAddressId": "e27f2438b6ba3ece0nV43Nm4F1c~",
+      "address": "深圳龙华区港深国际中心0601",
+      "longitude": 114.040967,
+      "latitude": 22.636372,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b50a16165a55bf47c5d77157c9a68d55",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4fa1e9c578778ad4964c0afea22098e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "分布式技术",
+        "架构师",
+        "后端开发",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黎先生",
+      "title": "人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200527/d077ffaf150a79adfe0213a7a40afcd9b1b7b9bc6f4ea90aa94ba33a358_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "丰巢软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b9da8b33c684f0351nd829y5F1s~",
+      "brandName": "丰巢软件",
+      "logo": "https://c-res.zhipin.com/jrs/21ba771ea2b679dc8ce6dc2671eba4e3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "全勤奖",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1721715964949,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "丰巢软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

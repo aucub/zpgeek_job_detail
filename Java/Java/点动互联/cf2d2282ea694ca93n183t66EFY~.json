@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jpm81bZw2AXsq--138XRf--Gi-8uu5QE9YJivPbJCns7PnzYibH4cOpB7csEE35CuOYdMXQxuRr7B1BabBf-WzDauzaP9qCDQKo6tyNZumczJ7rl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cf2d2282ea694ca93n183t66EFY~",
+      "encryptUserId": "22cb9b87bf6d314a1HZ43Ni6GFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、2年以上工作经验，具有扎实Java基础，熟练使用多线程、网络编程等技术；\n2、熟练运用Spring、Springboot spring cloud等主流开源框架及原理；\n3、熟练使用Web前端技术，如HTML、JS、Jquery、CSS，以及React前端框架等；\n4、熟练运用Linux常用命令及Linux程序部署；\n5、熟练使用数据库技术(MySQL)，数据库优化及SQL优化。\n6、熟悉nginx、redis、Shell脚本等；\n7、具有较强的责任心，耐心仔细，吃苦耐劳，良好的沟通能力以及团队协作精神；",
+      "encryptAddressId": "64b94a3aafdcb30f1XB62tq4FFo~",
+      "address": "北京朝阳区中国铁建广场",
+      "longitude": 116.4396,
+      "latitude": 40.04243,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/01c3957cf3624476a20e3759d1dfeb02",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00f6591b64c13a7f2d877fe5163e10f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "微服务架构",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理助理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171103/b60fec101a0b321b133cae67fd9e7111e473934da8cbe550b54df2c9cfd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "点动互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "11d1ce0f8be5ed9f1nZ63dm_Ew~~",
+      "brandName": "点动互联",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724077396891,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "点动互联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

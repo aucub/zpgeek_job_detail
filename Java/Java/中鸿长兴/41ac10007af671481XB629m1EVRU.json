@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AgjwjCuirYDnH-j1wiPHLJQqFnDa5DE90qT0YMDSR4nPySjFkol6hSMHGk9oCDoKMs3-_9TBNe_qjgkOaPu2jPnCLfb4Zixa1tUMTzuiN7RSdIDqrjgK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "41ac10007af671481XB629m1EVRU",
+      "encryptUserId": "cc024b82c8fa8a180nF509u9GVRR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-15K",
+      "payTypeDesc": null,
+      "postDescription": "技术经理、研发人员技术能要求：\n1、有扎实的Java基础，编程基础，具备良好的面向对象编程思想和编程习惯以及代码规范。\n2、掌握Eclipse开发工具，了解IntelliJ IDEA开发工具的基本操作。\n3、掌握tomcat、nginx等web服务器的配置、部署。\n4、掌握SSM（Spring、SpringMVC、MyBatis）等开源框架的开发过程，并了解框架的设计模式。\n5、能够熟练使用SpringBoot进行开发，掌握Maven构建项目。\n6、掌握MySQL、MariaDB、Oracle数据库语句、了解Redis缓存数据库，掌握SQL优化方法。\n（最好对国产数据库有一定的使用经验，如TBase，瀚高，达梦等）\n\n7、熟练掌握vue、el-admin前端框架技术\n8、掌握HTML、CSS、JavaScript、Jquery、JSP/Servlet、EL表达式、JSTL、AJAX、Easy UI等WEB技术。\n9、熟悉基于Ngnix、Tomcat等容器的web发布技术\n10、熟悉基于Redis数据缓存技术实现的数据开发\n11、熟悉Docker容器在实际项目开发的使用，了解k8s的基础部署\n12、基于大数据消息流处理的kafka、flink等的实际项目使用经验\n\n项目要求：\n1、研发人员\nsprintboot、element-ui、tbase、mysql、kafka、redis、flink、docker、k8s、linux shell脚本等技术的应用\n具有技术文档的编写能力、能够通过数据、业务流程图的方式描述自己所实现的功能\n适应适度的加班情况，对驻场不排斥，能够和组内及其他合作方的研发人员保持良好的技术交流\n\n对项目的整体需求理解、把控到位； \n参与系统设计全过程，按质按量完成系统的开发编码及单元测试工作；  \n具有较强的分析、解决项目技术难点的能力，可独立完成重点核心模块开发工作； \n具有良好的提炼和整理项目开发过程中应用的新技术的习惯和能力。",
+      "encryptAddressId": "ae3e2d3412a2d7fd0XN43N67EVs~",
+      "address": "北京丰台区国投财富广场2号楼1201",
+      "longitude": 116.323175,
+      "latitude": 39.89123,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f22af5f6b94fa9d047ef0cc4681fe9d8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4beb7f038ceb1894764c8c5843a8d9d0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈工程师",
+        "Java",
+        "C/C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事管理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220805/607f1f3d68754fd0ed5e293019a90fd69b4142b984a89419b3317b5ab7fa5973c36a93d9db1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中鸿长兴",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ae486b05019830521XZ529u-FFY~",
+      "brandName": "中鸿长兴",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731054597,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中鸿长兴",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

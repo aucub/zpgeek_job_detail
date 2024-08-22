@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MG2DhLQ6b1Lev-y1zhEuEBNtvCsuT3il5jCG9V3LGC_yLkdkT5W3SqgGpNaSZW56uRClNnOn1a3PbHIRFdn7wW-HEZ3dTh9dJ-ffAOeZO6QK4SzHcaC7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1a292ff600d51ef41HFy2dW_FFJT",
+      "encryptUserId": "3a8bb692ffd140fa0nB82Nu0FFBU",
+      "invalidStatus": false,
+      "jobName": "服务端开发工程师（AI应用）",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-22K",
+      "payTypeDesc": null,
+      "postDescription": "**职位描述：**\n我们正在寻找一位熟练掌握移动服务端开发的工程师，主要负责开发聊天类应用程序的服务端。作为移动服务端开发工程师，您将负责设计、开发和维护应用程序的服务端，确保其稳定性、高效性和安全性。如果您具备Prompt工程能力的经验，将为您的应聘增添额外的竞争优势。\n\n**职责：**\n1. 设计和开发高质量、高可用性的移动应用程序服务端，满足产品需求和用户期望。\n2. 实现与移动客户端的数据交互和通信，确保数据传输的安全性和效率。\n3. 负责应用程序的后端逻辑和数据处理，确保服务端的稳定性和性能优化。\n4. 如果具备Prompt工程能力的经验，您将有机会参与AI应用的开发，包括生成式和分析式模型AI的应用开发，并设计Prompt提示工程的开发及落地。\n\n**任职要求：**\n1. 本科以上学历，计算机科学、软件工程或相关专业背景。\n2. 至少3年以上移动应用程序服务端开发经验，熟悉Java、Python等服务端开发语言。\n3. 对Prompt工程能力有一定的了解和实践经验，能够独立完成基于大语言模型的服务端开发。\n4. 熟悉数据库设计和优化，具备良好的SQL编程能力。\n5. 具备良好的沟通能力和团队合作精神，能够与跨职能团队合作，解决问题并完成任务。\n6. 对自然语言处理和AI模型应用开发有相关经验。\n7. 具备DevOps的基本技能，包括Docker容器化、自动化部署等。",
+      "encryptAddressId": "2ce8a87c172487a833J73tu9F1RUw4u3UPI~",
+      "address": "广州番禺区华新·智汇+1号楼",
+      "longitude": 113.351596,
+      "latitude": 23.008456,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce070ba31d03d213d3c2d4e6bc2e49de",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2712923998e402b7a677237adac56ac4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "JavaScript",
+        "HTML",
+        "Java",
+        "Python",
+        "MySQL/Redis/MongoDB",
+        "后端开发经验",
+        "英语读写能力良好",
+        "prompt engineer",
+        "few shot",
+        "Fine-Tuning"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "童先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd0f2179f71f1967455e539af5d521a92bfae5ed6818bf916114ca20deed5f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "空漫科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e662c794d565250a1HF629u5E1c~",
+      "brandName": "空漫科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724210714772,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "空漫科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

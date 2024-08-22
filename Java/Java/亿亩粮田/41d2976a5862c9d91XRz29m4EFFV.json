@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YomOJsIxK4q9_-k1S1vMKVwnLLosra6WXTOlRpdE6YA8jW6IVwMSEh2FkYN1g5HaQ-hRLOWBbngHn695xceRxEbaRWyyhYftUN63qM0y79IWaIXADA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "41d2976a5862c9d91XRz29m4EFFV",
+      "encryptUserId": "29a2a8cbb2271bad03R62tm7F1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-16K",
+      "payTypeDesc": null,
+      "postDescription": "1. 有扎实的编程能力，优秀的设计品味，可靠的代码质量， 深刻理解计算机原理，有良好的数据结构与算法基础；\n2. 熟练掌握至少一门高级编程语言，Java开发经验者优先；\n3. 熟悉Spring框架，熟悉MySQL、MongoDB、Hive等常用数据库，熟悉Redis、Memcache等缓存服务，熟悉Linux操作，熟悉Git，熟悉微服务相关技术；\n4. 有hadoop/hive/hbase/flume/kafka/容器等使用经验者优先\n5. 有高并发服务或复杂后端系统研发经验者优先，有增长或广告相关经验者优先；\n6. 有良好的产品意识，有良好的逻辑分析与数据分析能力，思维开放活跃，工作主动、自驱，目标导向；积极乐观、认真细致、责任心强，具有良好的团队沟通与协作能力。",
+      "encryptAddressId": "d700c479d3358f851nJy0tW8FFo~",
+      "address": "北京顺义区北京市顺义区新城新城大厦",
+      "longitude": 116.641812,
+      "latitude": 40.150474,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88541b7d6340b9f61df4150714948d68",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e2969c7228d9c865baa2cc87fb55a13",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "架构师",
+        "全栈开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240819/607f1f3d68754fd07a1e0ef5afc68fcdac6e7460d73ce9129723d5368b51329a41e2fd0502177da_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "亿亩粮田",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e0129cb0504ae0770HF43tm6Eg~~",
+      "brandName": "亿亩粮田",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721710112430,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亿亩粮田",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

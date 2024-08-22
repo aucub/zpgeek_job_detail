@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bY6EGBEwzeZSF-R1gBAhxq0QOPonXtgxMxwYbcgT5BCbIxC1orOy3ggb0pJSmuPIOh4Kld3GRF7IcXsMB_nrG-MvXn5sxoc0lpBxqQksVPZNqwE3tzye",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5b8033d658df28011XV93tu4GFFT",
+      "encryptUserId": "471d45b44cc581fb0nV53tW0FFdV",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、参与新产品的设计和开发工作\t\t\n2、参与公司老产品的程序优化迭代工作\t\t\n3、分析需求，组织并完成软件代码框架及核心模块的设计及编码工作\t\t\n4、编制软件总体设计文档及相关模块详细设计文档工作\t\t\n5、承担对终端底层平台的技术研究和设计工作\t\t\n6、与上位机工程师合作完成嵌入式设备数据与上位机交互协议定制\t\t\n7、与电气工程师合作完成与PLC通讯协议的定制\t\t\n\n任职要求：\n1.熟悉C/C++编程 ；\n2.熟练使用Keil进行STM32系列单片机编程；\n3.能够使用Silicon Labs IDE进行C8051F单片机编程；\n4.能够使用AVR studio进行atmega16单片机编程；\n5.熟悉各种工业通讯协议，如自由口、modbus、CAN总线；\n6.熟悉SPI、I2C、RS485、RS232、以太网相关驱动；\n7.3年以上设备工装行业机械、机构及结构设计经验；有工业设备软件开发经验优先。",
+      "encryptAddressId": "ec3981762f0e34800nV629W-GVQ~",
+      "address": "武汉洪山区神州高铁武汉利德产业园武汉利德大楼",
+      "longitude": 114.251179,
+      "latitude": 30.459041,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/169a34428a39332b00ac5f81febc2d86",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f591b29b082d2f97917419148b347b0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "嵌入式技术",
+        "单片机开发",
+        "工业设备软件开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "兰女士",
+      "title": "人事经理HRBP",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=21b462fc2b97d1e9jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5ZnHx0t4kt6N44Tge_n7EwP7rwecAHsrm4XDorNQ1V9Cdar_umQHIZEePlX0Ntl4hPRA7gn60Jqw0aAoGyh3QoBCcS9U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "神州高铁武汉智能工控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "30d133bbacb93e8e1XR_3tu1F1U~",
+      "brandName": "神州高铁武汉智能工控",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100902,
+      "industryName": "仪器仪表/工业自动化",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "免费班车",
+        "餐补",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1721728649356,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "神州高铁武汉智能工控",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

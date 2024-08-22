@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0NbLy1xXTFykB-_1UywtzgzaZaG7dq3iQty6zjcNAzLdvgfdtaplOMg3uLuKqgJ8GOSbZZnWS9XmF05Z9ibF3keJ35bTon1XLQA2syOYU71Xcg4xuw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c0aa088118924e8033Jy3di8GFA~",
+      "encryptUserId": "35c80d21c26940501nV83NW7E1dZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "Java语言，负责服务器端、web端程序的设计及编写\n1. 3年以上J2EE开发实际工作经验，熟练运用设计模式、近半年内持续进行代码开发；\n2. 对各种开源的框架如Struts、SpringMvc、iBatis、hibernate、spring cloud等有深入了解；\n3. 熟悉WEB后台开发的相关技术，对分布式组件如Zookeeper/redis/kafka有较深入了解的优先考虑，了解http请求过程，对整个web的生命周期过程熟悉。\n4. 精通各种数据库（MySql、SqlServer、Oracle、HBase等）中的一种或者多种，优化过数据库，有大数据处理经验的优先考虑；\n5. 熟悉Tomcat/WebLogic/WebSphere/JBoss等主流应用服务器；\n6．熟悉Java虚拟机架构，并对虚拟机进行实际调优\n7. 熟悉LINUX系统，能在Linux系统上熟练的操作部署；",
+      "encryptAddressId": "566e44a01ce33b271HZ73dy8EFI~",
+      "address": "北京海淀区千方大厦B座3",
+      "longitude": 116.288348,
+      "latitude": 40.04497,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7de1f43b4106ad633d7313f791cc6783",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cecf5385e398e91cce09031da7e860b1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "大数据",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "掌行通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "126ededee094ddf13nVy2N60FQ~~",
+      "brandName": "掌行通",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731053028,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "掌行通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

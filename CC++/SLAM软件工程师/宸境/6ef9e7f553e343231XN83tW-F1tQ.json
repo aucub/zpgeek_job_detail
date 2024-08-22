@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ft61WscgJTw6K-81hbAqmRhxppod60hEN80wlGwywIlrEnud1JYijqsLg7khQi5BZdzGCKkcjifyVrPI9rBTLtDwiio1cF23NflC8LWuGxCW1BcytA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ef9e7f553e343231XN83tW-F1tQ",
+      "encryptUserId": "26743b971262c7e61H1429u9GVE~",
+      "invalidStatus": false,
+      "jobName": "SLAM软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1. 负责多传感器融合（包括图像、IMU、GNSS、LiDAR等）的SLAM算法开发与工程落地；\n2. 负责现有多传感器联合标定算法的优化和调试，确保算法精度和鲁棒性满足量产要求。\n2. 负责SLAM技术在XR/AR 6dof定位、三维重建等方向的应用、集成以及产品落地。\n\n任职要求\n1. 计算机、软件工程、地理测绘、数学等相关专业本科及以上学历；\n2. 2年以上C++ / Python实际项目代码的开发经验；\n3. 具备良好的编程风格习惯、文档撰写能力、团队协作和沟通表达能力；\n4. 具备较强的学习能力、团队协作精神，乐于接受新事物和新挑战；\n5. 熟悉Visual SLAM、SFM、LiDAR SLAM、VIO、LIO、多视图几何的一项或多项SLAM相关算法，熟练使用Eigen、ceres、g2o等开源库；\n6. 熟悉Camera、LiDAR、IMU、GNSS、轮速计等SLAM相关传感器特性。\n\n加分项：\n1. 有ACM/ICPC、CCPC、Robocon、智能车挑战赛、RoboMaster等参赛经验；\n2. 在NIPS、IROS、CVPR、KDD等顶级机器学习，机器人学, 计算机视觉，数据挖掘期刊和会议发表过文章；\n3. 熟悉语义分割，图像语义识别，图像特征提取或匹配方向的机器学习算法。",
+      "encryptAddressId": "d86fd22c5dac528d33F829y-GVM~",
+      "address": "广州南沙区南沙创新大厦17层",
+      "longitude": 113.518877,
+      "latitude": 22.778858,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f279c35ce004f78c6e76ffb1d7f76300",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/871a6e408d9b12a116b7ea2221fd485f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "颜先生",
+      "title": "GZ Site Lead",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180522/d45f5827276c8e6855d4dfb1a4410517c89dfa7620569c56b797e110c54_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "宸境",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e76ca6f5042bd98c0nFy3Nq4EQ~~",
+      "brandName": "宸境",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210603/4cd13c5aca4b3b91d05eb1859ce60d872599cf2844c2af16c8c42b363a79cf71.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "DeepMirror是中国第一家空间智能公司，公司的愿景是建立下一代空间计算平台，将世界数字化，打造整个世界的数字孪生–镜像世界，探索游戏、社交、购物等全新体验方式。公司初期服务于B端客户，建立现实叠加虚拟世界的应用场景，未来将和国际国内大型IP厂商合作，探索游戏和社交的应用场景。创始团队由多位计算机竞赛国际金牌银牌和冬令营成员组成，有多年谷歌核心团队经验。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶",
+        "餐补"
+      ],
+      "activeTime": 1724127045633,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宸境",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

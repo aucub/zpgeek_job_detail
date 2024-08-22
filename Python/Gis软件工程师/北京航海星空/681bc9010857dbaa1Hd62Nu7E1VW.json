@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dHRNqyp32KfpJ-P1jbyComvBkVVA2i5rVZcqUl_J8g_dx1vzMjDGsj_iESFA47ws1U_wvw89oIVJGmD5WoeXaH7IEH3kUtWZOa0KFt0r8uKC6tqdghc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "681bc9010857dbaa1Hd62Nu7E1VW",
+      "encryptUserId": "b90bb0621a0250fe1nRz2N-4F1pY",
+      "invalidStatus": false,
+      "jobName": "Gis软件工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "负责客户驻场开发工作。\n要求:\n1.熟悉gdal和常用的遥感图像处理方法。\n2.熟悉Python，熟悉fastapi。\n3.工作场景为linux环境。熟悉常用软件部署环境。\n4.熟悉MySQL.\n5.有较好的自然资源开发经验更佳。",
+      "encryptAddressId": "01bb0b37232f971d1HN909-1ElVXwom_WfI~",
+      "address": "北京海淀区中国测绘大厦无",
+      "longitude": 116.296363,
+      "latitude": 39.896031,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf632e023aa7e28fc9858a5f1c037e76dd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf767572472a126d2e14af3ff026340a3a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "C#",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "北京航海星空",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f9ff85832c60c6a43nV539y1EQ~~",
+      "brandName": "北京航海星空",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723349578000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京航海星空",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

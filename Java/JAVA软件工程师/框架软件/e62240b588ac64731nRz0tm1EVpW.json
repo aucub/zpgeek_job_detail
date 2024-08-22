@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jkdMPi4W5744K-P1r5xrLTwN-lHHc37gsQ4rVQOfHjMN4Dk7jvrRil2HB3jc6rV12ncJ_kM1B8d6tETPYYG3j76CFqfaqtR1TR6MjLJ5NXzUBCpt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e62240b588ac64731nRz0tm1EVpW",
+      "encryptUserId": "c71ccaebc702bf951XN_09-_E1c~",
+      "invalidStatus": false,
+      "jobName": "JAVA软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、本科及以上学历，计算机科学与技术、软件工程相关专业毕业；\n2、思维逻辑清晰，有扎实的程序设计基础，有研究技术的热情，有很强的责任心，有良好的沟通能力和团队协作能力；\n3、熟悉JAVA编程语言，熟悉至少一种常见的数据库（例如mysql），熟悉常用的Linux命令、构建工具maven、版本管理工具git；\n4、可以出差；\n岗位职责：\n1、参与产品研发和测试工作，包括独立功能模块的需求分析、设计、开发和测试，并完成设计方案和测试方案的编写；\n2、参与售前和项目实施工作，包括独立功能模块的需求分析、设计、开发和测试，并完成设计方案和测试方案的编写。必要时需出差驻场提供服务；\n3、参与在线技术支持工作，包括问题解答和故障修复；\n4、参与产品文档编写和代码整理工作；\n\n公司介绍：\n        领驭框架（北京）软件有限公司（总部位于北京）是一家高科技基础软件开发商，专业从事跨行业通用的业务基础平台软件产品的研发，并提供相关的技术服务，客户目前都是大型金融机构，包括：中信银行、山东商行联盟、贵州银行、新疆农信、青海农信、上海城商行资金清算中心、农信银资金清算中心、亚洲金融合作联盟、...等等。\n        我们拥有完全自主知识产权、具有国际领先水平、完善、成熟的业务基础平台软件产品CBF（Creator Business Foundry，中文名称：开创者业务基础平台），它由高性能、分布式、云原生的运行时支撑中间件CBF Stack和融合领域驱动、EA、低代码理念的可视化建模开发工具CBF Studio两大部分共同组成。\n        我们的愿景是为整个数字化工业提供发动机——一个让大型开发团队既缜密高效又简洁优雅、既敏捷灵活又规范有序地开发/维护应用的，运行时能够帮助应用获得极高处理性能的，用户完全可自主掌控的基础平台，支持用户快速、低成本地构建出高品质的、高性能的、可靠安全的业务系统。\n        随着中美贸易战的升级，国家极力要求银行等行业提升IT建设的自主可控能力，而我们的技术产品完全能够担当这样的重任，并在业内拥有绝对的领先优势：国内大型商业银行成功实施的第一个核心系统下移工程，就是基于全套CBF Stack完成的；CBF Studio则是今后数年业内唯一一个完全符合人民银行发布的最新行业标准的成熟软件产品。我们正处于一个高速发展的阶段！\n\n公司产品：\n        CBF（Creator Business Foundry，中文名称：开创者业务基础平台）\n        CBF 是一个完整的业务应用基础平台，由 Stack 和 Studio 两大部分组成。在通信，数据持久化/序列化，消息队列/信号/数据同步/定时器/缓存/...等基础服务，前端（WEB、Android、iOS、小程序、Windows、...），工作流，微服务，批处理和调度，等领域，CBF 都给业务应用的开发和运行提供了强有力的支撑。\n        Stack 是运行时支撑（框架和 API 包），开放的、分布式架构的技术栈。为让 CBF Stack 在要求最严苛的金融业核心系统也能够全面运用，我们从零开始，全局统筹，规划、设计整个平台的架构，所有部件全部以极高的标准完全自主研发，成果高度安全可控。CBF Stack 的性能、资源消耗、可靠性，以及可维护性等指标均远远超过运用 Spring 等开源框架拼装出来的基础平台，尤其是性能和可维护性，都要超过后者一个甚至两个数量级，完全赶上甚至超过 IBM 封闭的计算平台。\n        Studio 是可视化建模开发工具。CBF Studio 是一个图形化、可视化的开发工具，它的核心理念是“建模开发”，基于 CBF Studio 进行可视化建模开发，成果自动生成全部应用代码。在 CBF Studio 上，从前（UI 和业务协作流程）到后（微服务、批量处理和调度） ，从上（需求，架构设计）到下（可执行的系统处理流程的描述），从左（AI 自动开发、质量和版本管理等 Dev 环节）到右（测试、部署和运行管理等 Ops 环节），工作全部以可视化、图形化、模型化的方式进行，契合大型复杂业务应用开发方法一贯的追求和日益明朗的发展趋势。\n        CBF 的定位是高端计算平台市场——传统上这是 IBM 垄断的市场。“数字化转型，要靠自己的基础软件！”——这是领驭框架公司创始人团队的心愿，也是他们对于中国数字化进程的认知，“只有是自己的，才能不受制于人；只有是自己的，才能适应中国飞速发展、变化的技术环境；只有是自己的，才能成为世界领先的”。CBF 在国内，甚至在国际上，都是十分领先的。CBF Stack 采用了分布式架构，融合云原生技术，性能和可维护性远超业内同类产品。CBF Studio，支持开发者践行架构驱动开发和模型驱动开发等软件业公认的最先进的开发理念，在国际上可与之媲美的工具软件屈指可数。",
+      "encryptAddressId": "5bf895a5bdfac9501HJy2t68Elo~",
+      "address": "北京海淀区银谷大厦2108",
+      "longitude": 116.334279,
+      "latitude": 39.986916,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/66f0dfda532357355df7ef9206c941fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7cafdc1085925f91d5b1561200920dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "银行"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "衷先生",
+      "title": "技术部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "框架软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9d994863355693fe0XNy0t60",
+      "brandName": "框架软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220208/7bf6f160950405e92da2912a825da28824651ceaa6e9475606a153c7b7650b61cbc954013d3de7f4.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "领驭框架（北京）软件有限公司是一家专注于研发可视化建模开发工具和基础应用平台的高科技公司。公司成立于2010年，总部设于北京。我们的产品已广泛应用于国内金融行业，主要客户包括中信银行、山东商业银行联盟、贵州银行、新疆农信、青海农信、上海城商行资金清算中心、农信银资金清算中心、亚洲金融合作联盟等。\n\n我们的愿景是让软件研发像汽车制造那样自动化和智能化。\n\n我们认为，更先进的软件开发模式是架构驱动、模型驱动的可视化开发，而不是传统的编程开发。\n\n我们致力于可视化建模开发方法的推广，解放码农，让软件开发变得更高效、更智能。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "出差补贴"
+      ],
+      "activeTime": 1723461783000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "框架软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

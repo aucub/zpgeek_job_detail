@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "arNpyw_zPn2tp-Y1esvkSHPAmn7odiPVx-JLOZ_L8Rdkbkq3iVDSPo3-3dkWIGWXpBgu0offxXL6Akgj6ATNTKqvQCFggZGv-uZazoEmndGrt75O",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4efa037512d3c79f1nNz3961E1JX",
+      "encryptUserId": "d7d3bc666c6ecf4603B73N28FFM~",
+      "invalidStatus": false,
+      "jobName": "K8S运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-60K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n\n1. 负责公司内Kubernetes集群平台的运维、工具开发和关键业务项目支持；\n\n2. 全链路风险识别，能敏锐的根据现网运维数据来进行技术演进的推进和迭代，对平台运营环境中存在的稳定性问题进行定期反馈和推动改善；\n\n3. 熟悉Golang语言开发，同时熟悉Java, Python, Shell等其他一种或多种语言，有独立解决各种系统问题的能力，对Golang语言有深刻的理解者优先考虑\n\n4. 负责Kubernetes平台的资源管理，制定相关数据运营规划；\n\n5. 能够独立负责一个k8s模块或一个技术方向（网络、调度、存储）的运维和工具开发工作，持续提升系统运维能力和运维效率\n\n6. 参与自动化运维平台规划设计、实现及优化工作，提升集群与平台稳定性；\n\n\n\n任职要求:\n\n1. 本科及以上学历，计算机及相关专业，3年以上相关工作经验\n\n2. 熟悉linux操作系统，网络、存储、安全等计算机体系结构层面的知识，尤其是常见内核态问题的排查分析；\n\n3. 熟练使用GO/Python/Shell等脚本语言；\n\n4. 熟悉容器编排理念，有Mesos/Kubernetes/docker等相关安装、运维实践经验优先；\n\n5. 熟悉Nginx, Haproxy等接入层技术方案，有相关经验优先；\n\n6. 熟悉Ansible, salt-stack等自动化工具；\n\n7. 有Prometheus/Grafana等监控系统构建、配置、使用经验。\n\n8. 有分布式系统开发经验者优先",
+      "encryptAddressId": "1147e3a8206b9f101nN92t-4EVY~",
+      "address": "北京海淀区清华科技园位置",
+      "longitude": 116.330709,
+      "latitude": 39.994513,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1b2976c88d2c4ff417e61ef3e9f7a74",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/411584adc3daf8a190c9cc7c7cdb1851",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化运维",
+        "Python",
+        "Shell",
+        "容器技术",
+        "分布式技术",
+        "服务器配置",
+        "负载均衡技术",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "高级研发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210806/2b7e97c8b07f7e0f3149a2753ec35df2d864fd88170d37d556e8c390083_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "Shopee",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0e1bc15942b85a7d1nB90ty8",
+      "brandName": "Shopee",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/23e21c31f42452d5262cd9a5fe799f83cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "作为领航电商平台，Shopee持续推动企业实现数字化并扩大其在线业务，帮助更多人触达并获益于数字服务，以及振兴当地社区，旨在促进具有包容性和可持续性的数字生态系统发展。\n\nShopee每日为数百万消费者提供便捷、安全、互动的购物体验。作为东南亚数字经济发展的重要贡献者，Shopee同时致力于帮助品牌和创业者在电子商务领域获得成功。\n \nShopee母公司Sea(股票代码:SE)为全球领先的消费互联网企业。透过旗下三大核心业务：Shopee、Garena和SeaMoney，Sea集团的理念为运用科技的力量改善当地消费者及中小企业的生活。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1721721216266,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Shopee",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

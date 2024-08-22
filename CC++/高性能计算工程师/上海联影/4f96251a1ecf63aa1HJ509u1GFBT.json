@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bjnusUQpRHSVU-t1Uza6zJODu8PzacMw3u1ThYh01OI6FT0yg315o8ppVN3zUr8rdxLok4i3gVYaC0urHoUzRTS701GcTgOqs4p2VrouqXiXza2amBc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4f96251a1ecf63aa1HJ509u1GFBT",
+      "encryptUserId": "d6eac34fc9e01f0a03F-39y1EVc~",
+      "invalidStatus": false,
+      "jobName": "高性能计算工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n研究CPU/GPU等硬件平台上的高性能计算技术，参与磁共振重建重建流程和算法的开发与优化\n实现可靠、高性能的C++代码，并在必要时利用IPP、CUDA等技术在CPU和GPU计算机进行加速\n\n任职资格：\n1. 熟练掌握C/C++编程技能，有扎实的算法与数据结构基础，良好的编程风格和工作习惯；\n2. 扎实掌握计算机体系结构相关知识，熟悉现代处理器CPU/GPU的架构\n3. 熟悉CPU/GPU下的高性能计算机框架，掌握性能优化的方法及基于GPU进行AI算法调优经验\n4.有使用IPP、MKL、openMP、CUDA 等进行并行加速计算的经验\n5.本科或硕士以上学历； \n6.有医疗软件开发经验，有磁共振重建软开开发经验优先 \n7.有使用CUDA对AI算法进行优化的经验优先\n\n工作职责：\n软件框架及模块开发工作，包括需求讨论、软件设计、代码实现、单元测试等",
+      "encryptAddressId": "ef12479e2d9307843nB53tm_GVdRxom9UvI~",
+      "address": "武汉江夏区联影生命科学仪器有限公司",
+      "longitude": 114.523067,
+      "latitude": 30.473901,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf04ceb317284170529dd9c89403ab01f96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfe9498b8337ba33864aa100e771df2a576bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Linux开发/部署经验",
+        "cuda",
+        "高性能计算"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "上海联影",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2b7e483aa0d46fda1nZ52dW1Els~",
+      "brandName": "上海联影",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/95e58947fd71efb35068f23b99194107cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "上海联影医疗科技股份有限公司（“联影医疗”），致力于为全球客户提供全线自主研发的高性能医学影像诊断与治疗设备、生命科学仪器，以及涵盖医疗数智化和贯穿“基础研究-临床科研-医学转化”全链条的创新解决方案。\n以“成为世界级医疗创新引领者”为愿景，以“创造不同，为健康大同”为使命，联影医疗通过与全球高校、医院、研究机构及产业合作伙伴深度协同，不断突破科技创新边界，加速推进精准诊疗与前瞻科研探索，持续提升全球高端医疗设备及服务可及性。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "公租房"
+      ],
+      "activeTime": 1724121652647,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海联影",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

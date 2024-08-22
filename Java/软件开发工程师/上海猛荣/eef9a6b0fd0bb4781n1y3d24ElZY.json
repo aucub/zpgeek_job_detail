@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MFJ0-gSqjPjj4-d1GkUvLAsT9YtPC0Tv5OdCPm3iFljdlrzlabPtXy4baJxmSFnwBAnJ06oowZQin5_JhO8BM3eMwBwiMmh0UCFzGUVTRcn-07q18ZDGtbqznnp7WtanqJADOUG_9_Z_DQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eef9a6b0fd0bb4781n1y3d24ElZY",
+      "encryptUserId": "59a26e253cb3d4cc0nZ_3tW7EVtT",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、主要从事java相关应用开发，扎实的编程基础，熟悉精通java相关的网络通讯、IO、集合、基本的算法、编程规范等，对jvm相关知识有一定的理解更佳；；\n2、熟悉Java EE技术体系框架，熟悉hibernate，spring，struts2，springmvc，ibatis 开源框架并有实际开发经验；\n3. 熟悉webservice开发，系统对接接口开发；\n4、具有数据库应用编程经验，熟悉Oracle、DB2、mysql等关系数据库，Oracle熟练者优先；\n5、熟悉主流的应用服务器WebSphere、WebLogic、Jboss、Tomcat等；\n6、熟悉linux操作系统部署项目、发布及简单的运维；\n7、抗压能力强，学习能力强，有较强的沟通能力和需求分析能力；\n8、具备良好的代码编写规范，有过银行金融行业的项目开发经验优先",
+      "encryptAddressId": "c1900dad6ae8793803d709m9E1Y~",
+      "address": "上海浦东新区紫光大厦18楼1804室",
+      "longitude": 121.510898,
+      "latitude": 31.229468,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6a0992929105446cdeb20a98c8c6a79",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e36edd274df4252f43f7e7a9fba787f6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Oracle",
+        "DB2",
+        "MySQL",
+        "Linux",
+        "WEB开发",
+        "Java",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210401/cdb7745baa1b5cdf00145f7f6dbcce84e33c3128402934d4c93aa863ee5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海猛荣",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6ddfb6dded150bcf33J63t65EQ~~",
+      "brandName": "上海猛荣",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "提供住宿",
+        "住房补贴",
+        "交通补助",
+        "带薪年假",
+        "年终奖",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1721725710717,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海猛荣",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KJ9YHmgQhdhTc-a1AaGLM89XacKqj1-k7_cFGwPWVMCICG7_Gr6RYaHoH55nyFIn9ZdzzL3WG6dT6TALf-uOI9XAC4yNWgfxhmaqujENVfHQgjzkSJU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "acc9d58020977b7a1Xxz3d61FlRX",
+      "encryptUserId": "fb0176bc666670fc1HJ70tm1ElI~",
+      "invalidStatus": false,
+      "jobName": "测试工程师（web3)",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-30K",
+      "payTypeDesc": null,
+      "postDescription": "主要职责：\n1. 负责区块链产品的功能、性能、安全、自动化测试计划工作，参与项目前期定义和测试策略；\n2. 参与项目的需求分析，关注项目需求的合理性、可测性；参与技术产品需求和架构设计评审，保证产品设计与架构的合理性；\n3. 编写自动化测试用例，开发测试工具或平台，提升测试质量和效率；\n4. 结合技术能力和专业知识，参与研究并开发区块链测试领域的关键技术和挑战，建立区块链的测试体系。\n职位要求：\n1. 计算机科学、软件工程等相关专业，本科及以上学历；\n2. 具有2年以上的区块链测试或开发经验，有DApp测试经验；\n3. 熟悉hardhat、foundry等测试工具；\n补充要求：\n1. 具有自动化测试落地经验，熟练使用自动化测试工具（例如Mocha, Chai, Cypress等）；\n2. 精通JavaScript/Typescript、python、golang、solidity；\n3. 了解Ethereum虚拟机的运行原理，有一定的公链测试经验；\n4. 能够适应英文文档，有较强的抗压能力和自我驱动能力\n\n远程办公室",
+      "encryptAddressId": "9cb1edd0a6c199873nB509S6GFE~",
+      "address": "北京朝阳区望京诚盈中心601",
+      "longitude": 116.465582,
+      "latitude": 40.021582,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6f842cc0287d95e8a2d03fab68cfcbd6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e030812a3f94929b4e7a3ac7e0907f05",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "渗透测试",
+        "自动化测试",
+        "功能测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈女士",
+      "title": "人事HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180901/0495be5d1b0be01fa47efa7f93cf53bd90d3a9411029c7dfd81ea2b486c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "成都辉浚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6ff863438880f0921XRy2NW0FlA~",
+      "brandName": "成都辉浚",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220420/7bf6f160950405e9cc245a2a80c1f66aa76623060f6167987f1d3287a614b12cd54eb8e8fcfed86e.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司面向全球用户提供24小时的专业技术服务，一直致力于全球化合规方案，为全球客户提供最安全、最有保障的服务体系。截止目前，累计用户超500万，随着全球化业务的不断拓展，平台用户已延伸至全球各地，行业排名稳居全球前五。在香港、加拿大、新加坡等地设有分部。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724145097113,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都辉浚",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

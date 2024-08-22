@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2FFPOe4wGPzU1-g1vy-_o6CrKa1jr0Xv5JK9fpI9QezWOcZ0YQDpObzNsxTqFbygcP4tMFAQI_sNMarPrA3UqN_NpIcXBAfpECbhQPRvJcgJJcfiJ-E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e216fd896b9b54e11nd63tW4FlNX",
+      "encryptUserId": "46d7c36546facff50nZ40t2_F1FW",
+      "invalidStatus": false,
+      "jobName": "Java全栈开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1)         负责技术架构、框架核心代码的编写；\n2)         负责系统架构优化以及性能调优；\n3)         负责与各产品技术接口，及时处理有关产品的需求响应；\n4)         参与制定设计及实现规范，指导设计、实现及部署工作；\n任职要求：\n1)         两年以上使用JAVA开发经验，JAVA基础扎实，理解IO、多线程、状态机等基础框架，对JVM原理有一定的了解；\n2)         熟悉Spring、Struts、 Mybatis、SOA服务框架等、了解其原理和实现机制；\n3)         熟悉前端框架开发React、vue、Ant Design，Html页面开发技术；\n4)         熟悉SQL，了解Mysql、Oracle或Sqlserver等数据库；\n5)         熟悉Linux操作系统常用命令；\n6)         思路清晰、善于思考、能独立分析和解决问题；\n7)         熟悉软件工程、编程规范、有过程控制意识；\n8)         善于学习和与人沟通，为人正直、诚信，有较强的事业心，具有分析、解决应用问题的能力。",
+      "encryptAddressId": "35fa62ff5e4ae9d803Z43dq6Elc~",
+      "address": "深圳南山区明亮科技园1栋613",
+      "longitude": 113.958153,
+      "latitude": 22.577889,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f848b469397b939a5d2266a6b4264fe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18a4872c98abd16a8f9e5decda2d65ab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "架构师",
+        "分布式技术",
+        "SpringMVC",
+        "Linux",
+        "后端开发",
+        "全栈开发",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "研发部",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "上海扬谷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4e720bfd16782a2f1XR63N-6EQ~~",
+      "brandName": "上海扬谷",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191210/f2dcd05694dd820688ae30a606c765c2ce95d472fa070bc7a12c6fbf9305af3e_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "上海扬谷网络科技有限公司（以下简称扬谷）成立于2015年，是一家专注提供极具创新力的云视频传播解决方案的高科技公司，公司的创业管理团队来自全球500强企业，在视频产业拥有超过20年的积累，饱含激情，目标长远；基于对视频产业的深刻洞察以及自身高水平的研发能力，不断推出极具创新力的技术、端到端产品和解决方案，如智能视频终端、视频转码和OTT直播等核心技术和产品，提供业界领先的在线视听解决方案；坚持从用户体验和客户需求着手，快速响应；并且积极和领先电信运营商、广电运营商、新媒体公司、互联网公司等展开一系列的战略合作，构建产业生态环境。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721716602211,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海扬谷",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

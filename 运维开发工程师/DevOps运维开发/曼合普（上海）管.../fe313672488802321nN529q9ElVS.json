@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jKkj4Q8kwcpue-D1CL15q569KQD_gMZcO713943mPZH3Uy8CXEAUKc-aiAqbzLTaMg7ZV7s8EuWSgjXIv9yQOZWadaUCMM8OG5UVFnx1tzVJVcUPpw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fe313672488802321nN529q9ElVS",
+      "encryptUserId": "24e808767e0eefeb1nV80926EFc~",
+      "invalidStatus": false,
+      "jobName": "DevOps运维开发",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "• More than 2 years working experience\n• Perform regular operation on cloud and tools\n• Ability to build monitoring and/or tool\n\nMust have：\nInfrastructure：\n1. Experience on at least one cloud system (Amazon AWS, Microsoft Azure, or Alibaba Aliyun). Manage infrastructure (setup, upgrade, integration, support, maintain) to ensure operational risk and identified and mitigated appropriately. \n2. Build customized Docker images to extend features needed by dev team. Use at least one Docker registry (DockerHub, Azure, AWS, Aliyun). Operate and diagnose K8S cluster.\n3. Operation knowledge of Linux (Alpine, Ubuntu, etc.), MySQL, S3, DNS, CDN, Nginx, etc.\n\nCI/CD：\n1. Has experience to configure GitLab CI/CD. Can debug failures from backend\nMonitoring\n1. Has experience to use at least one cloud monitoring system (Azure Monitoring, AWS CloudWatch, New Relic). Customize monitoring metrics/reports by writing queries (SQL, Kusto).\n\nSecurity： \n1. Understand practice of SSL/certificate management (request/deployment/revoke) in web scenario\n2. Understand common web-based attack (SQL ingestion, fuzzing test, etc.)\n\nCoding：\n1. Code with at least one of programming languages: Python, Golang, Java or C# to automate operation asks, e.g. account management, notification, deployment, etc. \nDesign and implement web application with Java Sprint/SprintBoot framework is a Plus\n\nRead technical documentation written in English",
+      "encryptAddressId": "d84538bd969196621nB42du5F1I~",
+      "address": "上海浦东新区浦东金融广场办公楼3座12楼",
+      "longitude": 121.516094,
+      "latitude": 31.232263,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f33c78b163bbe7d56cbfa5761dc3f8f0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c39426d1d31e1ffca2663cb98c03a23",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维开发经验",
+        "大数据运维经验",
+        "Java",
+        "Docker",
+        "服务器配置",
+        "容器技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "recruiter",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160519/87b35d4b8779c3e8ca9d240e8d9dbdc58c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "曼合普（上海）管...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "72a47e0d78fee6701XN839u0Fg~~",
+      "brandName": "曼合普（上海）管...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180917/e28bebe89ddfec6b666528a70b7cc4c59ad9db3f2071a69850fb475c4874b948.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "MHP is a leading international management and IT consultancy. We develop pioneering mobility and manufacturing solutions for multinational corporations, mid-sized companies, and disruptive startups. As a premium business and technology partner, we are shaping tomorrow’s digital future, today.\n\nMasters of Digital Transformation.\nOur consulting approach is unique, combining holistic IT and tech knowledge with deep expertise in management. This makes MHP the ideal partner for a successful digital transformation. As digitalization experts, we deliver innovative strategies on the basis of strong analysis. These turn your change processes into sustained success.\n\nOver 4,000 employees are driving digital progress in 13 locations worldwide, for over 300 clients. We display excellence at every level.\nExceptional Career Opportunities.\nWe are growing quickly and offer career opportunities for entry-level candidates as well as experienced consultants.\n\nhttps://www.mhp.com/en/home/",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1723184725000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "曼合普（上海）管...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

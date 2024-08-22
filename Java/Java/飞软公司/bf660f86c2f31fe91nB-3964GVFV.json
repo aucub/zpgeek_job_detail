@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0bUlvYn0A1bUu-W1jd4J3lOPB4xzB2U0bZvbq_5dwMa-i6FPM2Py4MbZEcAv4GftQZTAMRkazOwiyjqjLUGmLaI241zRtXO7SOgPbJmfwKWgdWQ6_RTxl6ge3NyPY-GabFyBHuIJ6e2s9y0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bf660f86c2f31fe91nB-3964GVFV",
+      "encryptUserId": "4a31b9da4a9e10d70nZ_2Nu5GVpY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责重点客户软件项目的开发工作；\n2. 根据项目要求，开展需求调研，完成调研报告和需求规格说明书，负责为客户定制开发系统；\n3. 熟悉用户的各项工作业务流程，熟知项目管理程序，能撰写项目需求，项目报告文档；\n4. 要完成项目实施、交付；\n5. 要熟悉政府部门项目验收流程，能够书写和完成项目验收文档；\n6. 要能够指导项目小组中的成员更好地完成程序开发，严格把控项目进度和质量。\n任职资格：\n1. 大专及以上学历，计算机、信息类相关专业；\n2. 25岁以上，从事软件开发/实施工作二年以上；\n3. 熟悉MySQL、SQL Server、Oralce 数据库，能熟练编写JAVA程序；\n4. 良好的沟通和表达能力，逻辑思维能力强，工作认真严谨；\n5. 具有高度的责任心，能够承受较强的工作压力。",
+      "encryptAddressId": "52e7dd5f912149071nF62N66EA~~",
+      "address": "杭州西湖区杭州高新东方科技园10幢304",
+      "longitude": 120.125155,
+      "latitude": 30.274748,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a58f59cbd3a542bcb99ff5cca5f76e1e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5b19abd4c32c5e25cb50dbb5437e764a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "SpringBoot",
+        "全栈开发",
+        "Linux",
+        "中级软件工程师",
+        "Eclipse"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "飞软公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7846b486428cf3821nF439y4EVo~",
+      "brandName": "飞软公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "随着政府数字化改革的推进以及信息技术日新月异的发展，今后我们产品的方向将重点往政府数字化领域发展，并全面转向信创环境，注重业务多跨协同、应用整合、信息集成，帮助政府部门整合业务，数据归集，形成一套安全可靠、完整地科学决策系统，实现“整体智治”。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "全勤奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "夜班补助",
+        "加班补助",
+        "五险一金"
+      ],
+      "activeTime": 1724296804078,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "飞软公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

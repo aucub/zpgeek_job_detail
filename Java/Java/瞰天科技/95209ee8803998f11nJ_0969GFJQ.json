@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LfVP7443-5sic-q1f_dZ86KXZeUW3ANjI3Mv-2u6_8WAd9NW9IsP-R-KjvTBN2E_Nn7Qp82w1s6chFHDoiXEcA2BQWD9a7smfD7HBMdAx9mxNSOy",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "95209ee8803998f11nJ_0969GFJQ",
+      "encryptUserId": "11f3aab571f3e05c1Hx-09y_Fw~~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n参与公司产品后端的开发、确保系统的安全、高可用和可靠性。\n参与业务需求讨论、评审产品设计，驱动研发团队一起按时、高质量完成产品交付。\n负责产品的服务端开发，提交有效的测试版本。\n\n能力要求：\n正式的软件工程或计算机科学相关本科学位。大专学历，能力强者也会考虑。\n熟练掌握 Python 、Java 、Typescript 等至少两种编程语言。\n有 Python 、Java 等至少一门语言开发经验。\n熟悉 AWS 云服务的使用，比如 Elastic Load Balancing 、API Gateway 、IoT Core 、Elastic Beanstalk 、CloudWatch 、EC2、S3等。有相关生产实战经验。\n熟练掌握使用 Docker 和 EC2 。\n熟悉自动化 CI/CD 流程。\n良好的学习能力、沟通能力、适应能力，责任心强，团队合作精神，能在压力下独立解决问题",
+      "encryptAddressId": "347c3f4c2ccb25360nB93N-9FQ~~",
+      "address": "北京海淀区彩虹大厦(开拓路)小二层2楼",
+      "longitude": 116.307892,
+      "latitude": 40.039115,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7fdc6cb03cb06823a0c5cdd60dbe834",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e76ac79cb372465dc6bbe6782b236e3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "SpringCloud",
+        "Nginx",
+        "MySQL",
+        "物联网经验",
+        "Linux",
+        "AWS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160427/5869b71dcbb0f1902fdd5e3c99d2b0131e42f059089949ca3f395cba914_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "瞰天科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "75e80257c3dbacc31HV43ty7Eg~~",
+      "brandName": "瞰天科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190109/d4ffee4398211838d9ace8382412a67bcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "瞰天科技是一家致力于天气大数据与行业气象解决方案的高科技公司，拥有专业成熟的硬件开发团队和来自美国硅谷的大数据，图像识别和气象专业团队。在智慧农业，光伏发电以及气象专业领域有具备竞争力的产品或服务方案。\n\n公司处于B轮阶段，在海外做的主要是C端市场，2015年出品的智能气象站硬件创下kickstarter的传感器类产品的众筹世界纪录。产品销往100多个国家，实时在线设备10000台以上，每日能产生300万条天气记录，累积天空图片数8亿张，为世界上最大的天空图片数据库。\n\n2018年开始，公司重点布局国内B端业务，目前正在招兵买马，期待您的加入！\n\n官方网站：www.kantiantech.com",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724288273489,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瞰天科技",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

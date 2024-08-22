@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kebk1AINGA1EJ-41egM3KTzuzWGIhRRKKr_ZmJpltayD6t15uHv2vEEkmijzNYO5QfAZeZ-DWllWvCLe-m1ZRsaZqicmZYcYslJ8PAIpjaG53dCf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2d39883f4c79f88c1HR929q_E1E~",
+      "encryptUserId": "f8b34f85099a6d19031z3t66GFo~",
+      "invalidStatus": false,
+      "jobName": "Java 后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\r\n1、能深入理解业务需求，提供最佳的技术解决方案；\r\n2、基于Springboot + Mybatis + Mysql进行代码的编写，参与解决开发过程中的技术难点；\r\n3、配合前端开发人员，进行各种测试比如单元测试，集成测试和性能测试；\r\n4、熟练部署和维护现有产品，快速解决软件故障；\r\n5、支持现有产品的分析和优化，改进产品提高产品可用性和稳定性；\r\n6、接受领导布置的其他任务。\r\n\r\n\r\n任职要求：\r\n1、计算机相关专业专科及以上学历，肯吃苦，抗压能力强；\r\n2、 有解决问题、钻研技术的兴趣和能力，善于交流和表达，有良好的团队合作精神\r\n3、2年以上的后台开发经验，可单独搭建且非常熟悉SSM、Spring Boot框架；熟悉多数据源、分页；\r\n4、熟练使用Git或者SVN；\r\n5、熟悉linux常用命令，了解API工具swagger,熟练使用tomcat，熟悉Ajax技术；\r\n6、熟练使用MySQL进行应用开发，熟悉数据库原理以及常用性能优化技术，对数据库事务、锁机制等原理有较深的了解；\r\n7、读写分离，数据库服务器集群搭建，web服务器集群搭建优经验者优先\r\n8、有大型物流软件（车货配平台，TMS，OMS，WMS等）开发经验者优先。\r\n\r\n作息时间：\r\n周一至周五：早8:30-晚5:30\r\n周末双休。",
+      "encryptAddressId": "c7806cbe39911cdb1nR72NS6E1o~",
+      "address": "南京江宁区俊杰科创大厦1306室",
+      "longitude": 118.823168,
+      "latitude": 31.915422,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e484d9ad150bca1835e0d1600354de47",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3c01e58a54350389586b072235a9b0d7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C/C++",
+        "后端开发",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181203/88d00a8724725423fb16932950ae16b0cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "天恒供应链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c4a1a7ff80bec7811HV-0t66Ew~~",
+      "brandName": "天恒供应链",
+      "logo": "",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100501,
+      "industryName": "交通/运输",
+      "introduce": "　　江苏天恒供应链管理有限公司是江苏地区著名的第三方物流管理公司，主要开展集装箱运输、第三方物流、工程物流，敏捷供应链配送等专业服务，现已开通上海、北京、天津、广州、青岛等绿色通道。多年被国内大中型企业和外资企业评为优秀物流供应商",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1721745197138,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天恒供应链",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

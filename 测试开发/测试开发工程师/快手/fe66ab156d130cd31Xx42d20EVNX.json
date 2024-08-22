@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rWEGF9-UXmZ80-E1s5WGU7CyjROjVo-vpYYEkLJ3_rYZg-ZbgTB_lXgXvIbPzH2JXHoC_Lwvn0I7pNFWy32COacG4aYgQKkvsEwttYhqgv--k9_b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fe66ab156d130cd31Xx42d20EVNX",
+      "encryptUserId": "d3e0b898d3e714701nR93ti7FlBZ",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "23-35K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "25届校招秋招\n附上当前状态（有没有投递过快手，处于哪个流程）\n\n工作内容：\n1 根据项目计划制定项目测试用例并实施，保证项目质量和进度\n2 根据项目特点，开发测试工具或编写自动化用例，提高测试效率\n3 参与程序架构和代码评审工作，提出改进意见\n4 参与监控，线下线上问题定位，环境部署搭建等横向事务\n\n岗位要求：\n1、计算机或者相关专业本科及以上学历；\n2、对软件测试有浓厚兴趣和经验，精通测试流程和测试方法，能把控整体项目进度和开发质量；\n3、能通过流程和技术手段对线上质量负责，包括线上的监控、和bug管理等；\n4、掌握Python/Golang/C++/PHP等至少一门编程或脚本语言；\n5、熟悉shell编程；\n6、有相关实习经历。",
+      "encryptAddressId": "05e5ab9c3cc9b37333xz39W7Elc~",
+      "address": "北京海淀区快手总部总部",
+      "longitude": 116.298746,
+      "latitude": 40.053278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2e0c7874e363f33890d8ff336232fb0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d49f733aa9e723a0ce7bfa6999a5d7c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "资深HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200507/c96984c727c1c4fb9f21c44219ed2eb33d1f258abd0864f0cfec152021b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "快手",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "480261c022ea03d81nV53tQ~",
+      "brandName": "快手",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/fff9b16bcbb78e2453884865d2c4c7e7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "快手是领先的内容社区和社交平台，是短视频行业开创者与引领者。快手致力于创造一个温暖和信任的社区，让更多普通人拥有表达和被看见的机会，并由此培育了繁荣与高互动的社区生态，每天有上千万优质内容上传。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1723451543000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "快手",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

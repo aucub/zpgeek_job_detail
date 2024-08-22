@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VDRZjz-xpBnBB-712agP47Dd5sKgSyEJ5ch8HiTgJ1f1ssAoI5ZinyWlqBP0bDieL65yHF34avDOQt_5o3ZLvUkaxmhE3dm4QMeE2blkHwKIxMqxGUJV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7b991a720a1d77201nd73t29GVBV",
+      "encryptUserId": "b35422d3a152739e0nVz39S1FVRZ",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、主动负责公司安全测试工具(web/android/fuzz)的系统设计、开发、维护和优化；\n2、主动挖掘安全测试技术，参与技术难题攻关；\n3、主动参与技术分享和交流，完成领导安排的其他工作。\n任职资格：\n1、本科及以上学历,计算机相关专业，3年以上java、android开发经验，有安全测试相关工具开发经验者优先；\n2、具备安全相关测试技术fuzz、hook、 flowdroid等开发经验者优先；\n3、熟悉Java语言同时了解PHP、Python、Shell等优先；\n4、熟悉SpringBoot、SpringCloud、\nMybatis等技术；\n5、熟悉ES、MySQL、MongoDB等数据库使用；\n6、熟悉Linux操作系统使用，熟悉Nginx配置及模块的安装；\n7、具备良好的需求分析能力、业务和技术方案策划和设计能力；\n8、思路清晰，具备很强的文档撰写能力和良好的语言表达能力。",
+      "encryptAddressId": "9db774afd97d880e03Z-3NW7FVY~",
+      "address": "北京海淀区荣耀Q6大楼Q6-04",
+      "longitude": 116.178478,
+      "latitude": 40.059779,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9d2c3206d0a383e883a48d564d564d3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f5ec9a39c9b55249e97ad9df86b732d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Android",
+        "网络安全",
+        "MySQL",
+        "软件测试",
+        "移动端自动化测试",
+        "系统测试",
+        "接口自动化测试",
+        "接口测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宁女士",
+      "title": "软件测试",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "荣耀终端",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3012575d7bb3d1321nd409W7FlY~",
+      "brandName": "荣耀终端",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210204/84fd1caacfecdfb388cefe9b30ecff81443bccf55c28b29a647c00bac14b771b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "荣耀（HONOR）是全球领先的智能终端提供商，致力于打造全球标志性的科技品牌，创造属于每个人的智慧新世界。荣耀以品质、创新和服务作为战略控制点，坚持研发及前瞻性技术的持续投入，通过全系列手机及智能生态产品，为全球消费者带来创新、领先、可信赖的产品与服务，打造极致的全场景智慧生活体验。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "免费班车",
+        "团建聚餐",
+        "员工旅游",
+        "夜班补助",
+        "加班补助",
+        "企业年金",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金",
+        "加班费",
+        "夜宵"
+      ],
+      "activeTime": 1721719009443,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "荣耀终端",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

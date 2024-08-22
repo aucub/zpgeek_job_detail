@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HZNGYuhNuh1CY-111DfUbhxiUbM3vfmMmjH2kQzcr1EEY1Kv5IVPA-RKZYDsn8ReSsZninS0FG7ha_-RzpMG1KvlSoynD9c-ALgeA1ibIKHRAuzj7Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fd905bb12d29f9241n1-29W8ElpQ",
+      "encryptUserId": "0f3862017fc3f10403B609i1FlM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.完成部门负责人安排的日常开发工作。\n2.协助部门负责人进行需求分析和设计，并编写需求文档编写\n3.处理客户提出的相关技术问题并提出修改意见\n4.与团队其他人员合作完成重要的系统改进和升级工作。\n任职要求：\n1、统招本科或以上学历，计算机软件或相关专业，3年以上互联网公司 Java 开发经验。\n2、扎实的 Java 和计算机基础，熟悉面向对象分析和设计技术，包括设计模式、UML 建模等；\n3、熟悉底层中间件、分布式技术（包括 分布式框架、缓存、消息系统等）；\n4、对 Spring、Spring boot、Spring cloud、MyBatis 等常用开源框架应用经验丰富，对框架本身的体系有较为深厚的理解和应用经验，对框架本身有过开发、重构者或者参与过开源框架优先考虑；\n5、熟悉 Mysql 等主流数据库，理解数据的基本原理，熟悉 Linux 系统； \n6、精通常见Web服务器，如Tomcat、Jetty、Apache等\n7、有区块链相关经验优先",
+      "encryptAddressId": "9b7cac41d70f936c1Hd42Nq-GFU~",
+      "address": "深圳宝安区蘅芳科技大厦1801I",
+      "longitude": 113.862505,
+      "latitude": 22.576688,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/088b9cf1d71fbc01ac7f18c7d8b503f9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67ee0b808814899a2ede231ba1b8fea0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "Spring",
+        "MySQL",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "腾剑科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "adafc62aed1c161d33Z-09S9FA~~",
+      "brandName": "腾剑科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721689202704,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "腾剑科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

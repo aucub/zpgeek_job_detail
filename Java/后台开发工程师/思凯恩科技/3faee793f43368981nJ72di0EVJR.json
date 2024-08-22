@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BtGBhReUsq8jS-y1_6jNXrdk_oRCsdolFLZSZzbcNxtJlQeoBGMYejSC6HBog5MQ_IuIORdB5jzqG3UU4yL02B8YEr6Ugr1bCVY3d0LTXSLzu8iDinI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3faee793f43368981nJ72di0EVJR",
+      "encryptUserId": "207f50b5e0072c730nZ60tu_FFJR",
+      "invalidStatus": false,
+      "jobName": "后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n岗位职责：\n\n1、负责APP等移动平台、应用系统的服务器端软件设计与开发；\n\n2、负责数据模型设计、后端与前端数据库的设计；\n\n3、持续维护和优化产品的架构；\n\n岗位要求：\n\n1.熟练Java开发语言，以及Java多线程和线程优化\n\n2.利用Java的主流框架（SpringMVC或SpringBoot，mybatis）\n\n3.熟悉MySQL数据库，以及sql的编写能力，可以用Java操作数据库\n\n4.熟悉JavaScript、Ajax、Html、CSS、JQuery、VUE等前端技术。\n5.熟悉Linux环境，熟悉Tomcat、Nginx等主流服务器。\n\n任职资格：\n\n1、统招学历；\n\n2、专业要求：计算机、电子、信息相关专业；\n\n3、沟通能力强，理解能力强",
+      "encryptAddressId": "cd2abb8f7de91cff1nN729y9EA~~",
+      "address": "北京海淀区金隅智造工场N1310A",
+      "longitude": 116.357306,
+      "latitude": 40.058377,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1e28726f5c5d345db89c90e8fbd19e6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f5571a158ce94e5cfab5a2ce0084badb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "多线程",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "思凯恩科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7234c20a0c81cc2c1XN939y8EQ~~",
+      "brandName": "思凯恩科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190513/4b1c28afd635f128752cf657334434b447656658680316e829cb501d4bd052eb_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京思凯恩科技有限公司成立于2015年，是一家从事精益制造系统和智能制造系统研发服务的国家高新技术企业。公司致力于为客户提供智能、精准、高效的工业系统解决方案。国家高新技术企业、中关村高新技术企业、ISO9001体系认证企业。\n思凯恩科技主要客户为汽车零配件制造企业和制药企业；公司主要系统产品有SCADA数据采集与监控系统、KPTS关键参数追溯系统、IMES智能制造执行系统、DMS-数据挖掘系统、EMS设备管理系统、C2生产呼叫系统。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721715515777,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思凯恩科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

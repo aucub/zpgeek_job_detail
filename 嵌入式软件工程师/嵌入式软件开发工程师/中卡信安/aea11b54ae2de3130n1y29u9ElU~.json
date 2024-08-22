@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aT106g02sPOaF-L12guyemroHuJDdK7_a3YIeXe-maqswtLgLw9QRIFQVKyN63ZBBjb1vTPZYIXD162NyHXjXUIJmGVHvSrj0YAbvXjokikPCMHA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aea11b54ae2de3130n1y29u9ElU~",
+      "encryptUserId": "42ecd63caa49957e0XN_39m4EVo~",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件开发工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "16-30K",
+      "payTypeDesc": null,
+      "postDescription": "一、嵌入式软件工程师\n\t岗位名称\t嵌入式软件工程师\n\t现有人数补充人数1至2人\n\t岗位职责(需列明细)。\t主要从事嵌入式软件开发、测试相关工作;*负责软件需求整理、代吗编写、软件测试、相互检查与审核;\"与其他同事配合，对已有软件进行验证和优化;\"撰写产品测试文挡涉及软件的产品说明书文档;\"根据任务安排完成项目相关论证报告、总结报告、专利申请的撰写;能独立使用CC++语言进行编程的能力，熟悉常见通讯接口协议等;能配合项目需求基于Linux和Windows双平台使用OT5进行新产品的应用层开发;能根据工作需求进行加班。\n\t任职要求。\t基本要求。\t性 别、年龄不限不限。\n\t学历\t本科及以上学历，计算机、自动化、电子类相关专业\n\t经验和资历\t能够熟练阅读英文文档;熟练掌握C/C++语言编程，具备良好的代码设计和架构能力;\"熟悉c++与数据结构理解C++的语言特性，对C++的STL、内存管理、模板等有一定认识，能利用开源库如boost解决特定问题，有良好的编码习惯:\"熟悉opencv常用库，精通边缘轮廓检测算法及摄像头畸变和颜色矫正算法;\"具有2年以上独立编程经历;良好的编程风格，熟悉软件文档编写;\"能撰写产品测试文挡、产品说明书文档。\n\t专业技能\t熟练使用VisualStudio、Android StudioEclipseADT、CLion主流开发环境;\"掌握Windows与Linux跨平台开发方法;\"熟悉Android系统平台开发者优先熟悉OCR相关算法使用及调校者优先。。\n\t沟通能力。\t普通话流利，具有良好的沟通能力;具有良好的团队协作能力;责任心强，工作认真细致;具有较好的学习能力与创新能力;能根据工作需求进行加班。\n\t计算机水平。",
+      "encryptAddressId": "ad0a544e7e6861d00XB63NW1F1Q~",
+      "address": "北京昌平区两岸共盈科技产业园A座",
+      "longitude": 116.206413,
+      "latitude": 40.171155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/345358513e8d8d4c786d21546d9ff3b9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ff9c9f00821e8a4b3023521686ed46dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "射频开发",
+        "C",
+        "嵌入式/单片机开发经验",
+        "机械设计制造相关专业",
+        "单片机开发",
+        "ARM开发",
+        "智能卡"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "门先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190629/0a79ad4a515915227270478166ca5d9fcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中卡信安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8743863899d6e36d03152t67Fg~~",
+      "brandName": "中卡信安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "金融、高铁、民航",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724305635857,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中卡信安",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

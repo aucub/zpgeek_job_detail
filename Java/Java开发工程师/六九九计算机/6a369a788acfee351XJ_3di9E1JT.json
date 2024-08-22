@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VZh9H3A8gjVSP-91LYtMIfJmoMTYUGAqelVZzUZtjKFs_kxNK1J1TpHg5qqesc8J634d3fYqaW9j_NTKgRckBniQN1LIzqXE4C2NfKJBY7xYaHUWhDlA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6a369a788acfee351XJ_3di9E1JT",
+      "encryptUserId": "2028a839bd1004d30nBy2Nq8E1tY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "JAVA开发工程师\n岗位职责：\n1、参与产品设计：根据业务需求，积极参与产品的讨论、定义、设计等工作；\n2、技术文档编写：按照公司软件开发管理规范要求，根据上级分配的任务，编制软件开发详细设计文档，保证开发过程的适明度与可控性；\n3、软件编码：根据开发文档，进行重要子系/模块的软件编码工作，并根据系统中具体的难点问题，参与针对具体技术难点的技术攻关，按阶段有计划地完成代码开发计划，确保项目的高质量完成；\n4、产品测试：根据公司产品测试相关流程及产品特点，配合测试部门和业务部门进行产品测试和验收工作，组织软件系统的安装调试，保证产品顺利发布；\n5、质量活动：参与软件模块的代码走读、代码正规检视、设计文档正规检视、设计评审等质量保证活动，降低软件产品缺陷。\n任职要求：\n1、大专及以上学历，计算机相关专业；\n2、3年以上相关职能或专业领域工作经验，2年以上互联网应用开发经验；\n3、对面向对象思想，面向服务思想，分布式系统有深入的理解与实践；\n4、熟悉主流技术框架，精通SprintMVC、Springboot框架，对各种开源的框架有深入了解； \n5、具备常用消息中间件、分布式缓存、RPC框架、微服务架构相关开发经验，包含并不限于：Dubbo、SpringCloud、Kafka、Redis、Memcached；\n6、熟悉MySQL数据库与其相关生态群，熟悉NoSQL数据库（Redis、MongoDB）的原理及应用；\n7、熟悉消息中间件（ActiveMQ、RabbitMQ）的原理及应用；\n8、熟悉Linux操作系统基本命令，能独立完成Linux系统中间件安装配置及程序部署，如Jdk、Nginx等；\n9、熟悉Elasticsearch及相关组件的设计开发。\n10、熟悉多线程编程\n11、有物联网开发经验优先考虑",
+      "encryptAddressId": "8505e67a7ecd5b6b0H1839-9FlA~",
+      "address": "武汉洪山区光谷软件园f2",
+      "longitude": 114.404057,
+      "latitude": 30.475014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9bd970bea39fe662c9b4259f95508dd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22e0da559c203dfeb7f12f6e7da4b681",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "架构师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "资深Java架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230713/607f1f3d68754fd0fb14d85e141fa0775a86ba2f78413509bde13bec04a4843d2c10011387fb882_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "六九九计算机",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "913cabc7322337a71XBz3d69EVc~",
+      "brandName": "六九九计算机",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721709153286,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "六九九计算机",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

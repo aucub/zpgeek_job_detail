@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bd0UfY3z-vBo_-11NGSnfgawXO_EPE1lRkRlTTXXpL7Vd7Sk0MEZqa0AZiBHjheL4ldu7js6lASJtRiUk0_42Q8nh2BeIq4U4Aez2JHO1h7z3iOfe4c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5f0a7e80d27f0f753nx_3tu1FFs~",
+      "encryptUserId": "4a89d2c66eda99071nZ709W8GVpU",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据项目需求，进行系统的技术架构和概要设计；\n2、独立完成详细设计及编码、调试；\n3、完成软件系统的设计、开发和维护；\n4、后台服务数据模型和数据库表的设计、开发和维护。\n\n任职要求：\n1、本科以上学历（优秀可放至大专学历），3年（含）以上工作经验；\n2、熟悉springboot 、mybatis等java技术框架；\n3、熟悉sql语言，能编写复杂sql语句，掌握常用的sql优化方法；\n4、熟悉http协议，熟悉restful规范；\n5、了解多线程编程，例如java并发包、java stream 等；\n6、了解jvm内存模型；\n7、了解redis 、elasticsearch、rocketmq 等互联网常用技术的优先考虑。",
+      "encryptAddressId": "22a519b55026752b1Hd_39-7EVE~",
+      "address": "广州白云区广州市康得乐医药有限公司501",
+      "longitude": 113.28494,
+      "latitude": 23.253182,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5bd86e1865875d4f788f58335723d207",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5d00230a5be4fb94582fe2738958fa1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "康得乐医药",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6cc1116743798ec91nV60t24ElQ~",
+      "brandName": "康得乐医药",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100402,
+      "industryName": "医疗服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723290498,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "康得乐医药",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

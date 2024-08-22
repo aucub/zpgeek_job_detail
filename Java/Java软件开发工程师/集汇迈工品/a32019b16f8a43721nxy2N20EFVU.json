@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "r5fzmlLUPLVTa-M1VO_na0ni7MiOK_ZamuN-8QXQ8LAP8xJB4Fq7uqvZnriXud0mfTrkB0YjbwEXkIji6BWsZLqW0VX2DWC3ZT3d1MMaNmPe1GJ0Qjhn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a32019b16f8a43721nxy2N20EFVU",
+      "encryptUserId": "3b50745ef5d6715d0ndz2N67FVdZ",
+      "invalidStatus": false,
+      "jobName": "Java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n参与开发业务平台的模块、接口开发。\n\n岗位要求：\n1. 统招本科及以上学历，计算机相关专业优先考虑； \n2. 至少有1年以上java开发经验， java基础知识扎实，熟练掌握Java语言编程；熟悉MySQL、Oracle、Postgresql、MongoDB等常见数据库中至少一种 \n3. 熟练使用Spring boot等基础框架；\n4. 有面向B端产品开发经验优先考虑",
+      "encryptAddressId": "e641e3dbe625df541XV809S4FFM~",
+      "address": "北京通州区天骥·智谷13号楼2层203",
+      "longitude": 116.552753,
+      "latitude": 39.78187,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1e67652615ac077928b15f427c9e071",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95ae7ad44575201f00ab12dfcd82cf06",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "中级软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "集汇迈工品",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6c416e4d5514dc191nx63ti_GVA~",
+      "brandName": "集汇迈工品",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100504,
+      "industryName": "进出口贸易",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "节日福利"
+      ],
+      "activeTime": 1721703529862,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "集汇迈工品",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

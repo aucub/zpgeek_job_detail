@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DApnq3pcam8Tf-D1c-4aqJavGzjA6yKQLumtz6kZJXtZ4YK-GmnzZnN1O9rdNEn9TTXiO3Jc6F_u5Jy0yD-CWVhAPjLFx1wVhWIbd7hcD572bFakEw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88dce9d533b1dc191nJz3t60GVFW",
+      "encryptUserId": "a2d102d93c0cbf881XV-3Ny_FFU~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责数据库类系统的设计和开发工作；\n2、配合售前部门进行需求分析、整理撰写需求文档以及开发设计文档；按照项目计划，按时完成开发任务；\n3、主动研究行业新技术的发展和应用情况，推进公司技术更新。\n任职资格:\n1、 本科，计算机、软件工程等相关专业；\n2、 2年以内工作经验，具有良好的学习能力、团队精神以及协调沟通能力；\n2、 具有JAVA项目开发经验，熟悉JAVA/Python等相关开发技术，具有分布式系统分析、设计、开发能力，熟悉前端Vue/HTML5、后端SpringBoot/MyBatis/SpringMVC等框架技术；\n3、 熟悉主流的安全技术和解决方法，包括SQL注入，XSS，CSRF等的防范；\n4、 熟悉ORACLE、MYSQL、REDIS等数据库开发，能熟练进行PL/SQL和存储过程开发。",
+      "encryptAddressId": "c77244cdfe5eccad1nV53du-EVI~",
+      "address": "北京丰台区总部基地1区26号楼5层",
+      "longitude": 116.28556,
+      "latitude": 39.827624,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43c2cf991be536ce09b0a246f66c98c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9b67f373630b11cec32b831729c76fb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "Python",
+        "分布式技术",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "立信桥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "380ae8f6693d69551H1829W8GA~~",
+      "brandName": "立信桥",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190402/8bf5a38038e9d747206b3a05264dde0c3affc3a93a63c7abd35c4c6c0147a6c3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "北京立信桥电子设备有限公司（以下简称立信桥），公司坐落于中关村科技园区丰台总部基地，成立于2010年，注册资本1500万。拥有完善资质体系：商标注册、双软认证、高新技术企业、国军标ISO9001-C体系与十多项发明专利。\n    公司紧跟国家军民融合时代步伐，以创新为引领、以项目为载体、以技术为支撑、以强军为己任，经过多年深耕细作。目前，公司业务范围分为三大板块：电源检测维护设备与电源配套系统，在此领用我司拥有7项发明专利，申请中专利6个；物联网化设备建设工程；大数据、指控类平台系统开发，从2020年起同院所专家合作，涉及物联网项目通信系统多个课题研发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "节日福利",
+        "通讯补贴"
+      ],
+      "activeTime": 1721730469759,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "立信桥",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

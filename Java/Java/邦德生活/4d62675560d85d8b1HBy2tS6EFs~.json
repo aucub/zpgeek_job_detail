@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dmOY9XWDEUqaA-P1m6AY3Wxy5BftOfJ2007zxDCGvhXogd7aqotT4_NZwx_o6ZT3FHPeKXYZ33WQnvMHJYjvnbvDc7gq8PwdbpJCjYQ_EzrkOWT8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d62675560d85d8b1HBy2tS6EFs~",
+      "encryptUserId": "4673301d573d121e03N83t67E1E~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1. 独立承担关键功能模块的设计和开发。2. 根据需求进行概要设计及详细设计以及模块的实现。3. 配合项目经理完成项目实施的技术工作。4. 对编写的代码进行模块测试。任职要求：1. 本科及以上学历，计算机相关专业，2年以上工作经验；1年及以上互联网产品Java开发经验者优先；2. Java基础扎实，精通多线程、并发、集合、网络、io等基础知识，熟悉JVM；以及分布式web系统应用设计和开发经验3. 熟练掌握各类算法、常用数据结构、设计模式；4. 会使用svn、git进行代码协同管理；5. 深入理解SpringMVC，SpringBoot, SpringCloud, Mybatis等领域的框架或产品的机制与代码；6. 具备Mysql等数据库使用经验、缓存、消息通信、队列、异步框架等技术；熟悉高性能、高并发系统设计方案；7. 思路清晰，编码规范，优秀的分析与沟通能力，工作认真严谨，对系统质量有近乎苛刻的要求意识，富有团队合作和挑战进取精神。",
+      "encryptAddressId": "6e7071f7597b7de93nx43di6EA~~",
+      "address": "北京朝阳区北苑路甲13号院2号楼1306室",
+      "longitude": 116.41705,
+      "latitude": 40.031,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4747df1fcd02fe4929480a92ef22a820",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b035e201acc82894d8f3838413445b50",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML/CSS",
+        "Java",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "呼女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181102/9337d5330dcebbc0fdf9e463a7a1f8158b42979405463aa5b0bdbab17bd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "邦德生活",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b95a1ef36ac2a1971nB83d--Ew~~",
+      "brandName": "邦德生活",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180223/74efc932b24eaab93906ca5116c3fe57cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100007,
+      "industryName": "生活服务(O2O)",
+      "introduce": "税管家产品是邦德生活（北京）科技有限公司与多地政府合作招商产品；邦德科技立足物联智慧楼宇，创立全新B2G商业模式，以让中小企业活的更好为己任，目前核心业务为退返税（次月退返）、税务核定征收以及行业特许准入证和企业征信，目前服务4000多家企业和8个地方政府（天津、山西、安徽、江苏、山东、西藏、内蒙古和重庆），成功构建了立体化、全要素、一站式的企业服务平台。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "交通补助"
+      ],
+      "activeTime": 1721730471878,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "邦德生活",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

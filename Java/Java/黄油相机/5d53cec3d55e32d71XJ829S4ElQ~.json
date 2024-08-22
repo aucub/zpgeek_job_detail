@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c52dfD0K3Nbz5-G1cDUe5QA4vl3BMSfNnZgd8FSX93iCsyHuJ765W9dbPdltvZGQAQa2_LMxHITRX3D1_j4I_MWZqEAruhhqpywIy0qNdlRl36M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5d53cec3d55e32d71XJ829S4ElQ~",
+      "encryptUserId": "284d1b5630c8857803J43dS9FFQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "14-28K",
+      "payTypeDesc": null,
+      "postDescription": "后端工程师\r\n[要求]\r\n-  熟练掌握Java/Ruby/Python/JavaScript/C#/C++等任意一种语言。\r\n-  对Spring框架熟悉更佳。\r\n[加分]\r\n- 对Docker、微服务、Restful有所了解。\r\n- 对单元测试、重构、敏捷开发、持续集成感兴趣或有所了解。\r\n- 有自己的技术博客或笔记。\r\n- Github上有作品，或者给开源项目提交过代码。",
+      "encryptAddressId": "07b5df7e131fbe2e1w~~",
+      "address": null,
+      "longitude": 0.0,
+      "latitude": 0.0,
+      "staticMapUrl": "",
+      "pcStaticMapUrl": "",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Kotlin",
+        "Java",
+        "docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180917/3cfd2884c0756781c97df583cabf857dcfee00698ba2052a0d6a30e648a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "黄油相机",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fc211048b3c88f000nJ70tm6",
+      "brandName": "黄油相机",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170328/7351b7c677cdc2b4b40d7d624504e7e84aaf5a408f571d4e02031bad262f1c32.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "北京缪客科技有限公司专注帮助手机拍照和摄影，旗下有黄油相机，Nichi日常，面包视频和KOLOR多款App。\n\n成立五年以来，黄油相机陆续发布了iOS、Android、Windows 10版本，进行了近百次的产品迭代，获得了包括App Store年度精选、豌豆荚设计奖、小米金米奖等奖项，更重要的是，获得了数千万用户的喜爱。同时公司也获得了包括德迅投资、红杉资本、九合创投、IVP在内的多家机构的投资。Nichi日常，面包视频和KOLOR也都在iOS多个国家获得过iOS平台推荐。\n\n公司一直维持着一个相对较小的技术团队：iOS、Android、Windows 10三大平台，十几个人的技术团队，上百台服务器，维护着数亿张图片，服务着数千万用户，处理着数十亿次的服务请求。黄油相机积累的大量用户创作的优质模板，也成为宝贵的数据资源，帮助我们在利用人工智能技术帮助用户更简单、更好的处理图片这个问题上做得更好。\n\n其他福利： \n● 宽松的工作时间，目前不强制打卡。 \n● 舒适的工作环境，无限零食，无限饮料，中午管饭。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "包吃",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721714982944,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "黄油相机",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

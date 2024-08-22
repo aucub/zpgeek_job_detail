@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1DzMvUdDToLVr-51zJMsxs9lP_pQ7rc7vCp8n39nV1E1kRmiywpqiyKvOVJkXafL3S15h3yOffTCuAPm9Pd7zXDQ0V8BO_PtyAvgvyRI-OZf4s7aaZZ3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c02eeb58bdbace51HV729-5EFtQ",
+      "encryptUserId": "07d63f3ac9037f6b0nF909y0GFBZ",
+      "invalidStatus": false,
+      "jobName": "高性能算子研发工程师",
+      "position": 101302,
+      "positionName": "深度学习",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "承担以深度学习训练/推理框架为主的算子研发及性能优化工作，支撑大模型高效训练和推理。\n任职要求：\n1.熟练使用C++编写算子\n2.熟悉CUDA/OpenCL/OpenMP等并行编程模式，有异构计算优化经验者优先；\n3.至少了解一种深度学习框架的使用，熟悉经典深度学习模型结构下算子的计算模式和实现；\n以下为加分项：\n•具备AI芯片、算子、AI框架开发、调试经验者优先；\n•有高性能加速库的使用经验，如熟悉BLAS/CUDNN/MKL等加速库者优先；\n•有深度学习框架Tensorflow，PyTorch，Mxnet，PaddlePaddle，Caffe等开发或优化经验者优先；\n•了解MLPerf或有相关优化经验者优先。\n\n薪资面议",
+      "encryptAddressId": "6555298b97d1ae813nB50tq8GFI~",
+      "address": "北京海淀区科大天工大厦A座1",
+      "longitude": 116.355605,
+      "latitude": 39.988123,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f20977d1a3a2c695a0b986a19e25827",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/323ad0e51c79aa7977c45200891ef0e0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "cuda"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "太初",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "269f27f0702333291nd-0961GFQ~",
+      "brandName": "太初",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210801/c437e299ccd8e79dd753dc5b12add178e323dd4f99b46d749a9e87fcb3653528.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "太初（无锡）电子科技有限公司，自2019年成立以来，始终坚持以“铸造中国算力基石，构建未来智能世界”为使命，立足于高性能计算产业核心基座，布局自主可控、通用开放、性能完善的先进智能计算生态。面向政府和企业用户，建设高性能、高能效、高可靠的智能算力系统，深度定制HPC+AI关键领域解决方案，覆盖软硬件研发、算力系统设计和集成等智算中心建设全流程。\n太初官网：www.tecorigin.com\n太初官方公众号：太初元碁Tecorigin\n招聘公众号：碁客行\n\n太初元碁Tecorigin初始团队约40余人，经过三年多迅速发展，目前，在职员工总数达500余人，研发人员占比超80%，其中硕博学历占比超65%，研发投入占比超50%，拥有无锡、北京、上海、南京4大研发中心，以及盐城系统集成中心。通过建立完善高效的研发管理体系，推动技术创新要素聚集沉淀，持续吸引及培养顶尖人才，共同塑造未来，实现更高科研价值、促进更深产业融合、开拓更多未来可能。\n\n核心优势如下：\n一、硬件架构：基于异构众核的技术架构打造产品，具备更高通用性，天然适配HPC+AI，带来快速、准确的性能表现，助力加速探索实践。针对高性能计算和人工智能工作负载，实现超高速度和智能化大规模数据吞吐量。\n\n二、软件生态：围绕通用国产异构众核处理器，以开放思路，构建完整的软件生态和应用平台。包括编译器、操作系统、驱动运行时软件、计算加速库、通信库、训练框架、推理框架、模型库、AI开发者平台、算法生态中心等。\n以通用计算能力为基础，打造灵活高效的软件开发环境。编程模型经过数十年沉淀、数百项百万核心规模以上应用的打磨，覆盖20多个高性能计算领域，软件生态具备对千万核心规模应用可扩展性的支撑能力。\n以高效的片上张量计算能力为核心，面向人工智能领域，重点解决AI训练、推理等计算需求。\n\n三、算力系统：作为能够提供HPC+AI智算系统解决方案的引领者，曾在大型智算中心建设上积累深厚经验。包括水冷系统、电源系统、机房建设等方面，并基于多项国家示范级项目的顶层调优经验，在大模型训练性能、总拥有成本优化、系统效率优化、灵活部署及节能减碳方面均有充足的过往项目经验支撑。基于自研的高密液冷智算节点、200G高速无损互联技术、冷热分级存储与分布式缓存技术、以及千卡规模算力调度系统，从计算、存储、网络、调度等全方位优化大模型应用，实现了业界领先的AI计算性能、计算密度、性能成本比、性能功耗比、系统扩展性。\n\n公司使命：铸造中国算力基石，构建未来智能世界\n公司愿景：成为全球领先的智能计算解决方案提供商",
+      "labels": [
+        "六险一金",
+        "交通补助",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "夜班补助",
+        "企业年金",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险"
+      ],
+      "activeTime": 1724297952139,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "太初",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

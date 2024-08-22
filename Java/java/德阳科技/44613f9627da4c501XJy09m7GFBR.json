@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "R9ZZ3FHHNxRVV-410Po6rZVFYJrlRqHXI1W5OLuk272SOPid2oJkTfzpdu9tflQp4VnIKkTN3icUca9UxwHjBjQ5PeniFDPGrQsOjsp6lczTYATzzQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "44613f9627da4c501XJy09m7GFBR",
+      "encryptUserId": "1869085bc5593dcf0X172Ny_EQ~~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1、全日制统招本科及以上学历、计算机相关专业，2年及以上相关开发经验；\n2、熟悉主流开源框架，能深入了解原理和机制，如Spring、SpringBoot、SpringMvc、Mybatis等，有分布式研发、大型项目优先考虑；\n3、JAVA基础扎实，了解虚拟机原理，熟悉常用设计模式，有良好的编码及程序设计能力，熟悉分布式、缓存、消息等机制；\n4、熟悉数据库设计，熟练掌握SQL语言，有MySQL常用性能优化技巧；\n5、具备良好的业务建模能力，能够对业务逻辑进行合理的抽象和分析；\n6、有良好的沟通能力和团队合作精神，有较强的执行力，能够承受工作压力；\n7、专业技能优异的，工作年限可以放宽。\n8、熟练使用vue,miniui前端框架优先\n9、熟悉welink小程序开发\n10、有 OA 开发经验，做过工作流开发优先！！",
+      "encryptAddressId": "ac927468e29612af0HB929q7E1M~",
+      "address": "南京鼓楼区南京德阳科技有限公司301",
+      "longitude": 118.801545,
+      "latitude": 32.11092,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/be13edb9df8cf18825c619d5dcbae542",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c4943c0b71bc2772ac3cf2e80d00f1a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MyBatis",
+        "Redis",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验",
+        "OA开发经验",
+        "工作流开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240311/607f1f3d68754fd0ec17c41870fe5acdfe23cc96243685d6f767f798c2e31c5ff4a3e839a5a6035_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "德阳科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "23319bc8a3daf3ac1nd709u8FVI~",
+      "brandName": "德阳科技",
+      "logo": "https://c-res.zhipin.com/jrs/7_2bc366ed81b6a4e7de9ac1ce82b9c8bc.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司主要从事试验室管理系统软件和检测仪器的开发生产。目前公司约三十人，正处于快速发展阶段。公司是国家高新技术企业和软件企业。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "包吃",
+        "节日福利"
+      ],
+      "activeTime": 1721745262827,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "德阳科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

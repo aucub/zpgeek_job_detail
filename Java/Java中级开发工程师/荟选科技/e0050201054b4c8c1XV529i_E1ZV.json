@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "n1uyaM4IvZFDf-_1U05_J_ZHxi-sdm23MzKWPqRew-BXncZEYOC-l24Ntlg1seovTrTVgXDjpNMZ-WfVZ5EfpKlOQMr2Q7f2s1rSS7pq-67Ir4xNKE4V",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e0050201054b4c8c1XV529i_E1ZV",
+      "encryptUserId": "94babd5c7e1f52200nZy09m1GFNV",
+      "invalidStatus": false,
+      "jobName": "Java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.\t参与或独立负责公司业务系统架构设计、技术预研、功能模块开发，技术文档编写、成果评审和单元测试；\n2.\t参与或负责公司信息系统运行维护，系统bug问题处理，系统数据问题分析与解决；\n3.\t配合相关部门技术支持服务；\n\n职位要求：\n1.\t本科或本科以上学历，计算机、数学、软件工程以及电子自动化等相关的工科专业；\n2.\t三年或以上一线软件工程项目开发，熟悉主流系统架构，至少两年以上Java工程项目开发；\n3.\t精通Java、Javascript、SQL、中间件（如：memcache、redis、MQ等）和设计模式，熟悉Python、Php更佳；\n4.\t精通微服务技术，精通Springcloud、Springboot以及Springmvc架构，熟悉Docker/K8S技术优先考虑；\n5.\t至少精通一种数据库（如：MySQL，ORACLE），熟练操作和管理数据库；\n6.\t熟悉MongDB、EleasticSearch等NoSQL的开发与管理，熟悉大数据或数据仓库技术优先考虑；\n7.\t熟悉软件工程理论，具备独立设计中型信息系统的能力，能够快速定位程序运行过程中发生的问题并提出解决方案；\n8.\t熟悉数据结构设计、单元测试流程，至少在一个项目中有过独立技术设计的经历；\n9.\t熟悉Linux操作系统、熟悉Shell编程、熟悉主流工程管理系统或插件（如：Maven、Git）；\n10.\t为人诚实正直、态度端正、执着、认真负责、自学能力强以及较强的团队意识；",
+      "encryptAddressId": "dd626368aeb2b6e40nR83d67FVs~",
+      "address": "广州荔湾区荔胜广场南塔2602",
+      "longitude": 113.233077,
+      "latitude": 23.078662,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a656fb830f7fc3a7a612cfcc025a891c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cc76b854fd706a4654d8d2e4e75f2b16",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "微服务架构",
+        "MVC开发",
+        "容器技术",
+        "数据结构",
+        "中级软件工程师",
+        "后端开发",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "秦先生",
+      "title": "coo",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "荟选科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "58732b9f301b7b7d1XR_2967GVo~",
+      "brandName": "荟选科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220220/7b5b554d84f9729c22ee26d4514e6851c2778f3005919ac731afcc44e79d4077495f55dcc0db88bb.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "荟选福利通过强大的供应链资源和智能定制线上平台，为政府、企事业单位提供线上和线下全方位的员工福利产品（电影、生日、年节礼包、活动定制等）和贴心的员工生活服务，助力各级工会工作创新，担当新时代赋予工会组织的新使命。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1721727296122,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "荟选科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gaT0GNZfc4eJJ-m1FCtUQReoJmDos_IfmirftbB508yLe-Cmk5_577SViNFJdY7fvZp2Dh0Dzk_EqH7FlSDukz92BOaMcMAE9rhNmzFhJZnCOpe2tZI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38f8ce81b639e4191HV80ti1ElJZ",
+      "encryptUserId": "b3c839e1b7e34c801XJz3tm_GFQ~",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-20K",
+      "payTypeDesc": null,
+      "postDescription": "[岗位要求]\n1.至少5年以上vue+java开发经验（总计）\n2.参与公司各系列产品的前后端开发；\n3.参与公司各内部系统的前后端开发；\n4.参与前后端功能设计和技术选型，与设计团队和组内同事密切合作，推动产品的不断创新和优化；\n5.跟踪前后端技术动态，持续改进和优化产品的前后端架构和技术栈。\n\n\n[技术要求-前端]\n1.熟练掌握 JavaScript语法特性；\n2.熟练掌握 Vue、vue-router、vuex、Vue3、Pinia、Axios、ECharts以及相关技术栈，有实际项目应用经验；\n3.熟练掌握 ElementUI、Element-plus、webpack 等相关框架和工具；\n4.熟练掌握 es6、scss、less等语法特性；\n5.具有良好的抽象设计能力，思路清晰，善于分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力；\n6.有移动端及APP原生开发经验优先考虑；\n\n[技术要求-后端]\n1.熟练使用Java相关技术和框架，包括但不限于SSH、MyBatis、JPA、SpringBoot、SpringCloud等；\n2.扎实的java基础，熟悉敏捷开发，良好的面向对象思维，熟悉IO、多线程、集合等基础框架，深入理解JVM原理；\n3.熟悉rabbitmq、Redis、rocketmq、kafka、定时任务等常用中间件中的其中两种，熟悉常用设计模式；\n4.熟练掌握MySQL，熟悉数据常用的性能调优配置；\n5.具有良好的抽象设计能力，思路清晰，善于分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力；\n6.对实际业务需求有较高的理解和吸收能力，能耐心研究复杂的业务逻辑；\n7.熟练linux环境部署、熟悉nginx、tomcat、apache等常见服务器配置；",
+      "encryptAddressId": "49a9ac612561b1e81XN83du4FA~~",
+      "address": "上海浦东新区金桥出口加工区20号5号楼701",
+      "longitude": 121.597908,
+      "latitude": 31.246579,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4a48192705f7bef79138d13f184910a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f43c9c4f3e6a5993eb3af828a5ee47a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "ElementUI"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "飞鼎智造",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "15d9f62183d9fc141nJ-09S1FVQ~",
+      "brandName": "飞鼎智造",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210518/352a7823dd01957a611a1508e8113b2df4f34c883bc283b20adfb72214b62644.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100401,
+      "industryName": "生物/制药",
+      "introduce": "飞鼎智造（FITTINN）专业从事生物反应器及相应自控系统的开发和制造，全系产品广泛应用于疫苗、抗体、细胞治疗等生物制药行业。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1721706538317,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "飞鼎智造",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

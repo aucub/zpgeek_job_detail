@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zvfioyZor5ZIC-e1JhkZEY-mmKNT5l4ZoKhA8WJ6C8JsDuPeWmZIq3mtvaOrmZWNgPJVao77BiLoCR23ZlEKnY3DW-OgXev8cKRhC6nix3u38urErN6b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2c3e6a67814035071XB-3NS6FFBZ",
+      "encryptUserId": "313400c27524874a0nV82dq5FVJS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、解答用户的技术问题，并提供技术支持；\n2、根据技术实施方案，配合项目经理开展项目开发实施工作；\n3、精通高可用集群架构，负责软件系统技术验证、服务巡检、故障处理；\n4、负责撰写实施文档、操作手册等项目相关文档；\n5、参与团队技术攻关，解决技术难题；\n任职要求：\n1、计算机、软件工程相关专业，本科及以上学历；\n2、具备2年以上工作经验，1年以上运维经验；\n3、熟悉linux系列操作系统，对操作系统的建设、运行、维护有一定的经验；\n4、熟练掌握mysql、oracle数据库和redis集群、mq相关技术，熟悉http/tcp协议等网络协议；\n5、具有shell/Python经验者优先；\n6、掌握java语言并具有开发经验；\n7、熟悉was、tomcat等容器者优先；\n8、具有良好的语言表达和沟通高能力；",
+      "encryptAddressId": "ce1bfe2e2e3705770X1829i8FVQ~",
+      "address": "北京西城区新动力金融科技中心1",
+      "longitude": 116.33965,
+      "latitude": 39.937641,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b22a636ce27ee635d63779672d5934a0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/032f269c2986f19fdf2c2dd23e75cad9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220909/607f1f3d68754fd010b96b98c4e3d7fb4043282f5976e3396c0593838bdb7a676778b5c5bb3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "旭联佳创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b6e47b2f69263ce01XV_2Ni0F1Y~",
+      "brandName": "旭联佳创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731029875,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旭联佳创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

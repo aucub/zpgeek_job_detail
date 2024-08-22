@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yjDI7pwp5Dw6S-h1Zq5rTi9AIA1sHsFHtMKHBJfMC-HTT9UTSeh4RIiRVWf_lv8fT7H9zloFoRDQpsbQik-wPamWOI3-IT2WFTaAaX8MqjRCOCs8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6efebea3174e122f0XF-3967E1c~",
+      "encryptUserId": "2bf829b6ee11a2441HN43t61FlA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "16-22K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1、熟练使用Java开发语言，热爱编程，具有良好的代码风格，能熟练使用设计模式;\n2、熟悉Springboot、MyBatis等应用框架，熟悉缓存、消息、数据一致和系统调优等；熟悉redis，kafka等中间件的应用开发；\n3、熟悉任意一种应用服务器的配置和管理，如：\nTomcat;\n4、熟悉任意一种关系型数据库，如MySQL/\nPostgreSQL/Oracle等；\n5、熟悉敏捷开发、DevOps开发过程，对GIT、JIRA、JEKINS等工具熟练使用。",
+      "encryptAddressId": "b090594640c0611b1XN-0925FFM~",
+      "address": "北京朝阳区北京懋隆文化产业创意园B座",
+      "longitude": 116.581663,
+      "latitude": 39.922868,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/78dca4e9445398385e3c261dfabf2d95",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/237c95da0601fac02c63c2cf75138c22",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "路先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191212/2fecc9b92eaf6dc87d40e1b7c822b0ee0f81900239aac6bce93cb2d69a2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "河北大山紧固件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "496c6ae0f621e7fa0Xx80t64EA~~",
+      "brandName": "河北大山紧固件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724050566000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "河北大山紧固件",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xI-5nLLQl3qUd-31jnQCJFwrNb8X7W1tvGJ2bgxJUUqW_mYjLY6ICZAZSOkXgMYlYzw1SEN16-oMw4SFAWvYl2PUWdjqyRH0fPyH5zMcYnxV5fQGBB0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ce5911cd42cb73781Hdz3tW5E1RT",
+      "encryptUserId": "615c9e6333de45041nR_3926F1RR",
+      "invalidStatus": false,
+      "jobName": "后端JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、根据开发进度和任务分配，完成相应模块软件的设计、开发、编程任务；\n2、进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n3、负责所开发模块的bug修改和日常维护、升级；\n4、使用jasperreport完成报表开发。\n任职要求：\n1、具备处理复杂逻辑的能力，具备良好的沟通和协调能力；\n2、统招全日制本科及以上学历，3年以上Java开发工作经验；\n3、熟练掌握面向对象分析设计，熟悉设计模式；\n4、精通微服务架构，精通Spring Cloud、Spring Boot、MyBatis、Maven等开源框架或工具；\n5、熟悉数据应用和设计，熟练使用主流数据库（MySql、ORACLE）；\n6、熟悉缓存、分布式技术、消息中间件；\n7、有报表经验的优先，有ERP经验优先。",
+      "encryptAddressId": "cea1bfc288b4ea560X1_2Ny_GVc~",
+      "address": "苏州吴中区建研院建研院",
+      "longitude": 120.541707,
+      "latitude": 31.195413,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9fed14213a625bade5c47967a140a36b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a10309514b330683245211a0f217594e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "jasperreport",
+        "itext",
+        "报表模板开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "常女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200421/eb20f7b8ed996e55e46a41a25d26a4d5d4abed5ad66b636d43b3fb34f01_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "苏州市检测中心",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "33540cb2b078ca590H1929W7Fg~~",
+      "brandName": "苏州市检测中心",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100606,
+      "industryName": "检测/认证",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721745402139,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州市检测中心",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

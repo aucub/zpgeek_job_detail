@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tyzUYGPiza8rk-j1820WC5TZbjniRM3gYBlVxkaWCfU7BZaNNy9df-6IsHynJcOM2aYkfLzb42PQh3KNzijuI2rY2evZxjF_p0shfcmIEcgRjbUrqUY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7555a5eb7d24babe1nFz39y5ElBU",
+      "encryptUserId": "58309d98850989471nR829S-GVZW",
+      "invalidStatus": false,
+      "jobName": "java开发 自研/双休/互联网金融",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "JAVA开发工程师\n工作职责：\n1、参与项目的需求分析、设计、开发及上线，及时解决项目中的技术难点\n2、负责项目的编码，完成团队分配的开发计划，保证开发进度和质量\n3、解决潜在系统技术风险，保证系统的安全、稳定、快速运行\n\n任职要求：\n1. 计算机软件专业毕业，专科及以上学历，学信网或民教网可查学历\n2、使用Java开发的经验，扎实的JAVA功底以及面向对象设计开发，有良好的编码规范\n3. 有扎实的Java编程基础及良好的编码习惯，对oop有较深的理解\n4. 具备良好的逻辑思维，思路清晰，善于思考，能独立分析和解决问题\n5. 熟悉SpringMVC、SpringCloud、SpringBoot、Nacos等技术，熟悉微服务架构，对前沿知识有强烈的学习欲望\n6、熟悉MySQL数据库，对SQL性能优化有自己的实践经验，熟悉Redis或者其他缓存数据库\n7、会使用Maven、SVN、Git、idea、eclipse等版本管理及系统构建工具；\n8、熟悉Linux常用命令，能独立在上面进行开发，测试和部署 \n9、要有良好的团队合作意识及较强的执行力，拒绝特立独行\n10、有相关金融支付行业或有leader经验优先考虑",
+      "encryptAddressId": "2fd9c94996463dfa1nN-3Nu8Eg~~",
+      "address": "深圳龙岗区天安云谷地铁岗头站C1出口天安云谷1期3栋",
+      "longitude": 114.068154,
+      "latitude": 22.660299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a18b2d61eda548bfd55d3c73caa1e88",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd7760dbbf06d3aa4ffad6f24523a1b8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "微服务架构",
+        "MVC开发",
+        "Spring",
+        "SpringBoot",
+        "MySQL",
+        "Linux",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "种子通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c7f72e72d64fdac633R539S_Eg~~",
+      "brandName": "种子通",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210622/5b0f2d865733b18ca3b19b2e60eec735c39ae753fb2f1fd0f912695accea3989.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721716635604,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "种子通",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

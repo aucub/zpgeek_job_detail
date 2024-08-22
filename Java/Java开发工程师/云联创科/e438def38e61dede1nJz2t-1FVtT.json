@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M1BfUgNYUXx0x-I1OyYAi2WSP7EWk8cFVIoIpSvBe4ZyEZqQ-ZwJjE514cohBvOrVvtpElxUr6zmNoGd3C6sQpj1Xmq428rvHgy6q1feZzjQOCxQvSA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e438def38e61dede1nJz2t-1FVtT",
+      "encryptUserId": "254b56f7fbfdb6760XZ83d60F1Q~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.参与软件产品的需求分析、功能设计、技术方案制定；\n2.根据计划任务安排，能独立完成产品后端部分的模块设计、单元测试、编码和调试工作；\n3.配合测试人员完成系统测试工作，并完成BUG的修正，并确保产品的质量；\n4.参与项目相关的各项评审工作；\n5.根据公司规范，完成产品文档的编写及完善；\n6.配合运维进行项目的部署和升级。\n任职要求\n1、全日制统招本科及以上学历，软件、计算机、通信、电子等相关专业；\n2、3年以上JAVA开发经验，2年以上Spring Cloud微服务开发经验，熟悉数据结构和算法加分；\n3、熟练掌握面向对象的系统分析和设计能力，熟悉设计模式；\n4、熟悉基于JavaEE的系统设计与开发，熟练使用Spring、SpringBoot、Mybatis、Spring Cloud、Spring Cloud Alibaba等开发框架和技术；\n5、能够使用常见的开发工具，如eclipse、IntelliJ IDEA，以及Git、maven、Docker、Jenkins等构建和管理工具;\n6、熟悉Redis缓存，熟悉一种常用的消息队列如Kafka、RocketMQ、RabbitMQ等；\n7、熟练掌握SQL数据库，有数据库索引优化和性能调优先。\n8、会前端开发（小程序）者优先。",
+      "encryptAddressId": "6ee09dd443e4271e3nJ83t-5GQ~~",
+      "address": "成都双流区蓝光·空港国际城1期1-401",
+      "longitude": 104.008769,
+      "latitude": 30.569295,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/335d765f556f02342a1af563bd537788",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/35d3c52b937f0917abc70cd3a456f904",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "微服务架构",
+        "数据结构",
+        "消息队列",
+        "容器技术",
+        "Spring",
+        "Redis",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240729/607f1f3d68754fd07157a5929f963250d0dbab77d927eb5586f9e4f48ac6022582d1b605e95bb79_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云联创科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c7249cf9dda1570e1nZ_2dW5E1s~",
+      "brandName": "云联创科",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721679086133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云联创科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

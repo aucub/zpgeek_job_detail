@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AzZQdvERD6nuf-51AXkkRZ2feITqUpmxNxDzOPXgseGnPYwJXb1__ffPQ1WpAJLFnzLFhwv0LMzAikbkZDuZuQOA9K4HybsFWFvjPSn8fSgK0iEsV0uCsGSLzeovxgBqCqe3Ge2pNzScwBCs9dH6Iw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "edb0c85728fb18d71Xx42N24FFJX",
+      "encryptUserId": "7d7d8084ef3392fb1nZ739-1FlI~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1、负责开发公司产品后台接口；\n2、按照要求完成功能模块的设计、编码工作；\n3、负责开发环境数据库的维护工作；\n岗位要求：\n1，1-3年Java开发经验，精通Java语言、TCP/IP网络、Socket通信；\n2，熟练掌握Spring、Spring MVC、MyBatis、Spring Boot主流框架；\n3，熟练掌握redis、mysql、xxl-job, zookeeper 等中间件，并具有一定SQL优化能力；\n4，具有分布式系统开发经验，比如Dubbo、Spring Cloud等分布式框架；\n6，使用过Docker、Clickhouse以及一些NewSQL数据库者优先\n7, 对设计模式有自我的理解者并且在项目中使用者优先",
+      "encryptAddressId": "4a066442d985bcb90H190t2-F1s~",
+      "address": "武汉江夏区当代中心1",
+      "longitude": 114.419767,
+      "latitude": 30.460337,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6feeaf46acd58c3d4f458df029f0d29f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f0cbbf71d7fa5393c5c2389eec2289f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Spring",
+        "Redis",
+        "MySQL",
+        "Java开发经验",
+        "计算机/软件工程相关经验",
+        "大数据处理经验",
+        "B端产品",
+        "安全产品",
+        "Docker"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200914/5d6844550a2c6884285a1e0fc7d7796ddf0f884efe36e454db0bbe7e296_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "云科安信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "629f5d9f1c2652171Xx42t26Fg~~",
+      "brandName": "云科安信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190103/d67589d57d3fdb721ec83a0852fe5491b417d4be1b5081f95fdacd70a5aaa312.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京云科安信技术有限公司成立于2011年，是一家专注于安全领域的技术公司，总部设立在北京，在深圳、广州、上海、武汉分别设有分公司。\n        2014年公司开始关注软件定义安全的理念，结合自身对安全领域的经验，学习并深入研究国外先进的防御思路，依托自主研发力量，最终结合“可编程、虚拟化、DOCKER”等技术实现了产品落地。公司秉承持续更新安全防御技术的宗旨，陆续形成了覆盖L2-L7层的可编程动态防御平台、针对撞库攻击和薅羊毛攻击等场景化的防御方案、基于DOCKER技术的远程浏览器隔离等一系列特色安全产品。\n        在攻击场景和攻击技术日新月异的今天，无论是传统物理环境亦或是虚拟环境，无论是提供完整解决方案亦或是SAAS安全服务，云科安信为中国企业级客户持续输送最新的安全防御技术，助力中国客户轻松应对多变复杂的安全挑战。",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724314966464,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云科安信",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

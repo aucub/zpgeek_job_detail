@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tUacFYBUUCDYz-91A5pcDQ2GLGxUvjwhruE3gDJlDr_o1E29gBifVWnwGcuT9zBsqM1FwZf8rtmWWXBHaoCS4El3kdau9wiZKRe7e2jOAjMEjkEz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b7f0abd1965225ed1Xdy2dW-FlVT",
+      "encryptUserId": "4e8ca18ea8af7a601Hx83t20GVo~",
+      "invalidStatus": false,
+      "jobName": "C++软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "22-30K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n\n1、参与公司量化交易系统、行情系统、回测平台的开发、优化与维护工作；\n2、协助策略研究员对量化策略进行实现和优化；\n3、持续优化公司相关系统的基础架构、通信、存储等模块；\n\n任职要求：\n1、计算机、电子、自动化专业，美国Top30、QS100, 国内985、211院校本科及以上优先；\n2、精通至少一种编程语言（C++、C#、Java、Golang、rust），具有2年及以上开发经验（优秀应届毕业生可放宽），有较高的技术素养。熟练掌握至少一种其他编程语言；\n3、对分布式、微服务等系统架构理念有一定的理解，并有实际的分布式系统开发经验，熟悉相关分布式系统开发框架，例如：tars、brpc、grpc等；\n4、 熟练使用主流数据库，并具有一定的数据库相关知识。例如：MySQL、Redis、MemCahced等；\n5、对高性能计算、低延迟通讯有一定的了解，例如：ZeroMQ、共享内存、无锁队列等；\n6、工作积极主动，责任心强，具有保密意识，有出色的沟通能力和团队合作精神；",
+      "encryptAddressId": "396e92a42ac93bcf1XR-2dy-GFo~",
+      "address": "北京朝阳区远策中心C17",
+      "longitude": 116.522574,
+      "latitude": 39.930333,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/087d4a5efa5b94dfe8240fbe11e648c0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/911e767c7418dc31b67e4a14526dcc41",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Java",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "ed",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "君理资本",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8d678327844f0b660XN60925",
+      "brandName": "君理资本",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200220/43b6402d2c0106272b346d911f78a610a27b1eb4d352f7258455b13212dac40c_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100204,
+      "industryName": "基金",
+      "introduce": "君理资本是一家专注金融科技和大消费的精品投行，主营业务覆盖境内外一、二级市场，且拥有多张金融牌照，成功操作过境内外多项资本运作项目。公司的核心力量来自摩根斯坦利（纽约）、雷曼、麦肯锡、巴克莱银行，以及国内多家全国制商业银行和大型券商。现任管理合伙人和合伙人亦曾在国内外上市公司担任CEO或执行董事，具有丰富的管理经验。基于一流的团队配置以及对于境内外业务的充分了解，成功主导多个上市公司重组及不良资产处置项目。\n君理现分为香港和北京两个团队，现在招聘中的北京团队规模20人左右，分为一级、二级和综合后台。一级业务以投行FA业务为主，二级业务以私募权益和固收类投资为主（私募基金牌照，基金协会会员、投顾资格）。\n\n更多信息请关注“君理资本”微信公众号。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶",
+        "员工聚餐"
+      ],
+      "activeTime": 1721721457421,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "君理资本",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

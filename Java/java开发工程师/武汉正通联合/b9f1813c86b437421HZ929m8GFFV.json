@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kqhIDhuoWyIHX-B1rx3VfS4v5Q-JvopysmDmzx2ehveAH6qAgMHVINKU1v40ykDqoqmuJTgZS3AcE_A_LB14Il9w1rAvpyZA6KVbTHOIGXoUB2Kuoj82",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b9f1813c86b437421HZ929m8GFFV",
+      "encryptUserId": "035676ea0efb474b0XZz39u-FFtT",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "14-24K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1.参与需求设计和需求评审;\n2.负责业务系统相关模块优化需求的开发设计;\n3.负责业务系统日常运维;\n4.按时完成部门内部分配的其他任务;\n5.配合项目管理要求完成内部分配的任务。\n任职资格：\n1.学历要求:计算机相关专业本科及以上学历 \n2.岗位技能要求: \n专业技能: \n（1）熟悉Java语言，具有良好的编码风格与编码技巧和独立研究能力;\n（2）熟悉SpringBoot、SpringCloud、SpringMVC、Mybatis等java常用开发框架; \n（3）熟悉MySql、Oracle、MongoDb等数据库，并具有较好的SQL编写及优化能力； \n（4）熟悉Redis、Rabbitmq、ELK等中间件技术使用; \n（5）熟悉并发编程，了解分布式、微服务等系统开发； \n（6）具备良好的理解力、表达力以及团队协作能力; \n3.工作经验:有3年及以上Java服务端开发经验，有OA或企业微信开发经验者优先，有大规模、高吞吐量的分布式系统开发实践经验优先。",
+      "encryptAddressId": "040ac8686d42bf381nB93Ny-ElVR",
+      "address": "武汉江岸区武汉宝泽MINI4楼",
+      "longitude": 114.28024,
+      "latitude": 30.630526,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bf1c6b68a427742cd22bc353fc651e36bf6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230718/48ba41acc9cef1bfac5a548c30185ecca9aa6fe3e95dd0ac6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Kafka",
+        "SQL Server",
+        "Oracle",
+        "MySQL",
+        "不接受居家办公",
+        "微服务经验",
+        "云计算经验",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁女士",
+      "title": "组织发展经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "武汉正通联合",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9febce94db83e01e1HV53967EVU~",
+      "brandName": "武汉正通联合",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100501,
+      "industryName": "交通/运输",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721709151311,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉正通联合",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

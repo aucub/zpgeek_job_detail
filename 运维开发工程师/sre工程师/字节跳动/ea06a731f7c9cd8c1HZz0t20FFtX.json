@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "brriUz4uvFfvH-R1cplX6qGPWBdKk4EwL1T2jN8Mc6I7S5Guw9dQ8vaFkj7o1eHusJol0eaqBcTzAMnVzcWoQrbbBmXUGn9nK3wYeK_1Iuq9UVsfZS4jJlplbUWWVKTo5ZJma22RKw7tzRYGAMbekUs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ea06a731f7c9cd8c1HZz0t20FFtX",
+      "encryptUserId": "bf86a1ce75c96a9c1nZ-09y-E1JX",
+      "invalidStatus": false,
+      "jobName": "sre工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-50K",
+      "payTypeDesc": null,
+      "postDescription": "base北京/深圳/杭州\n【职位描述】\n1、保障大数据&在线计算多个核心系统的可靠性与正常运行，同时关注系统容量与稳定性；\n2、为大型系统构建自动化运营解决方案；与系统开发团队合作，从系统设计到上线的整个生命周期内保障系统可靠性；\n3、通过监控系统组件可用性、性能指标提升系统可见性，帮助系统开发以及团队快速定位故障；\n4、推动提升服务的可靠性、可扩展性以及性能优化，保障系统SLA；\n5、参与设计、实现能够保障线上大规模集群快速迭代的自动化平台；\n6、基于业务使用场景，深入优化提供最佳服务治理实践，包含不局限于关键链路性能瓶颈分析、业务问题定位排障、推进系统高可用架构改造升级等。\n【职位要求】\n1、本科以上学历, 计算机相关专业, 并有两年以上相关领域工作经验；\n2、扎实的计算机软件基础知识; 了解 Linux 操作系统、存储、网络 IO 等相关原理；\n3、熟悉一种或多种编程语言，例如 Python/Go/Java/Shell/Ansible；\n4、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感；\n5、具有相关计算/分布式/大数据等系统经验优先（Nginx/Kubernetes/Docker/OpenStack/Hadoop/Spark/Flink 等）；\n6、具有算法思维，良好的数据结构和系统设计的能力者优先。",
+      "encryptAddressId": "b03ee2e9ab78f7dc1HZ92tm5ElBWwIy7U_s~",
+      "address": "北京海淀区方恒时尚中心/",
+      "longitude": 116.340805,
+      "latitude": 39.968286,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf38c46afc44c9fab1df5ea24c240ee1c56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf679bac9ff35293a3193c3fa3cb07d4a16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "业务运维",
+        "大数据"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=7eda5da033a0a0ddjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95dn3x05Np5vYxpS1O0mb01Z-r3KZgH4ry4X2IvYwtUoX1cqKqnQXUbRbCxWEFtlYoaSl_lyqYLqw1OVYXl1XIlVnpB_CHYNZSkw8gjGrsI2uMMukCOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "字节跳动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f409f37f83a6135b0nV_2d25EA~~",
+      "brandName": "字节跳动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210323/aab1b65662224a865a9b6ba9aceaab02babfa420ecc134d2606b05aa8114130d.png",
+      "stage": 806,
+      "stageName": "D轮及以上",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "labels": [
+        "餐饮及下午茶",
+        "就近租房补贴",
+        "节日礼品",
+        "年度体检",
+        "免费健身设施",
+        "家庭关爱假",
+        "家属自选保险",
+        "住房补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "夜班补助",
+        "股票期权",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724313051926,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "字节跳动",
+      "customerBrandStageName": "D轮及以上"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

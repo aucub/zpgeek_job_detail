@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ngc5Y4J1BOE4V-U1sj66uuHJOHDboZe9R8d2jHp7qmuAzLDEWfNCwAStrhwxXv7FGPDkxJn5Ugrv2KYmVAA_7p8Y2cWSC9hZ_tomBwt2O3cLz6WfiPX6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f89e1906354c0ee81XJy2N26EFRT",
+      "encryptUserId": "c2c3a4cb909af6aa0nx70tq9EVBQ",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "17-23K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.负责 Linux 嵌入式产品的应用层编程与功能开发调试：根据产品需求，高质量主导相关模块的设计、开发、测试和维护工作，不断完善磁悬浮输送实时调度与控制系统；\n2.负责应用层框架设计、模块划分、接口定义、版本管理、编程规范等总体软件设计工作；\n3.负责持续优化软件效率，独立分析、评估并解决问题，对开发的软件模块执行集成测试，推动整个生命周期的代码审查，不断提升代码质量和模块稳定性；\n4.负责开发过程中的文档编写工作， 确保开发文档得到良好维护；\n5.与产品经理、其他开发测试人员一起，以创新思维为开发流程和产品改进做出贡献，提供技术解决方案并确保设计与当前架构保持一致\n岗位要求\n教育背景：计算机科学、电气工程、自动化、数学、机械工程或同等学历学位；\n1. 至少3年以上软件开发经验，至少1年以上工业自动化领域工作经验。曾作为核心Linux开发者成功交付至少1个项目并积累了大量实践经验；\n2. 精通Linux下C++编程，熟悉数据结构、设计模式及常用算法，具有良好的框架设计能力和编码风格，能够独立完成各功能模块设计及复杂应用场景的开发工作；\n3. 具有丰富的Linux系统应用层开发经验，熟悉Linux系统调度原理、开发与编译环境，精通多线程编程、进程间通信、文件I/O操作、脚本语言等；\n4. 精通常用现场总线协议开发或移植，例如 EtherCAT, Ethernet/IP, PROFINET，有丰富的总线协议栈开发经验；\n5. 至少精通一种实时操作系统环境，有xenomai，VxWorks开发移植经验者优先；\n6. 熟悉ARM/X86多核架构的多任务开发，丰富的实时性能设计和优化经验，如调度延迟、任务切换、中断延迟、抢占/解锁时间等；\n7. 熟悉Linux编译配置、python和shell脚本；\n8. 有机器人控制系统、数控系统软件开发或驱动开发经验者优先；\n9. 优秀的问题解决能力，良好的学习能力和团队合作精神；",
+      "encryptAddressId": "2a711c58d4fd477a33Rz2ti6FVQ~",
+      "address": "武汉江夏区武汉鹤洋科技有限公司4楼",
+      "longitude": 114.4468,
+      "latitude": 30.414036,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91adfd2885cf72ccd2a5a5f718a5f3be",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d36cbd262a032842760f81c6431c132",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "ARM开发",
+        "Python",
+        "C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "葛女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "武汉鹤洋科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7e5cc93174d5d9601XF43du0FVE~",
+      "brandName": "武汉鹤洋科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "武汉鹤洋科技有限公司是一家致力于提供先进水面航行器自动驾驶解决方案与产品的高新技术企业，研发了航行器基于多传感器避障系统、水上航行器自动驾驶系统等，致力于在水上航行器自动驾驶、数据采集自动分析、水上救援、水上娱乐等领域开展研发，满足市场不同领域需求",
+      "labels": [],
+      "activeTime": 1724232017857,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉鹤洋科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Z7h0tx9vCFsrU--1LPPoyjSLcho3lWDZAAv4gNWktikbI0VT9i4lnSdtw4XcLCUIO_AWChybZwcpEjoCuVhnrBRq5bmkwraR0Cq5yKNNMFLHMtTXGjHz0W-CvfmExaNFwR10xlipfQCfXw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "547b6238ab1267e61HN-29y-F1FX",
+      "encryptUserId": "b50a6c619b7f4b0d031z09u-EVU~",
+      "invalidStatus": false,
+      "jobName": "中级软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的需求分析、概要设计和详细设计，撰写相关技术文档；\n2、依据项目开发计划，参与系统框架设计，负责代码实现；\n3、解决开发过程中的疑难技术问题，根据测试反馈修正和优化；\n4、具有良好的协调、沟通能力，能够根据需求制定相关技术解决方案。\n任职要求：\n1、计算机、软件等相关专业，1~3年开发工作经验\n2、熟练使用Eclipse，PLSQL等工具\n3、熟练使用JavaScript，JQuery，AJax进行前端开发，熟悉HTTP协议，\n4、有使用VUE、React、Angular等前端框架者优先\n5、熟悉BS架构机制，精通java语言，有Springboot、Mybatis等框架的相关开发经验\n6、熟练使用redis、rabbitMQ、mysql, docker 等中间件\n7、熟悉常用数据库，具备基本数据库知识，了解视图、索引等概念\n8、良好的沟通能力以及良好的编程习惯，能够遵守文档需求进行开发\n9、有工业软件项目如MES/WMS及设备数据采集经验优先考虑\n10、能接受短期出差，积极主动优先",
+      "encryptAddressId": "384a2ae1514b45681nRz0tq6EldQx4m_VPmX",
+      "address": "上海长宁区嘉利大厦(延安西路)7c",
+      "longitude": 121.427928,
+      "latitude": 31.2097,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230426/48ba41acc9cef1bf1faf6edc3c0208a9f0be4cf61e5c69086bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf48d0004eaa2ce620c5d7e2cb9819e5236bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MES开发经验",
+        "Java",
+        "物联网经验",
+        "不接受居家办公",
+        "Docker",
+        "MySQL",
+        "MyBatis",
+        "Spring",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "业务总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231127/607f1f3d68754fd0d4d626ff3435a936c404a674eec4f657cc7fdc0a96643d17bef57384097bcfd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "爱马斯智能装备股份",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1909d7fdb74f2f4a1HJ429y_ElI~",
+      "brandName": "爱马斯智能装备股份",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240726/7b5b554d84f9729c7257008076eb470b58a0b2bd4b028556cc7fdc0a96643d17bef57384097bcfd3.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100914,
+      "industryName": "自动化设备",
+      "introduce": "坚持不懈 积极进取 脚踏实地",
+      "labels": [
+        "交通补助",
+        "餐补",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1724296919085,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱马斯智能装备股份",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

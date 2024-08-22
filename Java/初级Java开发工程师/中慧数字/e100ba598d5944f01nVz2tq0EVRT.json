@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9lmcuOZXA4TCl-01MMuv-FJHsKrtIAJCBUAptdwGeM08KHkRz0PtbD_gCyyV5j-vxHvnhYhLDYAXwqkGSbUytYNwPAL1YNRO-hMIWuZIH34GGIMJiqdA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e100ba598d5944f01nVz2tq0EVRT",
+      "encryptUserId": "5cd3b725e566ad2e0nV43ti4FlpQ",
+      "invalidStatus": false,
+      "jobName": "初级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-26K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、 参与产品开发和交付；\n2、 按照产品功能设计及技术设计，完成交办模块的独立开发，单元测试；\n3、 按照业务流程，完成模块间的对接联调；\n4、按照领导工作安排，参与产品测试工作；\n5、依据工作需要协助并参与客户现场产品实施工作。\n任职要求：\n1、计算机相关专业大专以上学历，二年以上软件研发经验；\n2、了解nginx、tomcat等中间件，了解linux\\windows系统上的安装部署及配置；\n3、掌握Spring MVC、dubbo、Spring boot、spring cloud、MyBatis等开源框架，能够熟练应用相关API。 \n4、掌握数据库技术，熟练使用MySql数据库，了解Oracle/PostgreSql两种数据库；\n5、有activiti流程引擎开发经验者优先；\n6、有Redis、mq、zookeeper应用经验者优先；\n7、具备良好的沟通协调能力及团队合作精神，责任心强，有较强的抗压能力，乐与公司共同成长。",
+      "encryptAddressId": "1694bff2d5d6368f1H153N-1F1Y~",
+      "address": "北京朝阳区象上汇酒店2F",
+      "longitude": 116.523479,
+      "latitude": 39.902899,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/524a7e49f6587545e8b09ab1277d5479",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/879136f14b464440bf2b87fecaf4c7f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "Spring",
+        "后端开发",
+        "软件工程师",
+        "大数据",
+        "物联网",
+        "ERP",
+        "管理系统"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "中慧数字",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "05a7ac2d6660d6731nd82Nm-ElI~",
+      "brandName": "中慧数字",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211025/7bf6f160950405e926ec681b1eeb9bec3f68739006a65f1b9e4556661465034cdb8ea23bef80db4b.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中慧数字科技（天津）有限公司（以下简称“中慧科技”，英文简称“CID”），是一家专注环保数字化端到端解决方案的高科技企业，公司致力成为卓越的环保数字化专家。\n中慧科技核心业务涵盖智慧危废、智慧医废、再生资源、智慧工厂等领域，拥有工业废物产生与处置、医疗废物产生与处置、再生资源回收与利用等环保领域数字化解决方案和专利产品。\n中慧科技崇尚技术为根、服务为本，期望通过专业的技术和精心的服务，为环保行业提供产业链全过程管理与追溯、大数据分析与决策支持，助力环保行业数字化经营、产能提升和产业机构优化。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "通讯补贴",
+        "包吃",
+        "节日福利",
+        "学历补贴",
+        "司龄津贴",
+        "带薪病假"
+      ],
+      "activeTime": 1723274282000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中慧数字",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

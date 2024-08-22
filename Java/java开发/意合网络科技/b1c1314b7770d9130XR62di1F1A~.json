@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "He5azuccQEUr8-B1UsO8FHuWTlaJLXCmZ2yA1Qhr4bFwALkltuRLOkeqZm_pSy7CzVAnDVDMLjpcYDDPrXNX0FmmV6JitQ0w9KDGznmpgfb4nhfZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b1c1314b7770d9130XR62di1F1A~",
+      "encryptUserId": "ce561f8553fead070H1539S9F1c~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1、负责公司app相关需求后端的设计、开发、维护；\r\n2、负责系统的架构设计、性能优化、代码编写等工作；\r\n3、负责数据库的设计和优化；\r\n4、跟踪并修正系统测试过程发现或回归的bug，保障系统达到质量要求。\r\n\r\n任职要求：\r\n1、本科及以上学历，计算机软件或相关专业，2年以上J2EE项目开发经验；\r\n2、精通java,对spring、Spring MVC、MyBatis、Hibernate了解其原理和实现机制，具有spring cloud和dubbo等微服务相关框架开发经验优先；\r\n3、精通基于Mysql、Oracle等数据库的设计和开发、Linux操作系统和某种脚本语言编程（如Shell等），熟悉Redis、MongoDB等常用NoSQL解决方案、了解各自的优缺点以及使用场景者优先；\r\n4、了解分布式系统架构的基础理论和相关知识，有高并发处理相关经验；\r\n5、熟悉软件过程及良好的团队精神和沟通能力，独立完成常规开发任务，有独立项目开发经验优先考虑。",
+      "encryptAddressId": "c167dcaeee7068b31XJ-29S6FFE~",
+      "address": "深圳福田区皇冠科技园2栋十亩地",
+      "longitude": 114.022791,
+      "latitude": 22.533135,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/891fa3a0a13ad201116375c7e009c734",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b284f4ac48040026b2531c51870020ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "Spring",
+        "Hibernate",
+        "Dubbo",
+        "分布式技术",
+        "MVC开发",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191022/14f4f891a657d9936726c22bcba4b3f9cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "意合网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "373714a5e55093360Xd629W9EA~~",
+      "brandName": "意合网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191029/119a0d32accdf66af5b091030c3093195fe4240ddaee11b02e18daaf63f802c9_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市意合网络科技有限公司是一家集互联网产品研发、运营及服务于一体的新锐网络科技公司。公司全力布局航空互联网领域，努力与全球知名航空通讯公司、航空公司及互联网内容提供商合作，开展机上Wi-Fi的终端连接及机上在线生活综合服务的相关互联网产品研发，以期通过全新的产品创新理念，使乘客能够在空中使用手机等电子设备时可以通过相应APP顺畅连接到互联网，拥有丰富多彩的空中体验。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721716202950,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "意合网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

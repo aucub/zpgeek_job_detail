@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ub9CF0YnCimxj-h1BYSDrLYbwYYrWByW9JHh_OpwL_JKqxYFfUsjNl7MiTKMc0AL5wdLn2AbF4lGxThiunS3e0KM5TTwbjF1pTcq_CYHe7NDT0y4nIDxOzAxdynJX-sPQVWinqxCZHwUxvhKx8KeBPDF4LisCRNsMdSCGRIvJwwLOWSMCfw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "caa7dee874d8c1021Hx62tu0FlZV",
+      "encryptUserId": "a5a9ba0c9182eed00n1-2dW1E1RX",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：必须有工作经验，没有工作经验勿投！！！\n1、参与公司项目的设计开发与实现；\n2、负责公司已有的项目（微信小程序、后台管理系统、客户管理系统）的升级与维护；\n3、参与研发公司自有平台&&电商系统等产品。\n工作要求：\n1、扎实的JAVA基础，熟悉MVC原理，熟练使用IDEA开发工具，可独立完成功能设计；\n2、掌握Spring、SpringBoot，SpringCloud等主流开发框架爱以及底层原理和机制；\n3、熟悉分布式系统设计和应用，熟悉分布式、缓存、RabbitMQ消息队列、搜索机制；\n4、熟练Mysql、Mybatis、Redis、ElasticSearch等数据库相关技术，有SQL性能调优经验；\n5、熟悉Nginx，熟悉使用linux基本操作，具备linux环境部署经验；\n6、具备微信小程序，电商平台等系统开发经验优先；\n7、具备项目规划，架构设计，数据开发等经验优先。\n工作时间：\n早九晚六 大小休 法定节假日休",
+      "encryptAddressId": "fdee5fa84c8324f31nR729W6EVRZy4-_UfqZ",
+      "address": "杭州滨江区杭州印B座六楼638",
+      "longitude": 120.205607,
+      "latitude": 30.211603,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afde7ca7ee33b8bd9eaf4588020759ee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9e3a3090fa48215fb8ec6104501b32b2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230421/607f1f3d68754fd07c8bcb5067f22adf61fc20e96c60a551cfc4365348f438d6eca6ae1171e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "粟和",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1657625f7afd08591XJ_3NW1ElE~",
+      "brandName": "粟和",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "粟和励志打造一家集贸易、供应链、云仓、服务为一体的全栈护肤平台，赋能商家帮助商家更好的销售及服务消费者。全力打造大数据中台，建立统一大市场，标准化服务，以规模优势优化后端供应链，用AI帮助消费者甄选更适合自己肤质的护肤品，根据消费者的需求厂家能更有效的生产优化工厂供应链。形成以一万核心B端客户为主，十万家用心客户为辅，企业生态下的内外双循环模式，从而建立一家小而美的企业。",
+      "labels": [
+        "工龄奖",
+        "底薪加提成",
+        "绩效奖金"
+      ],
+      "activeTime": 1724313136991,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "粟和",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

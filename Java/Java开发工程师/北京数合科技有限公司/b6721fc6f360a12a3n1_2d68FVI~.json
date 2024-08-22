@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B4jXLhNCoucWC-71VjnXwj2V290mWli1cMgDx-mTC7XWDGk4SQKSC3GIdRjiP90HY3jIehBfin8wfNcO3eEttfyluQp-VB5vbgLF0FxPn6IdJAJAWPg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b6721fc6f360a12a3n1_2d68FVI~",
+      "encryptUserId": "a68de99b181f3dfd0nR63du-F1NR",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-20K",
+      "payTypeDesc": null,
+      "postDescription": "1、\t工作职责：\n1)\t负责根据软件需求完成接口设计和数据建模，并撰写相应的技术文档;\n2)\t能独立完成相应系统的核心编码工作和单元测试;\n3)\t能独立解决开发中遇到的难点问题;\n4)\t参与系统稳定性、性能和扩展性调试;\n5)\t能按时按量完成上级安排的工作任务和目标;\n2、\t岗位要求：\n1)\t计算机相关专业本科及以上学历\n2)\t2年以上工作经验，精通Java EE开发，熟悉MVC开发模式，对Struts、MyBatis、Spring等开源框架使用及实现原理了解深入\n3)\t熟悉Redis、Memcached等NoSQL开源产品\n4)\t熟悉常用的设计模式，并能实际应用\n5)\t熟悉Linux操作系统使用及Shell脚本\n6)\t有丰富高并发、高吞吐、高稳定性系统架构设计与实现经验，对架构重构分析、分布改进有实战经验优先考虑\n7)\t熟练掌握分布式通讯框架（Netty、dubbo等NIO框架）、分布式存储（fastDFS、HDFS等）、分布式缓存（Memcached集群、redis集群）、分布式事务处理方案优先考虑\n8)\t全局掌握架构要素系统灵活性、业务扩展性、性能线性增长、HA高可用、等级安全性等优先考虑\n9)\t精通MySQL处理机制与应用场景限制、精通NoSQL Redis、MongoDB、HBase等，精通消息中间件，如ActiveMQ、RabbitMQ、Kafka等在适合业务场景使用适合技术优先考虑\n3、\t优先考虑：\n1)\t有大数据相关经验的开发者优先考虑\n2)\t有前端开发经验者优先\n3)\t有Python开发经验者优先",
+      "encryptAddressId": "5f02ee48815af4ee1HBy2du4E1E~",
+      "address": "北京海淀区用友产业园中区7号楼7241",
+      "longitude": 116.236355,
+      "latitude": 40.070014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/053ae05aa2ef7072c93b935d2d2a3d1b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aae265491b39c707835dd8315b76cd9e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "人力资源部经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=0e5395bc99afbc81jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd5TnXR0vIwmt9ppSVK4nbI0YO6iLplV6e2-Cm0tNF8FqHZYra_1QCEfH7TmCBJsl4tKTw7rya8P_lJNXtbthnQvBXMT9k-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京数合科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d0af8094f2b4d9f61nV_0tu5FVQ~",
+      "brandName": "北京数合科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721715431122,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京数合科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ts_1H7cm5O2H1-m190RHe_kb7V8XeCIG9su79cCtbnHp0HLHikmTxYxAaOJRD9mBuRHF_28CrKQZT990z2WkyRLKNZa47G5-eklIPqibkukRc1pnqZJS2AOerej0nXvpXzRRVf_9F6n7oZU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "90f634f046cd1fe61HN82tq0GFdW",
+      "encryptUserId": "e39d2bd8fd8dbc1e0XZy0t21EltR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n        1.        负责公司后端服务的设计、开发和维护工作。\n        2.        参与需求分析，提供技术解决方案。\n        3.        编写高质量、高性能、高可用的代码，并进行单元测试。\n        4.        维护和优化现有系统，提升系统的稳定性和性能。\n        5.        与前端开发人员、产品经理和其他团队成员紧密合作，确保项目按时交付。\n        6.        编写和维护相关的技术文档。\n\n\n任职要求：\n        1.        计算机科学、软件工程或相关专业本科及以上学历。\n        2.        有Java 后端开发经验，熟悉 Spring/Spring Boot 框架。\n        3.        熟悉常用的数据库技术（如 MySQL、PostgreSQL、MongoDB），并具有良好的 SQL 能力。\n        4.        熟悉常用的缓存技术（如 Redis、Memcached）。\n        5.        熟悉 RESTful API 的设计和开发，了解微服务架构。\n        6.        熟悉消息队列技术（如 RabbitMQ、Kafka）。\n        7.        熟悉版本控制工具（如 Git）。\n        8.        具备良好的问题分析和解决能力，能够在压力下完成任务。\n        9.        具备良好的团队合作精神和沟通能力。\n        10.        有 Docker、Kubernetes 经验者优先。",
+      "encryptAddressId": "b35f7d81f828d42a1nR_3Ny7FlpXwIW6U_mW",
+      "address": "上海静安区极客工社7楼",
+      "longitude": 121.459363,
+      "latitude": 31.236421,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bfb3021317cc545fd9a955f95a97495c616bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230719/48ba41acc9cef1bf12312df7a225681323a89b842eab05bf6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "运营总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "唐风广告",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3fcc03fb934982ef1HVz2tm9GVM~",
+      "brandName": "唐风广告",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231209/7bf6f160950405e9c2cae999a5d69dae939d9915fe71fc063344d07225024cbcddf58c9db440d702.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "1.公司在上海有十多年广告行业经验，积累了大量客户和媒体资源\n2.公司新开线上渠道的品牌营销服务，致力于通过新技术帮助品牌在线上进行运营和推广\n3.公司合伙人拥有腾讯、字节跳动等相关平台经验，致力于打造一个精英化的品牌团队",
+      "labels": [
+        "全勤奖",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724313811479,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "唐风广告",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

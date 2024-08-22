@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UUvEHateZf71R-k1NwVj4OOlqHPbRVR76dWAqja5W1QuGtKAzTEF4QFJ7knCEBr0jCjV3FwkwSQXjMoSSHaXb6sPC9XzJ2Wi_wo1iym94ZCRywsd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0f9c81975b848e6733Bz3N-4GFI~",
+      "encryptUserId": "030b0c816e025b2303N_09S8EFE~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n1、本科及以上学历；至少1年及以上软件开发经验，有全程参与商用软件的项目经验；\n2、JAVA基础扎实，熟悉io、多线程、动态代理等相关技术，熟练掌握各种数据结构和相关算法；\n3、熟练掌握目前流行开源框架(spring/springmvc/mybatis)，并且对其核心思想、实现原理有一定认知；\n4、熟悉微服务架构spring cloud，熟练使用mysql、mongodb等数据库系统，对数据库有较强的设计能力，同时对数据库优化熟悉者优先考虑；\n5、掌握一种缓存框架，如redis，有高并发、大数据量项目经验者优先考虑；\n6、具有良好的沟通能力，对技术有激情，喜欢钻研，能快速接收和掌握新技术，有较强的独立、主动学习和承受高压的能力。\n工作职责：\n1、参与项目系统架构设计，负责系统模块分析和系统接口设计，并输出清晰易读的相关设计文档；\n2、参与数据库的设计，根据需要存储在mysql、MongoDB或者redis中。\n2、主动完成程序的单元测试和系统测试，并修复程序中存在的逻辑或功能性bug；\n3、进行软件相关文档的撰写、修改和检查；\n  薪资可面议",
+      "encryptAddressId": "88b6afd70256b8831HV93d21GFc~",
+      "address": "深圳南山区留学生创业大厦一期1507",
+      "longitude": 113.946928,
+      "latitude": 22.530977,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a87be2ec9a50fe773860398893107407",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b2c2561ce2a51302802ab63ad45287a1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181016/1e4cbdee83c9a1b002ea58388f7eb521e575cbf00b70ea602d52b65c2d2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "思微服",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "36f4aed64b933fb33nRy2d65Ew~~",
+      "brandName": "思微服",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721716229212,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思微服",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

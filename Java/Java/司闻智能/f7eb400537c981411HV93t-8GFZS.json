@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "P9TGYvBkQV5tT-W1Xap6xpaQ29TX0ULFq7t51sI6SnBzSqz_oM8li4qI8EE6VQxrsTi2iF2xHIkyqs7Dzvjqj3awSQJbCqwIS3i_TMElek9NQrm42laW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f7eb400537c981411HV93t-8GFZS",
+      "encryptUserId": "4a535ba5544ced3a0nF73Ni_ElNW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位内容：\n1、和前端合作完成数据网站的接口开发\n2、负责爬虫数据清洗，以及数据库搜索开发\n3、担任团队核心开发，独立完成需求分析和代码实现\n\n任职要求：\n1.计算机相关专业，本科及以上学历，3年及以上后台开发经验:\n2.深刻理解计算机原理，有良好的数据结构和算法基础\n3.精通JAVA，熟练掌握 Sping、SpringMVC、Springboot、MyBatis等技术开发，具有SpringCloud、Dubbo等x框架开发经验优先;\n4..熟悉Mysql等数据库技术，具备较好的SQL编写及调优能力 \n5.有大数据处理经验者优先",
+      "encryptAddressId": "ec8984df411d9b1f1nZz0tS1EVtQ",
+      "address": "广州天河区粤港澳大湾区(广东)创新创业孵化基地A栋",
+      "longitude": 113.420445,
+      "latitude": 23.178413,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c9a1af3692e0279d1868b7c0f197c8f6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c212bd3d1e972760b57d3c615533092b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "司闻智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ec55ae0830d0f3971HV62d-1GVI~",
+      "brandName": "司闻智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "司闻智能由知名机构投资人创立，团队包括腾讯高级产品、连续创业者等，致力于为一级市场提供全链路的AI产品+服务",
+      "labels": [
+        "年终奖"
+      ],
+      "activeTime": 1723901422853,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "司闻智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

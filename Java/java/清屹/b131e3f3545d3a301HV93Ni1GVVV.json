@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ik6JS5RvY9isQ-H15VpjqBJLzq3oXf0YCP9bg0CUqvq0rhGdJTRRfy0EUjVd0Z6l__t_DUgML241djvHs-3uUASBrt2ts6WyGG7GVSjjPreuhNouQNZU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b131e3f3545d3a301HV93Ni1GVVV",
+      "encryptUserId": "4c7003c5fb4c23f70nx629m8FlZQ",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-18K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 业务需求分析和系统结构设计；\n2. 负责核心代码的开发和维护；\n基本要求:\n1. 大学本科或以上学历，计算机或相关专业毕业 \n2. JAVA基础扎实，熟悉JVM\n3. 熟悉设计模式\n4. 熟悉Spring、Spring boot、iBatis等主流开源框架及底层实现原理\n5. 熟练使用Eclipse/Idea/Maven/ Gi t等软件开发工具\n6. 熟悉Linux，Nginx，熟练配置维护Tomcat等应用服务器\n7. 熟悉数据库设计，熟悉Oracle／MySQL等数据库，并具有较好的SQL编写及优化能力\n8. 熟悉缓存技术和分布式系统理论\n9. 有spark使用经验者优先\n10.有大型系统的设计和开发经验，尤其在有大数据量、高并发产品经验者优先\n11.有开放平台相关经验者、有数据平台经验者优先\n12.有微服务实践者优先",
+      "encryptAddressId": "dfec4eef8498c8111nd73Ny5FlBS",
+      "address": "北京海淀区远洋风景1001",
+      "longitude": 116.360398,
+      "latitude": 39.946447,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230424/48ba41acc9cef1bf8338bbc5b6571ae2f56c4f06bb651bc16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf8306fda9f10ff25226bb9a0c7c996d846bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230213/607f1f3d68754fd0e0212dd683d87b70d851e370933f243ca78ec0e1ec321ee7d53254c801d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "清屹",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab2234f99412cdb61XF63Nq0ElI~",
+      "brandName": "清屹",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731069240,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "清屹",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

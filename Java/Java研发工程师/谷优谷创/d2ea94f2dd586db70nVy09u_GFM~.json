@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o0FoIlqNzkzT1-d1xiJddeHCpnVxfU4tIW0gRdd1JFPKm_zZSi9BGNGP7Opx9Npo0cpHHSPYSqDse7hZ7kqUhXsP4a5fw8l-hGEV6vN_0WrIWVDO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2ea94f2dd586db70nVy09u_GFM~",
+      "encryptUserId": "5553dc2f6d4dbd9b0XZ82dq-FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n\n1、 具备良好的面向对象编程经验，熟悉常见设计模式，掌握java流行的开源框架SpringMVC/Spring Boot/Spring Cloud，熟练使用至少一种 ORM 框架\n\n2、 熟悉Rest，HTTP，Socket、webservice、HTTP协议，具备并发、多线程的编程经验\n\n3、 对Mysql、Redis、MongoDB 等数据库有研究或者项目经验\n\n4、 熟悉JVM，对JVM有一定理解，并能借助相关工具进行JVM性能调优\n\n5、 熟悉常见的开源分布式中间件、缓存、消息队列等，熟悉java常用的开源框架\n\n6、 全面并且扎实的软件知识结构（操作系统、软件工程、设计模式、数据结构、数据库系统、网络安全）；\n\n7、 对技术有较强的专研精神，有一定创新能力，喜欢接受挑战。\n\n知识\n\n具备丰富的JAVA及相关知识\n\n全面并且扎实的软件知识结构（操作系统、软件工程、设计模式、数据结构、数据库系统、网络安全）；\n\n能力\n\n具备一定的软件设计能力及良好的软件工程思想。\n\n素质\n\n认真负责、积极主动、善于沟通、组织协调\n\n职位职责\n\n1、开发工作：根据软件需求说明书、架构设计、概要设计等文档要求，完成代码编写工作；\n\n2、文档编写：编写测试用例、开发文档、用户手册等文档。\n\n根据项目组的要求对所交付工作的实施从时间进度、资源安排等方面进行计划，计划制订合理有效，并得到同组人员的共识。\n\n负责根据计划安排项目的开发工作，随时掌握项目实施的进展情况，对于出现的偏差及时做出纠正。\n\n准确、及时完成上级布置的其他任务。\n\n3、深入理解C/S、B/S架构的网络模式，并能够完成C/S、B/S架构的功能软件开发；\n\n4、能够根据文档，对已有软件进行维护、升级。",
+      "encryptAddressId": "3f0a1118fd9ef0601nF509q_EFQ~",
+      "address": "武汉洪山区光谷国际广场A座2106",
+      "longitude": 114.397658,
+      "latitude": 30.507492,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c01b57be6518c2d40e80a76f6f8f167",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/602b9c55630d0876faecd4031605edbb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190614/0142069dd01c34526017d9c9d22263a4e4cf991d490c0e5904f5e805e2a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "谷优谷创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d9d593b6bfa22c0d03V92tu1GA~~",
+      "brandName": "谷优谷创",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190812/3d51e15ef7a7f17b6f29d97e8d244249b76cc32ddefc4f273c6506d707836d9f_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "武汉谷优谷创科技有限公司成立2019年3月，\n主营业务创新创业型社交电商平台已经拿到五百万的天使投资",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "零食下午茶"
+      ],
+      "activeTime": 1721723735766,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谷优谷创",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

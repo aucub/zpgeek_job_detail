@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kFuGG9DJ5bH6G-n17bnFNJcAjhYHbiucTU0bF6-fD0M-XoqJUi1JTgqEmtusdDQuOIFmzT4juhEBbAZosfkCXLwnMnkc_g5CYziVBlXQDPzgnE3UUg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "261c39606182c72b1Hd73N-5FlFU",
+      "encryptUserId": "6e8ea35ad157ce511n1z39q0EFU~",
+      "invalidStatus": false,
+      "jobName": "PCS软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-22K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责30~200kW级别的工商储PCS产品的控制算法和软件的设计、开发和调试工作；\n2、技术指导与支持：参与项目的方案设计，并进行软件和算法方案的设计；解决PCS研发、测试、量产和查故过程中的软件方面的技术难题和风险，确保研发工作的顺利进行；\n3、负责PCS嵌入式软件的设计、编写和调试，实现PCS的功能和性能要求，开发DSP/FPGA的控制算法、保护算法，对已有的算法进行优化和改进，提高算法的效率、稳定性和可靠性，进行算法调试和问题排查，作为项目成员，参与具体项目，完成部门软件经理分配的任务、并从专业角度给出意见；\n4、软件需求分析：参与软件需求分析和规格制定，理解产品需求和规范，确保软件设计和开发满足需求;\n5、软件架构设计：根据需求和规范，设计嵌入式软件的架构和模块划分，确保软件结构清晰、可扩展和可维护;\n6、编码和调试：根据软件设计和规范，使用C语言或MDB方式进行嵌入式软件编码，进行软件调试和问题排查，使用模拟工具或仿真平台对算法进行验证和评估，确保算法在实际应用中的可行性和有效性，分析算法的性能指标，如响应时间、功耗、精度等，评估算法的优化空间和可行性;\n7、系统集成与测试：将算法集成到嵌入式软件中，进行系统级测试和验证，确保算法在实际硬件平台上的正确性和稳定性。参与嵌入式软件与硬件的系统集成，进行功能测试、性能测试和验证，确保软件与硬件的正常配合和协调;\n8、错误分析与修复：分析软件测试过程中发现的错误和问题，进行问题排查和修复，确保软件的质量和稳定性;\n9、软件文档编写：编写嵌入式软件的相关文档，包括软件概要、详细设计文档、用户手册和技术规范等，为软件的使用和维护提供支持;\n10、软件版本管理：会使用版本管理工具（如Git）进行软件版本控制和代码管理，确保软件开发过程的可追踪性和协作性。\n\n任职要求:\n1、本科及以上学历，计算机、软件工程、电气、电子、自动化、电力电子、数学、物理或相关理工科专业毕业；\n2、具有两年以上嵌入式\\DSP软件在100~200kW功率段PCS量产产品开发经验；\n3、精通C编程语言，TI C2000系列DSP开发，具备良好的编程能力，能够实现软件模块开发和调试，具备扎实的数学基础，熟悉线性代数、概率论、信号处理等相关知识，能够理解和应用数学模型和算法；\n4、熟悉储能系统、电力转换技术、控制算法等方面的开发和设计，熟悉电力电子的各种算法，包括SPWM、SVPWM、DPWM、PID、PR、重复控制等；熟悉电力电子的各种拓扑，包括I型/T型三电平、LLC、DAB、BUCK/BOOST等；熟悉TIC2000系列DSP的I2C,SPI,RS232,RS485,CAN，PWM,DMA，网口等通讯原理与接口开发；\n5、熟悉常用的嵌入式软件开发工具和调试工具，如ARM开发工具链、调试器、仿真器等，并具备熟练的使用和调试能力；\n6、掌握电气和电力电子领域的专业知识，了解PCS的硬件结构和工作原理，能与硬件团队进行协作和沟通；\n7、系统级思维：具备系统级思维，能够将算法与嵌入式软件进行有效集成，考虑软硬件协同工作的问题和优化方案；\n\n工作地点：深圳/徐州",
+      "encryptAddressId": "4305560dc70317d73nN72d-7FFE~",
+      "address": "深圳老兵大厦7003",
+      "longitude": 113.849746,
+      "latitude": 22.574544,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf0e0a597ec610096fc852de3003b834006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf420511647a28cc71672c04dc9ddf5c3f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C",
+        "DSP开发",
+        "ARM开发",
+        "嵌入式/单片机开发经验",
+        "计算机相关专业",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240321/607f1f3d68754fd012affc264d5a3e2768f9276b3dfcbf8ad07bb194f55a127eab53232803e9abf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "华辰变压器",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6b4459b53620408c0HJ529y9FQ~~",
+      "brandName": "华辰变压器",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201216/6f04d695735fe1a549f3b2c4e20d25c4f1128f2229f020cc00f15321555e3447_s.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "江苏华辰变压器股份有限公司成立于2007年9月，是专业从事干式变压器，高低压开关柜，油浸式变压器，电力变压器，节能变压器，箱式变电站，光伏箱变及配套产品生产制造、科研开发、产品销售为一体的高新技术企业，公司坐落于江苏徐州国家高新技术产业开发区。公司于2022年5月12日，成功登陆上交所主板，首次公开发行A股上市，股票简称：江苏华辰，股票代码：603097。\n        公司占地130余亩，注册资本1.6亿元，目前公司生产的S11、S13型系列10kV级、20kV级、35kV级油浸式变压器；SCB10、SCB13系列10kV级，20kV级和35kV级环氧浇注干式电力变压器；SH15、SCBH15型非晶合金电力变压器；YB预装式变电站；ZGS型组合式变电站；光伏发电升压变压器、高过载变压器、有载调容压变压器。产品分别通过国家电器产品质量监督检验机构、并获得注册型号备案证书。产品还通过中国质量认证机构能效产品，国家电能认证机构的PCCC产品认证。\n        依靠企业的雄厚实力和“诚信是根，创新是魂”的经营理念，华辰公司分别获得国家高新技术企业、AAA重合同守信用企业、企业信用管理协会会员单位、江苏省博士后创新实践基地、江苏省研究生工作站、江苏省优质企业、全国电网建设与改造所需产品选型选厂推广企业。同时华辰公司产品被有关权威机构评为 “全国质量信得过企业”、“中国电力变压器十大品牌”“江苏省信息化与工业化融合试点企业”、“江苏省节能环保产品”、“江苏省优质产品”等荣誉称号。\n        公司产品覆盖全国市场，并获得江苏省电力公司、安徽省电力公司、山东省电力公司、湖南省电力公司、河南省电力公司、黑龙江省电力公司、湖北省电力公司、江西省电力公司、甘肃省电力公司、吉林省电力公司等国网公司的入网和认可。在中国人民银行监管机构、G20（杭州）峰会现场、酒泉卫星发射场、南京奥体、大亚湾核电站、合肥海润光伏电站、京沪高铁徐州站、新能源项目等国家重要工程上广泛使用，公司产品还出口东南亚和非洲国家和地区。  \n        在未来的发展中，江苏华辰变压器股份有限公司将一如既往的以现代化的脚步和经营管理理念为指导，以可持续发展和互利共赢为目标，公司将继续扩大企业的生产规模，提高产品的质量档次，努力使公司不断向规模化，集约化的方向发展。既注重企业的经济效益；更追求企业的社会效益。走诚信经营服务优先的发展道路，加大科技投入的力度，加快企业的发展步伐，使企业向节能、环保、智能型的现代化大企业迈进。为电力工业的崛起贡献华辰力量!",
+      "labels": [
+        "节日福利",
+        "餐补",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724232875745,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华辰变压器",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

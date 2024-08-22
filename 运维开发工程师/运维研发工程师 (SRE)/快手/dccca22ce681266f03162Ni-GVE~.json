@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gJodJ0gxjbBa5-y1rXsOMAzIKQCsbAfW6sJkIEsfqtfhtFzhqcX5INW8C6iGnx5hR-W70dbwP30vBkgQE_XOm4u1Timn9RjL-Mw9B_mnMCuTng~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dccca22ce681266f03162Ni-GVE~",
+      "encryptUserId": "43a3388d49c3f5fb1XFz3Nm9FFY~",
+      "invalidStatus": false,
+      "jobName": "运维研发工程师 (SRE)",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\r\n1、负责快手大规模分布式系统及在线服务可靠、稳定、高效运行；\r\n2、制定和优化运维解决方案，包括但不限于柔性容灾、智能调度、弹性扩容与防攻击；3、设计及开发包括网站加速、持续交付、容量管理、弹性计算、故障分析、流量分配、性能调优等系统；\r\n4、关注业界前沿接入技术动态，负责超大规模流量接入系统的优化，演进和新接入技术探索和应用；\r\n5、参与在线系统和各类产品架构设计及自动化系统的实现，满足严格的质量与效率要求。\r\n任职要求：\r\n1、本科及以上学历，3年以上运维开发或应用运维经验；\r\n2、熟悉RedHatCentOSFedora操作系统原理，TCPIP以及常用的网络协议；\r\n3、熟悉shell,python,php,java至少一种开发语言，有相关开发经验；\r\n4、熟悉MySQL,Redis,Memcache等系统的操作和维护(或者擅长其中一项)；\r\n5、或者有日志处理及分析相关经验，熟悉相关的组件，如：kafka，elk，flume，hive，storm，HDFS等；\r\n6、熟悉自动化运维管理工具（puppet/saltstack/ansible）。",
+      "encryptAddressId": "22fd8664193845cc1XF92N-5ElY~",
+      "address": "北京海淀区快手总部",
+      "longitude": 116.298746,
+      "latitude": 40.053278,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2e0c7874e363f33890d8ff336232fb0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d49f733aa9e723a0ce7bfa6999a5d7c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "数据分析",
+        "运维开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171213/7444239e184427941fc7637eb6c0226abc0e841d3ea81576471e875f9d2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "快手",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3cc143641d373a453nV73to~",
+      "brandName": "快手",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161114/5fab6097e23a3cfa24fa527f98b1fbd90ffd2e8bde909927b0adb4f75c7e09ea.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "快手是一款短视频社交应用，在国内用户上亿，日活千万。我们是一家由80,90后组成的创业公司，Geek范儿，氛围轻松愉快。核心成员包括 Google、Renren、HP、Baidu、腾讯、亚马逊的顶级工程师和产品经理，清华北大的毕业生和肄业生。公司已获得顶级VC红杉和晨兴的青睐和持续投入~",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721721222487,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "快手",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

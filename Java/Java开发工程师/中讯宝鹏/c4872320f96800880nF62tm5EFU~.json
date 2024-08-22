@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-cAUpz6OxEfQL-p1sF1M_7TBI6uw3ouUMKGlxvDc9Ir_fCJ0-ImbtpUyx9w2RjziH8EzS943su7ZNZZWpEcTCXWG3NTtIvIsxcZC4wKSDlrQDGPO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c4872320f96800880nF62tm5EFU~",
+      "encryptUserId": "60d4cf56baf9c82d1X1z3ti5GFs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责: \r\n1、参与或主导产品服务器端的设计和研发工作； \r\n2、理解业务需求，参与架构分析设计； \r\n3、接受高并发、海量数据的挑战，分析和发现系统的优化点，负责推动系统的性能和稳定性的提升； \r\n4、文档撰写，代码review和单元测试，确保项目进度和质量。 \r\n\r\n任职资格: \r\n1、统招本科及以上学历，4年以上工作经验，计算机相关专业； \r\n2、必须拥有独立开发能力\r\n3、掌握 Java 及面向对象设计开发，对部分 Java 技术有深入研究，研究过优秀开源软件的源码并有心得者优先； \r\n4、了解 SOA 架构理念，实现技术；熟悉常见设计模式，熟练掌握 Spring，Redis消息中间件等技术； \r\n5、熟练掌握 MySQL 应用开发，数据库原理和常用性能优化和扩展技术，以及 NoSQL，Queue 的原理，使用场景以及限制； \r\n6、熟练掌握Kafka，Mongo，Hadoop，Hive者优先； \r\n7、参与过高并发系统设计开发者优先。",
+      "encryptAddressId": "db8d808f841cb74033B529S_FQ~~",
+      "address": "北京朝阳区康瑞普企发大厦A座5层516",
+      "longitude": 116.412531,
+      "latitude": 39.972567,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e3a3a042f631827cc85d218b3e9e0414",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/196f8058f4171bc2c969fa6667a71b43",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Hadoop",
+        "分布式技术",
+        "MySQL",
+        "Redis",
+        "NoSQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "熊女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180611/b930a355156d7fe9bd816ad97595f0cf7c81e7417589052141b2612bc46_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中讯宝鹏",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "936544b4c952d6261nx82tu1Fg~~",
+      "brandName": "中讯宝鹏",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721715429490,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中讯宝鹏",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

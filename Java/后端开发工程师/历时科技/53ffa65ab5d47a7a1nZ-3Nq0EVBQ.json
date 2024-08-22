@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BnxhRE1seeudG-21WqbZs_EQSK2SV6vRVWgxJu4Gaxbz-kTNSNXhX5VZVy9yepIaa44IyYOZpUI7UpP8zY9QG0A11-5sUi_lU2f81r7ifq8kcyMSRA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "53ffa65ab5d47a7a1nZ-3Nq0EVBQ",
+      "encryptUserId": "fbbe45f42e4c1c5203Rz3d-9EFM~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "公司简介：历时科技（北京）有限公司成立于2018年，公司理念是为人类交流方式进化而努力。我们正在开发面向全景互联时代的社交平台，欢迎志同道合的朋友加入我们。\n岗位职责:\n1、与团队一起负责业务需求分析，技术选型与研发工作；\n2、持续对系统的技术架构进行升级和改进，提升系统性能和用户体验，满足业务需求；\n3、提升团队代码质量，处理线上突发问题，与团队一起不断成长。\n任职要求:\n前提：有过即时通讯开发工作经验。\n1、本科以上学历；计算机相关专业；3年以上相关开发经验；\n2、有扎实的java基础， 熟悉主流开源框架，如：Spring、Spring Boot、SpringMVX等，了解Spring的生态圈。有过优化经验加分。\n3、熟悉并掌握JavaScript、Html等前端技术 ；\n4、熟练掌握数据库的设计和开发，熟练使用Mysql等；熟悉分布式系统的机制和应用，如：Redis、Zookeeper、Kafka、RocketMq等。熟悉微服务架构。有过服务器维护经验加分。\n5、熟悉java多线程开发，掌握Redis，Zookeeper等开源软件的使用，阅读过主流的开源框架的源码； \n6、有过高并发APP或者IM、Feeds流方面的开发经验，并在项目中承担重要角色；熟悉Docker、Elasticsearch、Grpc、Etcd等。\n7、为人忠厚，热爱技术，具备快速学习能力，沟通表达能力强，具有团队精神和责任心，能承受一定的工作压力。",
+      "encryptAddressId": "f52258d8ebe6411b03Nz3tS5EVM~",
+      "address": "北京海淀区辉煌国际广场5号楼6层61X",
+      "longitude": 116.300477,
+      "latitude": 40.052777,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e9dd7921e5dfe55939d778d215f6148",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ad7bb27b6baf83c37e096210d7df2d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "分布式技术",
+        "多线程",
+        "微服务架构",
+        "搜索引擎技术",
+        "容器技术",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "创始人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191014/64c61f7e316ead7963bd8920ca19b9d0c14041d622091214f88a0a243a1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "历时科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fd0f3e184ac7e3ac1XV82t25FA~~",
+      "brandName": "历时科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230730/7bf6f160950405e93a2dc535bb636b78801e6af440ac3d96c14041d622091214f88a0a243a147ed5.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "历时科技成立于2018年6月，办公地点在北京市海淀区西二旗区域。历时科技主营研发智能社交工具，以手机App为主生态，研发社交工具智能升级方案。智能社交连接范围更广、连接价值更大、连接方式更优，智能社交平台可以为社交需求提供更多增量服务。欢迎对社交工具智能升级感兴趣的朋友关注和加入历时科技。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖"
+      ],
+      "activeTime": 1724292171616,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "历时科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

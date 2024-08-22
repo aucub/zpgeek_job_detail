@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "e9Yc2T1q4p6sw-C1623cdeCPeiDaVN_c73ETPUsLrf5LnX9Aup3OFfOYp9NPkSiK-2HuGhTfclMO6G9PBhfCb1A5EpWeqBQD43sdKgJ6fCDS1r-CPhZvBqWH30Kq4pxbciR0Y2qsEtgZhSpIkkb0B5paLoSObgpcs5ThmujI9-WkhfloD2E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ed735c57952ae1c1HNz0t21FVtX",
+      "encryptUserId": "959f6389e8c2df7f0XR60924EFRV",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、做过零售行业，懂POS或库存的产品\n2、精通 JAVA 编程，熟练运用 Spring Boot,Spring MVC、MyBatis,Zookeeper 等框架。 熟练掌握 Spring Cloud 微服务框架,有相关 API/Restful接口开发经验。熟练掌握 MySQL、SQLServer应用开发，熟悉数据库原理和性能优化。\n3、熟练应用 Java 集成开发环境，能熟练使用 Intel、MAVEN、Eclipse、vs code 等工具。有使用分布式代码库管理工具(如 GIT)的经验。 熟练掌握消息中间件，RabbitMQ、Kafka等，有相关实践经验。熟练掌握 MongoDB、Redis 等 NoSQL数据库应用开发，有实际开发经验\n4、熟练掌握并会使用以下一种或多种技术:Angular/Vue/React、Nodejs、H5/]avascript 等 有大型电商平台、ERP、CMS、CRM、OA、工作流引擎开发经验。参与过中大型项目的工作经验，熟悉并能遵守软件工程各个阶段的工作。",
+      "encryptAddressId": "1c553c94347601371nV509m1E1BYx4i_WPmd",
+      "address": "上海徐汇区奥乐齐(ALDI)公司1",
+      "longitude": 121.455845,
+      "latitude": 31.214125,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5384fee63c7ff8e3aa4bf2fdeaba709",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9671ad51aed72f3fe6226e24fda2cf5d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "檀先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海瀚若轩公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "878a2f8f0554a10e1XN92di9EVM~",
+      "brandName": "上海瀚若轩公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724313917236,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瀚若轩公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

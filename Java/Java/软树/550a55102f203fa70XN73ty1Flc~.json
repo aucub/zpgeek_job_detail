@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "T10srCZyXOlXf-h1dnC3tdK0spUuTvOdY67-_rMBVwXVe2gchUxcgXFk8YI2Mhagi5IURlR6LK2ulShxabNBl2NuwzU6u-pvyoWGoYOqzuh2zvdM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "550a55102f203fa70XN73ty1Flc~",
+      "encryptUserId": "78e74b9756a234340nVy0ty9ElQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "掌握java核心技术\n了解常用设计模式\n掌握ssm，springboot等主流开发框架\n掌握数据结构及常用算法\n熟悉oracle，mysql至少一个\n熟悉基本的Linux操作\n撰写项目文档",
+      "encryptAddressId": "69a056d9fdd54bf81XNy3dq7EVA~",
+      "address": "北京海淀区北京中海实业大厦",
+      "longitude": 116.335582,
+      "latitude": 39.976094,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7554f58946a0fb244b2761283e27ec9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c0903507872f523d751ebc90e469800",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SSM",
+        "MySQL",
+        "Oracle",
+        "后端开发",
+        "全栈开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "软树",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b197afd9895eed480HR_2N-7GQ~~",
+      "brandName": "软树",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721731027859,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "软树",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

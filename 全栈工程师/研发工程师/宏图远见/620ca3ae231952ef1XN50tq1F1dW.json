@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "h0T6nV2VIOe5U-M1K3pxK_RlK-fNzjeVDILv0LXijR7PU_MXCRKzWVd7ydvJpIUP_iZeSU49OKhzC-gGrttn3ZaNw8KoEEUZod8yRK3br6LdgDD_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "620ca3ae231952ef1XN50tq1F1dW",
+      "encryptUserId": "9caa71a9524518091nZ83t-1E1A~",
+      "invalidStatus": false,
+      "jobName": "研发工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n一、负责开发、优化本公司GIS数据可视化项目的web前端\n二、有需要时可负责一部分java后端程序的开发和优化工作\n三、有需要时可承担一些简单的服务器和数据库维护工作\n技能要求：\n一、掌握web前端开发技术，熟悉Html JavaScript Css语言，熟悉React开发框架，有实际商业项目开发经验者优先\n二、掌握SQL语言，有实际SQL使用经验者优先\n三、有Java服务器后端程序开发经验者优先\n四、有GIS地理信息数据可视化项目开发经验者优先",
+      "encryptAddressId": "18d1d1bdcaf403461nRy2NW6FVI~",
+      "address": "北京海淀区万柳亿城中心C2座604室",
+      "longitude": 116.301504,
+      "latitude": 39.96043,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/864b6b6d4d6d336c121c7ea30e89c1fc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5b89bb0b6fd638ad9d2c74b0ec92cc2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重前端",
+        "React",
+        "JavaScript",
+        "CSS",
+        "Node.js",
+        "Spring/Spring Boot",
+        "Java",
+        "全栈项目经验",
+        "前端开发经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd09ef7e171cb9f1399d88870be416088591090a833e465474f3ca879ea218b821_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "宏图远见",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "816f8228ebc0bf511Hd83tW0",
+      "brandName": "宏图远见",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170524/b2d42e5c071fd0400b7f1852807439639cef7375c6c7f3007f11e783c6ab6da6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司创建于2011年，总部设立在北京，注资资金1000万元，目前员工有160多人，在河北石家庄设有大数据生产基地。\n公司专注于为客户提供基于位置大数据的商业应用解决方案，通过对数据和技术的创新与整合，为商业企业提供市场洞察和分析，辅助客户决策。\n       公司有乙级测绘资质，可合法开展外业地理信息数据采集业务。\n主要面向连锁企业及快消品企业，提供市场分析、网络规划、机会点选址评估、门店管理、精准营销、销售区域划分与均衡、门店巡检等服务，已在地理商业智能应用方面取得了可观的成绩，为宜家家居、可口可乐、快乐蜂、Costa、泰禾、北京金融街投资（集团）有限公司、迪卡侬、米其林、UPS、麦肯锡、梅赛德斯-奔驰等企业提供了优质的服务，并得到了客户的认可。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "团建聚餐",
+        "餐补",
+        "全勤奖",
+        "定期体检"
+      ],
+      "activeTime": 1721737596386,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宏图远见",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

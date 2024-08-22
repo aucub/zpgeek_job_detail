@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GmjgGolE3NKZj-i1pxUmickZfudEatmyWB12eLJp_gRJ5ofzjqzZeHUJay8wTEMtWgZnUEu5ViiY5sduh7DhB8plN9uMRzGiCUlN6flVov53IffypsU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a14336299609c0ec1nx70tm1GVRZ",
+      "encryptUserId": "656aecaed729ec220nV-29-5GFI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-20K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n工作职责:\n1、负责业务中台核心模块后端的研发与架构设计、编码、测试以及文档编写等工作，并负责其系统稳定性工作。\n2. 使平台能力赋能业务增长，从业务增长需求中抽象沉淀平台能力。\n3. 具备一定的数据分析和数据工程能力，挖掘数据价值，贡献增长策略。\n4. 不断学习和引入对研发效率和系统稳定性有帮助的框架或工具。\n任职资格:\n1、本科学历，5年以上Java开发经验，2年以上互联网公司架构设计经验；\n2、具有扎实的Java基础，熟悉Java技术体系，熟悉IO、多线程、集合等基础框架，熟悉分布式、缓存、消息、序列化等机制；\n3、理解Java运行时工作原理，熟悉JVM性能调优，能够充分利用Java特性支持框架与程序库的设计开发；\n4、精通设计模式，熟悉服务化方案设计、开发实施的实际经验，要具备实际的服务规划、服务粒度划分经验；\n5、对数据库的基本理论和内部实现机制有深刻的理解，精通MySQL，MongoDB，ElasticSearch, redis 等主流SQL和NoSQL数据库, 数据缓存系统的多种优化方法，有大规模数据存储，高并发，高可用性，高容错性数据库设计，性能评估和优化处理经验\n6、熟悉缓存技术、服务器性能调优、集群技术处理、负载均衡、异地多活等大访问高并发架构设计；\n7、具有出色的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，知识面广，思路开阔，创新能力强，对新技术持有敏感性并愿意致力于新技术的探索和研究。\n8.做过大文件上传下载，或硬件数据转发优先",
+      "encryptAddressId": "0f36e3323dc4db800nR539S6EQ~~",
+      "address": "武汉江夏区湖北国知专利创业孵化器603",
+      "longitude": 114.386232,
+      "latitude": 30.446793,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5588fe441b585767c0eda173bd5d8e8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/06148c320a71a63e92b56e1629442034",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MongoDB",
+        "MySQL",
+        "ElastlicSearch",
+        "redis",
+        "NoSQL",
+        "JVM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万女士",
+      "title": "人事部门",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190108/131fc189f291cecc3ca1cc5234cdc8c5516a2a417054d500b319deb14c4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "相控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "20bbe0efc887ddd01nB70t6_GFs~",
+      "brandName": "相控",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721707322683,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "相控",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

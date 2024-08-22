@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OSq40ciufDbzN-113bJYeUrs-k4c2Ony3BShBvesxWxTCaOEUJdoxXf4DROYgZKodLAcSeixpSsccmphLF9WvXXSi60nFp1N9J-8ZN8Mel9MqUzMX8-yH4xXge2o9fOOt29VyKCgltZ_Mg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aa0e9eeb6d2f9dc61Xdy3NW9E1dZ",
+      "encryptUserId": "fbb6b74d4dd515ed0nx52NW5FFU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-40K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责公司软件产品的功能模块开发以及程序框架的维护。\n2.进行项目的需求分析以及进行相应的概要、详细设计以及编码实现工作。\n3.完成上级安排的各项任务。\n4.有团队管理经验优先，有性能调优经验优先。\n\n岗位要求：\n1、计算机或软件相关专业毕业，全日制本科（学信网可查）或以上学历。\n2、3年以上工作经验，熟练使用JAVA、.NET、数据库等相关开发工具，具有深厚的面向对象分析、设计、开发能力，精通 OOP，AOP，设计模式，精通领域驱动的设计思想和方法。\n3、擅长使用开源框架，熟悉某个领域内的开源框架，做过选型研究，解读过部分源码，掌握实现原理。\n4、熟练掌握Java编程、J2EE框架、Linux开发工具；具有Restful web开发经验；熟练掌握Spring、SpringMVC、Mybatis等框架。\n5、有微服务开发经验，精通 Spring boot、Spring Cloud等。\n6、熟悉Oracle、MySql、Redis、MangoDB、SQLServer等数据库开发与应用。\n7、熟悉Jenkins，熟悉Docker容器的操作，能使用Docker打包并部署项目。\n8、熟悉Linux操作系统，并能编写Shell脚本。\n9、熟悉Thymeleaf，Beetl，Freemarker等模板框架的一种。\n10、熟练使用JSP、WebService、JavaScript、Ajax、Html、JQuery等技术进行Web开发；有一定前端开发能力 ( Vue.js ) 者可以加分。\n11、熟悉常见的Nginx、Haproxy等反向代理服务器，并能够熟练配置。\n12、熟悉消息队列RabbitMQ，ActiveMQ，RocketMQ中的一种，能熟练使用。\n13、有独立完成项目的能力，包括数据库设计，需求分析，项目代码编写，项目部署，项目发布，解决线上问题等。\n14、具备良好的代码编程习惯和较强的文档编写能力；\n15、能适应短期出差。",
+      "encryptAddressId": "17e2d6deb0a046180XF83ty8F1U~",
+      "address": "上海普陀区上海兴远置业创业楼1f208",
+      "longitude": 121.41953,
+      "latitude": 31.263431,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c500f40ddc2b119f50066cba6f6a996a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5a8a2cf443609531fe74e8026cf8d62",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "架构师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孟先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220826/607f1f3d68754fd0fa40b3f8dfddb8c716faa9213e3f68b0e86b913c09deeff2f5f6ca3fea9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "新堡信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "194295504c7cd46e1n143dS6FVs~",
+      "brandName": "新堡信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724135418331,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新堡信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

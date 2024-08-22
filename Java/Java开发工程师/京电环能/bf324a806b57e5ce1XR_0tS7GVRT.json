@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8Ld67ZjHJbCNh-r1hfm5DQsAcrQttPGQDgZ31vym5dAHKynAhJdufOpjE8aA8tFLTHMTqOkfHQZkT9ZqEm33eFyPPBPP2c7RnP8TSptmdqOOgv1t-MQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bf324a806b57e5ce1XR_0tS7GVRT",
+      "encryptUserId": "fa9ed64d79668e7d33B939u6E1U~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位需求：\n1、精通JAVA、JS编程，熟练使用Intellij IDEA编程环境；\n2、熟悉前端与后端分离设计思想，了解熟悉前端设计，精通后端编程，精通redis与MySQL数据库；\n3、熟悉服务器生产业务部署；\n4、了解与嵌入式系统通讯，了解TCP/ip、UDP、Modbus TCP/RTU协议者优先；\n5、软件单元测试用例以及相关文档的编写；\n6、具有良好的团队合作精神，能承受工作压力，对工作充满热情。\n7、能承受较大的工作压力，适应经常出差，工作中涉及与硬件系统的连调。",
+      "encryptAddressId": "042c54285bcbd5b81HB92du8GVE~",
+      "address": "北京昌平区新龙大厦A座8层811",
+      "longitude": 116.328329,
+      "latitude": 40.058998,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fa4f25d126e58b9f6feeec16228e2c7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/70c761199d72830e08261a06d9f91ad5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "IDEA",
+        "MySQL",
+        "SpringCloud",
+        "Kafka",
+        "多线程",
+        "Redis",
+        "MongoDB",
+        "Windows",
+        "SpringBoot",
+        "Spring",
+        "后端开发",
+        "客户端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191224/38982838dcc81f330b0086cc57330569a4787c5e88dde7e9a776a9762db_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "京电环能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "264369de4b1d74cc1nV809m5GVU~",
+      "brandName": "京电环能",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722048132000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京电环能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

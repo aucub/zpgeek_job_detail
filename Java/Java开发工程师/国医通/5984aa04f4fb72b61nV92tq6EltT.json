@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CGZTWZQFvMz4j-y1-_G2g6-ZgjSUXyQxF2B5Hy_svyXRmYimVimJPvfuCb82dEgBU7J69HlEX8NBt0XKRs-KJSuunXOv55ttHj68jTVtkNMvxCaOZQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5984aa04f4fb72b61nV92tq6EltT",
+      "encryptUserId": "584545e93344ff6f1Hxz3t20EVs~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1. 参与公司JAVA应用系统产品开发和支持。 \n2. 负责自己编写代码的单元测试、项目集成测试并配合测试部门进行系统集成测试。 \n3. 根据需求文档、详细设计对功能模块进行开发。 \n4. 能够独立解决开发过程中的问题。 \n5. 按时完成项目经理安排的工作内容。 \n6. 具有良好的自我学习能力，有较强的独立分析，问题处理能力。   \n\n岗位要求： \n1. 计算机相关专业大学专科以上学历，2年以上Java程序开发开发经验或web网站开发经验优先。 \n2. 熟悉面向对象的软件设计方法，具备WEB应用开发经验者优先。 \n3. 了解JavaScript，掌握HTML相关知识，熟悉Jquery框架者优先。 \n4. 熟悉java编程语言，了解Spring、Hibernate、Struts等框架者优先。 \n5. 熟悉XML、JSON等数据格式，理解HTTP相关内容优先。 \n6. 熟悉JavaSE 常用API与操作，熟悉面向对象思想与常用设计模式，熟悉J2EE，servlet构架相关技术知识。 \n7. 熟练掌握MySQL的日常操作、管理和优化。",
+      "encryptAddressId": "ddef2dd70202b6d103J_2t60GFM~",
+      "address": "北京朝阳区嘉泰国际大厦B座7层",
+      "longitude": 116.487324,
+      "latitude": 39.916496,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7809856e7f3e54ecc89f58bc922e0a5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b69f83cbf2393719b1a70f0cbb89bf4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "SpringMVC",
+        "SSM",
+        "网络编程",
+        "MySQL",
+        "WEB开发",
+        "HTML",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200907/3a5f269d9f945cd9b2d940cfecdec1ecf7e20645c9a2998de109b6e5468_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "国医通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d1d719125f19ab511n1-2dq-FQ~~",
+      "brandName": "国医通",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210111/04e49a924d5a77cce49efa42d8fbe9f9f7e20645c9a2998de109b6e5468ccc67.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "国医通是为肾脏病患者提供优质产品和创新服务的平台型公司，是透析行业“轻连锁”模式的先行者。公司通过肾脏病领域生态圈的建设，围绕医院、医护、患者、企业提供一站式服务。业务范围包括工业生产、商业渠道、医学培训、信息平台、创新服务等五大版块。http://www.gytcare.com/",
+      "labels": [
+        "五险一金",
+        "带薪年假"
+      ],
+      "activeTime": 1721715430037,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国医通",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

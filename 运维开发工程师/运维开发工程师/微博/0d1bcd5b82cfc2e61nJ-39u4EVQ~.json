@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8makOPC7lppt8-_1JX7AeDhgWxxWUjWMRP1tfQGS5-oUH3GxOrwrch8f-DQ1TLnkhkyfzeERhgE2zQZ_6fwemkeB9u5xi6hyquGd73y3KN67LA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0d1bcd5b82cfc2e61nJ-39u4EVQ~",
+      "encryptUserId": "fe2a63319d5c7e391Hd-392-E1Y~",
+      "invalidStatus": false,
+      "jobName": "运维开发工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "20-35K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.负责对手机微博实时或离线日志数据的收集，传输，存储，展示等，并可以对相关组件进行二次开发及运维保障。\n2.数据驱动运维，通过对数据的分析来支撑手机微博的正常运行及相关调度，并通过对数据的分析对相关业务进行优化，服务于SLA。\n3.负责微博目前最大Elasticsearch集群的运维保障。负责日志实时流的传输。\n4.跟踪相关技术领域的发展趋势。\n\n任职要求：\n.计算机相关专业毕业，学习能力强，年轻有活力自我驱动能力强，对工作中的相关问题有专研精神，具备独立解决问题的能力，对数据敏感。\n.熟悉Linux操作系统，对高并发场景下的运维架构有一定的认知。\n.在大数据量下对Elastic Stack，Kafka，Rsyslog等相关组件有一定的运维经验。\n.具有一定的开发能力，熟练掌握Python，Scala，Java中的一种或多种。能对相关日志中间件进行一些二次开发。\n.对实时数据分析平台有一定的了解，熟悉Storm，Spark，Druid中的一种或多种。\n\n加分项：\n.对JVM相关调优有一定的经验。\n.对根因分析及异常检测算法有一定的实践经验。\n.阅读过一种或多种诸如Kafka，Elasticsearch，Spark，Rsyslog等相关组件的源代码，可以在源码级别对相关组件进行定制开发及问题排查。\n.具有Elasticsearch云化平台架构经验。",
+      "encryptAddressId": "32e6d272c9754bbd1nF60tq1GFc~",
+      "address": "北京海淀区新浪总部大厦西北旺东路10号院西区8号楼新浪总部大厦",
+      "longitude": 116.276277,
+      "latitude": 40.041462,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53f40f1f815d1bf3cc3c6068213044c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a04f744c97f110535be91311d97deab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维开发",
+        "系统运维",
+        "运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "移动端运维负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171226/800cf4b822e9cb239e9de2a4ec9537aa6c70d606637c4527941112a3dc8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "微博",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f3e62b9ed1bfa70b1nNy09w~",
+      "brandName": "微博",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20200629/7d893d759ab92844234643d8d033008dbe1bd4a3bd2a63f070bdbdada9aad826.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "微博是一个由新浪网推出，提供微型博客服务类的社交网站。用户可以通过网页、WAP页面、手机客户端、手机短信、彩信发布消息或上传图片。新浪可以把微博理解为“微型博客”或者“一句话博客”。用户可以将看到的、听到的、想到的事情写成一句话，或发一张图片，通过电脑或者手机随时随地分享给朋友，一起分享、讨论；还可以关注朋友，即时看到朋友们发布的信息。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721721170631,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微博",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

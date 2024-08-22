@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "er8kwWkPB1jFe-D12FsX1LGrHCAdGme6J4mHNh2qmnECeX4l8Qj5S4ARkQ8LZ2FXfLChfGPqTQJDbU9Qlzgl7hfJpseM7CIDScIyprFSuJrAizvBw-dg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a897317bd7e12511HJ63966GFVX",
+      "encryptUserId": "c0beca5ae261ec4c0nZy2Nu7FVZX",
+      "invalidStatus": false,
+      "jobName": "中级软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "后端开发工程师\n岗位职责概述\n1.负责产品模块的设计和开发、调试;\n2.根据项研目发计划按时保质保量完成开发任务;\n3.负责公司产品研发、系统优化工作;\n任职要求：\n1.计算机相关专业，本科及以上学历，至少1年以上后端系统产品开发经验，并有至少1个参与并成功上线的项目，有文档经验，小组长经验者优先;\n2.Java基础扎实，理解io、泛型、多线程、集合等Java\n基础使用和部分实现原理，对JVM原理有一定的了\n解;\n3.熟练使用Spring、SpringBoot、Mybatis框架；熟练使用至少一种关系型数据库，如MySql、Oracle、PostgreSQL等，并能够进行基本的SQL优化。\n熟悉非关系型数据库，如redis；\n4.熟练使用Tomcat,nginx等web服务，能够完成独立部署任务；\n5.熟悉Linux、Maven、Git;\n6.具备良好的开发习惯，模块化，接口化开发，熟练掌握面向对象设计的基本原则，\n7.了解js，VUE，Angular等前端技术;\n8.了解分布式、中间件技术，如dubbo、rocketMQ\nzooKeeper等；\n9.有良好的沟通能力和团队合作能力，积极工作态\n度，较强技术钻研学习能力;",
+      "encryptAddressId": "8aafdc067b1c668f0XZ-3dS9GVJXw4y9WP0~",
+      "address": "成都青羊区世界贸易中心B座4楼",
+      "longitude": 104.071901,
+      "latitude": 30.663412,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/41f0981ff112a3b679144037e3447805",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fa16251b4e475cdb8e2f240fa58f6be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "执行董事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "金云中星",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "78ed3c8394043cef1Hd_2925FVc~",
+      "brandName": "金云中星",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司成立于2024年\n\n办公地址在青羊区太升路\n\n主要经营应用软件开发、小程序、网页端系统开发\n\n发展至今已取得*成绩",
+      "labels": [
+        "法定节假日三薪",
+        "节假日加班费",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1721694349639,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金云中星",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

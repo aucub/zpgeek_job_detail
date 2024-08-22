@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wu4gw12IPw36l-D1qcdIlO-ihfoawbbGfqsbICI-43BQZiClfDF3zFpYhN8-BUNigwbKJfLirRDIwFNJi-15KPxMdXTER3YVkULtSF8TO__NnxOHYeXBjcKPyCrpSp5zRQpoeVVWjdk8Uk4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cbbbd75d46f6df171HVz39q8E1FQ",
+      "encryptUserId": "72fbef6c6e5bfe4a0XZ53di7FFZW",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、参与项目的设计，能理解数据库设计，能完成API定义及功能设计\n2、完成代码编写等开发工作和功能自测；\n2、参与完成项目的 bug 修复、系统交付上线；\n3、输出对应的开发文档，对项目实施部署提供一定支持；\n4、辅助跟进系统安全、稳定、维护和性能优化等工作。\n\n职责要求：\n1、全日制本科以上学历，软件工程或计算机相关专业；\n2、毕业起算至少2年以上 JAVA 开发经验；\n3、java 编程基础扎实，对jvm等有系统了解:熟悉springBoot，springCloud等开源框架，了解各类常用中间件;熟悉MySQL或 postgresql 等数据库以及 sql优化;熟练掌握git，maven，idea，postman，navicat 等工具；\n4、对 spring cloud 架构有较深入理解，有spring cloud项目经验者优先；\n5、参与过企业应用项目开发，有WMS（仓库管理系统）、DMS（经销商管理系统）开发经验优先；\n6、具有良好的沟通和团队合作能力。",
+      "encryptAddressId": "6145dba4997d15ae1nd-2dm8FVFY",
+      "address": "上海青浦区虹泾鑫汇园9号楼8楼",
+      "longitude": 121.243673,
+      "latitude": 31.174412,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/936c5b1bb7f82ef385313e8fbe9637c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5109ddc7b295273b47023531d05e26a5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "PostgreSQL",
+        "架构设计经验",
+        "微服务经验",
+        "渠道",
+        "医疗",
+        "经销商"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "项目总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "形本科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "696d0ff1770095811XR_2N66GFM~",
+      "brandName": "形本科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "我们是一家新成立的创业公司，专注于医疗行业的相关软件开发业务。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721725524279,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "形本科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

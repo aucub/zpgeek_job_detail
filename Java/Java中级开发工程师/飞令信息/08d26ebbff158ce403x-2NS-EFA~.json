@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KRX4WQdZYB76N-f1YzJO_CgEvPxG46mmd1aE5BHp6hTxdaFLawnRAeRQ4xfZlXeGGQ8mLmDgDd7DWQ0_dovijLIUnrOUYKE8knKgNnK-MlK5uXTQMoLrrnwj7dSkyxFBmK0ENFzG19g~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "08d26ebbff158ce403x-2NS-EFA~",
+      "encryptUserId": "d90d856ab03e429a0X1y39y_GVQ~",
+      "invalidStatus": false,
+      "jobName": "Java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\r\n1、\t独立完成需求的整理和软件设计；\r\n2、\t按照项目计划，按时提交高质量代码，完成开发任务，规范文档的编写、维护，以及其他与项目相关工作；\r\n3、\t负责单元测试代码的编写和进行单元测试；\r\n4、\t负责java程序的打包、发布和部署工作；\r\n5、\t根据项目或部门的整体工作安排提供技术支持。\r\n岗位要求\r\n1、\t全日制本科及以上学历（学信网可查）；\r\n2、\t3年以上java开发经验，JAVA基础扎实，熟悉多线程、IO、JVM等；\r\n3、\t熟悉HTML5、JavaScript、Ajax、CSS、React等Web前端技术；\r\n4、\t熟悉常用等开源框架，阅读过相关源码优先。熟悉nutz者优先；\r\n5、\t熟练使用Tomcat；\r\n6、\t精通SQL语法, 熟练使用MySQL，Sql Server等关系型数据库, 并具有一定的SQL优化能力。熟悉Redis；\r\n7、\t熟练使用Maven，SVN, GIT代码管理工具；\r\n8、\t有至少一种消息中间件的使用经验者优先, 如RocketMQ、RabbitMQ等\r\n9、\t强烈的责任心与团队精神，有系统需求分析和设计能力，较强的抗压能力和良好的沟通、协调、组织能力。\r\n10、\t热爱技术，对技术有不懈的追求，喜欢研究开源代码，有良好的学习能力、团队协作能力和沟通能力；善于思考，能独立分析和解决问题；\r\n11、\t能够快速的学习业务知识，了解高尔夫行业者优先。",
+      "encryptAddressId": "767eeee41bd82d221nZz2Ny_FFU~",
+      "address": "上海嘉定区太湖世家环球大厦1703室",
+      "longitude": 121.257577,
+      "latitude": 31.347151,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/960d783d0fb1ed379ea1a3f58c9ece5a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a1b1bcc5c7f9a90cf7cabdcee79e12b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "数据库",
+        "HTML5"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "飞令信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e0dc978699685f770nV63tS6FQ~~",
+      "brandName": "飞令信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190715/950dd1a93d3f83df7532be18e4b7620eab81759e95bf1330cc11bc5f273a7614_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司关注当今高尔夫行业发展的关键点，致力于高尔夫专项运营管理软件的开发与运用，着重于高尔夫行业核心价值TEE TIME资源即时营销与会员权益的完善升级服务，提供最前沿的互联网+云计算+智能移动终端等多维度纯会员制俱乐部服务一体化解决方案，促进高尔夫产业升级与发展。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+      ],
+      "activeTime": 1721725546906,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "飞令信息",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

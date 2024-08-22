@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ANZPWopPvumJE-D1e2sCV3HolekIs-l2WfcPxoxfPpw1J-WsdSffpbxyLl0iz1Sja1qJImv54-7rz8hglgeZTYCLj3O4vnJA-JZXq3nVmqdymTrWsA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7693d6b0d37224711nBy2ti5FFZS",
+      "encryptUserId": "77307eebd941351f33R-3dW5GVM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-25K",
+      "payTypeDesc": null,
+      "postDescription": "1、统招本科及以上学历，计算机相关专业；\n2、2年以上Java后端研发经验，扎实的java编程基础；\n3、熟练掌握SpringBoot、Mybatis等常用框架，了解其工作机制；\n4、熟悉 Linux 平台常用操作命令及服务器相关知识, 有编写脚本能力 ,了解 JVM 内存管理(有 JVM 调优技能加分) 熟悉分布式系统常见技术及RPC框架；\n5、具备较强的学习能力和责任心, 良好的沟通交流能力, 以及良好的写文档习惯；\n6、较高的技术钻研能力、技术攻关能力，分析问题解决问题的能力，能独立承担任务；",
+      "encryptAddressId": "fb80210344f14e7c03B62tm_GFY~",
+      "address": "北京朝阳区凯景铭座大厦406",
+      "longitude": 116.403511,
+      "latitude": 39.962325,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c7acf5f02a18f39a00e691af860866b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dab34ed23c07f7f0b1e2d933d59163ec",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "后端开发",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "牛先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191102/6d12264b08b930eaf7b12e08c9e1e1258bdab22b46282c41236d551513c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "国交信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1432a0c9c5f82ac01HB_39y0GQ~~",
+      "brandName": "国交信息",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100501,
+      "industryName": "交通/运输",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+      ],
+      "activeTime": 1721730523489,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国交信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

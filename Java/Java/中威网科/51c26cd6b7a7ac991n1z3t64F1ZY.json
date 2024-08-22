@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "95fTXjSFivlzd-812RWQMeUYeYgiD-nGEV-GtyxSUNs6i4zG6p14UnKEXXSdQDWeV2l-9Mgn1woSLXLvuOA24qQJG-SyCJf7zD7lh0T5WniVqYaBZQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "51c26cd6b7a7ac991n1z3t64F1ZY",
+      "encryptUserId": "bae7ac573917caf10nZ639y7EVA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位需求\n1. 本科及以上学历，计算机相关专业；\n2. 至少2年以上Java开发经验，编程基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；\n3. 熟悉Spring、iBatis、微服务等开源框架，熟悉各种常用设计模式；\n4. 能熟练使用MySQL数据库，对数据库表有独立的设计能力；\n5. 熟悉Linux常用命令，能使用linux命令排查定位线上问题；\n6. 熟悉docker常用命令，能使用docker命令排查定位线上问题；\n7. 有处理高并发请求架构经验优先，有大型互联网企业工作背景优先；\n8. 要求较强的责任心，具有良好的学习能力，沟通技能，团队合作能力。\n岗位职责\n1、负责内部应用平台的开发及单元测试，要求开发结果性能优良，稳定性好，扩展性高；\n2、负责线上服务监控，积极响应线上问题，保证服务稳定可靠；\n3、完成其他服务端相关的日常工作。",
+      "encryptAddressId": "d2695933bdfe5f271nB93Nm9EA~~",
+      "address": "北京海淀区科技部科技评估中心103",
+      "longitude": 116.340147,
+      "latitude": 39.963573,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db3737dde5df6e55efe7151672fc88f9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cba6847d719926a82165568256284d98",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "后端开发",
+        "Linux",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190128/0f75b3d5094c2d2f042d484235a831dec4d2c5b3429112d1fa5cff6fdaf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中威网科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9c4a07d0f60153133R-3N-6GA~~",
+      "brandName": "中威网科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721730502165,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中威网科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XwMQu23hp85a0-x1gO3ZILj90_sQfS1VVIGZuA-Y-581RtAi6r-Qxthltt4FtZjGkUWXkyj_UZRLBnidmWLhIKgznYGXDSRZR6kWWh1Fg50IC6I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b85a9a1617e20471XB529u1Flo~",
+      "encryptUserId": "a829d7d5b2ccc54c1nZ_3t20GVI~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "25-35K",
+      "payTypeDesc": null,
+      "postDescription": "职位详情\n1. JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解； \n\n2. 3年及以上使用JAVA开发的经验，对于你用过的开源框架，能了解到它的原理和机制；对Spring,ibatis ,struts等开源框架熟悉； \n\n3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题； \n\n4. 掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验； \n\n5. 掌握Linux 操作系统和大型数据库（Oracle、MySql）；对sql优化有丰富的经验； \n\n6. 学习能力强，适应能力好；具备耐心/细心的品质； \n\n7. 喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队！",
+      "encryptAddressId": "82396c22fad14c463nV-09S7FQ~~",
+      "address": "北京科利源大厦小米6期",
+      "longitude": 116.332557,
+      "latitude": 40.039752,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/51d2e3b5984775b4d0926c7f0068d558",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8cf5fca4f84c25d89eece44f948274a9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "开发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "小米科技有限责任公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7dd02efaee4a603c0nN_3925",
+      "brandName": "小米科技有限责任公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170518/a95522d775a786fde216a65eda66af926c062784c944603db82ec83e651a01cf.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "北京小米科技有限责任公司成立2010年4月，是一家专注于智能产品自主研发的移动互联网公司。“为发烧而生”是小米的产品概念。小米公司首创了用互联网模式开发手机操作系统、发烧友参与开发改进的模式。2014年12月14日晚，美的集团发出公告称，已与小米科技签署战略合作协议，小米12.7亿元入股美的集团。2015年9月22日，小米在北京发布了新品小米4c，这款新品由小米4i升级而来，配备5英寸显示屏，搭载骁龙808处理器，号称安卓小王子。2016年7月27日的发布会上小米笔记本正式亮相，这款产品叫做小米笔记本Air。",
+      "labels": [
+        "全勤奖",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1721730776252,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小米科技有限责任公司",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

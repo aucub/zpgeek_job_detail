@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AowtAZV0mYwjA-r15MSscBDuPzU-g4Sh3Wdn8VJTmrd1d2VMEuzPIx-HA8Uz8X6quemp8tXI05YCgE_x1wUO2gGnAiamicVRG0VlDnTR09-BTHsOOe0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a9c6c0a6281e43fa1XN92d-1FFBU",
+      "encryptUserId": "a541b443cd2d80ef3nx-39i6FFM~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发工程师(J11083)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、参与或负责公司软件产品开发、负责相关产品的功能模块开发；\n2、根据开发计划，按时完成设计、编码、测试和维护等相关工作；\n3、解决产品测试和用户反馈的问题；\n4、负责软件功能升级和优化工作；\n5、负责软件开发过程中相关文档的编写工作。\n任职资格:\n1.研究生以上学历，3年及以上后端开发经验\n2.具有良好的编码习惯，掌握一种或多种后端开发语言，例如：Python/.net/java/go等（掌握多种语言为加分项）\n3.有扎实的编程基础，熟悉数据结构、设计模式、掌握多线程编程\n4.熟练使用一种以上常见的开发框架（Springboot/Flask/Abp等）\n5.掌握MySQL、Oracle、Mongo等主流常用数据库，有国产化数据库使用经验者优先。\n6.熟悉SVN、Git等版本控制工具\n7.熟练使用RabbitMQ、kafka等消息中间件以及一些常用流程组件\n8.理解actor模型，熟练使用akka/orleans框架者优先。",
+      "encryptAddressId": "c12530974f21cd7333F_3tq-EFE~",
+      "address": "北京海淀区华北所科技大厦北四环中路211号",
+      "longitude": 116.370081,
+      "latitude": 39.989429,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9ec5551b53ef3a775d694874878f4aef",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8569baddd31271155fb1e128ab212e7c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "MySQL",
+        "MongoDB",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200518/9bdf559bc5c247358aa2d31a35decf50ff01d7b7e4a6c41da00ca8ebc10_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "华北计算技术研究...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b4e6a93ea6d4563a1nR739m6FlY~",
+      "brandName": "华北计算技术研究...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230403/7bf6f160950405e95582fc5bc4960f348b3e49d64688d097ea438cfa729e30c8ece7f1989d142918.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "住房补贴",
+        "零食下午茶",
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721710376091,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华北计算技术研究...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "31FiTb-dqbxz_-K1qZKY24OrF5qtTmQw4CHQr7qaAP_pnb1s672noRqMCESnU5odTNBYO0ljHPoSFxJW8OFZaELTxFo3lgiuutBFHjFc0J88GQ6mvzvj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "04d4a810617faccb1nxz0tq-FVtR",
+      "encryptUserId": "5068ba1595dd96a01nV62928EFZU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与政务服务平台项目前端和后端开发；\n2、参与系统相关的对外接口开发，内外接口的联调；\n3、和团队协作完成系统的联调、测试、部署工作；\n4、编写开发相关的技术文档；\n岗位技能：\n1、软件工程、软件开发相关专业专科及以上学历。\n2、3年以上工作经验，参与过软件项目系统分析，有政务项目或者大厅排队项目的前后台开发经验的优先。\n3、理解J2EE系统架构，精通Java编程技术，掌握常用开发框架如：Spring mvc/dubbo/Mybatis/等\n熟练掌握Spring的loC和AOP等关键技术原理，精通RESTful接口实现等技术；\n熟悉前端开发相关的js、jQuery、NodeJS语言，熟悉前端开发框架如Vue，熟悉正则表达式。\n4、熟练使用MySQL、Redls数据库以及熟悉SQL优化方法，熟练使用Maven、Git等项目",
+      "encryptAddressId": "c9eb4c7e1ada04fb0X163tW5FVs~",
+      "address": "武汉江汉区富强国际1305",
+      "longitude": 114.259245,
+      "latitude": 30.603555,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73ab9735008c238589e7fb908ec2969e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6333427df3bdfe1ddf34013197d02b6b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "全栈工程师",
+        "Maven",
+        "不接受居家办公",
+        "全栈开发",
+        "架构师",
+        "Dubbo",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "GIT",
+        "分布式系统开发经验",
+        "MVC开发",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230130/607f1f3d68754fd0d41819f0b0620046063e963859b5e3746f0c900d9a6727a449f6a32e1b0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "武汉嘉信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "956125631f890ae71n1509W9EVo~",
+      "brandName": "武汉嘉信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723910522,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉嘉信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

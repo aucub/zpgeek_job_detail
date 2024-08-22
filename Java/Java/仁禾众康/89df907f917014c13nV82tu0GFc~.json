@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HKCjuQaSZZoio-01EtAXg3Q8HppLH4xXw4VT8MOrzrbrrkgf1MiOmHIvLEFGnzFmeAeCoLffxVwKEDpJWBHEhrUMmT0j0S1Kc4-aMSuBTSLn9fOH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "89df907f917014c13nV82tu0GFc~",
+      "encryptUserId": "adb80164a67770f10XN92Ny_EVA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、协助解决系统开发过程中的技术难题攻关；\n2、按照项目进度要求与任务分配,独立完成软件相应模块设计及编程工作；\n3、配合完成新产品的前期需求分析、技术调查等相关工作；\n4、参与核心系统架构的设计和开发工作；\n5、参与技术难题攻关，持续提升核心系统在高并发、海量请求数下的高处理性能；\n6、整理技术规范，推动技术实现与落地。\n任职要求：\n1、本科及以上学历，计算机相关专业优先考虑；\n2、精通JavaEE体系结构，熟练使用JDBC编程，熟悉B/S开发的基本结构，具备面向对象的开发思想；\n3、熟练使用JavaScript、jQuery、HTML、CSS等；\n4、熟悉常见Java开源框架，如Spring、Spring MVC、SpringBoot、MyBatis、Shiro等；\n5、熟悉常见关系型数据库，如Oracle、 MySQL、SqlServer等，能对复杂SQL进行性能优化；\n6、了解常用的Web服务器配置，如Tomcat，了解windows/linux等操作系统；\n7、具备至少3年以上Java/J2EE方向的Web应用程序开发工作经验；\n8、具有分布式服务框架开发使用经验、消息队列MQ技术；\n9、熟悉分布式、缓存、消息、负载均衡等机制和实现；\n10、具备良好的团队协作精神，拥有良好的跨团队沟通技巧，好学、上进、责任心强，能够有效管理压力、具备敢做的精神。\n11、熟练使用maven、svn、git等项目构建和版本管理工具；\n12、熟悉MongoDB/Redis等NoSQl数据库的应用开发。",
+      "encryptAddressId": "4db266e5f256acb21Hd42ty8GVE~",
+      "address": "北京丰台区鼎恒中心商务楼15D",
+      "longitude": 116.300342,
+      "latitude": 39.867096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d89d6d7ba1c9efdd065b4c26553d0db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/754bee6a02a7edfa241c057e9810fa55",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "MVC开发",
+        "服务器配置",
+        "负载均衡技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "仁禾众康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6a21cfad318ebc43031_2dq-Fw~~",
+      "brandName": "仁禾众康",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722415988000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "仁禾众康",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

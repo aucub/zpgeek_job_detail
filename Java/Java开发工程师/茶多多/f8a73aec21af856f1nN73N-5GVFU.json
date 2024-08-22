@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rrtvasNjJXjyt-a1vLY0k0fA5592SMCy5YLKIqzrImcTIqt0eelbwIzLUjPTkdH0RB5IFFgu7MAz4unurwDs4whnwI06-aZThbNuHrJG3FtbsM0IL24ehqhCL0_WEGoZ1WTraNqPlV_6daM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f8a73aec21af856f1nN73N-5GVFU",
+      "encryptUserId": "b9e520f626cdd26b0nZ-0t2_GVJY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 深入挖掘和分析业务需求，撰写技术方案和系统设计，确保系统的架构质量；\n2. 系统核心部分代码编写，疑难问题的解决；\n3. 维护和升级现有软件产品和系统，快速定位并修复现有软件缺陷；\n4. 能为团队引入创新的技术、创新的解决方案，用创新的思路解决问题，能对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件的优先。\n5.团队小组人员管理。\n岗位要求：\n1. JAVA基础扎实，理解nio、多线程、集合等基础框架，对JVM原理有一定的了解；\n2. 1年及以上使用JAVA开发的经验；对SpringMVC,MyBatis,SpringBoot等开源框架熟悉；\n3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术进行合理应用，解决问题；\n4. 掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验；\n5. 掌握Linux 操作系统和大型数据库（Oracle、MySql）；对sql优化有一定的经验；\n6. 学习能力强，适应能力好；具备耐心/细心的品质；\n7. 喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队。",
+      "encryptAddressId": "0be3696e224d452c1nd9096_F1c~",
+      "address": "杭州余杭区海创绿谷5号楼601",
+      "longitude": 120.021523,
+      "latitude": 30.288646,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/31c4567f31d3ea1a82958f85215e4f5d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/729e32eb92170f3b47f8c9e1990baef8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "分布式技术",
+        "MVC开发",
+        "消息队列",
+        "Spring",
+        "SpringCloud",
+        "SpringBoot",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210417/3f62b59214d834da3f803c71da1ed9cc6a541995c0bc1e6d7618845abd4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "茶多多",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "45cba9fbfc45bfc11nx-3d26ElI~",
+      "brandName": "茶多多",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210729/de511cf8bddedf1910111f43edaf85696a541995c0bc1e6d7618845abd4ff874.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "差多多，茶享多多",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1721720801868,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "茶多多",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

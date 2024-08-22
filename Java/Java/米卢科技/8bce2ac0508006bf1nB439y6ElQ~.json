@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OTVf3scE3AXDp-Q16J0vBfC21v_8r0vKu1uxro4zKgmFDMn_DCSENFPHB86rzV51gR1mnNp75y40BDyR2PYke6CMiYup7ZKFtA9GPwA7WBOl7ovm",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8bce2ac0508006bf1nB439y6ElQ~",
+      "encryptUserId": "9d9cc53bc9d91cfa1HV73t2-F1M~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n1.使用java进行游戏后台开发工作。\n2.参与设计与讨论，撰写开发文档。\n3.软件维护完善\n职位要求：\n1.统招本科学历，两年以上工作经验。\n2.熟练掌握spring.springMVC.mybatis.javascript等主流技术。\n3.熟练使用tomcat.apache.nginx等应用与服务器配置。\n4.掌握shell脚本，熟悉mysql.mongodb.有sql优化能力。\n5.熟练使用redis等。\n6.熟悉nodeJS。",
+      "encryptAddressId": "754c124f4adb85ae0XF82t-7Ew~~",
+      "address": "北京天畅园7号楼803室",
+      "longitude": 116.416185,
+      "latitude": 40.033486,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/502b2ed618126cfe5b95e329b7b9e0bf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ddfde6813b7fc7b749c17a11b508adf2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "Javascript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "米卢科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bfd6be06d3cd49411nR_09S_Fg~~",
+      "brandName": "米卢科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721714369972,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "米卢科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

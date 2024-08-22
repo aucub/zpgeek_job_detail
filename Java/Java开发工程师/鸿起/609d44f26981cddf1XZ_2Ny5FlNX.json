@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "08HpAvMM9HFqg-s1B39kbmP1JAqMOON4FGQMr_H0mwZsQoCGh5ujCKEi4PVxqlR6LDUBB1Sm0pQCuN2-u0sJyNp5sUif09tRyVVGqLB-wzfZNMUuP9U~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "609d44f26981cddf1XZ_2Ny5FlNX",
+      "encryptUserId": "16965a6a94f2915c0nVy3ty_E1c~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、 参与公司电商相关项目的开发和基础平台建设工作；\n2、 能快速理解、消化各方需求，并落实为具体的开发工作；\n3、 具备良好的架构分析能力与设计能力，积极参与前期设计；\n4、 具备良好的需求分析能力，业务建模能力和数据库设计能力，参与系统详细设计；\n5、 独立负责解决开发过程中的技术问题、负责至少一个模块单元的设计、开发；\n6、 确保所负责产品系统的安全稳定运行，及时响应和排除线上故障\n\n岗位要求\n1、 全日制本科以上学历（优秀的专科毕业生也考虑）， 3年以上互联网行业Java开发经验；\n2、 扎实的基础知识 : 对常用的数据结构 , java 语言核心特性有深入理解；\n3、 深入了解 spring, mybatis 等 java 平台常用的技术与开发框架，理解其实现原理；\n4、 了解 java 平台常用的中间件 , 如： redis, rabbitmq, zookeeper, ELK,springcloud 等；\n5、 对开源技术有浓厚的兴趣，至少掌握 Springcloud、RabbitMQ、Zookeeper中的一种；\n6、 分布式，高可用，高性能的系统设计与编码有基本认识；\n7、 良好的业务理解和沟通能力，热爱技术和学习 , 较强自驱力；\n8、 对新技术有强烈的探索欲望，善于团队合作，执行力强，能够承受工作压力，有强烈的责任心",
+      "encryptAddressId": "6d33d1314cc9b9090nd92t-0E1s~",
+      "address": "武汉洪山区光谷软件园A10",
+      "longitude": 114.404057,
+      "latitude": 30.475014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f90d6cc46bbf7d7ed4aff4024c8f749",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22e0da559c203dfeb7f12f6e7da4b681",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "数据结构",
+        "Spring",
+        "Redis",
+        "多线程",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "仝女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220627/607f1f3d68754fd0f727ee2300aceb3880f14afa79014bda65af05107ff190bd834dd728d9c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鸿起",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1b4ff6201480cbea1XRz39y8E1c~",
+      "brandName": "鸿起",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721723689136,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿起",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

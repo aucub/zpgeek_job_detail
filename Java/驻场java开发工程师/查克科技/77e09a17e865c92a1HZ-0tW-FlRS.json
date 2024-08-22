@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NpMuwju9xaATJ-119S8KRocPTf4P1XNMWaVccTy-tCHIvgtVEFniCJ7vf-kgY0Md04BaSoWpSnJtjhhRE046VIB-ivFxJqCxUMji896Kv0Lwc6VMdQU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "77e09a17e865c92a1HZ-0tW-FlRS",
+      "encryptUserId": "c71a5d26c3b6fe221nVz2tm6EVU~",
+      "invalidStatus": false,
+      "jobName": "驻场java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职位\n1：负责Intellij IDEA插件开发、vscode插件开发，插件主要有插件菜单、界面绘制，文本提取&处理，向后端发送接收数据等工作；\n2：负责部分Java后台服务端开发，主要包括接收插件请求，处理请求文本等工作。\n\n岗位要求：\n1：精通Java语言，熟练使用springboot框架，熟练使用maven、gradle包管理工具，熟练使用Intellij IDEA；\n2：对Http协议，网络编程开发有一定的了解；\n3：熟悉Intellij IDEA插件开发，有Intellij IDEA插件开发经验优先，有vscode插件开发经验优先；\n4：熟悉xml，html，css等idea、vscode插件开发所需的技能。",
+      "encryptAddressId": "9f6b8c6f79cf62da1nB53dq-ElZR",
+      "address": "武汉江夏区光谷金融港A10",
+      "longitude": 114.425,
+      "latitude": 30.456,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf6678e62fbb1fd2760351403ca55aefec6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf406c3dbfa1fa93bfc4b0319b849956b26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不限",
+        "不限",
+        "Java",
+        "Spring",
+        "不接受居家办公",
+        "MongoDB",
+        "vscode",
+        "idea"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "查克科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3768cabe0ad702ae1X1y09y5FlU~",
+      "brandName": "查克科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230831/7bf6f160950405e9fc08e707c658701d2e07c4e98d94a6c784892ed5c05811150a3496a606c25102.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们是谁\n湖北查克科技有限责任公司是一家人工智能公司，专注于深度学习领域，成立于2023年8月。公司坐落于武汉华工科技园，成员均为80、90后。\n\n我们提供什么\n· 高质量人才\n· 工程师文化，重视开发流程，帮助团队每一位成员将实力都发挥到极限\n· 重视工程师的自我发展，鼓励全栈发展\n· 大牛带队，留学博士\n· 重视人才，提供超越同地区的薪资待遇\n· 轻松办公氛围\n\n查克科技正在人工智能的跑道上飞速发展。也许你之前错过了互联网，或者移动互联网，请不要再错过人工智能的未来和一群优秀的伙伴。快速发展中的查克科技，希望用最开放的姿态，寻觅更多有梦想、有创新精神的你加入我们。",
+      "labels": [
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721707311632,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "查克科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
