@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Z8OS7wyuUoW6X-c1WimTYOKLjjX4rKRuZ448WPpBuqeCajbxFOEykamU6h7tFC4zDKg0_jtiDt2msjy13ldUX2SEb5yjGFOApUkGfT2nXCSl8HsaF8c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e795f03e7034192f1nJ83ty5F1ZZ",
+      "encryptUserId": "7c3f4093a68536590nR72tW9ElpS",
+      "invalidStatus": false,
+      "jobName": "Java后端",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-22K",
+      "payTypeDesc": null,
+      "postDescription": "1、协助技术开发经理制定工作计划；\n\n2、收集专业领域内的技术信息，提出产品改进建议和新产品开发提议；\n\n3、参与产品开发小组、依据产品开发计划实施产品详细开发工作；\n\n4、技术文档编写；\n\n5、为运营提供技术支持；\n\n6、完成上级领导安排的其他相关工作。\n\n岗位要求：\n\n1、计算机相关专业本科及本科以上学历；\n\n2、深入理解面向对象编程，具备良好的面向对象思想，熟悉常用的设计模式；\n\n3、熟悉SpringBoot, SpringData, Elasticsearch，MyBatis框架，并能熟练的应用在相关的系统设计中，具备一定的框架设计能力；\n\n4、严谨的逻辑思维，严谨的编码风格；\n\n5、具备良好的沟通协调能力、责任心强，具备良好团队合作精神；\n\n6、了解motan、Jenkins、SpringBoot、微服务；\n\n7、了解物联网通讯协议优先；\n\n8、了解硬件开发通讯接入优先。",
+      "encryptAddressId": "124e0c06142d08070nV_3t-0EA~~",
+      "address": "广州天河区智慧金谷3栋111室",
+      "longitude": 113.413844,
+      "latitude": 23.167568,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1980ee616395267bb53d7e61bfbdee9e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3e62e05f24c8c9dfee910049933d5f92",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "网络协议",
+        "负载均衡技术",
+        "消息队列",
+        "多进程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210630/dd1bbe92a89f2e41ae20d0e7d8994ce35be6efd2e4614db18eba16a8321_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广易互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a3b0a2a2eb1e68a20XB93tm-EQ~~",
+      "brandName": "广易互联",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191227/32c8e5e4cf52a31bcef1cb2806b653e00ed873b6f2a48d85877dccdaec47bc9b_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广易互联网络科技有限公司成立于2019年1月份，注册资金50万，现有优秀的技术团队，多个成熟的教育线产品，物联网卡管理平台，公众号案例，APP案例。例如幼儿园管理系统、高校教务管理系统、校园一卡通系统等，获得多项软件著作专利，有用丰富的专业技术团队，高效的响应反馈速度，致力于推进数字化校园建设，为客户提供最满意的服务。\n       公司现址位于广州市天河区，公司主要分两个营业模块，即产品部和外包部。两块相辅相成，链接默契，为公司未来的发展提供了殷实的基础。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721812351239,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广易互联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

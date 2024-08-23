@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8A9d3WDgJ1XnS-21JQHUUGYtxzssg8kMogMed5ZQm4KbewfsldZDC5PXlMAj-v6svvJ8tQmOwYeucAEcqr5-GriCXDvx1tesg1E1SuskxBk9eJAkfo8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ba1b4c709c6412d1XV42dy5FlRU",
+      "encryptUserId": "0a161a96239d04b21HZ-09i-FlU~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "22-40K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、主要负责公司产品质量保障工作； 2、建立完善的质量保证体系，线上质量把控； 3、对项目中的质量问题进行监控、追查及定位； 4、工具和平台的开发维护； 改进现有工具或开源项目的效率、扩展性与稳定性； 5、对产品提出改进建议提升用户感受，对项目提出改进建议提高项目整体效率； 6、新技术研究和应用，并推动适合的技术应用于生产。\n职位要求\n1、学历本科及以上，计算机、软件等相关专业 2、有测试经验优先3、熟悉常用自动化测试工具和平台，有敏捷测试经验、测试工具开发、平台开发测试经验者优先； 4、熟悉python/golang/java中至少一种，有实际项目开发经验者优先； 5、熟悉行业常见的架构和分布式系统实现方案；能实现生产级别的后端服务； 6、熟悉常用的服务后端与web前端框架； 7、有较强的问题定位和推动能力, 能协调各个角色进行问题解决。",
+      "encryptAddressId": "2587686cf00d31590nR_09-4E1I~",
+      "address": "北京朝阳区利泽东二街2号院6层",
+      "longitude": 116.485108,
+      "latitude": 40.011484,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7e0fd4d8c4055714dd176f7f679933a4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/864caa8c91f3dd1865b825231b583480",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "UI自动化测试",
+        "Appium",
+        "服务端测试",
+        "软件测试",
+        "移动端测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苗女士",
+      "title": "QA",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210925/607f1f3d68754fd09468b417c3e12cc76b6f1fe9b4086beed39d3a86f8601539db81910a6a7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b633a34f787d94f21nZ_0929E1I~",
+      "brandName": "美团",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240628/7b5b554d84f9729cd6153cd447e2129f0afbea7ed015e2e6ec010062a73c093f09fcbc768dec40c2.jpg.webp",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "了解工资以及工作内容内容",
+      "labels": [
+        "意外险",
+        "底薪加提成",
+        "夜班补助",
+        "工龄奖",
+        "住房补贴",
+        "交通补助"
+      ],
+      "activeTime": 1721808764268,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

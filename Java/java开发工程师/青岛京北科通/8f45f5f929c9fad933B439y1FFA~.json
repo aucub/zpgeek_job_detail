@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DMJ9Zw1bMiTM9-51gBUP4oTKhnc6CO0k8ryrvy3AAMA0q2Z1zA-uI-KVEYOWUF6HJg9XgF7ZffbPyFThmLmf37YsXCHfJ0mTZisshBxhP5_NM_aEA7ClTvjTaK0yraLKzznNXs5uqixV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8f45f5f929c9fad933B439y1FFA~",
+      "encryptUserId": "409842ef1f4b94081nV-3ti1FVdQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责公司管理信息系统平台的开发和维护\n2、负责公司OMS系统平台的开发和维护\n3、负责公司询报价系统平台的开发和维护\n\n任职要求：\n1、本科、大专及以上学历，英语四级及以上，计算机、软件技术等相关专业。\n2、扎实的编程基础，熟悉Java、Python等一种或多种编程语言，熟悉面向对象和函数式编程，良好的编码规范。\n3、1年左右java实际开发经验，熟练使用idea进行开发，熟悉spring boot微服务开发。\n4、熟练掌握Linux操作系统。\n5、熟悉主流关系型数据库Mysql或sqlserver和非关系型数据库MongoDB、Redis等一种或多种数据库开发，有较强的数据处理能力。\n6、熟悉需求分析、设计、开发、测试、过程改进、代码重构等。\n7、沟通能力良好，具有良好的合作意识及团队精神，有主动学习意识。\n8、有爬虫技术开发经验者优先考虑。",
+      "encryptAddressId": "d49e71810f5cdfc10nZ_2tW7FQ~~",
+      "address": "青岛市北区青岛国际航运中心8888",
+      "longitude": 120.381287,
+      "latitude": 36.089872,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ccc9bbd8408aa78d588c26343b3c86d7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3392a6737462d713e90c3ffb01e15dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "软件工程师",
+        "MySQL",
+        "Python",
+        "SpringBoot",
+        "后端开发",
+        "计算机软件",
+        "Java",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "聂先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "青岛京北科通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "61b6bc774c2e6a7d3nR60ti_FA~~",
+      "brandName": "青岛京北科通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200624/88c3001cf53ee4747e05c1b8f7743e41ff88fe84c8432be09bdd83bda26f2898_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "青岛京北科通信息技术有限责任公司是北京京北通宇电子元件有限公司的子公司，\n       北京京北通宇电子元件有限公司成立于2004年6月8日，是一家具有十几年电子元器件产品销售经验的全球分销商。十年来，我们深耕于飞速发展的电子元器件产业，与全球各大知名电子元器件厂商建立了长期、稳定的合作关系，建立了完善的全球采购网络。以此为依托，我们为全国数千家企事业单位提供快速、便捷的国际电子元器件采购服务。同时，我们还以最优价格为客户处理各种过剩库存，帮助客户进一步降低生产成本，以实现客户利益最大化。",
+      "labels": [
+        "节日福利",
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1721793447878,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛京北科通",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

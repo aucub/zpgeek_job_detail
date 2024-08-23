@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CF6kvIyu8HKKw-d1Lea5hfAWk31sEqeypSVMUBuqtITM8oiMBqMFC5gDluTnX4c3i9tzvOfy-YcrYUvlK5aUQehbzFW951K4SCcn5mZs-5YKR7cYMeb52PujkEtS3y6KNq8MY1njhOA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "71ed11dedbe4edf13nB_2d28FFE~",
+      "encryptUserId": "86f8e250a90c4ecd1HB639W_GFQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发\n职位描述：\r1. 和产品密切配合，从需求出发，主导、参与范式 AI 云平台系统分析和架构设计工作，承担核心功能代码编写，开发和维护平台核心服务。\r2. 主导、参与技术难题攻关，解决各类潜在系统技术风险，保证系统的安全、稳定、快速运行。\r3. 系统性能优化，持续提升系统性能。\r4. 能为团队引入创新的技术、创新的解决方案，用创新的思路解决问题，能对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件的优先。\r\r职位要求：\r1、计算机或相关专业本科及以上学历。\r2、Java 基础扎实，有至少 3 年以上分布式系统开发或者实践经验，有主导一定规模系统架构设计和核心代码开发经验。\r3、熟悉 Spring、Spring Cloud、Hibernate、MyBatis 等开源框架，以及消息、存储、调度等常用中间件，有通读过开源框架源码的优先。\r4、熟悉基于 Mysql、Redis、MQ 的设计和开发，熟悉 Linux 操作系统。\r5、对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力、沟通技能和团队合作能力。\r6、独立完成中小型项目的系统分析、设计，并主导完成详细设计和编码的任务，确保项目的进度和质量。",
+      "encryptAddressId": "410b7f2c224e5c681Hd82Nu_FVY~",
+      "address": "北京海淀区第四范式5楼",
+      "longitude": 116.336037,
+      "latitude": 40.029715,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8c2d7f7d04ad8d06f788295333e2797",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c687801d1af5b4e6d408e6db7c1decae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式技术",
+        "Spring",
+        "Hibernate",
+        "MySQL",
+        "Redis",
+        "Linux",
+        "架构师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "ceo",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181014/6bec17088f77805727924e6dbc4e1f47613594dad7d97dfdc342b3c816f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "合晟铭途",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "155fb9b5668e84071XJ53Nq8EA~~",
+      "brandName": "合晟铭途",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180829/c30337e861008747afa2f8ecbed94da6613594dad7d97dfdc342b3c816f1a7e7.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721807136189,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合晟铭途",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

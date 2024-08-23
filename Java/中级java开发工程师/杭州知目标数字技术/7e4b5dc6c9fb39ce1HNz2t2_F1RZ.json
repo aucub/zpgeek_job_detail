@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iELMu2Laf0bor-n1W3f7uIFJBbxHmQA8_D5VAWOvxeZ2hyKKt2F-HSPgExD8T7yjrH-j5iyHWadn-HKIwj5Kyl8BvOEptUwTNAleetniNdnE_VUPAlD5lHbthd9wmBkYuco7GpaJHLofAFY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7e4b5dc6c9fb39ce1HNz2t2_F1RZ",
+      "encryptUserId": "4597565a8003d2781XR-29i-F1NS",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的系统分析和详细设计，完成开发任务；\n2、有良好的质量意识及代码规范，保证单元测试质量，并完成设计优化及性能优化；\n3、参与建设通用、灵活、智能的业务支撑平台的讨论与设计；\n4、根据设计文档或需求说明完成代码编写、调试、测试和维护；\n\n任职要求：\n1、精通web开发的相关技术，有扎实的java基础，3年以上使用JAVA进行web开发的经验\n2、熟悉Spring Boot，Spring MVC，MyBatis、Hibernate等常用框架\n3、熟悉redis、消息队列、搜索引擎(如Solr、ES等)机制\n4、熟悉常用的关系型数据库如mysql、oracle，熟悉数据库优化及SQL优化\n5、熟悉git、maven等版本管理软件\n6、较强的逻辑思维能力、学习能力，有良好的沟通和团队协作能力\n7、有低代码相关经验优先",
+      "encryptAddressId": "88452e64f8e44f271nV92Nm-F1RXxYS5U_6f",
+      "address": "杭州余杭区华滋科欣·设计创意园4号楼504室",
+      "longitude": 120.113187,
+      "latitude": 30.339203,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf50c733ff13643505c25382bc8a04e6166bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230611/48ba41acc9cef1bf8d2ae4049faa6279630b4a2f94442cc46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Elasticsearch",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MES开发经验",
+        "低代码经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210218/a16d8185b75c143886523fd2c413870e89a502d81812db6df12970e7b2d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州知目标数字技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "445563c82142e3d51HJ929W7EFQ~",
+      "brandName": "杭州知目标数字技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724377813341,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州知目标数字技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

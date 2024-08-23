@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GGJRZgKtmHqVp-p1vy2ut4Lwq3HyPt6t1bNZTTrPuYLx0SQTf6h5O6Z6siStvHa_Zb_5ZNbym5exdL2G0IGRa1Y7dSC2PMnbQdeehhU8rAdifIoZDxI4HPO1U5B-EBcbDnqPPVuL5bRIp5I~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b0ac76a45735cafa1HF409W5FFpX",
+      "encryptUserId": "efcb41867c7425dc0nZy3Nq9F1JX",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1. 根据产品需求文档，完成软件设计并编写相关文档；\n2. 负责功能代码编写、模块集成、单元测试、模块测试及确认工作；\n3. 参与产品功能设计及优化；\n4. 主持和参与代码评审会，确保系统的编码质量。\n任职要求：1. 本科及以上学历，计算机相关专业；\n2. 2年以上Java实际开发经验，精通Java，精通多线程编程，具有大规模程序项目的实现及调试经验优先；\n3. 熟悉Springboot, Springcloud, JPA等开源框架；\n4. 熟悉ETL工具集或者数据库工具集，熟练使用MySQL、MongoDB或其他NOSql型至少一种数据库，熟练编写SQL语句，有数据库调优经验；\n5. 熟悉Linux常用命令, 熟练编写shell/python脚本；\n6. 熟悉maven，熟练使用git/svn等版本管理工具，了解Jenkins；\n7. 在github发布过自己开源软件或参与过开源项目开发者优先；\n8. 对技术感兴趣，喜欢钻研；性格开朗、有良好的团队意识、工作踏实、责任心强。\n岗位职责：",
+      "encryptAddressId": "9247c4d54430dfe80HN539m7EVpWy4u6Ufw~",
+      "address": "北京海淀区北京市海淀区闵庄路3号玉泉慧谷科技园6号楼6号楼",
+      "longitude": 116.257911,
+      "latitude": 39.975043,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d90022771cc80b214eecedc0ce349397",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/029f69b4cec0da86e25912c7b10271ab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "泰盛天恒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c66e626cba8c2fb21nRy2tu4FVQ~",
+      "brandName": "泰盛天恒",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723797387876,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泰盛天恒",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

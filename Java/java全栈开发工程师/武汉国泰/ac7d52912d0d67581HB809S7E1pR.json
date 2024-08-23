@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "fbha3HmPfWzfh-n1OEG1znbyltw8Wa72KFsjFem8ji7BJ1WWHquW6rYpHZ4etW_WN2ZEtMWassPS3IwtXHMBInOTXhLr9vYz6elXhpyNadypliJptolLWotGbMgMZ2Ti0Li7UIMyVZ0bh6JmZD4TJvfp",
+    "securityId": "rnfdw5C1nSynF-I1IB8-d1x_itce1o6hfvkeDCvAZFQrC7GKfn_SIykb4gcCnFyjufvMUn9CliydBcpQadc0DwCT927ArUG8fLG4a9ELmceEWAZ_PG07tfVWH0LILKFoLAcrOIaAD9X00nB7HLRc3g0H_IK7CCS6QAiuirsY7F3eJpXgP8w~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -48,7 +48,7 @@
       "title": "经理",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
+      "activeTimeDesc": "3日内活跃",
       "bossOnline": false,
       "brandName": "武汉国泰",
       "bossSource": 0,
@@ -78,10 +78,10 @@
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
-      "canSendResume": true,
-      "canSendPhone": false,
+      "canSendResume": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

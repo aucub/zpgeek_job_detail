@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FDbPrkfmQtbfg-z1sMSZy0caHtWm-AJo9fva5RnFktK89RHcH8C6aylwLNMfQif50qZit2McyjvaIcwKgat4QaXUlwKgJNrA_e9jOKkU4VIT9y-CgXmllZe-nVwGt01kkasr1n2SrkHgBLvD_kUBW6pKPYjAwF3cycZ4kWk1-LJD9Uskzns~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f928c944049fdd6d1Hd409y4FVJQ",
+      "encryptUserId": "d03137c6bb99f1720Xd53tu9FFNX",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-18K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 负责产品的需求分析，参与需求讨论和功能设计，输出设计文档；\n2. 参与项目排期计划与执行交付，完成代码开发，保证代码质量，解决项目开发过程中遇到的技术问题；\n3. 参与系统优化、生产系统的稳定性保障等工作； \n任职要求:\n1. 本科及以上学历，3年以上相关工作经验，具有良好的数据结构、网络、操作系统等计算机基础知识；\n2. 熟练掌握Spring，SpringCloud相关的技术栈；\n3. 熟练使用常用数据库Mysql，ClickHouse等，具备一定的大规模数据处理能力；\n4. 熟练使用Redis、Kafka、zookeeper、mongodb等中间件，对其实现原理有一定了解；\n5. 良好的学习能力和技术自驱力，具有和工作年限相匹配的技术深度和广度；\n6. 具备一定的2C场景经验者优先。",
+      "encryptAddressId": "b04773eb2870bab83ndz3N60FFpRwYi-Vf0~",
+      "address": "北京昌平区中国电信股份有限公司北京研究院(蓬莱苑南街)北七家",
+      "longitude": 116.468825,
+      "latitude": 40.108113,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf4235a8113d71f501c5e230c97d2df7716bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bfed9315e0a4a851aee9f7671e77d828566bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240117/607f1f3d68754fd05acc5da621ec6790cfa50b54be193a60e97e787be866518810d5d01f336c710_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "吉林省智迅未来",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ca7c12a06df5a7f1X1z29u6EVo~",
+      "brandName": "吉林省智迅未来",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230830/7bf6f160950405e99aa6ee8f1c4212a8b057b809273af5214bc8e068911c433f3f19d2d80b730272.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "网络安全，技术服务、技术开发\n\n运用前沿人工智能技术打造的聊天工具，采用最新的国产大模型技术，自主研发，展现卓越的文本生成和语言理解能力，致力于为国内用户提供全球顶尖的生产力工具，帮助用户实现指数级的生产力提升。",
+      "labels": [
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1724398829755,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "吉林省智迅未来",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

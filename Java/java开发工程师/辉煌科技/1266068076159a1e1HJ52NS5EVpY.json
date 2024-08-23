@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8twt_AlBwe0Rz-m1vO8ldm-kTqGfS0XHLEuQnnks5rwT-vVneaJOAoDDFpp0xB6xYo6YTzuWPAmhCxPycRm-Yq4wDvsV4jdBlIHi6E8rDm4syHYhJTTNCXLR9A8LltoPAgKorCgDRGZd7QY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1266068076159a1e1HJ52NS5EVpY",
+      "encryptUserId": "13e7109808e220b90n173dW0F1dQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责实现后端业务接口的开发工作\n2、负责产品后端开发与前端交互实现\n3、负责功能的自测以及BUG的修复\n4、负责及时处理线上出现的突发问题\n5、负责完成上级领导布置的指定任务\n岗位要求\n1、年及以上相关工作经验，有过带小组的经验者优先；\n2、计算机软件相关专业，统招本科及以上学历，有比较好的学习能力 ；\n3、有比较强抗压能力、责任心和上进心，具有独立需求分析和解决问题的能力；\n4、具备良好的推动力，沟通能力，能够比较好的控制和协调好小组开发的工作进度；\n5、熟悉软件开发的流程、对敏捷开发很了解，并有充分实践；\n6、有扎实的java基础功底，熟悉springboot开发框架；\n7、熟悉redis、kafka、elasticsearch等相关技术；\n8、熟悉Mysql、Oracle、postgresql关系型数据库中的其中一种，能根据业务需求对慢SQL进行优化；",
+      "encryptAddressId": "550f4f82240691ae3ndz39m_GVpYyom3WPo~",
+      "address": "常州武进区新城帝景东区38栋",
+      "longitude": 119.953545,
+      "latitude": 31.706203,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/07c9dee75ee52a9c12dad02749e978d7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/afe750e37a362a00574c400eacbb779d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "接受居家办公",
+        "Java",
+        "PHP",
+        "SpringCloud",
+        "MyBatis",
+        "Dubbo",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "架构设计经验",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "商女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "辉煌科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b0d0c63331b505781n1629W0GVY~",
+      "brandName": "辉煌科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "江苏互联网软件高新技术企业",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1721793448579,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辉煌科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

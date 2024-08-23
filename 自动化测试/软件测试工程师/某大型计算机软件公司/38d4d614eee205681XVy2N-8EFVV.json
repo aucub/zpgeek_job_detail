@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QEWdnXC3KFdci-c1dumHg3VvErZ77Tb-TT3NRphTyhVy3nOmyKCPw3lRypNu_NT9vmddJJiv0hAa1EQu4W5DwkW1Z8koFrSdy4lSBHQa5UshTQi914Q-zUd7UMLM6sT9IIpO6QjL1A--",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38d4d614eee205681XVy2N-8EFVV",
+      "encryptUserId": "0c3e31b497cffd1703N829m8FVM~",
+      "invalidStatus": false,
+      "jobName": "软件测试工程师",
+      "position": 100302,
+      "positionName": "自动化测试",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 1,
+      "salaryDesc": "20-40K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "负责软件产品的需求评审，设计评审，测试计划编写，测试用例设计和实现，测试执行，bug tracking等。\n职位要求:\n1. 熟练使用linux常见操作命令和工具；对linux的shell，deb等具备一定的了解。\n2. 具备一定的Linux OS知识；对系统进程（进程执行原理，库加载，优先级，信号处理等），内存（shm等），系统调用过程具备一定的了解。\n3. 熟悉常见的tcp/ip协议内容，熟悉tcpdump，wireshark等网络debug工具；rdma网络熟悉尤佳；\n4. 熟练使用Docker，会编写Dockerfile；熟练使用kubernets，VM，KVM等。\n5. 熟悉常见测试用例的设计方法\n6. 了解一个产品整个生命周期的测试活动，对产品工程化涉及的安全性测试，易用性测试，兼容性测试，可用性测试等有一定了解。\n7. 对工作有热情，乐于学习新知识，善于团队协作。",
+      "encryptAddressId": "4c80c2fa179e84f80nV63du8EFA~",
+      "address": "北京海淀区海龙大厦十层",
+      "longitude": 116.31535,
+      "latitude": 39.983453,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f7d128408eae0d429cbed14e382f16a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7899281c6a9ff735ac820b238fbdf2e7",
+      "overseasAddressList": null,
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "Linux"
+      ],
+      "anonymous": 20,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "猎头顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190306/85055a1310632e98b73462892137bc07cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "武汉举贤",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "",
+      "brandName": "某大型计算机软件公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/d3c6baef296e95762de0802dabf63c06a778a0d7c89f7c91cc68f632d30ad625.png",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "趋动科技（VirtAITech.com）作为软件定义AI算力技术的领导厂商，专注于为全球用户提供国际领先的数据中心级AI算力虚拟化和资源池化软件及解决方案，已完成中关村高新、国高新、“专精特新”等企业认证，并认证了ISO9001和ISO27001资质。趋动科技拥有专业的研发、运营和服务团队，被评为 WISE2020「新基建创业榜」最具成长性创业公司TOP20、「REAL 100创新家」、「2021创业邦100未来独角兽」、「投中2021年度 中国人工智能与大数据产业最佳投资案例Top10」等。\n\n基于完全自主可控的GPU虚拟化和池化技术及国产生态上下游的打通，趋动科技致力于打破国产化基础设施适配困难、多种架构的信创产品适配效率低、缺少统一的信创资源服务平台的窘境，希望凭借自身力量，帮助行业逐步建立国产 IT 底层架构和标准，形成自有开放生态，解决核心技术关键环节“卡脖子”的问题，助力国产化应用的创新发展。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "住房补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金",
+        "不打卡"
+      ],
+      "activeTime": 1723715362000,
+      "visibleBrandInfo": false,
+      "focusBrand": false,
+      "customerBrandName": "某大型计算机软件公司",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

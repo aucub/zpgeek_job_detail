@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "817zF5BzV1gpE-N1AUW7NfeBwUwu8gNuJtztQjQGbJOhpZ_ugBf_IofVOLNBo50bDAbKI8fhlWZbCu0X20uqEtK6SKQGucdFMruxkrOOA_ZnxL8urjNe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec744fed0a0f1d881nJ_09u0GVNU",
+      "encryptUserId": "27a6633dea9c6fa50nd83tm7GVdZ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-16K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责嵌入式软件的程序设计与代码编写；\n2.负责有关技术方案、文档的编写，软件单元的调试、测试与维护；\n3.与硬件工程师协作完成产品整机调试和测试；\n4.负责因工作需要所做的其他安排.\n\n任职要求：\n\n1.计算机、电气工程、电力电子、自动控制等相关专业本科以上学历；\n2.有良好的软件开发习惯，能够撰写相关的技术文档；\n3.能看懂基本的电路原理图；\n4.熟悉ARM Cortex-M3/Cortex-M4硬件体系结构，具有STM32系列MCU开发经验者优先；\n5.熟练使用C语言进行嵌入式软件开发，熟悉uCOS-II或uCOS-III，有相关开发经验者优先；\n6.熟悉SourceInsight、MDK或IAR等编程及调试工具的使用，具有ARM GCC使用经验者优先；\n7.精通外围设备/器件应用（UART/SPI/I2C/ADC等）及相关中英文datasheet阅读理解；\n8.具有2年以上嵌入式开发工作经验；月薪可面议。",
+      "encryptAddressId": "fc37fe0a773918d00nF609m4EQ~~",
+      "address": "北京海淀区民营科技创业园E座3层301室",
+      "longitude": 116.315348,
+      "latitude": 40.020205,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0955eedd26981e60f87fb6fdd93fac1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc54cfb1b88dfcef183993270c1b4d62",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "SQL",
+        "WEB开发",
+        "C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "国华世纪",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c0c76435addeedac1nJy09-5EVA~",
+      "brandName": "国华世纪",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "国华世纪是一家专业从事产品研发、系统集成、软件开发等业务，并提供运维服务和整体解结方案的综合性科技企业。",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1721810360512,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "国华世纪",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

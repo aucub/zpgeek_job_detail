@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "3oY8kZdJ7X0BZ-x1g68qObd8cqNyQXdDxU2v1M-R_UuhElNJBg4aAuME3lBF4Pl5qQJAFZggM-XcOYT2w4l-TRYE9AaqnAagpwsXJ74o42pt2rbedURpjNcacwEERXmkB-YuOHiW0REjPot-xTos",
+    "securityId": "XGSG5Ir1Dw-Mz-51c_NDBjI1hLkHEXro6nmkWVubGEzhWB3UK8sMEPK0ygA_r40TSjs9X68sWmSi-9jnR7fCeE5VDucgVOqOYjEC1O-1nZJhaWADlOoSeADYfxM6Y7ovltUwFsHgdR6E_60JmPRhID31RpfqMolZBHAWypGfiMdJFWA~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,15 +33,18 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
         "Golang",
-        "Python",
-        "Zookeeper",
+        "Java",
+        "分布式经验",
+        "微服务经验",
         "Elasticsearch",
-        "其他",
+        "Zookeeper",
         "MySQL",
         "Redis",
-        "MongoDB"
+        "其他",
+        "MongoDB",
+        "架构设计经验",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "最新"
@@ -49,10 +52,10 @@
     "bossInfo": {
       "name": "刘先生",
       "title": "技术经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211201/607f1f3d68754fd0f87d47ed71ffb62003bfbcddc8d7d9a60ecd5334155f4550a372cabb163_b.jpg",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240822/607f1f3d68754fd0e881fad9d731cf47e674003f3c0730760ecd5334155f4550a372cabb163db4f_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "北京字节跳动",
       "bossSource": 0,
       "certificated": true,
@@ -92,7 +95,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724302043550,
+      "activeTime": 1724398561692,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "北京字节跳动",

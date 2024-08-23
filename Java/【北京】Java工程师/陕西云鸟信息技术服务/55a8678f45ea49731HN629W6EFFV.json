@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AiMvYVTiWr-Mo-51rPxkHC-5cD3S1bKT4WKVndtigkDBGtJ4yWZMFaHgIysENG-cBs_I0VWn0GFL5UiooX2f39B26Pd5KxTOSfdE2D_KvOwJ_JufxsyXRteBuTXd-74JDqJsJ3vt07Z8rcM_bk2oD-41e7WFooOAGm-CoL_PrG3fmiocqg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "55a8678f45ea49731HN629W6EFFV",
+      "encryptUserId": "2f763910f7cc4eca1HVy29q9EVs~",
+      "invalidStatus": false,
+      "jobName": "【北京】Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责应用框架的建设与维护，开展应用框架设计，擅长公共组件及SDK设计。\n2. 使用spring框架、spring boot和springcloud技术进行开发。\n3. 对TKE和TSF进行实际集成，有相关经验。\n4. 编写设计文档，能按照UML标准进行编写。\n5. 运用Dubbo微服务框架进行服务设计。\n6. 牵头制定技术方案。\n7. 设计和实现缓存组件。\n\n岗位要求：\n1. 具备至少8年左右的Java开发经验。\n2. 熟悉redis，具有缓存组件设计经验。\n3. 熟悉spring框架、spring boot和springcloud技术。\n4. 熟悉TKE和TSF，有实际集成经验。\n5. 熟悉UML基础概念，能按UML标准编写设计文档。\n6. 熟悉Dubbo微服务框架。\n8. 熟悉Docker。",
+      "encryptAddressId": "0b066fdb21c780551nR50ti8FVZXyou9Ufqe",
+      "address": "北京东城区华丽大厦（华丽大厦）",
+      "longitude": 116.425242,
+      "latitude": 39.915184,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf5baf99cb0f02d28a7ae5db0e568ffac56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfebadff93ddbce6b178fe3612bdd0166b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Docker",
+        "Dubbo",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190424/fc9c9d73da1bd54e2e1c2c55a437866840eeaf550b11f1fc263f8140aec_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "陕西云鸟信息技术服务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0a7727cb4dfd4c241X180tS6E1o~",
+      "brandName": "陕西云鸟信息技术服务",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724398999662,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西云鸟信息技术服务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

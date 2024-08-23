@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KTg34LdYJN2di-l1v4z36DKw-rXg4foji7-ZD4CIOcjoBn9e5v84KuC6i13Hlv0lVTefSYGe5JdT2DbC2-zB4UWNG8syytuV0TwQOa4Hj75aK5PG6IXbAq39V_qIMpjXpNv6bTJhwwX7dA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fc6c603cbc7750b71HN90tW9GFBQ",
+      "encryptUserId": "0082603aace9e17e1n1-2tS1EVo~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练掌握Java语言，熟悉面向对象编程，熟悉Java中集合、异常、并发处理等机制。\n2.熟练掌握 MySQL 数据库，掌握数据库事务以及优化数据库的经验。\n3.熟练掌握 Redis 的使用,熟悉 Redis 持久化的机制，能够预防及解决缓存穿透、击穿、雪崩的问题。\n4..熟练使用 SpringBoot，SSM 等主流框架，对 IOC 和 AOP 有较深的理解。\n5.熟练使用 Spring-Cloud 的相关组件，掌握 Nacos 微服务中间件的使用。\n6..熟练运用RabbitMQ信息中间技术，对于常见问题有一定的解决方案。\n7.熟悉 HTML，JS，VUE 等前端技术。\n8.熟悉 Linux 的常用命令。\n9.熟练运用 Nginx 的基本配置以及使用。\n10.熟练使用Git、Maven等工具实现项目管理 。",
+      "encryptAddressId": "e42cf8aad72f4cfb1nV_0tW5EldWy4u2VviX",
+      "address": "杭州滨江区德信AI产业园c座808",
+      "longitude": 120.1562,
+      "latitude": 30.181014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6262872a0c37aedd105e7b28f32b48e4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/04f185d735eb18fa968af508ce64d127",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "Tomcat",
+        "Docker",
+        "MySQL",
+        "Oracle",
+        "MongoDB",
+        "团队管理经验",
+        "架构设计经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州智启星辰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "10c119b5d63134e81HF829q9F1U~",
+      "brandName": "杭州智启星辰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724383296845,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州智启星辰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

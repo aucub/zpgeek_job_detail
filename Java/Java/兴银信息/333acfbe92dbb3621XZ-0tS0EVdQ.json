@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qWQyC1pTtrrGH-f1mMiL6i-IqTUuqwN80nRlrLmiweocofTR1QU-Hh7p2Z5LBSBhEMbOyBNMpC1ui5U4Em4llbTsNJnRIoDwvqFePUaBBNGp_H9WwPo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "333acfbe92dbb3621XZ-0tS0EVdQ",
+      "encryptUserId": "7ba221622c0bb2bd1Hd52d-0GVQ~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-24K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、承担核心功能代码编写，重点项目架构设计开发\n2、深入理解业务需求，分析和发现系统的优化点，负责推动产品性能和架构优化\n3、负责相关系统维护，确保系统运行稳定可靠\n4、推动跟进业务线需求，为改善系统的功能积极提出建议\n5、参与团队技术交流和分享活动，促进团队共同进步\n6、根据产品需求完成程序的设计和开发\n任职需求：\n1.全日制本科或以上学历；\n2.熟练使用springcloud、maven，熟练使用mybatis；\n3.熟练Html、Javascript、Ajax相关语言，熟练jquery开发\n4.熟练使用MySql,Oracle,Sql Server数据库其中一种数据库\n5.良好的沟通能力，有较强的口头/书面表达能力；\n6.有较强的责任心，做事积极主动，具有良好的团队精神；\n7.有elasticsearch使用经验者优先；",
+      "encryptAddressId": "3450da00cf015a3c0XV73N2-EFo~",
+      "address": "南京建邺区大唐科技大厦B座12楼",
+      "longitude": 118.744443,
+      "latitude": 31.998211,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98fc2df59e537b7b6f201f3e0ab49db8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af68937957a9e1c951d7b9da9d197855",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot",
+        "MySQL",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "研发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "兴银信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dad82eb616f5a4841XR53tS1GFs~",
+      "brandName": "兴银信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100011,
+      "industryName": "音乐/视频/阅读",
+      "introduce": "我们的初心是让价值得到体现，通过视频的方式，记录正能量和美好生活。我们将致力成为具有世界影响力的公司。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "股票期权",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1721787070277,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "兴银信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

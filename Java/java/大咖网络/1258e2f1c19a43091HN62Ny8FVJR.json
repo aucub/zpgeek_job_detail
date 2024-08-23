@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "idJnDRPzgu3P8-z1JDXQT6EYQj8xnzXEMUHJ-ZMgk1eLumQTIVHQwboV_CwOU77x8N0-AThDh9tG1-s3dSMrov3fwXhwdUROqu1U4P5YPpaLYAxKUfgATcboiwlP8NoVfciILpraxMyDq4HFQzlh0W7qVPXHyN_iEWncsw6UBDNuF3vmbwU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1258e2f1c19a43091HN62Ny8FVJR",
+      "encryptUserId": "8c308130e69bc2fb0nR709y0EVpX",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "13-16K",
+      "payTypeDesc": null,
+      "postDescription": "【新岗位】！！！\n职位名称：Java 开发\n要求：\n本科及以上学历，计算机相关专业。\n至少2年以上 Java 开发经验。\n熟练掌握 Spring Boot、Dubbo 框架，有实际项目经验。\n熟悉 MySQL 数据库等主流中间件，具备数据库设计和优化能力。\n熟悉常用的开发工具和技术，如 Git、Maven 等。\n具备良好的团队合作精神和沟通能力。\n对通用大模型、AIGC和相关技术有兴趣和热情。\n\n加分项：\n有AIGC相关项目经验者优先。\n熟悉 Python 编程语言，有相关开发经验。\n了解 langchain 框架，有使用经验者优先。",
+      "encryptAddressId": "c146b51836d13b230HN62Ny1FlpWwo2-Uvg~",
+      "address": "北京大兴区大族广场大族",
+      "longitude": 116.512841,
+      "latitude": 39.79181,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1477ebf51a5f3904db958909a6c89f28",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/354320876369a6ff847f84f38cac3cbd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Dubbo",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231227/607f1f3d68754fd08007953f7c9c0fae580601d7c17f29ac5a2b6f305fb6de2e3dca95eb19b7367_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "大咖网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cb2ed77e4d3ec7ae1XZ-3t-0EVo~",
+      "brandName": "大咖网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724398939592,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大咖网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Nhizz4cz1BKSa-L1NXGg2e3K142jnKXbPHJY-zO7TMHe8idnFod5TQ_NF9RDr6KXO6ilSU6xh721gsDZKLUfyj5vN1frN62QBPBcb3UuQaBMcer18upPwCE9sl4SxEmThtB7PslocqcOZg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0e49dd3103573ef61HV93d29GVBU",
+      "encryptUserId": "69482a03f1485e161Hd53t-4EVU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1.负责与项目主管对接，熟悉项目的开发计划，及项目的概要设计说明，完成数据库设计。\n2.按计划、功能模块的功能设计，进行代码实现,代码编写和单元测试，并提交测试人员进行功\n能测试。\n3.与测试人员对接，完成相关功能模块的BUG修复。\n4.探索并应用前沿技术，以保持技术的先进性。\n【任职要求】\n1.计算机或相关专业本科及以上学历。\n2.扎实的java基础，负责或参加过至少2个J2EE为主的大中型软件开发经验。\n3.掌握SpringCloud、Springboot等分布式微服务架构，熟悉微服务开发模式以及RESTful\n接口规范。\n4.熟悉MySQL、Redis，对于数据查询调优有一定经验，了解ElasticSearch。\n5.熟悉消息队列机制，了解一些开源分布式中间件。\n6.熟悉前端技术vue、Bootstrap、elementUI、webpack等常用框架。\n6.熟悉常用的linux命令及shell脚本,能够在linux环境下完成项目运行环境的搭建，WEB程序\n的部署和调试。\n7.熟练使用SVN、Git、Maven等项目管理和构建工具。\n7.优先考虑\n（1）有分布式、高并发、高可用性系统的设计开发经验者。\n（2）有良好的沟通能力和合作精神，工作主动性强，耐心细致，责任心强。\n（3）了解Docker、Kubernetes等容器技术。",
+      "encryptAddressId": "f599606cca5ffbb41nd739W0FlNX",
+      "address": "海口美兰区桫椤湾娱乐艺术风情街2-11",
+      "longitude": 110.374221,
+      "latitude": 20.020304,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bfc2cea00f729d15878b3a9189deb3c0b96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bff952e8c389805bd0c6825608856a288a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C#",
+        "SpringCloud",
+        "Nginx",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "架构设计经验",
+        "团队管理经验",
+        "微服务经验",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "企业法人代表",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "智地汇水",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a276d9daeb433a481HRy2dy7FlE~",
+      "brandName": "智地汇水",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721793448750,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智地汇水",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

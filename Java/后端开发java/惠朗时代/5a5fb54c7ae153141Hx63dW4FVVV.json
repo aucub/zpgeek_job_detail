@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X2_7c9EHW6QYf-s1quak323wYf4OhdFvgtV6ue5rzJWD5Zc7HP9AgA45VZbvoHO58TfnIZamOORmgfAMJkojJiyXCQB7ylrNwE00IwXkjjbL_0YABXiOQ7eYoz-9S1YkrSlwiXqyRg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a5fb54c7ae153141Hx63dW4FVVV",
+      "encryptUserId": "4eef753082010b2e3nxz39W1",
+      "invalidStatus": false,
+      "jobName": "后端开发java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n负责智能印章管理系统的设计和代码开发工作；\n负责所开发模块的开发计划制定、进度推进、质量保证等相关工作；\n定期CodeReview，提升代码的健壮性和响应速度，同时精进技术能力。\n任职要求\n1、计算机或者相关专业本科及以上学历。\n2、有大型分布式系统设计和开发经验，对分布式相关理论有深入的理解者优先。\n3、熟悉Java语言，具备良好的算法和编程能力。\n4、熟悉Spring、Spring Boot 、Spring Cloud等各种开源框架，特别在Spring/Spring Boot领域有丰富的项目实践经验者优先。\n5、熟悉Oracle、Mysql等数据库，有相关数据开发经验。\n6、熟悉WebService和API方式的接口联调。\n7、熟悉nginx、redis、rocketmq等相关技术优先。\n8、可独立部署服务的优先。\n9、有较强的学习能力、良好的团队协作能力、良好的沟通表达能力。",
+      "encryptAddressId": "aa7e70d754e4e49b3nR82d64F1E~",
+      "address": "北京大兴区北京惠朗时代科技有限公司4层",
+      "longitude": 116.354021,
+      "latitude": 39.755884,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bfb42965fb82f3bf7f5df8068e81c103a66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230511/48ba41acc9cef1bf9febaa773adb5bf73125bd0b854341656bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "单女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "惠朗时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "812f183b75030ada33x72tq9Fw~~",
+      "brandName": "惠朗时代",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724383392989,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "惠朗时代",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

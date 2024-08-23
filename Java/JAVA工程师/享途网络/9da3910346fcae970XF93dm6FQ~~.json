@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rEJRfnv59TPwC-g132dMQ1QR-sIwlh2KCYEliO3chRmAXPTeQh2y5fzMizfBVdLc5LRc3eDqMx_OWRsBTkV5n0A2nvuym5fB38IPVucuLxhMC2LBXGipCeUA3MI5ohVZJ7w5vbI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9da3910346fcae970XF93dm6FQ~~",
+      "encryptUserId": "2e17ee04770d6c9b0Hdz0tW1EA~~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.根据需求文档，进行服务器端业务开发。\n2.按照公司技术文档规范编写简单的技术文档。     \n3.对于关键方法和过程能编写单元测试。\n配合测试人员对自己负责的模块进行和集成测试。  \n\n任职要求： \n1.精通Java/J2EE编程，熟练使用Eclipse/Git/MVN等开发工具，有2年以上开发经验 \n2.熟悉主流技术栈，如Spring，Mysql，redis，rabbitMQ，zookeeper等\n3.能熟练使用常见分布式框架，如Spring Cloud、dubbo等。\n4.有良好的代码书写、注释和单元测试习惯\n5.熟悉Linux操作系统，掌握常用的Linux命令。 \n主观能动性强，具备良好的沟通合作技巧，较强的责任心及团队合作精神。",
+      "encryptAddressId": "03c5b69b8fa475b41HN70965EQ~~",
+      "address": "上海杨浦区国华广场A区(A1门)办公1号楼12层",
+      "longitude": 121.511592,
+      "latitude": 31.311801,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/baf0b1fcd009b626d4439a001787a2ad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92bfaefcee1c1cf4b46e2efbc5c22e71",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Java",
+        "Spring Cloud",
+        "dubbo"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "程女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "享途网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "39cadf33e32ba6551Hd-3d-9",
+      "brandName": "享途网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210907/7b5b554d84f9729c6d83bd75a411f4e9d1a0f938bbecc46ab77ea0f7064659f8c462536203ec4f3d.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100801,
+      "industryName": "汽车研发/制造",
+      "introduce": "乐车邦成立于2015年2月，是一家以创新技术赋能4S店智慧零售的平台企业。核心商业模式：数字化+管理赋能4S店，旗下包括4S店数字化服务商魔轮、4S店养车折扣平台乐车邦、4S店管理服务平台世远汽车、汽车人社交媒体人和岛。\n\n 目前，魔轮SaaS服务合作汽车主机厂以及1300多家4S店，乐车邦平台注册用户突破1800万，合作精选4S店近6000家，覆盖80个汽车品牌，世远汽车管理服务超过100家4S店，汽车人社交媒体拥有5万多实名注册的活跃精英用户。\n \n乐车邦累计融资金额超过5亿元人民币，投资方包括红杉资本、远翼投资、均胜电子、祥峰投资、凯辉基金、百度、博汇源等知名投资机构。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724033367400,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "享途网络",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

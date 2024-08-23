@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ubg5WRpz-hCh_-k1Ha5A40tHm43_OVFOcKkY_TPtUAFGjF3l-wlIy5cCQGn8CZQk01V0BVpn69fm-uqsBAgUZ7zmTlX0bIXu5ZCnsFFcBSv_0oN84xJOQGu-p_hoF4Ii0yGtl52upZA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e003f4579bc6d9de03x62N--FlQ~",
+      "encryptUserId": "a993a70e19064cc10XFz3d6_FlE~",
+      "invalidStatus": false,
+      "jobName": "Python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "这个不是做爬虫或django什么Web开发，是Raspberry Pi(中文名为“树莓派）的嵌入式开发。这个岗没直接经验没关系，需要有兴趣和自学能力好的。\r\n\r\n你参与好日方机器人开发团队协同开发，测试，样机功能验证，杭州老司机会带你。主要语言python、c++。 基于Raspberry Pi主板开发。日方团队老大是东大老博士*（70多岁了）  机器人开发者学习的大好机会。\r\n\r\n岗位职责：\r\n（1）主要负责看护陪伴机器人软件，测试。和bug整理，问题反馈。\r\n（2）参与看护陪伴机器人软件集成、样机测试和调试。\r\n（3）负责样机演示程序的开发，调试，负责demo技术保障。\r\n任职资格：\r\n（1）统招本科及以上学历，计算机、机器人、自动控制、电子、通信等专业毕业，扎实的计算机编程基础；\r\n（2）精通Python、Java等编程语言；\r\n（3）3年以上软件研发经验，有机器人等智能设备底层嵌入软件或系统软件软件或互联网软件研发经验；\r\n（4）熟悉Linux操作系统、ROS、Docker容器等软件系统和开发环境；\r\n（5）熟悉语音识别、图像识别和SLAM等常见人工智能算法软件；\r\n（6）熟悉测试自动化编程；\r\n（7）责任心强，有良好的钻研精神和团队合作意识。\r\n\r\n优先考虑：\r\n（1）有激光雷达底层驱动程序实现经验优先；\r\n（2）有深度摄像头底层驱动程序实现经验优先；\r\n（3）有机械臂和机械手控制和驱动底层驱动程序实现经验优先；\r\n（4）有底盘马达控制和驱动底层驱动程序实现经验优先；\r\n（5）熟悉Raspberry Pi、Arduino等编程经验优先；\r\n（6）有机器人软件研发经验优先；\r\n（7）有CI/CD持续集成持续发布自动化脚本编程能力优先。\r\n（8）要是再会看日语文档简单日语基础的那就神了。",
+      "encryptAddressId": "cc1d857c407d91041nZ92t--GFA~",
+      "address": "杭州滨江区杭州华业高科技产业园25F2505室",
+      "longitude": 120.180419,
+      "latitude": 30.187353,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b6bb2d38cf60411a5c4ca3a3bee1708",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63bda0159510a2941b1bc805d3d0b1e3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "嵌入式",
+        "机器人"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "ceo",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190927/6adba372f9342c692f79f438b6ce22fbc1238e8bc08070b7bf50aec6e55_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "圣盈智成机器人",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5f321ff53e8fe9ef0nR82dy6EA~~",
+      "brandName": "圣盈智成机器人",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190711/aaab63ee8e3b97ec2e052a39107ec2bbc1238e8bc08070b7bf50aec6e551e9db_s.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "杭州圣盈智成机器人科技有限公司成立于杭州滨江高新区,获批海外高层次创业创新领军团队资质。公司秉承“以人为本、以诚为先、以创争优、以品守恒”的核心价值理念，专注于智能声控机器人等其相关领域的技术研发。创始人王永安已获滨江区政府5050计划创业创新领军人才资质以及浙江省外专局海外高端人才引智资质。\n\n●已申请机器人发明专利(发明名称：一种人机交流机器人与其控制方法)",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "股票期权",
+        "员工旅游"
+      ],
+      "activeTime": 1721794897675,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "圣盈智成机器人",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8WmfnNVLseQl6-Y1XZpI-ho0OOQhVqH7y6h3nRBhmJp1VwJADxfVJf0DTb6aTQe1qPPi99cihYwl3ddPzV6vrLp3ovCajf7DIET7KWaIqPlSeZ5YV1grRmusc2XPTDVw7A8yuKP0pbAXG7c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "72bcdb6019d1f96c1Xx62t21GVBR",
+      "encryptUserId": "bc71837cb674907f0nN_2tu1ElBR",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业毕业，本科以上。2年及以上 Java 和数据库开发经验\n2、熟悉MySQL，熟练使用SQL，熟悉SQL调优。熟练使用Liunx\n3、熟悉常用中间件，如Redis、Mq、ES等\n4、熟悉Spring MVC、Spring BOOT框架，熟悉spring配置及原理，熟悉 MyBatis 持久层框架\n5、做过电商类项目、熟悉微信、支付宝支付优先。有电商后台研发经验优先",
+      "encryptAddressId": "0809f0db8ad488430H143dq0EFQ~",
+      "address": "广州黄埔区绿地中央广场A1-709",
+      "longitude": 113.430502,
+      "latitude": 23.163727,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c55746d28d142dcd2d32ff06673cf88",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7934129dd98af085deeeea83263028ab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邢先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "会试智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d9528dbd771285d91XZ_29S9F1E~",
+      "brandName": "会试智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司基于自主前沿AIGC技术，为B端用户提供高保真低成本多体型试衣视频和小程序服务，为C端用户提供线上高保真试衣服务。公司创始人来自唯品会，中科院等机构，有多年在服装电商行业中成功应用AI技术的经验，公司成立初即完成天使轮融资，发展前景广阔。",
+      "labels": [
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724386381288,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "会试智能",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

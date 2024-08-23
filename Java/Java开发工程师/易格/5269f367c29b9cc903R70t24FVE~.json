@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "azsDzISAsisfC-M1t-6cmOaWXX7rtoU1FtJUuRpzVB4hpL2pC6-wPRgdO9zA88F9QSetgpY2_0vsModSMg-y-9e9uN6HKpj4TLQ2llCWACxr5QWWUHLi-jBoGFpRTYe4m6ogbT4MECo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5269f367c29b9cc903R70t24FVE~",
+      "encryptUserId": "9d072f72cb40be0b0XR53NW_FVI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、与团队其他成员配合，完成商城小程序、商城后台管理系统的服务API开发工作，并编写相关开发文档；\n2、关注最新服务端技术，在培训和指导下快速掌握新的技术；\n3、参与框架设计，关键技术选型，技术难题攻关，技术规范制定；\n4、严格遵守公司软件研发流程，按照标准及规范进行代码编写，保证代码的健壮性、可读性、易维护性；\n5、负责编写单元测试，完成负载和压力测试、接口的性能调优。\n\n任职要求：\n1、精通JAVA语言，掌握OOP、AOP编程设计理念；\n2、精通J2EE，掌握Struts、Hibernate、Spring、Servlet、MyBatis等技术；\n3、至少掌握两种以上的数据库：SQL Server、MongoDB、Oracle、MySQL；\n4、熟悉Redis、Lucene、Kafka等框架的使用；\n5、熟悉企业网站架构，有过企业级软件开发和大型网站开发经验；\n6、逻辑思维清晰，有良好的分析、解决问题的技巧；\n7、富有责任心，学习能力强，思想积极，行动高效，善于沟通，积极反馈，有较强团队合作意识；\n8、具有良好的文档撰写能力；\n9、对大数据、AI有研究者优先；\n10、大专以上学历，三年以上JAVA服务端开发经验，有商城相关软件开发经验者优先。",
+      "encryptAddressId": "b10e79d8e5b91e871XF42du1FFs~",
+      "address": "厦门湖里区软件园",
+      "longitude": 118.175748,
+      "latitude": 24.491007,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb719332d3d18c257a5747abd3ff7972",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9303e7392a3563ae850a58480a1ea9ee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端开发",
+        "系统架构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "易格",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a8977ddad6f65ba603Z_29y5Fw~~",
+      "brandName": "易格",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722735711000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易格",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jaT6Bhk37VdQ--N1UR1soaCxyPgM8KRRA4hRtBvNMsCX0FTHmmDAQSbbwqOy7tsir2cMAGSyh7BaTOOAszNTNdrliVm9fJAtW5b46C3CFATOtWSaAI2PYsvOClRliKrmbwhgfm62E6v2iFk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e22b1d9388c18c7c1HF52ty0ElBY",
+      "encryptUserId": "2a01cb5ccc81b5890nd42d28FFtQ",
+      "invalidStatus": false,
+      "jobName": "初级java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机相关专业，具有一定的技术文档功底，1-3年JAVA开发工作经验\n2、具有扎实的java功底，熟悉J2EE体系结构,熟悉JAVA开源框架，熟悉SSM框架，了解JVM原理\n3、深入理解面向对象的编程，熟悉软件开发过程，了解常见的设计模式，了解主流的设计思路和开发模式\n4、熟悉微服务技术框架（Dubbo或SpringBoot），有过使用springBoot实践开发经验者优先\n5、掌握数据库的理论知识，熟练使用MySQL数据库，能熟练应用Redis等缓存技术\n6、有高并发、高负载、高可用性分布式系统开发经验者优先\n7、有较好的沟通、自驱能力、自学能力和团队合作精神。",
+      "encryptAddressId": "1bf66ed0539a4fec33R42tS9F1FVwIi7Wfo~",
+      "address": "北京海淀区高科岭海淀区软件园一期17号楼高科岭",
+      "longitude": 116.291419,
+      "latitude": 40.051613,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfb329e2b95b1e8603e8bec906b94523ca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf808d04ada6e7348915bd9948ddfecfef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220803/607f1f3d68754fd08997c776ce20323b95ff1f72a19411b54761ede3ea320505a764ebd0cba_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "珺永科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3cc41404f6e9893c1HB-3N20FFA~",
+      "brandName": "珺永科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101106,
+      "industryName": "其他生活服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724393267953,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "珺永科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

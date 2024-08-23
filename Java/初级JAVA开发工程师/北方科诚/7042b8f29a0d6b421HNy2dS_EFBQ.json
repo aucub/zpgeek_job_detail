@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_fhxXvjTiKhHZ-y1e1uE2Ksmhe3o75xoQFzl-bI89hAkHR5Ji7qkSYerrPIliNVpnHd9_V4NALAMoxSEivFrBExohcDDSDqEtq_pL3P2TaBGF3CJqbSe2reITFkkXHmbk_xzi4SC2s0a9ymLRftHOwO0YsXKAIL5t86PWZoriPIe9H_s",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7042b8f29a0d6b421HNy2dS_EFBQ",
+      "encryptUserId": "4753e8cdb6aeeb2d03B-2967EFA~",
+      "invalidStatus": false,
+      "jobName": "初级JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.统招本科以上学历，软件工程、计算机相关专业，2年以上Java实际项目开发经验；\n2.熟悉相关开源框架（Spring、SpringBoot、Mybatis、Netty等）与中间件（Redis、RocketMQ/RabbitMQ/Kafka中一种、Dubbo/Motan/gRPC中一种、Tomcat/Nginx）；\n\n3.掌握JVM、多线程、事务，熟悉设计模式，有单元测试、重构与性能调优能力；\n\n4.熟悉软件研发流程和掌握相关工具（Intellij、Git、Maven、Jekins等）；",
+      "encryptAddressId": "d1339b4455963ec10nZ53NS6GFI~",
+      "address": "北京朝阳区丰联广场6层",
+      "longitude": 116.438511,
+      "latitude": 39.923609,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9532ed2bd9f35c7701794552dc647dad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03330e7de8e4d53f00b85327dbf00c97",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "分布式经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231031/607f1f3d68754fd0b9baff13a037dc467dc4ea940778f18e070c42dc42ebea55135bac9af0f9047_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北方科诚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01b0a8f17df18b1f1XR509y7GA~~",
+      "brandName": "北方科诚",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220315/7bf6f160950405e950532c292bf686df1ba262dbec60f1f7b83585d9ce5596e4d8e5cf5d79bd995a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京北方科诚于2003年成立于北京中关村，注册资本2200万元，员工人数100+人。是国内领先的企业数字化、智能化解决方案提供商。\n       自成立以来致力于中国石化、国家能源投资集团等特大型工业集团企业的数字化服务，在超大型综合集团企业数智化领域专注与深耕20年。依托服务大型企业的技术经验，为中小企业提供更优质完善数字化、智能化解决方案。\n       北京北方科诚于2012年11月挂牌新三板，成为中国第一批中国高科技企业上市企业，股票代码430158，拥有完全、自主的知识产权和专利软件著作权，已获得多个自主核心知识产权发明专利6项和自主研发软件著作权86项，并通过国家（级）高新技术企业和国家与北京市双软企业认定，也是第一批专精特新企业。",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724399324097,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北方科诚",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

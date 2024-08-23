@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MMQkiXqRIrqin-p1vz4TnAafHtInlH2r3djovHFAMKADDEbwp8X1lfaX-A9YjlJXKTdx9hXq-SkYhlAI3g9qvjXBuE0KuW3kXSj5QT7PyO6jKcSZ1gnjdhQGxvuKqmEwJ0joWw6ftrKFqVk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b09e4f830897bce61HN63NS4EVZU",
+      "encryptUserId": "82fe2b17547df5b00XJ82ty4ElRY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "负责政后台系统的设计、开发和维护工作\n- 参与系统稳定性建设，开发核心的稳定性工具及组件\n- 监控线上系统运行，及时解决线上出行的异常问题\n- 负责模块级代码调整\n- 对现有系统进行维护和升级，解决系统中出现的问题\n任职要求:   \n- 具备扎实的 java 编程能力，熟悉常用的设计模式\n- 熟练使用主流开发框架如SpringBoot、SpringCloud、MyBatis等\n- 熟练掌握前后端数据交互，熟悉一种前端框架，jquery，vue等\n- 能够熟练编写SQL语句，了解分库分表\n- 熟练使用linux 命令，有服务器部署经验，了解 docker，k8s\n- 能够使用各种调试工具，能熟练解决兼容性问题\n- 有良好的编码习惯，具备较强的较强的表达和沟通能力",
+      "encryptAddressId": "66118664dbdb98ad1nR-0ty0EVBYx422Vfia",
+      "address": "北京延庆区中关村现代园艺产业创新中心5号楼9层",
+      "longitude": 115.975673,
+      "latitude": 40.472388,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfea6307ceaca20300aa18cbdd94dad3f46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230727/48ba41acc9cef1bff4f1e3a0b839b6c07b1ba23ba85b911a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "SpringCloud",
+        "MyBatis",
+        "MongoDB",
+        "不接受居家办公",
+        "云计算经验",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩女士",
+      "title": "综合部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北京妫谷数智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a9756c1b1474fc771HJ63929GFQ~",
+      "brandName": "北京妫谷数智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "高温补贴",
+        "团建聚餐",
+        "餐补",
+        "带薪年假",
+        "绩效奖金",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724331926008,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京妫谷数智",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

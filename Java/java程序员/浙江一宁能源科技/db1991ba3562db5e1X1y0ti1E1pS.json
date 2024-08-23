@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DOQgD6aZ2iyby-E1HMZfTSJyPqTyO7WRg8G1pFY4yFt11jlC7jyJ0d7QcUTtkmZaqnqFdqVTjD50dC2IW53xp0NLt2c8L805BGWoZx01xPsIV-Y6qeqhMsJr7RnLb0RfUzcoLveAjSyRzOXwk9GVrCK4pAR0lMq9gPo7NaLUbnmmxL9U91M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db1991ba3562db5e1X1y0ti1E1pS",
+      "encryptUserId": "8163fbf08bf795960nN43Nu1GFNY",
+      "invalidStatus": false,
+      "jobName": "java程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "Java程序员\n1、熟悉Java，理解IO、多线程、集合、反射等基础框架，熟悉常见的设计模式；\n2、熟练使用Spring、SpringMVC、SpringBoot、、SpringCloud、MyBatis、MyBatis-Plus等常用开源框架；\n3、熟悉数据库体系结构，熟悉常见的索引、存储架构和技术，熟悉MySQL、PostgreSQL等数据库及Redis、Mongodb等NoSQL数据库的使用；\n4、熟悉Linux系统日常运维，熟悉Docker、K8S的基本使用；\n5、有较好的文档阅读及编写能力，具备较强的逻辑表达及积极主动的沟通意识，良好的团队合作能力，能快速理解业务，责任心强，能独立完成开发任务。",
+      "encryptAddressId": "2c20aabba92373a11nZz2tm0FlFQ",
+      "address": "杭州西湖区汇峰国际C座403",
+      "longitude": 120.050973,
+      "latitude": 30.239598,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bfc651c1848c8a84edb96bc14dcbd04c6f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230630/48ba41acc9cef1bf7b635e898b5a9e286c620e528348e25c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MyBatis",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230724/607f1f3d68754fd0cc7c70236b5002803d016b9955ea389e9585428f2ba809d6404e4feb12f735d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "浙江一宁能源科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cfc582a9a0bbd3471Xxz0tW6F1I~",
+      "brandName": "浙江一宁能源科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724390029953,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "浙江一宁能源科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

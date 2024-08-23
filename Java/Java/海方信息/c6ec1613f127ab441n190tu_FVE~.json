@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SqNxSDv9pQ8V7-Q10peYizj9_tLC6NuX_TR0dD39HQiuUZ-_iAuCcDO1b1mfJ2K_HsZG_eWIZmynw8kLwsXVgip85wmye0ompvVWMSLQmO1fSVSI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c6ec1613f127ab441n190tu_FVE~",
+      "encryptUserId": "ebe1c022f550995e1XJy3dm6F1o~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求\n1、1年及以上使用JAVA开发的经验；\n2、JAVA基础扎实，熟悉文件操作，io/nio、多线程编程、正则表达式，集合等基础类库；\n3、熟悉jvm内存管理机制，反射原理，能够进行jvm性能调优；\n4、熟悉IOC，动态代理原理；熟悉spring设计理念，并且熟练掌握spring各个核心模块；\n5、熟练使用hibernate或mybatis进行开发，并且了解至少一种主流数据的sql调优和数据库调优；\n6、熟悉至少一种Web前端框架，包括CSS、Javascript、jQuery、bootstrap等；\n7、熟练使用Linux常规命令（用户管理，文件管理，硬盘管理，网络管理，常用监控管理），并且能独立部署相关应用nginx,mysql等；\n8、熟练掌握至少一种常用应用服务器并进行相关调优；\n岗位职责\n1、平台核心业务逻辑开发、后台管理系统开发；\n 2、参与技术难题攻关、组织技术积累等工作；\n 3、参与系统的需求调研和需求分析，撰写相关技术文档，进行详细设计、代码开发； \n4、有良好的代码书写、注释和单元测试习惯，熟练运用设计模式； \n5、具有较强的沟通能力和学习能力，具备一定的分析问题、解决问题的能力；",
+      "encryptAddressId": "3782346a7dd847f30H172d61Eg~~",
+      "address": "南京六合区化工园商务楼3楼",
+      "longitude": 118.788421,
+      "latitude": 32.281886,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a508e0d557fd7c400c1330259dda03ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5a9a16dcc0a7d7a8eac9bdd4b0ff783",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "Web前端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海方信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "73cc4ec9c064a5dd1nx-3t28EQ~~",
+      "brandName": "海方信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181114/d735848c1eb92540eec3e06887516054ad4d4524e44d3e2f1fd33b03642a882a.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司成立于2017年，主营业务为互联网2B及2C产品，总部位于北京市互联网核心区域中关村软件产业园，国家级高新技术企业，国家火炬计划重点高新技术企业，成立至今已获得超5亿美金融资，在全国主要省份均有分公司，未来计划重点布局智能化科技生活板块业务，现广纳各种人才加入我们！",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "绩效奖金",
+        "保底工资",
+        "股票期权",
+        "企业年金",
+        "加班补助",
+        "节假日加班费",
+        "法定节假日三薪",
+        "工龄奖",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "团建聚餐",
+        "住房补贴",
+        "有无线网",
+        "通讯补贴",
+        "生日福利",
+        "交通补助"
+      ],
+      "activeTime": 1721787058171,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海方信息",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

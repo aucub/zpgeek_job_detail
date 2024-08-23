@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "z57CCKj9NFUjk-C1yUjYfUEnbO0V4VDJr3JzufnoeiKcCYbyq1GlcQ1JGp4IL5DruLY8P2WZlAFDb8gclls7T9Ne95bzlMHqlmwB9Pl075Lnb9U8WTQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6332987b97cd17b41nxy3dy_F1VX",
+      "encryptUserId": "747600a0f2ca20671XN92N66GVc~",
+      "invalidStatus": false,
+      "jobName": "中级Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与平台及产品的开发、交付、维护工作；\n2、编写高质量的项目代码；\n3、根据需求,完成应用模块的分析、设计；\n4、编写开发过程中涉及的相关文档；\n5、参与技术难题攻关、组织技术积累等工作。\n岗位要求：\n1、本科及以上学历，2年以上相关经验，有完整的项目（或公司自有业务系统）开发经历；\n2、java基础扎实，熟练掌握多线程、SQL，mysql、pg或oracle；\n3、有springboot，spingclound、MQ、缓存、开发实际使用经验;\n4、有分布式系统设计理念和开发实践经历；\n5、熟练git、idea、maven，了解jenkins和持续集成；\n6、熟练掌握linux部署、运维。",
+      "encryptAddressId": "db43b15b5e6dc61d1XV40925ElY~",
+      "address": "广州天河区科韵大厦215",
+      "longitude": 113.373884,
+      "latitude": 23.121082,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/44691c6d288c4a8b7ec9dabad74cca43",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7660f7ee15aaf884dfc8052542bf88f7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "SpringBoot",
+        "Jenkins",
+        "GIT",
+        "Maven",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220225/607f1f3d68754fd0582e4a2f16914d34ff0fa45c9952bbb71cddec0d99baebba0d00c2fa874_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "淘卡卡",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8e2ac151d5e2a8261nd43920F1Y~",
+      "brandName": "淘卡卡",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201209/d94829f5258702ffd1d501ee439ace11db9f20d3640d6e1be654286072d6166b_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "深圳淘卡卡科技有限公司核心团队来自腾讯、阿里，美团等公司，均是生活服务的专家。 \n淘卡卡是国内领先的卡券聚合平台，汇聚国内外“吃喝玩乐买”多项专属优惠特权。基于移动互联生活方式，打通线上、线下消费场景，汇集时下热门、高频的商品及服务优惠。可以满足用户吃、喝、玩、乐、买各场景的消费需求。 \n淘卡卡专注于线上线下生活类服务，秉承“用户第一、轻松生活”的价值观，截止目前已有超过1000家商户接入淘卡卡，深得用户喜爱。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "全勤奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1721812356120,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "淘卡卡",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7633ld6fmh5o5-x1pUjh4xaKj6u6C1uIcVCdNcxiHcfJtcR6ctDdUrCwWCBsr8lH1M30uw0gxDAE3fD1botQKPYhk2u9IFCEstx5wb1TvThRvzuJW5sQNKRR2e4DhZGJojs8Ehura5N9X4k~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eb343c0c4f9b7a7d1nJ_39-7F1ZZ",
+      "encryptUserId": "4895b7f75138d14d0nZ_2Ny4FlNY",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n\n1.负责公司产品/项目的需求分析、功能模块设计；\n\n2.负责产品/项目模块代码代码编写、测试以及技术文档编写；\n\n3.负责系统性能优化，保证产品的安全性、健壮性及可拓展性。\n\n\n\n任职要求：\n\n1.熟练使用spring cloud\n2.熟练使用一些热门认证协议（oauth2,LADP,cas,JWT等）\n3.了解工作流引擎\n4.了解消息队列\n5.熟练使用docker\n6.对数据库sql编写以及优化有一定的基础\n7.会vue编写简单的页面\n8.熟练使用jdk17以及语法糖\n9.对开源社区项目比较了解\n10.需要会一些shell的基础操作\n11.开源的一些产品部署（nginx,tomcat,mysql,oracle,keepalievd）\n12.熟练使用git",
+      "encryptAddressId": "b4e89c12e4cd14720nRy3t--Fg~~",
+      "address": "上海闵行区宝龙城T6612",
+      "longitude": 121.355995,
+      "latitude": 31.15935,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/558f0a52ba4b1d9b649367d4b9c9f5e2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4214ff36990ddda1ef09a633e2673f8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Python",
+        "SpringCloud",
+        "Nginx",
+        "Docker",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "GIT",
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "分布式技术",
+        "Redis",
+        "SpringBoot",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "创始人&CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210330/37c05fcc1077f2222d5a7ca40f78ccd887121aed214d74ae5afa042d4f9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "潮析数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4b465c87059e0ae51nFy29u1ElA~",
+      "brandName": "潮析数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210419/673f039d2ffa107f16caa1172ef979d387121aed214d74ae5afa042d4f9eb823.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "潮析数据技术（上海）有限公司，专业的业财绩效管理解决方案和咨询服务提供商。核心团队围绕从业10-20年以上经验的资深顾问打造，拥有丰富的FP&A、xP&A的落地及咨询经验。致力于将企业绩效管理切实落到实地，助力企业财务数字化转型。\n公司总部在上海，核心人员曾服务IBM,Oracle等知名外企，行业经验丰富，深谙零售连锁行业、制造业以及金融行业客户痛点，志在为此类客户解决问题。\n潮析数据秉承务实、诚信和专业的做事理念，帮助客户成功交付。\n公司愿景及使命：让信息技术给企业创造直接价值\n目前公司业务发展迅猛，欢迎有想法有能力有态度的朋友，一起发展，共创辉煌！",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724386727377,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潮析数据",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

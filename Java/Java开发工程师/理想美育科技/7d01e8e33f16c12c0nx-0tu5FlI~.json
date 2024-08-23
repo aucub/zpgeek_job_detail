@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qWQEpr9IHlVeJ-W1iVx_QOh570E1daKAFZLLUnmq_t5TW4dGBmNQgzUi_A4_nr9vfbNryGfrOUQtrKXbPUJA36qA98_jt4CGg8GIdKh5ukyneZ1ezz13r2U0wkeGRftLd4Gk1AW-sdQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d01e8e33f16c12c0nx-0tu5FlI~",
+      "encryptUserId": "9d235cd260de124503d629q_F1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.参与功能接口、数据库设计，文档编写\r\n2.能独立完成后端接口开发功能及单元测试\r\n3.代码管理、服务部署、产品功能测试\r\n技能要求：\r\n1.有2年以上php开发经验，熟悉至少一种主流php开发框架（Laravel，CI，Think PHP，YII）等。\r\n2.对主流框架有深入理解（如springmvc,spring,mybatis,springboot等)\r\n3.熟悉主流数据库如Mysql，有较好的数据库设计能力；\r\n4.熟悉Linux常用命令，能独立在系统上进行测试及部署；\r\n5.具备一定Web及前端相关技术的开发基础\r\n6.熟悉Redis、MQ、ElasticSearch、SpringCloud微服架构等技术优先\r\n6.有小程序后段开发经验者优先\r\n7.熟悉开发管理工具Git、Maven等",
+      "encryptAddressId": "7bb0dc3b7e5354dd1nV72NS1EVQ~",
+      "address": "北京昌平区珠江摩尔公元大厦3号楼2单元1014",
+      "longitude": 116.292626,
+      "latitude": 40.099014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/879c9a294d7ce6d46134a2a6f9b508fa",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38346f775b252237566c9fdbc6f193ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180719/416eacea92a404127b18ffd5380992fd21dffe46a5b8fa418e2218ba25e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "理想美育科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "57e0b0678d8e40941X1z3d69FQ~~",
+      "brandName": "理想美育科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181223/8310c492085cb873e250990ccc9724d4cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "理想美育是专注于亲子服务的S2B2C平台，旨在为中小微教培机构搭建共享互助平台，提供免费的招生宣传推广、亲子活动策划、资源对接、政府资金扶持等一系列公益服务，透过机构把更丰富优质的服务带给新一代的家长和孩子，塑造面向未来的中国儿童。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "包吃",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶"
+      ],
+      "activeTime": 1721807136188,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "理想美育科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

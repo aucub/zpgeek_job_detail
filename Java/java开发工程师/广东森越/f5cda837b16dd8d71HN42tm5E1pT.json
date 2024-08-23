@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yQ28lw1vc5V1A-t1P4unzNiZDQohRuQbSvFsoRvlZyf5f-9plp6z8xslAMJB7zyjUhORYiUwjj8fJYoQJGtFkIhD_N0KHD3ym_VUA18kKC_PbhaF4LrgeqBEbSlhkoEPnYdJVPPgWRoZvhUSRo_u2qp9AJ0jKY8mIDuQT79h_5K8nZ35qw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5cda837b16dd8d71HN42tm5E1pT",
+      "encryptUserId": "5628edec458c41a71X143N66GFo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】：\n1、具备需求分析能力，掌握常用的分析设计工具，按照规范的要求，编写设计文档；\n2、具备前瞻性，扩展性思维，独立设计能力，能对系统和产品开发提出建议，支撑各业务线的开展；\n3、对于需求变动，版本迭代有正确的认识，能拆解需求，拆解任务，完成周期版本交付；\n4、能够服从分配，实现模块的代码编写和维护，按要求完成开发任务；\n5、能够遵循开发规范，并协作部门完善技术规范；\n6、对自身编写的代码有要求，做好单元测试，规范编码的同时能优化代码，提高模块性能。\n\n【岗位要求】：\n1、计算机及相关专业，3年以上相关经验；\n2、熟练使用Spring Boot，mybatis-plus，Spring Cloud, Nacos等相关技术；\n3、熟悉异步处理，多线程、了解分布式、缓存、消息队列等机制；\n4、熟练掌握IDEA等开发工具，熟练掌握Git等版本控制工具；\n5、熟悉Linux平台下的环境安装部署，Nginx安装配置及优化；\n6、熟练掌握Mysql，mongo数据库，能独立完成数据库结构设计，具备大数据处理能力，能对SQL语句进行分析调优；\n7、熟悉vue，能读懂，能完成基础的修改；\n8、有从0到1构建项目经验的优先，具备设计和构建大规模数据存储架构的经验优先。",
+      "encryptAddressId": "bff66ef1e21233590Hx-39S_FVBYyom9VfM~",
+      "address": "广州黄埔区视联科技园B座314",
+      "longitude": 113.425501,
+      "latitude": 23.166379,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf84cb675606dc699c32221af0cffe91436bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230625/48ba41acc9cef1bfbb773701dd77c1c1c574c6be316ffaf96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "广东森越",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bae5510abfff03461HV40t-5FVU~",
+      "brandName": "广东森越",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240428/7bf6f160950405e9a6bb1a8fe2422131340bfcf0449fe442b1696b2832d533256b61e70b749637fe.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "全勤奖",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724400214239,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东森越",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

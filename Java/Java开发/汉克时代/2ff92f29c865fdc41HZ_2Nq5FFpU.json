@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xYMPP3lmsRQla-l1sXNJWJQSgUFzEcc8pzzFBZHKg8BFke1jKBbbud-pL-qhjYzcBE5SjMHVPe5cCmeugpQWT8KV0SW0RCZlyOw56kukZYFzwmjxawIG22NYt09JKZfnYpIa4tvKtoWs4g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2ff92f29c865fdc41HZ_2Nq5FFpU",
+      "encryptUserId": "1a8c61f383edff7a03x929-6GFc~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-20K",
+      "payTypeDesc": null,
+      "postDescription": "岗位一     Java开发   中级   甲方：民生银行\n要求：\n1.精通java后台开发，熟悉高并发服务编程，对http、socket、webservice、ftp、tcp等常用的网络传输协议有比较深刻的认识。 \n2.熟练使用linux基础命令和脚本，了解高级命令 \n3.有行内tesla开发经验优先，有行外影像平台类系统开发经验优先 \n下面两个要求必备其一： 1.熟悉elasticSearch，有过相关开发经验 2.熟悉s3对象存储协议，有过相关开发经验。有过文件处理相关经验的，有过ES相关经验的，对后台服务比较熟悉的.\n备注：会docker或者es或者文件处理相关经验\n要求技术基础扎实，具备良好的沟通表达和理解能力，工作责任心强，态度端正。\n地点：北京市顺义区马坡\n\n岗位二     Java开发   中级   甲方：民生银行\n要求 ：\n（1）熟悉java-web相关技术栈（包括http接口，http协议，mysql数据库及相关调优，jvm调优，熟练使用java各类特性进行功能开发\n（2）熟悉spring-boot或spring-mvc体系。 \n（3）了解docker及tomcat中间件，了解微服务技术体系，了解设计模式，网络等基础知识更好 \n（4）其他方面： 具备较好的学习能力，代码阅读能力，有一定的功能设计能力。\n备注：有良好沟通和学习能力，代码效率高，可独立解决问题，有流程开发经验。\n地点：北京市顺义区马坡\n\n岗位三     Java开发   中级   甲方：民生银行\n要求：具备较强的Java研发能力，能够独立解决开发过程中的疑难问题，有3年以上金融领域开发经验，6年以上软件开发经验。\n1、金融市场代客业务-储蓄国债功能优化项目；\n2、沟通表达能力优秀，逻辑思维清晰，需求理解能力强。\n3、必须要有银行国债类等项目经验。\n4、不要民生释放人员。\n地点：北京市顺义区马坡\n\n岗位四     Java开发   中级   甲方：民生银行\n1、本科及以上学历，计算机、通信等IT相关专业，3年以上云计算IaaS/PaaS相关领域架构设计和研发经验；\n2、精通C/C++/Java/Go/Python等至少一门后端编程语言； \n3、精通云原生技术栈，如Docker,K8S,DevOps\n备注：只要Java语言的。\n没有云平台系统开发经验也可以，Java基础扎实，有运维部署经验，熟悉Docker,K8S,DevOps和中间件，如Redis,Dubbo\n地点：北京市顺义区马坡\n\n岗位五     Java开发   中/高级   甲方：北京银行\n要求：\n1.熟悉springboot、mybatis等主流开发框架\n2.熟悉mysql、redis、ES、消息队列等常用中间件\n3.了解基础的linux命令，在linux服务器上开发或者运维过脚本者优先\n4.有docker运维经验者优先\n5.全日制本科，5年以上工作经验\n6.有一定的学习能力，工作态度认真负责\n7.需要尽快入职，住在北京正北、或者东北方向的优先\n备注：重点是银行经验，docker运维和linux服务器上开发经验\n岗位职责：在正式员工的指导下，完成北银项目的接口开发工作\n地点：目前是在北京顺义区，2-3月后会搬到东城区2号线朝阳门地铁附近\n\n岗位六   Java开发   中/高级   甲方：中信银行\n1、本科及以上学历；\n2、3年以上JAVA开发经验，精通JAVA语言，熟悉J2EE体系架构；\n3、熟悉Eclipse、UML、PowerDesigner、IDEA等开发工具；\n4、熟悉DB2、Oracle等主流数据库，能够熟练编写SQL脚本及存储过程\n5、熟悉Struts2/Spring/SpringMVC/Hibernate/MyBatis等企业级框架，熟悉Dubbo、SpringBoot或SpringCloud开发框架者优先；\n6、熟悉Redis、Memcache等缓存中间件；\n7、要求java能力强，最好有银行经验，了解一些docker，k8s，有密码开发经验的优先\n8、善于沟通，能快速把握需求的核心要点；具有良好的学习能力及责任心\n地点：朝阳区6号线青年路地铁附近\n\n岗位七     Java开发   高级   甲方：中国信保\n工作内容：负责数字生态建设\n任职要求：\n1.全日制本科及以上学历，计算机相关专业，例如计算机科学与技术、软件工程、计算机应用等专业；\n2.了解Java、JavaScript、Html、JQuery、Spring和Hibernate开发框架和技术；\n3.熟悉Eclipse、PowerDesigner、SVN/GIT、Maven等开发工具的使用；\n4.了解数据库设计，了解Oracle，能应用SQL语句；\n5.团队合作精神好，爱岗敬业，吃苦耐劳；\n6.了解企业应用开发，有Java、数据库和J2EE架构的B/S项目经验。有项目管理经验者优先\n地点：北京市4号线灵境胡同地铁附近\n\n岗位八      Java开发   中/高级   甲方：民生银行\n1、本科及以上学历；\n2、3年以上JAVA开发经验，精通JAVA语言，熟悉J2EE体系架构，需要有银行经验，如果有支付清算经验的话优先；\n3、熟悉Eclipse、UML、PowerDesigner、IDEA等开发工具；\n4、熟悉DB2、Oracle等主流数据库，能够熟练编写SQL脚本及存储过程\n5、熟悉Struts2/Spring/SpringMVC/Hibernate/MyBatis等企业级框架，熟悉Dubbo、SpringBoot或SpringCloud开发框架者优先；\n6、熟悉Redis、Memcache等缓存中间件；\n7、善于沟通，能快速把握需求的核心要点；具有良好的学习能力及责任心\n地点1：顺义区15号线南法信地铁附近的马坡\n地点2：东城区2号线安定门地铁附近\n\n岗位九     Java开发  中/高级    甲方：昆仑信托\n职责：参与的项目偏向办公系统，任务推进平台、流程机器人等\n1、负责前端、后端、移动端及数据类日常开发工作,按计划完成任务目标；\n 2、参与软件系统的程序设计与模块的代码编写；\n 3、负责编制与项目相关的技术方案、技术文档；\n 4、配合系统分析人员完成软件系统以及模块的需求调研、需求分析；\n 5、协助测试人员完成软件系统及模块的测试；\n 6、参与软件系统功能模块设计和软件调优及项目转维后的项目运维。\n要求：\n1、精通Java语言，熟悉微服务体系，熟悉Spring、SpringBoot、SpringCloud框架开发技术； \n2、熟练掌握前端技术如Javascript、Jquery、HTML、CCS，熟悉流行的前端框架，如vue等；\n3、掌握Oracle、MySQL等数据库技术，具备SQL语言编写技能；\n4、熟练掌握kafka、redis、MQ等中间件； \n5、能简单使用Linux操作系统，掌握常用linux命令;\n6、能够独立完成前后端开发任务。具有良好的编码习惯和文档编写能力。\n7、熟悉RPA流程机器人，熟悉uiauto者优先； \n8、具备一定的系统设计能力者优先。\n地点：西城区2号线阜成门地铁附近\n\n岗位十   Java开发   高级   甲方：中信银行\n工作内容\n1、业务需求和内部需求实施:完成桌面作业平台正常业务功能交付以及稳定运行，优化内部功能，提升系统处理效率；\n2、生产问题及生产工单外理:根据数据中心提出生产问颗单及业务一线提出生产工单，完成问题的分析和定位，形成解决方案，如果是数据问题，制定数据调整方案，并协助数据中心实施数据调整及调整后的验证工作。\n3、运维支持:完成数据中心日常运维支持要求，包括但不限于应急处理、生产监控和巡检方案的制定及结果的分析、生产监控方案的制定及监控报警的外置等。\n4、工程管理支持和研发过程数字化建设:完成相关系统的流水线建设、维护，对研发团队日常工程交付提供技术支持等。\n相关要求:\n1、能独立分析和解决问题，责任心强，有较强的沟通、组织协调能力;\n2、熟悉java编程基础，熟悉shell脚本类语言，良好的linux环境下问题分析与定位能力;\n3、熟悉spring、springmvc、springboot，熟悉前端(微前端、vue)可优先考虑;\n4、具备Docker、K8S、全栈云等容器化相关经验，jenkins等CI/CD 流水线相关经验优先。\n主要是java技术要过硬，对业务要求不高 ，因为他的系统不复杂，就是个中台系统，然后就是最好能搭建服务，了解运维的知识，了解容器，因为现在中信的系统都接devops了，所以希望找个懂运维知识的java。最好能在中信做过的，这样会比较了解中信对接devops的过程。如果没做过技术好也行。\n地点：朝阳区6号线青年路地铁附近\n\n岗位十一   Java开发   高级   甲方：外贸信托\n岗位职责：\n1、深入理解业务需求，能独立完成系统分析与设计工作；\n2、负责系统功能模块的代码开发、自测和日常维护；\n3、负责系统生产问题的定位、分析、处理及缺陷修复。\n任职要求：\n1、6年以上java一线开发经验，扎实的java编程基础，熟练使用动态代理、AOP、反射、多线程等特性解决实际问题；\n2、熟悉常用开源框架和中间件（Spring、SpringMVC、SpringBoot、Mybatis-plus、Redis、RocketMQ/Kafka…），对源码有深刻见解者优先；\n3、熟悉SpringCloud微服务体系，理解微服务技术组件（Nacos、SpringCloud Gateway、Fegin、Skywalking、ES…）的工作原理及特性，有实际应用经验；\n4、熟悉开源工作流引擎技术（Activiti/Flowable/camunda），具备实际集成开发经验；\n5、熟练掌握MYSQL、ORACLE等关系型数据库，熟练编写SQL，能够独立进行数据库模型设计，有SQL调优成功经验者优先；\n6、熟悉前端应用开发技术（Vue、JavaScript/Jquery等），有前后端分离应用开发经验，能够独立进行前端页面的开发者优先；\n7、具备较强的工作责任心和团队合作意识，抗压能力强，具备良好的沟通表达能力；\n8、思路清晰，善于思考，能独立分析和解决问题；\n9、有信托、证券、银行等金融行业相关经验者优先。\n地点：丰台区14号线东莞头地铁附近",
+      "encryptAddressId": "83f1e9073a6d94c63nR439-_GA~~",
+      "address": "北京顺义区民生银行总部基地68号",
+      "longitude": 116.662058,
+      "latitude": 40.162406,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd7490ac0a7f77776511e289ac062a73",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bf02ebefe4851294898e6e316a1f0952",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "Spring",
+        "Docker",
+        "MySQL",
+        "Oracle",
+        "微服务经验",
+        "云计算IaaS/PaaS es",
+        "高并发  DevOps",
+        "K8S 国债"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "冯女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "汉克时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a91b61cb47aed5e31n1y0tm6GVo~",
+      "brandName": "汉克时代",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180409/de3e0eb0a53b18e76249177df5841ce2cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "1.  汉克时代公司成立至今12年，注册资金1亿元，现有人员规模超过4100人。\n2.  是一家集咨询规划、产品实施、解决方案、系统集成、软件服务的IT提供商。\n3.  集团总部设于北京，下设：\n10个分子公司：香港、新加坡、深圳、上海、杭州、天津、成都、广州、珠海、合肥。9个办事处：武汉、西安、南京、重庆、郑州、烟台、常州、长沙、宁波。\n4.  公司拥有42个软件著作权。\n5.  为客户提供产品/解决方案：用户中心中台、企业行为分析、企业微信、生产制造MES系统、物业云等产品。\n6.  近十年来，我们服务的客户不仅限于：\n互联网：阿里巴巴、蚂蚁金服、京东、字节跳动、网易等。\n金融：中国工商银行、中国银行、香港交易所、民生银行、中信银行、恒丰银行、华夏银行、杭州银行、广州银行、广发银行、上海证券交易所、河北农信、泰康保险、重庆农商、中信建投、方正证券等。\n其他：联想、华三通信、国家电网、中国体育彩票、大唐集团、中国石化、中国石油等。\n欢迎登陆公司主页了解更多：www.hunktimes.com",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724398298875,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汉克时代",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

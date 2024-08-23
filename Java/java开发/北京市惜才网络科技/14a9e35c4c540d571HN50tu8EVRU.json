@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bBsyVmjBGEOoA-h1AhnsSgSsuJTjtbld15mVvW3mjeqeqkDYU_qSmZ_nz_Cp-mnDyBoBTUp4ZtuK-_ZFJ3gfsP-B2BIc0xU6YVPCtskrjq5uotLT0dmyesOiRqZI_YotshBxbeAapA2WOg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "14a9e35c4c540d571HN50tu8EVRU",
+      "encryptUserId": "b36967bc814d19d31Xx729-7E1E~",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握java开发、JavaEE技术体系。\n\n2、熟练掌握SpringBoot、SpringMvc、Mybatis等JavaWeb开发框架，熟悉微服务架构、及中间件经验。\n\n3、熟练使用Mysql数据库操作，熟悉Redis，多线程的使用。\n\n4、熟悉Git版本控制工具，github、gitblit等工具。\n\n5、熟悉nginx、vue、python等开发技术，熟悉Linux操作系统基础操作。\n\n6、具有系统性能调优和解决高并发的经验，独立完成过项目的开发。",
+      "encryptAddressId": "2aa2ef17b4c516e41nR_29i-E1RTyo22U_ya",
+      "address": "北京海淀区数字谷1",
+      "longitude": 116.288935,
+      "latitude": 40.043426,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a7567e61cdee76eb9af9e5ac9ac9d6a5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/052b3093133c947d396845c074ada33d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "白女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170605/d5153efb30dee671fea72956837ab569074e3243953f83ba87314f26a15_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京市惜才网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bc3b615ed74d4eae1HV70tS9Fls~",
+      "brandName": "北京市惜才网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司成立于*年\n\n主要经营*互联网广告咨询\n\n公司主要合作方为*等知名企业\n\n公司经营状况良好，未来计划*",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724392484585,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京市惜才网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

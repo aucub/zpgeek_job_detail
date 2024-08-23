@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NX5f-CQ5GBjWe-K1Brt3b8oME3wbpkdmRlkSfPhJgX8TpYIZA4KiF23At8Oq_41n3v0AWi1ZoQXvhSFL010_2klAf0w0BsOKxxlCwr7mMIgP6VI3DplocQjK-bFHvqNP4qhg0aJOXtqczmY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c5764fd9619baea21HN-39u0ElRQ",
+      "encryptUserId": "79af1989c1daa6620XB52tW-FVVV",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 1-3年Java开发工作经验,具备Python开发能力;\n2. 扎实的编程功底, 熟练掌握数据结构、多线程编程;\n3. 熟练使用Spring / Spring Boot / Hibernate 开源框架；\n4. 熟练使用Junit / EasyMock 等单元测试工具;\n5. 熟悉HTTP/HTTPS、TCP/IP 协议及 REST 规范;\n6. 熟练使用Mysql / Redis等数据库及缓存技术，了解其原理和常用优化方案;\n7. 熟悉敏捷开发，熟练掌握各种工程实践，如：XP/Scrum、TDD、自动化测试、持续集成、自动化发布等，有较高的代码编写自我要求和较高的代码单元测试覆盖率;\n8. 英语读写流利.\n\n具备以下更优：\n1. 熟悉23种设计模式理论和概念;\n2. 在大型分布式、高并发、高性能、高可用系统设计和开发方面有较多的实际经验；\n3. 熟悉JVM基础知识和并发编程技术; 具备一定的系统调优、性能调优、JVM调优等经验，对疑难技术问题具备较强的排查能力;\n4. 能接受一定程度的紧急问题处理.",
+      "encryptAddressId": "1b321f17708cb4781nV60tS6ElFWxIy6V_OW",
+      "address": "上海宝山区宝山区园新路258弄1号楼",
+      "longitude": 121.351563,
+      "latitude": 31.309154,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231214/48ba41acc9cef1bff420dde9d08ec4a8963dea6f1e7f449a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231214/48ba41acc9cef1bfdfab31068f057b925a7cc66d754b84366bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "物联网经验",
+        "云计算经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "仇女士",
+      "title": "HR 总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "新联数城",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fd9495349ca91aa51Hd_0t-5EFA~",
+      "brandName": "新联数城",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240318/7b5b554d84f9729ca0f9a1d512952db92e12a9c2806c276b082dfb9a14b9530a6319bb4e15c16c5e.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "为数字孪生城市的发展提供平台级软件与解决方案",
+      "labels": [
+        "交通补助",
+        "带薪年假",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1724315830415,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新联数城",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wLbybrEwRWwpX--1ax0UmZ_EMyJyk6G30OkCsGUME4zTUnFgWd6BMieJGeYzYZoLsHgLYW30w4gJynASKJbZv5_QgH6xRbnQ65kdIx9PkyClbldM2BxLY02S00V6L31hHeLacEfCeGccEew~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a9b7bb3ebb3e28911XNz29i8EVFV",
+      "encryptUserId": "8ebd8991ac89b3061nV73N-5FFNS",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责安全软件产品web功能用例设计及执行\n2、负责安全软件产品功能测试用例自动化脚本开发及维护\n3、负责安全软件产品测试环境搭建与维护、漏洞扫描、简单用例报告核对工作等；\n4、统招本科以上学历\n岗位要求\n1、本科及以上学历，工科、计算机或其他相关专业；\n2、 熟悉C/C++/Java等至少一种编程语言，有Python/Shell或等使用经验者优先；\n3、有性能专项测试经验者优先：\n熟练掌握LoadRunner/Tsung/nGrinder/VS等至少一种工具用法；\n具有性能解决方案设计和性能调优经验；\n具有性能评估经验，并基于性能评估给出有价值的系统规划建议；\n4、丰富的移动互联网知识，包括：Andriod/IOS无线产品、大数据、数据库和网络等；\n5、良好的测试环境驾驭能力：\n熟悉Linux或Unix操作系统\n能搭建和维护复杂的测试环境，包括php，nginx，tomcat，node，mongo，redis，flume等\n6、有较强的技术研发能力和技术敏感度，善于进行技术创新；",
+      "encryptAddressId": "b60227ab78f3971333V909m1ElI~",
+      "address": "福州鼓楼区东街电信大楼1",
+      "longitude": 119.300331,
+      "latitude": 26.085688,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5d15f60c5bee3b34253fa7f7da15035c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b997e9ac8aed475849c9f56a893cf26c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "Java",
+        "C++",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240611/607f1f3d68754fd028debec09e229734a8ed5a516cb320ccd4a1d94541effe8ffc0ceb2cdd45e58_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "远福科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6f8c46a226006b661XF-3t2_EFc~",
+      "brandName": "远福科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721794464208,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "远福科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

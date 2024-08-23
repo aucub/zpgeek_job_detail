@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xQi1XQfgIsrGM-r1H-6bz6CutLn318fsE05eDXOCYvHoK6zC07kyKa3vsnyTKii-vkB8G4WZ51lyTGu62kUWePs8gGQxV6BYokUuLNjyQ6PcBerLA2KLB3Yzte1Sm0L_LQNIYHJmG_RHcrs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "83a1cf64b0b9943a1HNy09y-FFFQ",
+      "encryptUserId": "c1bddcd14ae08bc51nZ40ty6EFpY",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "[高校下属公司岗位]\n工作职责：\n1. ﻿﻿主要负责基于Java的后端服务和应用程序的设计、开发、文档编写。\n2. ﻿﻿参与系统架构设计、优化和开发，确保系统安全、稳定和高效。\n3. ﻿﻿负责现有系统的技术支持、优化和持续改进。\n任职资格：\n1. ﻿﻿本科及以上学历，2年以上Java开发经验\n2. ﻿﻿掌握主流的SpringCloud微服务框架\n3. 掌握Hadoop和Flink使用（加分项）\n4. 熟悉国产数据库和国产操作系统（加分项）\n5. ﻿﻿有分布式项目开发和部署经验。\n6. 能适应短期出差。",
+      "encryptAddressId": "2b6d16b865f253f103Z-296-ElRRwYu_WfI~",
+      "address": "杭州萧山区西安电子科技大学杭州研究院2F",
+      "longitude": 120.321956,
+      "latitude": 30.236717,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bff6f57f9dd940174d311e81d645d2d3c36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf28cff7884933e62170a6359d251bf1216bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Hadoop"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "符先生",
+      "title": "研发主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231228/607f1f3d68754fd0f33edb61cb6a0c6498a6149710d541f79c559e320b37d261b82c211344eb9f6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "西电杭研院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "28f8ac499b0cccbb1nx_2d20GFc~",
+      "brandName": "西电杭研院",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240118/7b5b554d84f9729c181216fd820bf63c2e2fe689f0e9113b9c559e320b37d261b82c211344eb9f65.jpg.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100302,
+      "industryName": "学校/学历教育",
+      "introduce": "西电杭州研究院以高层次人才集聚、高水平科学研究、高质量成果转化、高标准人才培养为目标，充分融合杭州市地处国家经济发展前沿，地理区域优势突出，科技创新活力领先，电子与信息产业聚集、民营经济发达的优势，创新体制机制，优化发展元素，聚焦国家重大战略需求，打造战略科技力量队伍，以人才带发展，以创新促发展、以贡献谋发展，为国家实现科技自主创新，为长三角区域经济社会发展，为西电双一流大学建设作出贡献。",
+      "labels": [
+        "节日福利",
+        "免费班车",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724375445774,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西电杭研院",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

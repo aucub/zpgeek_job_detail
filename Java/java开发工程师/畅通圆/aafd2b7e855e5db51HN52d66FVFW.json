@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "01SM4uFAwcHDP-W1LkognxvIefeo9JfNSuvQIyO5t9bYEocYkP7fiKtmChAI_aL-vAOdNnXEy-c6okHvXhTCTRisRSt2d81f2kc2flmd_NIFtX5v7klBdxd55HdS9JRchJVExZW0FqteAw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aafd2b7e855e5db51HN52d66FVFW",
+      "encryptUserId": "93bc2da83f22c53003V_3di7FFY~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与客户需求分析，撰写相关技术文档。\n2、项目概要设计、详细设计、开发计划等文档的编制。\n3、搭建系统开发环境，完成系统框架和核心代码的实现。\n4、系统开发测试、部署和集成。\n5、负责APP应用的服务器接口制定和实现。\n任职要求：\n1、计算机相关专业，大专及以上学历。\n2、Java基础知识扎实，熟悉分布式架构原理。\n3、数据结构和算法基础扎实，善用面向对象思想，了解常用设计模式，熟悉J2EE相关编程和框架，如SpringBoot、SpringCloud、MyBatis等开源框架。\n4、熟悉MySQL数据库设计和优化，有Redis，Mogodb等使用经验。\n5、了解tomcat、apache、nginx等常见应用服务器的使用。\n6、熟练掌握Linux下的常用命令，常用的脚本语言。\n7、工作主动，责任心强，思维严谨，具有良好的沟通能力和团队合作意识。",
+      "encryptAddressId": "57c8d65d600bf4691nRy0tq9EVJVyou4U_yf",
+      "address": "北京海淀区嘉慧苑(紫竹院路)1810",
+      "longitude": 116.306059,
+      "latitude": 39.944566,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf828939681e3bafdcb11bc0c0470e14bc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bf7044918e3e4804795703ff2f1f0c83296bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd05fc194f548577afb1a2984084fdb98db48db749f834a993e2a0a191ebfae46f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "畅通圆",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "123aeae577db9e961HFz39S0E1c~",
+      "brandName": "畅通圆",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724170616138,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "畅通圆",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

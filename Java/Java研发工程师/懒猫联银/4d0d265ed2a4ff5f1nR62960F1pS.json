@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LInsnT-yb2lEH-P19BeBG7jM0H6WWtBuUQCQOz_Qxumlbf6hN4Z6HaMTEuIKs1r1lqTxKzStgXqK6YYO53uAqwAW_7UJskTpxdWtiNZZob9MoJED3wtXeBJ-L5GNwLaMiCa6leFblyQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d0d265ed2a4ff5f1nR62960F1pS",
+      "encryptUserId": "881a3474118226910HZ839-8FVE~",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.   参与研发，实现有挑战性的高并发高一致性的交易系统。\n2.   实现生产环境的自动化部署、运维方案。\n3.   持续维护，不断优化基础技术设施\n4.   有人力资源类（社保项目、福利平台项目、税务项目）经验者优先考虑\n\n职位要求：\n1. 1年以上开发经验，基础扎实，对分布式，微服务架构有较深理解。\n2. 熟练掌握 spring boot, spring cloud等微服务框架，能按需求对其进行扩展。 对微服务架构有较深理解。\n3. 掌握redis,tomcat,nginx等常用中间件的使用和维护，对shell，linux，docker等有一定了解。\n4. 熟悉mysql，以及常见的mysql优化方案。\n5.有人力资源类（社保项目、福利平台项目、税务项目）经验者优先考虑",
+      "encryptAddressId": "e5488719ef132a291X1609q5F1I~",
+      "address": "北京朝阳区龙源通惠大厦5层懒猫联银",
+      "longitude": 116.510433,
+      "latitude": 39.904227,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/741b37e14a2dc6a9edd19065d459e22d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd253cbabdba722e864ae9d5723dd4e9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Shell",
+        "Linux",
+        "小程序"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "纪女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230517/607f1f3d68754fd0b98070950269575192023847af62ea688342c9d5d1604c3620f951653d1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "懒猫联银",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ca0d0afac6ae19f303Z_2Nu8",
+      "brandName": "懒猫联银",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180321/bacf3e5e631f56873cde96d90c4dd005d9e82dc7550866b920bb26a941f4f28a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京懒猫联银科技有限公司简称“懒猫联银”，是一家专注于“监管科技”的科技企业。在科技金融突飞猛进的当前，致力于通过科技手段帮助监管部门落地监管政策和措施，有效提升监管科技效率及水平；同时帮助被监管对象合规经营，有效降低合规成本的同时提升业务运营效率。从而推进科技金融健康可持续发展。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检"
+      ],
+      "activeTime": 1721807155447,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "懒猫联银",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

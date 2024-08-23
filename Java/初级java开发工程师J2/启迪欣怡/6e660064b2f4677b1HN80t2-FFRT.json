@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DT93JGQ0Krlmy-C1a9IeSE2gBMeXzzjMCdyivgrl5kd2gBkReJm1pC4_QGUWPP5xxFKG7hjDV8ug8httF4igpHFl5Wrqq7PleAMNL7EN4fH8qq8ylqUOa97_35Wel54UvP-M9PX2JTPtwA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6e660064b2f4677b1HN80t2-FFRT",
+      "encryptUserId": "00e53acb743e6dee0nNy09i8E1I~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师J2",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-14K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机相关专业，具有一定的技术文档功底，1-3年JAVA开发工作经验\n2、具有扎实的java功底，熟悉J2EE体系结构,熟悉JAVA开源框架，熟悉SSM框架，了解JVM原理\n3、深入理解面向对象的编程，熟悉软件开发过程，了解常见的设计模式，了解主流的设计思路和开发模式\n4、熟悉微服务技术框架（Dubbo或SpringBoot），有过使用springBoot实践开发经验者优先\n5、掌握数据库的理论知识，熟练使用MySQL数据库，能熟练应用Redis等缓存技术\n6、有高并发、高负载、高可用性分布式系统开发经验者优先\n7、有较好的沟通、自驱能力、自学能力和团队合作精神。",
+      "encryptAddressId": "e31004d38e9f71661nV-39m5FVZZwIm6WP6d",
+      "address": "北京海淀区工商银行业务研发中心1层",
+      "longitude": 116.376759,
+      "latitude": 40.060115,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83f3ac44a945c82f42e07ba8cbcc6d15",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/efca987d71669641dd9642eaaf1205eb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Kafka",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "银行"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "启迪欣怡",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "59c17326a6fb36c21HF92ti1FFI~",
+      "brandName": "启迪欣怡",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724383803978,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启迪欣怡",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

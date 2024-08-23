@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AGUy23q7m6tHa-61xQFB-7IznQnhLJxIQkcmOXKLuYUKqhEgmMkPi9GTFDlJiMCSDOUQtOZeQufVNEsvShXF40_owLC-0-M3E8jOencW0DF8EmtC9TpPOdjlwCI5lzoN-vZ_bPvSOXBhIlSU5h1OKTcNl-uJR8atJnjbNgz_xF4ljw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8c3779a04f6acabd1Xd939q1GFBU",
+      "encryptUserId": "b7c831d0b1dbd28e03N42dW6GVs~",
+      "invalidStatus": false,
+      "jobName": "java（永丰）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-20K",
+      "payTypeDesc": null,
+      "postDescription": "1.熟练使用Java开发语言。\n2.熟练使用微服务Spring Cloud开发流程，熟悉Mybatis Plus、Mybatis持久化技术。\n3.熟悉Redis等非关系性数据库。\n4.熟悉PostgreSQL数据库的使用，了解数据库优化和SQL调优。\n5.熟悉消息队列的使用，如:RocketMQ、RabbitMQ等。\n6.熟练掌握Maven、Git、SVN、Postman、Idea、Eclipse等常用工具。\n7.了解Linux操作系统和常用的Shell命令，能够完成Linux环境下的DevOps。",
+      "encryptAddressId": "d357087ae57ea4f70XV709i4F1s~",
+      "address": "北京海淀区中国邮政储蓄银行软件研发中心A座",
+      "longitude": 116.227899,
+      "latitude": 40.078296,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c27a031425e959bf2c79b347525e5f8f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ce718c33e47c055d39b20efb40bd950b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Redis",
+        "银行"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181010/babab51798434f4055d7b86dc3339a5be9d8a8bc8164369abaa60903124_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "高伟达公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cadc629cbc1cd1c91XN42dU~",
+      "brandName": "高伟达公司",
+      "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160225/f7698d242223b2f75eba8da34dbd777772fcf143a235c313b295f00e028255fd.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "高伟达软件股份有限公司是深圳证券交易所上市公司（股票代码：300465）。成立于1998年，是中国领先的金融信息化软件产品和综合服务提供商。高伟达现有员工4000多人，总部在北京，下设上海，深圳，南京，武汉，成都，厦门，大连，宁波，长沙等分支机构。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724399036488,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "高伟达公司",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

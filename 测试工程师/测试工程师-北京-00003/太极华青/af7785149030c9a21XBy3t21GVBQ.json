@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "jKfeqTjggCro0-91QtrrGyc_I2pCg51BfEzIrrCubJB6OhPyVQ-gMsSFh0tjCwjQAE7PgTfLRj-RODCkCtP0n1J0fUdwBN6CBcGflHrVrYPh2PvCV-54VXsxd2gExo8u28u6NgouQJQcHq3TNYk~",
+    "securityId": "aC-jf2hgI2dOh-o1T4qh6m2lkkHmJAbgajsBatomCYixcRkOgjf-lb-HPFTp1NKiBgvND2SeG1ccmpacR3BQy4AMy_SjI-FeP8_0A-b1q1AtfOUbSXTXeQFvW4H4xhoReV2NXy8DcQn6vLHNZ7w3PsabMQLS0XjrjFSAoJiEjJEJlo7CJ-AQTm8~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,7 +44,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230922/607f1f3d68754fd042d481cd2640748c766e46ed637a9acd02568c0bc834332fca7d25c9c59105e_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "太极华青",
       "bossSource": 0,
       "certificated": true,
@@ -70,17 +70,17 @@
         "通讯补贴",
         "节日福利"
       ],
-      "activeTime": 1724320641826,
+      "activeTime": 1724400809009,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "太极华青",
       "customerBrandStageName": "不需要融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
-      "canSendResume": true,
-      "canSendPhone": false,
+      "canSendResume": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

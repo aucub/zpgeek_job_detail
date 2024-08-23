@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "4AAvoafA126zV-j15nWWyG_CXXj9YCBtt-tDtZwty1WZUNRHFCG2oXFWLf3b3Wi0mdFzrr5k41nHWF70vU0L6Y48XEkd8geAnrOs9gigtIxDemLDiAqqjd0ZXsFpyCTkrLkqJUPhKA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1957c0ce4520c7061Xd-2di1FVJV",
+      "encryptUserId": "94e7420694541d951XN_3Ny7FVc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "1、JAVA基础扎实，理解IO、多线程、集合等基础框架，对JVM原理有一定的了解；\n\n2、3年及以上JAVA开发经验，对于使用过的开源框架，能了解到它的原理和机制；熟悉Spring,ibatis,struts等开源框架；\n\n3、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能合理应用分布式常用技术解决架构问题；\n\n4、掌握多线程编码及性能调优，有高并发、高性能系统设计和开发经验；\n\n5、掌握Linux 操作系统和大型数据库（Oracle、MySql），对sql优化有丰富的经验；\n\n6、学习能力强，适应能力好，具备耐心/细心的品质；\n\n7、喜欢专研及尝试最新的技术，追求编写优雅的代码，具有良好的技术敏锐度，能从技术趋势和思路上能影响技术团队；\n\n8、具有供应链、ERP、物流系统开发经验者优先。",
+      "encryptAddressId": "cd88a9cf308ac5140XBy09q6FVI~",
+      "address": "武汉江汉区武汉云数字经济总部区11",
+      "longitude": 114.259372,
+      "latitude": 30.603299,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/57d16bcc29bbf154d11b5ac50e52d003",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5bd09c1932a53b75a1d56b729d0d0133",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "软件工程师",
+        "后端开发",
+        "SpringBoot",
+        "IDEA",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "高级开发工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170517/e0c82fa45705349c6769d70437b910636695e840011d9800afd3706b316_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "天猫",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6532cb7d582d12b61nZ80tU~",
+      "brandName": "天猫",
+      "logo": "https://img2.bosszhipin.com/mcs/chatphoto/20160309/399587a3e283bebd1deefac22f6e99c4612c816a11f2ec7593825aab96724622.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "天猫是什么？猫是性感而有品位的，天猫网购，代表的就是时尚、性感、潮流和品质；猫天生挑剔，挑剔品质，挑剔品牌，挑剔环境，这恰好符合天猫网购要全力打造的品质之城的定义。\r\n      我们希望天猫成为您在网购世界中的第五大道或者香榭丽舍大道，能够成为中国乃至世界B2C的新地标！\r\n      多种新型网络营销模式正在不断被开创。加入天猫，将拥有更多接触最前沿电子商务的机会，也将为全新的B2C事业创造更多的奇迹",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补"
+      ],
+      "activeTime": 1721800247375,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天猫",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

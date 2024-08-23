@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XaIGWDCEGc5Kw-G1Ak7GO06II_VFj2XhGzwDVzictY-_KEP2v90QoLN35UsMsuuKHh6f-8Ob7eL79K_N73SyP1Lh_ORxlwywgk7XD3pZsgD60eyZxzOMUutrve-qgGt4vqlQI0m8b3Vf0njo4z8Z4iSixgcZlXYsNiGEcxDMAcOJERrxlA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a5d72a72a8f9d9531HN83tm5F1FY",
+      "encryptUserId": "1b540279bfc543fb1XV-3dS1FFY~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "技术要求：\n1． 熟练使用Spring、SpringMVC、SpringBoot、SpringCloud等框架，熟悉Spring框架部分功能的实现细节。\n2． 熟练掌握数据库原理、索引优化、分库分表，熟悉Mybatis或Hibernate的使用。\n3． 具有扎实的Java功底，熟练掌握Mysql、Oracle的开发，了解数据库性能优化；\n4． 熟悉Linux操作系统、常用命令，并具备一定的脚本编写能力\n5． 熟悉常规的分布式架构，熟悉缓存、消息队列等开源中间件使用经历（如：dubbo、redis、rabbitmq等），并了解其原理和实现细节。\n \n岗位要求：\n1． 配合项目经理或上级领导完成项目开发工作；\n2． 协助团队进行项目分析、需求分析，确认项目实施成果；\n3． 协助讨论并制定项目实施方案，确定技术框架；\n4． 完成相应的技术文档编写，比如接口文档、方案设计、实施方案等等；\n5． 负责相应工程的发布与实施，及后续维护工作；\n6． 本科以上学历，具备三年及以上Java开发经验；\n7． 热爱技术研发，具有快速学习能力，注重代码质量，有良好的软件工程知识和编码规范意识。\n8． 具有较好的沟通能力和耐心、思路清晰、善于思考、能独立分析和解决问题；具有积极的汇报精神。\n9． 有强烈的责任心和团队合作精神，良好的抗压能力，心态积极，能主动融入团队",
+      "encryptAddressId": "18da580ba0207d5f1nV73di8F1JXw4u2VvOf",
+      "address": "上海浦东新区证大立方大厦6楼603",
+      "longitude": 121.552024,
+      "latitude": 31.224513,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfcc723726e6a537960e367c32ede3203b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf51cf1a35e9e6a52000824736e0d9ed666bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "SQL Server",
+        "不接受居家办公",
+        "物联网经验",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "廖女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221107/607f1f3d68754fd0680889d5ae30806149851d5d29cde51075ebfca6bcb6775fefda505fe98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "锐信网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "482474853c607c8f1nN92Nu5GFA~",
+      "brandName": "锐信网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210616/8f44c15e6f9eb8e83c7aced6ab015da2b6ab83f8e17cfa4d3dd57f65440920c6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "上海锐信网络科技有限公司是一家专注互联网领域的高新技术企业，以SaaS服务为基础，以极洲集团为依托，为各领域提供互联网+的企业提供综合解决方案",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724391265915,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "锐信网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

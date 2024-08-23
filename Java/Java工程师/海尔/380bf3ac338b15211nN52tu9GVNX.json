@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Y27trrVt3rP4Z-y1qo9gfFjFktIryIcgXg4LbX_-lSCtyxDucQS1WPOKr7JxugK9a4SETYHDW1kHwbhF8Nyxg0GLW65Lfk3cePPMEHgUi41JtSRcdgE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "380bf3ac338b15211nN52tu9GVNX",
+      "encryptUserId": "9d397b1d8d9fa5db0Hd70t28GFs~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "15-30K",
+      "payTypeDesc": null,
+      "postDescription": "【JAVA开发/架构职位】\n工作地点：青岛海尔工业园区A04大楼\n工作性质：海尔智家员工\n职位名称：JAVA开发工程师/资深/专家\n工作年限 : 2年以上\n学历要求 : 本科\n\n岗位描述：\n1. 负责海尔订单系统相关产品研发；\n2. 负责海量异构数据的分析和处理；\n3. 负责复杂业务的场景落地，平衡技术和业务，寻找最佳实践；\n\n岗位要求：\n    1. 拥有2年以上JAVA Web开发经验；\n    2. 熟悉Java的基础技术体系。包括JVM、类加载、线程、并发、IO、网络；\n    3. 熟练使用常用Java技术框架、对新技术框架有敏锐感知能力；了解云原生，了解devops，有微服务开发经验，SpringCloud框架使用经验、k8s相关使用经验者优先；\n    4.掌握数据库技术，会使用常用数据库，具备数据库设计能力和数据库性能调优经验者优先；\n    4. 深刻理解设计模式及应用场景者加分；\n    5.  执行力强，具有优秀的团队合作精神、敬业精神；具有较强的问题分析和处理能力、比较强的动手能力，对技术有强烈追求者优先考虑；",
+      "encryptAddressId": "e90711a4f723cbf51nB_3t25FlQ~",
+      "address": "青岛崂山区海尔信息产业园海尔园区",
+      "longitude": 120.419348,
+      "latitude": 36.129517,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c276593c39d5bb326672c7103d902dd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c9d033d9696606cf00361d9d1632662",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "后端开发",
+        "服务器端开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海尔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9adf6749de7ba9de1nZy29i-GFs~",
+      "brandName": "海尔",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1721787393981,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海尔",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

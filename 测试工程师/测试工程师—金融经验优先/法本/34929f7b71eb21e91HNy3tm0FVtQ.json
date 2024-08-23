@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "S87qrAViqzU1K-81mFsyLjcujZIF1PxE5Rbf3lgQ8_ZwGWnXV9lBt_YCla1yTCG1iwa14sh5FNCMBHf8gF3GQsT26UcFKJzCSejLRDhosX2TKpT3hjAxwgWVmJasMsYKvVw1t0XB00KiR72WJ6eM",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "34929f7b71eb21e91HNy3tm0FVtQ",
+      "encryptUserId": "d2a20074628fefb80nR-3t25F1Q~",
+      "invalidStatus": false,
+      "jobName": "测试工程师—金融经验优先",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-16K",
+      "payTypeDesc": null,
+      "postDescription": "需求1（甲方南方基金：深圳市福田区免税商务大厦 ）\n熟悉股票、基金、债券、衍生品等业务的优先，有银行间交易，熟悉外汇交易中心cfets相关的系统；\n熟悉测试理论，掌握测试流程，案例分析设计方法等；熟练数据库和linux；掌握http、tcp、socket等网络协议，熟悉接口测试及工具使用； \n工作内容：1、负责TA、投资交易、风控等系统的测试执行；负责对测试项目的进度和风险反馈，如周报日报等；负责相关系统的自动化案例设计和执行。 \n\n\n需求2、（甲方中国证券通信公司：福田区中信大厦）\n22号下周四一轮现场笔试+面试\n岗位要求：\n1、初级工程师:掌握主要测试方法和测试工具的使用，熟练使用常用的缺陷管理工具;能根据文档或少量指导下完成测试用例编写、测试执行、测试报告编写工作。\n2、中级工程师:掌握主要测试方法和测试工具的使用，熟练使用常用的缺陷管理工具;能独立完成测试分析、测试用例编写、测试执行、测试报告编写、测试结果分析工作，较强的沟通交流能力，能够指导低职级员工的工作。\n\n需求3（甲方是招商金科：福田区深业上城B座36层）\n岗位一职责：\n1、负责AI大模型及应用的测试工作，涉及性能、功能、系统、接口等多个层面的测试。\n2、积极参与产品需求和设计方案的评审，据此制定详尽的测试方案、用例和执行计划。\n3、执行测试用例，及时反馈缺陷，协助开发团队定位问题并进行修复验证。\n4、总结测试经验，不断优化测试管理流程，提升测试文档和工具的效率。\n岗位二职责：\n1、全面负责手机APP与PC WEB产品的测试工作，涉及功能、系统、接口及性能等多个层面的测试。\n2、积极参与产品需求和设计方案的评审，据此制定详尽的测试方案、用例和执行计划。\n3、执行测试用例，及时反馈缺陷，协助开发团队定位问题并进行修复验证。\n4、总结测试经验，不断优化测试管理流程，提升测试文档和工具的效率。\n\n岗位一任职要求：\n1、拥有本科及以上学历，且具备3年以上测试经验，能独立负责一个系统的性能测试工作。\n2、精通测试理论基础，对敏捷测试流程有深入理解，能够熟练运用各种测试流程和方法独立完成测试任务。\n3、精通数据库操作，熟练掌握postman、Jmeter、Charles等常用测试软件或工具。\n4、熟练运用Python进行接口自动化测试，具有性能测试、自动化测试或开发经验者优先。\n5、工作态度认真负责，具备良好的耐心和抗压能力，强烈的责任心，优秀的沟通技巧和团队合作精神，同时拥有强烈的主动学习意识。\n\n岗位二任职要求\n1、拥有本科及以上学历，且具备3年以上WEB测试或手机APP测试的专业经验。\n2、精通测试理论基础，对敏捷测试流程有深入理解，能够熟练运用各种测试流程和方法独立完成测试任务。\n3、精通数据库操作，熟练掌握postman、Jmeter、Charles等常用测试软件或工具。\n4、熟练运用Python进行接口自动化测试，具有性能测试、自动化测试或开发经验者优先。\n5、工作态度认真负责，具备良好的耐心和抗压能力，强烈的责任心，优秀的沟通技巧和团队合作精神，同时拥有强烈的主动学习意识。\n6、熟悉信创测试环境优先\n\n需求4（甲方是招商基金：时代科技大厦）\n岗位一\n1. 对待工作责任心强、态度积极主动，沟通表达能力良好，有良好的团队合作意识，能承受一定的工作压力；\n2. 能独立完成需求任务、有较好的测试思路、编写案例能力强并善于发现问题；\n3. 能熟练使用oracle或者高斯DB，有较强的sql编写能力，例如：能够根据业务独立完成多表的查询sql；\n4. 能熟练使用jmeter、apifox、postman等接口工具；\n5. 有基金相关业务的测试经验优先，例如：债券、非标、年金、养老金等业务的测试经验\n6. 有测试交易系统的经验优先，例如：银行间业务&交易所业务&期货业务&存款业务&回售业务等\n7. 有3-7年相关测试工作经验\n\n岗位二\n1.有数据项目测试经验，熟悉数据测试流程，主要负责数据库方面的测试任务\n2.具备较强的sql编写能力，精通oracle各种函数\n3.具备存储过程的读写能力，可从模型层面进行测试      \n4.较好的沟通能力，与产品、开发、项目PM紧密配合，不断优化产品研发测试交付流程，提高测试覆盖率与测试效率\n5.至少本科学历，3-7年相关测试工作经验\n6.有银行、证券、基金行业数据测试经验",
+      "encryptAddressId": "2752e3b4389e0f5f1H1-3t-9F1FZxo-3UfM~",
+      "address": "深圳福田区深业上城写字楼B座1",
+      "longitude": 114.071057,
+      "latitude": 22.556203,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4af1d47c8cdc7a591579f729e26f0c7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b5de5f158d29efe0659f5e014117591",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "自动化测试",
+        "Java",
+        "LoadRunner",
+        "Python",
+        "自动化测试经验",
+        "掌握软件测试理论和流程",
+        "金融  证券 基金",
+        "手机测试、pc web测试",
+        "交易，数据测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "高级招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210616/68a5f11e9bf592a6a6d8c272a5939c6d7d57661e9d64d5bdc7792d3826a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "法本",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "95b4b47ef9141c671nd52ty_",
+      "brandName": "法本",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/32931505697e3fbef594fb9ca3fd94a5cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳市法本信息技术股份有限公司（以下简称：法本信息）是全国领先的软件技术服务提供商，致力于通过创新技术服务帮助客户快速实现业务目标，取得商业成功。公司成立于2006年，至2021年，员工规模已超19000人。其总部位于中国深圳，目前公司在香港设有子公司，在北京、上海、广州、南京、杭州设有分公司，在武汉、长沙、成都、西安、佛山等城市设立办公室，业务范围覆盖全国，并在积极拓展海外业务。\n\n法本信息在十多年的信息技术服务与探索中，积累了丰富的实战技术资源、专业人才资源、标杆客户资源，并构建了逐步成熟的过程实施与质量管控体系，这些软实力构成了法本信息优秀的资源基础。在此基础上，法本信息紧随时代前沿技术，是首批对大数据、云计算、物联网、人工智能、移动、社交、信息安全等核心技术做成功应用的服务商之一，有着领先的技术能力。同时，法本信息基于客户的实际业务的应用场景做深入研究，以洞察行业特性和本质，开发并成功实践行业解决方案。\n\n法本信息客户遍布金融、互联网、通信、物流、航空、房地产、制造业等行业的领先企业。公司在以信息技术助推客户的商业升级中，采用“匹配、联合”的战略与客户做深度合作，从而形成了丰富而优秀的客户资源。在未来，我们将通过和优质客户进行业务全价值链的紧密合作，营造良好生态，用创新来共同改变世界。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "定期体检",
+        "五险一金",
+        "企业文化"
+      ],
+      "activeTime": 1724379404997,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "法本",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

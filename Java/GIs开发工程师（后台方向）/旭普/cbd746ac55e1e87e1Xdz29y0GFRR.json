@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rA5crjcg41oor-o12d3OqL_UilB_0dFU2TU1nDuqY84Oe6EaAj0EDIFNGZmu6C0PKS9In7FJE4ni_7rxOKqVzCstLvAODWiyhKfZGdq0r28Pd5Du_oU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cbd746ac55e1e87e1Xdz29y0GFRR",
+      "encryptUserId": "7cc81b1cb641b84f0nR_3t61E1NT",
+      "invalidStatus": false,
+      "jobName": "GIs开发工程师（后台方向）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-18K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责项目相关开发工作，包括参与/领导系统需求分析、系统功能设计；\n2、参与制定开发方案，负责功能模块开发及后续的维护工作；\n3、负责技术研究，结合业务需求，能提出自己的技术线路，保障研发及迭代效率；\n4、独立或主持完成模块/组件（含核心部件）的软件需求分析、软件设计（含增量方式）、代码编写、单元测试、集成测试、静态检查、本地构造等工作；\n5、分析及参与业务需求的迭代开发，提供系统功能设计方案并进行落地；\n6、能够进行气象、环境、水务、农业相关数据的分析和研究工作；\n7、按计划完成任务，并能及时反馈进度和问题；\n8、编写相关技术文档。\n任职要求\n1、计算机软件/网络/GIS相关专业本科或以上学历，3年以上GIS平台开发经验，并2年以上Java开发经验，熟悉Java基础知识和核心类库；\n2、具备良好的面向对象编程经验，熟悉常用设计模式；\n3、精通Spring Boot、Spring MVC、Spring Cloud等开发框架，并有相关的开发经验；\n4、熟悉WMS、WMTS、WFS等OGC服务规范，了解前台Leaflet、OpenLayers框架者；\n5、熟悉数据处理分析和可视化的相关软件，如matlab，NCL等。\n6、有气象、海洋、环境、农业专业、GIS背景工作者优先；\n7、熟悉PostgreSQL、Oracle、Mysql、MSSQL等常见数据库的基本原理以及适用场景，熟悉不同种类的数据库编程，会编制存储过程、函数，了解常见SQL优化查询；\n8、熟悉分布式中间件技术（nginx、zuul、zookeeper等）者优先；\n9、熟悉常见缓存技术，使用过Redis、Memcache等缓存框架者优先；\n10、熟悉分布式常用技术者优先，如部署单元化，分库分表，分布式数据库，读写分离等；\n11、对多线程，并发编程，异步IO等高性能设计熟悉者优先；\n12、熟悉ENVI IDAL、ArcGis server GP编程者优先；\n13、责任心强，求知欲强，对技术敏感，具有较强的学习能力和团队合作意识，良好的沟通能力、方案设计和撰写能力。",
+      "encryptAddressId": "a8d9019a93c99b100XJz39m1FVo~",
+      "address": "广州天河区广东旭普空间信息技术产业发展有限公司5栋1楼",
+      "longitude": 113.411046,
+      "latitude": 23.185697,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f0225cfa8ac176362d311cdfea54a44b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a15ba64111ebe02c381b8546a2e324e3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221106/607f1f3d68754fd0b43795da82d8ce20e14541fd41542d40af9d58aaae332be73af47d0f54b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "旭普",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "616ce838ba5111a11nZ739u5FQ~~",
+      "brandName": "旭普",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171107/c1b847d511b6854b7992a5e429427071163c45e1bf09c584aaa6b5fda19275eb.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "公司简介：\n        旭普是以GIS（地理信息系统）、GPS（全球卫星定位系统）、RS（遥感）3S空间信息技术以及云计算、云存储、云服务为突出技术特征的软件工程技术研究应用服务商和计算机网络系统集成商；专业提供涉及3S行业信息化建设解决方案、工程应用、集成及大型云数据中心服务，同时还提供具有行业特征的工程资讯设计及环境保护研究实施、档案数字化生产、管理及测绘工程。\n        旭普成立之初及以全新的管理模式和市场运营理念，利用学科优势及人才资源优势，迅速发展壮大，吸引了大批有志于GIS技术研究、工程应用及致力于推动我国空间信息产业发展且承担过众多GIS工程、有丰富的建设经验的知名专家、博士、硕士以及高级工程技术人员与管理人才，集团目前有500余人，其中博士10人，硕士47人，中高级技术职称100余人；在广州、武汉、成都、福州、哈尔滨、南宁、海口均设有分支机构。经过十余年的积累，专业提供涉及3S技术的行业信息化以及智慧城市建设解决方案、工程应用、系统集成以及大型云数据中心服务。集团已将自己的产品及服务及经营理念应用到国土、水利、农业、智慧城市等多个行业和领域，已形成以广东为中心，辐射华北、华中、华东、华南四大业务服务区域的全国统一的技术服务网络及研发与服务为一体的深入多个行业信息化的公司，并取得了丰硕的研究成果及业绩。\n\n集团核心分支机构：\n北斗旭普空间信息产业（武汉）有限公司\n广东旭普空间信息技术产业发展有限公司\n广州市水科工程咨询有限公司\n..................................\n产学研合作团队：\n空间信息与数字技术国家测绘地理信息局工程研究中心\n航天五院钱学森实验室\n中科院对地观测与数字地球科学中心\n中国科学院地理所\n武汉大学国防研究院、遥感信息院、国际软件学院\n国防大学四院北斗导航系统实验室\n中国地质大学地理信息系统国家工程中心\n.........................................\n【公司福利】\n1、提供行业富有竞争力的薪资待遇，一经录用，待遇从优。\n2、五天8小时工作制，周末双休。\n3、入职即购买六险一金。\n4、根据公司经营状况，年底发放丰厚年终奖金。\n5、临近地铁，交通便利。\n6、不定期举办员工活动，充实的工作之余享受集体活动的乐趣。\n7、完善的调薪晋升激励机制，广阔的职业发展空间，充分肯定您对公司的贡献价值。\n8、多种专业技能和管理技能培训，不断提升个人的核心竞争力。\n9、公司具备超强的自主研发能力及优质的客户资源，行业前景无限广阔。\n10、公司领导亲和，同事友爱，工作氛围和谐愉快。\n更多福利，您来了就知道······",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "零食下午茶",
+        "多次调薪"
+      ],
+      "activeTime": 1721813274371,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旭普",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
