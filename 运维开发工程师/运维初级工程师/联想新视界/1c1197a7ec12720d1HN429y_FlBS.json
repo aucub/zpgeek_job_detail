@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qInSpjYVaSeWa-d1UiyUc1rS4wxcy8zvnwEGsMyjVgAOe1XAxu-flRakUFcP3gxTlDNVKClGqmHnFgst2GJUTc7Ay9GXabWQYw9BRLGANAkT8nEnG107mVFwbRC9jScKbYVoGjAjfOjs",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1c1197a7ec12720d1HN429y_FlBS",
+      "encryptUserId": "14177de09f1726970XR63ti-FVNU",
+      "invalidStatus": false,
+      "jobName": "运维初级工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.研发自动化运维平台，提高运维、开发协作效率，规范操作流程\n2.主导或参与系统设计、研发、部署等相关工作\n3.研发基础服务组件，解决共性需求，减少重复开发与运维\n4.参与生产系统维护和现场部署工作，解决生产系统问题及进行系统调优\n5.新技术研究和应用，并推动适合的技术应用于生产\n6.对现有系统提出优化建议，并组织实施\n7. 出差到客户现场实施运维部署系统\n\n岗位要求：\n1.熟悉Linux操作系统以及网络原理、Linux下常用服务的部署及优化，了解常用运维开源工具；\n2.精通python编程，至少熟悉1种常见WEB框架Django,Tornado,Flask等，同时掌握Go、Rust和Java其中一门或多门语音者优先考虑；\n3、掌握k8s、docker并且有大型k8s集群维护经验；\n4.熟悉各种开源软件Nginx、MySQL、Redis、Postgresql、Kafka、ElasticSearch、ZooKeeper、Influxdb、Timescaledb等部署、运维和优化；\n5. 三年以上运维开发项目经验， 熟悉熟悉互联网产品的运维流程，熟悉DevOps以及自动化；\n6. 熟悉 CI，CD，CM的相关工具，例如Jenkins、Gerrit、JIRA等，对CI/CD、GitOps等DevOps实践和生态有一定的认知和实践\n7.有较强的学习能力，具有较强的综合分析问题及解决问题的能力",
+      "encryptAddressId": "473187b3dd8c7bf41nR92965FVJSx4u7Wf6W",
+      "address": "杭州钱塘区新视界未来中心所在地区:浙江省杭州市钱塘区下沙街道详细地址:银沙路166号新视界未来中心A座2408",
+      "longitude": 120.333458,
+      "latitude": 30.299467,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240227/48ba41acc9cef1bf94ed12f8252941905ee983bf3078d3506bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240227/48ba41acc9cef1bfc4cd7c94e895a83b6a7371c8942fe2986bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "python编程",
+        "Linux",
+        "k8s"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "联想新视界",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8074020cf231f0903xz39u_",
+      "brandName": "联想新视界",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170713/dfa5d9b7eb32b2eb03d31b19418f3dbb49370a5eaad4d5d055072043dee484a9.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "联想新视界定位于产业元宇宙行业应用平台服务商。 以数字孪生技术为核心，打造产业元宇宙平台产品及服务。 连接上下游生态合作伙伴，为行业客户提供全价值链的数智化解决方案，推动产业元宇宙发展，赋能传统产业升级。 公司推出的产品：浩界(NovoVerse)、帝拓思（DTOS）、Z-Engine、工业数字孪生一体机、分布式数字底座节点一体机。\n\n联想新视界是国家级高新技术企业、软件企业、北京市瞪羚企业，并获得多项ISO管理体系认证。联想新视界通过长期技术研发投入，形成拥有自主知识产权的多项核心技术和产品方案，并注册上百项国内外知识产权，应用于航天、能源、工业、汽车、文旅、农业、应急等行业。",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724420228206,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "联想新视界",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
