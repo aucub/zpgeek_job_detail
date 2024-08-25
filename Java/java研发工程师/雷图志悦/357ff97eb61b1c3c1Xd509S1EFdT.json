@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RAD8LjiZqRbzT-M1CIuFqGkKfw_gxqkbU-JmGFNSel-ArghveX-prkp2FHPOQnxqcHJIUZjZ8-LM3fBuxozuU6aB_PW3cof9xr7L7lQk2BgkRFId39rOoK04Vi2HU_-ULZZf2tGTejnYCnM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "357ff97eb61b1c3c1Xd509S1EFdT",
+      "encryptUserId": "fad8edf47fcd1d9d1nV93du6FldQ",
+      "invalidStatus": false,
+      "jobName": "java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责公司软件平台产品的需求理解和业务设计。\n2.负责公司的软件产品设计、开发和对接调试。\n3.负责系统开发阶段相应文档的撰写。\n4.负责系统部署及系统上线后的运行维护。\n职位要求：\n1. 本科及以上学历，计算机、软件工程等相关专业，1年以上相关工作经验。\n2. 精通JavaWeb开发，能独立设计系统框架，并独立完成系统开发和测试。\n3. 熟练掌握Spring，Spring MVC，springboot等主流框架，并精通其中至少一种框架。\n4. 精通数据库（Oracle/Mysql），有较强的Sql编写能力。\n5. 熟练Linux基本命令，有Linux环境部署维护经验。\n6. 熟练docker，nginx等工具使用。\n7. 熟悉Gitlab，SVN等版本管理工具的使用。\n8. 具有很强的学习和独立分析能力、工作责任心、良好的沟通能力和团体合作精神。",
+      "encryptAddressId": "8c2defe350a8eecc0XB92d64FlM~",
+      "address": "青岛李沧区百通大厦901",
+      "longitude": 120.42283,
+      "latitude": 36.161289,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/86db7d68e9022edc8e2ea2f63b26a08e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bb17ff36944d3edf72e4d2a4e900660",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "容器技术",
+        "Spring",
+        "SpringBoot",
+        "SpringCloud",
+        "后端开发",
+        "Socket技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事专员HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "雷图志悦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "24fcb22aed68a41c1nF92ty1GFY~",
+      "brandName": "雷图志悦",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724150694064,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "雷图志悦",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

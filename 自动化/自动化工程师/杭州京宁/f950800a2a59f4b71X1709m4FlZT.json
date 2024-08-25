@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8e1sXJHsz2XdX-c10WllptLwJAWDX_ZcFEqLSMRW__KaybVz4KmCDTe9bKNiFgTJhQ9tMujHTmbBaU8lOambE2DqfqvQwz--fjxS_HKSKyX2a0D4tOQ~",
+    "securityId": "UJsorI8ysXgcU-51TaiJ07A3qGoEYCwWsGA1QOQE74rWX1Dk1f9MDMzyuJu3YnNro8NI8IU1KKPnrGbHgXsKHQN8YLcCZBAxaBRg6Q9wkYWPQkebdT5K9LFtgKzkCFA-Fl9wRXoIDz4Q18jvqDfHece_WQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -75,17 +75,17 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1724232568735,
+      "activeTime": 1724554727209,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州京宁",
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

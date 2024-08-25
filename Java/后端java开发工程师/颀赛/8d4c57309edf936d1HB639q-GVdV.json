@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hWrLjAZuqWK6G-C1Z8i9t7qYhb9FXJq7HQDzD8BmuHeumk3yRFQ7XkxPFA33yhRc47nKVe_TZuwz3isUzmdxl6bvAUOPaJWN9ULQxeQpgPF3L7kQV3-sHX_mlHuMRNbXlrOO-Qhlu2MJXFQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8d4c57309edf936d1HB639q-GVdV",
+      "encryptUserId": "70e5c3cc9c420d150nx-39q6FVFR",
+      "invalidStatus": false,
+      "jobName": "后端java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1． 具备需求理解、方案设计能力，具备良好的编码习惯和文档编写能力，能够根据项目需求完成功能详细设计文档编写工作，并将设计文档高质量地转化为功能代码；\n2． 对数据库相关知识熟练掌握，能够合理设计数据库结构，编写高质量的sql语句，并对慢sql等常见问题进行数据库优化；\n3． 熟练掌握webservice和http接口技术，能够独立进行API接口设计，完成外部系统接入等；\n4． 愿意且能够深入研究和理解现有功能业务和代码逻辑，分析原理排查问题，能够转化为自己的理解并提出功能优化思路；\n\n任职要求\n1． 计算机相关专业本科及以上学历，具备较好的计算机和软件工程相关理论基础；\n2． 精通JAVA语言并具备实际开发经验，熟悉分布式系统的设计和应用。熟悉分布式、数据库、缓存、消息等机制，能对常用的分布式技术进行合理应用，具备实际架构经验；\n3． 熟练掌握Spring、 SpringBoot 、SpringCloud、mybatis、mybatis-plus等框架机制和实现原理，具有基于spring框架的分布式系统设计开发经验；\n4． 掌握jsp，jquery，js，vue，element-ui等技术和原理，有前后端分离架构的项目开发经验，具备一定前端开发能力；\n5． 熟悉中间件和消息机制，熟悉事务性系统建设的要求；\n6． 熟悉常见数据结构、算法等理论基础，能够关注代码的复杂度、效率等指标，并进行优化；\n7． 熟悉多线程，熟悉高可用、高性能的设计方案，具备性能调优经验；\n8． 熟练掌握MySql或其他数据库，具备一定的sql编写能力及设计原则，且具备sql调优经验；\n9． 熟练掌握Linux 操作系统，熟悉Linux常用命令，熟练使用Git、Maven等项目管理工具；\n10． 拥有良好的表达和沟通能力，具有较强的分析问题、方案整合和解决问题的能力；良好的团队合作精神，关注和乐于尝试最新的技术；\n11． 可以接受加班、可以接受项目出差。",
+      "encryptAddressId": "0f23554174dcb58403B73Nu6FVZVwIy3Uvk~",
+      "address": "西安未央区赛高街区A座608",
+      "longitude": 108.946413,
+      "latitude": 34.329338,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7425d05c7f32ec6ad3eb811b16776195",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5319025241c916b3077ef21af5428f8d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "褚女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240808/607f1f3d68754fd062e4e82356af7ce81beac40ed4f740a90c4dd24c471f9e900ae8cd3a7cb1d6a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "颀赛",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4e73730874eb64951nZy29W_F1s~",
+      "brandName": "颀赛",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201116/9e7bb9b31ab344dd339554d53f154d4ad4cdd55d8357020236ea9e929c01b6ef.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724558454518,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "颀赛",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
