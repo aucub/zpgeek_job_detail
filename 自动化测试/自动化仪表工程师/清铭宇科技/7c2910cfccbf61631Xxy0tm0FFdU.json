@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "EQj2aP8VXkZSV-K1pzDTtmI_x0renUo0J6mb0bR_jKf6dEhERcrtwygvVQUOY7l4Ks1gVH-5km1kRoWLR0iZ0Jz4eYzeWsmT3Hh6YDeXuX5TtoDBWc0~",
+    "securityId": "pR_K0n5VtTyW6-I1t1XvsiwMe-KLfQNU_-B9MNOrCXtHw38-KpEnJnJd7Lb0b09YiEKlYx0lNqkPAtY64c1LMhs4MTpKj4tjyRDj8Khjk1wSIosDK48~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -17,13 +17,13 @@
       "location": 101110100,
       "locationName": "西安",
       "experienceName": "经验不限",
-      "degreeName": "中专/中技",
+      "degreeName": "本科",
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "3-4K",
+      "salaryDesc": "4-8K",
       "payTypeDesc": null,
-      "postDescription": "1. 完成仪表安装、调校、检测；\n2. 自动化相关工作辅助，有特种电工证；\n3. 有建造师证书优先；",
+      "postDescription": "1. 能完成工业仪器仪表拆装、布线、调校、检测相关工作；\n2. 能根据项目图纸做材料、配件、设备及工作量统计表；文笔较好，能配合领导做项目组织方案设计、安全培训资料、项目过程资料、项目验收资料等辅助工作；\n3. 有很强的责任心和安全意识，诚信可靠、严谨细致，能配合领导推进项目进度，规避风险；\n4. 能熟练运用word、excel等办公软件，会CAD制图；\n2. 可做自动化相关工作辅助，有特种电工证；\n3. 有c1驾照，可以熟练驾车。",
       "encryptAddressId": "7e0bccbe16db8bde0HR42Nq6EFA~",
       "address": "西安未央区EE康城9-704",
       "longitude": 108.957121,
@@ -33,8 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
+        "计算机相关专业",
+        "测试工作经验",
+        "自动化测试经验",
         "仪表检测",
-        "吃苦耐劳"
+        "能适应经常短期出差",
+        "熟悉工业仪器仪表原理，协议"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -44,11 +48,13 @@
       "title": "招聘",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210605/f7cf0bd56637a21b50b3c6aba46daca67af39cd4b37536502751a376b7d_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": null,
       "bossOnline": false,
       "brandName": "清铭宇科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "37335791719946120n1y2d29FQ~~",
@@ -58,8 +64,8 @@
       "stageName": "未融资",
       "scale": 302,
       "scaleName": "20-99人",
-      "industry": 100902,
-      "industryName": "仪器仪表/工业自动化",
+      "industry": 101201,
+      "industryName": "石油/石化",
       "introduce": "南京清铭宇自控科技有限公司（以下简称“清铭宇科技”）致力于工业现场过程控制、环境保护工程的系统设计、开发、生产和销售。公司在工业自动化领域，尤其在油气、防爆等安全要求较高的工业场所有丰富的实践经验，为用户提供从上位机软件、上位机到交换机、PLC、HMI、仪表等系统工业网络通讯的一站式服务。\n     公司作为工业自动化领域的高新技术企业，遵循“至诚至信、至专至精”的品牌理念，公司致力于自主研发生产性能可靠、品质精良、技术先进的前沿工控产品，为各行业用户提供自动化产品的整体解决方案。同时，公司积极与科研院所和行业用户紧密合作，联手开发基于行业自动化解决方案的企业管理信息系统。\n      清铭宇科技主要服务于：中石化、中石油、水利水电、电力、燃气等领域。\n      目前公司拥有由南京大学、武汉大学、中国石油大学、长江大学等国内知名学府的博士和硕士所组成的专业研发团队，以及具有多年工控行业工作经验的市场营销和管理团队，清铭宇科技以其独特的企业文化、前瞻的市场战略以及良好的服务体系为基础，秉承稳固发展、自主创新的企业精神，成功打造了一个由优秀的人才队伍、品质精良的产品、国内领先的技术等要素构成的自动化系统服务商。",
       "labels": [
         "节日福利",
@@ -72,7 +78,7 @@
         "补充商业保险",
         "出差补贴"
       ],
-      "activeTime": 1718113012440,
+      "activeTime": 1724652235534,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "清铭宇科技",

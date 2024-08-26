@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fjwi0cCVW2WHJ-n15kT4KSKWIrXXIHYUguihBG_oNGQCBrBdCoOSeOgw4TZtlWN9Q5qLR5uNM20M8xzsTOihK67tBzLxqZK0T4pcpfsaUGmF8cSIuNVk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2c2e4b6a0c7224181nR609--GFZR",
+      "encryptUserId": "52274087a7912a120nR70tq5ElNW",
+      "invalidStatus": false,
+      "jobName": "Java软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "Java软件开发工程师\n职位要求：\n===================\n1. 计算机相关专业专科及以上学历，具有1年及以上相关项目经验，具有独立开发项目的能力；\n2.熟练使用Eclipse/IntelliJ、Maven、Svn、Git等开发环境及其工具；精通SpringBoot、SpringMVC、Dubbo、Mybatis等主流框架；精通SQL编程，至少熟悉Mysql/SqlServer/Oracle中的一种数据库；\n3. JAVA基础扎实，熟悉IO、多线程、集合等基础框架，熟悉分布式、缓存、消息等机制。熟练主流应用服务器框架、分布式数据库、缓存、文件系统、消息系统等技术。\n4. 前端能仿照现有的界面独立完成界面开发（前端框架涉及技术为HTML、CSS、Javascript、Bootstrap、JQuery等）；熟悉前端Vue+ElementUI框架，前后端分离开发模式者优先考虑;\n5. 良好的编程习惯和文档能力；\n6. 具备良好的职业素养和团队协作精神，较强的学习能力，可以承担一定的工作压力；\n岗位职责：\n================\n1.根据项目经理要求按照计划完成模块或系统设计开发；\n2.根据项目经理要求按照计划完成相应的项目文档；\n3.根据公司编码规范和开发框架完成功能开发和单元测试；\n4.完成领导交办的其他事项",
+      "encryptAddressId": "347dfa9d156016201XFz3ty-Ew~~",
+      "address": "青岛市北区青岛科技城6号楼618",
+      "longitude": 120.386787,
+      "latitude": 36.151229,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a93107840afd19cbaa481f78b5e6ab3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f41987a23fb953ee992f4c44c620fbf1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "多线程",
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "招聘专员/主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "卓联信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9be8487d60a24efc1nVz39S4EVA~",
+      "brandName": "卓联信息",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210914/7bf6f160950405e92cc14dbb00511a36e0624218c1937568e48d2f24604389ba0c8ccc5052069378.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "卓联围绕“为用户创造高品质的移动互联网产品”的企业使命，以敏锐、独特的 思维为指导，以科学、专业的技术为基础，以为客户提供满意的服务为宗旨，致力于为政府、企业、个人提供APP开发、WEB应用、ERP开发、系统开发、小程序开发等软件应用解决方案。帮助客户创造知名品牌的软件产品，助企业成功！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1722058011658,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卓联信息",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

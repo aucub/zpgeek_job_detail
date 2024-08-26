@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cl2yghKRp0KB0-31PWGW1OD1_fnf2zbCgkxtHr_9cHfeecZLvDkISsytP9gefwMc73ycvDMO1_eEuuSJGkvbXolNGDECaGdmySKrkkrgaSug_PpJBQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0f8c6f729adee8d81HZ53d--EVpZ",
+      "encryptUserId": "dfa3b63853eac5671XJ_3d-7Elc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n\n寻踏实靠谱的Java开发工程师。能熟练使用spring boot框架开发，有分布式开发经验，熟悉Linux操作系统和基本命令。\n\n职责：\n\n开发和维护公司的后端系统，包括需求分析、设计、编码和测试。\n与团队成员合作，参与项目的需求讨论和技术设计。\n日常服务器监控和运维，包括mysql，redis等等。\n修bug，优化现有的系统。\n对外提供技术答疑和技术支持。\n\n基本要求：\n计算机科学或相关领域的本科或以上学历。\n至少有两年的Java开发经验，熟悉Spring Boot框架开发。\n熟练使用mysql数据库，有一定调优能力。\n熟练掌握Redis的使用和配置，有实际的运维经验。\n熟悉Linux操作系统和基本命令，能够在Linux上进行系统管理和维护。\n良好的团队合作能力和沟通能力，能够有效地与团队成员合作。\n对新技术充满热情，有持续学习和自我提升的动力。\n\n加分项：\n有良好的文档编写能力和沟通能力。\n有linux操作系统使用经验。\n有GitHub上有个人项目。\n\n岗位福利：\n1、五险一金\n2、周末双休、带薪年假\n3、节日福利",
+      "encryptAddressId": "6fad61d696a832db1nB_2ti8EFQ~",
+      "address": "北京朝阳区鹏润大厦A座A2106",
+      "longitude": 116.466361,
+      "latitude": 39.959148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e923468ce8f6f4ac7e8cc0fc37e2c60",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18e2c08f9689557883185f6be1cf68d5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170408/d49cd414346acf6d750866f4c0818323894a2d2232aaf2a978dd838825d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "普安资本",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff2ac5adb90fc6541XNy09--GQ~~",
+      "brandName": "普安资本",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190615/0ffa638996b9dc8800d4fa6281e09fdb508d8ad73516482d2a3f87acfd9d2776.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100207,
+      "industryName": "投资/融资",
+      "introduce": " 普安资本于2017年3月在北京注册成立,发起股东均为大型金融集团旗下的持牌金融机构：渤海信托国际信托股份有限公司、特华投资控股有限公司、西藏九证资本投资有限公司、北京虹远信息咨询有限公司；公司致力成为中国消费金融领域领先的独立资产服务机构，为持牌金融机构提供全方位服务，实现以资产为核心的产品定价，打通机构资金与消费金融资产的桥梁。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724642876800,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "普安资本",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

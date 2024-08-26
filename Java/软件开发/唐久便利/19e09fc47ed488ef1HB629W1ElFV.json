@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CXRSDCYIFabJ8-T1fqoZ391j6HwiH72q3yzhbIwyn92sT0_iCQtAF4uRS9ifxIFaUO8xdWgQYcSIUw0spXON0FBNCOk-2XcLEL4C2dWppaQkUhVF7C8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "19e09fc47ed488ef1HB629W1ElFV",
+      "encryptUserId": "80a79d2e3904d82403N92dW_E1U~",
+      "invalidStatus": false,
+      "jobName": "软件开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、软件功能的需求分析、设计及开发工作；\n2、已有系统的维护及新功能开发；\n3、完成上级领导安排的其他任务；\n\n任职要求：\n1、3年以上软件开发经验，计算机相关专业;\n2、扎实的Java编程基础，熟悉各种设计模式;\n3、熟练掌握SpringBoot、Mybatis、Mybatis-Plus或其他主流Java框架;\n4、熟练掌握MySQL、MSSQL数据库中的一种或多种，有数据库调优经验优先;\n5、熟练使用Maven、Idea、Git等开发工具\n6、熟悉Vue、ElementUI等主流的前端框架和技术\n7、熟悉nginx、tomcat、redis等常见组件，了解其原理\n8、熟悉Shiro、Security等安全框架\n9、熟悉Linux系统，了解Docker优先\n10、熟悉Spring Cloud & Spring Cloud Alibaba，了解微服务思想",
+      "encryptAddressId": "82ce6d30bf4c4b600nNy2di8FFNXw4W3UPk~",
+      "address": "太原迎泽区唐久物流2层办公区",
+      "longitude": 112.619979,
+      "latitude": 37.863425,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bf5db724f7321d3925db86077f83ee060c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bfad4ab0c39800c71cbb5696a8ef355c496bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "MySQL",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "闫先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181019/44bae59fd8ee0f19ed0ffa2535219c7cb83f3af5d42bfcdfe5e845b2553_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "唐久便利",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4b13e0eb330f89a21X1-0t66GVs~",
+      "brandName": "唐久便利",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722074554328,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "唐久便利",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

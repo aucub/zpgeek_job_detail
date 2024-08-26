@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cI7BGyo0mWFJ4-Z1k7SzdVXte6uV9wjJBgZXjpaZGd2_19RmiFEoRdQLnHDwZ5PCMoQ-LDqRnKuQv60PjdEY1kKpF3OLCUVQeE1KMZy0jc4Z2zHKaEpg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1777d6fbd563d2c01HJ82t-4GFZQ",
+      "encryptUserId": "9731e17137965b800XB-29-0FlVS",
+      "invalidStatus": false,
+      "jobName": "python开发工程师-ZK",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握Python并具备相关开发经验 \n2、熟练掌握python框架fastapi、flask \n3、熟悉多种数据库，如Redis、PostgreSQL、ES等 \n4、熟悉python异步通信例如kafka、celery等\n 5、熟悉 Docker 容器部署、打包等服务 \n6、具备逻辑处理能力，能独立完成对接和联调工作 \n7、学习能力强、能吃苦",
+      "encryptAddressId": "48665167c3af00480HV83t2_GVpZx4y7V_o~",
+      "address": "北京海淀区中关村768创意产业园1",
+      "longitude": 116.350767,
+      "latitude": 40.009289,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3381ca891a0059bf63d2b89085ac68b3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1877553d4da9c5fbcfc5daa2944b6b4d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Django",
+        "Docker",
+        "MySQL",
+        "多线程",
+        "异步通信"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240702/607f1f3d68754fd031ee1ab3683984d960d6ec30406e3dbf93648c5c0a3a2ae6fe58b589cd90103_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "迈动云智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe73eea3cd3134621nF43di1Fls~",
+      "brandName": "迈动云智",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "迈动互联（北京）信息科技有限公司成立于2010年09月27日，主要经营范围为技术开发、技术咨询、技术转让、技术服务等。  在佛山有设分子公司（迈动云智），设有办公室在碧桂园总部对面，佛山共驻场30多人。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724688634245,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迈动云智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

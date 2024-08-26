@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KUZG76KssBBG3-O1p0kMIezEXRJMxGSkNF23ssKZo3f-YMqtrZ4gkEU35n2fKur3tKpFaRShJM8fhkQCh5XyEsrmSzx-LER5-HodRoTX4ZtQRjDBHew~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3536bbc12c27fae21XJy3Nu6FFRZ",
+      "encryptUserId": "895b975ab3a759b61nR93dS9EFdV",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作要求：\n1、负责公司核心产品的设计、开发、维护；\n2、根据需求和系统设计，完成功能或模块设计并形成设计文档；\n3、根据设计文档完成功能模块编码和自测；\n4、解决测试组和用户反馈的Bug；\n5、根据项目要求，执行项目的设计、编码、版本发布等工作，配合完成项目的验收和维护；\n6、使用C、C++/QT语言在Windows系统环境和Linux操作系统下开发软件；\n7、完成上级领导安排的其他工作;\n任职要求：\n1、数学、软件工程、计算机、仿真等相关专业优先考虑；\n2、两年以上编程开发经验；\n3、熟悉STL、boost中的一种，熟练使用Visual Studio或Qt Creator工具；\n4、具有数据库、多线程、网络通信、界面编程、二三维GIS等至少一个方面的开发经验；\n5、熟悉软件开发流程，能够使用UML进行面向对象设计，熟悉插件化编程；\n6、熟悉TCP/IP等通信协议，熟悉Socket、Qt信号槽、多线程等开发技术;",
+      "encryptAddressId": "75dbd693c852ac3503d609q1GFs~",
+      "address": "北京昌平区珠江摩尔大厦3号楼2单元1205",
+      "longitude": 116.292301,
+      "latitude": 40.099072,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/391074b4c14a5bfdcb4b4f0861aa662b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bef0c00f69980b2e7884f27818f38bd0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "C语言",
+        "Java",
+        "C++服务端开发经验",
+        "Qt项目开发经验",
+        "Linux开发/部署经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姬先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200706/7af110fb56f3b29ece5b5b451854716c3df4d6be15330e3f6867be44e05_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "易云网信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8406ce07f41b8ec01XBy29u7Ew~~",
+      "brandName": "易云网信",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220411/7b5b554d84f9729ce8c447f024687c7209b1cf63c0c702c53df4d6be15330e3f6867be44e05cb33a.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "易云网信(北京）信息技术有限公司，主要从事网络安全和云计算方面的业务",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722103090493,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易云网信",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

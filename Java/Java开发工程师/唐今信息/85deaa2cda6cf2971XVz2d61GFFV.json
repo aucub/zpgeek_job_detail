@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cyJKuGvveky3k-G1MD6ubkpLE6FpT0REeONXR14pFZHShErq39Clhh4K64mSmvq0gYA_vh9gDty6lLtt8lu_e8OJ6zU1DBhX6LMOMQsMe-SEpDo-qQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85deaa2cda6cf2971XVz2d61GFFV",
+      "encryptUserId": "31c4f8d64f01687c33V52dq0F1o~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、2年以上J2EE开发开发经验；\n2、熟悉SSH、Spring Boot、Mybatis/Hibernate等主流开发框架；\n3、熟练掌握Oracle、MySql、国产数据库等至少一种主流常见数据库，要求SQL编写能力要扎实;\n4、有一定的jquery开发基础，熟练掌握至少一种juqery ui框架，比如miniUI、easyui、layui等。\n5、良好的编程习惯和代码书写规范。\n6、有较强的工作责任心、积极工作态度、良好的抗压能力和独立解决问题的能力",
+      "encryptAddressId": "8a932e3c39e6e1870XJ63dy8Flo~",
+      "address": "北京海淀区北清路26号院(正门)正门",
+      "longitude": 116.268539,
+      "latitude": 40.07633,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33fb25b17b59b3226c5481ea343e4bf7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a95eb295e1a8543279a05a6d6776ac95",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "Hibernate",
+        "SSH",
+        "MySQL",
+        "jQuery",
+        "miniui"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "唐今信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "915cdac0f5f02bd60XJ_2t60Fg~~",
+      "brandName": "唐今信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724666630121,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "唐今信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
