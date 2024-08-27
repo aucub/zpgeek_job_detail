@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0KsnPAwdlzx5z-T1sZgaIo5z3DZTGkY9Isxdz-iXxpyXJcEiCoktcuHVsmf9Sygx2jhekO-G1SGrFFVS2TRA6p3FSWGatdBqwYO1qADvx9Jt0vZA6xI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c2e78f540efc78461n1709S7FlNS",
+      "encryptUserId": "7b5f9854cf95ab590HV62N-7FVM~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101211000,
+      "locationName": "衢州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.计算机相关专业，本科及以上学历，1-5年以上JAVA开发经验；\n2.熟悉Java体系，Maven、Git等常用工具的使用，JVM；\n3.至少熟悉一种 架构 Jfinal 、Spring、SpringBoot、MyBatis、SpringMVC等应用框架并熟悉实现原理；\n4.熟悉Redis、Nginx、Tomcat、Elasticsearch等；\n5.熟练主流数据库MySql/NoSQL如Redis、MongoDB，具备优秀的数据建模能力和数据库分库分表设计能力；\n6.责任心强，学习主动性强，有决心从小事做起，有上进心。具备良好的问题分析能力、对外沟通能力和团队协作能力；",
+      "encryptAddressId": "244f6b6091061d981XZ_3921FVQ~",
+      "address": "衢州柯城区EGO颐高广场A坐602",
+      "longitude": 118.850615,
+      "latitude": 28.974365,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eee205d14a5e7e57ce1786d44b62328e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/53605080c0aedf59544e68f33db522f0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "服务器配置",
+        "负载均衡技术",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "MySQL",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190726/f769ab11ac7e699705e5ca9257c82121b3970a60dabeba08d245da92cc6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "青玉科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0221be6aded767581n1-0tq0EVQ~",
+      "brandName": "青玉科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722847422000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青玉科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

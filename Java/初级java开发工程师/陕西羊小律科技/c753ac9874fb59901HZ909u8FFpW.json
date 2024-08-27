@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0XG251JOVf9vc-Z1KSwCZS52eUd40wrQiSFnFvJwPO9WZw8KY-yd7zR5uklPa59lOTWC4_NLXkhfPgjemEwrJk58LKc-sLojVplCb-mqLn2wrNkWRoWIR_yi_PGrV_PxcLFePmXUIhqpjHJ5zQlze0RhKRrHWC4kRsDYF-BGBBZXKWvNZTo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c753ac9874fb59901HZ909u8FFpW",
+      "encryptUserId": "57380b6a6bdc34720XV_0tW0F1ZQ",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-11K",
+      "payTypeDesc": null,
+      "postDescription": "中级软件工程师\n【岗位职责】\n1.参与或者负责公司软件产品的设计与开发，参与软件的业务需求分析\n2.根据开发进度和任务分配，高质量的完成自己所负责模块的开发 \n3.能独立处理和解决所负责的任务\n4.参与技术攻关和系统优化等工作\n5.协助高级工程师完成相关技术文档的编写\n【任职资格】\n1.普通全日制本科及以上学历，计算机或者软件工程相关专业优先,两年及以上java开发经验。\n2.JAVA基础理论扎实，掌握常用的数据结构及算法，掌握java8的相关新特性。\n3.有微服务相关开发经验，掌握Springboot，SpringCloud，MyBtais相关技术，掌握多线程编程，熟悉常用的网络协议，掌握socket。\n4.至少掌握常用关系型数据库（Mysql,Oracle,SqlServer等）的一种，使用过redis和MongDB等非关系型数据库。\n5.有良好的团队合作精神，较强的学习能力和沟通能力。\n6.有参与过即时通讯类软件开发经验的优先，掌握常用消息中间件RabbitMQ的优先。",
+      "encryptAddressId": "bdc0b13a2c3bd47d1nBz3t26FVdV",
+      "address": "西安雁塔区西安软件园软件大厦G座(北门)1605",
+      "longitude": 108.87812,
+      "latitude": 34.190689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230716/48ba41acc9cef1bf4df324e9604424b1755557e9dc6871fc6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230716/48ba41acc9cef1bf85ff80055b1500020d8840b6e662a7df6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "C/C++"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "弓女士",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "陕西羊小律科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a6fd6a368be2dcc1HR639y_GFU~",
+      "brandName": "陕西羊小律科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230905/7bf6f160950405e94fc4e0f7ae1b25b7ec7ee5214b81e9ccc9874024f6f5d9bb71350f86a3cc1670.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100602,
+      "industryName": "法律",
+      "introduce": "羊小律（陕西）科技有限公司，是一家以法律科技为核心的公司，致力于为客户提供高效、安全、智能的法律服务。 公司核心产品羊小律云法务，是一个基于互联网、大数据和SaaS模式的法律服务平台。通过羊小律云法务，客户可以在线上获取法律咨询、合同审查、诉讼代理等服务，实现了与律师的全面互动和协作，为用户提供个性化、专业化的解决方案。",
+      "labels": [
+        "五险",
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1724749511646,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西羊小律科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

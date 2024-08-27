@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DFxm0DYTm2h1f-a15rox-2kxBh9uMgnXGgl0It-ZTTvfODKRexnDhc2PMyj8CfG8N9ps1UHEt_m6HU55Hz92Ctus0GKzOQpx_HYt8QpcCKfGW-QQCDOZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "653cbd1a3a0200ee1Xx639u-F1pT",
+      "encryptUserId": "321b19d5871a97c90nRz39y6E1RQ",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责  等产品的服务端研发；\n2.深入发掘和分析业务需求，撰写技术方案和系统设计；\n3.根据产品需求，进行系统设计和编码；\n4.持续对系统架构进行改造和优化；\n职位要求：\n1.一年以上开发经验，一年以上的Python开发经验；\n2.具备良好的基本功，熟练使用基本的数据结构和算法，深入理解\n多线程、Socket等相关技术；\n3.具备良好的编码习惯，结构清晰，命名规范，逻辑性强，代码冗余率低；\n4.熟练掌握Django,Tornado，Sqlalchemy，Celery等主流框架，深入理解框架实现原理及特性；熟练使用python的常用库\n5.熟悉Python的高级特性，深入理解各种设计模式和应用场景。\n6.有大规模分布式系统的开发和高可用相关的实践经验，具备设计复杂系统的能力；\n7.熟练掌握MySQL数据库，具备MySQL索引优化、查询优化的能力；\n8.熟练掌握一种以上非关系型数据库，如Redis,Cassandra，理解其使用场景及限制；\n9.熟悉分布式系统，熟练掌握一种以上服务框架和消息中间件，了解其实现原理；\n10.熟悉Internet常用协议，如HTTP、TCP/IP、熟悉RESTful规范；",
+      "encryptAddressId": "593fc2ab3dcb116b33Nz2t-1GVU~",
+      "address": "北京朝阳区十里堡万科时代",
+      "longitude": 116.50373,
+      "latitude": 39.919865,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/313e3b403023b501fdf4fab5b3327fd4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ab754c1f4ffb6f882b040fa2395ebcb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端",
+        "运维开发",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240307/607f1f3d68754fd0937e5625c345efe1d3d4b2207af913ed1f5768c1f9efb43d40b07c6bbf5bac5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "白泽时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9adffc1ce07955801nxz3d-_GFY~",
+      "brandName": "白泽时代",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722141313802,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "白泽时代",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

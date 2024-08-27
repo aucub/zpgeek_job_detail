@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5wT6JEOspCGBU-L1grPRPEX7Fbs0udz2N7LyC0Pns1gFeqDcNtafIabiZar7GhmS-xamR80F_HHTkVZ6IPk9fhj43wym7eAWIne7iCSwrd0jqXF3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "12ce0c9aee4112393nZz0tu5ElM~",
+      "encryptUserId": "6d5cf9bc85f8c5ef0H1y29q-E1M~",
+      "invalidStatus": false,
+      "jobName": "JAVA 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "5天/周 3个月",
+      "degreeName": "学历不限",
+      "jobType": 4,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "240-290元/天",
+      "payTypeDesc": null,
+      "postDescription": "公司简介:\n\nClouGence 是一家基础技术创业公司，主要面向企业提供数据领域的工具和解决方案，业务在云上展开，开源社区驱动。公司创始成员来自阿里基础技术团队，具备近 10 年大规模分布式中间件、数据库内核、云产品经验。团队务实，以业务价值为导向，具备不错的技术追求，能够给成员带来充分的成长机会。我们的使命是：让企业更好地使用数据。我们的愿景是：未来 10 年内，成为中国技术创业公司的引领者\n\n岗位介绍:\n1.开源产品维护，包含新特性开发、文档维护、社群管理\n3.产品内核开发\n2.产品管控功能开发\n\n职责要求:\n1.基础语言能力扎实,java/go/c/rust 等\n2.具备良好的计算机基础，数据结构/算法/网络/操作系统 等\n3.有 ACM 经验、计算机软件开发比赛的优先\n3.有开源社区产品参与开发经验优先\n4.有计算机论文阅读习惯优先",
+      "encryptAddressId": "4784c1d9e103e26433N709y8GVU~",
+      "address": "杭州余杭区贝达梦工场E座360室",
+      "longitude": 120.02424,
+      "latitude": 30.289544,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7da14bae7e78374bdb9bd50e6a006bb2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b6cec9075fec9ac8c87d683c4e4b3dd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "MySQL",
+        "Spring",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "励先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191026/c89675cd2c53975e6e2b2bc9a970940f86b9f7d0bb0a7eb8a4caf3f46f8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "开云集致",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4c883f12ed889e1f0Xx-3Nu1Eg~~",
+      "brandName": "开云集致",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201226/0ade26c5aca57ab7f534d309563c82f486b9f7d0bb0a7eb8a4caf3f46f8b109a_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "ClouGence 是一家技术型创业公司，主要面向企业提供数据领域的工具和解决方案，业务在云上展开，由开源社区驱动。公司创始团队成员来自阿里集团内核技术团队，具有10 年大规模分布式中间件、数据库内核、云产品构建经验。我们的使命是：让企业更高效，更安全，更便捷地使用数据。我们的愿景是：未来 10 年内，成为中国技术创业公司的引领者。\n\n公司主页：https://www.clougence.com\n公司产品社区：https://www.askcug.com/category/14/cloudcanal\n公司产品粉丝微信群：加管理员微信号 ***********",
+      "labels": [
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724569341594,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "开云集致",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SabocEBp-Qb0o-j1s73L0pXFfNDe2fZeEfUN54Fq71pm8yo3wJbmhYnGGtph1dbIEj9TrLMTova8ORr-R-EOOP6jk5joRs2Zz_C7XsgQsCTWCWwuYg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2d131b2aa10d123c1Xd52dy7FVRY",
+      "encryptUserId": "9b35580bdde5e23f1XR-2ti9ElM~",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "参与项目需求分析，业务逻辑流程与设计，文档编写\n熟练应用 Pycharm，Visual Studio Code，Webstrom，XMind，Postman 等软件 \n熟练应用 Vue2 / Vue3 / Elemet ui / Vant / Echart 等前端框架 \n熟练应用 Mysql , redis 等数据库的相关操作 \n熟练使用 Liunx 操作系统，熟练使用各种第三方\n主要是后端服务器和管理web端",
+      "encryptAddressId": "2449fc00d19e5b0f0XB50t-7Elo~",
+      "address": "北京昌平区上奥世纪中心1305",
+      "longitude": 116.329708,
+      "latitude": 40.058109,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c7120d7858010dc0b2883b583759703",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2f10b1f37bce64c230e41d0e912f2aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Django",
+        "Flask",
+        "服务器配置",
+        "微服务架构",
+        "消息队列",
+        "数据结构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220701/607f1f3d68754fd0a8e8940e52daf3c731cd33736ffc7859c63d9459adfb5f9d680fc209697_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "迈迅兴路",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9216fb0a3c7c3cd233V939i4GQ~~",
+      "brandName": "迈迅兴路",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722141314016,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迈迅兴路",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

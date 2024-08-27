@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1NCBrBZUwMU1v-e1W08jzfzYFba4hxNcJuQR0nVPLzSS5V_QJAKYAotyMZM34G8K2A_YmyurM9G4583vHfYOf_7R7LFjwTojotaQOLt2OfccpaN5ifs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3437736188e759ea1nN50t61F1pR",
+      "encryptUserId": "f183a2161bca6c441XR8392_FlU~",
+      "invalidStatus": false,
+      "jobName": "研发交付工程师",
+      "position": 100901,
+      "positionName": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司产品的开发工作，按时并规范完成分配的开发任务；\n2、完成客户定制化的软件功能，对遇到的疑难技术问题有钻研解决能力；\n3、需要具有设身处地的能力，能够与业务部门配合，理解客户需求及业务诉求；\n4、能够出差，向客户做应用交付，包括软件系统的安装、部署、对接等工作，配合公司销售完成项目交付工作；\n5、编写产品使用手册，及向客户做产品功能使用方面的培训；\n\n任职要求：\n1、软件开发专业优先，专科以上学历，主要开发语言为Java，具有扎实的Java基础，具有前后端开发经验；\n2、如非软件开发专业，需自身对软件开发工作具有发自内心的兴趣，学习能力强；\n3、具有较好的沟通能力；\n4、男、女生均可，接受偶尔加班\n\n以下为一些工作中需要学习并掌握的常用技术：\n1、熟悉SQL及优化，熟练使用Mysql数据库，掌握redis, memcached, mongo等常用nosql技术并具有实战经验；\n2、对React及Antd有初步了解；\n3、熟练掌握HTML/CSS/JS，熟悉Web标准；\n4、熟练开发、测试、部署流程及调整优化；\n\n福利待遇：\n五险一金、转正后每月固定出差补贴",
+      "encryptAddressId": "0085b22b379132511nBz3tq_FFo~",
+      "address": "杭州上城区迈达商业中心3号楼9层901",
+      "longitude": 120.206907,
+      "latitude": 30.28967,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/09e92b922bd75a0270fefef42ef6c14a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8912be10498e80a9f8d627117190af91",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈开发",
+        "CSS",
+        "JavaScript",
+        "React",
+        "NoSQL",
+        "Redis",
+        "MongoDB",
+        "Memcached"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/d2a437e6abd59501a9713d5b563e8f021a9d068d034a8721ad0961b4ccb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "礁石科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6431071c20972b861nx_0tS_E1c~",
+      "brandName": "礁石科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "公司从事公安行业应用软件开发与技术服务业务。",
+      "labels": [
+        "团建聚餐",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1722151183332,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "礁石科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

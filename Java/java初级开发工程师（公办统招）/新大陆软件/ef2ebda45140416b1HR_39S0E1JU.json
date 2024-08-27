@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "cP9d6QRklcoWL-t1bOsqYs4wG4BjMMyQOJiEyin3q7M74OpDeKz5OvTC3HF7fU2VCVG4hkWGbyOmkAQMfXvdGpHwb2fa523rjsNKancypeQTUB3Btm5CeH9EQyB3irX5cbIs_fWqurkM_fCMUEo94BijYD4yDoBOJOJxlWf-f74k8pw4",
+    "securityId": "bAEyVr0Biz0cf-o1DBtqO-6ffpDAGPgB2gxz891izv1-u_tPa_iKJQDjOsipGFVQZIDo29KWt14CsLii_y2iNTeXHjz-4SuyM29N4LqPyzqfTNybr69OXkOInmZKuwAK7Y72DBp4l06n",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,18 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java"
+        "Java",
+        "Docker",
+        "SpringCloud",
+        "Hibernate",
+        "Java",
+        "Redis",
+        "Oracle",
+        "不接受居家办公",
+        "分布式经验"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "李女士",
@@ -44,7 +52,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190522/19e53172b2ed4cb18389caa94286f02a5d497c16081ea9fc020b8e7d8b9_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "新大陆软件",
       "bossSource": 0,
       "certificated": true,
@@ -71,7 +79,7 @@
         "免费班车",
         "通讯补贴"
       ],
-      "activeTime": 1724038701686,
+      "activeTime": 1724748891893,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "新大陆软件",

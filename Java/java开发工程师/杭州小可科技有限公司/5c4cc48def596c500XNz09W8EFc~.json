@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pMSjFwr3OBOpR-A1wmzUpffUH135Slf7xJc1fv93SdVPsVLIboFnekYMYDcBhxFjDBC9AnYs9OnJub0H0ftsguD3FQzh6xhH-2eecOuZcpgBLlneH-wP_Cx0weYkBVNeqK4DnTevwyQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c4cc48def596c500XNz09W8EFc~",
+      "encryptUserId": "7c41ba8195b5cc653nZ72tq6GVE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.扎实的java基础\r\n2.熟练使用mybatis，redis、mysql等\r\n3,,熟悉spring boot\r\n4.能够接受短期出差\r\n5.工作经验不限，要求学习能力强即可",
+      "encryptAddressId": "383c4465306da0f61Xx639u9EFE~",
+      "address": "杭州宝龙城市广场",
+      "longitude": 120.384568,
+      "latitude": 30.312504,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4e6f98d92b6071f251d621a37c0e5ff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d1e9cdc414b408bd704d5af6fe7a304",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "Web端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "章女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州小可科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3bb030e2f10229c60HV-2N-7Fw~~",
+      "brandName": "杭州小可科技有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722157880767,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州小可科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

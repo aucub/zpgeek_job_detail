@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wD_KMytnGn9Kv-T1HRgcOBfzYcDfcWI5v5LspvkeYGsL4BEJJFq2jJpxbTX2Js6SjOrdbDvV3lxaSUnzUBiN_4BRb6vTbo-bSy-scyN6kcGdwW5hvSQS",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d02fc2443c2ab7d81HR70tS8GVJS",
+      "encryptUserId": "800a8c96182b89220nd82N26FFBZ",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、学习运用各种最新国外软件/插件来提高工作效率。\n2、爬取相关网站公开数据，负责破解各类反爬机制。\n3、不断提升数据抓取系统的自动化水平，负责数据分析任务\n4、熟练使用各种网络工具，接受新事物能力强，学习能力强，求知欲强，\n任职要求:\n1、计算机软件相关专业，英语读写能力良好\n2、熟练使用python编程、爬虫相关库进行网络爬虫开发\n3、熟悉多线程、多进程、协程，有分布式爬虫架构，数据分析经验者优先\n4、熟练使用常用爬虫框架和工具:scrapy,selenium等\n5、熟练掌握SQL，并熟练使用mysql、mongodb等\n6、掌握网页抓取原理及技术，熟悉html,dom,xpath,beautifulsoup,动态js数据解析，精通正则等，可以从结构化和非结构化的数据中获取信息\n7、熟练使用常用 Linux 命令，有一定的Shell脚本编写能力\n8、学习能力强，接受新事物，有团队意识，能承受压力",
+      "encryptAddressId": "a2c10a06f340d4891nR63dW0FldZ",
+      "address": "北京朝阳区远洋国际中心A座24层2417",
+      "longitude": 116.491459,
+      "latitude": 39.914832,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfe6ad416f21c5f8d5aee5ee8d8b0d2f2f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230610/48ba41acc9cef1bf21619e3338dcce365f2c89d316c3dd5a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林女士",
+      "title": "商务",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210615/315e0f5cf69dfd52b5953ceba203475e21d8b68ce8729291b683ce2591f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "北京问吧云计算",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c08607d1f4f700b21Xx_0tq6F1U~",
+      "brandName": "北京问吧云计算",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722141313947,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京问吧云计算",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LrlCFeFOlPYkn-X16YgAlGOg1SoShCWu_69oHLHLgrzorz-Rwej_Tg4S5o5tBbsHOBjK4-cGB1p2UG8yij7EU4XiVbp9qlqQLxTGzxJxk07VJEMlqA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d489500962add031nZ609u5ElpQ",
+      "encryptUserId": "4cda073c18915cd303V-29S7Flo~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 负责健康管理软件开发、维护工作，业务需求实现，系统优化、架构升级等。\n2. 负责项目数据库设计开发及调优\n3. 服务器的部署和优化\n\n任职要求：\n1. 良好的java语言功底，对面向对象编程技术有深刻了解，熟悉常用的一些设计模式。\n2. 熟练使用常用的应用开发框架，如Spring，Springboot，MyBatis等。\n4. 熟练使用常用的分布式缓存技术，如redis等\n5. 熟练使用关系型数据库，如Mysql，熟悉nosql数据库或搜索引擎，如Mongodb，Elasticsearch。\n6. 熟悉tomcat，nginx等Web服务器，熟练配置部署上述服务器。\n7. 有后台管理系统，开放平台和医疗相关软件开发经验者优先。\n8. 有上进心，责任感强，能快速融入团队，共同学习，共同进步。\n\n特别的话：\n我们是一家创业公司，希望你是位有担当，有共鸣的伙伴。",
+      "encryptAddressId": "0f2440afbf63f1a81XJ73N-0FVA~",
+      "address": "杭州滨江区海外高层次人才创新创业基地",
+      "longitude": 120.139619,
+      "latitude": 30.185629,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c0a8a7e022087d3cea910497ecd612e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19e0ffa700370550c2356b2d1d2bb6d3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "MySQL",
+        "人工智能",
+        "Redis",
+        "SpringBoot",
+        "互联网医疗",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "童女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180628/1436484987dce51a194a8c878681eb37cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "医素科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "59f6efeb58c42fd31XZ729q6FA~~",
+      "brandName": "医素科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "杭州医素科技有限公司是一家医学人工智能创业公司，专注心脏领域自动诊断技术，追求卓越的医学精神和医者风范。欢迎热爱科技，关注健康的朋友给我们投简历。",
+      "labels": [
+        "五险一金",
+        "股票期权"
+      ],
+      "activeTime": 1722151182511,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "医素科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": {
+      "onlyAccept": false,
+      "detailInfos": [
+        {
+          "icon": "https://img.bosszhipin.com/beijin/icon/7d75d5c87418f7bf85030d6c28dd26d89baf293ffd3c9d784f125c8bc60422b7.png?darkmode=https://img.bosszhipin.com/beijin/icon/53f07ee2b4c7100228b868c382f5b8e19baf293ffd3c9d784f125c8bc60422b7.png",
+          "title": "肢体残疾",
+          "content": "该职位支持下肢残疾"
+        }
+      ]
+    },
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

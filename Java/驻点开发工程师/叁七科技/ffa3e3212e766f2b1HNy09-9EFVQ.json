@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c1MjE8ZuQ3CfT-610jMqNVVFp81QOZDfkImoyHijxBU6GZBwZEjGY9mAZyzNlkosKGbTLwMIgkkuVMhnRy-srRzK_tqAdD5Kh41e09-pPgxkknVzvhCOJ7ZHUXxV6y4J93rfhWXOmmH8ZQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ffa3e3212e766f2b1HNy09-9EFVQ",
+      "encryptUserId": "67f47ecc5183bd470XVz2di4EFY~",
+      "invalidStatus": false,
+      "jobName": "驻点开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 负责平台功能的研发工作。\n2. 参与业务规则梳理，与产品经理、业务方一起设计并讨论业务场景实现。\n3. 参与负责项目的研发维护工作。\n4. 完成其他领导交代的事项。\n任职条件：\n1.1-3年及以上Java开发经验；\n2.扎实的Java基础知识，理解IO、 多线程、 集合等基础框架, 对JVM原理有一定的了解；\n3.熟练掌握Redis、Mysql、MQ等中间件；\n4.有较强的逻辑思维能力与沟通协作能力，并具有一定的项目推动能力；\n5. 掌握php语言者优先",
+      "encryptAddressId": "94fa5d47194801701nV80tS7FlJRw4y4U_qe",
+      "address": "杭州拱墅区众家Z+创客中心10楼",
+      "longitude": 120.172083,
+      "latitude": 30.281269,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf4ae979d0b7cae32a1bb9298089cec0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/123e0620d7b0d9123c203da7480c859d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "Spring",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "叁七科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "89b2b01136558b0a1Xdy39-8EVE~",
+      "brandName": "叁七科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "长期服务于政企客户\n成熟的业务体系\n千锤百炼的软件架构\n轻松的工作氛围\n你不想试试？",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724737221674,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "叁七科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

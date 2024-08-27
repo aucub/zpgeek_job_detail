@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Oos5k7IfOZaHb-21GZBW1jhzvsHUdGy23ocgPYgqDYQ2N0deIw2NPLQCx0PBtIX_Zrhnoyp_iD0USRzFe_E4PSw35rnFz2gPPkl7lzRss6Q4cfSmMrgal6bIroZQipwE7YSVm_v0FLfBrzY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b888a62a2b29c831Hx63d-6E1NU",
+      "encryptUserId": "9aaa27c051c083a60nV929-_EFRT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与公司产品的后端开发和维护；\n2、参与公司产品后端架构的改进和优化，确保后端服务稳定、可靠、高效；\n3、参与后端前沿技术的探索。\n岗位要求：\n1、计算机基础知识扎实，熟练掌握数据结构及常用算法；\n2、可接受无项目经验者。\n3、熟悉 Postgres/Mysql/Redis/Spring WebFlux/Akka/OpenResty/容器技术；\n4、掌握系统设计思维，熟悉设计模式与应用场景，对反应式系统架构有一定的理解；\n5、掌握函数式编程思想，能利用函数式思维解决具体的技术问题；\n6、有优秀的解决问题的能力与较强的学习能力。\n7、可接受基础好，爱学习的应届生",
+      "encryptAddressId": "060b30458fb0f99c0nV52N20FFc~",
+      "address": "郑州金水区名门国际中心2410",
+      "longitude": 113.699729,
+      "latitude": 34.780575,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0d2586e7f3e8b40266b6a68bc013c097",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b1560cba83b8af93d7ed75f8c9d77584",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "游戏后端经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "马先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210221/a50ae02eb55e9eecb35cc513771dde917cea2d99a2ca59e677b48c0a100_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "掌潮互动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "28a2d19f471d96051XR82t25F1E~",
+      "brandName": "掌潮互动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230320/7bf6f160950405e96a2575214ad71e37c237b04e5689b3d97cea2d99a2ca59e677b48c0a1008fef6.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "掌潮互动成立于2022年3月，公司使命为“Inspire Creativity, Enrich Life”。目前公司小而精，主要工作为游戏研发。\n爱游戏  爱工作  为梦想前进 ！\n乾坤未定  你我皆是黑马！",
+      "labels": [
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "股票期权",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724760066142,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "掌潮互动",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gyGiK9TUMX32_-z1iE06c_TXAEsRkswXncB7l7UTdDZ9ct9n9TrRf_aqIQrvpQHqfBSOUL4DGqHx2zGpKBV_B2P3mcXJsce-LwyiSBwiR6pH7rQ8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85c47bac17bcc2471XV82tS6E1o~",
+      "encryptUserId": "ab622516b1f510021HJ_39i9GFU~",
+      "invalidStatus": false,
+      "jobName": "Python爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "【高级爬虫工程师】 \n岗位职责： \n1、负责爬虫系统的架构设计与开发维护 \n2、负责各种网页、APP接口，发掘特点和规律 \n3、设计爬虫策略和防屏蔽规则，提升网页抓取的效率和质量 \n\n岗位要求： \n1、熟练使用Linux操作系统 \n2、3年以上Python开发经验，有扎实的数据结构和算法功底 \n3、熟悉常用的爬虫技术，熟悉 scrapy、pyspider 框架，熟悉 Selenium、xpath、正则表达式 等 \n4、熟悉 MySQL、PostgreSQL 或 Redis、MongoDB、HBase \n5、有高性能、分布式爬虫架构或处理反爬虫经验者优先 \n6、了解 Kafka、Elasticsearch 及 Hadoop、Spark、Storm 等大数据框架和流处理技术者优先",
+      "encryptAddressId": "a9b3d826de1444241XB73t69E1I~",
+      "address": "上海虹口区购物卡(凯德龙之梦购物中心)",
+      "longitude": 121.4775,
+      "latitude": 31.27094,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/566c08ca7e87271886cc4197bb6ec279",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72c5ab8467541bf89ecdc91c6d42634f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫架构",
+        "数据抓取",
+        "ETL数据清洗"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180325/8babc119f173fde97ffc47edfa5214518a5055c80e25d498cf2c3501f33_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乾密信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6630081a7632b1411nJ929W9FQ~~",
+      "brandName": "乾密信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200319/3868df83ca43de7081cb5fd8c5b670d3912025aac74c47bb6653a822f4916fa4_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "信息技术、网络科技、计算机信息科技、通讯科技、智能科技领域内的技术开发、技术转让、技术咨询、技术服务;数据处理;计算机网络系统工程服务,计算机软件开发及维护;电子产品、电子元器件的销售。依法须经批准的项目,经相关部门批准后方可开展经营活动",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1722186774777,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乾密信息技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

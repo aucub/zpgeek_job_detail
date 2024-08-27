@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9kWFX4TLjwKky-41zdH6FNJ5XaVB7F_3WTWpB5I4PzGdcI_MJhSRXBGCkriXaLuQL8cihFvvCzQGVhNBowp6AWlmtWOo-oanIls187qKSb-oR8e4sRU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a78bc1febb4daeba1nJ53N2_E1VU",
+      "encryptUserId": "c17fa264722bc6810HZ639S-GFE~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、独立完成功能模块的设计开发 ；\n2、解决日常开发中遇到的问题并养成问题收录的习惯；\n3、有良好的沟通能力，需要参与需求讨论；\n4、完成上级交代的工作内容。\n职位要求：\n1、全日制本科及以上学历，1年左右java工作经验；\n2、java基础扎实，熟悉常用设计模式；\n3、熟练使用SpringBoot、Mybatis等主流java框架,熟悉常用的数据库：mysql、oracle等；\n4、熟练Rabbitmq、RocketMq等消息中间件；熟悉redis、Ehcache等缓存技术；\n5、熟悉springboot分布式微服务开发；\n6、了解linux操作常用的指令，了解一些基本的Shell脚本，掌握基本的服务器配置部署",
+      "encryptAddressId": "a2496d7b090037dd1Hx50tu-EQ~~",
+      "address": "杭州余杭区利尔达物联网科技园杭州市余杭区利尔达物联网科技园6幢401",
+      "longitude": 119.992321,
+      "latitude": 30.275802,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84f0dd3f88eb5866807e1d2bc325d709",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/67cfd124825469ac9cc4164c1a88c2bf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "MVC开发",
+        "Linux",
+        "后端开发",
+        "软件工程师",
+        "GIT",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/5f8945c34d7d5dd53e65f0168778c3ec3a22df53bde0d3701984bfab66c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州纽创信息科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c1450d943df25ad31nN-2dW7F1c~",
+      "brandName": "杭州纽创信息科技...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722151182657,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州纽创信息科技...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KPk7ufyBGKcz--81dZ3MW1opy6bSE0Cl1d_crFGlTgcdg7tlPbxNDlqrumGk7HurLy7h3Up7XRoZNCSIeToyiD6pJEWU7EGdAsR3i1flRwdBZoA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e94570f72b8563c61nV43d67GFM~",
+      "encryptUserId": "54f566bde98b56b61XR43Ni-ElU~",
+      "invalidStatus": false,
+      "jobName": "DBA",
+      "position": 100409,
+      "positionName": "DBA",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "DBA岗位职责:\n1、保证数据库集群系统的稳定、高效运行\n2、根据业务需求，改进数据库架构，实施数据库集群与负载均衡方案\n3、及时定位和排除数据库故障，并对数据库进行持续性能优化\n4、提供数据库开发支持，负责SQL代码的上线审核\n5、熟悉mysql/MongoDB等数据库自动化运维及平台建设解决方案 \n\n任职要求：1、具有3年及以上的MySQL管理和开发经验\n2、精通MySQL数据库的日常管理和维护\n3、精通MySQL架构规划、分布式设计部署、Sharding、分库分表、高可用性、主从复制、Cluster等技术，熟悉mongodb等No-SQL技术；\n4、精通MySQL数据库基本原理，深入理解内核优化、存储引擎\n5、对高并发、复杂SQL以及数据库集群系统深入理解并具有丰富的管理和优化经验，具有很强的故障定位和问题解决能力6、熟悉Linux基本管理，熟练使用Shell、Perl、Python、Go中的至少一种开发语言\n7、良好的学习能力和对新技术的追求精神，善于使用开源中间件\n8、良好的团队协作能力，积极主动，乐于接受挑战",
+      "encryptAddressId": "d8cf521d73a21f371Xdy29q4E1o~",
+      "address": "北京朝阳区长楹星座6栋",
+      "longitude": 116.600422,
+      "latitude": 39.924382,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd8bfabc13e240989126f1db98b42f10",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/871888175cc3e50fcbe609d5f93c052f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "数据库",
+        "数据分析"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "董先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161129/4e02d6a76e18283326b77ff87e4ee3378c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "创百易",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "98f7b2a35f03e6f00XV-2NS1",
+      "brandName": "创百易",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170421/bd97a9df78485a9d5cd52f8bbcab036cf27c67ea8b50ca2109998625894fac3a.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "创百易是中国移动第三方合作公司，以无线营销和运营为主要业务内容，以垂直电子商务为未来的创新性科技公司。公司成立初期是中国移动合作的第三方营销公司，主要负责中国移动飞信、139邮箱、彩信的线上线下营销服务。\r\n\r\n公司团队主要负责人来自通信服务商及知名互联网企业，富有创意且积极向上，我们把我们的市场定位在一家以无线市场企业应用为主要业务内容，以电子商务和增值业务为补充内容的无线应用公司。在成立的近四年中创百易能够在充分了解目标人群行为共识基础上深度挖掘潜在的内部营销关联，并把这些营销逻辑和关联用在网络营销、电子商务等各个方面，协助合作伙伴进行用户营销，提供商业决策依据。",
+      "labels": [],
+      "activeTime": 1722141355683,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "创百易",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wHr6A1apcebdF-f1sbRtZPP_3MzZYFPuVfPIDSs8oeKznzXfbvZpys4rni4G1fxxrqhzR0v4KW8c5Az32cjonuhBt7bjE0ETu1P7GhaF7DEWzPu2i2XP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "51f12914ddca48881HVy3Nq1F1FT",
+      "encryptUserId": "72cbd199cc6a6fb40nN629W5FlRW",
+      "invalidStatus": false,
+      "jobName": "Java 工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "12-20K",
+      "payTypeDesc": null,
+      "postDescription": "工作要求\n工作经验：至少4年工作经验\n学历：大专及以上\n薪资：12K ~ 20k\n注意：公司提供免费食宿，工作地点在桐庐横村，工作为单双休，不能接受请勿投递~\n\n素质要求\n1.\t工作认真、担当、团队意识\n2.\t从事过制造业软件开发经验（ERP、MES等）\n3.\t有过独立开发单独模块的经验，可以独立设计与实现\n4.\t可以进行独立架构设计、业务拆分、对不同业务进行技术评估、选型\n5.\t可以与用户沟通，独立调研用户需示，挖掘用户痛点、具有一定的产品设计能力。\n6.\t具有抗压并解决问题的能力。\n\n专业要求：\n1.\tJava基本功能扎实，掌握常见的设计模式，有良好的代码规范。\n2.\t至少精通一种数据库，具有数据库性能调优能力。\n3.\t精通Spring Boot、Spring Cloud、Ailbaba相关的框架，精通Mybatis、Mybatis plus\n4.\t熟悉Linux系统环境及相关配置，懂基本的运维。\n5.\t熟悉VUE\\Element 前端框架，可以独立完成前端页面。\n6.\t熟悉容器相关技术：Docker\n7.\t熟悉DevOps 相关工具：git\\Jenkins\\maven等\n8.\t精通消息中间件，如RabbitMQ\\MQTT\\Kafka等\n9.\t掌握基本的网络原理，了解和使用过Netty进行开发\n\n面试准备\n初试：网络面试 通过腾讯会议根据要求实现基本需求\n终试：网络或现场由技术人员进行技术等级评估。",
+      "encryptAddressId": "be54586e385283ac1nZ40ty8FFdX",
+      "address": "杭州桐庐县杭州迪杉塔纺织品有限公司1楼",
+      "longitude": 119.605194,
+      "latitude": 29.838949,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bfe770f5e7e90dd33ce43d324fdd36ab076bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230922/48ba41acc9cef1bfdeaed0f5d5cb0de1f0348f8c22e8fa3e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MES开发经验",
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "vue",
+        "不限",
+        "MyBatis",
+        "Spring",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "计女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "迪杉塔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e16727b62011b431HR-3Nq4FVo~",
+      "brandName": "迪杉塔",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101003,
+      "industryName": "服装/纺织",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724738028622,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迪杉塔",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

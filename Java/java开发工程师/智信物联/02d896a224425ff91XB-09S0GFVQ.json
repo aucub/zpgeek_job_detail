@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tcJFux189UFga-r14pZx4wkt4xQcsz6IiFYjhgfzrAuUgzTqmFgAwHtNaq-uXjLOW7zUyR3EmDpFgxleEv465_iuYk0sG58Q2S4n_ISvirWEwUS0rg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "02d896a224425ff91XB-09S0GFVQ",
+      "encryptUserId": "e7215b6fe40e00370HB609u_EFY~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作要求：\n1、负责公司产品模块的功能开发，并参与系统设计；\n2、改善软件的易用性和提升性能，修正测试中发现的bug，提升用户使用体验；\n3、具备强烈的责任心和团队合作能力，良好的学习能力，逻辑思维能力并且敢于创新和接受挑战，能够在一定压力下工作\n4、具备需求分析、系统设计能力，能独立承担核心模块功能的开发，保证项目开发质量和进度；\n职能要求：\n1 、java编程基础扎实，有1年以上的实际java开发经验；\n2、熟悉springmvc、springboot、springcloud、maven等；\n3、熟悉http和https协议，熟练掌握web运行的流程和原理，熟悉RESTful规范；\n4、熟练掌握至少一种Java 数据访问框架，如JPA、Mybatis等；\n5、熟练使用mysql、Oracle、redis数据库，熟练掌握SQL；\n6、熟悉至少一种Web前端开发技术，如jQuery、Vue等；\n7、熟练使用Eclipse或IntelliJ IDEA等java IDE工具；\n8、能够正确使用版本管理工具建立分支、合并分支、创建基线、删除文件等；\n9、熟悉AIX、Red Hat Linux操作系统，熟练使用SHELL；\n10、熟悉Weblogic中间件，了解Tomcat, Webshpere的加分；\n11、有分布式、微服务开发经验、系统集成经验优先；",
+      "encryptAddressId": "ecd8ef329f0d90d90nR93dy_EVA~",
+      "address": "西安雁塔区摩尔中心B座7层701",
+      "longitude": 108.884793,
+      "latitude": 34.214142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/27252fd099fda544db03d1599c621abb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3411194f1275992dd7cb0cc05c1931ae",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringBoot",
+        "网络协议",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "智信物联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6256cdc1ab69d7d20nJ809m5EA~~",
+      "brandName": "智信物联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190828/aa9f726829c429912caf27c665d04ef7aa5398b3cbde64a79e950ddabcc91904.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "陕西智信物联信息科技有限公司智信物联是一家智慧物联网解决方案供应商，坚持以技术创新作为公司持续发展的原动力。通过技术的不断迭代，为用户提供更优质的服务和使用体验，为用户的商业运营带来可观的价值回报。专注于物联网大数据平台底层构架的研究与各类应用开发。基于云计算、边缘计算、物联网技术，实现物联传感设备的实时在线监测、汇聚、分析、预警等功能，预防安全隐患，降低风险；同时通过物联巡检，提高目标客户的精细化管理水平，提升管理效率，降低成本；拥有丰富的物联网项目建设、大数据平台开发等实施经验，从事物联网、大数据、智能化科技领域的技术开发、平台建设和运营服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "节日福利"
+      ],
+      "activeTime": 1722184974873,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智信物联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

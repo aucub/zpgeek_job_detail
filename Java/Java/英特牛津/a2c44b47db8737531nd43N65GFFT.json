@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CFJ0ri832sfo8-H1IDCMqmki22CvW4DMG7owgp9ZmaWS3OH2pV9kiVNT0_Ws0P9tVJVkYPfrbdsqHCGCHirXTl2T1s6vV7xXHIKHRGw7GuDngYytkw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a2c44b47db8737531nd43N65GFFT",
+      "encryptUserId": "54b908fa966c0eba0nF_3Ny1ElA~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280900,
+      "locationName": "肇庆",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、负责数据接入、数据提取、数据清洗、底层重构、业务主题模型开发等工作；\n2、参与投资数据仓库开发，投资集市开发；\n3、负责接口平台、投资分析平台等系统的建设和维护；\n4、针对具体大数据应用场景，提供有效解决方案，并针对具体模型落地实施；\n应聘要求：\n1、大专及以上学历、计算机相关专业，2年以上开发经验；\n2、精通SQL，至少熟悉Oracle/Mysql/Posgresql中的一种。\n3、掌握Sqoop、Hive、Hbase、Spark/Spark streaming、Kafka等组件的架构及实现原理，能对其进行故障分析、性能调优；\n4、热爱技术，有很强的钻研能力，乐于接受有挑战性的任务。\n5、大型互联网工作经验者，处理高性能、高并发实践经验者、精通Scala优先考虑。\n6、具备良好的学习能力、分析和解决问题能力；\n7、具有高度的责任心和团队合作精神.",
+      "encryptAddressId": "f683e48935e92ddd03Vy2dW_EVs~",
+      "address": "肇庆端州区智联梦工场建设二路80号C1栋203",
+      "longitude": 112.487105,
+      "latitude": 23.048445,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/969311c0ec808e23adf1a0cd9a16d58c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/79c249ef7ad83494104e44deddc84dc7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Spring",
+        "SpringMVC",
+        "后端开发",
+        "Hibernate",
+        "PostgreSQL",
+        "SQL Server",
+        "大数据"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "客户经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210304/e90f4f050d9e332fdda18398eaebeae42ec1f9ddd74e823658db22c3677_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "英特牛津",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb623df9ae45009a0Xx52Nm6GQ~~",
+      "brandName": "英特牛津",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722145322671,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英特牛津",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

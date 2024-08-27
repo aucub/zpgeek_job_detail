@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Av9epWdoQ6T21-Q176-8Ds-iMp7lwsk0vC70r0DrWFYjX9f1GSUTv6V1Agj2JaaRQeDeHu7TSZSBEslIcfBNUO7bWV1ZbMO48T6gwCqjJ9AiVETgfqVHR_7zOFcfd5bfjWruXdaf6JVNqoA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5896f265b05bb1bf1nx42Ni4GVdY",
+      "encryptUserId": "5e35ab4d43b755321nV73dy0F1FT",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1、根据产品功能需求，进行需求分析，负责测试方案设计、测试规划及测试用例，独立或合作实施测试任务；\n2、根据软件项目的质量与性能要求，开展项目测试，负责完成发布测试报告，对负责模块输出质量分析和总结，输出产品特性文档及知识库；\n3、跟进并协调测试过程中的bug修复与性能优化进度，对软件、系统、性能上的缺陷，能够进行有效的管理、跟踪和评审；\n4、进行系统质量评估并建立、维护测试工作的相关文档，负责版本控制，负责上线部署跟进工作。\n任职资格：\n1.本科以上学历，要求测试经验2年以上；\n2.良好的学习能力，有强烈的责任心和积极主动的工作态度，较强的沟通和表达能力；\n3.熟悉测试流程和规范，熟练掌握软件测试方法和常用测试工具，熟练编写测试文档；\n4.熟悉http协议，会抓包分析，熟练使用jemeter、postman等接口测试工具；\n5.熟悉数据库，熟练编写sql语句进行增删改查；\n6.熟悉linux常用命令，能进行测试环境搭建；\n7.熟悉至少一门开发语言(java/python)，参与过接口/UI/APP自动化测试相关工作；\n8.熟悉性能测试的理论和方法，理解性能测试指标，能进行结果分析；\n9.有WEB/APP平台测试相关工作经验，有电商或ERP系统测试经验优先\n ",
+      "encryptAddressId": "1c89c8f13f1449801nx-09m7GFs~",
+      "address": "徐州邳州市邳州高新区新能源技术研究院二楼",
+      "longitude": 118.040669,
+      "latitude": 34.303868,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bde91864d900b73604d35a57afdc7953",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/84ac7591bc2180e5770476924d8333fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "SQL",
+        "Linux",
+        "自动化测试",
+        "性能测试",
+        "接口测试",
+        "软件测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210829/607f1f3d68754fd0663fd93a6fed48da9292d9181789ae23275e7c9f7e84948c420ef3d9a9e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "徐州宝典",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fdaee4adbd5573771nxy09q0Els~",
+      "brandName": "徐州宝典",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220324/7b5b554d84f9729cafeebf50040743ff1d4b5f936ebebe812f2d4327a6250a0f6463fa05af89266a.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "淮海经济区产业平台 中国有影响力的网络智能公司",
+      "labels": [],
+      "activeTime": 1722172245399,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "徐州宝典",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

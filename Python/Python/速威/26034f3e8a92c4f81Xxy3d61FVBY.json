@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zll1LkweFJIp0-c10SeeOt3DTwHxdjQRukeJ5NHKUCWaThrIeDnHx733DYwL5CN5ztFUxwYxSIoV5YjHmbkS_mkAkzKL6vFe2zhozf2oh6_O9zJVmg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "26034f3e8a92c4f81Xxy3d61FVBY",
+      "encryptUserId": "be0b4c2de6809c670nV62Nm6FFM~",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\n\n具备良好的Python编程基础，熟练掌握常用的Python库和工具，如NumPy、Pandas、Requests等。\n\n具备1年以上的Python开发经验，可以自主完成Python脚本的编写，能独立设计和实现服务端代码。\n\n对Web开发框架（如Django、Flask、Tornado等）有一定了解和实践经验，能在实际开发中灵活运用。\n\n具备数据库操作能力，理解SQL查询和修改的基本方法，熟练使用Python进行数据库交互，如使用SQLAlchemy等库。\n\n理解RESTful API设计规范，能使用Python进行API的调用和测试。\n\n对版本控制工具（如Git）有实践经验，理解版本控制在项目开发中的重要性，能够在团队开发中合理使用。\n\n熟悉单元测试和集成测试的编写和实施，为自己的代码编写测试，确保代码质量。\n\n对系统调度和优化有基本的理解，能够从代码性能角度思考和分析问题，有代码调优经验者优先。\n\n对异步编程、多线程和多进程有基本理解，能在实际开发中应用。\n\n具备良好的问题解决和逻辑思维能力，能快速理解需求并进行代码实现。\n\n英语阅读能力佳，能阅读和理解英文技术文档。\n\n教育要求：\n\n拥有计算机科学或相关领域的学士学位，或同等的工作经验。\n其他要求：\n\n具备良好的团队合作精神和沟通能力，能够与团队成员有效沟通，合理分配和调整工作任务。\n\n具备高度的责任感和敬业精神，能接受不定期的加班和应急响应。\n\n对新技术充满热情，愿意主动学习和尝试新的工具和技术，能快速适应并掌握新技术。\n\n具备良好的时间管理和任务优先级管理能力，能在多任务并行的环境下保持高效。",
+      "encryptAddressId": "5ad07d7ae935b4e63nd43du-FVo~",
+      "address": "北京朝阳区中国铁建广场B1501",
+      "longitude": 116.439417,
+      "latitude": 40.042291,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfb362f5cb5f4288f24b22392a99f57a836bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd73dbf5e8382dbfb3039295ed84293006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端",
+        "Python",
+        "计算机相关专业",
+        "服务端开发经验",
+        "全栈开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "速威",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3fe50be88e6832f61HZ_09m9GQ~~",
+      "brandName": "速威",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190102/6cb90aeb3063ae09953b37cca78022dccfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "速威科技专注于旅游行业的大数据服务，包括数据采集、清洗、整理，并提供私有化部署，支持针对于业务的二次开发。将数据做的“大、全、细、快”，大，可接受每秒亿级并发的请求和负载；全，支持全行业的各类数据渠道对接与开发；细，将数据的变化为更全面的业务属性，可以有效查看数据的不同维度和指标，让获取的数据更加优质；快，实时的行业数据让你使用数据时，也不用担心时效性的问题。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "零食下午茶"
+      ],
+      "activeTime": 1722141313919,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "速威",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

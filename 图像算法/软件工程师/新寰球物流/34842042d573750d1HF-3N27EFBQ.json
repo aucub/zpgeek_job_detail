@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Vj9GhlPty7Y81-y1N7LvL1clo10VHgXrEeKSluxhnIwqDl8k4lkoMEAC6NZzQAJGp3QtdX_gWjf0LAGhuxvclNGN5pBQwQzHttryUMBRtRG8x3jvOwzG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "34842042d573750d1HF-3N27EFBQ",
+      "encryptUserId": "dcedb82b429e72000Xd-2d65GFVY",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 101306,
+      "positionName": "图像算法",
+      "location": 101190500,
+      "locationName": "南通",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责机器视觉方案构建，进行视觉部分的系统设计和硬件选型(相机、镜头和光源等)\n2.根据视觉方案的要求，编写视觉缺陷检测算法（模板匹配，测量，光学字符识别等），原有算法的维护和优化;\n3.负责将算法合入公司软件框架，并根据客户需求做定制化的模块开发;\n4.负责设备的前期视觉调试，和压力测试。编写设备调试SOP,后期协助售后人员，解决客户现场的设备的问题。\n\n任职要求：\n1.本科以上学历，计算机、图像处理、网络工程、电子信息、自动化等相关专业毕业;\n2.精通Halcon/openCV，对传统模板匹配，测量，一/二维码识别，光度立体等算法原理有一定了解。\n3.对c# 有一定的功底 ，对 多线程/ socket / 串口通讯 / mysql 等技术熟练运用。 \n4.对设备硬件有一定了解，能与PLC 工程师进行有效沟通。",
+      "encryptAddressId": "fde2421d669ca19d0nd_3d6-FlNSwYm4UPk~",
+      "address": "南通通州区德诚·翠珑湾10",
+      "longitude": 120.749554,
+      "latitude": 32.096283,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240218/48ba41acc9cef1bff425579d021b68506fcb2bd33b77d0276bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240218/48ba41acc9cef1bf349bcd5ef672c8f57d434bf1db46c7746bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "深度学习",
+        "机器学习",
+        "大模型算法",
+        "图像生成",
+        "C/C++",
+        "图像处理库（OpenCV等）",
+        "其他",
+        "CCD"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240124/607f1f3d68754fd02c0e4ccbd438c70f6d8e0a94c00cbe2d08d58c8733c1d529c7938d39e06f7c0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "新寰球物流",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "490855f0d7a0d77e1nJ409m8EVc~",
+      "brandName": "新寰球物流",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100502,
+      "industryName": "物流/仓储",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724648539207,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "新寰球物流",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Gfi3R7CUgaih8-D185J9J8Qm7zEVkNlD7sTRTl9JWsjzgNyMlEs2pT7NC2EfQoY-bLFXGc8hlcjSi519Sg1iH6UMFAUD6m3RQrAm5l3cqzUCIOnv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5999e87d82b4a86e0HN92NS-F1Q~",
+      "encryptUserId": "6503fdbcabebfb2403Fz3dW-FFE~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责集团内业务系统开发\n2、参与业务系统需求分析、设计、开发工作；\n3、负责相关技术文档编写工作。\n任职要求：\n1、1-3年以上 Java 开发经验；\n2、Java 基础扎实， 熟悉webservice、多线程、并发、集合、IO等基础知识，了解 JVM；\n3、熟练掌握 Spring/SpringMVC/SpringBoot/Mybatis 等主流 Java 框架；\n4、熟悉 vue 开发；\n4、熟悉 MySQL 数据库开发， 有较强的 SQL 编写能力；\n5、熟悉 Python开发者优先；",
+      "encryptAddressId": "da83dd264be453b81nN429S9FVI~",
+      "address": "北京大兴区大族广场T6-1901",
+      "longitude": 116.512841,
+      "latitude": 39.79181,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7013bab0d71210e658860a042c3ab81",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94e686fab66e24021061bf4c374d1b63",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "vue",
+        "mysql"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "熠昭",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d3e1ffbe4bdb7d7133V92d65EQ~~",
+      "brandName": "熠昭",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722140780381,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "熠昭",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

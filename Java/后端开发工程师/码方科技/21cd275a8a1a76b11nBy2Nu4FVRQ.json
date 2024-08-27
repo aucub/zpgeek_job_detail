@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "htqXywaFyC3IQ-O1qRE3lOhk_LOSdYxcn422NSJOf2mE8ebczCApab7-LS8qtXL68u371HlFwpNayxT0m0X-lgk1Rezr5HFHnNZtdTo5XuC00OKOM9WG6kQUeDIfP8rNH7u31G62JJeVAK4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "21cd275a8a1a76b11nBy2Nu4FVRQ",
+      "encryptUserId": "05b05b1646d710e31nZ63tm_FFpT",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120900,
+      "locationName": "临沂",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n\n- 1本科及以上学历，3-5年JAVA开发经验，精通Java及面向对象设计开发，熟悉主流web框架 - 熟悉数据库SQL优化，具备一定的数据库设计能力 - 精通Linux/Unix平台上的JAVA编程，熟悉spring、struts、hibernate等开源框架，熟悉脚本编程，有良好的编程习惯- 精通网络编程、多线程编程，熟悉Nignx、Tomcat等Web服务器技术，熟悉Thrift等RPC编程框架- 了解Memcache/Redis等缓存，或者熟悉Mysql、MongoDB等数据库，有高性能、高并发大规模分布式计算服务开发经验- 对数据结构和算法设计具有较深的理解，有多年系统分析和设计的实践经验 - 具备良好的沟通合作技巧，较强的责任心及团队合作精神。有创业精神，有比较强的抗压能力。加分项：- 参与开源项目or对开源社区有贡献- 关注新事物、新技术，有较强的学习能力，喜欢挑战",
+      "encryptAddressId": "6f5e3ddff9b96c541nNz3t-7FlU~",
+      "address": "临沂兰山区创业大厦804",
+      "longitude": 118.297739,
+      "latitude": 35.083925,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0fb0eaacebd74e40dc0041b44c3ad55",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/255b0c31f99233f27739e2882f8f8f06",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "服务器配置",
+        "数据结构",
+        "网络编程",
+        "Spring",
+        "Hibernate"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220411/607f1f3d68754fd0bb487d26da5765922d66c62e24554694afba4726376c303566e872feb63_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "码方科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cb349692db5994621nB90ti9FFE~",
+      "brandName": "码方科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210313/19422527439ff0ef7f9b2c76017a74f3ff59a9d379a5d83cd7c4db798459776b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "码出未来，码出方向",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1722172632081,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "码方科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

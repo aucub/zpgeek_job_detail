@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FfCMyzmcbVbMg-H12EKEpxf1wiibxT5WXQPtq0ScRPnzL5bdpQ-hHLawpsrM3ONqCIpM-7ljqySK0xN_OTE74iqsj6yMhRn93-HuwlqSRnaU6nD69A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3988e889c7265cf81X1539W9GVZU",
+      "encryptUserId": "9b35337cb59e327f0Hd609u1Eg~~",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n负责人力资源SaaS平台开发\n\n技能要求：\n1.熟练使用python，至少熟悉tornado、Django、flask中一种，构建过nginx + uWSGI + python的web-services者优先；熟悉sql server 、 oracle、mysql至少一种数据库\n2.熟悉三方系统数据集成\n3.熟悉Linux/Unix平台，能熟练使用python, shell 等脚本语言进行系统日志分析；\n4.熟悉mysql，熟练使用redis、MQ、celery等常用第三方组件；\n5.具备良好的阅读文档能力，学习能力和表达能力；\n\n加分项:\n1.有个人技术博客，地址请附上 ；\n2.参与开源项目，如有地址请贴出 ；\n3.对web前端有一定了解；\n4.熟练使用git ；\n5.编程，算法大赛获奖 ；\n6.对前沿技术有一定的了解，能独立完成新技术的预研，如openstack，容器，数据分析；\n7.熟悉分布式系统，对网络和高并发编程有丰富的经验",
+      "encryptAddressId": "e8664339672684410nN73964",
+      "address": "北京大兴区北京经开·北工大软件园3",
+      "longitude": 116.496655,
+      "latitude": 39.783649,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24cdea245c04ab75511b94a6264489ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/247764a99d395e636da6319c1d6d4365",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维开发",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160420/c956b2e95996bc6202dc7b2918d062988c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "潮声科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "35508d92d94416311nN409-1GVY~",
+      "brandName": "潮声科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722141313835,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潮声科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

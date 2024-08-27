@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "OoJReAxwPTR76-y1P_DppESZ4r9d-6YNJ5BtJmOuT3FsMuehODSgVCvPp8BfeSeHhd1yYp5bdeQKOgnGKHqPPjmebdA7IOhTUZ06bnY-iuFzAT-eGWKIM7bcewXq80tVVLksQaBCbTZ1yFGVlv0F-g~~",
+    "securityId": "HQczOa40RsnGG--1BLoD8F_hdgAqEmUulSazL159ms099jpOeb4DVGqsIbGWccCmd5CrvwjTucCbzgCh2i86My_y_OBtlrF4nki6lO_z1NtPkgDK3A~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,10 +47,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "思而立",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "02c9865ca2eeb9700Xd52Nq-EA~~",
@@ -71,7 +73,7 @@
         "餐补",
         "节日福利"
       ],
-      "activeTime": 1718676864826,
+      "activeTime": 1724731137180,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "思而立",

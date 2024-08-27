@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "HDG82OiJRXA1v-F1mjL3-siZ3F9b0HhUyRzuQZNVGTHPcwr3jmB9a3hWKteok5hsKgcLSjf434cW2GyrMj9oWzOZsepw2ZIQH4V9uR3P472zfv3v",
+    "securityId": "INOG_xHzAMzLl-L1Iu9KWuQcl4soTObxU-x7so_fBjOJ-pfPMgzFtJNtXwIRgBlE7mxivO6QALFYKZXZ6XeELEQnVNI1CMdtf8nRdsDt8zzgApDh",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,11 +45,13 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180907/21ec3c6d999ff87d3d6583c6a664a5f5cfcd208495d565ef66e7dff9f98_b.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "千仞科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "957c5eb48646d45503B70tS0",
@@ -66,7 +68,7 @@
         "员工旅游",
         "节日福利"
       ],
-      "activeTime": 1718084228786,
+      "activeTime": 1724231896353,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "千仞科技",

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cRokfj_aMrOTu-w1KiDSohlxgtUivvAMHao8kb_r37CQIM4T008B1OnjF9KcYFQXLdSmRgpX71N_kpSdRmnFMq8Cxk5R0sFbq7Ow0r36uCE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "faedf897bb1b89b11nZ63968Fls~",
+      "encryptUserId": "d02d874e64cee9c21XN-3dm1",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-15K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责相关系统的架构和设计；\n2.负责服务器各个系统的开发与维护；\n3.参与新技术的研究和技术路线的确认，\n\n岗位要求：\n1.算法基础扎实，熟悉常用数据结构和算法；\n2.熟悉Linux开发环境，精通python；\n3.熟悉至少一种高并发网络框架；\n4.熟悉http、TCP/IP协议；\n5.熟悉Django框架开发；\n6.熟悉mysql或postgresql等关系型数据库；\n7.熟悉redis、mongodb等nosql数据库；\n8.熟悉angularJS、Jquery优先；\n9.懂得Docker容器优先。",
+      "encryptAddressId": "2c8385b1b68d56151Xd_2Ny7EVM~",
+      "address": "北京大兴区大族广场",
+      "longitude": 116.5129,
+      "latitude": 39.79183,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0bb41f6e8714ced124033375756fc34",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/666ea489f67b0a7f8a8c9f3dd27a1827",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Linux",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘女士",
+      "title": "人事总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170124/a953577ff2cd5ed8a2591b1932ed58a09961652b42c84c24373d2c410c3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "罗威亚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "397ad9ff4432e2721X172t4~",
+      "brandName": "罗威亚科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170125/a953577ff2cd5ed8a2591b1932ed58a07a302ebaf5a7afe28b7c20d448c511f5.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "北京罗威亚科技有限公司创立于2015年，是一家专注于为各行业信息化转型提供解决方案和云平台的技术服务商通过商业数据分析，帮助企业在信息化转型中更好的做出运营决策。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1722141313801,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "罗威亚科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

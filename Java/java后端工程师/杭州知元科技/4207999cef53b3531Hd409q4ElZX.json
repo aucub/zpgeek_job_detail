@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gZPK29_soVajb-H1vPCyfdUBXS7vppHpMp7-XqoUrP_ssy_-yhuoGRQCff8OotTlkmR0aZYXQcR_SljHZTvX78zHOWz9y3tANtKWf9TwuOAFVvGdWccH11jbTtzqcEHzPlPKgEqpYUnG3i4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4207999cef53b3531Hd409q4ElZX",
+      "encryptUserId": "df57046c0cc90d101nV-39-5FlZU",
+      "invalidStatus": false,
+      "jobName": "java后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "Java后端工程师\n[岗位职责]\n1、参与产品需求分析与沟通；\n2、负责产品功能模块的技术设计与开发工作，并与前端工程师进行联调，确保迭代按时按质发布；\n3、负责后端服务的缺陷修复与必要重构；\n4、结合业务特点，分析与识别现有系统不足，并寻找解决方案进行推进落地；\n5、负责运维相关工作，保障线上服务可用性并能够提升运维效率与质量。\n\n[任职要求]\n1、1-3年以上Java及Java Web开发经验，具有扎实的程序设计能力，能够独立担当功能模块的技术设计与开发；\n2、熟悉Java基本技术特性，如常用数据结构、多线程、Java IO等，理解并应用Java常用设计模式，掌握Java常用框架与工具，如Spring Boot、Mybatis等；\n3、熟悉微服务基本架构与常用组件，如Nacos，Spring Cloud等；\n4、掌握SQL、NoSQL数据库及其原理，熟悉常用缓存、消息队列等中间件；\n5、熟悉K8S、docker等，有实际运维经验优先；\n6、有一定性能问题解决或调优经验优先考虑；\n7、具有强烈的责任心，思路清晰，较强的学习能力；\n8、良好的需求归纳分析与文档编写能力。",
+      "encryptAddressId": "f0cf95f884dbfe2033B939u_GFBQxoq9U_g~",
+      "address": "杭州西湖区华星时代广场A座2107",
+      "longitude": 120.124791,
+      "latitude": 30.276996,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ffb80986fd5a7afaa3a6bab07f105c5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/166615dd3fb61c39d700454ba2d30375",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "接受无前端经验/技能",
+        "国内院校优先",
+        "Java",
+        "Spring",
+        "MyBatis",
+        "不接受居家办公",
+        "MySQL",
+        "SQL Server",
+        "架构经验优先",
+        "研发管理经验优先",
+        "项目经理经验优先"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "招聘hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231109/607f1f3d68754fd0ca9e0c0f5bf479e566bb32dad213f7e7932bbeb2e0f5cc34bda7d7544225ddd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "杭州知元科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "762658ebc844c6d21HV509S_F1s~",
+      "brandName": "杭州知元科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724633501781,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州知元科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

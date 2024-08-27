@@ -1,0 +1,117 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D9woh1-iLZyeh-G18F8IaQN5zSK0R-PJ3hfxrr7V8wmjcwG7G-KZoQtP4HGzV0l8SQ-1gnvsoh7hQ86dMNplUDRaLtAtb5gxI0KwHIxQ7QVhZh2uvnAw5KS-JA5JYZaWncjvTZJZhsQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "254dae8fd25aa3d71HB-3Nq4FVZS",
+      "encryptUserId": "d61ab300ed2088b333Z_09S0GVQ~",
+      "invalidStatus": false,
+      "jobName": "Java 开发专家-数据研发方向",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "30-50K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、主导业界领先的大数据研发平台的设计与研发，包括智能数据开发 & 运维平台、高性能分布式调度系统等；\n2、深入理解业务场景，设计合理架构，支持包括抖音、头条等在内的全球业务；\n3、探索大数据研发前沿方向，参与需求、产品讨论，确定中长期演进方向。\n职位要求\n1、精通 Java 语言，包括 JVM、多线程、高并发、网络等；\n2、熟悉 Spring 等开源框架；\n3、熟悉分布式、缓存、消息等原理；\n4、扎实的计算机基础，对技术有热情，愿意不断尝试新技术和业务挑战；\n5、熟悉 Hadoop ecosystem 常用开源框架者优先，例如 Flink/Spark 等；\n6、熟悉 AI 等前沿技术者优先；\n7、需具备英文沟通能力。",
+      "encryptAddressId": "90e1556577fc422f0XF63du8EFVWy4W2V_I~",
+      "address": "杭州余杭区西溪八方城八方城",
+      "longitude": 120.046083,
+      "latitude": 30.289958,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf41a9eee87253fe89fb5696ada97774",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c0f40c581e93c8fec939d4606aae8cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spark",
+        "Flink",
+        "流处理",
+        "批处理"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "招聘HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220223/607f1f3d68754fd0a71448d454c8f515645984f2e80d96ab680aa94632418517bca981076c6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京字节跳动",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7d01ce6cfe2022030HJ409y-",
+      "brandName": "北京字节跳动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "labels": [
+        "就近租房补贴",
+        "餐饮及下午茶",
+        "年度体检",
+        "节日礼品",
+        "免费健身设施",
+        "家庭关爱假",
+        "家属自选保险",
+        "弹性工作制",
+        "零食下午茶",
+        "包吃",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724739292508,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京字节跳动",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

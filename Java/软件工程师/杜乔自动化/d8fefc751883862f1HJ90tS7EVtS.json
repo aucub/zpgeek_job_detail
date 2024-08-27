@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_E2oB1iaMxU8G-f1A2d-0w62eraphCqnINuN7aDzKpRWrYAx3YxT-uygTfjuz97fxeE-jKUqaFB95kOym8zFohYGQ6NtIP8Y84gBuDyssC1HfLj04LJdodOenwsBtMF9AGJhMCarrJ0Dn7c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d8fefc751883862f1HJ90tS7EVtS",
+      "encryptUserId": "96164d9548e5e5d20ndz3N27F1BS",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责WMS仓储管理系统整体架构设计，数据库设计，相关业务功能模块的设计和开发.WMS与WCS底层控制调度系统的接口开发.WMS各项功能优化和服务端开发.\n2.协助设计与实现WMS/WCS的开放API，优化系统功能。\n3.对每个功能模块编写单元测试，并编写详细文档。\n4.熟悉WMS/WCS系统与至少两种仓储物流自动化设备如堆垛机、输送机、穿梭车、机器人等，及其通讯机制与设备运动控制原理：能结合业务需求，从成本、效率及业务未来发展等方面，将物流自动化设备与系统进行有机结合，提出优化方案与建议。\n\n\n岗位要求：\n1.本科及以上学历，计算机相关专业优先。\n2.有制造业行业仓储系统开发经验者优先。\n3.精通至少一种关系数据库，如MSSQL、MySQL、PostgreSQL、Oracle等。\n4.熟悉Webservice、Webapi、Socket等主流的接口对接技术。\n5.对用户体验、交互操作流程、及用户需求有一定了解。\n6.具有良好的服务意识、责任心强，学习能力强，具有优秀的沟通与团队协作能力。\n7.熟悉RS485、TCP/IP、Modbus、ProfiBus等工业总线协议；熟悉西门子等PLC以及相关上位机与PLC的通讯协议优先。\n8.适应短期的出差。\n9.此岗位接受应届生，通过可直接转正。",
+      "encryptAddressId": "e37fcc6dda449a2d0HNz09q7GVY~",
+      "address": "杭州西湖区尚坤·生态创意园6F",
+      "longitude": 120.065984,
+      "latitude": 30.323745,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/896a03abad47ca8373eca826b7e15150",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4dba6620a85aa0801d476b13efda1955",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Python",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "架构设计经验",
+        "大数据经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "销售经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221128/607f1f3d68754fd01cb81d9017e32bada4b9613e65e11830d9da3ef85c31d8034cda0a850ae_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杜乔自动化",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dcb6987e557dba751XB609q_F1U~",
+      "brandName": "杜乔自动化",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100914,
+      "industryName": "自动化设备",
+      "introduce": "杜乔致力于成为智能化、数字化、自动化，领先的仓储系统集成企业。\n  公司以技术创新为根本，客户定制化的解决方案，以智能物流及智能制造、智能巡检为核心的产品体系。\n  产品广泛应用于电力、汽车、铁路、物流等国民经济命脉行业，为客户提供优质的产品和服务。\n  欢迎有志之士的加入！",
+      "labels": [
+        "高温补贴",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724757494083,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杜乔自动化",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

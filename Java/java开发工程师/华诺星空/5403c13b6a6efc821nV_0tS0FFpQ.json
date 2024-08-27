@@ -1,0 +1,118 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o5lagYJxGVFPR-b1ZJATtIsL-sOr-veOIgcxCHMgWOBPG_WaFH3OnUFrgUVKtHLotxZoeNIMfEN7Zc2J0eqyeNTYIWdNzSHFYoHaGd0deYcF_qme6tUppm72D0RGGmeErJnhukBOzwLbKA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5403c13b6a6efc821nV_0tS0FFpQ",
+      "encryptUserId": "3a08204b25c593971nV72966FVtW",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-22K",
+      "payTypeDesc": null,
+      "postDescription": "此岗位可接收2025届应届毕业生\n岗位职责：\n1、按产品需求规格说明书，进行软件功能模块的开发，重点为：TCP/IP、Socket通信开发；\n2、根据项目任务计划按时完成软件编码和单元测试工作；\n3、按照开发流程编写相应模块的设计文档，与产品经理、测试工程师、其他团队沟通合作，保证产品研发工作的正常开展；\n4、负责配合测试人员进行软件平台BUG的修复。\n基本要求：\n1、计算机类相关专业，本科及以上；\n2、熟悉Spring Cloud、Spring、SpringBoot、MyBatis、MySQL、Redis、Zookeeper等框架及应用，能够合理进行技术选型；\n3、熟悉Java语言，熟悉常用算法和数据结构，熟悉TCP/IP协议，熟悉网络编程和多线程编程技术。\n\nJava资深工程师/架构师：\n岗位职责：\n1、深入发掘和分析业务需求，撰写技术方案和系统设计，完成相关核心代码的开发;\n2、负责大型高并发分布式系统整体架构设计，主导产品的需求分析和技术方案制定;\n3、负责对技术架构的重构和优化，推动系统性能、合理性、可靠性、可用性的提升;\n4、新技术研究和应用，用创新的思路解决问题，并推动适合的技术应用于生产系统;\n5、搭建应急安全及边坡平台，针对平台数据交互接口、数据管理、微服务、应用端等进行设计开发，参与平台测试和运维；\n6、与内部和外部团队成员有效沟通进展、问题及解决方案等。\n任职要求：\n1、计算机相关专业，本科及以上学历，8年以上工作经验，985、211优先；\n2、8年及以上JAVA开发经验，精通JVM原理；5年及以上架构设计经验，3年及以上微服务研发经验，如Dubbo、Spring-Cloud；\n3、深度理解架构师的职责和目标，具备良好的面向对象分析、设计、开发能力和思想，熟悉设计模式，了解AOP、OOP、DDD、IOC设计模式；\n4、精通Spring-Boot、Spring-Cloud、MyBatis、MySQL（或PostgreSQL）的原理与应用场景限制，精通Redis、MongoDB、HBase等NoSQL数据库，精通消息中间件，如RocketMQ、Kafka等；\n5、熟练掌握分布式原理和设计，能合理采用可靠消息、分布式事务提高系统稳定性；\n6、熟练掌握容器相关技术，如Docker、Kubernetes等，熟悉DevOps相关工具，如Git、Maven、Jenkins、Ansible等；\n7、熟练掌握主流Cesiumjs三维GIS引擎，具有三维 GIS平台应用开发经验，了解三维数据格式处理方法；\n8. 学习能力强，逻辑清晰，有较强的求知欲和分析、解决问题的能力；\n9、熟练掌握大流量、高并发、高性能的分布式系统的设计及应用，熟悉安全机制及性能调优。\n\n岗位职责：\n1.负责安防相关系统以及高精地图相关前端软件开发工作；\n2.负责前端技术方案调研、技术框架研发工作，设计良好的代码结构，迭代优化；\n3.与后端开发工程师协作，完成数据交互、动态信息展现等功能开发；\n4.快速响应产品迭代以及优化升级，持续优化前端体验；\n5.独立承担核心模块的设计和开发，攻关技术难点；\n6.责任心强，学习能力强，有技术热情，具备良好的沟通能力和团队合作精神。\n岗位要求：\n1.大学本科及以上学历，2年以上前端开发工作经验，有大型网站的前端架构设计经验者优先；\n2.熟练掌握HTML、CSS、JavaScript等前端技术，能开发高性能、体验良好、可扩展、可配置化的web页面，同时具备跨端开发经验，熟悉uniapp或flutter；\n3.熟练使用Git等版本控制工具，有mapbox开发经验优先；\n4.熟练掌握Vue技术栈，包括Vite、Vue-Router、Pinia、webpack、vue-cli等；\n5.熟悉Element、Vant等UI库的使用，熟悉nginx进行项目部署；\n6.熟练掌握使用可视化控件库，例如，Echart、D3、G6等等；\n7.有cesium、threeJS开发经验着优先。\n8.与后端开发团队紧密配合，确保代码有效对接，优化系统前端性能；\n9.对技术有强烈的进取心，具有良好的沟通能力，有优秀的优化.调试和解决问题能力，逻辑思维清晰严谨。\n\n岗位职责：\n1、负责软件开发以及开发过程中相关新技术的研究和验证；\n2、参与需求分析、系统架构设计、概要设计、详细设计、测试计划等；\n3、负责根据开发规范与流程在产品框架基础上独立完成软件的设计、编码、测试以及相关技术文档编写；\n4、参与软件系统代码检查和评审，能独立解决开发中遇到的难点问题；\n5、参与所属各类项目/产品的设计、开发和维护工作；\n6、完成上级安排的其他工作。\n岗位要求：\n1、计算机、电子、通信、自动化类相关专业，本科及以上学历，2年以上应用软件开发经验；\n2、精通java语言，熟悉javascript、html/xhtml、xml、CSS、AJAX等技术；\n3、熟悉Spring boot,Spring Cloud, SpringMvc,MyBatis等主流的开发框架，熟悉mybatis等ORM中间件；\n4、掌握常用的开发工具； \n5、熟悉大数据并发、多线程、TCP/IP、串口、网口、内存管理机制、ORACLE数据库等；\n6、熟悉软件技术文档的编写，具备良好的文档编制习惯和代码书写规范； \n7、工作有激情，做事认真负责，逻辑思维能力强，能承受较大压力，团队合作能力强，可独立解决问题；\n8、有雷达、视频、陆域交通及水域交通行业基础从业经历的优先。",
+      "encryptAddressId": "aa53f6d5700760290nJz2d61EQ~~",
+      "address": "长沙岳麓区湖南华诺星空电子技术有限公司(麓谷企业广场东南)文轩路178号麓谷企业广场B7栋",
+      "longitude": 112.888146,
+      "latitude": 28.206549,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f68a069760c3e9f764446a7260fed8ca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d4027649e4ee7297f2f2cb67db59078",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "Shell",
+        "流媒体技术",
+        "音视频开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人力资源部副经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200601/88df41d9663354e1a012a244bfcf4c23440b88a7cd35eb2f3bcb52f01d3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "华诺星空",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff9c9bff0edc41ea1nJz39S1EQ~~",
+      "brandName": "华诺星空",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240510/7bf6f160950405e96b266550a53a7066edea627af9ed07c1440b88a7cd35eb2f3bcb52f01d3e38a4.png.webp",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "华诺星空成立于2006年8月，注册资金6871.57万元，是我国重要的智能安全装备和雷达装备研制企业，是国家首批重点“专精特新”小巨人企业、国家首批应急产业重点联系企业、国家知识产权示范企业、全国硬科技企业之星TOP100企业、新湖南贡献奖先进集体及湖南省软件和信息技术服务业50强企业，是公共安全行业及消防救援行业标准制定者。\n公司“聚焦智能感知、认知与控制技术，提供创新产品和系统集成服务”，以“共建安全的世界”为愿景，致力于成为优秀的实体空间安全领域创新产品和系统集成服务专业提供商。目前公司在北京、深圳、重庆设有销售公司，在长沙、成都设有研发中心，在国内外多个地区设有子公司和办事处。\n公司拥有雷达、光电、人工智能等领域的科技领军人才和技术骨干，拥有“电磁探测与感知”省级创新创业团队，建有湖南省汽车主动安全控制技术工程研究中心、湖南省智能安全装备工业设计中心、湖南省省级企业技术中心及智能传感器长沙市新一代人工智能开放创新平台。\n公司经过十余年的创新沉淀，已形成以下面向应急、司法、公安、机场、石化、电力、交通等行业的产品和解决方案，产品远销欧洲、南美、中东、东南亚、日韩等30多个国家和地区。\n在政府及行业市场，为应急、公安、司法、安监、人防、石化、核电、机场、电力、交通等客户提供产品和解决方案。\n在应急反恐领域，提供雷达生命探测仪、音视频生命探测仪、多模复合生命探测仪、穿墙雷达、边坡雷达、落石监测雷达、建筑物坍塌预警雷达、水域救援、微波迫停系统等产品。\n在全域安防领域，提供全域智能安防平台、车辆藏匿人员检测系统、雷达视觉融合周界系统和区域警戒系统、低空安全、空地协同巡逻监视系统等产品、机场跑道异物检测等系统和解决方案。\n在智慧交通领域，面向水域交通与陆域交通，提供桥梁防撞主动预警系统、水上智能卡口监管系统、雷视路测智慧感知单元、高速出入口智慧化管控系统等产品、系统和解决方案。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "高温补贴",
+        "通讯补贴",
+        "免费工装",
+        "住房补贴",
+        "宿舍有空调",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "节假日加班费",
+        "加班补助",
+        "股票期权",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724746322160,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华诺星空",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

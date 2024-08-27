@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "B0P4mGncWXuZ7-t12qt_lFhFt7s2SQQwI_8SlRJslDJD7nvtWkjdO5l4IT5LuiEK51Cm-Ok-JQZ9BLuoSdg2TqGmCxphhhR-6kDjkgkUK8cY8zGnpL6T",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "72a211c0744b002a1nV509m_FVVR",
+      "encryptUserId": "56256bb1cb56e1f90nRz39S6GVJU",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210700,
+      "locationName": "温州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 按照需求文档进行后台设计，输出概要设计文档、数据库设计文档和接口设计文档。\n2. 按照设计文档高效的进行代码开发，能够发现存在的技术问题\n3. 对代码进行自测和发布。\n4. 按照测试结果进行缺陷修改，保证程序的稳定性。\n5. 与前端开发和产品保持良好的沟通\n岗位要求：\n1、计算机、软件类本科以上学历，2年以上后端开发经验；\n2. 熟悉java语言特性,熟练使用Spring boot, springCloud微服务的设计和开发\n3. 熟悉RESTful风格的API设计和开发，熟练使用swagger自动生成API在线说明。\n4. 熟悉mysql,redis等中间件\n5. 工作态度端正，积极向上，乐于挑战和接受新事物，具有强烈责任心",
+      "encryptAddressId": "f509ba5405be03ba33N809i1Fg~~",
+      "address": "温州瓯海区联成广场联成大厦五层",
+      "longitude": 120.609906,
+      "latitude": 27.961012,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/116a79e342c56b8f69a2308f690b3ea1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b8eb46df5fc901c0a3bac75836e11d9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "季先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "普安康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9ca09b3d05c3375a1nd73N6-FFU~",
+      "brandName": "普安康",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "餐补",
+        "年终奖"
+      ],
+      "activeTime": 1724677711743,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "普安康",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

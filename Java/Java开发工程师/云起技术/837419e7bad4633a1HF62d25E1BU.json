@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M42ZGKDSCHAAl-01xQfdNnr4tFMpatS1aahB7SP8dpteBVPFhXg15WChG3RQ8K31Tr9I3AV0cLIjxJH_rVJ8uXfbN7Ir48FDLejo6_QRUo3l9K_VVZRDP_GS0uuDJw3O-QVwJmGqLW0j-P0iMFssJ3Y~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "837419e7bad4633a1HF62d25E1BU",
+      "encryptUserId": "fe71e3d8139621130nB73tW5F1o~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通java语言，熟练使用Spring、SpringMVC、Mybatis、Hibernate、SpringBoot等开源框架；\n2、熟悉分布式中间件，如ActiveMQ、Kafka等；\n3、熟练掌握Mysql、Oracle、Redis的使用，有相关性能优化经验；\n4、熟练使用Vue、ElementUi等前端框架；\n5、熟悉CI/CD开发模式，熟练使用jenkins、gitlab、maven等工具；\n6、对高并发、高可靠有深入的理解，有实际经验者优先；\n7、喜欢技术，肯钻研，有很强的学习沟通及领悟能力和抗压能力；\n8、有较强的学习能力、责任心强、善于沟通和与团队合作；",
+      "encryptAddressId": "950c18f9c4b74b3a1nZ72tW6ElBVxYq_VPmc",
+      "address": "北京西城区便利蜂(北京昌盛大厦店)1",
+      "longitude": 116.383173,
+      "latitude": 39.903813,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea9cffc539afef108983c9c3c9e65b9c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba4e1005e4f33127dd5509a176aa860f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Oracle",
+        "不接受居家办公",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "云起技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dd2ae80f49103cb81XR90tu0F1c~",
+      "brandName": "云起技术",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220516/7bf6f160950405e93b2e7b0fd4eac5c3cd943e70e76b8ec17f45216ada72fbf27898f3a5456da5a0.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "雄安云起技术有限公司（原北京云起时代技术有限公司）隶属于云起技术有限公司，在2022年响应国家号召迁往雄安新区，公司下设天津云起技术有限公司、北京分公司等多家分支机构，员工300多人，是一家拥有ISO9001质量管理体系、ISO14001环境管理体系、ISO20000信息技术服务体系、ISO27001信息安全管理体系、ISO45001职业健康管理体系、CMMI能力成熟度模型集成3级、AAA企业信用等级等多项资质认证的高新技术企业。云起技术立足京津冀，业务覆盖电力、能源、通信、金融、互联网等领域，为大型企业综合解决方案与技术外包服务，已经与国家电网、中国联通、中国石化、百度、快手等企业结成了全面深入的合作伙伴关系。",
+      "labels": [],
+      "activeTime": 1724732428413,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云起技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

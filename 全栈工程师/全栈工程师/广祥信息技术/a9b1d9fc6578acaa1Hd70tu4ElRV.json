@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iKEOEwxKtdrql-V1qxMa7jqZ0Xitj0ceoTaTFZIwDl7Sf2CRkNCMAZDKSbrbuU22rFfcF1wt6T_F42p9dUQCJ3o_rc0DR0FvjxOeonUddauufobXb9Ov",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a9b1d9fc6578acaa1Hd70tu4ElRV",
+      "encryptUserId": "f3a79456d2142d600nR_09y-EFRW",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通JAVA编程语言，具备良好的面向对象设计和编码能力，高级开发知识。\r\n2、熟练使用Spring Boot ,Spring Cloud等主流框架，具有良好的动手能力和丰富的开发经验；\r\n3、熟悉数据库设计和操作，熟练使用配置MySQL、Oracle、Redis等数据库，具有相关场景使用经验；\r\n4、熟练使用配置MySQL、Oracle等数据库，具有SQL查询速度优化的相关经验，了解底层原理；\r\n5、熟练掌握数据分析体系架构、方法和相关数据建模知识, 负责项目的需求调研、数据分析、数据挖掘模型等，通过对用户的行为进行分析了解用户的需求；\r\n6、熟练使用MyBatis、MyBatis-Plus，熟悉消息队列MQTT的使用及配置；\r\n7、拥有乐观向上的精神，愿意接受新鲜事务，在开发学习过程中发现总结技术的不足；\r\n8、掌握Nginx ,Tomcat等服务器的配置，熟悉Linux操作系统，掌握常用的Linux命令，以及项目的部署；\r\n9、熟悉JAVA网络编程技术TCP和UDP通信机制，熟悉Netty、ActiveMQ、WebScoket消息通信框架。\r\n\r\n拥有Vue开发经验，Element-UI等三方库简单的业务场景的使用经验者优先\r\n拥有第三方如阿里云等云服务器的使用经验、接口调用经验者优先",
+      "encryptAddressId": "82837f88e406d8dc1nV83du4FFBV",
+      "address": "天津武清开发区创业总部基地企业总部区A8",
+      "longitude": 117.052904,
+      "latitude": 39.41135,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf4747473863ec85deac6ef1954aed3b006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfae07b772f3862ddd776facbf4cad0b936bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "全栈侧重后端",
+        "HTML",
+        "Vue",
+        "JavaScript",
+        "Spring/Spring Boot",
+        "Java",
+        "MySQL/Redis/MongoDB",
+        "全栈项目经验",
+        "英语读写能力良好"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "付女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广祥信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a4454cbcb0a1ebfa1X1z3Nq5F1Q~",
+      "brandName": "广祥信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723215234000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广祥信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

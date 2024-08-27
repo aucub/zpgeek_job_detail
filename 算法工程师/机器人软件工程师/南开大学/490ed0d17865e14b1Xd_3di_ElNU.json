@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xF5tt1oyhc_WW-F1Oke0CX_XLcmASJo3vACBWmLpVdRAgZPth5SQp88Vb4Fb6O3-K9s1LHW5dkKxKLWIa7eOhSS5PZ85Oqdtsgd_4Fd8znt6MIlqTxs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "490ed0d17865e14b1Xd_3di_ElNU",
+      "encryptUserId": "37eb4f0ca44aae611nZ52t2-ElVZ",
+      "invalidStatus": false,
+      "jobName": "机器人软件工程师",
+      "position": 100120,
+      "positionName": "算法工程师",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n    1.配合算法工程师完成算法集成与封装。\n    2.机械臂控制算法在ROS框架下的软件集成与API接口封装。包括机械臂正逆运动学，雅可比矩阵，位置、速度和力矩控制接口等。\n    3.机械臂人机交互功能算法模块的集成与交互界面设计，例如机械臂高精度力控，安全预警和拖拽示教。\n    4.开发机械臂传感模块驱动和ROS集成，包括关节编码器，转矩传感器，末端六维力传感器。\n    5.机械臂控制系统测试，测试各类算法，优化算法可靠性。\n    6.前期项目组中有专人指导与培养，表现优异者可以升为项目组负责人\n    7.能力突出者，待遇可面谈\n任职要求：\n1、软件工程、计算机、自动化和机械电子等专业优先\n2、本科及以上学历\n3、熟悉Linux系统，熟悉ROS机器人框架；\n4、熟悉python、C++,良好的算法实现和开发能力；\n5、熟悉设备间通信接口的开发；\n6、从事过机器人控制开发、机械臂控制开发项目优先考虑；",
+      "encryptAddressId": "5ef3c94c3ee3d98a1nNy09u_EVQ~",
+      "address": "天津津南区南开大学津南校区津南区海河教育园区同砚路38号",
+      "longitude": 117.346194,
+      "latitude": 38.988726,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40355147f436a583a1f238b13bb9e325",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59e9c5396c9929001365bff97037eadc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C语言",
+        "Ros机械臂",
+        "研究导向",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "科研人员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "南开大学",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c1e5576ed6891d8303B_3NW4Fg~~",
+      "brandName": "南开大学",
+      "logo": "https://c-res.zhipin.com/jrs/938a2c697ede506238e2163ca4394d60.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "一家社区童书绘本馆，另有一些课程，规模不大，尊重家长和老师，佛系经营",
+      "labels": [],
+      "activeTime": 1722185403786,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南开大学",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

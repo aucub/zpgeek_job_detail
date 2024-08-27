@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "N8kKxWYv-TK35-U1zM03itIJcJWfG3tBfBudwqOzpn--YSSnnJz7mk2jNd6T68yvZxTGLvjauUMiNIMtXUpSCka6zFHamKvZL1xnzeoF__xANXJZug~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "17590983309f17751nd909u7GFc~",
+      "encryptUserId": "15e0860cbe47b3391XJ93tq_GVo~",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-15K",
+      "payTypeDesc": null,
+      "postDescription": "python web开发\n\n负责初创团队web应用原型开发，需要兴趣广泛，希望在技术领域全面成长的开发者\n\n在技术上有独立解决问题的兴趣和能力；在业务上，有基于目的和意图沟通的能力,有深入理解需求的意愿\n\n\n要求：\n\n1有基于Flask的web服务开发经验（在github上有个人项目的优先）。\n\n2有部署经验，接触过gunicorn,Nginx,Docker\n\n3有一定前端经验，简单的boostrap css外观调整，简单js开发\n\n4 接触过GIS，使用过postGIS更佳（非必须）",
+      "encryptAddressId": "594b6094f4989c3b0Xdz3d61FA~~",
+      "address": "北京朝阳区天畅园7号楼7号楼2102",
+      "longitude": 116.4162,
+      "latitude": 40.03349,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/904e6782f1b598f7095bdf9eb3a5402d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0ae0957ebacfd68c88fbca19a941cb0d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "人事部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170509/eccc6ffc449ff33ee8e79aeb630b10158c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "美程乐道",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "688da5d03029c7611nx82968FVQ~",
+      "brandName": "美程乐道",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722141313943,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "美程乐道",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

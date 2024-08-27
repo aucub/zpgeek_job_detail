@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "m5rk2TI8NlGrM-b1AicllIvO-IgHCq7imylm9E6tD4urxVnjy3IqzoexwB_BxPwowQZbIdIiNe7dw_PIKPQSNlgyTRRD-mpRG5Ypgey7rL6fUfHvH0c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38c81872ab0788e31HJ83dS-GFtX",
+      "encryptUserId": "6c7518ce340b9c2203J92dm1Flo~",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101271000,
+      "locationName": "泸州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1.专科及以上学历，计算机或相关专业，本科3年，专科5年以上Java开发经验。\n2.扎实的Java基础，熟悉JVM调优，精通Spring、MyBatis等常用框架，熟练使用常用设计模式。\n3.熟悉微服务相关技术栈，如Spring Cloud、Spring Cloud Alibaba等。\n4.有2年及以上大型销售系统开发经验。\n5.熟悉MySQL数据库的使用以及SQL优化，熟悉多线程开发，具备处理千万级数据处理经验优先。\n6.熟悉Linux、nginx等主流工具的配置和使用。\n7.熟练使用Redis、ElasticSearch、Kafka等热门中间件产品。\n8.具有良好的沟通能力。\n9.具有互联网产品技术架构设计经验。\n10.具备一定前端vue开发能力。",
+      "encryptAddressId": "f2ac9685a66110033nx839i8FFZTxo-8VP8~",
+      "address": "泸州龙马潭区泸州老窖科技工业园区信息楼",
+      "longitude": 105.455449,
+      "latitude": 28.958942,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfd580bda4cb7e5ade8393507164eb269e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf31c4400626b1c5ddfafb43bebe49ec3d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd0b971c3cc07c337f0132200722f1b7d36b1dfff1eaad53db12e63b504243d100_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "东软集团重庆有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fd4aa2fff3034c421HZ63NS5F1Y~",
+      "brandName": "东软集团重庆有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724289946343,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东软集团重庆有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OGLfEuIHZwj50-01t0pR_yofwHPqoOtjyrbd0_3GBXK24BEzDPL-77L0_tsVu1ZwZ4Co-oJFB_iq-u6FU_oPbrZq2gBIJtd4r4kJE4WxrRgWyLbXrGukNVUki2uHAyAvVg6ufx1hjbMidA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "89156554bd5633271Hx629u_FVdU",
+      "encryptUserId": "3d1d0c9642d27d001nZ50t-1GFE~",
+      "invalidStatus": false,
+      "jobName": "JAVA实习生",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-6K",
+      "payTypeDesc": null,
+      "postDescription": "招聘软件实习生，要求计算机相关专业，态度良好，不会的可以学，需要尽量保证工作时间。\n1.根据业务需求完成指定需求功能开发\n2.熟悉java，mysql，redis\n3.熟悉html,css,javascript，vue,uniapp\n4.积极向上，主动学习\n5.与产品团队密切合作，能主动驱动协调协作\n6.熟悉nio,aio,bio,熟悉java线程",
+      "encryptAddressId": "017eb21c5ac4576b1nJz3dq8E1E~",
+      "address": "重庆渝北区腾讯(重庆)众创空间2楼",
+      "longitude": 106.49143,
+      "latitude": 29.621917,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e7578bc8d5a1a0efde1c31237a6f38a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/94655ee98efb316319aec8b4192295eb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "架构设计经验",
+        "分布式经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "涂先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "极客互联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "398d3b6806b99f4d1nN909i6ElQ~",
+      "brandName": "极客互联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210618/8dcecc377c5d5813feb4cb2db0c33b5e7c74657cc9dc5e9b4f8b2a4177ece8a9.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "重庆极客互联科技有限公司秉承“创新、专业、诚信、迅捷”的企业精神，致力于为各大企业提供网站建设、APP开发、微信小程序开发、软件定制等开发服务和互联网安全咨询服务。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724657029504,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "极客互联",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

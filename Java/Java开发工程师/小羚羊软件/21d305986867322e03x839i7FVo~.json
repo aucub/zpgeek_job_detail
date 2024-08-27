@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xU51KA50hes2V-D1jbKTGRQ69f0W16UAnSTYXV6HHhQK75oCah8GWX4q5bEeUxbX0azDPauWq0dvoBEfTCeigRQYjv9a8lNpZjLO8Nm85Ln2Q8KKawiyCRkNabY5N16cg7mOhE2T8lc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "21d305986867322e03x839i7FVo~",
+      "encryptUserId": "f6eb444466d132ff0XN709i6F1M~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "14-20K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、对公司电商平台进行维护及功能拓展\n2、参与新平台的研发工作\n3、保证代码的高扩展性和高性能\n4、MySql 数据库优化经验\n岗位要求：\n1、三年以上项目开发经验；有相关管理软件开发经验，有ERP开发经验优先\n2、熟悉HTTP协议，restful架构，前后端分离开发模式；\n3、掌握Spring Boot、SpringMVC、Spring Cloud、Mybatis等主流框架；\n4、精通 Java 基础、多线程、理解 JVM 底层原理、常用设计模式\n5、熟悉Mysql、Postgresql、Oracle、SQLSerever等常用关系型数据库至少一种；\n6、较强数据库设计能力，熟悉关系型数据库调优；\n7、责任心强，做事细心、有恒心有毅力，具备良好的团队合作精神和承受压力的能力\n8、有JVM/Tomcat性能调优经验\n9、熟悉大数据相关技术优先\n10、思路清晰，善于思考，能独立分析和解决问题，善于学习及了解新技术；",
+      "encryptAddressId": "dadcb90f947187e30nZ92tW0EFs~",
+      "address": "常州新北区上海小羚羊软件有限公司中创大厦12楼1201",
+      "longitude": 119.976216,
+      "latitude": 31.828454,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3abe4ca25bee8c6fa8dfdf86673e7e8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eded1bfc7d84dfaa7a15da4b251de2c1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "struts",
+        "mysql"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "小羚羊软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c2bf720fbfdfce2803F43tu1Eg~~",
+      "brandName": "小羚羊软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210311/390b9b973256abc5786a82ab692eac8983f34ad16b011448660d2f2bcccc93fa.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海小羚羊软件有限公司，是一家专注于印刷行业信息化解决方案及印刷网络平台的互联网公司，目前有上海，深圳，无锡，常州 4大运营中心，公司致力于整合印刷供应链上的各个节点，为广大的中间商、加工商提供优质管理工具，是国内唯一一家可以提供 包括印刷电商平台、移动平台、微信平台、智能文件处理系统，印前自动化系统,智能工厂及线下ERP系统的全流程方案并参与制定印刷信息化行业国标的制定厂商。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶",
+        "年终奖",
+        "定期体检"
+      ],
+      "activeTime": 1722158019391,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小羚羊软件",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

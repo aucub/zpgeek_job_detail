@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tzp7VgGJHpHs3-41gSNC48j_jDlKcad10kKszIhnZL2YsZnQ00FNQZLbrC_0Zo2MvXZoJzn-QIsc6Ix4_04xQ5TlNJcVifV-AaOZY3YUy5v8KsnAvIV6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "76c8746ed2fcb31c1nV80ti_FFNZ",
+      "encryptUserId": "21ccac9bad9172910nV60ty6EVBT",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件开发人员",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.电子、自动化、通讯、计算机相关专业本科以上学历，3年以上工作经验；\n2.熟悉STM32系列单片机开发，\n3.精通硬件接口如USB ,UART,I2C,SPI的编程，\n4.熟练使用FREERTOS多线程编程或有多线程编程基础。\n5.熟悉电机控制理论、有步进电机开发经验，精通PWM调制及PID控制算法调试经验；\n6.编程习惯良好，逻辑思维严谨，语言表达能力强。\n7.具备团队合作和研发精神，良好的沟通理解能力，较强的学习和解决问题的能力。\n8.有医疗设备嵌入式软件开发工作经验者优先。\n岗位职责：\n1、根据产品需求，完成下位机软件方案设计，技术资料撰写；\n2、负责产品嵌入式软件设计开发、代码编写、系统调试、bug修复；\n3、负责在线产品的嵌入式软件维护，对产品bug进行跟踪和修复；\n4、解决生产过程中的问题，提高产品运行稳定性。",
+      "encryptAddressId": "f99a3b950f53eb1e1Hxy3tq1FVc~",
+      "address": "济南长清区联东U谷(济南长清国际企业港)8-101",
+      "longitude": 116.772218,
+      "latitude": 36.585227,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/92c6811a702e37deb8c462bff6642504",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/24cca2ebd174d0025350f823d8a0c63e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "嵌入式技术",
+        "单片机开发",
+        "嵌入式软件开发",
+        "嵌入式硬件开发",
+        "电路设计",
+        "电子半导体"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁女士",
+      "title": "经理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=53b85b15e3cc770ejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9YnHV054kp7NtnSwW0ybw9Z-umL8UE5O_oCzguYlgH9HVdqPOiFSYdQrOyXU5rwN0eRQjin6YJrF5NVdG10HYkAXNEoE-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "艾科达工程",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a49462573d6dee951nd53Nu7FVc~",
+      "brandName": "艾科达工程",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722113125492,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艾科达工程",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

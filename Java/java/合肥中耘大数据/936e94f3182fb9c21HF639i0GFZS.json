@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "u2n249FkEs_fV-j19zqovRixUAUXe_XNK2HcRc8U2V-UmbyG0SixnwFmqW4on8L-AKlg4bNcCM6HVd0nk5nI9t-6VX7sc5hQYv-gRSKGBevJXZu3XX4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "936e94f3182fb9c21HF639i0GFZS",
+      "encryptUserId": "80cb356573d4c7e93nx52tu7E1I~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、 参与项目中的系统设计和数据库设计；\n2、 参与项目的需求分析，负责概要设计、详细设计等技术文档的编写；\n3、 能够独立承担主要模块的开发工作，解决开发中的技术问题；\n4、 协助完成项目的测试、系统交付工作，对项目实施提供支持；\n5、 进行测试环境、生产环境的部署工作；\n6、 负责跟进系统安全、稳定、维护和性能优化等工作。\n岗位要求：\n1、java基础扎实，理解IO、多线程、集合等基础框架，对JVM原理有一定了解。\n2、熟悉分布式系统的设计和应用，熟悉分布式缓存和消息机制；能对分布式常用技术进行合理应用，解决问题。\n2、熟悉MySQL数据库开发，具有一定的SQL优化能力。\n3、熟练使用Redis、rabbitMQ、ElasticSearch、Nginx等中间件技术。\n4、熟练使用Linux(Centos/Ubuntu)操作系统，具备服务器应用部署与搭建能力。\n5、具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力。\n6、熟悉物联网相关网络协议，有IOT平台经验优先考虑。",
+      "encryptAddressId": "2dbb0babfd72abbb0HB72960FVJUxY22V_o~",
+      "address": "合肥庐阳区合肥庐阳大数据产业园20号楼404",
+      "longitude": 117.266153,
+      "latitude": 31.931467,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfd816e18cf361890d09291a6c66b471536bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2fb31c9fb6d98e0c37376340f21ef1f06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "分布式经验",
+        "微服务经验",
+        "物联网经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "产品研发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "合肥中耘大数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8a8e7550dfedb2931HB429-7FlI~",
+      "brandName": "合肥中耘大数据",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "专注于中国农业大数据产业服务。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "股票期权",
+        "绩效奖金",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724675735593,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合肥中耘大数据",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
