@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tY1LipjUZX0mD-R1lyn193Q_6v7OceQ3lvtsFPacGJMaD6xrEwf3D-IYdYW3QlW1aAqf1r-_A7BfRoRTIO94AzoEQjJmtlSiktUSSeFvtsyDstjeO9Q~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9aba6b9c3fdf45f51X1y2tm_ElVQ",
+      "encryptUserId": "41e5238bf2618c580Hd-2t29ElE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290200,
+      "locationName": "曲靖",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.参与产品后台架构设计和业务逻辑开发；\n2.负责后端系统的需求分析、设计、开发、测试和系统上线，实现产品和客户需求;\n3.按规范要求编写代码，保证自己负责的产品持续敏捷开发，并保证线上稳定运行；\n4.编写研发过程中产生的规范化文档/接口文档等；\n任职要求:\n1.本科及以上学历，计算机相关专业，优秀的编程能力，接受能力突出的应届生；\n2.熟练掌握 Java 及面向对象设计开发，熟练掌握Spring（包含Spring Boot、Spring Cloud），Mybatis，Redis, RabbitMQ，shiro等常用开发框架，并有实际项目经验；\n3.熟悉http、https、TCP/IP等常用的网络通信协议原理，熟悉常用的Restful、SOAP接口规则；\n4.精通MySQL应用开发，熟悉MySQL 、sqlserver，掌握常用的数据库调优；\n6.良好的学习能力，能够快速根据第三方接口文档实现相关功能；\n7.沟通能力好、责任心强，能承受较大的工作压力，具有良好的团队合作精神和敬业精神。\n8.有高并发大型电商系统、分布式系统， 微服务开发经验者优先。",
+      "encryptAddressId": "b844f87210d0950803J-3di0FFY~",
+      "address": "曲靖罗平县云南曲靖罗平县南片区罗平县",
+      "longitude": 104.300342,
+      "latitude": 24.871556,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8435918057cd463fd68da297ba8d416",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/909c32fb2e6326010185ecb65adabff6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "不接受居家办公",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "熊先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "鸿瑞新安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9b56aebad91f1dd91n1y3dW_EVY~",
+      "brandName": "鸿瑞新安",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100403,
+      "industryName": "医疗器械",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722229253503,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿瑞新安",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

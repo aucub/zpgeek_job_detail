@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xfsePyc7Xsq2i-11ncW0_u5sPUZ_toMjT7b4UYv8St3c1uHrR0J9s0DGYMo7qzo3nvrbQvYL54Dn2kxuo1RK7PY6wlULAeDYbE15PjzQHKJtyfpHLMWitg3_yu4_yfEwIB4C7-ktgKpH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b2d92a369e34b1af1Hx62tS8ElpY",
+      "encryptUserId": "73b69cfe870746431HN929i5E1o~",
+      "invalidStatus": false,
+      "jobName": "测试运维工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位经验：\n1、本科或以上学历，计算机相关专业；\n2、2年以上相关岗位经验。\n\n岗位职责：\n1、编写测试计划、规划详细的测试方案、编写测试用例；\n2、负责公司IT资源的管理及维护（云服务器）；\n3、负责公司产品测试环境、生产环境的部署与维护；\n4、执行测试工作，提交测试报告。包括编写用于测试的自动测试脚本，完整地记录测试结果，编写完整的测试报告等相关的技术文档；\n5、对测试中发现的问题进行详细分析和准确定位，与开发人员讨论缺陷解决方案。\n6、提出对产品的进一步改进的建议，并评估改进方案是否合理；对测试结果进行总结与统计分析，并进行跟踪，提出反馈意见。\n7、为业务部门提供相应技术支持，确保软件质量指标。\n8、为案件运营提供技术支撑能力。\n9、有强烈的责任心，对待工作态度积极认真负责。\n\n任职要求：\n1、测试能力：\n熟悉软件测试流程，能编写测试计划、设计测试方案；\n熟悉软件工程和软件质量管理体系；\n熟悉微信测试，压力测试的优先；\n2、虚拟化能力：\n熟悉Docker基础知识，具备部署能力；\n3、数据库能力\n熟悉MySQL、ES等常见数据库的操作，neo4j要在一定期限内掌握查询能力；\n掌握Shell脚本基础知识；\n4、IT基础能力：\n了解IP，域名，TCP/IP、HTTP协议的概念；\n熟练使用linux系统，完成java服务的安装部署；\n熟悉使用kafka、Elasticsearch、mqtt、redis、zookeeper等中间件，能管理和维护；\n了解SAAS、PAAS的概念，对业务有一定的理解能力，有很好的沟通能力；\n熟悉azkaban者优先。",
+      "encryptAddressId": "200d90b0022014681nZ-2dq6EFZR",
+      "address": "杭州余杭区金之源大厦写字楼",
+      "longitude": 119.987311,
+      "latitude": 30.274974,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8c680cb546d77afc9d51c8dd6a3f3f8e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf957b198207c63158c60a0d92f86e23c36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "Shell",
+        "MySQL",
+        "Postman",
+        "计算机相关专业",
+        "测试工作经验",
+        "运维工作经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "CEO",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190624/08058bbf5ba4611d8f3597ca61c5facb651b8ad28745299e2c9dc3e9d6fc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "法汇数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6888c2c05898149b1HZ50968GA~~",
+      "brandName": "法汇数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201010/282a6e776d60983315ca3039c9a2be050d39f98d93700882995125ad00a897f8.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "杭州法汇数据科技有限公司是专注于为社会治理现代化提供技术解决方案和法律服务的司法科技服务商。致力于研发破产清算（重整）管理平台、P2P纠纷处理系统、道路交通案件理赔智能系统、不良资产交易与管理、证券维权救济平台等系列系统。为金融债务风险处置、社会化矛盾纠纷化解等问题提供高品质、高性能的“数字赋能”服务，着力打造社会治理数据化、智能化的协同生态平台。 ",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1724815821384,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "法汇数据",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YpG74AspsQeeR-C1HEAQqPwn-3DN1bzUJwqYAKW3_4WF-02Ec050ZrelEqhG_LoYvtFMuB17_z9izR2VgvoQzKbCHRnEOVg4WQL9saIFUOWz6PEV4uo7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4ca3fdb6752953551nF42tu7ElZV",
+      "encryptUserId": "971f5dba960299c20nZ93t65EFRT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090200,
+      "locationName": "保定",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "1.至少1年java开发经验\n2.后台SpringBoot+jwt+SpringSecurity\n3.熟悉java基本概念，了解面向对象编程，熟练使用MybatisPlus+QuerryWrapper\n4.前台vue+element-ui框架\n有前台css+js原生编程经验\n5.数据库MySql\n了解数据库优化及高性能多表sql联查，使用过存储过程及触发器",
+      "encryptAddressId": "8f2b327df35e67b603dy0tq_FFE~",
+      "address": "保定竞秀区亮成集团北二环保满路315号",
+      "longitude": 115.431858,
+      "latitude": 38.920706,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/40f138d74fc793d8351fdb302575c30b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9c6f9e11da0a98081adddee7ae5893cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "HTML",
+        "CSS",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "河北智慧谷软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e9765c69f8ae402f1nF83du7EVo~",
+      "brandName": "河北智慧谷软件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722257694540,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "河北智慧谷软件",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

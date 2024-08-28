@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "K3PF0U-hdoaV7-61yrM1idKBE5js4JbtCcJhhRlFy4xNrNaWbJUsZQ8uaQDhFoNeTKbgb63u_O3svvM-NAwwks3UMExguh_jEV6Aes-08RNzwgtycEoP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "67c151c4eb180e9c1XN709--FVtW",
+      "encryptUserId": "3513d24e7c291b410nV72dy-FFVQ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300300,
+      "locationName": "柳州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目系统需求调研，收集、整理项目前期的系统资料；\n2、保持与项目组其他成员的良好沟通，明确需求说明书和设计说明书；\n3、深入了解所分配模块的详细设计；\n4、负责对所分模块编码，负责对所分模块进行单元测试；\n5、参与系统总体测试，进行BUG修改，负责项目后期维护工作；\n6、参与编写技术文档，参与客户培训，实施培训。\n\n人员要求：\n1)计算机相关专业,大专及以上学历，2年以上J2EE工作经验；\n2)掌握Java语言和面向对象方法，具有良好的编程习惯；\n3)熟练使用J2EE开发框架，熟练使用Spring MVC 、Spring Boot、Mybatis、MyBatis-plus等技术框架；\n4)参与过两个及以上实际的J2EE开发项目。有半年以上Springboot项目经验优先；\n5)具有丰富的MYSQL、SQLSERVER、ORACLE使用与开发经验，了解及使用过REDIS、MONGDB等缓存数据库技术；\n6)熟悉HTML、CSS、JSCRIPT语言，熟练使用JQUERY、VUE等前端框架，使用过VUE+ELEMENT UI前端开发组合优先；\n7)有移动端混合模式开发经验，使用过跨平台开发框架，如uni-app，cordova等；\n8)熟悉MAVEN、GIT、SVN等项目管理工具；\n9)具有团队精神，有责任感和较强的沟通能力；\n10)具有较强的学习能力，能适应较大的工作压力。",
+      "encryptAddressId": "6337a413b431d2e833B62dS0FVA~",
+      "address": "柳州鱼峰区柳州市东方国际大厦二单元10-02",
+      "longitude": 109.440879,
+      "latitude": 24.319694,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/500760b88714b0536515a46274cf79db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a1e2f44df4c9eb656a808354f8854c6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "MySQL",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "兰女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "万狐",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "008027008db06fa61nd-2ti8EVQ~",
+      "brandName": "万狐",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722257694556,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万狐",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

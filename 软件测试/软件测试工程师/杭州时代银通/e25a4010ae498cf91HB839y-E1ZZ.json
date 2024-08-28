@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Q4R2UMQrKD0Ul-x1HZZ7zBKEfGjLBR2W2gtGKZ9k6Qv7nr_iW2WuuTeRzEWVryI_v_eLuXFD6__B2pDpP6CY8ZCjWuiOHTn9RGZrd7ymbtDlJV2sft2-N9pwSCrdVm8wOW2SPXUq3HYmITfB6qY~",
+    "securityId": "eYCcRl-qVEXpl-H1sfZtJDoMmkKP7KPvrczeB6LOp_mim6u4Qyn03rHQfKgpdUjVKiqgSdxYeJWGSVESiZwT-acHVa1UZisy97n9q9zgaxxTd7z8J8Cqwp-LZyMotq-x41BJbo4V367JMS1-0NLrrKzFY_2xQeLVQnKw2x4qR8UYbrmn",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210329/335e4b016092666e426f5e00746f843900e9daa287efb3b6b937bfc358e_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "杭州时代银通",
       "bossSource": 0,
       "certificated": true,
@@ -77,17 +77,17 @@
         "生日会",
         "团建多多"
       ],
-      "activeTime": 1724665609851,
+      "activeTime": 1724819270055,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州时代银通",
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

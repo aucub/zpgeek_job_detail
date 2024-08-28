@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eqGE92yr-Zmsp-i1-i4Eg8hKgwCiPis3PhT2ulAMIvE6nn04W63sHH8UqdJjyM-bqAGg08C-Ib_OClKDy9KcrpWkJiMtSC8-DYgBw8aIlzyMwGSpozdb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a61d8dd58fcd0ef01Hd83NS4GVBV",
+      "encryptUserId": "8917a92f1d70b9f90nR509q0GFNS",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用开发框架：springcloud、springboot、springmvc、ssh、ssm\n2、精通mysql、oracle数据库\n3、精通中间件：rabbitmq、nginx、redis\n4、熟练使用：lucene、elasticSearch、rsync\n5、操作系统：Linux常用命令及注意问题\n6、掌握常用的设计模式，有一定的产品设计意识\n7、有对接第三方业务工作经验，有一定的金融、电商工作经验\n8、要求至少有3年开发经验",
+      "encryptAddressId": "5edbc6f771b4b8851HJz2tm0FQ~~",
+      "address": "贵阳观山湖区观山湖区富力中心A5座702",
+      "longitude": 106.620211,
+      "latitude": 26.650532,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b141d996c9b4b51db33714b2e9b182a1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12d708176598c16adce4a150e98317ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL",
+        "Spark",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "贵州天宇盈融公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ec66bd19588c92d1nZ409u9F1c~",
+      "brandName": "贵州天宇盈融公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220608/7bf6f160950405e9545f5ff9298479b16f0022f07f7df9865b7db3d64e936e1386088ac666d6a469.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722242071160,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贵州天宇盈融公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

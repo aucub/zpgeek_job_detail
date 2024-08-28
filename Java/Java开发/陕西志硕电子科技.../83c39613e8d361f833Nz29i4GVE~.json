@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WvItIwaNxZJfO-l187mWRya9O9-ALQ3hBgZNNik3XiUj-aAw38nGYRfmncWQN2I3MzjAEKLQ_wjVPjJ4ED9BT4nbX6NVW4MDm6RABvIRYiMpffJeRsW9_2AZDnQzb9SvFQkah-pxiOo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "83c39613e8d361f833Nz29i4GVE~",
+      "encryptUserId": "c249460d232e0c6a3nN639S_GVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟练掌握Java、Spring、Mybatis等相关开发技术\n2. 熟练掌握常用的前端技术JavaScript、Jquery、HTML、CSS等，有vuejs或微信公众号、小程序开发经营者优先;         \n3. 有基于SpringCloud等主流框架的项目开发经验，有微服务架构经验优先；\n4. 熟悉分布式系统的设计和应用，能对分布式常用技术进行合理应用，解决问题；\n5. 熟悉Mysql、Redis等主流数据库的使用；\n6. 熟悉Linux、Nginx、Tomcat等应用服务器；",
+      "encryptAddressId": "e51cf236a42f06a21HV92d60FFE~",
+      "address": "西安新城区裕朗国际大厦818",
+      "longitude": 108.964707,
+      "latitude": 34.265508,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7030cbb19d4f8845b75e183f9bd5ac14",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1641620784fd4b77ffc13fca3b8f682f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "JQuery",
+        "Spring",
+        "小程序",
+        "JavaScript",
+        "Java",
+        "软件工程师",
+        "互联网医疗"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200306/245876d43833a1d0dba1b4ce9ee6575998423d93f8f0d9336499e980bb4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "陕西志硕电子科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a1c985e91ade95c50Hdy3N61GQ~~",
+      "brandName": "陕西志硕电子科技...",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1722228919792,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西志硕电子科技...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

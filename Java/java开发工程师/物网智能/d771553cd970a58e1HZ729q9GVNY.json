@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pGRfuFcBzJKeS-N1CrYJ3QpmonCQbQoLZJPjX98TM4PAfhCV-uPza8ZZd97j7y8lQBYk4Wu4VNJxEGBQ0BmFm04efy-g-HdUBzecLdF_2a5LxM-dGQ0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d771553cd970a58e1HZ729q9GVNY",
+      "encryptUserId": "16d3237c0de919ae0nB_2NW7FVdV",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281600,
+      "locationName": "东莞",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责PC端、移动端（APP内H5页面、小程序）的前端的开发和维护工作。\n2、与团队协作完成系统的联调、测试、部署等工作；\n3、负责JAVA后端的开发和维护工作，以及后期优化和迭代开发等；\n\n任职要求：\n1、全日制本专以上学历，计算机软件相关专业，1年以上相关工作经验；\n2、JAVA基础扎实，熟悉J2EE规范，熟练使用主流J2EE框架；\n3、有良好的数据库基础，有NoSQL和SQL数据库的实用经验（MySQL, Redis 等）；\n4、熟悉VUE框架、MVVM开发模式，熟悉Javascript、TypeScript，具备独立实现页面能力；\n5、工作积极，具备较强的逻辑推理能力、团队协作能力、沟通能力；\n6、具备独立完成功能需求开发经验；",
+      "encryptAddressId": "e38037164957df5b0XF93t20F1M~",
+      "address": "东莞中天国际金融创新园联合金融谷16栋806",
+      "longitude": 113.888435,
+      "latitude": 22.944973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f8e8b9667f7f5cbc8a68bb1807785fc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e27fcc4fff699b26b0c40ad10c07d1a1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "物网智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f6fa0fc3e5a4d1ce0XB42Nm6EQ~~",
+      "brandName": "物网智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200304/d63167f7aab87061aeb6f899e5f581fb60cde55414060be21a23e5e3ec5581f9_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "广东物网智能科技有限公司\n(GuangDong WOW Smart Technology CO., Ltd.)是国家高新技术企业以及专业的智能化信息系统集成解决方案供应商，公司主要从事以智能建筑技术为核心的智能化工程业务、以物联网和软件技术为核心的信息系统集成业务，致力于推动建筑智能系统、工业智能系统、信息系统集成、APP软件定制的技术研究开发和系统技术应用，为用户提供从需求调研、系统设计、项目实施、软件定制、系统运营、售后服务等整体式集成服务。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724854632583,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "物网智能",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jRa9ltznuExOm-d1fWOLhzi4ekxGQFB5DPAl_ANCuQgVb261qCKImoX1zYGI668jDzW_9frBBnwrWVp3OjGCM769rcP3fY4hyw3r93GIOqmT1fqCWA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "91a0baa61aff38df1nF_2tS6FVNZ",
+      "encryptUserId": "4becd9540d9f829e0HRz2tm-GFc~",
+      "invalidStatus": false,
+      "jobName": "JAVA开发中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "1 熟悉Java面向对象，多线程，常用的设计模式\n2 熟悉spring spring boot等常用框架\n3 熟悉前端vue等开发框架\n4 了解基本的数据查询优化\n5 能接受外派",
+      "encryptAddressId": "a17a927f864ef00103d82969EVU~",
+      "address": "上海浦东新区证大五道口广场1号楼大地",
+      "longitude": 121.549974,
+      "latitude": 31.226769,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a0878dad4ef701d708c1fde8fc179634",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7ec3ab2e44c741f34bd54a00e7251343",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190725/c6d851fd74757c0f41cd8fd40dfbab6de94e9148259d553586010cccc52_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "飞畅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d437118fba2f6e180nZ429u1GA~~",
+      "brandName": "飞畅科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190727/c6d851fd74757c0f41cd8fd40dfbab6de94e9148259d553586010cccc527718b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "常州飞畅信息科技有限公司是一家创新型互联网企业，位于江南、长江三角洲中心地带，长江三角洲地区中心城市之一的常州市。飞畅科技成立以来专业致力于互联网服务，以软件定制开发为核心业务，UI设计、文案策划和视频处理为辅助业务。同时配备互联网服务全体系解决方案。飞畅科技以市场发展为导向，以实体经济服务为入口深入研究，以专业的团队为商户带来优质的服务。 旗下“企汇云”可视化项目保障交付平台，是国内首个采用在线项目管家式运营的以“可视化流程对接”为基础，以“管家式保障”为核心的项目服务交付平台。企汇云打破了传统软件公司项目对接的限制，“企汇云”以标准化流程，高品质产品满足企业项目服务快速对接。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724148319000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "飞畅科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

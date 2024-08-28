@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TP2KQtbXysUqN-L1w-XljkV2YwWnvEQRJmK8n2MV2F3QqlQvjkaJMgSOZLWyceLtuZhdoawxxtcaUFedZ3O5m0NFlXqOHBS5zk_6LTxG9ove92oLdE_0RvjvQYxREJ2I2by1MFmuRBM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c96f590db31122461nV83d27GFRX",
+      "encryptUserId": "a3557461b443cd0c03J-2dq0FVQ~",
+      "invalidStatus": false,
+      "jobName": "爬虫工程师-杭州 - 用户体验中心",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-3K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n- 负责指定的网站进行页面抓取、数据清理提取；\n- 参与已有爬虫系统中作业的检验，设计和优化爬虫策略，充分利用已有服务器和宽带资源进行优化；\n- 针对APP数据进行抓包分析，爬取APP数据并整合存储；\n- 对大规模数据进行处理和简单分析。\n职位要求\n本科及以上学历，计算机相关专业；\n- 掌握Python等编程语言，了解多线程、多进程、网络通信等编程相关知识；\n- 掌握网页抓取原理，了解TCP/HTTP协议、Html/Js/Css、Ajax等技术，熟悉一般的网站登陆原理；\n- 具有实际爬虫开发工作经验，熟悉常见爬虫框架和工具，比如pyspider, scrapy和Selenium等；\n- 了解爬虫框架原理、有过APP抓包分析经验者优先；\n- 具有Hadoop、数据挖掘、自然语言处理等相关经验者优先；\n- 能够快速学习和掌握新技术，优秀的分析、解决问题能力，具备团队合作精神。",
+      "encryptAddressId": "827e5f4ab26c11ff1HN609y6EVI~",
+      "address": "杭州滨江区网易大厦599号",
+      "longitude": 120.190729,
+      "latitude": 30.187795,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fb9bb4077fed0a96d98c843011333f8a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98518b54edf7b83dd1374bb9c968c761",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "梁女士",
+      "title": "招聘者",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=7ed65cd7adbbc05ejzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd5dn3V0vdgqv91nGwfrnbIyNO2jf8JU5Lu5WTh9MQ1W9iNYrK3zRiRNRrXgX0NuxtlJSgDhz60O_ggcA9ax3XcrACFF8E-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网易游戏",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1f9c13f93a2492291XRz39S1",
+      "brandName": "网易游戏",
+      "logo": "https://img.bosszhipin.com/beijin/logo/4df703a54b298bcf81a16be0c0b582bfbe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "网易 (NASDAQ: NTES)是中国领先的互联网技术公司，在开发互联网应用、服务及其它技术方面，始终保持国内业界的领先地位。网易对中国互联网的发展具有强烈的使命感，网易利用最先进的互联网技术，加强人与人之间信息的交流和共享，实现“网聚人的力量”。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "餐补",
+        "交通补助",
+        "包吃",
+        "节日福利"
+      ],
+      "activeTime": 1722231054674,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网易游戏",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

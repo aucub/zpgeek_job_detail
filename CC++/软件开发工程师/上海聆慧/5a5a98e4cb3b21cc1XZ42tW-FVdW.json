@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jZc35eM6HKZmh-c11_HfNC8ASOlN9GOzCFQsMyV-zdPeF0gxKQI_X1HWUbrnikqZdjrl2ZWYWio7vsQGNcjX7ykofmEmJHmjAghV3Dfh2uniBCkRd7RJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a5a98e4cb3b21cc1XZ42tW-FVdW",
+      "encryptUserId": "50029e853b69aa9f0nV50tm6EVpR",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1.负责前后端功能模块的设计、开发、维护、编写文档工作；\n2.根据开发进度和任务分配，独立完成相应模块软件的设计、开发、测试任务；\n3.在项目的不同阶段，与甲方对口用户进行良好的沟通与协同，共同完成项目的需求、测试、上线及运维工作；\n4.独立完成软件开发过程中的问题分析和解决；\n【任职要求】\n1.学历：本科 及以上学历；\n2.专业：计算机、软件工程、物联网工程、网络工程、自动化等相关理工科专业；\n3.语言：有C++/C#相关知识和项目开发经验，理解面向对象开发；\n4.数据库：熟练掌握至少一种数据库（MySql、SqlServer、Oracle、DB2等），能熟练运用SQL语句；\n5.操作系统：熟练使用Linux/Windows基本操作；\n6.综合：能接受外地工作；思维清晰、敏捷，能够快速学习；具备团队合作精神，有良好的表达和沟通能力；对工作热情，有一定的抗压能力；有责任心和独立分析问题能力。",
+      "encryptAddressId": "5dde8ee2f24851150XR60tu0EFM~",
+      "address": "上海宝山区智慧大厦智慧大厦18楼",
+      "longitude": 121.458217,
+      "latitude": 31.348607,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4c59075c7fef8e97ad36a67b8ae6b77f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6af8725b0f1440ad13ab16be67d2507c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "C语言",
+        "Linux",
+        "MySQL",
+        "计算机相关专业",
+        "Windows",
+        "SQL Server",
+        "Oracle",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "史先生",
+      "title": "企业hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210119/b6f5dcf656f4a855d147dc38dbe47571b4c6ba2e69417c255b1b7931060_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海聆慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "328073ce0b29bccb1XV62t--GVQ~",
+      "brandName": "上海聆慧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722234728602,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海聆慧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

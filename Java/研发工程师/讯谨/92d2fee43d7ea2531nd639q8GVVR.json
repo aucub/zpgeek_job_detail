@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vuBgfP3DCLgBS-C1RdpFzXp8xlUmy5PX2FKM4BV2LZ6z-AgL07iPGq7zpXeoYClGnATUkPtzjF3plp_O97bsmfDgPD4jbhd1knSIbVfPtwCECtMgNvTN",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "92d2fee43d7ea2531nd639q8GVVR",
+      "encryptUserId": "afdbd29d3351664b0nVz29m9EFpV",
+      "invalidStatus": false,
+      "jobName": "研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.负责根据软件需求完成系统设计、接口设计和数据建模，并撰写相应的技术文档;\n2.能独立完成相应系统的核心编码工作和单元测试;\n3.能独立解决开发中遇到的难点问题;\n4.参与系统稳定性、性能和扩展性调试;\n5.能按时按量完成上级安排的工作任务和目标;\n6.参与/负责产品系统模块功能设计开发。\n\n任职要求\n1.计算机或者相关专业；\n2.熟悉/精通Java开发，掌握多线程，集合，IO等基础;\n3.熟悉/精通springBoot、springMVC、spring、mybatis、mysql、redis、shiro;\n4.了解/熟悉linux相关操作命令；;\n5.熟悉微服务架构\n6.最好具有SaaS多租户模式的开发经验\n7.熟悉MySQL应用开发，熟悉数据库原理和优化技术;熟悉NoSQL、Queue的原理、使用场景以及限制\n8.态度积极乐观向上，工作认真踏实、责任心强，沟通能力强，抗压能力强，自学能力强，具有良好的团队合作精神。",
+      "encryptAddressId": "f64504e88f851f7003V60925FFA~",
+      "address": "上海闵行区阿拉城3号楼",
+      "longitude": 121.373745,
+      "latitude": 31.177126,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/38b5088654dd7126f90462621b0d92b1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/719d30e22c8296fa67f19ac396634bf2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "MVC开发",
+        "Spring",
+        "Redis",
+        "NoSQL",
+        "MySQL",
+        "架构师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁女士",
+      "title": "HR专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "讯谨",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ebc83f7d5e3d42f21nB53tS8FlM~",
+      "brandName": "讯谨",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210311/381e98cb6cd2b48a533a55f04a62da8b332a0df07e31a4462ede7851af953bdf.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海讯谨信息技术有限公司（以下简称Infoclue）2015年成立于上海, 专业从事信息技术领域内技术开发、技术咨询、计算机软件开发、信息系统集成服务、计算机网络工程.”Infoclue团队来自于对于前沿科技疯狂的“技术控”，拥有严谨的作风、超前的技术视野、刻苦的专研精神，精密而有效地相结合，让每个项目更完美出色的展现在客户面前",
+      "labels": [],
+      "activeTime": 1722244146165,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "讯谨",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

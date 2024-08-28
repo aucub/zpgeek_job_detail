@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WenYsEkKOnMAB-L1gJk-_T0K-ojdNdg8JvkY0bjEdjOI6WozgZgcQcFpQ2sgLstHvl1m-uck6EpydZneu5wUZu6npwMlfiR-MSMPv6_wGAf_BOlhTL0j4YnRiIZNg_64Qyf03mK78wM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0a170dea3288e1661nx72d27GVRT",
+      "encryptUserId": "15de82a6da8755961nVy2NW-FVA~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责研发公司应用软件的模块设计、开发和交付\n2.负责编码,单元测试\n3.按照功能组件的详细设计\n4.对其他软件工程师的代码进行审核\n5.对新产品提供技术评估和方案架构设计\n\n要求：\n1.Java语言，深刻理解面向对象思想，熟悉常用项目构建工具\n2.全日制本科及以上学历，计算机及其相关专业，学信网可查:\n3.熟练使用主流开源框架SSH， SpringMVCMyBatis\nSpringBootSpringCloud等;\n4.熟悉Mysql,ORACLE,mongodb等数据库，并有 NoSQL(MongoDB等)使用经验:\n5.熟悉Tomcat,Jetty和Nginx等应用服务器软件，及Redis,Kafka RabbitMQ等中间件:\n6.熟练使用Git,Subversion和 Maven了解JIRA.Confluence等工具链:\n7.计算机相关专业，有电商，金融经验优先",
+      "encryptAddressId": "4b614339a0c2b4411nd_39u1F1Y~",
+      "address": "厦门湖里区厦门青村国际青创社区5楼507",
+      "longitude": 118.117914,
+      "latitude": 24.539588,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb27c611e4815c59786875f3ae45ba21",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ce5103453599196280a648ad05ab4a8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "全栈工程师",
+        "团队管理经验",
+        "不接受居家办公",
+        "分布式经验",
+        "中大型项目架构设计经验",
+        "SpringCloud",
+        "分布式技术",
+        "Redis",
+        "SpringMVC",
+        "SpringBoot",
+        "Spring",
+        "后端工程师",
+        "计算机/软件工程相关经验",
+        "SQL",
+        "Java开发经验",
+        "Elasticsearch",
+        "MySQL",
+        "JavaScript",
+        "架构设计经验",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220929/607f1f3d68754fd0b2e2badc8652c2d362331f717f96c681ffe344233ffa00924dcdf967bff_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "微赞科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3c78121aaa9a5bf50HR539W_",
+      "brandName": "微赞科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170914/cd9dc992d47265d619c6b8f67b4520ecffe344233ffa00924dcdf967bffd2474.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "股票期权",
+        "员工旅游"
+      ],
+      "activeTime": 1722228839911,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微赞科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

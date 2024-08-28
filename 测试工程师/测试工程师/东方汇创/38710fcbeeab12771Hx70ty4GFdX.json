@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KrumCmxIMwwyq-G1r4LIoEyC3Vrj98nykHkeE_h6M8A0Zz9T9gRNLYZhD87c4ABMgLbwKMcgd76vKQSWa8qRMA2f8HWKQZb9Hs-bL3Su8EeKv8oA5IWN7yaHQwYwvaGCqfJbYGS0WkcO86gbvnp_gMs8Vmj9N4DEAsjSZ1I6Gaku19w~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "38710fcbeeab12771Hx70ty4GFdX",
+      "encryptUserId": "e47a6d7b3fd2588803R42Ni5EFc~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据需求文档进行需求分析并设计测试方案及用例；\n2.准备测试环境，设计测试数据，实施和执行功能测试，完成集成测试与系统测试；\n3.对软件bug进行跟踪分析和报告，协助开发人员分析bug原因；\n4.负责与开发、测试人员沟通测试进度，测试结果；\n5.对产品的软件功能、性能及其他方面的测试进行总结分析，提交质量报告；\n6.协助处理测试相关的重大问题和突发性事件，按时完成领导交付的其他工作；\n7.有编写测试工具辅助测试工作的能力。\n任职要求：\n1、熟悉软件测试流程，具有3年以上软件测试工作经验；\n2、熟悉常用的linux 命令、shell脚本；\n3、熟悉数据库（mysql 或者 oracle）的基本操作；\n4、熟悉Python、Java等至少一种编程语言；\n5、熟悉postman、wireshark、Jmeter等测试工具的使用；\n6、本科及以上学历，计算机相关专业；\n7、有主动性，强烈的责任心和较强的沟通能力。",
+      "encryptAddressId": "56f6810de2d2f6301HB50ti7FFI~",
+      "address": "北京朝阳区鹏龙大厦鹏龙大厦",
+      "longitude": 116.460139,
+      "latitude": 39.873955,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f0218895cda6fb631bc68812ddccd2c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/944820631a51e559e5194f09f0101b2a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "霍先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "东方汇创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e29210a70c126e991HR_09S6",
+      "brandName": "东方汇创",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724839361167,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方汇创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

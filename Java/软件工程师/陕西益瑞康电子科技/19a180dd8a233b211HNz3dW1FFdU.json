@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KACFzeU54zEjc-T1Cr4SDmHY5aGlZzqGcFHvtP142wkvFIYCeyqM-B2YIZa-gsGtwPdo1sAZwOC68Zxy1-iCEVc-jn5t8u79CKaVdop0-i-WwlxTZacCEJ_gs6sy70vZLA9MeKDFY1uE65U~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "19a180dd8a233b211HNz3dW1FFdU",
+      "encryptUserId": "2d5d46b4d416960c0XN60926FVNW",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110200,
+      "locationName": "咸阳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "做过商城类的开发工作优先\n【岗位职责】\n1、参与系统需求评审，与技术方案的讨论；\n2、按照自己任务，列任务排期；\n3、定义接口文档；\n4、开发和测试；\n5、系统维护工作；\n\n【技术要求】\n1、3年java开发经验，计算机相关专业；\n2、精通sql语句，对sql查询优化有丰富的经验；\n3、精通java编程语言，熟悉多线程、线程安全、异步处理等机制，熟悉jvm原理以及运行机制；\n4、熟练使用idea开发工具以及git或svn源码管理工具；\n5、熟练用springMVC、springBoot、myBatis等流行开源框架；\n6、熟悉restful标准；\n7、熟练mySQL或postgres数据库；\n8、熟练使用gateway、nacos、mybatisPlus、feign、forest、actuator、sentinel、rabbitmq、redis、nginx、xxl-job、minio等；\n9、了解css、html、js、jquery等前端开发；\n10、熟练常用的linux命令，能够在linux环境下部署应用，排查问题、优化程序；\n11、熟练docker、jenkins应用服务器的环境搭建及维护，及系统性能优化；",
+      "encryptAddressId": "46fbb94011af0c0e1nV53t25FFJVwIy2Wfyf",
+      "address": "咸阳秦都区中韩产业园A区305栋6层",
+      "longitude": 108.638619,
+      "latitude": 34.286178,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf1900b91e0cdf46687957bdd190db6b776bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8a5d966a730400bf94aec6c82424fbca6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C",
+        "PHP",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "区块链经验",
+        "uni-app",
+        "h5",
+        "安卓"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "陕西益瑞康电子科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c50ecb563bf2a66b1HJ-2t--E1E~",
+      "brandName": "陕西益瑞康电子科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101001,
+      "industryName": "食品/饮料/烟酒",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724807216070,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "陕西益瑞康电子科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o7FBqXAuTfz3k-J1ij-0BWU7kWnV0OQSEgcBiCZ36_PgjwPTriNE51DxrDk9aCyB7BAT7BIEANHXYX7VjjlHqGed9kdBBpIFDRRYL5Fld2L0BCLRMMU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2a9a76f8241c80d81Xx82dq0FlZQ",
+      "encryptUserId": "fa215da5bde211f50n1y3N66FFJS",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责各类数据的采集、爬取、接口调用接入，清洗、转换、融合入库以及数据处理性能调优等工作；\n2、根据业务、产品和项目相关需求，负责数据验证、数据管理、数据服务接口、数据分析等功能的开发维护工作；\n3、根据产品和项目需求，负责Python Web开发维护工作；\n\n岗位要求：\n1、计算机相关专业本科及以上学历，2年以上相关工作经验；\n2、熟悉linux平台，熟练掌握Python、SQL、ETL数据处理开发工作；\n3、能够熟练使用Redis、MySQL、Mongo、ES等数据库工具进行数据处理开发和维护工作；\n4、熟练掌握数据处理性能调优，数据清洗、转换、整合等数据管理和维护工作;\n5、熟练掌握爬虫采集技术及架构设计；\n6、熟练掌握并使用过 Tornado/Django/Flask 等 Web 框架中的一种，能够基于该框架快速实现相关管理和分析应用；",
+      "encryptAddressId": "fc7ae2b4f30f3d813nV_3dS_E1I~",
+      "address": "合肥蜀山区蓝海国际大厦B座18楼",
+      "longitude": 117.232939,
+      "latitude": 31.819732,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf748a651c21c718b316feed9c73e693466bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230516/48ba41acc9cef1bf194d6d925b2c2ec393c033cd5f7fc7396bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫经验",
+        "数据开发",
+        "Elasticsearch",
+        "MySQL",
+        "后端",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "信息技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "安徽经典公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b61b7ff2126db0e71HB43Ni1FA~~",
+      "brandName": "安徽经典公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200730/868e4cfd5c80e2693897d3c10d19fe8064bde0f9045989d3ee52feb8336aafbb_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "安徽经典市场调查咨询有限公司成立于1999年，是国内较早的市场调查咨询企业, 是中国信息协会市场研究业分会首批会员副会长单位。成立20多年来，公司致力于市场研究、咨询与第三方评估服务，已于国家统计局、中国科普研究所、零点调查、益普索等调查、咨询单位达成长期战略合作关系，因发展需要，诚邀各类人才加盟！",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金",
+        "双休"
+      ],
+      "activeTime": 1724730065948,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安徽经典公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

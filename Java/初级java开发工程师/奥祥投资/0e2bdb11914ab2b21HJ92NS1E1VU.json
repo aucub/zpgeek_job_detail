@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VMc7-9k9omof--L1jowuPaVVD5c5kBamB8RUpwzJcJyU13YpnKIJynmWva5r2j29tJ13hAr7yiOI-9EiCzisngUwCqblhA3GC78McTZa35apDY2PUmVc",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0e2bdb11914ab2b21HJ92NS1E1VU",
+      "encryptUserId": "1f3156ca77da3d2f0nd73ty-GFFR",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 系统设计与架构\n参与系统的整体架构设计，确保系统具有高可用性、可扩展性和高性能。\n-制定技术选型方案，选择适合项目需求的后端技术栈和框架。\n2. 数据库设计与管理\n 设计合理的数据库结构，包括表结构、索引、存储过程等。\n负责数据库的优化和维护，确保数据的安全性和完整性。\n3. 接口开发\n 开发稳定、高效的 API 接口，为前端或其他系统提供数据支持。\n定义接口规范和文档，保证接口的易用性和可维护性。\n4. 业务逻辑实现\n 按照业务需求，实现后端的业务逻辑处理。\n确保业务流程的准确性和稳定性。\n5. 性能优化\n 对系统进行性能测试和分析，找出性能瓶颈并进行优化。\n提高系统的响应速度和并发处理能力。\n6. 代码质量保证\n 编写高质量、规范、可维护的代码。\n进行代码审查，确保团队代码的一致性和质量。",
+      "encryptAddressId": "cf4997a9aed72f243n1839q-GVdWxoS9V_0~",
+      "address": "广州海珠区富力·天域中心10",
+      "longitude": 113.273827,
+      "latitude": 23.095424,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf3043356f2b350e5072ea8f47baf1c8366bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf3d349cafe2d381811c141fdca5dfa4396bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210515/96616a2fd15a48a179396b84f6f3ca39578abc518ccc5949401ff64ab79_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "奥祥投资",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8dc72d74252379f31Hd53tq0FFs~",
+      "brandName": "奥祥投资",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240523/7bf6f160950405e915eabf6bbda14a04350f9e5e65e3814a1328e23c0a4253a214ca71c3df99ccb8.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "公司名称： 广州奥祥投资集团公司\n成立年份： 2023\n业务范围： 商务服务业(具体经营项目请登录国家企业信用信息公示系统查询，网址:http://www.gsxt.gov.cn/。依法须经批准的项目，经相关部门批准后方可开展经营活动。)",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "加班补助",
+        "企业年金",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1724745335330,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "奥祥投资",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

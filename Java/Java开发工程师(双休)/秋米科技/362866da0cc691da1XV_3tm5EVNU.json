@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Jv6Y4niXaFn4F-B1Rhp9Pry7RtYM_2OwZOLfUAH_PxSbJyXPjoRRe9yXwnvEMbnoeLXpepjy5gXCT6e7bpANlNdan9UDolQStbBCmlOqWeACDUwoEmOJLwqcl2Vo3CXxFvRfGzO1sV3L9W0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "362866da0cc691da1XV_3tm5EVNU",
+      "encryptUserId": "20261c060c81cac70nd73tS_GFdU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师(双休)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210700,
+      "locationName": "温州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：(侧重技术方案编写)\n1、主要从事JAVA系统平台应用程序的开发及测试；\n2、独立完成所分配的软件开发任务；\n3、协助分析设计人员完成类设计工作；\n4、根据开发流程要求完成相应文档。\n\n任职要求：\n1、本科计算机类相关专业， 一年以上工作经验；\n2、熟练掌握Linux操作系统，并能熟练掌握Git等工具；\n3、精通java编程语言，具有企业级Web应用系统的开发经验；\n4、熟练掌握MySql、Oracle等数据库，sql语言，索引、过程、触发器的使用；\n5、精通B/S架构开发，熟悉主流开源框架，如SSH、Spring\\SpringMVC\\Mybatis\\Hibernate等，了解其原理和机制，熟悉webservice，rest等技术；\n6、熟悉RabbitMQ、ActiveMQ、RocketMQ 、Zookeeper 等至少一种中间件；\n7、熟悉redis、mongodb 等至少一种nosql；\n8、熟悉JSON、XML等数据交换格式；\n9、具备良好的沟通能力；对新技术敏感，有良好的学习能力；\n10、能够阅读相应技术资料，按照要求编写技术文档；",
+      "encryptAddressId": "b7895dd50ee504990nR_0t29GFY~",
+      "address": "温州鹿城区中通大厦(新城大道)16A",
+      "longitude": 120.703701,
+      "latitude": 27.998476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f56f60fbc263da828fb4ba34a9cee47a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e0367a0a229006f8822c91a07d92a4a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Maven",
+        "Linux",
+        "IDEA",
+        "MySQL",
+        "Redis",
+        "SpringBoot",
+        "后端开发",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "崔先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "秋米科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6561f99aa5e27b131XR-3Nq7E1c~",
+      "brandName": "秋米科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "经信工业大数据平台软件开发，交通行业应用软件定制开发。",
+      "labels": [
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "年终奖"
+      ],
+      "activeTime": 1723510939000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "秋米科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

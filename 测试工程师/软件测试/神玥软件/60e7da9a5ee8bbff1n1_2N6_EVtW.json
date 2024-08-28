@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "vsMZ4jN2E0aar-21gt9aSOyloOcg-1KQcs--jqnvhG_OZENnfCXZyEcWYzURkKc5yYyTyI1QuqI1teEp6ynv67wmG8K3aLM0aX3qwU7DNpGY8yUGV3WC8_TDJDHs2bgkLI1Wd_CffRrT7Q-A9DKvGn0mj8QZbDWNhWM7ai1b7Y9F9Lc~",
+    "securityId": "XjM0V4DURK55n-I1pJTV_DIWrIOnBETjeVwuMzNsLCQ2cJ-J6HBlonZN8AWrhzZToCgWGb2hRRsoXUYMr1Vfuix7Lk0NanLImpAX_s-W4yQ26mejxZHBUFsECiiwkZD-oS7xkMAJcOag9CT-V8Lq",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "性能测试",
-        "功能测试",
         "系统测试",
-        "压力测试",
         "Linux",
-        "MySQL"
+        "性能测试",
+        "压力测试",
+        "MySQL",
+        "功能测试"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -49,7 +49,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240528/607f1f3d68754fd07beac7a774c607528835a8bd2833d1e8146c5ba4eddfc0b5b8b7d03028c1560_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "神玥软件",
       "bossSource": 0,
       "certificated": true,
@@ -76,7 +76,7 @@
         "节日福利",
         "住房补贴"
       ],
-      "activeTime": 1724143803930,
+      "activeTime": 1724838879645,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "神玥软件",

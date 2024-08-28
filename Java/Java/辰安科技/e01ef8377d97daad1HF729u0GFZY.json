@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5LiuzMoM3kGiA-v1P5Naq3Mwi-0D5l-wQBmv9C_ahWp_2RcBbNI8AcQ2MmK7UjdebutlmCUNnqHnyuth3JzYRFvxRz1DrVWCIFovK4rFQfsGtpPFwbjK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e01ef8377d97daad1HF729u0GFZY",
+      "encryptUserId": "067899143c37bee20XZ80tm7F1pV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位名称：Java开发工程师\n\n职位描述：\n- 使用Java Spring Boot框架开发和维护RESTful API。\n- 参与系统设计和架构，确保系统的可扩展性和稳定性。\n- 与团队成员合作，进行代码审查、性能优化和故障排除。\n- 不断探索新技术，提升应用的功能、性能和可维护性。\n\n职位要求：\n1. **教育背景**：\n   - 本科及以上学历，计算机科学或相关专业优先。\n\n2. **技术要求**：\n   - 熟悉Java编程语言，有Spring Boot开发经验。\n   - 熟悉关系型数据库，如MySQL、PostgreSQL或瀚高数据库（HighGo Database）。\n   - 了解Redis等NoSQL数据库。\n   - 熟练使用Git版本控制系统，了解branching model和rebase操作。\n   - 有RESTful API设计和开发经验。\n   - 熟悉前端开发流程，具备一定的前端开发经验。\n   - 可以阅读英文文档，在英语开发社区（例如GitHub Issues、Stack Overflow）中寻找答案。\n\n3. **软技能**：\n   - 良好的沟通能力和团队合作精神。\n   - 积极主动，具备较强的学习能力和解决问题的能力。\n   - 对新技术有强烈的好奇心，愿意在业余时间学习编程。\n\n4. **优先考虑**：\n   - 有实际项目开发经验者优先。\n   - 熟悉Linux操作系统，有一定的Shell脚本编写能力。\n   - 了解微服务架构和相关技术栈（如Docker、Kubernetes）。",
+      "encryptAddressId": "b7b4439bf507ffb01ndz2tu8E1VQ",
+      "address": "济南历下区华润置地广场6号楼907",
+      "longitude": 117.098234,
+      "latitude": 36.676142,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bfe0ceb3d8cdaa3e27ee512f68d4d3b3a66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf3693cbb50c7cf6e1b34271440bc404fe6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "SQL Server",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231120/607f1f3d68754fd0dba171a49c3a4a943bf4607cefa849359c70b6851133017495306059ea03000_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "辰安科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff28a234a9998ab21XZz3Nu8Els~",
+      "brandName": "辰安科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240605/7b5b554d84f9729cb8577338c5bc060587a59de5846650fc9c70b6851133017495306059ea030006.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司是一家以软件技术开发、咨询、交流、推广为主的公司。拥有专业的技术团队，致力于政务服务行业。公司的主营业务有软件技术开发",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1724840621133,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辰安科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
