@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cLGnynZxwtnW6-31GcMljR9D7XG7b3X-2peB1NBOBRqZcFLobqr2Iz7eTCNtfrZLt1juX39grIGCjAeqzsPJju3y3OottHC-dTOH7ZFPiFC0Z-EazgQW2IxvNzdun4UAZgxfHMFengRXZCo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e86e24a6b26ca971nN-29i_GFRV",
+      "encryptUserId": "a7b67f24109138650nZ709S5E1ZU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120300,
+      "locationName": "淄博",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格：\n1.统招全日制本科及以上学历，计算机、软件工程等相关专业；\n2.具备良好的java基础，掌握java主流框架：spring，spring MVC，spring boot，spring cloud，hibernate等，有良好的编程习惯（命名/注释/排版/效率等）；\n3.熟练使用关系型数据库（Oracle或MySQL）；\n4.熟悉Html、Ajax、Javascript、VUE等web开发常用技术\n5.熟练掌握Linux系统操作，具备一定的运维能力和运维经验；\n6.沟通能力良好，能够主动沟通需求描述疑点，对需求能够提出自己的建议；\n7.具备一定的代码调优和sql优化的基础和经验；\n8.有微信接口、安卓、IOS APP开发经验者优先;\n9.有良好的代码习惯，要求结构清晰，命名规范，逻辑性强，代码冗余率低。",
+      "encryptAddressId": "b04e13a61532f4380Xd93di1F1A~",
+      "address": "淄博张店区鸿翼创谷·世纪天鸿创业孵化平台305",
+      "longitude": 118.079879,
+      "latitude": 36.857763,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/131eef62d0c1be0a4d91098302cabf90",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c942038444e06cf05ff12848a6b56a24",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "SpringCloud",
+        "Redis",
+        "MySQL",
+        "微服务经验",
+        "分布式经验",
+        "vue"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "于女士",
+      "title": "人事管理",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=a44b2f069d13af94jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95dn3R05Np5vYxpS1O0mb01Z-r3KcJV5Lu5V2J6ZgtT9iRf9vv0QiccFbG2WhI4wdEdSlzmzvwOrA9KUIHl3HQrUXVG9iCObJX_xJtzFe9Z2-ZevUGOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "默晓科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9728823609c03ba91nN92d66GVM~",
+      "brandName": "默晓科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220729/7bf6f160950405e9b27aa0c9d895352ce92f8f00b4957cd12c3ade6a1927d7620ca7bc6470d476f7.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "山东默晓信息科技有限公司是一家快速成长的技术服务企业，作为一家面向全国的IT技术服务及行业解决方案提供商，公司为客户提供物联网开发、企业信息化建设、应用软件定制、移动应用开发及线上互联网推广等服务\n自成立以上，公司始终坚持“诚信为本，服务至上”的精神，想客户之所想，努力为客户提供更准确、更完善的技术咨询与技术开发服务。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724809206956,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "默晓科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

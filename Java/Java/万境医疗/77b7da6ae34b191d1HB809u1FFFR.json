@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "16fgUrwZdwGv_-U1Vy9Dbx4xWncY2yYN2QCOzcX3InKajghX1W4xIFiFSPrU49gTuPA46gTaeANtz_SXvi_6E15K9afj1RuL6SwSJ3Wi3OLzEsK0k0X_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "77b7da6ae34b191d1HB809u1FFFR",
+      "encryptUserId": "e2e3d2d4372854770nJ-39W9E1dU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281900,
+      "locationName": "揭阳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与公司产品和项目研发功能模块的需求分析、业务功能设计及核心代码实现；\n2、参与系统设计文档，完成必要技术文档的编写；\n3、参与技术解决方案的讨论工作，思维清晰，表达能力强，能清晰的传达工作方案；\n4、学习能力强，工作热情高，能按时按质完成工作任务。\n技能要求：\n1、有扎实的JAVA语言基础，具有良好的系统功能设计能力；\n2、1年以上javaEE应用开发经验，至少参与过一个以上中型项目的模块设计及代码研发；\n3、精通主流开源框架：如Spring、SpringMVC、Mybatis、Spring Boot，了解Spring Cloud；\n4、精通Mysql、Oracle等主流数据库，精通SQL语句编写和优化，能够快速编写复杂的业务处理SQL语句；\n5、熟悉各种Web前端技术，包括HTML、XML、Ajax、JavaScript、jQuery、Json等，了解CSS；\n6、了解Vue前端开发框架，了解微信小程序、公众号开发；\n7、良好的团队合作精神、责任心强，人际沟通、协调、主动推进能力者优先考虑。",
+      "encryptAddressId": "f650d405a355fa350HZ93dq1E1Y~",
+      "address": "揭阳揭东区揭阳碧桂园天誉92号商铺",
+      "longitude": 116.401675,
+      "latitude": 23.591248,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ee0dbde1a96b6f46bd2ca1367ed13798",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b081ae15adbf231a77959c44bba4043a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "团队管理经验",
+        "分布式经验",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赖先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221018/607f1f3d68754fd062299825b239bd81bf9974c2988214996992e70e7fa896da18d3aaac4b8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "万境医疗",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fe02b2afafdd1faa1Xd_3t-1Flc~",
+      "brandName": "万境医疗",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724846012220,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "万境医疗",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

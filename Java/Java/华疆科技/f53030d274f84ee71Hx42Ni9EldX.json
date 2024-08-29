@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "viWxBrtwAX58i-21fx2w2pZKRgty-y-dS1zRqS5bn1k_x8KIaDd8638C0l7ht08NegJfK7pZr1WZ27MlRgnkqeL3m1IeBATy9Fo3Sw4bG7gVEB0XL6V0EAOWAEDOJx9SX29ZQBb_7Zj4cQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f53030d274f84ee71Hx42Ni9EldX",
+      "encryptUserId": "cfcb25d62424e02203F82di9GFs~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 参配合完成产品的需求和设计，负责模块的详细设计，编码实现和维护。\n 2. 持解决研发过程中的关键问题和技术难点，保障系统的性能,安全，兼容，扩展等。\n 3. 完成开发过程中的单元测试，对自身所负责的开发进度及其质量负责。\n岗位要求：\n1. 计算机大专或以上学历，2年以上的java开发经验；\n2. 具有扎实的java编程基础，掌握 Spring MVC/Spring boot/Spring Cloud/Dubbo,Mybatis等技术框架以及应用，了解分布式，缓存，消息等机制以及原理。\n3. 熟悉Tomcat, webloginc等中间件的应用。\n4.  熟悉MySQL、达梦和其它国产数据库，熟悉关系数据库应用设计开发，熟悉Redis缓存机制；熟悉Linux操作系统，熟悉Tomcat等\n6.责任心强，良好的对外沟通能力和团队协作能力，主动好学；有良好的团队合作意识以及抗压能力。\n负责内容\n1. 负责开发工作；\n2. 按项目计划,按时完成开发任务，及相关开发文档的整理和编写;\n3. 根据开发进度和任务分配，完成相应模块软件的设计、开发、单元测试、缺陷修复",
+      "encryptAddressId": "0f1105f60ab660181nR72ty8ElpRyo29U_KW",
+      "address": "太原小店区东怡花苑4号楼2层",
+      "longitude": 112.596675,
+      "latitude": 37.794972,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bfa7c418a3a7fc091fa4e62cd3b4fa3b486bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf7db4afee155c7776946fe7a18817a12b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "消息队列",
+        "数据结构",
+        "文件管理系统",
+        "高级软件工程师",
+        "中级软件工程师",
+        "后端开发",
+        "SpringBoot",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230703/607f1f3d68754fd05526bb2a8bd2251d87540d9225c8080a5907e1fa69f999d5cd0e8622f02_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "华疆科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "938b9a92536745011HFy2N65E1c~",
+      "brandName": "华疆科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "节日福利"
+      ],
+      "activeTime": 1724925720479,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华疆科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

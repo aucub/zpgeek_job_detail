@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3gjPUUzmTg6b6-s19ZLW5BIIje6Vqp_RDcPekggjiluW42N16iAciqXihDN-QPgh8TrK0M2wB0_f5XtDXG7DUS3mfevDAbenXyduNs2zryOoGboSeGld1-SkcnjoHpRLWsvgf93AGlQ~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85b23297f1d01e5b1HR93di8GVA~",
+      "encryptUserId": "7c2d288ab177c35403xz2tu5Elo~",
+      "invalidStatus": false,
+      "jobName": "Java程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、有java及相关开发经验，精通JAVA、Spring、SpringMVC、SpringBoot、Mybatis、SpringCloud编程，熟悉多线程编程；\n2、掌握分布式缓存Redis，分布式锁等相关技术\n3、熟悉消息中间件如RabbitMQ的使用及原理；\n4、精通 Mysql，熟练使用 SQL 语言，并对数据库建模与SQL优化有一定的理解；\n5、具备面向对象的设计思路和经验，熟悉软件开发流程、体系结构，具备较好的文档能力及良好的编码风格；",
+      "encryptAddressId": "2deaebac38e13a411HFy2tW7EQ~~",
+      "address": "南宁西乡塘区南宁创客城1号楼C座9楼",
+      "longitude": 108.2779,
+      "latitude": 22.87671,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c3b4d8a25fc179545a79edf40fba818",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a2ffe2ddfcfc23e16b68859de12be03",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "数据库",
+        "SpringCloud",
+        "SpringBoot",
+        "Spring",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郑女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "达朗科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2c6928448d48184f1HR-2ti6GQ~~",
+      "brandName": "达朗科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722311189592,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "达朗科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

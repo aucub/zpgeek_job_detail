@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UPjw-r-Ifjz5b-E1TedXcHRu2oeh5okEaj7vCruvaUHqrcsoI_7cSXsJaU5cZ-3_f_lhXyOYjFs9ImMYVOXUj2_pNYFWBECEg-IjjiDZmh8IZTbTCv88",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5a9a53c0b492cdc31HF-09q4F1tZ",
+      "encryptUserId": "679afd145b627fbc0nZz2NS6FldQ",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101070800,
+      "locationName": "营口",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\t\n岗位职责:\n1、负责代码开发、调试与维护工作，并协助其发人员解决各类技术问题;\n2、参与技术需求的调研，技术可行性分析;\n3、参与开发标准的制定与开发质量的控制，目管理人员完成代码与设计评审:任职要求:\n1、扎实的Java编程基础，熟悉常用设计模式、程、JVM，包括内存模型、类加载机制以及性化，具有系统设计、系统架构能力;\n2、熟练使用常用设计模式;\n3、熟练使用spring boot、spring mvc、JPA\n4、熟悉SpringCloud微服务框架开发经验,深刻理解微服务原理及运行机制，并对服务拆分、服务间调用、服务治理有独特见解\n5、熟悉SQLServer、MySQL、Oracle等数据库，有数据库调优经验，熟悉主流多种NoSQL数据库，熟悉 RabbitMQ等主流技术;\n4、熟悉高性能、高并发、高可用性分布式系统设计，熟悉RPC、缓存、消息队列、负载均衡、分布式事务等，并能进行系统的调优和优化;\n5、熟练使用git代码版本管理工具:",
+      "encryptAddressId": "c02ca5592d0e33e70Hd42A~~",
+      "address": "营口站前区万达广场(营口店)9层",
+      "longitude": 122.235863,
+      "latitude": 40.664782,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f1beece06bf5fbfcb1a2987426f6bf0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2f60ec0ef2e34ac389d6c9072291daed",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240506/607f1f3d68754fd038c889490ff1f60c302ed7be3b430db75b7685c139c9ca3aa5decf23098e145_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "顺水云帆",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "398bafbec8a282e11nJ62N65FVo~",
+      "brandName": "顺水云帆",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "绩效奖金",
+        "五险一金"
+      ],
+      "activeTime": 1724658365267,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "顺水云帆",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

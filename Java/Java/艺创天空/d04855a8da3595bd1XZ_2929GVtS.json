@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0JXWjFwtb2GXN--1c0st9tqBkNmuGuZqhh7mhxwZxPplyIJ5AAnu__lHCeFYOtYensYsYIAp3_jGKLIFPGsYXCkJIjJrgO3R6MYtDkjDg9vt3Y74bhiZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d04855a8da3595bd1XZ_2929GVtS",
+      "encryptUserId": "58713bfeb4ee3a5f0nZz2dy0F1pT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、精通J2EE、Servlets、JSP, 精通java Web的开发；\n2、深入了解界面层开发的Javascript框架，如JQuery, React等；\n3、能够熟练应用Java、Jsp、WebService等进行编程；\n4、熟悉TCP/IP协议，熟练掌握Socket编程以及多线程的开发；\n5、能够熟练应用Spring、Spring MVC等框架；\n6、熟练使用mysql数据库，熟练使用MyEclipse开发工具；\n7、熟练应用主流应用服务器,例如：Tomcat、Nginx等，并能够对其进行性能调优。",
+      "encryptAddressId": "4fbcb0ccab4c495f0Xd-2N21GVE~",
+      "address": "广州白云区汉广写字楼122",
+      "longitude": 113.230215,
+      "latitude": 23.274469,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c621cec6eeb8f4cb16b51b6c142dde14",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2844af254ce7d45c6c684cb777a39c81",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Linux",
+        "SpringBoot",
+        "MySQL",
+        "Redis",
+        "商城"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "康先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230513/607f1f3d68754fd0c937df6a782cdcb8cbca0304270acbe9021a1a437d65b2e9833aa437525_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "艺创天空",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf9bacd17aaed09b1nd92NS5F1M~",
+      "brandName": "艺创天空",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210726/bb5a7c9ec11513956f2e55f8a8d0b50c357335f2dec5bb5a9ff9cbed93649b88.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "网络技术服务；软件开发；网络与信息安全软件开发；信息技术咨询服务；物联网技术服务；软件外包服务；数据处理服务；计算机系统服务；与农业生产经营有关的技术、信息、设施建设运营等服务；信息系统集成服务。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "餐补"
+      ],
+      "activeTime": 1722304592563,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艺创天空",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

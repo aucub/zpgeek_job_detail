@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9BJXUee9FeT7w-41o8MsCFX_ItrDWRCiZ0ZDqH44TzVGh59WoDyM779rzC1yO4llJ6Sj_RAar550EqOb7N3aCuAgXRc3s6OmG6XXvxn_a-TvqvP0bPtg",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ecd670290b27e7e51HN70tW8FVtY",
+      "encryptUserId": "839c1cdcafb349381nR-2tS-ElNS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位福利：\n双休，五险一金，团队工作氛围好\n一、工作内容\n进行后端代码编写\n\n二、职位要求\n1. 本科及以上学历，计算机及其相关专业（应届生）\n2. 熟悉面向对象程序设计，了解数据结构\n3. 具备扎实的JAVA基础，熟练掌握Spring Boot, SpringMVC框架\n4. 熟悉MYSQL，了解SQL优化;\n5. 了解HTTP协议、restful风格接口，了解socket、tcp等通信协议\n6. 具有较强的技术学习能力及沟通能力\n7. 了解SpringCloud\n8. 有过linux相关不是实施经验优先",
+      "encryptAddressId": "37a406bb41bcf8181nRy3ty9FFpTwYW-U_mc",
+      "address": "常州武进区武进区创研港1号楼A座407",
+      "longitude": 119.968486,
+      "latitude": 31.681156,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf29d94f5d98290dcec99e16ffd57597ec6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfc36b53182856cd137d37e698e46c017a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringMVC",
+        "Spring",
+        "SpringCloud",
+        "Redis",
+        "MySQL",
+        "后端开发",
+        "全栈开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "研发",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "泰州物族",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "05033176735264331HJ72NS7EFY~",
+      "brandName": "泰州物族",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724662524428,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泰州物族",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NEYbLuzUQNFGF-z1FEJGNdpDnbLgQt4M0AZh8W0amzihVC66WChZlq6f-7fNck5K0ysFCEjXNqQRQexYFs1eKhaGpNcpRQLp5gNWINRn5CtgFnEL5z6RGVPT86e8yVpe0184QlJnfD2jSA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "00774c5ccdf74f721HN92928EFZQ",
+      "encryptUserId": "001865b89d5c53851nV42dW0EFpS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、计算机软件或相关专业，3年工作经验，有工厂项目经验优先；\n2、拥有Springboot/Spring/SpringMVC/Mybatis等主流开发技术及框架开发经验 ;\n3、熟练使用HTML、CSS、JS，熟悉页面架构和布局，对表现与数据分离、Web语义化等有深刻理解;\n4、熟练掌握一个MVVM前端框架（ Vue，React）,Vue优先;\n5、 熟悉基于Mysql的设计和开发、Linux操作系统；\n6、熟练掌握常用Linux命令，能够负责各项目工程维护工作;\n7、 对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力，沟通技能，团队合作能力；\n8、良好的逻辑思维能力，分析问题、解决问题的能力和执行力;\n9、充满责任心、服务和敬业精神。\n\n工作职责：\n1. 与项目组一起参与项目的现场调研，了解客户的需求，为客户提供售前阶段的技术支持；\n2. 与项目组一起参与需求调研，系统设计，功能模块开发，信息化项目的实施及推动；\n3. 配合上级计划定制功能模块的开发计划，分配开发任务，解决团队日常技术问题；\n4. 根据需求，可能会安排常驻客户公司办公；\n5. 上级安排其他相关工作；",
+      "encryptAddressId": "6000ba5ed88ff7d21nV53NW-GFtX",
+      "address": "苏州虎丘区脉山龙大厦1幢/3层/302-20室",
+      "longitude": 120.733393,
+      "latitude": 31.252488,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/803117e3b1eb8684136adbc5a126a7bf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bca8c637fd0acb031be4bdc1e28dc118",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211124/607f1f3d68754fd0ebe59ad19bdaf0e360686c101d956055ee135342bc90ca3886e49119c1a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "苏州钉乐",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02bb9c2bdf69f41233N429u5FA~~",
+      "brandName": "苏州钉乐",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200627/6a4e41bd41e24536e94cd816b4b77bf3ee135342bc90ca3886e49119c1a53181.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "苏州钉乐信息科技有限公司，专注于为企业提供信息化解决方案，旨在成为一流的企业信息化技术服务提供商。 公司提供企业应用系统，数字化工厂系统和定制化开发的产品和服务。 企业应用系统包括企业管理系统，报价系统和滚动预算系统; 数字化工厂系统包括生产制造执行系统MES和智能仓储管理系统; 定制化开发从客户需求出发，为客户提供专业的开发实施服务和定制化的解决方案。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1724661232963,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州钉乐",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

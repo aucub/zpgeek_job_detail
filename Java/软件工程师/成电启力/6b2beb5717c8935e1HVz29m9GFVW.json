@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uycuNTTHN0t8f-T1nUw9fawRDBNp55BOQ02-fWoKS9sjRVTDLjimmxmPAK6f0v_cyrIrrL-YbS6WZrWXKjBLLFkQP6oJPneP3obVybnySMDUT8k_U34_KHqMcx2PPuEk1Olc4ZqwHe44",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b2beb5717c8935e1HVz29m9GFVW",
+      "encryptUserId": "4daa1fd607221a200XB_3dS4GVU~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "软件开发工程师，技术要求：\n熟练掌握\nweb    vue2.0 + elementui\n后台    java1.8+springboot2\n数据库 mysql5.7.32\n队列    rabbitmq\nAPP    uniapp\n\n工作地点重庆大学城",
+      "encryptAddressId": "6862e60af429ff851HNz2ty-EVE~",
+      "address": "重庆沙坪坝区西永微电园研究院",
+      "longitude": 106.37647,
+      "latitude": 29.604506,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2372b92ef130ee233ca02057c8551158",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1dd76fc90aa31b6bc829e87728d96084",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190612/323e7118ebf5ed3fc05d868462d8e678cd11d3c8485a9df46be563bd80a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "成电启力",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f454cb87ab502ecd03J839y8GA~~",
+      "brandName": "成电启力",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722348057897,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成电启力",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

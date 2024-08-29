@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JHw9v3LsEFiK5-o1QqsoDnhyIP32xSxEtIts7qODpr731I5nBrn2wbPDL4KPI0vzRTOj5qvuXwSsIc9iKsUXmifRtazmKG_trMDPS6L0tis0jGyUbR7c",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8dc6c563b8fb47181HN62tq7F1NX",
+      "encryptUserId": "f8981b2106b85e510XV62N66EVdU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机、数学、软件工程等相关专业大专以上学历。\n2、熟练掌握后台开发语言JAVA、具备一定的SQL编程能力、使用mysql数据库，理解mysql语句能够完成简单增删改成。\n3、对JAVASCRIPT、HTML、 CSS和Vue一定了解。\n4、具有团队合作精神，优秀的学习能力、沟通表达能力。",
+      "encryptAddressId": "e08771f63388926b1nR-2tS4F1NXx4W6WP-X",
+      "address": "长沙岳麓区长沙芯城科技园5栋8楼",
+      "longitude": 112.875279,
+      "latitude": 28.230876,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b57f206b2f90e06ec6fc01208a1a8036",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4107cc44000a89c7525835075069bed0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "长沙嵘浩",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ebf9bfe3bd9b4c91HFz0tm6FVA~",
+      "brandName": "长沙嵘浩",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722313636003,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "长沙嵘浩",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

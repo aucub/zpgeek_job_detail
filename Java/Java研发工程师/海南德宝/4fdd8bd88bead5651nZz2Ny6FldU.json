@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oWBfu7s6gGaxw-h1ZKTQBHRCzTTZgs2CHb3pydp1JxqVIp63rqrmrL4FEggWkNHTvZvi9Xiax5hftgtL6rhEYgtuKz-c3hLYOAaWSDSkw9rd9oWgSJx7oRziY6ogREy9A0AnP-zDeAYhnG0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4fdd8bd88bead5651nZz2Ny6FldU",
+      "encryptUserId": "06634893f26523491nV52dW7F1dR",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与或负责公司软件项目和产品的开发\n2.于市场、开发、测试团队合作完成软件项目和产品开发周期\n3.参与系统架构设计，负责底层核心代码编写，技术难题的攻关，解决系统性能及数据安全问题\n4.负责公司软件产品的bug修改和日常维护、升级\n5.完成上级 安排的其他相关工作\n6.协助完成需求收集、分析、系统设计、测试部署与文档编写\n7.协助客户对接我们的交易系统\n岗位要求：\n1.扎实的Java基础知功底，熟悉SpringMVC等框架的实现原理和相关应用场景\n2.熟悉掌握关系型数据库的开发和使用（MySql），能熟练运用Sql优化等\n3.熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制，能对分布式常用技术进行合理应用，解决问题\n4.熟练使用SVN等工具\n5.熟悉tomcat/jetty/weblogic等应用服务器\n6.2年以上Java开发经验，有互联网项目（电商 金融）开发经验\n7.熟练使用activemq、rabbitmq、kafka等中间件的使用\n\n工资待遇：3000-9000\n工作时间：9:00-12:00    14:00-18:00\n周末双休",
+      "encryptAddressId": "082e796e587659f203Vz2di5E1E~",
+      "address": "海口龙华区申亚大厦5F",
+      "longitude": 110.32156,
+      "latitude": 20.02603,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e836b3f9e4dcd0c8a12ce5f8680e3fd0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6b737e6a632b06f951551d908b43788b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "MySQL",
+        "架构师",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "财务",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210507/99a5ca7dea0d4d4b05d89e21d4db0e047deae5cb2c19d80ad5c1e33fa0e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海南德宝",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "22b40b2570b9357e1nB82tS-EFE~",
+      "brandName": "海南德宝",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1722311189565,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海南德宝",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

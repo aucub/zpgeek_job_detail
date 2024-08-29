@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qB7Adbd5FPFR9-X1GSAMYoEpwO8PgCggO0X_TozE12U28o5nLlyfG5e7U39iCDE4muIkapcpCWyRVZQWNxeMnG6pC6vKVFFXJ1kiGsad2kVAL0iGCpr3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d751fcc79190ec9f1HR_09S-E1ZT",
+      "encryptUserId": "2ff39c0b1f3da3230n1z2d21FVdV",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101060600,
+      "locationName": "辽源",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责公司产品后台服务架构设计与开发；\n2. 独立完成产品核心代码开发、业务代码开发、系统性能调优等工作；\n3. 根据分配任务制定开发计划并按时完成相应模块的设计、开发和单元测试；\n4. 参与产品相关系统需求分析以及撰写相关系统设计文档；\n5. 有代码定期维护习惯，积极组织代码审查，提交高质量代码；\n6. 攻克各种挑战及技术难关与其他团队成员协同开发，有独立开发的能力；\n职位要求：\n1.大专及以上学历,计算机、自动化、工业工程等相关专业;\n2.有至少1年以上制造行业MES/ERP从业经验;\n3.参与或主导过MES/ERP系统实施工作，或有相关信息系统的实施工作者优先;\n4.精通Java基础，熟练掌握spring boot,spring cloud,Spring-MVC，Spring，Mybatis 框架下的开发；\n5.Java基础扎实，熟悉算法和数据结构，熟悉IO、多线程，具备JVM性能调优和处理线上问题经验；\n6.熟悉JAVA Web开发，熟悉Http restful⻛格架构，熟练使⽤：Linux、MySQL、Kafka、Redis、SpringCloud、Docker、MongoDB;\n7.熟悉常用关系型数据库及SQL调试优先",
+      "encryptAddressId": "49160022a1edf45d3nVz2926Fls~",
+      "address": "辽源龙山区辽源市会计学会辽源市",
+      "longitude": 125.143768,
+      "latitude": 42.889023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230523/48ba41acc9cef1bff5445af1d1b2efcbf9b4cdea08db161f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230523/48ba41acc9cef1bff70e90d804add2cde80c1822261f71a16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MyBatis",
+        "JavaScript",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "大数据处理经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "石女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd0941b15c66b8eff715ba5e490b85f5229644f173e6f1de5aa09b81e8f743_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "吉林省宇拓",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7eb7d1fd379a980e1XN_3dS_FVY~",
+      "brandName": "吉林省宇拓",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "有无线网",
+        "餐补",
+        "法定节假日三薪",
+        "五险一金"
+      ],
+      "activeTime": 1722309009796,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "吉林省宇拓",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

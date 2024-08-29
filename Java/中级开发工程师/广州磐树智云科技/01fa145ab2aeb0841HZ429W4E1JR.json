@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fv3xRY6aqOzKP-L1tZtapeGQgw986yFY_zUgVV-nsWdnhzntOncNzhioybgtOvMz257KCz2rniQaiRi_D922gUsY4jXJmFNSHNqM6L2VL7ZgtjqrbNW_QzYM0J6Xc4vZcPqxF1UYfEOXvnI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "01fa145ab2aeb0841HZ429W4E1JR",
+      "encryptUserId": "ead92919a07f28d30XZ_09u1EVNR",
+      "invalidStatus": false,
+      "jobName": "中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281500,
+      "locationName": "潮州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "主要职责：\n1.参与软件的需求分析、系统设计、编码实现、测试及上线维护等全过程。\n2.根据项目需求，设计并实现高效、稳定、可维护的Java应用程序。\n3.对现有系统进行优化，提高系统性能和用户体验。\n4.编写和维护相关的技术文档。\n\n基本要求：\n1.计算机科学/软件工程或相关专业；\n2.Java基础扎实，熟悉主流Java开源框架，如：Spring、Springboot、SpringCloud、MyBatis等。\n3.熟悉前端基础知识，熟练掌握html、css、js基础，熟悉VUE框架。\n4.熟悉主流数据库（如Oracle、MySQL）的使用和优化，熟练使用SQL语言。\n5.具备良好的数据结构和算法基础，熟悉常用的设计模式。\n6.熟悉Linux下服务器环境部署和性能调优。\n7.了解Docker容器化部署。",
+      "encryptAddressId": "68a14887e9307d6b1ndy39m1FFZU",
+      "address": "潮州湘桥区华达利宿舍301",
+      "longitude": 116.62838,
+      "latitude": 23.643585,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231117/48ba41acc9cef1bfb28e385b18e1438d118c4023e693c2e06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231117/48ba41acc9cef1bf9f3e8153de772b88ffe9a9852af4b6166bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231110/607f1f3d68754fd0766e584b20e52ec35b015087274b6eb49bec992a2b62efcd18527da9bb7157d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "广州磐树智云科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c0275047b48279441HV-29u7FFE~",
+      "brandName": "广州磐树智云科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724834549975,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州磐树智云科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

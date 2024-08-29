@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NlfzzhM6To-Fo-P1XOr_5Lp6Z-mLJc-z_xP1aNVr9EjDQO1FAXGuo86xLf6SAKhEbagZZ6miyJOSFHa-8D21WfPLZFAKQ0VO8l2R9N27xJAbIi7Ityk1x_FXcr2lFlLaG-OjIJocZPpf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "68719aac27691b2d1HZ909--F1dY",
+      "encryptUserId": "6b5b4b10433347b61XN939S-F1o~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "1. 学历要求：\n   - 计算机科学、软件工程或相关专业大专以上学历。\n\n2. 技能要求：\n   - 精通Java编程语言，具备良好的编程能力和面向对象思维。\n   - 必须具备扎实的SQL语言基础，熟悉关系型数据库的概念和原理。\n   - 能够编写高效、可靠的SQL查询语句，熟悉SQL优化技巧。\n   - 熟悉常见的关系型数据库，如MySQL、Oracle等，并了解它们的特性和用法。\n   - 具备良好的数据库设计和数据建模能力，能够设计和优化数据库结构。\n   - 了解数据库事务处理的概念和机制，并能够编写事务安全的代码。\n   - 熟悉常见的数据库管理工具和ORM框架，如Hibernate、MyBatis等。\n\n3. 经验要求：\n   - 至少具备一年以上的Java开发经验，有实际项目经验者优先考虑。\n   - 具备使用SQL语言进行数据查询、修改和优化的实际项目经验。\n\n4. 团队合作能力：\n   - 能够与团队成员紧密合作，有效沟通和协作，共同完成项目目标。\n   - 具备良好的问题解决能力和学习能力，能够快速适应新的技术和工作环境。",
+      "encryptAddressId": "ed0c4aed5f8110b133V72d27Ew~~",
+      "address": "常州新北区常州创意产业基地A707",
+      "longitude": 119.992795,
+      "latitude": 31.811305,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a77d74f0892b25af717ced20d60ab65",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10bdb1736301a21ab43142f2455d33c8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "MyBatis",
+        "Hibernate",
+        "MySQL",
+        "SQL Server"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陆女士",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240825/607f1f3d68754fd01ff6ef69f3b7bff962ab6f0f18f644bd4e539d538cad67ed41fc986b958e515_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "广盛康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ec3514f7d79fb6df0XB839W0GQ~~",
+      "brandName": "广盛康",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191203/daefdb1eba5d5c0d42fd4de7634178913ae5edbc15697b113047e95ccacb42b1_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100908,
+      "industryName": "电气机械/器材",
+      "introduce": "电力公司，人文环境简单，做事情需认真有责任心，只需要认真做事，不需要有复杂的人际关系处理",
+      "labels": [
+        "餐补",
+        "五险"
+      ],
+      "activeTime": 1724819075048,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广盛康",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

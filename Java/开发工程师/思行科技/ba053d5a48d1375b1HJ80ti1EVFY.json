@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ki1FHHAS584os-T19IXVigX7GQQvEfwRdcYmQwwMbxepb5o11ahKuJDQ0IltPWQtZQFnYB3wpzhI9cc9VQmC6yrzreF_Yq_k76raXMnKqhVwrqIkEI3L6RPtrkPE7PLZnAchdPpo_DhPsmU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ba053d5a48d1375b1HJ80ti1EVFY",
+      "encryptUserId": "1631d08858b4ad350nZ-2di9GVFZ",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101281100,
+      "locationName": "江门",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "开发工程师    4K-8K\n（工作地点是分公司：珠海市香洲区南湾北路32号4号厂房4层4428）\n岗位职责：\n1. 负责公司产品和项目的开发、维护；\n2. 参与网站、商城、定制类软件、小程序开发；\n3. 参与需求分析，业务功能的分解、设计；\n4. 负责业务层逻辑的设计和实现，客户端界面开发；\n5. 参与团队的各种讨论和技术设计，与项目团队成员协作完成项目。\n\n任职要求：\n1、精通java开发语言，有1-3年以上开发经验，能力优秀应届毕业生易亦可，熟悉微信公众号开发。\n2、精通熟练HTML\\CSS，熟悉使用DIV+CSS进行页面布局和样式修改。\n3、使用精通JavaScript\\Jquery\\Ajax。\n4、精通Linux系统基本操作，搭建LAMP开发环境。\n5、精通MVC开发模式，熟悉Thinkphp框架搭建项目。\n6、精通使用Mysql数据库，了解redis\\memcache缓存。\n7、要求拥有良好的代码习惯，代码结构清晰，命名规范，逻辑性强；",
+      "encryptAddressId": "28296a7b9e6b5a003nxz09S_GFZXwIm6VfI~",
+      "address": "江门蓬江区南方教育装备创新产业城5幢402室",
+      "longitude": 113.04823,
+      "latitude": 22.617096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bf25533aee2e27659d404e2b01c88659146bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230920/48ba41acc9cef1bf5fbfee68083a0808c14295b95a3b5ae06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "云计算经验",
+        "大数据经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210324/5f33fb6a8b1da7fbc8b3daaea6a18b3e16ea91b30b2f77738009c45c1de_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "思行科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ed09f86fc495b78f1nV52960E1s~",
+      "brandName": "思行科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200821/beafa138d46658164e974c519f1f8dffcb8d910255c4ea7ec62cb2a0e5d13460.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "思行科技，在江门以及珠海均设有分公司，一直致力于高端平台的定制开发服务，主要涵盖两个方面服务：一是教育平台的开发及运营；二是提供本地化项目定制服务，小程序,APP,微信H5,3D小游戏,网站等的定制开发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "餐补",
+        "零食下午茶"
+      ],
+      "activeTime": 1724925161459,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思行科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

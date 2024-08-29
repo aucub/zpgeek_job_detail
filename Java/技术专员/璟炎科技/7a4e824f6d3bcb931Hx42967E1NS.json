@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hD_XiAeR9RVCz-F1VNt_7vpKcr2M6HTolwnMdpfDNXdcMcKH9-VBJhpmhERqeFAfzxhCPVDChax6iNK_TJIcHgkbzsnPb4ey7GHdwqjys9f9bzgLbnch42NJDYUzbyUrKiecNgHZkdKHlg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a4e824f6d3bcb931Hx42967E1NS",
+      "encryptUserId": "9e3dcde8def5c5591nd70t64ElI~",
+      "invalidStatus": false,
+      "jobName": "技术专员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、参加基于Java技术的项目开发； \n2、参与系统分析与设计，并负责完成项目模块核心代码开发； \n3、根据开发规范与流程在产品框架基础上独立完成模块的设计、编码、测试以及相关文档； \n4、能独立解决开发中遇到的难点问题。\n\n\n\n任职要求： \n1、Java基础扎实，对java语言规范有深刻理解 \n2、熟悉javascript、html/xhtml、xml、CSS、AJAX等技术； \n3、精通selenium自动化测试框架，具备整套测试功能之类的完整编码能力。\n4、熟悉Spring boot, MyBatis等主流的开发框架，熟悉mybatis等ORM中间件； \n6、熟悉MySQL、 Oracle、sqlServer等其中一种数据库，有sql优化经验者优先； \n7、掌握常用的开发工具，如idea，maven，git等； \n8、熟练Linux操作系统基本操作命令，熟悉dubbo,redis、MQ、 等常用中间件。",
+      "encryptAddressId": "8555623246bd6ea71nZ73d29GVpSxo65UvyX",
+      "address": "杭州余杭区赛银国际702-1",
+      "longitude": 120.020772,
+      "latitude": 30.274659,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf796ca4f9e7e5e8642b8314594a37996e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1b2a3bc1878a7cb62d802685edd2959c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "其他",
+        "Spring",
+        "MyBatis",
+        "Nginx",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吕女士",
+      "title": "运营",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171009/fb1509fc1d99c2943153a3d48e6745a31f40a250b236de0dd11c88bc346_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "璟炎科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6e177919d86ef2f21HJz3N6-GVo~",
+      "brandName": "璟炎科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724934439267,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "璟炎科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

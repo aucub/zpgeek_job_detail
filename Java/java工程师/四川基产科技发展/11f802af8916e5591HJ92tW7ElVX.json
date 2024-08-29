@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "o7duRSwiXEGv9-t1W5xH-jUjSqbXfCREQoKME0UKdZExidgLKVpTDP6debv2SRnE3rKnqJ0x31uCtlIK1pEP0-9ial_KY41b0nA5od7uzWM7QsYKY7cSywaebaaMruu39PR7O4dV82qxlmw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "11f802af8916e5591HJ92tW7ElVX",
+      "encryptUserId": "172d01f26bc8e7910nR_2tq8E1FW",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "基本素质要求 \n学历：本科及以上\n年龄：25-35\n性别：不限\n专业：计算机、软件工程、电子信息、通信工程、自动化等相关专业\n相关工作经验：2-4年工作经验。\n性格及沟通能力：积极向上、能吃苦、具有团队合作精神\n其他：具有企业信息化项目开发工作经验优先\n\n专业素质要求\nJAVA后端开发人员专业要求： \n1.熟练掌握Java编程语言及其相关技术栈；\n2.熟悉Eclipse、IDEA等开发工具，熟练掌握Spring框架的核心概念和各个模块，包括Spring MVC、Spring Boot、Spring Cloud等；\n3.熟悉关系型数据库（如MySQL、PostgreSQL）和NoSQL数据库（如MongoDB、Redis），能够进行数据库设计、优化和调试；\n4.了解前端开发基础（HTML、CSS、JavaScript），了解前端框架与后端的交互方式，理解RESTful API设计与实现；\n5.熟悉软件开发流程、常用数据结构和设计模式，了解人工智能、云平台、深度学习、大数据分析等概念和技术；\n6.具有良好的编程风格和编程习惯，能够编写清晰的代码文档和技术文档；\n7.具有企业信息化项目开发工作经验优先，具有微服务开发经验优先。",
+      "encryptAddressId": "8f3babd5956537013n152d-6ElJWyoq3WfM~",
+      "address": "成都武侯区两江国际1",
+      "longitude": 104.059684,
+      "latitude": 30.559545,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/765561deeda05fd5006a9803d6aec8b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d494cd0472ccc9175734d66823a8f49",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "ldea",
+        "JPA",
+        "Git"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吕女士",
+      "title": "人力专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230802/607f1f3d68754fd01417b1a0d8364b0b1b3d73408fd7668faa1fd747dc54a126b627a5bfc1ff237_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "四川基产科技发展",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b0a020bb6a1a891c1X1429i9EVM~",
+      "brandName": "四川基产科技发展",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724939293837,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川基产科技发展",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

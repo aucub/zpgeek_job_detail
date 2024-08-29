@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sjvVyJwHKS0yv-x1aP4PxvjGha5B446RFZ9z_bhvdQ2T2qRrnfyRASah1LNyu-PySlDUuG5U5W00bhMya1_bEWmVkfnCnTMl3rs-p42gfHQBD1szvv9VrKJr8gGRG5HMn6BCBX8e6qVKiw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c2f85e0a2545f11e1HNz3t-1EFNU",
+      "encryptUserId": "1c52de6b13554a8003J82t29FVA~",
+      "invalidStatus": false,
+      "jobName": "技术支持工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1. 需求分析\n\n• 与项目团队、产品经理和其他相关部门沟通，理解业务需求和功能要求。\n\n• 对需求进行技术可行性评估，并提出合理的建议和解决方案。\n\n2. 系统设计与架构\n\n• 参与系统的整体设计和架构规划，确保系统的可扩展性、可靠性和性能优化。\n\n• 制定技术方案和开发计划，明确开发任务和时间节点。\n\n3. 代码开发\n\n• 根据设计文档和规范，使用选定的编程语言和技术框架进行代码编写。\n\n• 实现系统的功能模块，确保代码的质量、可读性和可维护性。\n\n4. 测试与调试\n\n• 对开发的功能进行单元测试、集成测试和系统测试，查找并修复代码中的缺陷和错误。\n\n• 协助测试团队进行测试工作，解决测试过程中发现的问题。\n\n5. 性能优化\n\n• 分析和优化系统的性能，解决可能出现的性能瓶颈和响应时间问题。\n\n• 对代码进行优化，提高系统的运行效率和资源利用率。\n\n6. 技术研究与创新\n\n• 关注行业的新技术和发展趋势，探索并引入适合项目的新技术和工具。\n\n• 对现有技术方案进行改进和创新，提升系统的竞争力。\n\n7. 文档编写\n\n• 撰写详细的技术文档，包括设计文档、接口文档、操作手册等。\n\n• 记录代码的变更和维护记录，方便后续的维护和升级。\n\n8. 团队协作\n\n• 与团队成员进行有效的沟通和协作，分享技术知识和经验。\n\n• 参与代码审查和技术讨论，提供技术支持和指导。\n\n9. 项目维护与升级\n\n• 负责系统的上线部署和后续维护工作，及时处理生产环境中的问题。\n\n• 根据业务需求的变化，对系统进行功能扩展和升级。",
+      "encryptAddressId": "f8a86238ad441f501nVy2tq8FFZXw425VP6Z",
+      "address": "南京浦口区弘阳时代中心30层",
+      "longitude": 118.720267,
+      "latitude": 32.137851,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfaae6e40be44fa297f1c764e0caa26dfe6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfbff5673683ffaed1969713784ee053336bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "高峨",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "eb940762886e61591HJ93dy1GVA~",
+      "brandName": "高峨",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724591532676,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "高峨",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

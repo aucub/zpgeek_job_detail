@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8pLRQp-Uiikph-t1wzjJd95faEFf-E7prWVGGTIL76TfCzO5gnRpVXsFj8AeI70CSlwvQi8t59tvoONIGrNQRdhytwjkJvOYzOZ-7lblpFjV1llL8U2CgFVG-3ap4XqLKoL2QRMHuOCrXw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "95771a196a44795f1nx_3t2-F1FU",
+      "encryptUserId": "2e34608e85b9a9021H183tW7GVY~",
+      "invalidStatus": false,
+      "jobName": "java后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与公司核心产品的设计，开发和维护工作；\n2、理解产品需求，分析产品功能，设计技术方案；\n3、维护相关业务文档，包括接口文档和核心业务逻辑文档；\n4、完成自身代码的单元测试，并协助前端、测试进行测试，及bug修复；\n5、参与公司服务器端架构的讨论和设计；\n岗位要求\n1、java基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；\n2、1-3年的java开发经验，对spring-boot，mybatis等开源框架熟悉；\n3、熟悉分布式系统的设计和应用，熟悉spring-cloud，dubbo等服务化框架，有中大型分布式系统开发经验者优先；\n4、熟悉缓存、消息相关技术，如redis，rocketMQ；\n5、熟悉mysql等数据库技术，对sql优化有一定的经验；\n6、熟悉linux常用命令，熟悉版本管理工具git。",
+      "encryptAddressId": "520d7b0d713ce07a1n1y0t-7EVY~",
+      "address": "杭州西湖区紫金梦想生活广场4幢408",
+      "longitude": 120.066766,
+      "latitude": 30.32773,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a11408a12c25f959dd8cb0242e08d951",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4139ac8e72f91eaa5b9b8da95a11f9c2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "多进程"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180601/9ce473c1944f94f82d96d6270c7e87979582c743b6097e9aea7e86df11c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "同元科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b16b8fc263a8441e1nxz2dW1GFY~",
+      "brandName": "同元科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722348415281,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "同元科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

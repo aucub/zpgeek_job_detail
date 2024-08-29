@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "z54rzHkQNDxKI-g1ttsIfIVwAbpxYLELywhZq1bxRzi10XF1QGEdkO6iZEUXBEB3XCqOnSlZuK72FmGwDn2Ji4LUdA4DJLCTgZ11HiLBBaUy4qFdnc6g",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "008076bf4a2be4261XB42N-7EVNZ",
+      "encryptUserId": "f9a68bac2711ecde0nF82tW9ElJV",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据项目经理或者产品经理提出的需求设计方案并发起评审；\n2.按照设计的方案完成编码开发并通过代码评审保证需求按期交付；\n3.对分工的需求负责完整保质交付；\n任职条件：\n1.全日制大专及以上学历，精通Java语言，基础扎实，熟悉io、多线程、集合等基础框架；\n2.2年以上开发经验，基本功扎实，精通Java，熟练使用常见命令与Shell脚本编程；\n3.熟悉主流开源框架，对Spring MVC、Spring Boot等有深入了解；\n4.熟练使用Maven或Gradle等构建工具；\n5.熟悉至少一种关系型数据库和至少一种非关系型数据库；\n6.熟悉Redis、memcached、RabbitMQ、RocketMQ等中间件产品；\n7.熟悉HTTP协议与RESTful架构风格，熟悉微服务架构；\n8.熟练使用Git，熟悉Pull Request工作流；\n9.对Docker有一定了解，能够独立编写Dockerfile、docker-compose配置文件；\n10.善于沟通，积极主动，有团队合作意识，有较强的分析问题、解决问题的能力；\n11.具有强烈的责任感，对产出负责。",
+      "encryptAddressId": "95a3eccd0a431d450Xx_2tm_FFA~",
+      "address": "合肥蜀山区合肥创新产业园D9号楼5楼505",
+      "longitude": 117.136199,
+      "latitude": 31.834919,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4fbc698975699447d1aa80318f29c9a9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c0988f3b767a8e385fbf5a70c230a711",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C/C++",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "安徽微纳",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bde58601642df77e1XZ_0ti7GFQ~",
+      "brandName": "安徽微纳",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722326819800,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安徽微纳",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

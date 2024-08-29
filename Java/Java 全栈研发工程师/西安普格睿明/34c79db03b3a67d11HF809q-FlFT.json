@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BPz6cLYCITbvH-j1zbGiHrv47UR0eR5heMvVP-JfCp5G2Y_IrMfKFlkmeyXfyEozMshAWEW0osv-qbJ1sqfwg1OvXmTP9plAN8CZOEKJ8WXQgDR-LEE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "34c79db03b3a67d11HF809q-FlFT",
+      "encryptUserId": "c3e5efd664d224551XJ62tW5GFU~",
+      "invalidStatus": false,
+      "jobName": "Java 全栈研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "5-10年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "11-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "【职责描述】：\n1. 负责参与公司产品的设计、开发工作，以及技术文档的编写等；\n2. 负责参与公司前后端系统的功能设计及开发工作；\n\n【岗位要求】：\n1. 本科及以上学历，计算机相关专业毕业，至少 5 年及以上工作经验；\n2. 熟悉 java 基础，拥有扎实的 java 理论知识；\n3. 熟练使用 Spring 技术栈，包括 Spring Boot、Spring Cloud、Spring Data 等；\n4. 数量掌握 Vue3 相关技术，对 Element UI、Ant Design 有丰富的使用经验；\n5. 熟练使用 MySQL 、PostgreSQL等常见数据库；\n6. 熟练掌握 k8s、docker 等容器技术；\n7. 对技术有较强的兴趣和好奇心，能够不断的自我提升、学习，工作责任心强，具备较强的团队精神；\n8. 具备良好的抗压能力及任务组织协调能力，能够在复杂任务面前有条不紊的推进。",
+      "encryptAddressId": "c94b3236e9a3a7a91nZ93t-_E1NZ",
+      "address": "西安雁塔区绿地soho同盟B座504B",
+      "longitude": 108.883869,
+      "latitude": 34.19661,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfefb6491ab42880027910014682d1f8e26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf3f87d993cd85009c235973bed9f046d26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=6d60068da7099babjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9bnHt0s4sp7dA7SFa-meBnMrr5cpQE4r28W2kvNFxX9HVe_KqgFnQdEOThD0E-x4pLSV_mzPlbr18eU4WxgXMsACQU8k-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "西安普格睿明",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ebf6e5d30b631f1b1nJ_2NS0F1s~",
+      "brandName": "西安普格睿明",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220620/7bf6f160950405e92a3747a7a4fe84b37c29b71c7963f41305127b2f763c74f50ffb415eed505fd6.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "西安普格睿明信息科技有限公司成立于2019年4月，主要业务为软件系统开发和定制，已为包括铁路、煤炭等多方客户成功交付了企业系统解决方案、门户网站、App等软件产品。公司注册资本100万，已获得高新技术企业、AAA级信用企业，ISO质量体系认证，并拥有软件著作权、专利等10余件。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "团建聚餐",
+        "定期体检"
+      ],
+      "activeTime": 1722328745633,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西安普格睿明",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

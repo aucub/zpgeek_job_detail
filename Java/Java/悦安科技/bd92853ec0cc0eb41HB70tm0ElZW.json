@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8Wd3rkTzjaai_-F1P6U44tCQ3d4dhNTXN1EKmpETAjMPUH01OB7PNGAfCZ4VkpvMNSRACI02GscWHKmg2Y60FWTlyfJ9Ph-wlL5QaMCN2QGQbwZjSu5q",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd92853ec0cc0eb41HB70tm0ElZW",
+      "encryptUserId": "5dec3428c8d4eb3b0XB73dm-GFRT",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、参加基于Java技术的项目开发； \n2、参与系统分析与设计，并负责完成项目模块核心代码开发； \n3、根据开发规范与流程在产品框架基础上独立完成模块的设计、编码、测试以及相关文档； \n4、能独立解决开发中遇到的难点问题； \n5、负责开发过程中相关新技术的研究和验证。 \n任职要求： \n1、计算机相关专业，本科以上学历（学信网可查），3年及以上Java开发经验；\n2、有区块链经验优先。\n3、Java基础扎实，对java语言规范有深刻理解 ；\n4、熟悉软件技术文档的编写，具备良好的文档编制习惯和代码书写规范； \n5、熟悉javascript、html/xhtml、xml、CSS、AJAX等技术； \n6、熟悉Spring boot,Spring Cloud, SpringMvc,MyBatis等主流的开发框架，熟悉mybatis等ORM中间件； \n7、熟悉MySQL、 Oracle、sqlServer等其中一种数据库，有sql优化经验者优先； \n8、掌握常用的开发工具，如idea，eclipse，maven，git，svn等； \n9、熟练Linux操作系统基本操作命令，熟悉dubbo,redis、MQ、 等常用中间件; \n10、具有较强的学习、分析问题解决问题的能力，具有良好的团队合作精神及灵活的沟通的能力。",
+      "encryptAddressId": "a7f885886cb47f290XV-2N-1GVZUwYq-UPM~",
+      "address": "长沙岳麓区锐智大厦1栋309",
+      "longitude": 112.878665,
+      "latitude": 28.235753,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf2828a753c4e527251e6646d980dc0a9c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf8e15a2ebf5a02c65e5190ea052930dd46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MyBatis",
+        "不接受居家办公",
+        "MySQL",
+        "PostgreSQL",
+        "区块链经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "悦安科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9c499cd7dc4f79771nB80t20F1Y~",
+      "brandName": "悦安科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210312/5dccd3fd3eb096e2651105d0fa92af0f5931110b00b8262fd6b63a0160cab66a.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "湖南悦安网络科技有限公司是一家从事计算机软件开发与设计的技术型公司，主要提供网站建设、互联网开发、网络运营 、互联网服务于一体的网络科技公司。专注于技术创新、寄情于网络IT、投身于互联网事业。拥有全新的服务理念，服务社会。",
+      "labels": [
+        "年终奖",
+        "员工旅游"
+      ],
+      "activeTime": 1722416349000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "悦安科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

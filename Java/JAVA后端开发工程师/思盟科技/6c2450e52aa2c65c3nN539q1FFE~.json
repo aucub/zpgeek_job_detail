@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZX-NTfNSlFo0O-_1BJf_6DLF3TcVWolGMuY4z5nb3hbOaC8lE4LaYRlkvqOGSJOL7L3eojrHd4SW-X3OWY8DHH_YI4UYAfrVTeIWTestQlouJoEl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6c2450e52aa2c65c3nN539q1FFE~",
+      "encryptUserId": "4ef4a6bf831c2f460nd43dm7FFQ~",
+      "invalidStatus": false,
+      "jobName": "JAVA后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280400,
+      "locationName": "梅州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、大专及以上学历\n2、熟悉Java语言和面向对象设计方法\n3、熟悉mysql、redis、nginx等中间件应用，熟悉数据库设计\n4、能够熟练使用spring、springboot、mybatis进行开发，熟悉框架的基本原理\n5、能熟练使用git等版本控制系统\n6、熟悉LINUX平台，会使用常用命令\n7、工作积极主动、好学、认真，有团队协作精神。",
+      "encryptAddressId": "807fa2ea66bffb251HB_2dS7ElA~",
+      "address": "梅州梅江区梅州市互联网产业孵化园梅江四路100号",
+      "longitude": 116.123545,
+      "latitude": 24.285356,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b8f66095ec4ddb315eaf3a43bafb8b9f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0bb93bd71852790c24c840c5591033e5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "思盟科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8fbc762e674d01530X192t60Ew~~",
+      "brandName": "思盟科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724404181005,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "思盟科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

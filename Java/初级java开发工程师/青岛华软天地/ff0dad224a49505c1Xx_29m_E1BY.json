@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RTmk_sqskSChT-91QTfykI48E6XYMPcm_8Hx39q4NUigF7PzEhUR0tbMQXguzwqdydAHA-drIz-hZbJvv-5JIei_8QTmepFJqYkBn02rBzH2gLmychqWA8ubbt2t99thYWK3pyiEyDaN7i_OMqw8Dg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ff0dad224a49505c1Xx_29m_E1BY",
+      "encryptUserId": "aad4fac24e58c1a33nJ_09y7E1Y~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、1年及以上工作经验，具备良好的Java基础，掌握JAVA\n主流框架：Hibernate, Spring Boot, Spring Cloud等，有良好的编程习惯（命名/注释/排版/效率等）；2、熟练使用关系型数据库（优先Oracle） 和PIsqlDeveloper数据开发工具；\n3、熟练掌握接口对接开发和联调工具，包括HTTP REST接口、Webservice接口，Postman\n和SoupU联调工具;\n4、熟练使用idea开发工具\n5、熟练掌握和使用GIT代码管理工具；\n6、有地图\nWEB端开发、后端地图轨迹开发经验优先；\n7、有\nweb前端开发经验，掌握Vue者优先；\n8、了解缓存、消息队列、负载均衡等机制和原理；9、沟通能力良好，能够主动沟通需求描述疑点，对需求能够提出自己的建议;\n10、具备一定的运维能力和运维经验；\n＜br/>11、具备一定的代码调优和SQL优化的基础和经验。",
+      "encryptAddressId": "f8f84252d03cdad033J72NW9F1U~",
+      "address": "青岛崂山区宝莲中心5楼",
+      "longitude": 120.457559,
+      "latitude": 36.098361,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c21260a9d5c264037adf7f021d3d3336",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/811ae882c139e9029009868b1a699da2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "分布式系统开发经验",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200827/592a4be5e8444fd9b3a3153ffec6cfd5e982003021207e07ff9d1729be2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "青岛华软天地",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3ae5ebd281f9515f33F-2di0EA~~",
+      "brandName": "青岛华软天地",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "零食下午茶"
+      ],
+      "activeTime": 1724900615517,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛华软天地",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

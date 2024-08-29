@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NcmOlYs40F6mQ-h1nPRxKH4gg3FXWzVcr3UGzZGsCpV1L9lLUHNNIUlzbMokmt5-xOzPyynjt6DuQak6ahqeDQqknCSZa3iiu1oc78iZOgfU4hNshAUSmBx6g5b9UAGZVKmpca20zNM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cfa6937ef12d02680XV90ti9F1Q~",
+      "encryptUserId": "9a1998a8ad1c0b8d33R939i7FlE~",
+      "invalidStatus": false,
+      "jobName": "java程序员软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、计算机相关专业全日制普通高等教育本科及以上学历，两年以上Java开发经验；\n2、熟练使用各种Java Web开发的框架和库，如：Spring、MyBatis、SpringMVC、Hibernate等；\n3、熟练使用开发中可能会用到的各种工具，如 idea、git、maven、gradle等；\n4、熟练使用NoSql、MQ等常用中间件\n5、熟练使用Java各种排查问题的工具，思维清晰，能够快速准确的定位问题；\n6、具备Linux平台上运维应用的能力；\n7、具有大型互联网公司工作经验者优先；\n8.有微服务实际产品研发经验，如Dubbo、Spring Cloud；\n9.良好的沟通能力、团队合作精神和服务意识。",
+      "encryptAddressId": "c76460788b0c34041nd439m5EFI~",
+      "address": "长沙雨花区德思勤城市广场复地星光天地1栋4015",
+      "longitude": 113.011364,
+      "latitude": 28.111692,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f585745cb7a9219a42068633ffd388b8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/912fee5bdff5e39bb49538e6a97ea09a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C#",
+        "全栈开发",
+        "Socket技术",
+        "网络爬虫技术",
+        "网络交换技术",
+        "网络协议",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "HR",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=abfa131bd9cff183jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd5dnXV054l5t95qQwTpmOFgP7j2KphR5O3sXWssNF8CqHRb_q6hFXRNF7fkDRUxzYhFGVzgxKhc-FgcBIXhhH8pBCFI_U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "搜他科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7721cc84632c32a20XB83Nm6Ew~~",
+      "brandName": "搜他科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210409/204adb2108663d1b905f4d8524d70c98161b017dc99a9de387a533be5a951c89_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "搜他科技是一家与2019年新成立的软件科技公司，目前正处于起步阶段，诚邀有识之士共创辉煌。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "股票期权"
+      ],
+      "activeTime": 1722348057179,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "搜他科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

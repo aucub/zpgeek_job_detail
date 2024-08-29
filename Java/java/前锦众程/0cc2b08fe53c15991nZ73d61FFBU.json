@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aaUypBLUqxMt3-E1EitTMDaS_5vFGmTgIozjrM6jGjO0g6Q98xBjze1iXm1XHP2HHiMEU4TLKQ5JdHZsujnBIk9oTN4m6FgFkIRhQm4llW7pCY_WcEGH",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0cc2b08fe53c15991nZ73d61FFBU",
+      "encryptUserId": "07945a17382a6f8e0nR92dW5GFZW",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090500,
+      "locationName": "唐山",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：1、大专或以上学历，计算机或相关专业毕业；\n2、2年以上实际java项目开发实施工作经验；具有丰富j2ee架构设计经验，深入了解三层结构并具备实际工作经验，熟悉struts，hibernate，ibatis，spring等主流框架；\n3、精通java编程、设计模式和组件技术，熟悉关系型数据库和面向对象思想，熟悉tcp/ip/webservice、soap/网络安全技术；\n4、熟练掌握oracle数据库，能够熟练进行编程，拥有优秀的数据库设计能力；\n5、熟练使用powerdesigner、visio等工具，有两个以上产品设计、实施经验；\n6、熟悉linux，unix操作系统编程；\n7、有过服务器负载压力开发，掌握javascript+extjs+jquery的优先；\n8、具有良好的文档编写习惯，能承受较大的工作压力；\n9、具有强烈的工作责任心、有良好的沟通能力和团队合作精神、承压能力,独立开发；\n10、喜欢研究新技术，善于思考，有上进心，时间管理能力强；\n11、思路清晰，善于思考，能独立分析和解决问题。",
+      "encryptAddressId": "35928e3f74cfc6a81XR839m8FlA~",
+      "address": "唐山路南区唐山创新小镇D6-4",
+      "longitude": 118.190775,
+      "latitude": 39.593755,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7cd12504fcb8aa570c52bdfa6571cd37",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90e819916aeeeb47d47e3f9654c54488",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络协议",
+        "Spring",
+        "Hibernate",
+        "Struts",
+        "Unix",
+        "架构师",
+        "网络安全"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人力",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "前锦众程",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e5a7fe21fafb5421nd83dm6EFE~",
+      "brandName": "前锦众程",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210115/4f1a9ff2330b8442f1842dc13ae0ef70298c61bc0c2d4047d438795feb6d14eb_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1722315619241,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "前锦众程",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
