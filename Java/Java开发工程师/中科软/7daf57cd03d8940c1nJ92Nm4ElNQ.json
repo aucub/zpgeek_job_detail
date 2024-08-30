@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M0dqrs-90VxAj-S1NQQXpEpc__wj1kfouGA-KUqv44LvfKu7UndCvsbXpPaUZ3R3hoWADEppEo3RbaINjl_BmJvWaHrPAUlCVO43ZNTujZxzieh3uyhGXPXTm4bBbeP4RRZnDC9j0w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7daf57cd03d8940c1nJ92Nm4ElNQ",
+      "encryptUserId": "f0c9810ea95c3b040nJ50t-9E1I~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n本科或以上学历，计算机等相关专业，1-3年以上Java开发经验\n有扎实的Java开发功底，对IO、多线程、并发、性能调优理解深入。\n精通Spring boot、spring cloud、Dubbo、Redis、 MQ、 MySQL、Mongo、Elastic 等常用技术，具备丰富的实战经验。\n熟悉Docker/K8s等容器化系统，具备微服务实践经验。\n对技术充满激情，对新技术有敏锐的洞察力，勇于面对挑战。\n思维活跃，逻辑清晰，具有良好的沟通表达能力、团队合作意识。\n自我驱动力强，有强烈的事业心和责任感，结果导向，具备良好的协调推动能力和抗压能力。\n\n岗位职责：\n协同公司研发部门进行产品软件架构设计、数据库设计。\n配合产品、测试部门完成产品研发过程中的疑难问题的解决。\n研发标准、代码规范、数据库设计规范的制定。\n研发全过程参与，从需求、设计、研发、测试、部署、交付。",
+      "encryptAddressId": "e24a6059574657dc0X193dq0Eg~~",
+      "address": "北京丰台区中国人保健康后援中心无",
+      "longitude": 116.30501,
+      "latitude": 39.883864,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3dc72d53975c5cff62cc1aca6e5e40fb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bfe769e010d679eeae0b41e8e5a5a0ed",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "服务器配置",
+        "Spring",
+        "Redis",
+        "MySQL",
+        "WEB开发",
+        "Linux",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200418/77b3a6927d13921be4145afa54909b5a4ccd9d5308d538479a8553fbbf1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1724985438728,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8FOkYDO5Penzy-W1fX4K5vgEo9L3ciJyEQhd1kIL2nl2STGLNRjroPsTYg_eYfcTVLm7Z6cWHs-3P01N-afEQC2X6lAq2jCyrsHNZhDmzJS7CJb5vetnCrCP7aGJeK5Mf3ceSR6NwuY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6ccad7a1c7847f060Xx63dq4Elc~",
+      "encryptUserId": "7dcbbfec0c39b10103143NW4GFQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101070300,
+      "locationName": "鞍山",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "1.能按时.独立.高质量完成研发工作 \n2.善于学习思考，能不断学习与他人进行分享，能主动寻找解决复杂的技术问题 \n3.根据业务需求与开发人员配合实现相关业务流程 \n4.负责现有有业务系统的维护及需求变更，参与新需求开发及缺陷修复工作 \n5.参与项目的上线部署及项目上线后的维护与运营 \n6.持续优化系统架构，提升系统高可用和高扩展性 任职要求： \n1.有一定的java开发经验\n2.有比较好的面向对象设计和编程理念，有较好的设计功底，掌握一部分设计模式 \n3.熟练掌握目前流行开源框架(Spring MVC Jfinal)，对于用过的开源框架，能了解到它的原理和机制 \n4.精通MySQL、SQLServer、Oracle等各类型数据库的使用 \n5.熟悉Web前端技术，如：Ajax、Json等 \n6.具备良好的沟通能力，能快速融入技术团队，对项目负责，对技术团队负责",
+      "encryptAddressId": "4ada6c8fc0d390f51Xx63dW8GFs~",
+      "address": "鞍山立山区鞍山佳驰科技有限公司",
+      "longitude": 123.009753,
+      "latitude": 41.13304,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/729e162d5e7c34f7c01b191dd8bd95ca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/129ea4eaa23b2674bd897e24402d8f9f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MVC开发",
+        "MySQL",
+        "Oracle",
+        "SQL Server",
+        "Web端",
+        "JavaScript",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "佳驰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b42192925e05e6801HRy2969Eg~~",
+      "brandName": "佳驰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722411517004,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳驰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

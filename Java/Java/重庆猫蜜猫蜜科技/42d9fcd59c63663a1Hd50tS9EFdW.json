@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "roOHlDAwE4wE7-Z1OGIinjoQMYJ-9Y2LNpLYnMxbjveyLN52Zs9r7AcOm4pNDmWSLwB_rD-ECITmohzuAyVkuZyT53ILMAZx7LUG1W02RikOgthys388",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "42d9fcd59c63663a1Hd50tS9EFdW",
+      "encryptUserId": "420f397a6744e47b0Xd-3d28EFJY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.1-3年开发经验2.熟练面向对象开发，熟练掌握java基础，如java集合，JVM内存模型，多线程等\n3.熟练使用常用框架，包括但不限于spring、springBoot、springCloud、myBatis等常用框架\n4.熟悉mysql数据库，具有一定的SQL语句优化经验，熟悉redis\n5.学习能力强，代码质量高，拥有良好的编码习惯，并能高效的完成开发任务",
+      "encryptAddressId": "b0a5064c4e17011b03J_09W8EVRZxIS-WPk~",
+      "address": "重庆南岸区龙门浩老街·下浩里之于写字楼",
+      "longitude": 106.595746,
+      "latitude": 29.557588,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bf8f14dee0e470987f8880dcd0daa1c1b96bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231201/48ba41acc9cef1bf171dc2c10f40aaf7fac6c926cbed2e8e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "PHP",
+        "SpringCloud",
+        "MyBatis",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "分布式经验",
+        "微服务经验",
+        "云计算经验",
+        "职业责任心"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钟先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "重庆猫蜜猫蜜科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "470dd50cb8a24eac1HZ829W1GFo~",
+      "brandName": "重庆猫蜜猫蜜科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722400405976,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "重庆猫蜜猫蜜科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

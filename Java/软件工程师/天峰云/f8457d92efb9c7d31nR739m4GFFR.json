@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "SwR8_qgMLIDDK-X1936tK9xThvEc6qZ-WyQf5VJcWQIXxEETQCIUKb-4eBKmP_tq1u3CLnWTfRzKvRodBEho7AC04T8YLollVU8OFUKzW4TD9yo6xaTmLLjSfbL2NUoM-izkZMOH3GAa",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f8457d92efb9c7d31nR739m4GFFR",
+      "encryptUserId": "0c2b7e4749fe44991H1_3Nq7E1E~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责公司软件产品与项目的开发、维护工作；\n2. 参与需求分析与软件设计，对系统设计及功能提出自己的意见、建议；\n3. 分析并解决软件开发过程中的问题。\n【任职要求】\n1、熟悉java编程语言，具备2-3年以上java实际项目开发经验；\n2、熟练掌握SpringBoot，Mybatis等开源框架；\n3、熟悉MySQL/Oracle/SQLServer等数据库当中的一种或多种，能够熟练操作与使用；\n4、熟悉Linux环境及操作，熟悉Apache，Ngnix，Tomcat等；\n5、熟悉html、css、JSP、Servlet、JDBC、vue等技术及原理；\n6、了解Git常用版本控制工具的使用；\n7、了解微服务架构理念，具有springcloud、docker等分布式系统开发经验的优先；\n8、具有较强的沟通能力，分析和解决问题的能力，具备良好的团队合作精神。",
+      "encryptAddressId": "74c276e612a107a80Xdz0tW8E1M~",
+      "address": "潍坊奎文区心悦蓝湾2-2-502",
+      "longitude": 119.166207,
+      "latitude": 36.729521,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a66afbc8fd33d40ec641e3bfcf4d1bd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea25f11a98d11001ecc37466759e9486",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "Java",
+        "全栈工程师",
+        "CSS",
+        "JavaScript",
+        "服务器配置",
+        "分布式技术",
+        "微服务架构",
+        "Spring",
+        "容器技术",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190114/aedb31621090efb3c67458aecd8d52fd8df9a915cdc38ef8857a7a7148d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "天峰云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b4684fe91a1159c53nB_29-8Fw~~",
+      "brandName": "天峰云",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201020/5c0057c820ab2aa82116e1ce5f438bdf8df9a915cdc38ef8857a7a7148d54e14.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "致力于企业信息化服务，打造最适合企业应用的产品，目前服务于印刷、救援、物联网等行业。\n公司主要产品：道路救援平台、商城、人脸分析",
+      "labels": [
+        "五险一金",
+        "年终奖"
+      ],
+      "activeTime": 1724464556462,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天峰云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

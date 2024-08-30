@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mVrum8CWsjkRH-K1g7jhKZDcB4u_xb4QPHJadv5hK9SxYsLD7gJsA_N2GhFxPHi9u3QCqkqmZ4_0uJCGi6R-EKxtTFbVV6Au_Nnhx0aWL15Y9cY4sHid9cpKtsHy_0ATA3i_mWP7TnFzEQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f270df46409e0d041Hx43d-8ElRW",
+      "encryptUserId": "a377a8066d1c7abe1n153tW_EFA~",
+      "invalidStatus": false,
+      "jobName": "JAVA后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司产品系统设计与实现，保证系统稳定；\n2、与产品、运营等团队紧密配合，确定产品的技术解决方案和开发时间评估；\n3、解决研发过程中的关键问题和技术难题;\n4、协同组内开发工作以及任务安排。\n岗位要求: \n1、计算机或相关专业本科及以上学历，1-3年java实际项目开发经验；\n2、有扎实的Java基础，JVM、Java多线程、并发、JAVA NIO以及网络通信有深厚的经验； \n3、熟悉J2EE体系结构，熟悉主流开发框架：Spring、Spring MVC、Spring Boot、Spring Cloud等，熟悉SOA、微服务架构体系； \n4、熟悉Tomcat、Nginx等主流应用中间件；\n5、熟悉消息中间件及缓存技术：Kafka、RocketMQ、Redis等； \n6、熟悉Mysql数据库管理系统、相关技术及工具，并熟悉常用SQL优化手段；\n7、熟悉Linux操作系统，并能书写常用的shell脚本； \n8、对TCP/IP、OAuth2等协议有较深入研究，有Java并发编程经验\n9、善于思考、有较强思维逻辑能力、主动积极、沟通能力强，有良好的团队精神，能够承担压力；\n项目经验：\n参与过3-5个后台项目的开发，能够独立完成复杂的后台开发任务，具备良好的团队协作和沟通能力。",
+      "encryptAddressId": "3d1aec60befdd67f0HZ739q-F1U~",
+      "address": "成都武侯区川威大厦2108",
+      "longitude": 104.061168,
+      "latitude": 30.550428,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83355111d1b04fe724cb18b1b6500b41",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e98c899b8e458bdb63bc599f2c10aaa5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "蒲女士",
+      "title": "HRM",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190828/8076829a047454247ad31e51d5de4911cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "四川云腾未来科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e92401295d68ee7e1XR90ty8Elo~",
+      "brandName": "四川云腾未来科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221010/7bf6f160950405e9ab1ddb2268ffdef9c0abe767551cdba30600ba911175a7c9841dec62d65a1996.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "五险一金"
+      ],
+      "activeTime": 1725011430714,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川云腾未来科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

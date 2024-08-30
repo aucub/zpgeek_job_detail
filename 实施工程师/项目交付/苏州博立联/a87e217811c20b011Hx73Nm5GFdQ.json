@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ztd6nPdOiYUye-H1w3HFnZo9PySxH-zcNeEKKnCUE2vVxwT-o61q8ZX6cNWsrOaIb96VfNC4XZUUNCCD7sd0XhmT2AvQ6PawgHCoT5D1z3e0r26mZ3T5WpzSjJR4Dgdy9mruXPjyaNcPzw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a87e217811c20b011Hx73Nm5GFdQ",
+      "encryptUserId": "1077fe9ebd2c066b1nV72t29GVFY",
+      "invalidStatus": false,
+      "jobName": "项目交付",
+      "position": 100606,
+      "positionName": "实施工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责公司软硬件产品和项目的实施工作；\n2. 负责公司内部网络规划、服务器管理工作；\n3. 深入了解产品和业务需求，引导客户并收集其真实需求，提升产品竞争力；\n4. 负责产品和项目交付过程中的各类文档编制工作，提高交付速度；\n5. 负责工作范围内的测试工作和运维工作。\n6. 撰写系统使用说明书，完成系统培训工作\n7. 研究各类行业内业务、技术规范、并对内提供资讯支持\n任职要求：\n1. 计算机相关专业本科及以上学历；\n2. 了解python、Java、golang任意一种语言；\n3. 熟练使用关系型数据库（包括但不限于MySQL、SQLserver、postgres等），熟练使用Nginx、Redis、MQ等中间件；\n4. 熟悉gRPC、TCP/IP、HTTP 等网络协议，熟悉常用的路由协议及组网，具备良好的网络知识；\n5. 精通主流服务器操作系统，如CentOS、Ubuntu、openEuler、麒麟 、windows等，有 Docker、Kubernetes 等容器化和编排技术的实践经验，熟悉shell脚本，可独立编写shell脚本来完成交办工作，对linux内核架构和工作原理有过深入研究者优先。\n6. 精通虚拟化平台，VMware、Open Stack、proxmox-ve或其他虚拟化平台至少两种，可独立完成虚拟化安装、操作系统安装及软件部署工作\n7. 有 Golang 项目经验，有代码仓库、持续集成、持续部署相关产品开发经验者优先；\n8. 精通web容器运行机制，精通tomcat、Undertow等web容器原理\n9. 具备优秀的学习能力和问题分析能力，能够快速掌握新技术，解决复杂问题；\n10. 具有清晰的逻辑思维能力和良好的沟通协作能力，能够有效地与团队成员同事合作。\n11.具备初步的项目管理能力，简单项目可以在项目交底后协调资源独立完成项目的交付工作。",
+      "encryptAddressId": "c280d09c25f793890HZ92tS7GQ~~",
+      "address": "苏州张家港市云绅工业602",
+      "longitude": 120.533389,
+      "latitude": 31.898066,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dbead7d8ed92af463f3f01bf535724d3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/045039b6339d3c108a154e87169ac8c5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业",
+        "管理相关专业",
+        "软件实施经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "苏州博立联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "df5421982994c41833F93Nq5EA~~",
+      "brandName": "苏州博立联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220313/7bf6f160950405e9bd3aa8f0817143a6f89823f56a52cf95a3bcc8ffe1f34cb6cb5da5dfc0a19aa2.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724806990628,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "苏州博立联",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

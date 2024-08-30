@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9xH4NeVqGO-Q0-C13eanr46WtAMw8LjlLAplerXYqIfqCP7gFhYHwfC4Ls5pX-I-TK-8oXObL-kG56sZ77qe1fjuEd18RSSg-bwNHKx-flY_i0abAPU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9bb50a8d7a0db8ab1XN63d64F1tQ",
+      "encryptUserId": "865b4e0ba877119503Z43Ni4FFo~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.软件功能设计\n2.使用java语言实现软件功能开发；\n3.根据产品需求，完成功能模块的设计，编码和测试工作\n4.编写相关技术文档，并辅助软件测试\n岗位要求：\n1. 扎实的java基础，熟练使用java主流技术框架(Spring、Spring Boot、MybatisPlus等);\n2. 熟练使用微服务模式开发，并对前后端分离开发有深刻的理解与开发经验；\n3. 对nigix、nacos等主流微服务组件有成熟的开发使用经验； \n3. 熟悉Mysql、PgSQL数据库开发及常用优化方法;\n4. 熟悉Redis常用功能及优化方法；\n5. 熟练使用docker容器化部署，熟悉基本的docker的指令，并具备容器化部署及调优经验；\n5. 熟悉RabbitMQ、Kafka、Redis至少一种消息队列的开发及优化，具有项目开发经验；\n7. 熟悉Linux系统，能写shell脚本处理日常任务；\n8. 工作态度积极、正向、有一定抗压能力；\n9. 具有分布式高并发系统研发经验优先；\n10.有自己封装的可复用SDK者优先。",
+      "encryptAddressId": "a5479b0985e33a8733Z539q-E1M~",
+      "address": "徐州云龙区云铁大厦1410-2室",
+      "longitude": 117.263233,
+      "latitude": 34.259723,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2e72854efd5c5339fe7d1b3e8273a38f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db5d55d402299cb98b227e2a1902eaa0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "徐州钛航信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "45c9f838c3bdd16f1XF729q4F1Q~",
+      "brandName": "徐州钛航信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722960746000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "徐州钛航信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

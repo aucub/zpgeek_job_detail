@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iyRqTO7HPAr10-_14amYHlXWw18YiTDkG5wwTb3iJC0VaNMab6hugzxvTmM16IrcoEohixFBd1B_O3Jqzy1JEccIcaLTIsDiigy5MV1kg487fO7r9Y5JDdzgQl2g-JOq-Kf4P5SP2Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1928f74f2500295a1Hx72tm4ElJV",
+      "encryptUserId": "a54a10ca5422019a1HB62NW6F1A~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责系统的需求任务开发编码、代码走查，自测等工作。\n2、按照项目管理流程，跟进自己负责的任务。\n3、日常系统维护。\n\n职业要求：\n1、硬性要求：统招本科及以上学历(全日制，非民办)，双证学信网可查。\n2、计算机相关专业优先。\n3、有较好的沟通能力、有团队合作意识，较强的抗压能力。\n4、有较好的逻辑思维能力。\n5、工作细致，认真负责，思路清晰，善于思考，具备独立分析及解决问题的能力。\n6、有保险系统开发经验或保险行业背景者优先。\n7、计算机相关专业，无工作经验也可考虑。\n\n技术要求：\n1、熟练掌握Java基础知识。\n2、精通J2EE编程，熟悉常用设计模式，编码基本功扎实，有良好的编程习惯。\n3、熟悉掌握 SSM、SpringBoot、SpringCloud等主流开发框架。\n4、了解并会使用Linux命令。\n5、熟练使用Mysql，PostgreSQL等关系型数据库。\n6、了解ElasticSearch，Hbase,Redis等非关系型数据库者优先。",
+      "encryptAddressId": "595d9709ee7c8a401nZ62d-6FldYxYq2UP-c",
+      "address": "南京秦淮区中国人保(南京)金融大厦",
+      "longitude": 118.801808,
+      "latitude": 32.021997,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230628/48ba41acc9cef1bf06f0ad20bae133b110bbb7f7917beb5a6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230628/48ba41acc9cef1bfdcf0b25272cd2218cd17282c9e4da4726bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "微服务经验",
+        "PostgreSQL",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杜先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1725013164275,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

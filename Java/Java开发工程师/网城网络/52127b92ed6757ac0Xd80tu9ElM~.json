@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GYnGDUKqtrmKa-X1wfV0kSHPV-iOLVkyuTHPmwxWP2a53wDLt9VCZsiG-XXVUvl5jl_PH2vhg1lyF0Qs02EcOZXORJqsFr7Oj1TOSfvSOszRG3DU",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "52127b92ed6757ac0Xd80tu9ElM~",
+      "encryptUserId": "6ffdb3b6e0dec7e133Z_2tS0FVc~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101090800,
+      "locationName": "衡水",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\r\n1、负责所属模块的发展建设，包含功能的规划、需求分析设计与技术实现；\r\n2、完成核心/重要模块的设计、编码、测试以及相关文档；\r\n3、参与代码设计、审核和检查；\r\n4、帮助团队解决开发中遇到的难点问题，负责技术攻坚工作；\r\n5、参与系统稳定性、性能和扩展性调试。\r\n\r\n\r\n任职资格：\r\n1、至少4年以上JAVA软件开发经验，有Web系统设计开发经验；\r\n2、扎实的JAVA编程基础，熟悉算法、数据结构、多线程编程、网络编程等；\r\n3、熟悉主流框架（Spring、Hibernate、Mybatis、WebMVC），熟练使用jQuery、EXtJS、css和JavaScript等。熟练掌握数据库MySql、SqlServer、MongoDb的使用，熟悉Linux、Tomcat、memcache、SVN等；\r\n4、熟悉远程服务调用技术，如RMI、Hessian、WebServices等；\r\n5、对数据库分库、分表设计和优化有很好的实战经验，熟悉Tomcat集群，Nginx在Linux下的配置和调优；\r\n6、有大规模并发系统的开发经验优先，有金融、电子支付系统相关设计开发经验者优先。",
+      "encryptAddressId": "e9d5a09703edc0d31XN739i5GVQ~",
+      "address": "衡水桃城区东都·soho育才街鸿泰东都1号楼",
+      "longitude": 115.670427,
+      "latitude": 37.735258,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/42447ae87b420934203b4d603ee70b18",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a5ffe76773469eb066a6b7796541ce80",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Hibernate",
+        "Mybatis",
+        "MVC开发",
+        "Web端",
+        "后端开发",
+        "移动端"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191125/82816902705989998d26d15aac9f853247ad33f3e9aa0c1659d1e3df132_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网城网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f402420811f923dc0XJz29y0Fw~~",
+      "brandName": "网城网络",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191125/82816902705989998d26d15aac9f853247ad33f3e9aa0c1659d1e3df1321fca6.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1722446725865,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网城网络",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

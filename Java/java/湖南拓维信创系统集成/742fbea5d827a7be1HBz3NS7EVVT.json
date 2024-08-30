@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vgdVWW0afm3qR-A1oAOn0SNcsExpL12evyeLhclRtkzrQvBL1gqLIGyX205VzwfzzxxIlJyU7eKQmGRqTpo8UayKTA2ZbJ2nWZJqOG3qElQSlv-0pD2i9P-BZIa3ng91w6RvPNW9-31f1yU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "742fbea5d827a7be1HBz3NS7EVVT",
+      "encryptUserId": "da2ab1b18133b7630nR-29W0E1BS",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "正常双休  法定节假日全休  五险一金 周末加班双倍工资  统本  理工科\n1、全日制本科以上学历，对代码有着极致追求者可适当放宽工作经验要求。\n2、熟悉Spring、Spring MVC、MybatisPlus、 Spring Cloud和Spring Boot等框架，以及与之配套 nacos、sentinel等Alibaba套件。\n3、有Java微服务经验，了解并能解决随之可能产生的幂等性、分布式事务、数据一致性等问题。\n4、熟悉Mysql、Postgresql、Oracle等关系数据库，对索引优化、设计规范、底层原理等有较深认知。\n5、熟悉RocketMq、Kafka等消息中间件的使用，理解其底层原理者优先。\n6、了解JVM，内存管理和优化;\n7、对常见Devops持续交付、容器化管理应用 jenkins、K8s等有使用经验。\n8、具备良好的沟通表达能力和团队协作意识。",
+      "encryptAddressId": "7ce66dec31f33b541nV83tS-F1VUyoS8VPKX",
+      "address": "成都郫都区国腾科技园1号楼4楼",
+      "longitude": 103.971013,
+      "latitude": 30.731524,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1d2a6ba679bb486c91eab8d36cc02e3e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9d3a8899cfb748be488be23ede74878",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JVM",
+        "Spring",
+        "MySQL",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240701/607f1f3d68754fd09bd0226d948bfffa37a0273693b049f6640d34cb692ec97a587f7bf4b41029b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "湖南拓维信创系统集成",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1a5a8f83ae48e8481HR-3d29FFY~",
+      "brandName": "湖南拓维信创系统集成",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231013/7bf6f160950405e9f9f130de6f7a6c96027da0affc60071820491525247cc82bfb781f29554c55e2.png.webp",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "l Talkweb，拓新思维、创造未来\nl 1996年成立，2008年深交所主板上市（股票代码：002261.SZ）\nl 总部设于湖南，在北京、上海、深圳等地设有分支机构，拥有4000+名员工\nl 业务涵盖政企数字化、智能计算、鸿蒙生态\nl 业务覆盖全国31个省级行政区、海外12个国家",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1725011937919,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南拓维信创系统集成",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

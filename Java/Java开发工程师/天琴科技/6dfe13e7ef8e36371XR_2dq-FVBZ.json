@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ioXuRRb81ZU6A-m1gWQqjqza7j4pnynFtMS2Vg44Ze80ZFq1qbKfuRx57350iVUpZ-56wsGp3WLTrDQ6AvkNN0WL8RtHZJgCF36cN9qCEnwYBxPjMw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6dfe13e7ef8e36371XR_2dq-FVBZ",
+      "encryptUserId": "7f51066a29f9259403R50tW1Fls~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "特别说明：本岗位非外包、非外派 \n\n1. 负责产品的java开发工作。 \n2. 参与架构的设计与实现。\n3. 对产品进行性能和代码优化，并结合实际情况提出改进建。\n4. 配合前端研发工程师进行产品整体联调。\n5. 关注前沿技术。\n\n职位要求\n1. 具备扎实的java/数据库等编程基础知识。\n2. 熟练掌握json/xml等数据交换格式。\n3. 熟练掌握 SpringClould，SpringBoot2、SpringMVC、myBatis等框架。\n4. 熟练掌握关系型数据库表设计、表优化，编写sql、存储过程等。\n5. 了解消息队列和服务通框架如，gRpc、RabbitMQ，kafka ，syslog 等。\n6. 了解常用的设计模式。\n7. 熟练使用git等代码管理工具、maven/gradle等项目构建工具。\n8. 熟练使用Linux系统、编写shell脚本等。\n9. 熟练使用docker，并可以制作docker镜像。\n10. 了解前端相关技术html/javascript等。\n11.计算机相关专业全日制本科及以上、1 年研发经验以上，全职2-3人 。",
+      "encryptAddressId": "f1b48b4f56a794e003xz3Ni0F1A~",
+      "address": "成都武侯区誉峰里誉峰遇见L3栋1单元10楼1015",
+      "longitude": 104.051414,
+      "latitude": 30.58297,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e687f0798f44e4cfd73827259130ddbb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74126c7d3b0b071a4959c9b756ef039f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "容器技术",
+        "网络协议",
+        "消息队列",
+        "SpringMVC",
+        "软件工程师",
+        "Maven",
+        "MySQL",
+        "MVC开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180615/a684e73131489ecf306cc7a12fb3cc0dcfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "天琴科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4fd68e41f19fb03c1XV63d--Ew~~",
+      "brandName": "天琴科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190322/c09b96e5c580191006cc7933b2bbd21bf6cabe8d5e73c7cd25dfe02963daf6b2.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京天琴合创技术有限公司是一家专注于网络安全、数据分析、智能识别的新型技术公司，成立之初，公司就确立了以网络安全为基础，以数据分析为抓手的双引擎驱动机制，目前公司已经形成了以网络安全和数据分析、智能识别两个技术团队，为国内外多个公司提供产品服务和技术服务。\n北京天琴合创技术有限公司是国家高新技术企业，拥有专利3项，软著二十余项，目前在西安、成都设有研发基地，客户覆盖政府、交通运输、金融、教育等多个行业，产品覆盖安全检测、行为分析、图像分析、智能防护等多个方面，为各个行业的客户提供服务。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1722395789103,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天琴科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

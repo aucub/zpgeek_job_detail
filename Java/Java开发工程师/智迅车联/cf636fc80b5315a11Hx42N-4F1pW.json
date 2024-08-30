@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6HR7eyKRT2lXq-41Nl_UPtOTxx4jIG4Rs-C-jqEEq1N0XavoOTGqhO6ksUfX5g2IgPQwjf_dzyYghCv1jXNkbmiAQMh19nUjtOzvhQdjwhAfPMoBkD8_w4B8R0lJNuYbWHMZYWTT0vBxqQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cf636fc80b5315a11Hx42N-4F1pW",
+      "encryptUserId": "95c1e8ba3c98b0ab0nZz2NS6FVNV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责产品、项目的需求分析和技术方案设计，并根据业务场景做出技术选型、制定合适的技术方案与技术架构；\n2、需求的编码实现和代码管理，并进行单元测试；\n3、负责测试版本的移交，并修复测试缺陷；\n4、负责生产问题处理，修复生产缺陷；\n5、负责开发规范制定，技术培训和指导；\n6、设计，改进，维护服务于公司开发和运维的框架、服务、工具、和中间件；\n7、协助运维做数据分析，提供必要的数据查询脚本；\n8、部门安排的其他工作。\n\n岗位要求：\n有保险经验优先。\n1、熟悉Vue、Bootstrap、JavaScript、Ajax、JSON、jQuery等前台开发技术\n2、熟练掌握mybatis、Spring、springmvc框架，了解Struts2和Hibernate\n3、熟悉Java、Web多线程、JVM，熟悉Spring Cloud微服务，Dubbo分布式框架\n4、熟练掌握Tomcat等Web容器以及J2EE容器的配置以及部署，熟悉Linux常用命令\n5、熟悉MySQL、Oracle数据库，有一定的数据库设计能力、sql优化、存储过程开发能力，了解redis",
+      "encryptAddressId": "7a62ee0513c1990e1nZ70ti-GVJRxo66Vf-a",
+      "address": "成都武侯区中国华商金融中心1号楼1号楼",
+      "longitude": 104.062766,
+      "latitude": 30.581489,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230514/48ba41acc9cef1bfdcebaf54c1719cfd617f4e1f97f6460a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230514/48ba41acc9cef1bfe417f836967403f5229c1129fb2cd3c46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240806/607f1f3d68754fd01d48c2c199bdaa0b277b6a4ab318b4599d9877d636722e9b414ed2ee338647b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "智迅车联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cdd9eae5746a1ea403J63d-6EQ~~",
+      "brandName": "智迅车联",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210810/89bf0338e393fe3a199c4d49c9ae4b6368471bc24ddf7ae5cd7a6343769e1967.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "智迅车联成立于2015年，专业专注于金融保险技术创新，通过SAAS云服务和场景化保险、金融的定制，致力于为保险机构及有保险、金融等需求的客户在营销、产品研发、客户服务等方面提供数字化建设解决方案。\n我们的使命：科技让保险更简单。 \n我们的愿景：成为一家产品核心竞争力强，人员队伍素质高，有较强市场影响力的金融科技公司。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1725019765763,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智迅车联",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

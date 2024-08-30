@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MPQHYYdJSc_wv-O1wgGel_qEZ3BfcFImVb2OeooHKFQooWqmiexl71rYiV8XenhzjmJWpczaRhRKjI1fowO_yXKm1IC5JteMsLZ04uuvnSK5rxGw",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "01f810bc6b106c3433N93dW-GVs~",
+      "encryptUserId": "34d0453ff17d48940nZ83ty0EVE~",
+      "invalidStatus": false,
+      "jobName": "Java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 1年以上Java开发工作经验；\n2. 熟悉Spring Framework，Mybatis等常用java开发框架；\n3. 熟悉MySQL、缓存（redis、mongo等）等存储，熟悉数据库索引；\n4. 针对高并发/多线程/性能优化等有一定的理解；\n5. 熟悉Linux系统，熟练idea,eclipse,git,maven等常用开发环境使用；\n6. 兼具熟悉Web及前端技术（包括Html，css, Javascript, ajax, json, jQuery）开发框架者优先；",
+      "encryptAddressId": "1beb2aa3e9e3032c1nd_2tS0FVc~",
+      "address": "上海徐汇区绿地汇中心A座2212",
+      "longitude": 121.45746,
+      "latitude": 31.16551,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18d401019f5b128b5e3b7233a164d504",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aade7862a524f8050ee4fa4f8218c912",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "SSH",
+        "JQuery"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "崔先生",
+      "title": "Hr",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190211/5f0624db3c262583221ac2d25db46cb25f67d173174ac1c3f843b44a7a9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "锋之淼",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "423deb7a1e42fe9c03x_29S9GQ~~",
+      "brandName": "锋之淼",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1722405190342,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "锋之淼",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ulao6A4VU4Mwj-z1mBFPY9WprBWo7hAwuelpiXfi4Kso-POV-KZqooENeVILTaijInf2vGB0Dxtf2-pQgELapBwOLXFAdNh3XpgFUe8ZH8dd4w7kb0S55CjO1vyjL9AQ8jE6t67ofAK_BQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "475c086e63ebc3801HNy2t6_GVBS",
+      "encryptUserId": "259cd62295d9ae0e1XV_2N-5GFs~",
+      "invalidStatus": false,
+      "jobName": "java开发（React、Vue框架）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、具有2年以上java 项目实际开发经验，熟练掌握 Java 编程语言，包括基本的语法、面向对象编程、集合框架、异常处理等。\n2、对 Spring 框架有一定的了解，包括其核心组件如 Spring MVC、Spring Data JPA、SpringSecurity等。\n3、熟悉 Spring Boot 的特性和使用方式，能够使用 Spring Boot 快速构建和部署应用程序。\n4、掌握关系型数据库(MySOL、Oracle、PostgreSOl)的基本知识，包括SOL语言、数据库设计事务管理等。此外，对 NoSQL数据库(如 Redis、ES 等)有一定了解更佳。\n5、熟练掌握 React 的基础知识，熟悉 Ant Design 提供的各种U组件，能够使用 Webpack.Babel、ESLint 等进行项目的构建。对 React Hooks、Redux等高级特性有一定的了解更佳。\n6、熟悉 SVN 版本控制工具。",
+      "encryptAddressId": "9d161f995248da1f1nV72N60FlNYwIi4Vfmd",
+      "address": "成都金牛区迪欧时代1",
+      "longitude": 103.993595,
+      "latitude": 30.715893,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfad9da6b83255566c8f855a02ffe091676bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230515/48ba41acc9cef1bfc17f938ed7d49067559c1990e6b8160e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230322/607f1f3d68754fd07f683173e17ae3aba19e4211f5531e7b826346b7ce8c0bfa5ca14dc7e0d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "沈阳丹彤科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d9fe02bcacbb9a831Xdz39i-EVA~",
+      "brandName": "沈阳丹彤科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725010143892,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沈阳丹彤科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

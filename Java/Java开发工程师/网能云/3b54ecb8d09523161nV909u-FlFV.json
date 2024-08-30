@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tl1ZOIp1FTKZy-U1UIGto6KjQ0MvjY_FlQWJfjS1WWHueVaq_sINZgW5k1tqOxLZNBS6A8fqxlRIdbb72POOLtvG-mLq0dJPdJ2Wy2bEQ_s4k4IXiZlT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3b54ecb8d09523161nV909u-FlFV",
+      "encryptUserId": "a2df50f2c90d38060nV72tu_FlZV",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、参与项目的需求分析、系统设计、撰写相关设计文档； \n2、主要负责代码实现、单元测试、Bug修改，积极优化项目,确保代码质量和有效的沟通； \n3、自己所负责功能模块的完整和稳定，单元测试、代码review、性能测试, 并对架构、功能、性能进行持续优化; \n4、按计划完成开发任务目标，按时高质量完成相应功能模块设计与开发实现,确保项目正常上线; \n5、主动发现问题，提出合理化建议，对开发中遇到的技术难点进行预研，能够解决开发中遇到的技术难题. \n\n任职要求： \n1、熟练使用java开发语言，熟悉j2ee开发体系，掌握mvc设计模式; \n2、熟练SpringMVC,Springboot，Mybatis/Hibernate, 且对一个以上框架有深入理解，有一定的性能调优经验; \n3、熟练关系型数据库，如 MySQL/MSSql/Oracle 等；熟练使用Tomcat、Nginx等主流应用服务器； \n4、熟悉JavaScript，Ajax、Html、CSS等前端开发技术； \n5、计算机相关专业，本科及以上学历，2年及以上JAVA开发经验。 ",
+      "encryptAddressId": "7cc4a4de5f7aeb061nF629W6EVA~",
+      "address": "合肥蜀山区高新区软件园5号楼211",
+      "longitude": 117.203779,
+      "latitude": 31.849908,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7dffefd9b90deec0d14b39a1ad556a78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af25854a0d20a505df498a5aee6aec57",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "CSS",
+        "服务器配置",
+        "MVC开发",
+        "Spring",
+        "Hibernate",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "卢先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "网能云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c9d56a90691da73e1nd-29W1ElU~",
+      "brandName": "网能云",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210110/2d61d9a5b31621232d8cfe2c9cbca5f0e96e1aea55629d9bf8f30b92c63357cd.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "安徽网能云智能科技有限公司是一家专注于公共卫生信息化行业的科技型初创企业，旨在围绕技术、产品、服务三条主线为客户提供高品质的用户体验。公司创始人均毕业于中国科学技术大学、上海交通大学等著名高校，均拥有10年以上行业头部公司的从业经历。公司创始研发团队稳定、高效，均拥有多年从业经验。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1722446725858,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网能云",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

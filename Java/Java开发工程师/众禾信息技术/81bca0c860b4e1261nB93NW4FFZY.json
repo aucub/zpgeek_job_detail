@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8gHbBCTHg8pPd-b1hWkgsGKpa7N0H4YKbIW7-IuR7Y5YVAxuiSfk0iJcC1HeciUUWkroqcubVWASvtnOCSTRxQ3g_wEofvHMjiWNL78LsDICixlbUQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "81bca0c860b4e1261nB93NW4FFZY",
+      "encryptUserId": "817f15a2f3db973c0Xx639--E1A~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191200,
+      "locationName": "泰州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\r\n1. 参与公司产品需求讨论及业务系统设计和优化工作；\r\n2. 负责系统设计和业务模块代码的编写；\r\n3. 负责核心技术问题的攻关和系统优化，协助解决项目开发过程中的技术难题；\r\n4. 按质按量完成系统开发任务。\r\n岗位要求：\r\n1. 精通Java语言，熟练掌握J2EE、Spring、Spring MVC、MyBatis等开源框架；\r\n2. 熟练掌握Oracle，SQLServer，Mysql等数据库的开发技能（至少一种），具备SQL优化能力；\r\n3. 熟练使用idea、git、maven等常用工具；\r\n4  熟练使用springboot, 对spring cloud有一定程度的了解\r\n4. 熟悉常用设计模式，具有面向对象的分析和设计的能力；\r\n5. 本科或以上学历，计算机或相关专业",
+      "encryptAddressId": "61a423b47453c83e0nJ63tq8GA~~",
+      "address": "泰州海陵区泰州数据产业园区1010",
+      "longitude": 119.909908,
+      "latitude": 32.391593,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/56b994731a1eff592766fdf016280fac",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d1ca47cec3bfee227ae2ce0f90d668c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "全栈开发",
+        "分布式系统开发经验",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "软件工程师",
+        "Spring",
+        "后端工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190702/d43e6d165afdf91f8538826f37b0e085bf8e16270b555deb4f7eaed33dc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "众禾信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "45aa7f654c58354303183Nq9GA~~",
+      "brandName": "众禾信息技术",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725009532527,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众禾信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

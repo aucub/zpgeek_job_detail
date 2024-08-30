@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7s02SsJynLigw-q1066W9qfBlEVCjX8LxTMcausuY1SuUoZZVAi1As3codIto5meI0TG03aE8_dmRJ9BI50y3nU_nW88nLqCSsgFQozn4QnZs2sj1j6W",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4dfbc8e01e7940e1HV92dm0GVRU",
+      "encryptUserId": "a3c6109cb495bcc40XZ50960E1NX",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】 \n1. 负责完成上级安排的任务；\n2. 能够按照开发规范进行软件编写工作,具备协同开发能力；\n3. 负责已有模块的优化开发及维护；\n5. 编写软件设计开发过程中的文档。 \n\n【任职资格】 \n1. Java 基础扎实，熟悉集合框架，mybatis-plus常规使用； \n2. 熟悉Spring、Spring Boot、MyBatis、dubbo、SpringCloud、redis、mq、xxjob； \n3. 熟悉并发锁，mysql慢查询优化，\n3. 熟练掌握MySQL等数据库，具备SQL调优能力； \n4. 熟悉Linux操作系统，能熟练使用常规的linux命令； \n5. 熟悉Git、SVN等版本控制工具； \n6. 计算机相关专业，至少2年以上工作经验，大专及以上学历\n7.能独立部署Linux环境，比如redis，mq，等各种中间件\n8.3到5年工作经验，较优秀的可以放宽限制\n\n有金融支付行业经验优先  要求线下面试，随时到岗\n暂不考虑应届生   面试请带一份简历",
+      "encryptAddressId": "51146e6b48a0a0931nd809W1FFFR",
+      "address": "厦门集美区软件园三期B13栋1801汇聚天下",
+      "longitude": 118.044504,
+      "latitude": 24.61438,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230429/48ba41acc9cef1bf72a0a6c2cda9c5a628e21ecce7b0e2ee6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf6bb55d016c8a3887ef52f502a2ea5b936bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Golang",
+        "Python",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "ERP开发经验",
+        "MES开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231024/607f1f3d68754fd077f3212d27b9ab6f419247822785a875444818db5dd123a575e1e4053694ecc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "汇聚付",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8ff3c2fe24106e371HV609W7EVE~",
+      "brandName": "汇聚付",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101304,
+      "industryName": "其他行业",
+      "introduce": "汇聚天下数字技术研究院和北京中创智信联合组建厦门运营中心，公司成立于2010年总部位于北京，是国资委参股的国家高新技术企业，由密码学博士团队组成，随着银行和企业面向数字化转型，公司提供数字安全、数字支付，数字权益，数字身份等数字技术服务。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "节假日加班费",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722446538066,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汇聚付",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

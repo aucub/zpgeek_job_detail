@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RSoSqomAxsDHe-c1LdOXBYLJLp3XxvucNuEb_xMCSvPZjsEfQ59qkkZ_jlEx0J2E_V4ypI9NsVWOto1bvktWJe3ek4nkKL4OZgLUI-UQreftfwziMFcMUesRW3F0G8vw7klekPTSm2XCZ_Gglrb5KVYC324XG8okqhaTdHmajJb1S_BwJg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "78767f5b2a99a0781Hx739-9FldS",
+      "encryptUserId": "22ce67e960ef54d81HF52NW5GVA~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位详情：\n1、精通Java语言，3年以上Java相关经验，熟悉J2EE技术架构体系;\n2、熟悉Spring、Mybatis、SpringMVC、SpringCloud等主流开源框架，有一定的前端开发技能储备;\n3、熟悉S0A解决方案(如 dubbo)、缓存(Redis)、消息中间件(Active MQ、Kafka等)搜索引擎lLucence、solr)，静态文件服务(FaStDFS)等技\n术;\n4、熟悉SQL语句的编写，优化，调优及排错，熟练使用Mysql、Oracle数据库，有实际项目的数据库建模经验;\n5、参与过高并发、高可靠性系统的设计，如负载均衡系统、集群、系统容量评估、流量控制，性能优化，故障排査，日志收集和分析等,\n6、掌握设计以及开发工具的使用，如git、maven等;\n7、了解基本的WEB以及数据库安全知识，并能够在设计与开发中关注杜绝安全问题\n8.有较强的学习能力，对新的领域和技术能够快速掌握并应用到实际工作中;\n9、具有较强的责任心，良好的团队合作意识，善于沟通，能承担工作压力;",
+      "encryptAddressId": "59ad8d397ee65eb53nZ73ti6ElRRwou7U_M~",
+      "address": "北京海淀区北京国际大厦C座1",
+      "longitude": 116.325277,
+      "latitude": 39.95322,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4eb6a134a6c25497c19ef84252fac25",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1e205aea68a2d3c22d5da69745e19b5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211116/607f1f3d68754fd0d37fb1c92fdf0cef798d64708edd31ac429e732146d04f274d9c1a26e46_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "上海瑞应人才科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "62518f9a3d79dd931XV_09y4FFo~",
+      "brandName": "上海瑞应人才科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725014093968,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海瑞应人才科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

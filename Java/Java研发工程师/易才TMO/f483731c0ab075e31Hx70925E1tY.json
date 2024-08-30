@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-WsKWQL7WptI0-g17J1ZqQbO1RoCEnnuLJtzEmCx7bOdCBVIXzvjOkhiA-GXr_ZCGyoxkM2pXCbeN2WQ-fH32qWjLv9CmC5_Bp2cI8fOYpa7rnXP2pva0ZLh7WjBymaLwLf29Q8C4Jo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f483731c0ab075e31Hx70925E1tY",
+      "encryptUserId": "330aba68d50864261Xx-39i_FFc~",
+      "invalidStatus": false,
+      "jobName": "Java研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 3,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、按照项目里程碑计划完成安排的软件开发和单元测试工作；\n2、参与软件的系统设计、模块设计，按照需要完成详细设计；\n3、书写相关的技术类文档。\n4、配合质量管理、项目管理、测试管理工作；\n任职资格:\t\t\t\t\t\t\t\t\t\t\t\t\t\n1、本科毕业或以上，计算机及其相关专业；\t\t\t\t\t\n2、精通Java开发语言，有扎实的java编码基础（微服务经验要求）\t\t\t\t\t\n3、熟悉SpringBoot、SpringCloud、Mybatis等主流的开发框架，熟练使用Maven，了解常用设计模式；\t\t\t\t\t\n4、熟悉关使用系型数据库，有Oracle、Mysql开发经验。了解redis，mongodb等非关系型数据库；；\t\t\t\t\t\n5、熟悉主流应用服务器如Tomcat、Jetty中的至少一种。了解nginx或apache,有实战经验更佳；\t\t\t\t\t\n6、了解VUE等web前端开发技术，熟悉Jquery,Angular2，Bootstrap，Html5等；；\t\t\t\t\t\n7、有Linux，UNIX操作系统经验者为佳。\t\n8、有电力、能源行业项目开发经验优先考虑；",
+      "encryptAddressId": "a0ac03489631cc9e1nZ72dW9E1JVxIW8Vf6c",
+      "address": "成都双流区超图成都大厦1层",
+      "longitude": 104.094676,
+      "latitude": 30.518987,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32284a4c850c13060683007cdeca3cd0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1277a648ce76e4afded3aa6c022ea27",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "SpringCloud",
+        "MySQL",
+        "MongoDB",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "董女士",
+      "title": "人才经纪人",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240424/607f1f3d68754fd0f615ab12d98446ff92b5cdfccc6c08167d07acfb8aa053b14dbe4281c86a40e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "易才TMO",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cf00a63359e8d8dc1nV43N-8",
+      "brandName": "易才TMO",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181101/f5668522b20a7134cd6b622ca93943c9cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "乾通互连是一家以SAAS、云计算及移动互联网为方向的智慧化人力资源服务商，成立于2014年，创始人为李浩。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1725007310332,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "业亿辰科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

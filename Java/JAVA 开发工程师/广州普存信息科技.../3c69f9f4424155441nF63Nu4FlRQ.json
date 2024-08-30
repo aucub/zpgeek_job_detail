@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-JqTqLSKnnDZc-e1L2_Z1qnr2IdXRTp-M44y-Kxh2iyAJoK67PfndH6wwD2cqc_v0euIxVfzsuiMKEFvmdJoSoBwsj6o5l9y8L3gKQk7cF7hQVrjEBbj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3c69f9f4424155441nF63Nu4FlRQ",
+      "encryptUserId": "b36a843362b6ffc20nZ-3d29GFpV",
+      "invalidStatus": false,
+      "jobName": "JAVA 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "3-5年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "10-15K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n\n1、负责项目研发、设计与运维工作；\n2、根据产品开发进度和任务分配，负责相应软件模块的开发；\n3、根据开发规范和流程独立完成模块的编码、设计、测试及相关文档；\n\n任职要求\n\n1、本科及以上学历，2年以上实际开发经验，计算机、软件或相关专业\n2、Java基础扎实，熟悉多线程、集合等基础，熟悉Linux常用命令；\n3、熟练使用Spring、SpringBoot、SpringCloud、MyBatis等开源（或微服务）框架\n4、熟练掌握MySQL数据库，熟悉Redis、Elasticsearch等NoSQL数据库\n5、有良好的沟通及表达能力，团队合作意识强，有责任心及具有一定的承压能力",
+      "encryptAddressId": "ce9c095e89ed3c6003Zy3tu1EVA~",
+      "address": "广州荔湾区荔塘大厦606A",
+      "longitude": 113.235205,
+      "latitude": 23.125872,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/516432c2fc0084a764a56a7eafb187ba",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2198edf9baf0aa19d29bf2b1a833b33c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Spring",
+        "NoSQL",
+        "Linux",
+        "后端开发",
+        "软件工程师",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州普存信息科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0618583a5cc263f41nF73NS9FVE~",
+      "brandName": "广州普存信息科技...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司位于广州市荔湾区。是一家专业的IT技术服务公司。公司立足高端IT技术服务，专注于打造一支高技术、高效率、高素质的专业技术团队。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1722402606214,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州普存信息科技...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

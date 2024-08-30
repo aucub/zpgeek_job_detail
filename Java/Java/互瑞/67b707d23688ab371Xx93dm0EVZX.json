@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "b1HaG3Z8bugMk-N1cVmuICjKmZsxt55mCTk1PcU3digY0f7On5THyFYuLoZWLa-WImnRpXlehD3Y_o-h3vRIvFE9PusB0ZrDPnGl1Ii9xdr_B1Ib5-4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "67b707d23688ab371Xx93dm0EVZX",
+      "encryptUserId": "4f7217ecbf9146441XRy2du0F1Y~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.\t负责海量用户、高并发、分布式系统的设计和开发\n2.\t参与系统的需求分析，撰写技术文档\n3.\t参与基础服务、中间件的开发\n4.\t发现并解决系统存在的问题\n岗位要求：\n1.\t本科及以上学历，3-5年Java服务器工作经验;\n2.\t编程基础功扎实，具备良好的代码编写习惯和结构组织能力；\n3.\t精通Java语言，深刻理解面向对象思想，熟悉常用项目构建工具，具备大规模高并发访问的Web应用开发经验；\n4.\t熟悉常用数据库(MySQL、MongoDB等)的原理和使用，对SQL优化有丰富的经验；\n5.\t熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息、负载均衡等机制和实现；\n6.\t掌握Linux 操作系统，熟悉shell的使用。\n7.\t熟悉Hadoop、Spark等大数据处理技术者优先。",
+      "encryptAddressId": "0ccd7fe96ebc46953nZ_2966GFM~",
+      "address": "西安雁塔区蒜泥空间高新咖啡示范街区2楼",
+      "longitude": 108.903231,
+      "latitude": 34.23739,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/000cf21d9548a0670bd58059a187b414",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/da3efac933288174a4c08e8438ac258e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鲍先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "互瑞",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "920e0dd1cdc80a4e1XN83Nm1FFo~",
+      "brandName": "互瑞",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722400405973,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "互瑞",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

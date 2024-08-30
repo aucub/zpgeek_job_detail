@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YmdhJ2w7H6iHV-p1wbhT0-MBReDdHPa3My7zsLhwEEiegSuQbZUW663UORdvEkzqTAkC9CKioOxxhpQzx1sT629H0Mys9SX2jStpzzL-GiQFChOLzbqjd3uV-GWcO5rH4GbjGkAx7Ic~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "315c65f2a0c6a7b90HR83d61Elo~",
+      "encryptUserId": "83eb9972af6baae503J42d24F1M~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 大专以上学历，计算机软件或相关专业\n2、有2年以上JAVA项目开发经验，有具体项目演示案例优先；\n3、熟悉设计模式，具有面向对象的分析和设计的能力；\n4、熟悉java、spring、struts2、hibernate、mybatis；5. 对数据结构和算法设计有较为深刻的理解\n6. 对高并发、分布式系统服务有一定构建经验\n7. 熟悉oracle、mysql数据库，对存储过程及sql优化有一定的经验\n8. 对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力，沟通技能，团队合作能力\n9. 有使用Redis、Hadoop、Hive、Spark等大数据处理平台相关经验优先考虑",
+      "encryptAddressId": "40b22e773d3fbe0c1nV409i7FFQ~",
+      "address": "苏州昆山市中信广场3号楼404室",
+      "longitude": 121.125261,
+      "latitude": 31.289594,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/935c18538ed1e7d8111718e8f7e8d602",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c4907dc5429ff066ac513a3f60ad60e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "Nginx",
+        "Java",
+        "Redis",
+        "Spring",
+        "SSM",
+        "SQL",
+        "微服务经验",
+        "MySQL",
+        "MyBatis",
+        "架构设计经验",
+        "后端开发",
+        "Mybatis",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "嘉达鼎新信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c274f03b84eedd1e03Z639q9FA~~",
+      "brandName": "嘉达鼎新信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190419/6023f9b1fc3dfce648246df7b41e056f4606586baa3154c565b0dfe5f4563a9d.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "嘉达鼎新信息技术（苏州）有限公司，主要与全国各地区文化馆单位合作，做公共文化推广服务。主营智能电子产品、公共文化、数字互动展馆建设，以AI为基础，以创客教育、数字文化平台、数字文化资源、数字文化设备、数字文化体验、数字文化运营为核心的一站式服务体系为依托，为客户提供专业的产品研发、销售与运营等服务。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1724924474192,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "嘉达鼎新信息技术",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

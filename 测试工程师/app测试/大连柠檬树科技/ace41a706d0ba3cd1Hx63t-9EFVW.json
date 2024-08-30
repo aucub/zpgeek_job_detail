@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tR_yVTLGdSrLw-X1AL_9cKmWKcngrNA0oXQlyKBgPMEJE6XPWpKVmmT5ikwBf1D0rc4_S5UHTxrJYWooflVkx7HltUCvQD6JozET2HJUoo2tH-DE8MQwLMBQ7jXskb6CBDdoW0eStiky_tA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ace41a706d0ba3cd1Hx63t-9EFVW",
+      "encryptUserId": "19fd52bce82e81cd0nd53Nq6F1BX",
+      "invalidStatus": false,
+      "jobName": "app测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "1.根据需求文档，设计测试用例，确保覆盖所有重要的功能点。同时熟练使用测试用例的设计方法， 比如等价类，边界值等 2.按照测试计划和测试用例进行手动测试，包括但不限于功能测试、回归测试等 3.使用缺陷跟踪工具记录发现的问题，并追踪问题直到解决 4.整理并汇报自己的测试进度和结果，包括测试覆盖率、缺陷统计等信息 技能要求： 1.基础知识：了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等 2.工具使用：熟练使用抓包工具（比如：Charles）进行抓包和断点等操作 3.文档能力：能够编写清晰准确的测试文档，如测试计划、测试用例和测试报告等 4.沟通能力：具备良好的口头和书面沟通能力",
+      "encryptAddressId": "cc53bf8930c518a63nFy3tu8GVc~",
+      "address": "北京大兴区北京经济技术开发区亦庄",
+      "longitude": 116.506725,
+      "latitude": 39.795253,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20a25d5b2aeb46f00e213795962a82eb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/551b96aad68dcc45ab043eeba4f6a4bc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "app"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苗女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220530/607f1f3d68754fd0ccaa331e3f830f5781c541bb665e5632c333d851c175a8b91d6173c822a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "大连柠檬树科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8d724cf92b84f4991XRy39-_ElM~",
+      "brandName": "大连柠檬树科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725009970868,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "大连柠檬树科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

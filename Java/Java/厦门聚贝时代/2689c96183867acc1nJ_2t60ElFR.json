@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HcZvoo-NhDA4a-J16U-pcH_aDUbsSUxuj3TVoJi8sO35hXjshwtp351ehzf-7-aznHSw8aP-7Qv08B35vym1fBIaNpBtjG0yCpJvKoz--fZS8Q8E67wJ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2689c96183867acc1nJ_2t60ElFR",
+      "encryptUserId": "ce3d61ff3534ef850nd639u_GVZY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与软件产品项目的系统需求开发和分析设计；\n2、负责核心技术问题的攻关解决，系统优化，代码质量控制管理，Bug追踪排查；\n3、参与实现方案的设计和核心程序开发、部署、测试、维护以及相应文档的编写；\n4、承当相关新技术以及趋势研究和引入，促进内部技术进步和创新；\n5、负责项目软件架构设计、开发文档编写、小组任务分配；\n\n任职要求：\n1、5年以上Java后端开发经验；\n2、扎实的Java编程基础，精通Java EE、SOA、微服务等相关技术；\n3、对SpringCloud的熔断、负载、网关各种配置熟知（有分析过源码优先考虑）；\n4、熟悉Dubbo、zookeeper、mongodb、mysql相关框架以及优化；\n5、熟悉分布式事务、缓存应用、分表分库等相关技术；\n6、熟悉ELK、RocketMQ、Kfka、redis等相关框架及工作原理；\n7、有大型分布式、高并发、高负载、高可用性架构经验，熟悉离线或者实时大数据平台架构；\n8、具有良好的沟通能力和优秀的团队协作能力，思维敏捷，有一定自学能力。",
+      "encryptAddressId": "2cd8d79d72181e661nBz29y7",
+      "address": "厦门集美区软件园三期C10栋1602--D",
+      "longitude": 118.03478,
+      "latitude": 24.620793,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69a69b9d9b155fbcfc19edd87ec55f74",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4bf5e3ce4acc5add07b1d25ac37258f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "架构师",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210506/5ca6d58a5dfbd91f61aab5ba8d71e4331dd0529325bcf48fa0f7380a6ab_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "厦门聚贝时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7d84ccf367239c601nJ439m_Els~",
+      "brandName": "厦门聚贝时代",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "聚贝时代网络科技有限公司成立于2018年，坐落在美丽的沿海城市中国厦门。公司致力于口腔健康领域,秉承正本清源”的企业使命,提升口腔领域的专业与技能,并帮助广大腔健康需求人群与口腔门诊之间建立友好沟通平台,从而打破传统医患沟通难的普遍境况，最大化升级需求用户就诊体验,节省医患沟通成本与资源。",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1722371822554,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "厦门聚贝时代",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

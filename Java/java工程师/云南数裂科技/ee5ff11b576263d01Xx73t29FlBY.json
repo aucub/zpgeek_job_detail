@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "dF7n0nbqShbeC-b1HgQzdV8oUoTKG1Ut0MtXQ1Y-lx481yrVY12UMZv3_hHFCBCgd0gl-oBb4Q8ZSgoV1qZ14B3FNUNV8MWGN2zl4qf9eL9quCXdAMM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ee5ff11b576263d01Xx73t29FlBY",
+      "encryptUserId": "f1ebb9f316e9bd460Xx509y7FFM~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101290100,
+      "locationName": "昆明",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1. 1-3年使用JAVA开发的经验，JAVA基础扎实，理解io、多线程、集合等基础框架；\n2. 有过对Html，CSS，Jquery，Vue的开发经验\n3. 熟悉SpringMVC、SpringBoot框架，以及Spring生态相关技术。具体是，自己会搭建、配置并集成其它框架或工具，如MyBatis、RabbitMQ、Redis，能熟练基于它们进行开发、快速定位并解决问题\n4. 熟悉Maven，会整理依赖关系，了解常见插件的配置及使用 5. 熟悉Git,SVN，理解分支及合并，熟练解决冲突，重视协同开发工程中的沟通\n6. 熟悉MySQL，掌握基本的数据库优化和设计\n7.可独立开发负责业务模块，加分项：VUE，Juery的实际开发经验\n\n\n注：仅支持线下面试，如果不在昆明，暂时不接受面试",
+      "encryptAddressId": "6db86a561e95181e3nx_29W6GVY~",
+      "address": "昆明官渡区金马社区金马街9号",
+      "longitude": 102.746453,
+      "latitude": 25.036237,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bf3eafeeaf7384294e7b64fa9336b42ae66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bf70c9ccdf2409f5b9d9da84d81f9ab15e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "林先生",
+      "title": "高级工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190704/6e1c2327760497f9e80529419afde8ce6791c4bd3779b7cbdde7b84a67c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "云南数裂科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2b2f6ae8a0f00251XJz2Ny0GVs~",
+      "brandName": "云南数裂科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司成立于2022年，是一家创业型公司，主要研发数据中台、农业系统、溯源系统、区块链系统等，具备雄厚的研发实力。目前研发队伍有15人",
+      "labels": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722447175552,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云南数裂科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1YzVXtTw89dUq-c1IhMpmRuyWLfpvtlN2eTTynCXsDYU5fEJyucO8bi96HhftBQhNtZ00mSZ1_i8dSv2ar1LTNNe7S2mMkAhP2DBg3J6fw6AeWkbMA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e41d81f0d1fd9d931nd72N20EVJY",
+      "encryptUserId": "81b709d1a70a21a503R609y6GFM~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120300,
+      "locationName": "淄博",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "1，二年以上互联网开发经验，Java基础扎实，对JVM运行原理与常用配置有一定了解。熟悉Java常用技术框架和第三方类库。\n\n2，熟悉面向对象设计原则，掌握常用设计模式及应用场景。\n\n3，熟悉Mysql、Oracle等常用数据库系统，有SQL语句性能调优经验。\n4，编码风格良好，遵守规范，对代码的整洁、优美、可读性有所追求。\n5，责任心强，学习能力强，有技术热情，具备良好的沟通能力和团队合作精神。\n6，熟悉Unix/Linux常用操作，能独立部署配置nginx、tomcat等常用web服务器者优先。",
+      "encryptAddressId": "ca44477c277fd03b1HZy29q0FFE~",
+      "address": "淄博张店区中关村科技城A座",
+      "longitude": 118.031482,
+      "latitude": 36.809112,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/905db060c53f8ae2451656b05d97c8a2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e400b385d9942ad19f877fa73d2721dc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Spring",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "武女士",
+      "title": "产品经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd0ec18de45f4676b368b13dd7994a73e4609fde66c294697c4b8c69fea06847b1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "淄博旗鱼影视",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "953ec8943536ec0f1Hdz3t66GQ~~",
+      "brandName": "淄博旗鱼影视",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100103,
+      "industryName": "广播/影视",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723633059000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "淄博旗鱼影视",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
