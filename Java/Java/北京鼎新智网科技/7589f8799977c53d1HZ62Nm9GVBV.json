@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2QNg0c_45xnWi-u1j9MpVoXCp_v4TBw3TGzMFQM5K8vhXjJdPFbXwUqLF6GbeTPr9XeXW1VbC3CQqzFWZ1ylo4eJFbu-5uDB0FhYiHvB9mj6OzVrDxW7",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7589f8799977c53d1HZ62Nm9GVBV",
+      "encryptUserId": "3dce497d03a573b00XR42tu7FVRR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责公司产品后端开发和维护；\n2.负责产品的文档编写和部署测试等工作；\n3.负责公司业务对接，协助用户集成测试；\n4.负责公司安排的其他研发任务；\n\n任职要求：\n1.本科及以上学历，计算机及软件相关专业；\n2.编程能力优秀，熟练掌握Java开发语言；熟悉RESTful API设计风格及开发规范；\n3.熟练使用Spring、SpringMVC、SpringBoot、Mybatis等主流框架开发；\n4.熟练使用关系型数据库的基本操作，例如MySQL、SqlServer等, 且能进行性能调优；\n5.熟悉常用算法和数据结构，熟悉网络编程、多线程编程等技术 ；\n6.熟悉Linux操作系统，熟悉跨平台开发，可以完成Linux下的项目测试工作；\n7.熟练使用Git、SVN等版本管理工具；\n8.熟悉Web开发基础，JSP、HTML、CSS、JavaScript等语言，了解React、Vue、Angular等主流前端开发框架者优先；\n\n加分项：\n1.做过Python、Node.js、Go、C/C++类的开发项目，可以做对应语言的项目支持;\n2.有物联网数据对接，大数据处理，多线程优化，数据库优化经验者优先;\n3.有全栈开发和部署经验者优先;\n4.有跨平台客户端研发经验者优先；",
+      "encryptAddressId": "65e5e7b5afa599eb1nd_3dq4FlJX",
+      "address": "北京海淀区华天大厦华天大厦14层",
+      "longitude": 116.336058,
+      "latitude": 39.898183,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fea763d9ffaa468e543347195d8e042",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/199fcb226d07e4a0e0be430843e3c9f5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231108/607f1f3d68754fd00e220c12c85cc0f7866faa437dd0c3765fa974dd9ce671ff466a97abb893944_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "北京鼎新智网科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60a79c7cf889920c1HV53di9GVE~",
+      "brandName": "北京鼎新智网科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723707794000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京鼎新智网科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

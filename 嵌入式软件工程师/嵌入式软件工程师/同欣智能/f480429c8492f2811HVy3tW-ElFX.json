@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vEm7qXVs43CqM-G1VhXh80AGaJV8az_vg_F7cY1E6NuCX2ct5IcHrMcIWYIoZj_sYOH8GlNO0K88QSbiyQMejKwvV_GU7vovIb9BTlHJuCnc8eAoLBA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f480429c8492f2811HVy3tW-ElFX",
+      "encryptUserId": "457fd6b941250fd11nZ62di9FVdX",
+      "invalidStatus": false,
+      "jobName": "嵌入式软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101281600,
+      "locationName": "东莞",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "一.岗位职责\n从事智能门锁（指纹密码锁、酒店锁、柜锁、联网锁等）的软硬件设计，都已经有成熟的开发平台和模版。具体职责包括：\n1. 客户需求整理（客户提供功能定义、电路板尺寸图等）\n2. 原理图设计和审核,包括指纹、触摸密码、13.56MHz卡片读写、125KHz卡片读写、语音、遥控、OLED液晶显示等，这些都已经实现了模块化，只需根据客户要求做少量调整；\n3. MCU单片机程序编写，主要使用STM8/STM32\n4. 生产文档制作，包括物料清单、生产指导书、生产测试文档等，都是基于公司的模板来做。\n5. 编写产品使用说明书\n\n二.岗位要求\n1. 大专以上学历，年龄38岁以下，机电一体化、电子、电子信息等电子类相关专业;\n2. 工作经验：2年以上电子设计相关经验\n3. 熟悉基本的数字电路和模拟电路,能分析常见电路的工作原理\n4. 会使用Altium designer进行原理图设计，而PCB laoyout有专门的工程师负责\n5. 会单片机C语言编程，至少熟练使用一种单片机(8051/AVR/STM8/STM32等)进行产品开发\n6. 有良好的编程风格;\n7. 良好的逻辑思维能力，能比较好的对产品进行整体把控；\n8. 能积极主动解决产品设计中遇到的各种问题\n9. 具有良好的团队合作精神，服从工作安排\n10. 参加电子设计大赛并获奖者，或参加过学校电子协会的优先；\n11.有较好的学习能力和一定的抗压能力，能够独立解决技术问题，根据项目需要主动学习和掌握新的技术。\n\n三.补充职位亮点\n1. 一般有月平均实发工资的1倍左右作为年终奖\n2. 每天提供下午茶\n3.短期有调薪机会，发展前景明确",
+      "encryptAddressId": "f8fcf9b4326e83a11nJy0921EVs~",
+      "address": "东莞同欣智能1号",
+      "longitude": 113.779217,
+      "latitude": 23.108055,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/88e580bbfeab684feacdc636b672d6f4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdda51154806e22f5f926f5302c7effd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "STM32开发",
+        "C",
+        "通信相关专业",
+        "STM8、单片机",
+        "嵌入式/单片机开发经验",
+        "ARM开发",
+        "计算机相关专业",
+        "MCU",
+        "AD、"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "人事文员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200730/bd7aafe35caece6cb81aafb82b6576cf761b750e414d6bd18f1d08e7118_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "同欣智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "131cba2648e68e3f03x-2t60GA~~",
+      "brandName": "同欣智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200731/080eb82705184f2ea12c2f33a6dca0039396cd1a93e6afd20cde93b6503d7284_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101406,
+      "industryName": "电子/硬件开发",
+      "introduce": "东莞市同欣智能科技有限公司成立于2009年，是一家拥有十多年研发、生产和销售智能锁电子解决方案的国家高新技术企业，是广东省专精特新企业。公司总部设在东莞市石碣镇，在中山、永康、温州设有客户服务中心，在广州设有物联网方案研发中心和新技术创新中心。公司现有员工约300人，其中研发团队超50人，可快速响应客户需求并提供定制化（OEM&ODM）技术服务。\n同欣智能作为智能锁电路方案行业的龙头企业，怀着“做精品工程”的愿景，坚持自主创新，长期专注于家用\\酒店\\校园\\公寓\\民宿\\廉租房\\工业园区\\办公大楼等智能门锁及联网锁的整套电子解决方案。同欣智能一直非常重视研发投入，本科及研究生学历有25人，拥有发明专利8项，外观专利2项，软件著作20项。目前公司办公及生产场地约7000平米，投资超过2000万的生产设备（7条SMT线，2条全自动三防漆喷涂线，4条生产组装流水线），各类智能门锁电路板的年出货量超500万套。\n同欣智能服务的客户数量领先于同行，获得业内广泛认可，与门锁领域的众多知名企业合作密切，客户的成功案例有：武汉军运会\\北京残奥会\\上海世博会\\广州亚运会\\印尼亚运会\\深圳大运会等场管或运动员公寓用锁；维也纳\\锦江酒店集团\\香格里拉\\希尔顿\\华天\\雅高\\广州花园酒店等（40万+家酒店）酒店锁；越秀地产\\万科地产\\融创地产\\碧桂园\\恒大地产\\保利地产\\珠江投资\\绿城集团\\星河地产\\绿地集团\\合生创展等数十家地产用指纹密码锁；国家行政中心\\国家广电中心\\南京东盟会议中心等用锁；北京大学\\复旦大学\\武汉大学\\南京大学\\北京外国语大学\\国防科技大学\\中山大学珠海校区等100多个校园的联网锁；上海隔离酒店用联网锁；韩国三星总部大楼的抽屉柜锁；美国警察局重要物资管理用电子柜锁；澳大利亚国防部用酒店锁；联合国难民营用联网锁；上海泥城人才公寓\\安庆公租房项目\\宁波公租房项目\\北京泰禾寓等数十个公寓用锁；爱尔眼科\\江西正邦集团\\台州银行\\中船集团第725研究所等数十个办公园区用锁。\n智能门锁行业正处于初期发展阶段，据相关机构调研，目前智能锁的普及率在中国只有10%左右，而欧美日等国家的普及率在60%以上，未来3-5年各类智能锁的市场预计达千亿级别，未来市场空间很大。\n   为保持公司持续高速发展，公司将大力扩充产品应用开发队伍和技术预研队伍，欢迎有实力、有素质、有抱负的同学加入，携手共创更辉煌的未来。",
+      "labels": [
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "年终奖"
+      ],
+      "activeTime": 1725074226369,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "同欣智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
