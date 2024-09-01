@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XbQmDr_unGAkz-e17ZC7R8P40Y30KjoubbV6vrvCxXZv1O53Q02Q7hGqzjyaGA1iZ4eBKYUZrV1Ai9aQxJ7Nz2or86HgC5xvt_5SbEmu7_iIEwZq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6a56df1758c435e5331-3dS-FFA~",
+      "encryptUserId": "d97d4a56e5578b9f03Ny39i9F1A~",
+      "invalidStatus": false,
+      "jobName": "Python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "python软件工程师\n\n五险、带薪年假、绩效奖金、\n专业：计算机或相关专业；\n \n职位描述\n技能要求：Python、MySQL、数据库开发\n岗位职责：\n1.负责测试数据统计/数据校准/数据分析等算法的研究、编写；\n2.进行数据分析、模型构建等工作，并能提供相应算法支持；\n3.实现数据可视化\n \n岗位要求：\n1.热爱数据算法，大数据处理，AI工作；\n2.python、js或R等的算法编程研究经验；对数据结构和算法设计有较为深刻的理解；熟悉数据统计、挖掘工具；\n3.参与产品应用功能设计、编码及文档维护。\n4.能熟练使用python, shell 等脚本语言进行系统日志分析；\n5.了解常见的分布式计算平台或深度学习框架中的一个或者多个，包括但不限于Spark、MXNet、Caffe、Tensorflow等；\n6.掌握数据库管理及操作；熟悉并行和并发编程优先；\n \n福利待遇：\n1.五险，双休；\n2.基本工资+月公司奖金+节日津贴+年底奖金\n3.法定节假日带薪放假，超长带薪年假。\n ",
+      "encryptAddressId": "b543a617c8dc0d7a1HZ92960EVc~",
+      "address": "青岛市北区华·秀1902中心(纺织谷)A12",
+      "longitude": 120.377363,
+      "latitude": 36.144635,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9485504925c16235b7e47b3f80aba21",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5fd9603cb0ea49000a069c8e6ae73e24",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据结构",
+        "Python工程师",
+        "MySQL",
+        "数据库开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200724/6967ac3b5b708e0a8daf200725879f5f790ab801c31b67dd7bace86147c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "海贝数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7293b6bd3afda4543nZy3dW7Fw~~",
+      "brandName": "海贝数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200817/54f6624d8bcf8278ec9ccc5483d2a560ea3d24b2777b50766579695d605d758d.png",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "公司主要从事数据研发，建模，相关产品和软件服务，行业处于爆发前期，需要勤劳肯干的核心员工和公司一起成长。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1722535809953,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海贝数据",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

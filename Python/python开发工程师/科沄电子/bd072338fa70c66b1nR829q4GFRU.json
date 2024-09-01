@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eMfj5qajO1pXE-A1VTLQ8znHRqgXrhJbU1Of2QJvtAtG6_znKWmXIGU9pcvS9w2cexIRIAEJ6xOZ2J-s0Joqe8eadGDdseVN0od7MjsPXQ66HFHjRzH-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd072338fa70c66b1nR829q4GFRU",
+      "encryptUserId": "d76e945ff8a02fb20nR_29q7GVRS",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责公司平台项目的设计和开发；\n\n2. 参与系统需求分析、设计及开发，保证产品的稳定性及性能；\n\n3. 参与后端前沿技术的探索；\n\n\n4. 有一定的系统设计能力及良好的抽象能力，能够对业务逻辑进行合理的抽象和拆分\n\n5. 熟练使用Linux，掌握常用的shell命令，能够独立完成项目上线、平台搭建等；\n\n6. 熟练掌握常用关系型和非关系型数据库，MySQL/PostgreSQL/Mongodb/Redis等；\n\n7. 熟悉全文搜索引擎Elasticsearch和Docker容器化部署；\n\n8. 掌握网络协议栈，熟悉常用的网络协议，如HTTP，HTTPS，WEBSOCKET等；",
+      "encryptAddressId": "4e4f7b499866e3f31HJ-0tW7FlA~",
+      "address": "上海普陀区长城大厦3000号",
+      "longitude": 121.415487,
+      "latitude": 31.237922,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a12616318b10d2a6edb2389cd8175f1a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f84abd7a90938ca83bdfdddfbcf33918",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Shell",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "科沄电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "918f6a89b4b9c7c21nZ-3Nm1EFY~",
+      "brandName": "科沄电子",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722535812766,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科沄电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

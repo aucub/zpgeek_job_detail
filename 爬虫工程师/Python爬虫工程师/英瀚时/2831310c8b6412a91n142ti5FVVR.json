@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HP0wMC24Puzkc-m1qbPAghf8oklZHx4i8LHRta-dKkdCSXJSztWz2vUI4H35pdxkXeszmqPOWsJ6gPFjEPLUpeBvB6v6IaJvx6WN-ftHOcPRspj5Mw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2831310c8b6412a91n142ti5FVVR",
+      "encryptUserId": "7d2efa66b41f476d1XR83d60GFM~",
+      "invalidStatus": false,
+      "jobName": "Python爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1. 负责和业务部门沟通了解抓取需求，快速抓取目标站点数据并解析入库\n2. 参与数据采集的架构设计、不断优化当前爬虫，提升抓取效率、质量及稳定性\n3. 解决技术难点，包括web端反爬问题\n4. 负责数据清洗、处理、统计分析，协助后端产品开发\n\n任职要求\n1. 熟练掌握python编程、爬虫开发相关库的使用，熟悉多线程、多进程\n2. 掌握http协议，熟练页面下载（requests）及数据抽取技术（xpath、beautifulsoup、正则)\n3. 经验要求：有爬虫相关工作经验或者1年及以上python开发经验，有爬虫、反爬虫对抗经验优先\n4. 熟练掌握sql、熟悉mongodb、redis\n5. 熟悉至少一种爬虫框架，不限于scrapy\n6. 熟悉前端技术优先（html、css、js、ajax）\n7. 熟悉js逆向优先（cookie验证、参数加密、ip封禁、验证码、滑块等等），有app逆向能力（加分项）",
+      "encryptAddressId": "f2784d430d28b26803N93d2_E1o~",
+      "address": "苏州虎丘区苏州大学独墅湖校区南区B07号楼3楼336号",
+      "longitude": 120.732738,
+      "latitude": 31.268032,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9581b4e50752263c099477ab0655ff88",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e14beba1247d65f8b970dc2fe704ff8a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "多进程",
+        "Redis",
+        "NoSQL",
+        "MongoDB",
+        "Scrapy",
+        "架构师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "纳女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "英瀚时",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "68d08904b53334141nR-2tm4GQ~~",
+      "brandName": "英瀚时",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190924/cba4d4ea87d51929f878c61769fcc12bd74738d2495f5f5d4b3f7a20356b9917.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "苏州英瀚时信息科技有限公司成立于2016年，是江苏省高新技术企业，民营科技企业、中小科技企业，双软企业，常熟市创新创业领军人才企业，公司专注于EHS（环境管理、职业健康、安全生产）行业，服务于工业企业的环境风险控制，拥有多项国家发明专利及软件著作权。公司核心团队具有多年的相关行业从业背景，专业涵盖了环境科学、环境工程、环境检测以及计算机科学与技术、物联网技术等领域，具备丰富的企业环境风险分析、处理经验和成熟的IT研发能力。\n公司营业范围涉及企业生产安全与风险管理、职业健康安全管理体系咨询、环境风险评估、法律法规合规性审查、环境监理、环境及卫生工程咨询服务等线上及线下业务。是苏州大学重点校外实习基地。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1723555278000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英瀚时",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
