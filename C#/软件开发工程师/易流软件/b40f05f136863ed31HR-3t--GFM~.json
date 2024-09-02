@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MPHM0HG6XXD3M-a1XLzRGgJGCN8MFRIAqQHouSVTJGTxDcv1CsLvciLPCVUsxLdYYM1Wb4-licozSNgErYUSvhsFhd2I7W03RixfEHF6M3Zc58FP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b40f05f136863ed31HR-3t--GFM~",
+      "encryptUserId": "d05435be33e34f1903192t69F1A~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述\n1、负责软件产品模块的分析、设计、开发实现和单元测试；\n2、负责各类系统手册和各类开发文档的编写；\n3、负责公司已完成项目的后续部分维护工作。\n职位要求\n1、计算机或相关专业，1年以上软件开发工作经验。对ASP.NET WebApi(C#)、面向对象分析设计、多层架构有较深入了解；有物流B/S系统相关开发经验优先；\n2、熟练掌握C#、Net Core、EF Core、HTML5、CSS、JavaScript等相关程序开发技能；\n3、熟练掌握Oracle/SQL Server/MySql/PostgreSQL 任一种数据库；\n4、具有一定的设计能力和需求分析能力，熟练面向对象编程思想，代码稳定性和可维护性好；\n5、热爱学习新技术，学习能力优秀，能学以致用，具有较强的沟通表达能力，良好的职业素质和团队合作精神。",
+      "encryptAddressId": "7f7466399a4a020b1nR72ty5GFc~",
+      "address": "上海普陀区银座企业中心(西北门)4楼",
+      "longitude": 121.442766,
+      "latitude": 31.242545,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d5ad0b9fd78ec3c7d6ac4ed62b25c473",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8fdcd3efa2057ae7ec890ede5d5b667",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "Javascript",
+        "SQL",
+        "后端开发",
+        ".NET",
+        "MVC开发",
+        "ASP.NET",
+        "WebForm"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "manager",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易流软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a70d8465cb8e19821HV43t66Eg~~",
+      "brandName": "易流软件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722673584157,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易流软件",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

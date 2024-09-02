@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bnYM0GyPTj-Gj-C15oX76nLQ55BOpc7J4RxT58zzLD32Ojohbfw3Dv0keFA1047g6zORd5L-DYHo7SA80O_oxkWf2CG-F9SBHTBQb-FIGLOcggLo",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6940535381a54f911X1-09q_E1ZZ",
+      "encryptUserId": "da202c33869fcf861HJ60t29",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业全日制统招本科及以上\n2、具备扎实的java功底，具有较好的Java IO、多线程开发能力，对JVM原理有一定了解，熟悉常用的数据结构与算法\n3、熟悉SpringBoot、SpringCloud全家桶，对mysql、hive、clickhouse有一定了解\n4、能够熟练使用kafka、rocketmq、redis，了解其实现原理和应用方式\n5、熟悉docker、k8s容器\n6、熟悉微服务、分布式系统、熟悉高性能高并发服务开发，高可用架构设计\n7、具有技术热情和较强的学习能力，对新技术有浓烈的好奇心，具备很好的问题分析和技术攻关能力，具有创业热情，能适应高强度的工作环境\n8、具有新零售行业相关经验优先",
+      "encryptAddressId": "c91c2b75bb8350be1Hd72dS9FVFXxYS-Vvw~",
+      "address": "北京东城区天鼎218文化金融园c05",
+      "longitude": 116.40263,
+      "latitude": 39.891077,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230412/48ba41acc9cef1bf7f4a325ce727be29dc53648d9a8bc5ef6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf3572dc43684b3ca0d122ab2b11f3ac5d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180319/cea23728ea7826fa3e2c830d1b0b7334a88d2a2b3f5a856732f1a10fe25_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京璟澜餐饮管理",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "72e1b7ae60f861891Xx_2Nm8EVM~",
+      "brandName": "北京璟澜餐饮管理",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100017,
+      "industryName": "新零售",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725274862650,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京璟澜餐饮管理",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

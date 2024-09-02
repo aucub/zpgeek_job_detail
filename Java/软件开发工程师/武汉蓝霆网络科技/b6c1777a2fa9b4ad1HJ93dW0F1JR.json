@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tpUCi5t3_NlKg-i1w0cvx8Skjl5FsVsHAi3674AOLo1bmVBKj2yhuhKm_dk00e_HBDmnssnzU5JVbVACmf-wSu-XUHLjZUdv2Z4hK2Vlhy-n1KyCwU0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b6c1777a2fa9b4ad1HJ93dW0F1JR",
+      "encryptUserId": "0bac2cd5e4b44b0a1HB52Ni0Els~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n1.根据项目开发进度和任务分配，开发符合系统要求的相应软件模块\n2.根据公司技术文档规范编写相应的技术文档\n3.根据需要不断地修改完善软件\n岗位要求：\n1.精通JAVA语言基础及面向对象编程思想\n2.熟练使用Sping boot，maven，redis，等主流开发框架或技术。\n3.熟练掌握WEB前端技术，如vue，JavaScript，JQuery，AJAX,HTML,CSS等；\n4.熟悉SQL语言，使用过sqlServer，mysql，oracle等其中一种数据库。\n5.至少有一年以上实际项目开发经验。 6.工作勤奋，学习能力强，有快速学习和应用的能力。",
+      "encryptAddressId": "8fe0575881f4111703N70t24GVI~",
+      "address": "武汉江汉区万达广场A3座写字楼(东南门)1819室",
+      "longitude": 114.26973,
+      "latitude": 30.610061,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/324c05a47fb45d399eaa62c477053112",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4ae9a66ec03182d81fd9784bcfcb6ef2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Python",
+        "PHP",
+        "Spring",
+        "Tomcat",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "SQL Server",
+        "大数据经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高先生",
+      "title": "CTO",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "武汉蓝霆网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a5f2a72f51f878ef1XB_2tq0ElE~",
+      "brandName": "武汉蓝霆网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722677640172,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉蓝霆网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

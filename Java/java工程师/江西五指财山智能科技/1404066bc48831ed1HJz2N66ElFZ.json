@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RKIVpaqemwcro-i1OLrbExUndsFDK390H7UdQsH3qYuhKd1cZZn0p-VtP7wD7QRYIMIYh23z9kr6d2qnNTRpbcBmiXznjKOab1w3Jp-o2rYE_OISI-uK",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1404066bc48831ed1HJz2N66ElFZ",
+      "encryptUserId": "14a54dae4293e0cb0XJ53dm9EFZS",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240600,
+      "locationName": "吉安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n- 负责基于Spring Boot和Spring Cloud的后端开发和维护。\n- 实现高性能的多线程后台服务，处理高并发场景。\n- 参与设计和优化大型电商平台的后端架构。\n- 负责数据库设计和优化，保证数据的稳定性和高效访问。\n\n基本技能要求：\n- 精通Java编程语言。\n- 熟练掌握Spring Boot和Spring Cloud框架。\n- 有处理高并发场景的经验，了解并发编程的最佳实践。\n- 精通SQL，熟悉数据库设计和查询优化。\n- 熟练使用MyBatis和Hibernate持久层框架。\n- 熟悉Redis、NoSQL数据库，如MongoDB或Cassandra。\n- 有使用Elasticsearch和Kafka的实际经验。\n\n进阶技能要求：\n- 有电商后端开发经验者优先。\n- 对微服务架构有深入理解。\n- 能够进行数据建模和性能调优。\n\n经验与资质：\n- 计算机相关专业本科以上学历。\n- 至少2年的Java开发经验。有android或者kotlin经验更佳\n\n软技能：\n- 良好的团队合作精神和沟通能力。\n- 有较强的问题解决能力和分析能力。\n- 能够独立承担项目，具有高度的责任心。\n- 优秀的学习能力，能快速掌握和应用新技术。\n- 良好的英语读写能力。",
+      "encryptAddressId": "cd5e39d19a3330541nR72Nm7E1ZTwY27UP2Z",
+      "address": "吉安青原区龙湖大厦二单元801室",
+      "longitude": 115.011984,
+      "latitude": 27.110333,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf28f184b42a01a9276d7484ab2cdac82b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf5d416da3bb29919b5a2fdd39c8a7b27d6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "Docker",
+        "Nginx",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "尹先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240702/607f1f3d68754fd0487abeaea94214227d3648301065fbfb71679aa990759b5059e5b7d3cbc0f4d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "江西五指财山智能科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ccfb75e0703fd2bf1X153tu-EVI~",
+      "brandName": "江西五指财山智能科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100608,
+      "industryName": "其他专业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725146405595,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "江西五指财山智能科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

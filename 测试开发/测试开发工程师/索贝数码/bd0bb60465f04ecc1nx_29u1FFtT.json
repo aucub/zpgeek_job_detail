@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZFWZUI5hMNmxu-g1ssaRlcpNcQQLrOqO9d0avfyw8xLVqIK6KHtTOUCwkEKzc8QrA8MWZAcMiuyfMHQKcBxqG5dvRk02Pz3j5jg3bjWKs2HUEiWv",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd0bb60465f04ecc1nx_29u1FFtT",
+      "encryptUserId": "167ed2347b74186503R539W0FVY~",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、K8S 云原生应用集成，负责第三方K8S平台研究和使用选型、评测。\n2、公司业务容器在K8S平台集成研究，输出应用helm-chart。部署文档输出。\n3、K8S项目支持，运维，培训等\n4、研究EFK 日志管理，Kibana搜索模板。\n5、Prometheus+Grafana 监控相关配置研究和集成",
+      "encryptAddressId": "c135e5c29bf9e37c33dz2tm-GA~~",
+      "address": "成都武侯区新园南二路2号",
+      "longitude": 104.040876,
+      "latitude": 30.592009,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8335018facdc6f3c70f56ea1ea2d7db2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/96629010ea2a5c170176619e3e965cf3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "Shell",
+        "Linux",
+        "MySQL",
+        "k8s",
+        "CI/CD"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "龚先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180614/36cd60e1f89ace49a55ca6f0af8d91bed1281f07f868808c8b3c9efe265_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "索贝数码",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a97fcc25ce727191XN63N6_",
+      "brandName": "索贝数码",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220218/7bf6f160950405e9eb82f54a1f5c87817b8080022c092c77725b6a5cb0d66b575018686250487bb3.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "成都索贝数码科技股份有限公司通过自主创新和持续研发投入，打破国外技术的垄断，成为业界领先的数字技术解决方案及运营服务提供商。公司是国家高新技术企业，曾获“国家科技进步一等奖”、“国际广播联合会(IABM)Peter Wayne 大奖”、“王选新闻科学技术奖”及多个部级一等奖奖项，参与制定多个行业标准，并牵头成立了“国家超高清视频创新中心”，是科技部等五部委设立的“国家文化和科技融合示范基地”。\n公司在充分理解业务数据实时性强、数量庞大、形态复杂等特征的基础上，将专业音视频算法、人工智能、云等核心技术与应用场景相结合，开发并提供专用云底座、融合数据库、媒体生产工具、三维呈现产品、专业视频硬件等全栈数字技术解决方案，并致力于为行业客户提供运营服务。\n公司是专业媒体及融媒体客户数字技术解决方案的主要提供商。同时依托在视听领域积累的多模态数据处理、扩展现实（XR）内容呈现、面对场景的AI解决方案等技术和业务经验，持续进行研发投入、应用场景拓展和标杆项目建设。通过开发时序数据库、容器云、低代码框架、大数据平台、教学资源管理平台等产品和解决方案，开拓了航空数字化、智慧政企、智慧教育等新的业务领域。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "商业保险",
+        "青年公寓",
+        "公司食堂"
+      ],
+      "activeTime": 1722689895219,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "索贝数码",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

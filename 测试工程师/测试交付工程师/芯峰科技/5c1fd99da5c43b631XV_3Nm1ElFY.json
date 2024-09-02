@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Le-sAHS3HQkSG-t1qFEcdBjQvBlyqBfgkxSsNyIOsYsn4ue82paJ-QQ1T1nxUPKMuEWOmSBJ4eOgKey9_Mn4WRXNaagHwClNlg9m_vUToWi_QXTfr0o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5c1fd99da5c43b631XV_3Nm1ElFY",
+      "encryptUserId": "cd665cbc4c8bc79f1X192di6ElE~",
+      "invalidStatus": false,
+      "jobName": "测试交付工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101210300,
+      "locationName": "嘉兴",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责项目版本（人工智能、计算机视觉类产品）测试与交付工作，按规范输出测试与交付过程文档\n2、负责与研发人员保持良好的沟通，解决相关测试问题\n3、重点客户的项目管理，配合做好售中售后的运维支持\n4、负责公司业务的健康保障，包括发布 、监控 、变更 、应急响应、故障恢复。\n岗位要求：\n1、熟悉Linux和网络基础知识，了解nginx、docker等开源工具\n2、负责编写测试计划、测试标准、测试方案、详细测试用例等文档\n3、熟悉shell/python等语言，能编写常用的运维自动化工具\n4、熟悉软件项目测试交付的流程，能够制定项目测试与交付计划\n5、熟悉常用测试方法及工具，负责测试用例的执行，并按要求发布测试报告\n6、有团队精神、责任感强、良好的沟通能力及技巧，工作积极主动\n7、能适应短期出差",
+      "encryptAddressId": "e3aabdd8bfd593800nVy2NS6E1A~",
+      "address": "嘉兴南湖区嘉兴科创CBD17号楼2-210室",
+      "longitude": 120.828281,
+      "latitude": 30.731936,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3f321f244aecc84aa4404a639df5dc8c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0c1ef1ae5733cca08dea30f6352dddc3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Linux",
+        "系统测试",
+        "运维支持，文案编写",
+        "Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钱女士",
+      "title": "人事行政专员",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170724/b1994dfbd486f58d4a7a915a34edc4e58c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "芯峰科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0d5afd3b3c5793e01XR809q9ElI~",
+      "brandName": "芯峰科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "芯峰科技专注于新一代人工智能算法与算力一体化解决方案。利用先进AI算法拓展智慧场景，利用自主HLS EDA芯片设计自动化工具将算法映射为芯片IP，将算法与算力通过端、边、云计算的方式赋能人工智能应用,让AI无处不在。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "全勤奖",
+        "带薪年假"
+      ],
+      "activeTime": 1722706581954,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "芯峰科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

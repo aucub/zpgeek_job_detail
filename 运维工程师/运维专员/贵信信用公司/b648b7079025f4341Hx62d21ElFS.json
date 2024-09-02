@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "F6g0Qw95Gc-uS-s1_k3AuQ-9cgqumZ3hKbFBwZlfgiSo2HjvCGQXXSomxCVr2O3iurVGJX1WrJEpg-c3-i6Akr_CWpeJm2BcbROztKyLcOGFmBniWmZi",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b648b7079025f4341Hx62d21ElFS",
+      "encryptUserId": "93c6fe8ee6ddb78e1nR_0tu0EFtY",
+      "invalidStatus": false,
+      "jobName": "运维专员",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101090900,
+      "locationName": "邢台",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "2-5K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n（1）负责公司机房、网络、主机规划设计，确保满足各部门的需求与信息安全。\n（2）负责软件项目实施与部署交付，后期系统的运维。\n（3）巡检线上系统，编写运维报告，与技术人员共同解决线上系统问题。\n（4）与等保测评公司配合，完成系统的等级保护评测。\n（5）执行监督征信管理条例相关制度。\n（6）收集客户现场原始需求；现场解答客户产品功能疑问。\n（7）上级领导安排的临时事项。\n任职要求：\n（1）具备1年以上运维实施实际经验。\n（2）熟悉监控工具（zabbix、prometheus、prtg)，ELK。\n（3）具备编写项目运维和部署文档能力，设计项目服务器架构和网络拓扑。\n（4）具备常用nginx、fastdfs、redis、rabbitmq、mysql、oracle等常用中间件与数据库集群和高可用配置和部署。\n（5）具备shell与bat编写脚本能力（服务重启、服务监控、日志切割、资源备份）。             \n（6）熟练使用docker部署项目，掌握docker三剑客。\n（7）配合ISO评测师进行评测，配合等保测评公司进行等保测评。",
+      "encryptAddressId": "e8dcee7d93f2f2791nR50t21EVJYwIS3Wfqe",
+      "address": "邢台信都区邢台市行政审批局",
+      "longitude": 114.442567,
+      "latitude": 37.09157,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240709/48ba41acc9cef1bf0002bb80ca123b973f7848519de878116bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240709/48ba41acc9cef1bf0beacf301cfd8e7fb1360e5369d75e736bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "系统运维",
+        "实施交付运维",
+        "运维开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240731/607f1f3d68754fd03242178e0368df98a336ce4b7a04f3a67f299653a42c56516f5245e4afeef06_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "贵信信用公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3324edc826be683c1nd53926Flo~",
+      "brandName": "贵信信用公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101106,
+      "industryName": "其他生活服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725007852503,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "贵信信用公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

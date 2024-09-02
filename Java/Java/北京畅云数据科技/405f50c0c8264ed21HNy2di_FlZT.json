@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FqCydTW48C0HP-I1r5jWqzAcaE9-21yQ9jiR0rxfTORszBtKdVpz4MziUHtBViQJzMsaz8hwwYuEH88bW4qF6ApylZLDd_bSyRr6ROImUm4Vk8gEDB8ph64Kx4ZrWxMrJtOihePIZN6_IZJRWy9QTkl2",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "405f50c0c8264ed21HNy2di_FlZT",
+      "encryptUserId": "748a7ca09bdd24700Xdy2Ni0FlZY",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "教育背景：通常要求计算机相关专业的大专或本科以上学历。\n工作经验：不同公司对工作经验的要求不同，有的需要1-3年Java开发经验，有的则需要3年以上，特别是对于高级职位。\n技术能力：需要有扎实的Java编程基础，熟悉Java语言规范和面向对象设计方法。同时，需要熟悉常用的Java开发框架，如Spring、SpringMVC、MyBatis、SpringBoot等 。\n数据库技能：熟悉MySQL、Oracle等数据库，具备一定的SQL编写和优化能力。\n中间件使用：熟悉Redis、MQ（如RabbitMQ、ActiveMQ）、Kafka等中间件的使用和优化。\n系统设计：有中大型分布式、高并发、高可用性系统设计和开发经验，对分布式理论有深入理解 。\n操作系统：熟悉Linux操作系统，能够使用常用命令进行问题排查和系统维护。\n开发工具：熟悉常见的Web服务器如Tomcat、Nginx、Apache等，以及开发工具的使用。\n软技能：具备良好的逻辑思维能力、学习能力、沟通能力和团队合作精神。",
+      "encryptAddressId": "2f6248498644f9e41nV82Ny8F1BUxYi2V_mY",
+      "address": "潍坊寿光市中闽大厦企业总部群11号楼",
+      "longitude": 118.811417,
+      "latitude": 36.852852,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfcbdf294ef797d1703afe1ed10d2ed2876bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf7948da5e44909666982f804e741871a26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京畅云数据科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "29209f6ad20db4db1HF53N--GFA~",
+      "brandName": "北京畅云数据科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240607/7b5b554d84f9729cc1e6dd4e68bb86ac4f62f4fa1a302e77a7837a1b4aa21507856f32ba2590a5b3.jpg.webp",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京畅云数据科技有限公司，成立于2020年，位于北京市，是一家以从事科技推广和应用服务业为主的企业。",
+      "labels": [
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "工龄奖",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725248793000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京畅云数据科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

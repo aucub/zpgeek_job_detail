@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WRZeNHrFFEjil-K1ZtUkHmJAclPURkPk6ukPoBeU7WRZeCgLaZ8Bu82WaARfdnMG37euRRpVo_yvuwZxYLcUFPVu9UmEiomFBKRRTe81t7IEwcWrgwtmKREm0aFfMnJ-xUML8nTYs4rd0JD0Ulu9e9Af",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4233508ab6b027201HN_2Ny0GVdR",
+      "encryptUserId": "5d4ce68ff307eae60Xd42Nu5FFpS",
+      "invalidStatus": false,
+      "jobName": "JAVA 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.        基本要求：计算机相关专业毕业；2-3年JAVA工作开发经验；\n2.        具有微服务架构开发经验，熟悉面向对象思想，及IOC、AOP等常用设计理念，熟悉消息队列、分缓存，并有实际的使用经验；\n3.        熟悉Sql及NoSql相关数据库及知识。熟悉当前主流数据库：MySql、SQL Server、SQLite等，了解MongoDB、ElasticSearch等；\n4.        熟悉前后端分离架构设计，了解Js，ES6，Vue技术等前端基本技能，能独立完成后台相关页面的开发； \n5.        熟练使用git,了解阿里云的主要产品与服务，自动化部署流水线，linux下shell脚本；\n6.        具有规范化，标准化的代码编写习惯和良好的技术文档习惯；\n7.        良好的沟通、协调能力、良好职业素养和团队精神，且具备快速学习能力；\n8.        积极参与团队讨论，提出建设性意见，共同解决技术难题；\n岗位职责：\n1.        参与公司Web产品的开发工作，负责与产品经理、前端开发人员、测试人员等紧密合作，共同推进项目的进展；\n2.        需要根据产品业务需求，参与设计并实现后台管理界面;\n3.        根据开发规范与流程独立完成模块的设计、编码、测试以及相关文档；\n4.        参与数据库系统的设计和性能优化；\n5.        撰写项目文档和质量记录的工作；",
+      "encryptAddressId": "22f849714b49977b0nB409y_FVpYyo24WPI~",
+      "address": "重庆渝北区信达国际A栋904",
+      "longitude": 106.490361,
+      "latitude": 29.61338,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5c1dc4c8c3c39ffa8b9d77311fe7c442",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e92e9527de1647298cc85b24046f5927",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Elasticsearch",
+        "SpringCloud",
+        "Nginx",
+        "SQL Server",
+        "MySQL",
+        "不接受居家办公",
+        "微服务经验",
+        "云计算经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "巫女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "维普朗润",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba8ce05fdfa981ff1nd-2tS7FVY~",
+      "brandName": "维普朗润",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201222/217fd4593e3fbed07c37be99c19efc0c47685207272b6f046e005c58cfbba766.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100304,
+      "industryName": "学术/科研",
+      "introduce": "重庆维普朗润数据科技有限公司隶属于国内知名学术服务商“维普资讯”，是维普资讯旗下的数据科技公司。是教育领域的数据服务品牌\n重庆维普朗润数据科技有限公司专注于面向教育领域提供学术大数据服务，为教育机构、学校、教育主管部门及教育相关企业提供专业的数据服务解决方案。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1725248734795,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "维普朗润",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
