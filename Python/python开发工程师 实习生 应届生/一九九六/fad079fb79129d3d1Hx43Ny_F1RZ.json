@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5JAPW7SdPky38-l1B75OTXhc8LhOSvlH7daubUmGrbMiBz1YAx9hRMqP68aZtcw3xtR-2yhY8T2pMEVuPfKKfTNfmtpIPTkuKGy0qED4HbQvx1vD1vQesAE1y0-5R0nmbB2Q8QhxepjK1E0bnGaq-_SCXLs-MeqYsKIzgBLL1gKBhqP-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fad079fb79129d3d1Hx43Ny_F1RZ",
+      "encryptUserId": "c3e01a38cd1b26d01XV52tu9FlI~",
+      "invalidStatus": false,
+      "jobName": "python开发工程师 实习生 应届生",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n使用Python进行应用程序的设计、开发和维护，涵盖从数据处理到Web应用等多个领域。\n开发和优化后台服务、API接口，确保系统的高效性和可扩展性。\n参与系统架构设计，编写高效、可扩展的代码，并确保项目按时交付。\n处理海量数据的采集、清洗、存储和分析，编写高效的数据处理脚本。\n与数据科学团队紧密合作，支持机器学习模型的开发、部署和优化。\n维护和优化数据库结构，确保数据存取的高效性和安全性。\n编写自动化测试，确保代码质量，减少系统Bug和故障。\n撰写和维护技术文档，包括需求说明、设计文档和用户手册。\n与团队成员协作，参与技术讨论和代码评审，推动团队技术水平的提升。\n职位要求：\n\n计算机科学、软件工程或相关专业本科及以上学历。\n精通Python编程语言，具备3年以上的Python开发经验。\n熟悉常用的Python Web框架，如Django、Flask或FastAPI。\n具备丰富的数据库经验，熟悉SQL（如MySQL、PostgreSQL）及NoSQL数据库（如MongoDB）。\n具有数据处理和分析经验，熟悉Pandas、NumPy等数据处理库。\n了解常见的消息队列（如RabbitMQ、Kafka）和缓存技术（如Redis）。\n熟悉Git等版本控制工具，具有团队协作开发经验。\n具备良好的问题分析和解决能力，能够处理复杂的技术问题。\n良好的沟通能力和团队合作精神，能够适应快速变化的环境。",
+      "encryptAddressId": "71ff0e06dc46349e33Fz2ti1GFI~",
+      "address": "深圳南山区南山睿园18栋611室",
+      "longitude": 113.964399,
+      "latitude": 22.564101,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3ba9b62d9fdfbbf2299d43027c7f10f7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd331824227ca8b1c132803bc7bd4af9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "Python",
+        "Scrapy",
+        "MongoDB",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=940533c59f873f12jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5enn10t45-uN5tQwe4yuA8Z-74eZcH5LqzV2J_MllW8SYL_K-mFnEcQrHhDBA4zIsZGA-3y_kK_1sXB4O2gHYkA3FCpk-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "一九九六",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e5b164e149ff952c0HF80tq7GA~~",
+      "brandName": "一九九六",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220522/7bf6f160950405e97096e3b23a49cbd40275c19c96a9a62f6543e72ef08bee6d7f7208acbe08632b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100101,
+      "industryName": "广告/公关/会展",
+      "introduce": "深圳市一九九六传媒有限公司，创立于2019年底，主要服务于腾讯、标准院、技术大学、等企业。公司主要业务为 活动会议、课程， 视频拍摄、录制、以及直播等服务。\n在这里的每一位都是兄弟，在这里你并不是来打工，而是一起来奋斗，一起来创业。让每一位兄弟在深圳都赚的到钱。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "年终奖"
+      ],
+      "activeTime": 1725328061017,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "一九九六",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

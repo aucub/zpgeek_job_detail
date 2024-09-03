@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hJV52OEwpDXrp-V1XVad9-9x2QNgyGsFaqerAY38L80sDwkDuycD5CQ8lytmfc5ChPwsbyZYgjnB2f0IuezWyWWubuw8Lc742Wg63pXgzfM2boK3sbN2a76w4my7y7yu3BETwPyETX_rglc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bc46b3ff6afc60041Hx40ti0GFJS",
+      "encryptUserId": "5045441569808b440XN409m8GFZS",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.参与公司I信息化项目的开发及迭代工作，具有一定的业务分析及架构能力，承担过项目组核心开发角色。\n2.能够独立完成项目设计，编码、开发、测试工作，能够解决开发过程中遇到的技术难点。\n3.配合项目经理、产品经理完成项目内其它相关工作要求：\n1. 专科及以上学历，了解阿里华为云等开放API，最好有过组件级集成。\n2.扎实的Java基础知识，理解IO、多线程、集合等基础框架，了解JVM原理；\n3. 有分布式系统开发设计经验，精通SpringMVC、\nSpring, Spring Boot, Mybatis, Spring Cloud,\nDubbo、Zookeeper等技术；\n4. 熟练应用Redis、Kafka、RabbitMq、NoSq|等缓存、消息队列等中间件的机制和应用；\n5. 熟悉并具备数据库系统如Oracle、mysql、Postgresq|l等其中2种，具有sql调优经验；\n6.对数据敏感，掌握量化分析方法，善于从数据中发现问题，提出假设并使用数据进行验证。",
+      "encryptAddressId": "9fc09a3b8fc7a9f11nZ529q-FFZUxom6U_qb",
+      "address": "北京海淀区中国银联(软件园三号路)203",
+      "longitude": 116.28672,
+      "latitude": 40.048205,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf69f3b406a623c45fb062fb1e4a9407e16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230923/48ba41acc9cef1bf01909039049b814c994f0f2f786ca99b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "康先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "沈阳海芮信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "954ae51444064dce1HJ52dS1FVI~",
+      "brandName": "沈阳海芮信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "本公司是一家软件开发、系统集成、为企业提供完整、全方位的品牌运营服务公司。公司业务覆盖：软件开发、系统集成、网络运维服务、电商平台搭建与运营、微程序开发与运营、新媒体采编与运营、舆情监测分析与治理服务、驻场服务及远程技术支持服务。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1725352283361,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沈阳海芮信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

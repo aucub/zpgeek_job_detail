@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tYXMe3XiJfutC--1zz5Dq97BIRsDCr0BbRFYaApkSPPjuETSsmRpyMxxEuxLwyrPFv5PNRqi3PE11nkaR9SRYOqeXoK8s070ozxS3rzAKtYTguCRKWwS_kY264tfqwYA3T0fH9B6iDnDcA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "86d6ad328a7536581Hx43Nu7FlZQ",
+      "encryptUserId": "763f71efd431071403R92dS4FFc~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、两年及以上Java开发经验；\n2、熟悉js开发，git、linux基本操作；\n3、熟悉主流开源框架技术，如Spring boot、Docker、Nginx、Maven等开发技术；\n4、熟练MySQL数据库，会写复杂查询语句；\n5、存在低代码开发经验优先；\n6、熟悉生产业务流程处理逻辑优先。\n岗位职责：\n1、代码开发与调试：根据项目需求和设计，使用 Java 语言进行代码实现，并进行调试和修复错误。\n2、技术学习与提升：不断学习和掌握 Java 相关的基础知识和技术，提升自己的技术水平。\n3、团队协作与沟通：积极参与团队的协作工作，与团队成员进行有效的沟通，共同完成项目任务。\n文档编写与维护：参与文档的编写和维护工作，包括需求规格说明书、设计文档、测试报告等。\n4、问题解决与优化：协助解决项目中遇到的问题，并对代码进行优化以提高系统的性能和稳定性。\n5、项目测试与部署：参与项目的测试工作，确保代码的质量和功能的正确性，并协助进行系统的部署和上线。\n6、遵循开发规范：严格遵守公司的开发流程和规范，确保代码的可读性、可维护性和可扩展性。",
+      "encryptAddressId": "35ab42c7f4ec45d21nZ43d-5EFJZwYm-WP6a",
+      "address": "广州黄埔区云升科学园408",
+      "longitude": 113.444939,
+      "latitude": 23.160346,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230814/48ba41acc9cef1bf0066d82547d2c99c63701c2a808030ef6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230814/48ba41acc9cef1bf1b284535149f69b9d78389a493aae7156bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Dubbo",
+        "Oracle",
+        "MongoDB",
+        "SQL Server",
+        "团队管理经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "交付经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210429/40fd9158e96703b58565e6c84ef2d13f8ebadf2b43053e2383f3d5942c6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "妙客信息科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "747186c294cfacad1HN62Nu8FVU~",
+      "brandName": "妙客信息科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725363819817,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "妙客信息科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

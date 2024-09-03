@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "I0TuLa9J5b_7K-r1AS0rwDnanSwPolyIbeq-zDS9a1P6aRReEUYkEku5Ncec_KN9n2tx3rU4k8BGTJAD72HLp0aeapKSuN5F3f4x7_AXJXmTJZGa9SYKSK0K_Xks-LSeqk5awt-pfnGr9g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6da740bf3fa6ab5f1Hx52dq-EVtR",
+      "encryptUserId": "778f3dfae8bb96031HB62d2_F1s~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据项目的目标和计划，负责系统相关的开发和维护；\n2.设计并实现高可用、高性能、可扩展性架构，保障线上服务稳定可持续发展；\n3.负责编写系统的核心代码,并确保其正确性和可维护性;\n4.主持系统架构设计、日志及部署规范制定、技术文档编写等；\n5.参与开发人员codereview工作，并能从语言和框架层面提供性能优化、安全性建议；\n6.完成分配的其他任务。\n\n任职资格：\n1.计算机相关专业本科或以上学历，2年以上JAVA开发经验；\n2.精通Java，具备良好的编码能力和编码习惯；熟悉 TCP/IP、HTTP、OAuth2、JWT 等开发中涉及到的协议；\n3.熟练掌握常见中间件和框架的原理和机制，包括但不限于Spring、SpringBoot2、SpringMVC、SpringSecurity、MyBatis/MyBatisPlus 等；\n4.熟悉Mysql 数据库，或有其它关系型数据库的设计开发经验；\n5.熟悉数据缓存的应用，能熟练使用 Redis 数据库或其它 NoSQL 数据库实现数据缓存机制；\n6.技术视野开阔，学习能力强，具有优秀的团队意识，良好的沟通能力。",
+      "encryptAddressId": "c6b51f56582b1ffa1Hx73tq_FlE~",
+      "address": "广州海珠区中山大学国家大学科技园B座5楼",
+      "longitude": 113.290541,
+      "latitude": 23.093093,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b81130b9b33651b81f2e06125aa59900",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61656c9a3a1fb3a3721b7b07f7e7a004",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "微服务经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "爱奇创新",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "58a92c4f4d79cc461n192Ny4E1U~",
+      "brandName": "爱奇创新",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230711/7bf6f160950405e973b97eb13662561ca80b809b2d4dd96fb3fc3afdbd853d78debb8f3c70091645.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "用科技探索世界！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1725331887860,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱奇创新",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

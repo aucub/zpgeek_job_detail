@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LCtqsRGxqHL4---14IpArmnfBIm6n3OfktyEUI4GBOhkOSkJ2rmdNa1i5t_-MhLrK-Tt9TI7eWDHHgML2b2Oq1zEQWB6TbLeEKl4wavpkGcsug_34kpjvg9iIJEVps2amQl190j4h4-y",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5909b13b0250f9f11nV40tW7ElRT",
+      "encryptUserId": "f68bcf1697012ca70Hdy3du_FFA~",
+      "invalidStatus": false,
+      "jobName": "Java后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.     熟练使用spring cloud微服务架构。\n2.     熟练使用redis、mongodb非关系型数据库以及mysql、Oracle关系型数据库。\n3.     熟练使用kafka等消息中间件技术。\n4.     熟练使用Linux系统。\n5.     有sql调优能力，了解jvm内存模型。",
+      "encryptAddressId": "e1588d9fe3a8429a1HNy3tu9GVc~",
+      "address": "北京海淀区中关村创客小镇15号楼",
+      "longitude": 116.20118,
+      "latitude": 40.050217,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f922f14928af7fe5201568eb6b471a7f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ceed6ad723f3ec4be558cfb7960e4a34",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "分布式技术",
+        "微服务架构",
+        "Spring",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190826/710f443dfb8f1866f5bac48f667412f398ba9c2169bd05f51724dd953a6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "彼瑞教育",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "465c1dc377ae49d30nF_29i6FQ~~",
+      "brandName": "彼瑞教育",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724647577000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "彼瑞教育",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

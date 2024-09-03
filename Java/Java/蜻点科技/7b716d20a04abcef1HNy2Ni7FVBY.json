@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7xx0vXejAXzzK-51SvZdZBI6B-YnEJpqnGOrvH63mBdecqBbRKmz_CgFfoJsE_oHJe0E1voU73zzHu2g4icx5EqBjDE8P1G0nhAxagkVedBoGXjTdXsE7mAWVdy4JnpVZoZ4wUR1iyDm6MM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7b716d20a04abcef1HNy2Ni7FVBY",
+      "encryptUserId": "b60788da22a283c40nR92Ni1ElJS",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握Java语言、熟悉java8新特性\n2、熟练使用springboot框架、熟练使用JPA\n3、熟悉DDD领域驱动设计方法\n4、熟练使用jquery、html+css等web前端技术\n5、熟悉mysql数据库\n6、熟悉linux常用命令\n7、熟悉nginx的使用\n8、了解docker容器",
+      "encryptAddressId": "4c242ee452a2bdde3nJ_3dq4GVA~",
+      "address": "深圳龙岗区城市山海·鼎汇A栋601",
+      "longitude": 114.086241,
+      "latitude": 22.629004,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4111d145e8e0fd868b7a7c8ae4a3408",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3bc0cf33602d7075ca00318712025dbf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java",
+        "Spring",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "Linux",
+        "容器技术",
+        "Nginx"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211012/607f1f3d68754fd0ed01208c3bbfc3b538ec812fc5fc515850f1f3846b332acaf742bb4e9d1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "蜻点科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6dce6b5762abd4861Xx70ty7FVQ~",
+      "brandName": "蜻点科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724565685000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蜻点科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

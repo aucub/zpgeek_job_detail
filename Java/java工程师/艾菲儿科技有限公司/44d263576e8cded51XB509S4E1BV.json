@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aI410VAop2a90-G18zPwNcm9Fl62sk9iBFyLg8BtcKkfm4Sg5GXSgar07i-X-8O7IyV3_2bm-oFwXP4XjUU4oO-YmY1-30PP4xl3AP3I2pZpqKaM4xSJNDzTP-gNKHPVfFuvzvO2H35MnA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "44d263576e8cded51XB509S4E1BV",
+      "encryptUserId": "ce40d778956fd3f91HJy29W-FFc~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格：\n1、负责公司所有Java项目的开发及维护工作，能独立写接口和独立写后台管理；\n2、参与软件系统的需求分析；\n3、按时提交高质量代码，完成开发任务；\n4、能快速定位和解决系统运行中出现的问题缺陷；\n5、规范文档的编写、维护，以及其他与项目相关工作；\n\n技术要求：\n1、精通Java语言和面向对象设计方法，熟练掌握JSP、Servlet、JDBC等技术；\n2、熟悉掌握JavaScript、jQuery、AJAX、HTML，CSS+DIV等前端基础技术及框架；\n3、精通主流开源应用框架，如Spring/spring mvc、Spring Boot、ibatis、XML、JSON等开发技术；\n4、熟悉Linux，Nginx，Tomcat，Jvm的配置与操作，熟悉SVN、Maven等开发管理工具；\n5、熟练掌握ORACLE或者MySQL数据库，有SQL开发经验，能独立构建数据库最佳；\n6、具有扎实的Java编程功底和良好的编码规范及规范的文档编写习惯，有移动互联网APP开发经验者优先考虑，有即时通讯、移动支付、第三方登录、分享、推送等接口对接等开发经验者最佳。",
+      "encryptAddressId": "5664a189cb53483d1nV509i-GFtWxY66U_-b",
+      "address": "成都双流区太平园国际中心2-617",
+      "longitude": 103.941179,
+      "latitude": 30.606515,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231105/48ba41acc9cef1bf6b7f51b1329f5c25befab6796cd245566bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231105/48ba41acc9cef1bf96850600c5afe2411761c37bd5215b1b6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "全栈工程师",
+        "Java",
+        "C/C++",
+        "JavaScript",
+        "后端工程师",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "执行总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231129/607f1f3d68754fd0abe72a92baf78c1eaa93b92a4cae6855f904fcf7bc3679aa1cb007b9d488f8c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "艾菲儿科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ca50959ac28f298f1XZ_39W8GFQ~",
+      "brandName": "艾菲儿科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20221010/7b5b554d84f9729ca1fd80d5d2bd09a04b1e68ec90cfd998f904fcf7bc3679aa1cb007b9d488f8cd.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "社交类软件开发公司目前开发一款app宜宝处于完善阶段，在社交板块延伸电商模式",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "零食下午茶",
+        "包吃",
+        "员工旅游",
+        "节假日加班费",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725349800260,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "艾菲儿科技有限公司",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

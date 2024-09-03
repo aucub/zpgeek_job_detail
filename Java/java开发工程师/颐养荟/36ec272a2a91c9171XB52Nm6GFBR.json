@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "e1XnhjfaKnRwz-q1h-7WB0aRhVzPBLuTgdMGYLnOC0oxwjijdg-MWa9A9NzSWiI3mJVHci2rj5uTgTXEod1cFigPhwkYN9pMdiDGy0WgUNYqFc6_JViGxQ6LxQiqyAkyLgY9MbzozFq1jJA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "36ec272a2a91c9171XB52Nm6GFBR",
+      "encryptUserId": "676986f44ecbd1a51nR_2ty5E1NU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1、有扎实的编程功底，有至少2年以上Java开发的实际工作经验\n2、熟练使用springboot进行开发\n3、熟悉dubbo或有其他RPC开发经验\n4、熟悉MySQL或其它关系型数据库的使用，有sql分析优化能力\n5、熟悉redis、kafka、rocketmq等，在生产环境有实际使用经验\n6、熟悉HTTP协议细节、熟悉数据安全传输者优先\n7、熟悉基本Linux命令,JVM有系统性能调优经验者优先\n8、具有良好的团队合作能力、沟通能力，有较高的责任心\n岗位要求：\n1、参与业务部产品需求的技术方案设计和开发落地\n2、负责服务端功能开发实现和性能优化，并持续迭代\n3、本科以上学历，1年以上相关工作经验\n4、具备互联网医疗、健康管理等行业的经验优先\n\n深圳市颐养荟健康养老科技有限公司，成立于2017年，位于深圳市福田区，是专业的医疗健康生态综合运营商，为医疗健康机构提供一站式解决方案的B2B互联网高科技公司。\n公司围绕医疗健康行业机构的营销管理、运营管理、供应链支持、财税规划等经营环节，提供一站式解决方案。为客户定制线上线下深度融合的服务平台，提供强大的saas服务系统管理工具和运营服务支持赋能。\n颐养荟主要面向B端客户，服务于政府平台、银行、保险、大型企事业单位、康养地产、物业公司等客户，提供系统定制化开发，运营工具开发、系统维护及技术支持。",
+      "encryptAddressId": "f07a520e9608c30d1nZ42du5ElZUw423U_2Z",
+      "address": "深圳福田区卓越城1期2栋305",
+      "longitude": 114.060047,
+      "latitude": 22.571965,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf912dd211efcb65407d03e3349fc6dfa06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bff084cd6d2daa9db5fa035cb619eaa9ac6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "Java开发经验",
+        "架构设计经验",
+        "Java",
+        "Redis",
+        "MySQL",
+        "Spring",
+        "不接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "戴先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "颐养荟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4a91db01e77f76a41nN43tW5F1A~",
+      "brandName": "颐养荟",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725356885206,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "颐养荟",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

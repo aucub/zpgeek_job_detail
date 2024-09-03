@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "RUn3ayPdG8rNB-z1COK9q8BuVh62e8ICFvhyeT_Td17kywsSDm0lIMJOIvlEfllRUcWR0cLtzmL0bRjg7Iic3QzfZEGDKfxIjp3biRxW671rH0bQoxTH",
+    "securityId": "GGkELrHLsFoSk-b1ixn97lt1vBdzBCdd5hP8Hi1JysVJRWpKnkLNow-h87TwszQ7mCfmc8m0pSSgEqIc14aqWTDZDinSIjDZ6DDwZaK8KrB0F4kAl0uoMtpR4BqmZ98MwhVrtoTIYK9wtuc9V9D7Kvrm",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,11 +46,13 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
       "large": null,
-      "activeTimeDesc": "今日活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "智联九九",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "ab3219036df64a361nV53N60FlM~",
@@ -64,15 +66,15 @@
       "industryName": "通信/网络设备",
       "introduce": "Union-nine-nine英文简称（Unionnn）\n\n \n\n“智联九九”是一家专注于移动互联平板电脑，物联网工业平板(MID)研究及物联网终端开发等嵌入式设备的高新技术企业，公司员工超过85%以上为MTK联发科及Qualcomm 高通平台的高级研发人员及算法科研人员组成。\n\n \n\n“智联九九”致力于（EGSM/GPRS/3G/4G LTE-TDD-FDD）的移动终端方案研发，公司能独立提供，工业设计（ID）、结构设计（MD）、硬件设计（HW）、软件设计（SW）、生产制造（Manufacturing）、测试（TE）、品质保障（QA）的全套移动终端解决方案。\n\n \n\n多年来公司研发平台覆盖MTK全系列(如：MT6571/MT6572/MT6582/MT6735/MT6737/ MT6750/MT6752/MT6753/MT6755/MT6739/MT6797/MT6762)及智能平板电脑平台8系列（如：MT8312/MT8382/MT8321/MT8735/MT8163/MT8176) 为众多客户提供电子产品OEM、ODM和PCBA服务。\n\n \n\n“智联九九”秉承向客户提供最优秀的技术解决方案，全力支持客户取得双赢的经营理念，整体产品故障率在0.3%以内。通过全体员工的不懈努力，自身体系的建设、质量监控，通过各企业的合作及系统认证，成为其重要的战略合作伙伴。近两年来公司紧跟物联网步伐，已与国内外多家通讯领域建立战略合作关系，热烈欢迎有识之士加入我们“智联九九”之家。",
       "labels": [
-        "五险一金",
-        "补充医疗保险",
-        "年终奖",
-        "带薪年假",
-        "餐补",
+        "零食下午茶",
         "节日福利",
-        "零食下午茶"
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
       ],
-      "activeTime": 1718279339707,
+      "activeTime": 1725356343862,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "智联九九",

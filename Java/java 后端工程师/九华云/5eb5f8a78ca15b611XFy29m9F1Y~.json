@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "E5QNEkbTIToWh-G1O55rUYSSaWf349SYbtqi8LG0CqqX0mk-9Er4jeruK887n2rz7MbXoIaqF5KuDh4MYTqm8omDzCCfWNztoCgq5SfdrVvbRooe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5eb5f8a78ca15b611XFy29m9F1Y~",
+      "encryptUserId": "1eccd3f52e548db303F_2Nq7Els~",
+      "invalidStatus": false,
+      "jobName": "java 后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101181800,
+      "locationName": "济源",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1.\t有1-2年java开发经验\r\n2.\t理解Spring framework的核心概念和开发模式\r\n3.\t熟悉Spring Boot的各种特性\r\n4.\t理解HTTP协议的通讯模式，了解RESTFul的相关概念，能开发符合规范的后端接口\r\n5.\t理解ORM框架的原理，熟练使用过Hibernate或Mybatis中的一种\r\n6.\t熟悉常用数据库，熟练使用sql\r\n7.\t有较强的逻辑思维能力和沟通能力\r\n8.\t有较强的自助学习能力，能很快的熟悉新技术\r\n9.\t同时有前端开发经验的优先\r\n10.\t有linux基础的优先",
+      "encryptAddressId": "047b985cd1f2bf9f3ndy29W7FA~~",
+      "address": "济源虎岭科技大厦5A08",
+      "longitude": 112.558104,
+      "latitude": 35.072,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2379fe4e05a818e960d532b767264743",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b73a86784a192bdd986dc2f30db0ada2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "spring frame",
+        "hibernate"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "九华云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "49ccca2894d28bfd1XJy2di6Fw~~",
+      "brandName": "九华云",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190723/820d7b1b8109946a3391c070485eb3ca324e9b29cffceb04eadde72f374f201c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "九华软件团队组建于2012年，是本地最专业、实力最强的软件行业团队，是集研发、销售、服务于一体的“一站式服务”专业团队。\n\t九华软件团队自组建以来，我们秉承“客户第一、可信、拥抱变化、自我进化、乐于分享”的企业文化，把“服务大众、方便大众、创造价值”作为我们的光荣使命，“创造美好生活”是我们所有九华人的共同愿景，我们坚信“合作共赢”的价值观。九华很注重人才，“吸纳人才、培养人才”，吸引了一批从“北、上、广、苏、杭”等一线城市，回家乡创业的有志青年，带回来先进的技术、理念及经验；加强研发投入，打造“一站式本地化”服务旗帜，相继与政府机关单位、企业集团达成多项战略合作伙伴关系。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1722755510325,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "九华云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

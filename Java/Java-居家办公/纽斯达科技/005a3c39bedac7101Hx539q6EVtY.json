@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vSGgVlEv9F3yN-b15qgl5jvlQbU7Lm23-m14U0GjVMYOq8obgFy2Zm5cWH3GVSgbaxPSk5lYerPGHtGpLp5WPX0pljywo3quFHffnNRLtANWmgUEc1c_Orz36288PxvIx68WcNTBYgoAKxSibkiEI_aXZBJIRErs3ZN0GkffjU4kMCD_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "005a3c39bedac7101Hx539q6EVtY",
+      "encryptUserId": "6d8c54cbb71929f50Hxz3d69EVE~",
+      "invalidStatus": false,
+      "jobName": "Java-居家办公",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "全国居家办公，上当地社保，统招一本，985&211优先\n岗位职责:\n1、后端编程，精通Java编程，会使用SpringMVC、mybatis等，Python方向优先；\n2、前端web编程：熟练html、css、React/Vue等前端技术；\n3、数据库：能熟练使用mysql、redis各种操作；\n4、有linux部署经验，能独立部署tomcat、nginx、mysql等中间件应用；\n5、独立进行程序单元、功能的测试，查出软件存在的缺陷并保证其质量；\n任职要求：\n1、一年以上工作经验；\n2、精通面向对象编程，Java 和 Python 均有实际项目经验；\n3、熟悉常用的生产开发和部署工具，如 Git, Shell, MySQL, Redis, Docker, Kubernetes 等；\n4、加分项：\na、熟悉多种编程语言，比如 Java/Python/Go/C++\nb、对前端开发也有一定的开发经验，比如 React/Vue 等前端技术栈。",
+      "encryptAddressId": "6a0ff6915730732b1nZ53N26FFNYxY2_Wfue",
+      "address": "北京东城区东方银座联通数科",
+      "longitude": 116.435489,
+      "latitude": 39.940172,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf5e416925f4461f8bbba9d14ed85571fb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf5c6642104b57bba3375d048eb9b0a5806bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "MongoDB",
+        "接受居家办公"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "伊先生",
+      "title": "高级招聘HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240501/607f1f3d68754fd0cfc089e8488ce75cb3aaf3f60e565bb19cf8739ae097af921ae7c61ee6f24cc_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "纽斯达科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1f70b994d7dc5f9d1nF-2927EQ~~",
+      "brandName": "纽斯达科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190516/dd58376e986aadec2dc89c0c0cb5510f00697978ae20dbaf574d3c0c109ba793.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "服务范围\n      纽斯达战略IT技术支持服务的目的是帮助企业能够专注业务的核心竞争力，在技术领域能够以合理的低成本获得高质量的IT技术能力。纽斯达从以下几个方面为客户提供IT技术支持服务：\n• 企业关键业务流程与应用顾问（ERP）\n• 客户关系管理及营销系统顾问（CRM）\n• 业务系统运营人员\n• 系统架构师\n• 软件开发工程师\n• 软件测试工程师\n• 系统运维工程师\n• IT基础架构服务工程师",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1725355992096,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "纽斯达科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

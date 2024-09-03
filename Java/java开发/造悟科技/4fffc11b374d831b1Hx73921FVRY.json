@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TIfzzr9f-ESBN-I1y62FXnBN0DsKQAq49IdTB7AyjjH3JQWv4dZuvoiMMRKRhe_gk67MWsLsjyKXL9yLN2C9WTPhLQi2c3Ns2bYoy70H39BvlXPnm9nY3-P_jAY6akcoH_nGhiPdbjK46ME~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4fffc11b374d831b1Hx73921FVRY",
+      "encryptUserId": "8b98dc221ec6ee6a0XR90tm7FFdT",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.根据开发规范独立完成模块的设计。\n2.负责功能模块的开发，确保代码性能、安全性、扩展性等达到设计要求。\n3.负责功能模块的单元测试，确保代码质量。\n4.参与软件需求与设计审核和代码检查、负责编制与项目相关的技术文档。\n技术要求：\n1. 为公司其他部门或客户提供必要的技术支持及培训。\n2. Java基础扎实，熟练掌握数据结构、多线程编程，掌握常用的设计模式；熟悉JVM，包括内存模型、类加载机制以及性能优化；\n3. 熟悉使用Spring（Spring boot, Spring MVC, Spring Security, Spring data, Spring Cloud）及MyBatis等相关主流框架；\n4. 熟练掌握Mysql、Oracle、SqlServer等数据库原理和常用的优化技术，熟悉并熟练应用redis，mongodb等非关系型数据库；\n5. 工业互联网平台开发经验者优先；\n6. 熟悉Maven构建工具以及Git代码管理；\n7. 熟练使用linux，能够利用常用的工具对程序进行跟踪诊断;\n8. 较强的责任心，具备良好学习、沟通能力及团队协作精神，对工作积极严谨，勇于承担压力;\n9. 具有很强的问题分析和解决能力，有强烈的责任心，良好的沟通表达能力和团队协作能力。",
+      "encryptAddressId": "5af83c02d530760d3nZ509m-FFdVyoi8Wf8~",
+      "address": "深圳南山区深圳市软件产业基地6栋902室",
+      "longitude": 113.94085,
+      "latitude": 22.522917,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230621/48ba41acc9cef1bf9ac9c9c233278c2df670913ca98083e06bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bf4ee1aa69c524c1cbb7a92ee52028c7846bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "架构设计经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "造悟科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "52d57158304be45f1nF62t68GFQ~",
+      "brandName": "造悟科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240607/7bf6f160950405e90a390e0f8ee44bdd9e9dc10ed8e526341e381bd1eaca49f215e227bb7d4d5699.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "底薪加提成"
+      ],
+      "activeTime": 1725245190335,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "造悟科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

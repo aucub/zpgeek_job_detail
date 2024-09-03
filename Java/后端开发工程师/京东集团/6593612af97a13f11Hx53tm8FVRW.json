@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9GaIrstVntZ82-F1jIdGS7-U3Hwu2A2fLIPGxrVU45JbY86OD9VaPQwj5MED7r0kJ2A9gAZrqNAbbYpUCtSZHSco3kcQ5aUFROPN2m91ZRvBGBXWlvA0Swv-jJLQRFJm8go0MqUPQ0kJLIwpPf-pUtUgvqTKVNvHKi4MXZuigIWonjM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6593612af97a13f11Hx53tm8FVRW",
+      "encryptUserId": "27b4efee351c482e1nZ90tu-FFQ~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "后端开发工程师\n工作地点：北京\n岗位要求：\n1.本科及以上学历\n2.3年以上使用J2EE开发经验，JAVA基础扎实，理解io、多线程等基础框架，对JVM原理有一定的了解\n3.熟悉Spring、SpringBoot、SpringMVC，MyBatis等开发框架、了解其原理和实现机制\n4.熟悉Mysql关系数据库、熟悉ElasticSearch、Redis等非关系数据库的使用场景和底层原理\n5.熟悉Linux操作系统，有分布式系统的设计开发经验，熟悉分布式事务，高并发，高可用，高扩展等相关技术\n6.善于学习和与人沟通，为人正直、诚信，有较强的事业心，具有分析、解决应用问题的能力。",
+      "encryptAddressId": "88059be0306bf1f61XB62dq-F1c~",
+      "address": "北京通州区京东大厦",
+      "longitude": 116.563,
+      "latitude": 39.78665,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b2bd6ab70f1586d06013e6f622fed52",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dd038080ce9a4e53debb331366ce1d2d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "资质审核"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "技术架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160816/bd83a3e821db598f77a3178052fd41798c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "京东集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "33e052361693f8371nF-3d25",
+      "brandName": "京东集团",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20191129/3cdf5ba2149e309b38868b62ae9c22cabe1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "京东于2004年正式涉足电商领域，2018年，京东集团市场交易额接近1.7万亿元*。2019年7月，京东第四次入榜《财富》全球500强，位列第139位，在全球仅次于亚马逊和Alphabet，位列互联网企业第三。\n\n2014年5月，京东集团在美国纳斯达克证券交易所正式挂牌上市，是中国第一个成功赴美上市的大型综合型电商平台。2015年7月，京东凭借高成长性入选纳斯达克100指数和纳斯达克100平均加权指数。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "包吃",
+        "交通补助",
+        "餐补",
+        "免费班车",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1725359324531,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京东集团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JaM9id1BBLoBn-O1QJP29LpuukTLs05vYs-KykSNaVJ1mASKu2oRJ_xyoZFYbBSbAQFfHBAhGev_HCSdqtagZgDEygWrY4fRql2OGmeiQtgSTuFDnv3lhypqZ4B80dY3wFwB57TVA6fxSA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "43d9628fb6b2fbd11HN93tm6F1NY",
+      "encryptUserId": "97ccfaaaa3a9f0b71XV83tW9GVc~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1. 根据要求进行基于Java语言和python语言的系统设计和开发；\n2. 结合业务需求完成功能模块设计、代码开发和调试、单元测试和部署等；\n3. 系统业务功能运行与维护；\n4. 负责相关技术文档的撰写。\n岗位要求：\n1. 一本及以上学历，计算机、电子、通信等相关专业。\n2. 精通Java和python，熟悉常见的设计模式，熟悉深度学习，有图像识别经验优先。\n3. 熟悉SQL语言，熟悉Mysql、Redis中的一种或多种；\n4. 熟悉Springboot、SpringCloud等后端框架、具有面向对象的设计思维，熟悉MVC开发模式。\n5. 熟悉nginx虚拟主机、反向代理、负载均衡等配置。\n6. 熟悉docker技术；\n6. 熟悉Linux操作系统，掌握基本的运维命令和脚本编写能力；\n7. 能独立开发功能模块，并具有2年以上Web后端实际项目开发经验优先；\n8. 1年以上python开发经验，熟悉数据处理，图像处理，web服务。\n9. 有较强的学习能力、良好的沟通能力和团队合作精神。",
+      "encryptAddressId": "84dc01dc66392a071nV_2dm-F1tYy424WPuY",
+      "address": "北京大兴区亦庄经济开发区1001",
+      "longitude": 116.47314,
+      "latitude": 39.797633,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c2f8ef7ca6d1f8d15068f6a20cf23fd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8eb11e2c8ef8b42478f268466de1f5ea",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle",
+        "分布式经验",
+        "微服务经验",
+        "ERP开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190906/3ea5fe5a59338a2eae8726dc9712d3e98d51b62ebe6262f7f4eaf3f103a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "领航中科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "88e70ce08c930e571XZ_3dS0GFo~",
+      "brandName": "领航中科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100905,
+      "industryName": "铁路/船舶/航空/航天制造",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725009097386,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "领航中科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iJUtjj776TjRi-K1F6VsnSE3ikQ071n4LqFuS0j1jwQvBIaDGrrVHqTi5dTcVPOvRUcNoHl3SZiC4U6_Q6j8csWdO1RJN9LeiWfpHSRU-8qvo8ZjJ81hnuC85gHMDgNsO_cbLDtsbxiJKw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ccbdd7bd8d14bd781Hx539W7E1VR",
+      "encryptUserId": "69e98a195953a2dd1HJz09u-F1o~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、需要良好的沟通能力和应变能力，以及团队配合意识；\n2、对外技术支撑到位，能很好解决客户在使用系统中遇到的问题；\n3、对内需求总结转述专业；\n4、负责应用系统日常运维工作，包括中间件与应用系统的变更及发布、运行监控、事件响应及处理;\n5、熟悉MySQL、ES、消息队列和缓存等数据管理技术中的一种或几种，能够在指导下完成相关产品的部署、测试和迁移工作;\n6、负责应用系统与基础架构运维过程中的问题分析与处理:\n7、掌握网络监控、管理工具，能进行常用的协议分析，熟悉Nginx配置。\n8、熟悉Centos或者Ubuntu等Linux发行版系统，熟练Shell、P ython脚本开发语言;\n9、熟悉SQL Server、MySQL、oracle等至少一种数据库，精通SQL语言基本语法;\n10、具备网络故障的分析、判断、解决能力;熟练使用抓包工具，能够通过对报文分析，解决实际网络问题。\n11、市场意识敏锐，能挖掘客户潜在需求；\n12、做事认真负责，积极的工作态度；服从工作安排，有良好的团队意识。",
+      "encryptAddressId": "433071641e6930a51nZ53N6_ElNZw465VPmX",
+      "address": "北京海淀区公安部第一研究所-离退休职工活动中心首体南路一号院8号楼25门403",
+      "longitude": 116.324188,
+      "latitude": 39.93769,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bf2f04d91690e63cedcc3f6173c3461d006bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bf0882718731a356837eec6622701a0b576bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "MySQL",
+        "云计算经验",
+        "大数据经验",
+        "Java、vue、数据资产入表"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中安防伪技术有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0bd5213ac21387b91HJz2d25EVE~",
+      "brandName": "中安防伪技术有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725350923264,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中安防伪技术有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
