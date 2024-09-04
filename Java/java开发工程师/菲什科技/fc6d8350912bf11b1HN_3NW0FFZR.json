@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kOjtfznXW27fr-J1PCeC2b19vQx-HLvnvr1Vd-4pteW9gbhQ80JruIP0gM2wip48sU0adaDa-dQ5Oa5KZogs0-jqqZHeepHeMjmuLTgUtwP0ZvLTzdBRGiKMpWeyxiypGZaEnelDvGacf3McbxZKf2JdodU-lkM2hKT7auutxDb0HG7sZSF79Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fc6d8350912bf11b1HN_3NW0FFZR",
+      "encryptUserId": "6774a0bc2649cace0XN63t66EVNU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1、按照软件需求编写概要设计、详细设计、代码、及相关技术文档；\n2、对反馈的软件产品故障进行定位、跟踪、调试和修复；\n3、对产品完善提出合理化建议；\n4、能独立完成业务模块的开发；\n5、负责攻克高稳定性、业务模型复杂等带来的各种挑战及技术难题；\n二、任职条件：\n1、计算机或相关专业毕业；\n2、熟练使用Springcloud、SpringBoot开发规范；\n3、熟练使用Spring、myBatis、SpringJpa、netty等常用框架；\n4、熟悉使用Java8及以上规范，熟练使用 Future、Lambda 表达式、Stream 操作等；\n5、熟练使用Vue、jQuery等常用前端流行库和框架中的一种以上；\n6、熟练使用MySQL、Oracle等关系型数据库，并能进行数据库的数据结构设计；\n7、熟悉jetty、tomcat、nginx、apache等服务器；\n8、了解CI/CD等发布流程；\n9、了解Redis、kafka、Elasticsearch、RabbitMQ、nacos等中间件；\n10、了解k8s、docker、esxi等容器技术；\n11、熟悉HTTPS、Web Socket、TCP/IP、UDP、MQTT等网络协议；\n12、熟悉git、svn等版本控制软件；\n13、具有Linux上的开发经验，熟悉命令行，能够编写基本的Shell脚本；\n14、物联网智能设备接入、视频流开发、视觉AI、边缘计算开发经验优先考虑；\n15、具备工匠精神，工程化思维，有较好的问题分析与解决能力；\n16、对新技术充满热情，积极学习，具有高度的责任心以及良好团队合作精神。",
+      "encryptAddressId": "d16516ed69e616061nV43Nq8GVZZw427UPuY",
+      "address": "福州闽侯县榕创大厦E号楼511室",
+      "longitude": 119.216968,
+      "latitude": 26.031904,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240328/48ba41acc9cef1bf2fe9d5556b5c6f20e22fb20e1aa5e8926bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240328/48ba41acc9cef1bf4c4c404dfbbe67183ef07fa7328aba786bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "PHP",
+        "Spring",
+        "SpringCloud",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "不接受居家办公",
+        "架构设计经验",
+        "微服务经验",
+        "物联网经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240803/607f1f3d68754fd0724c9b2dffde7f1da64b6c3f8ae7c8d956b6ac6b5b5d22a2c5620aaef71b98b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "菲什科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "512014b034ae09651HJ-39q-FVY~",
+      "brandName": "菲什科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240803/7bf6f160950405e9a2654b6662ba44e68e611f151407216056b6ac6b5b5d22a2c5620aaef71b98bf.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725412832549,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "菲什科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 1,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": true,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aKyP4QkDzMO2q-v1qbDiYe1l1kfwcfFhzSNFbjUHyFyL7E39XObvWEn9_umeFkO0zkNycAdCqn7OqyS8gnZbQj-lmjjTxc169y1smdlrYubsIorfJp8Yg0fWL3dEGuMm7K7iYJUfMxju7A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e7db26ce18bfae011HJ52d-7EVFY",
+      "encryptUserId": "2a1a54c56aaf54b41n1z09W6EVE~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. 使用 Spring 全家桶实现业务逻辑与接口。\n2.参与系统功能研发和业务核心代码的编写；\n3.参与平台和线上产品的bug修改和日常维护、升级；\n4.负责系统软件和数据库的配置和优化；\n5.按时按量完成上级安排的工作任务和目标；\n任职要求：\n1. 大专或以上学历，计算机软件相关专业；Java工作经验2年或以上\n2. 熟悉Spring Cloud Ailibaba, Spring Boot, MyBatis Plus，Store Procedure等技术框架；\n3. 熟悉Redis，Ngnix/Ribbon等技术；\n4. 熟悉MySQL数据库使用，具备数据库设计能力，熟悉SQL优化；\n5.熟悉Git源代码管理工具的使用\n6. 有团队合作意识和沟通能力，富于技术创新精神，勇于解决技术难题。",
+      "encryptAddressId": "11c1aaa99e7104fa0ndz09W6EFFUwoy4UPg~",
+      "address": "无锡新吴区协信中心910",
+      "longitude": 120.368444,
+      "latitude": 31.488076,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230718/48ba41acc9cef1bfe0d01a0236163278c0b648d61d5df6df6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230718/48ba41acc9cef1bf31d74dc7d77ce41d6981eeab040486686bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190905/98662d7df686fd1e03874993fd0923a31dfc1fd865fe1a504960245aff9_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "无锡诺又平网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8f8978d635c467b11HZy3924FFo~",
+      "brandName": "无锡诺又平网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725143916301,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "无锡诺又平网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

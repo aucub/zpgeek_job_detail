@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "-qAe_82Tzpzyh-J1-9jRF4BBJI6HcgOBHFxctIkukpFvLDWkUh9PFpfSTG7RMnD3GsWB2-kn9QbDr-LKaR37Rs-iM3bVE9nJAarHKZ5nLHxBdS8euEN4uyJ99gWrjJ6j9Jbz3nOnXW6uVXo487kruDwV2w~~",
+    "securityId": "00v6KzXg4xrk9-O1aBI5CC-FkeIUgEfQkgBB6zMPrtQ61wDdj75Gj1MY5d7QuiAAoKdULY5LZ8FA9VXm_yY62HYei7Ytb7C7AnAqx2fj7TCsCPR88Fo~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,7 +45,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200406/417ab06812d62970e8d68db8495d9ef8cfcd208495d565ef66e7dff9f98_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "智菲",
       "bossSource": 0,
       "certificated": true,
@@ -78,17 +78,17 @@
         "绩效奖金",
         "定期体检"
       ],
-      "activeTime": 1724772404304,
+      "activeTime": 1725425586556,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "智菲",
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 1,
+      "inviteType": 0,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": true,
+      "canSendPhone": false,
       "canSendWechat": false
     },
     "relationInfo": {

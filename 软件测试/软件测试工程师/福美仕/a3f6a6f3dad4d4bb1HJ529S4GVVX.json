@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "3lzd8Ia30JVt9-I1irze1rWUylmnTAiBcz1y3DhpZECmtldBTay8F7_DMLtKMKwOREQ4OHN5UkEm3Fwkm27tl8dXq35hJCWpo-SVQ0ii4fraF05vqrDc",
+    "securityId": "UVYkeJgiGe6N7-_1ZT0MLPm6q0SLqgW4_vAoM7Ovr6_uIryit-4BMCjCkDEmbKEYdhY3YGhBzXlYuiPN0Ry2Sx1dUjlnYu2TDGN-UtAjPI-kvYzG1gCAOTyod_NJveG_YhVAp76fa2-tVtSuP8h4SVno",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -38,7 +38,7 @@
         "PC端软件"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "罗女士",
@@ -46,10 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221103/607f1f3d68754fd0b80643082aa5c07bb3d98c247687f60d7c7fca62ad4abb1fb70e5282b45_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "福美仕",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "77e4a48fcf58d1071XB439S8GVA~",
@@ -68,7 +70,7 @@
         "包住",
         "餐补"
       ],
-      "activeTime": 1718189247544,
+      "activeTime": 1725459640252,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "福美仕",

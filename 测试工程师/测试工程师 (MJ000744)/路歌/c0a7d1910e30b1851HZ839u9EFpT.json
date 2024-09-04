@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "pBE7eRVgWksoA-m1Gpy0NC4axPPNiI4ILBVzP3uXDQu8lKF5tr2hzysMu98zynIneMHroPw2Nn0TwbeibA-NAGixLkIyBVg4TYsswKfuPBxFrU0QnwqJtHIzeue75M4XfVef5uJnz5gz",
+    "securityId": "Yv6hu0zajN1Su-T12CkJREOOqzCqwOqfX3H5ZmT9kpqJ57o124nQVimR5qOGH3FELk039JNL4gCW4lzNdeYmiH8Rhx4ZksgsP9vSMbC10mDtW5WO3hcNIt4Rz98w9oqMb8HplmVEFeeJs5_PnENEUASnNOjX4wBmOUby1cPLFAYxhwMCXOYazMfwwNXt",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -39,7 +39,7 @@
         "postman"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "喻女士",
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230830/607f1f3d68754fd03d1b8f7d1cd6588432fdd762476eb497920d763bfd8f3454b468a7d61800db1_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "路歌",
       "bossSource": 0,
       "certificated": true,
@@ -79,17 +79,17 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1724757386772,
+      "activeTime": 1725444723134,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "路歌",
       "customerBrandStageName": "已上市"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

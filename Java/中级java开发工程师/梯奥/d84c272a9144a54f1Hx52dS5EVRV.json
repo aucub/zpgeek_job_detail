@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c7MPXO_lkqrJu-D1Cs0bpsCEHeY4eJ_hAPGylwqhhL_DH8PwhEA0j-nUYBCQac5RvPzaaBMZWxH_6RFtVa0u0qD8qU2sdBMad7gERQuFa21ZYcP2altYH_SM7I-Xoa51XM29usvzWGLtZfk~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d84c272a9144a54f1Hx52dS5EVRV",
+      "encryptUserId": "c6951ed604c28b6c0XFy0t-6ElNZ",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101180200,
+      "locationName": "安阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1)在软件项目经理的领导下，配合完成程序设计和开发，并输出相应文件、资料、程序等。\n2)按产品需求设计等，进行软件设计和编码实现，确保安全性、高质量和高性能、易维护。\n3)参与单元测试、整合测试测试，给与其他部门，如实施、运维部系统部署、运维指导。\n4)分析并解决软件开发过程、系统运行过程过中的问题排查、分析与处理，给出解决方案。\n5)其他项目经理或者工作安排的工作。\n岗位要求：\n1)大学专科以上学历，计算机相关专业,1年以上开发经验\n2)B/S 体系结构软件开发或架构和设计经验者优先；\n3)熟练数据库如Mysql、 Oracle、Sql Server 等的使用，主要使用mysql\n4)精通JAVA 技术，包括Servlet/JSP、JDBC等，对各种开源的软件如Spring、mybatis、springboot\n5)熟悉html/css/javascript等网页技术，使用过Vue者优先\n6)熟悉面向对象编程，具有良好的编程风格、习惯；了解软件开发流程，熟悉MVC模式；\n7)积极热情、沟通能力强，有强烈的责任心，具有良好的团队合作精神；\n8)能够承受工作压力，能在规定的时间内高效、高质量完成任务；\n9)对计算机系统、网络和安全、应用系统架构等有全面的认识，熟悉项目管理理论",
+      "encryptAddressId": "a66cbd0f4ca6e4663nF53t28FFZUwYy2UfM~",
+      "address": "安阳文峰区安阳易梯科技有限公司万泉产业园46号楼",
+      "longitude": 114.35817,
+      "latitude": 36.051032,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240615/48ba41acc9cef1bffc76f90bbe56d1be36e59338c08324c76bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240615/48ba41acc9cef1bf982cd635099f34c514100eb9ac732db06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "MySQL",
+        "物联网经验",
+        "大数据经验",
+        "音视频经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "技术主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240807/607f1f3d68754fd07c0a4dd5e458506b36fd4d610f5f2191a0eebeaebd7a4518edf44c17df1648d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "梯奥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8de38336c6ea1ce51HF_2tu9Fls~",
+      "brandName": "梯奥",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100030,
+      "industryName": "物联网",
+      "introduce": "公司从事电梯物联网研发与运营，通过mqtt协议，实时检测电梯故障，故障主动上报，并及时通知电梯维保人员，解决维保失效问题。",
+      "labels": [
+        "股票期权",
+        "保底工资",
+        "五险一金"
+      ],
+      "activeTime": 1725407648936,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "梯奥",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

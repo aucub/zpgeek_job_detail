@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "P2RKdl_S3I3Fj-M144psEcuqujmLq1QW0nzRpdz3jtieOxRlqNOobUPIIJJ0MFp6YC88NaPNLPkwEFPupJyIGLaY7nIymkH4o7GFW_KABo6wmGMDE_Qy",
+    "securityId": "F1FmSuTfoQjmh-S1OjkiN9qCwPdNMxp4DZQfzAQDAUBaijP-V9Gxvu4sB-rVvApwzEzgn0sbO-rE2yzII9MrbTD2X06gR5h_frBFKUh02nj8J9ScH5lkP_mA-N608bP7Sy1S-Cn2BOUYXVKPMh_IaHVJ",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,11 +44,13 @@
       "title": "HR",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=ed8e6ab3f59ebd1ajzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5cnH10544muIo9Gwe6zrxiPuukeJlUt-ruWGkgZQlXoHdVqq2mQXcZF-PqWBI5xNhPGQ7mmKwO-l0aBYLn1SUsUHtD9E-eI8jtwA~~&radius=15",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "微视医用",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "ebaf66eca2895c1d1nZ83dW5FlI~",
@@ -73,7 +75,7 @@
         "节日福利",
         "住房补贴"
       ],
-      "activeTime": 1717822325247,
+      "activeTime": 1725433824326,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "微视医用",

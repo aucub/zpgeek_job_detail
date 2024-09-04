@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Nk6e6pEUMgvnN-K1Lr7yj6ErcBe_XHazohCpJpZUxDNp7YccDinVW6lgt1GpjT3zCE9E_wnqGEoGh_cMrkKNFi1DKpMDEucVsNB8FiJGT9TT3oM6uA~~",
+    "securityId": "S51BE21StAJHR-M1WDZ_mOTZhGNEY93gFWf0QCFbrSmKcSYUJgXSBjB8htXPP-d1uVsj4cK1buj4hSGIad3BgL5JIt06J13Kmm1n5DIT70h7oa1c47t4M3zZMVA_BLyiEaIV9YkWczS0UbjqpiKtIg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,10 +46,12 @@
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=688acc99d44aa382jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR1RRa_7Gyb4hZJey6hopGt9annx0vdx-6oxnTQe8zuE0NL33fMcAtb28WGwsZl9U8XRe-q2jECEdF762URI-kopORQ7qy6xe-V1KU4O20HUoAyRA8j6dY8U~&radius=15",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "上海新炬",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "c876521677cdfd830nN53t6-Fw~~",
@@ -63,12 +65,12 @@
       "industryName": "计算机软件",
       "introduce": "上海新炬网络信息技术股份有限公司（证券简称：新炬网络，证券代码：605398.SH）是一家以提供IT数据中心运维服务及运维产品为主的多云全栈智能运维服务商，面向行业客户提供智能运维服务及产品、数据治理及数据资产管理等软件产品开发及服务。\n\n新炬网络服务内容涵盖PaaS云智慧运维、信创保障服务及生态产品、数据治理及数据资产管理整体解决方案，拥有从企业级PaaS云到大数据、从以“IOE”为核心的传统架构到开源互联网架构与国产化架构等不同类型平台的全技术栈专业服务与管理能力。\n\n新炬网络立足总部所在地上海，并在广州、杭州和北京分别设立“华南”、“华东”和“中北”三个区域运营中心，在全国二十余个主要城市建立了分支机构或本地技术团队，业务已覆盖全国近三十个省份。\n\n新炬网络在广州、上海、杭州三地设有研发团队，拥有千余名各类IT服务工程师和技术专家。基于丰富的第三方运维服务经验，新炬网络自主研发了“Zn系列”产品，包括全栈智慧运维平台（ZnAiops）、异构数据库智能管理平台（ZnSQL）、大数据日志分析管理平台（IVORY）、敏捷开发与持续交付管理平台（ZnDevOps）、企业数据中台（ZnDams）、服务流程管理平台和低代码开发平台等数字化管理产品。借助企业级全技术栈交付能力，新炬网络通过“服务+产品”模式的综合解决方案持续助力电信、金融、交通、政府等行业客户提升运维效率和IT管理自动化、智能化水平，优化数据资产管理能力。\n\n新炬网络是高新技术企业和软件企业，已取得65项发明专利和118项软件著作权，先后获得了ISO9001、ISO20000、ISO27001等多项专业认证，符合ITSS信息技术服务运行维护二级标准，并通过CMMI软件能力成熟度模型5级认证。\n\n新炬网络以“成就无边界多云全栈服务”为愿景，以“提升IT运营智能化、支撑企业数字化转型”为使命，坚持“HI+AI”的双向赋能路径，不断丰富和强化云端协同的产品能力，实现从单一平台产品向商业、开源与国产替代产品的全面生态兼容与互联互通；持续做深和扩大企业级服务市场，为各行业客户的数字化转型打造坚实的支撑底座，全面提升数字化支撑能力的效能。\n\n公司网址：http://www.shsnc.com",
       "labels": [
-        "五险一金",
-        "年终奖",
+        "员工旅游",
         "带薪年假",
-        "员工旅游"
+        "年终奖",
+        "五险一金"
       ],
-      "activeTime": 1718101607945,
+      "activeTime": 1725433656275,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海新炬",

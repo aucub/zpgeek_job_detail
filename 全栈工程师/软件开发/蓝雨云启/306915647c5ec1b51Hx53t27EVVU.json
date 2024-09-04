@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wOlzvUHZqqKap-y1O92LgpOwhP-bYRD9nHT6bz7iXXspUdkke7cHJiGCdq9-rVpfxuIg3PiUfPMqHJkKQki9CIuJx1pqhIp8XsrNTzfg3kypKmvgoQyXgC53mDjmdGtP8Z0gxkBGSxxWWD4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "306915647c5ec1b51Hx53t27EVVU",
+      "encryptUserId": "905e3e3d3a84e7c30XN-3dq5GFNV",
+      "invalidStatus": false,
+      "jobName": "软件开发",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "全栈工程师\n岗位职责\n1、根据产品功能需求进行代码框架、数据库、接口等开发设计并与团队协同进行工作量评估、设计优化与确定开发计划。\n2、根据开发计划和设计方案推进开发进程，完成代码编写以及前后端联调测试，确保开发工作满足实际业务场景使用需要。\n3、保持技术敏感度，提出并落地技术改进方案，不断提高程序性能和用户体验。\n\n任职要求\n1、计算机相关专业优先。\n2、掌握至少一种以上现代前端框架，如Vue、React、Angular（Vue为必备项）。至少精通一种后端的开发技术 (Java、PHP)；熟悉开发设计、编码、部署、运维等流程细节。对前后端工作交互有深刻理解，能够从业务逻辑出发考虑程序实际使用和高并发处理等场景。\n3、能独立对项目进行部署上线，熟悉MySQL、Redis、MongoDB等数据库（MySQL为必备项），深入了解其性能调优细节。\n4、具备较强的代码抽象+封装能力，能够满足代码低耦合模块和易维护性要求。\n5、对技术迭代、全新开发语言等具备较强敏感度，了解Rust等新语言的应用场景和特性，能够参与公司核心技术迭代研发。\n6、熟悉MES,ERP系统，有相关系统开发经验或有工业行业经验者优先录用。",
+      "encryptAddressId": "b043fe575d28208b1nZ53Nm0EVBWxIm9V_2b",
+      "address": "成都武侯区凯莱帝景A座12B",
+      "longitude": 104.065913,
+      "latitude": 30.616683,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bf7c39743b83cb12feae9a8b8c14f0018c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf317de364a74f6491a64df726b6ae28b36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Vue",
+        "C/C++",
+        "MySQL/Redis/MongoDB",
+        "英语读写能力良好",
+        "计算机相关专业",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "冯先生",
+      "title": "人事部经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "蓝雨云启",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "21626f45e701f6171HN609m-EVQ~",
+      "brandName": "蓝雨云启",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725366145652,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蓝雨云启",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

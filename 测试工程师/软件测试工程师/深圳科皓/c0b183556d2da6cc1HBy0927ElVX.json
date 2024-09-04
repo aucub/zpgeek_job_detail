@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "lzCGYedvHM5Zi-31xfX5EDG_sufE8us2dXOZMZPtTP4QrxRzptFYeYJ6sm4REOtYgjA9hKYZ6xplkxNdVkutvaz5bq2EJ7rpbw4a95rGsZEAOnohx26wDzirvaAihwdkjPhZ6-52WuDa34SwNvYE",
+    "securityId": "Eq10aIkVUqdmh-H1qL06v-mwbdw1Pk1vPdFK1tA6pjO2GJIwD2J54S-DRmR7KekRev4pjh_khX0uVLUcQRhcmdTp-iYTJSYxLNgW6iC2wgTqUSlo",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,10 +49,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240206/607f1f3d68754fd002b1da4666721d02f0f8b59f5396259422fa8b15d273e2c92b66ac8a3f03f16_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "深圳科皓",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "721307b4d14fd0b70XJ_3Ny-",
@@ -69,14 +71,12 @@
         "交通补助",
         "节日福利",
         "宿舍有空调",
-        "零食下午茶",
-        "餐补",
         "带薪年假",
         "股票期权",
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1718677208739,
+      "activeTime": 1725447064135,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "深圳科皓",

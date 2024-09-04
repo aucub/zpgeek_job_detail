@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "MRS9ZkIegh5QJ-s1P0GFnm4OcEBdR6Yy8joALpz9PDdvqQUYxLXuaGq1LzJfJXnMYSJl8XGBAmCMNAbSpEvvm36WSFAlmAQu5GK3HJC-_DaW0xhHx00tWeqDHpRmxdrDgb27-r04DtdXi5DIyUf9EolT",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0ff0e8dee7938c801n193tu6FltR",
+      "encryptUserId": "53e56ca5825abac61nZ-39u4GVFU",
+      "invalidStatus": false,
+      "jobName": "python开发实习工程师（web方向）",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "1-6K",
+      "payTypeDesc": null,
+      "postDescription": "上海玉带信息技术有限公司从事智慧校园的B/S结构的信息系统开发，使用前后分离进行开发，后端使用Java和Python共同开发，前端使用VUE和小程序（另有前端开发人员）。因工作需要，增加2-4名Python web开发人员。\n\n工作地点：郑州市二七区，不外派，不出差，开发公司自己的产品。\n\n要求：\n1、有使用flask + MySql/Sqlite独立写过完整的项目后端（公司工作更好，学校、练习作品也算，有做过前端更好）\n2、会用flask的render_template模板，并实际使用过。\n3、会requests和scrapy优先\n4、大专以上学历\n\n\n实习工资（阶梯式）：前3月根据能力1-2k，然后每3个月加一次工资。",
+      "encryptAddressId": "70b94f3b1942dd671nJ52tS_Flo~",
+      "address": "郑州二七区升龙国际中心A区A1-1",
+      "longitude": 113.640054,
+      "latitude": 34.725963,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fc5d46a6d2b4e5679541a5e5268ff25b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a66ab6db7aba20e140781c49ee91b7a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "MySQL",
+        "SQLite",
+        "Flask",
+        "Scrapy",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230914/607f1f3d68754fd0e02c475e70c6d93b52def667b8f8522a4f947d32b3d98236b12b722a5169515_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "玉带",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7a02aaacb8f8060b1nB42N-4E1s~",
+      "brandName": "玉带",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725452220544,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "玉带",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

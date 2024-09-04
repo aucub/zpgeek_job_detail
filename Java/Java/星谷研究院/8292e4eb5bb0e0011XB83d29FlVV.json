@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "J8FpXnnQlsY4o-Q1zpxXoKEphSe4nDCs80yIksIw6AoKMNHGNZ-LAUG7rSDgg6aAGR1d90mWCvx4e4nS9l7UYt0PV3bbs-bPk24Wew3Y2sFzB_Umqcyn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8292e4eb5bb0e0011XB83d29FlVV",
+      "encryptUserId": "8a90e090a62ee3680nF52d68FlNU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责项目开发的设计、开发及性能优化\n2、负责项目各阶段技术文档的编写      3、完成上级交代的其他相关工作。\n任职资格：\n1、2年以上Java开发经验\n2、具有扎实的Java编程基础，理解IO，多线程基础框架\n3、熟练运用Spring、Spring boot、Hibemate、mybatis、sedis等框架，\n4、具有微服务应用开发的经验，了解spring cloud微服务的技术体系。\n5、熟练掌握SQL语句，熟练使用数据库（SQL server MySQL）\n6、熟练使用Eclipse、Maven、Git等软件开发工具。\n7、熟悉使用HTML、JavaScript、CSS、Ajax、vue等页面技术。\n8、有性能优化经验者优先考虑。",
+      "encryptAddressId": "790380800c2ffd4b0HF90t-0E1E~",
+      "address": "厦门思明区厦门市星谷卫星应用技术研究院1层",
+      "longitude": 118.184054,
+      "latitude": 24.483961,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08b6004843d2e2b775284c51a03c186c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/10e597939334090a36aa1be78446017a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "JavaScript",
+        "Python",
+        "计算机/软件工程相关经验",
+        "Java开发经验",
+        "分布式系统开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220801/607f1f3d68754fd02c0637fa1c57dd6242b16d3917d311c1b16967777cb8aaafdd7c4a323eb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "星谷研究院",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ef18f6e96e3c14da1XZ42di8FVs~",
+      "brandName": "星谷研究院",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220914/7b5b554d84f9729c2c0637fa1c57dd6242b16d3917d311c1b16967777cb8aaafdd7c4a323eb49cab.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101302,
+      "industryName": "非盈利机构",
+      "introduce": "软件定义卫星通信下的智能控制应用开发系统",
+      "labels": [
+        "团建聚餐",
+        "员工旅游",
+        "全勤奖",
+        "工龄奖",
+        "法定节假日三薪",
+        "企业年金",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1722837114575,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星谷研究院",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

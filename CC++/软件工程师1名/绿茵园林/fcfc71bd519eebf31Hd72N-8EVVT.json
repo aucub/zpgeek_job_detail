@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "TkStuU_eEabjP--1_LkfC8RxJbl0ZDgz2HKbMFnGx1zsMRKa-2l-a7Tce5BCFpbDZaGfwQc-jtAM04w2oB_Un69s0NiftdppBrwlPHpEA6i8jrpS143G",
+    "securityId": "BwtzOzdereL3G-g1kThF5V2guFXh5FuPkQ4bbSr5WDIT0trT1uhdmxbiE2LYI22fYlxqlFSr32_1ChuPxjlKP0ywo8FPAA0XJAwgmsJfVvTkWGX73oW5dY1DUJQ5R7lDrWXLo-J90-BWd5rML9fBU-d-",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,10 +47,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "绿茵园林",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "eaa19d75e72f66731nBy0tm4F1Y~",
@@ -64,7 +66,7 @@
       "industryName": "农/林/牧/渔",
       "introduce": "",
       "labels": [],
-      "activeTime": 1718182934318,
+      "activeTime": 1725432596585,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "绿茵园林",

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YvWjJB0TGEbVX-p1opWPASRGKkfOGZ4VcjlH1z5J8NUu8n6a7dFubpIX0o1rgP7wMbMNZG7hNbHQRxpJWOJi7Y1dwiTu0qBzlWRJYYYZlWc2aBEyxJHmw16CVTjXeahkBY0AWIM6BEc9Uw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5aa7a809b091e2ca1Hx72Ni4EFVW",
+      "encryptUserId": "8f5770ef2eaa93261HB62NS4FlI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责Java、python技术领域的开发工作，从事代码开发、程序设计等工作。\n2、编写相关开发文档，完成模块的编码与测试。\n3、及时与开发组长反馈开发过程中遇到的技术或其他相关问题。\n4、配合测试组进行系统测试和对缺陷的修正。\n5、完成上级交给的其他软件相关工作任务。\n6、完成项目的核心编码，配合项目主管做好项目管理。\n7、参与部分产品的架构预研并做技术分享。\n岗位要求：\n1、本科及以上学历；\n2、有项目实战实际开发经验；\n3、JAVA基础扎实，理解IO、NIO、多线程、集合等基础知识，对JVM原理有一定的了解；\n4、熟练使用Oracle、MySql等主流数据库，能够编写较为复杂的存储过程和SQL语句；\n5、熟练应用Spring、Spring MVC、SpringBoot、SpringCloud、MyBatis(+plus) 等后端开发框架；\n6、会使用Python编程，有数据爬取，数据分析实战经验，\n7、熟练配置和使用Tomcat、WebSphere、WebLogic等至少一种应用服务器；\n8、熟悉Java常用的设计模式，掌握redis缓存技术，使用过rabbitMq、kafka,activemq等消息中间件；\n9、能够独立完成网站应用和功能模块的程序开发、单元测试；\n10、有良好、规范的编程习惯和文档编写习惯，善于学习，具有分析、解决应用问题的能力；\n11、思路清晰，具备良好的沟通能力和理解能力，善于团队协作，有强烈的责任心和敬业精神。\n优先条件：\n1、有React、Vue3等前端开发框架项目实践经验；\n2、了解主流的AI模型，具备自然语言处理的基本知识和技能。熟悉常用的机器学习算法和模型，如线性回归、逻辑回归、神经网络等。会简单的几种模型调优和训练方法：如使用vllm框架对基座模型的训练和调优。\n3、熟悉使用fastAPI和Django等框架。\n4、有对maxKB和fastGPT等框架的使用经验。",
+      "encryptAddressId": "caefeb3a09a55df40XF63tq6FVI~",
+      "address": "贵阳观山湖区中天会展城-A8组团贵阳观山湖区中天会展A8组团2506",
+      "longitude": 106.648541,
+      "latitude": 26.638675,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fd0c7d45106a9e523a70e89acd7a97ca",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/578577848215030e140dac464ee1f1c7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事行政助理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "商信通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ace1e598648856c81XR43d-_FlM~",
+      "brandName": "商信通",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725362588702,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "商信通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

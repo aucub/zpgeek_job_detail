@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ipZL-wWXjcxoT-l1NYrVrt3lHa0eechljAbx-cFuK7lNY8tGsY2ACYnpJA8Ym46yvCvF2zceZXc-zDQUAygSh8TwAmwJtMdFnl0AW5VE3FYONNdj2uWb",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "af3e247eadaa0ca91HZ62ti7GVdU",
+      "encryptUserId": "f074c5cf4092c70d0XZ_3d6-FlJT",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "1、具有1年以上Java开发工作经验； \n2、技术要求符合以下中的一项或多项： \n  a.精通Java开发语言； \n  b.熟练使用HTML，JavaScript，vue，Ajax技术，熟练掌握jQuer； \n  c.熟悉使用常用开发框架； \n  d.熟悉常用设计模式，熟悉IOC； \n  e.熟练掌握Oracle、mysql数据库； \n  f.熟悉Html5，CSS3；\n3、专科及以上学历； \n4、具有较强的团队合作意识。",
+      "encryptAddressId": "23cd05b9ae159c421nd_2Nq4GFNZ",
+      "address": "太原小店区文旅大厦17层",
+      "longitude": 112.554957,
+      "latitude": 37.773372,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a6a03a165328158ea2f572bd000313b5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1bb1380f4e10fd99828a74467a72f9ff",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "MyBatis",
+        "MySQL",
+        "Redis",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "诺维特科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "12f12bdd058144e91HV53dq4E1c~",
+      "brandName": "诺维特科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1722879180340,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "诺维特科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
