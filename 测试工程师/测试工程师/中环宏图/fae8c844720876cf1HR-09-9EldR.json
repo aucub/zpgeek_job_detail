@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "GJOA74EQy8P9F-U1YohaTh7IrvMIDZC1aMeuBN6uqp2at3fb2RRHI4dD7L9R7n71ynovWHRZDuytOM0dzx1YwZbS2OC0xs5e9Nuw4XfqyBYhnck7Jw~~",
+    "securityId": "fhLxiYvE1KFCE-_1hmZ39g0-T-X3OTSrlBvo5m-4uB5m8EvdnY8F5EbSd4Rv74Vke4axiNVp6j-7xfbvfJiBifgwJs5jiz8OO9AJib7H_azB_nDWeQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
         "自动化测试",
+        "性能测试",
+        "功能测试",
+        "LoadRunner",
         "JMeter",
-        "Python",
-        "LoadRunner"
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"

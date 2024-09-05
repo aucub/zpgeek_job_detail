@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qDYvoMVWfjJZd-p1YSnR8Acji2i3KgSJbQkFSzy-HNi3qfOaCPYbRETKpOkwMyAvE6eqxxIfybbWBVTqBvV300ZtzZ2CeMwnjyfyAlddHceHm6hxDnU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "37681ac2c1c30ad21XZ63Nm_GVdX",
+      "encryptUserId": "523cd1b28b52388f0XZ93NW_F1I~",
+      "invalidStatus": false,
+      "jobName": "服务端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101191200,
+      "locationName": "泰州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1 制订移动端接口系统的任务开发计划，确保接口开发进度；\n2 分析移动端项目的需求规划说明，与需求人员协作，确保需求明确；\n3 提交接口平台项目的开发计划及项目的概要设计说明数据库设计，确保项目开发进度正常进行；\n4 提供技术支持给前端技术服务人员，解决技术服务过程中遇到的相关问题，确保产品的正常使用及推广；\n5 分析移动端APP与后台业务系统交互接口要求，参加需求和设计讨论，完成《详细设计说明书》的编写，确保详细设计的正常完成；\n6 根据计划完成功能模块的功能设计、代码实现, 代码编写和单元测试，并提交测试人员进行功能测试，确保产品的正常运行；\n7 协助测试人员，完成移动端APP与后台业务系统交互接口相关功能模块的BUG修复，确保产品的正常运行。\n任职要求：\n1、大专及以上学历。\n2、扎实的计算机专业基本功，有良好的数据结构和算法基础，熟悉 HTTP、TCP/IP 等常见网络协议； \n3、熟悉主流开源框架spring boot，spring mvc, mybatis等，有一定开发经验；至少熟练使用一门编程语言（Java/Python/Go/Node.js/C# 等） ；\n4、熟练掌握MySQL/MongoDB/Redis中的两种的使用及数据库设计方法； \n5、熟悉常用的Linux Shell命令,具备一定的软件部署、优化经验； \n6、具备良好的团队合作精神，有强烈的责任心和积极主动的工作态度，较强的沟通能力和表达能力。",
+      "encryptAddressId": "de16e60ba5ee58dd0nd92di8E1M~",
+      "address": "泰州高港区江苏汇福油脂科技有限公司3层",
+      "longitude": 119.905816,
+      "latitude": 32.234111,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c3b34dbb2dc195e0107cf8ffaaaa152",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adc59ca6a921bd383847495eaa0144cc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Linux",
+        "Spring",
+        "SpringBoot",
+        "SpringMVC",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "聚合伟信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ff00cd58b93ba7991XR82tu8ElY~",
+      "brandName": "聚合伟信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "包吃",
+        "定期体检"
+      ],
+      "activeTime": 1722902028237,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "聚合伟信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

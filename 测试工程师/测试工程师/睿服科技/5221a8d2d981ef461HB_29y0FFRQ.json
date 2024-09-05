@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "YYxdGkMjWh-AB-H13izyjpm3mUTDhBzMtVF8t6SXhBleEnWCRqbFtyFf5gz-fAcFA6iZUg0B4JrFLI1sctaBH7paBTLy1tiZC3VGuYYBEcsLSO_Rrwg~",
+    "securityId": "gdA5OWyq6zDbE-41BNLstGn9VNkvFgKCsGoqoJ_wvIe52ER3aD3ZSyMv1ryToRV8v12-DxofH7hC3vhO7ZfdfUcUE6aRDEhdZSQkoucQpdjCJBkeqenG1ODbZL7FQxENXtXLUv-MFBBDd8-MvJj_Bvc~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,11 +44,13 @@
       "title": "招聘专员",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "睿服科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "4920386cfa32ecf81nNz09-9EA~~",
@@ -68,7 +70,7 @@
         "带薪年假",
         "节日福利"
       ],
-      "activeTime": 1717754337514,
+      "activeTime": 1725507841190,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "睿服科技",

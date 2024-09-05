@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "9XFaOW9W0D1p4-h14KAXIHkS_Z0pt-4iJz9Oldfnq_maS527lwA9L9CcSyvg2-PWtYcZ5vAOvtxEMv2owfx23MEw1wpWUGOzmoUAH_ZGHHVWrdQleAU~",
+    "securityId": "kPnGDBskBizSj-C1ddP9wYVTmpnizcIRTXkW3HcMKSYNSg7XtRGs7Krc6I_43C3twsH4lS0BFOSYx6cljgFDrWdsvTFGfA0850WYdzs4KOGrR6IAFno~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,13 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "自动化测试",
-        "功能测试",
         "Java",
-        "Python",
-        "Selenium",
+        "自动化测试",
         "银行",
-        "证券"
+        "证券",
+        "功能测试",
+        "Selenium",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,7 +50,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221025/607f1f3d68754fd03f8b548dc44de6208bf80d2554674f22183acb34cb3ccd03d297db3f224_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "京北方",
       "bossSource": 0,
       "certificated": true,
@@ -80,7 +80,7 @@
         "团建聚餐",
         "节日福利"
       ],
-      "activeTime": 1725420072362,
+      "activeTime": 1725545194735,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "京北方",

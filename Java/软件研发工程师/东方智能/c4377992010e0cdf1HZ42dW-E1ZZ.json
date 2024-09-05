@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sk0XFteRPbZGT-01X56UEz8IRoCLwcBqsbBioUNwf0ihP7m8i_yCNgfLY7cvd5LghXSsTKGJzxiExCdj_aILhAbnSOv-uf7_KIud4pLGOhjtzNuKMl5c",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c4377992010e0cdf1HZ42dW-E1ZZ",
+      "encryptUserId": "d6a948e441642e8d0XZ_2t-0GVNR",
+      "invalidStatus": false,
+      "jobName": "软件研发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120500,
+      "locationName": "烟台",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·15薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n\n(1）    参与公司项目开发的需求分析、架构设计、评审；\n\n(2）    根据设计文档或需求说明，完成模块详细设计和编码实现，实现系统功能并能独立解决开发中的重难点问题，编写代码注释和开发文档；\n\n(3）    按公司相关技术规范，保障研发产品或项目的功能及性能指标；\n\n(4）    跟进和解决开发部署中各种系统架构问题；\n\n(5）    协助测试工程师制定测试计划，定位测试发现的问题；\n\n(6）    进行技术攻关和前瞻性技术研究；\n\n任职要求： \n\n(1）    本科及以上学历，2年以上开发经验，具有智慧楼宇、收费客服系统开发经验优先；\n\n(2）    具备扎实的编程能力，熟悉java或js等主流编程语言；对前端技术有一定了解，具备全栈开发能力者优先；\n\n(3）    熟悉mysql，pg等主流数据库，熟练编写sql，具备数据库性能调优能力;\n\n(4）    熟悉linux、docker、k8s，能独立完成项目部署和调试;\n\n(5）    对微服务架构有一定理解和应用经验，熟悉常用分布式架构常用组件;\n\n(6）    责任感强、有较强的逻辑思维能力、沟通能力和学习能力;\n\n(7）    对新技术持有敏感性以及愿意致力于新技术的探索和研究;",
+      "encryptAddressId": "192234abdf6a44cd1nd-29i5FlBQ",
+      "address": "烟台芝罘区东方电子机场路",
+      "longitude": 121.371497,
+      "latitude": 37.521119,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bfc81af0539e0924763ca4730dc1c043886bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf4d573695e06646f3a8bf17fe77e7bb816bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不接受居家办公",
+        "Java",
+        "Spring",
+        "SpringCloud",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "东方智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2ba215ddb53b6e21HV409S6F1I~",
+      "brandName": "东方智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 101205,
+      "industryName": "电力/热力/燃气/水利",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725433898766,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
