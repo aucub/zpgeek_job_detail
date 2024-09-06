@@ -4,13 +4,13 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "GWFQyZR1VtsX2-319FwSTGJYqP70reSBhDVK81NIuyvibEXMqrNccrxQCXJD0gpBK3xJja_B5moQtznE9n9T4h4daEx9u9BSFQS0s3Iwyo9AbPoo",
+    "securityId": "FyUw2IIJ_XVkl-n1KwGsHZetCcKiGd3ta2eirHBpeN4uinkgYWaLxNwDhDxZ8yu5H8cK21VNPXwTlg1aImhetAVQkO2YyAcDXHH34jbbnQv7hIrlZcPw74NCX4-8SjH32TZ1p7Yfz0IXHACXaP4h",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
       "encryptId": "0a3fc8fabd2493601HR-3t-6FldQ",
       "encryptUserId": "151bb08212ba3d920n1639m4EFM~",
-      "invalidStatus": false,
+      "invalidStatus": true,
       "jobName": "自动化测试（中兴）",
       "position": 100302,
       "positionName": "自动化测试",
@@ -38,7 +38,7 @@
         "Python"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "职位已关闭"
     },
     "bossInfo": {
       "name": "李女士",
@@ -46,7 +46,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220424/607f1f3d68754fd003a3a44c592f5c59c5830954a6845178dc031d9d353ddfa5c90603fa288_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "绛门科技",
       "bossSource": 0,
       "certificated": true,
@@ -70,7 +70,7 @@
         "带薪年假",
         "节日福利"
       ],
-      "activeTime": 1725531847171,
+      "activeTime": 1725611209000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "绛门科技",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "1JXgDcfGARQD9-P1R00pGgdbIZ6EIFBjK2XdgqrrQiF58i6zfF9dtgqiNeoXmab70Mhxe0MnvCWOhezBE-Sr72fMsULb22cwkXLuNHnPiF7FpSNHct1mj0-ELMVjLn4yJ2f9oUj1fyU8yyv0C3d8PEuj",
+    "securityId": "lwVLlAlcNNR0x-t1NhOp3ok94B6Lb9sx2XYAZ4P3KEOiBSzswVjbX-LSpI0cDu3n4AY-7YzdD0K7DY7z2PxyV6SggGJuTxdYvj3eYx9kVPq0MXSJp4sm",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,14 +33,14 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
+        "MES开发经验",
         "Java",
-        "Spring",
-        "SpringCloud",
-        "MyBatis",
-        "MySQL",
-        "SQL Server",
         "不接受居家办公",
-        "MES开发经验"
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "SQL Server",
+        "Spring"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,8 +50,8 @@
       "title": "综合部人力",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=888c2575511f910djzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5fn3p0sY55vt1pHwC5yrc1N-ilfcJU6O-8W2t_aV4CqXZV_PmgFnUeRbS2X0Nrwd4fGQCxzq1YrFNJAtDg0CItVidJ9k-eI8jtwA~~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "青岛拓天信息技术",
       "bossSource": 0,
       "certificated": true,
@@ -70,10 +70,10 @@
       "industryName": "计算机软件",
       "introduce": "",
       "labels": [
-        "五险一金",
-        "定期体检"
+        "定期体检",
+        "五险一金"
       ],
-      "activeTime": 1724653733164,
+      "activeTime": 1725262021839,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "青岛拓天信息技术",

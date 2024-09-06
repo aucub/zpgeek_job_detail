@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8u0sYCKr6mM2D-o1M63-hB6hVYycf-JYOzPNg-ADch6gxJMmudxQIj45zJ3dwmr7Kc4QktUHmWfumznYfEiZRmirEGPWvtKYsrNPjG9dMfNfFn9M",
+    "securityId": "XA42ZfpLm4tgi-V1Lj3_1GTutWFMlJR2QPvcBg5kMtPAA6ugaQc0MPBAlUpRZ5dVw0xGofbMLvsYo-ZW1t_xsouUKGpNdfVDzZ_a0lq3qUbalgiBqVLT4kSplGLU72j31f2IOwwcm559wcdB5ZLM",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -24,17 +24,23 @@
       "salaryDesc": "4-6K·13薪",
       "payTypeDesc": null,
       "postDescription": "工作地点在济南\n1、全日制大学本科学历及以上（硬性要求），计算机相关专业优先；\n2、有较强的代码阅读能力、学习能力，具备良好的JAVA基本功和编程规范\n3、JAVA基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解\n4、熟悉主流的Java Web开发框架和工具，如Spring MVC、SpringBoot、Redis、MQ等。\n5、熟练运用SprngMVC、SpringCloud、Springboot、SSM等主流框架中的一种，熟练使用IDEA开发工具；\n6、熟悉css、javascript、jQuery、vue等前端开发技术，有前端开发经验优先；\n7、熟练使用SQL语言，了解oracle 数据库；\n8、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力；\n9、有保险项目开发经验者优先。",
-      "encryptAddressId": "cdff7ab4c27bebdc1nV70tq8FVZUx4y8UfKY",
-      "address": "济南历下区齐鲁软件园得安科技309",
-      "longitude": 117.133603,
-      "latitude": 36.672651,
-      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf957e18a95d38e1f1117eb645884376b46bb61e3b7bce0931da574d19d1d82c88.jpg",
-      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf66b5d5e223f804ba972c44ccdef8a7c56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "encryptAddressId": "3eb62fc1e639c7cf1nZ-3Ny5GVRUwom3WfOf",
+      "address": "济南历下区得安科技舜华路得安科技309",
+      "longitude": 117.1363,
+      "latitude": 36.667357,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230424/48ba41acc9cef1bf29beea93d943b0a4578942a8e7d4d7436bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf167ab65b3a0aa67a27039792975f4fe26bb61e3b7bce0931da574d19d1d82c88.jpg",
       "overseasAddressList": [],
       "overseasInfo": null,
-      "showSkills": [],
+      "showSkills": [
+        "Java",
+        "Tomcat",
+        "MyBatis",
+        "Spring",
+        "Oracle"
+      ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "王女士",
@@ -42,7 +48,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "中科软",
       "bossSource": 0,
       "certificated": true,
@@ -72,7 +78,7 @@
         "零食下午茶",
         "团队氛围好"
       ],
-      "activeTime": 1725540103177,
+      "activeTime": 1725616484104,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中科软",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "pYHL5qhpMezXM-y1d1QSMMuQXHybnLJFDH72J7WduPxUOuwnXKIYYM1RFsarkWAJMeHFNlWKWsdLUOBG23Wvw_pucddN7c5ucKzfXuCasVHNYcxpetD1NAZ9F6OhPndm-GfTKd4Svi0iBmyam_i-",
+    "securityId": "1fn9pxrWexrY3-l1A6dpz-IoVi9whTd34S1lB3GXRoBbqHg5AWFOamTxEwrjLs_h2Fh4t274x2eqUKefoLoFgVynGRZWwOgnJSnMc5jM8fPbXE4R",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
         "性能测试",
         "渗透测试",
-        "LoadRunner",
         "Fiddler",
-        "MySQL"
+        "MySQL",
+        "功能测试",
+        "LoadRunner"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -76,7 +76,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1725522381452,
+      "activeTime": 1725611159623,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "深圳科皓",

@@ -4,24 +4,24 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "logt-xlN5bwTn--1mTPB0oK9JnqeCtukMAOIOTTDNNL8FvUWSEEBj2xinfx8YVVyKlH95UrQk3674dSff97I_aUGqGUgOim3tbOWkPO1cIA7uKEj",
+    "securityId": "6qKxXjHgKqH7_-X1823NeFOfG16xVEJv0TfOImpX9vz84InUNRot_054DZ8pVYms1c66oGS0xy73yWWSoahgoGaaxNMStn3dMPge7Ct8GEMqjrsnzhxyDrtuuH2ow-PWLKhJTreiuKkeJ7T_eV6f",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
       "encryptId": "b3f472098e0edb1d1HJ4096_FVFV",
       "encryptUserId": "63b2d9c0e1a465e003Rz2tq8E1I~",
-      "invalidStatus": false,
+      "invalidStatus": true,
       "jobName": "自动化测试",
       "position": 100302,
       "positionName": "自动化测试",
       "location": 101200100,
       "locationName": "武汉",
-      "experienceName": "1-3年",
-      "degreeName": "大专",
+      "experienceName": "3-5年",
+      "degreeName": "本科",
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "7-8K",
+      "salaryDesc": "7-11K",
       "payTypeDesc": null,
       "postDescription": "岗位职责：\n1、负责B端商业产品相关质量保障工作；\n2、对项目中的质量问题进行跟进、追查及定位，并针对通用性问题进行优化改进，提高项目整体效质量和效率；\n4、结合业务场景，对公司内部质量工具平台接入项目落地，完成业务自动化建设和代码覆盖率建设；\n5、了解质量保障技术和流程的应用，并推动应用于实际项目质量改进；\n6、关注产品体验和用户反馈，对产品提出改进建议，提升用户体验。任职要求：\n1、5年及以上软件开发、自动化测试或白盒测试工作经验；\n2、熟悉python/java等至少一种编程语言，熟悉Linux操作系统，熟练使用jmeter，locust等测试工具；\n3、熟练测试理论与方法，对互联网质量保证体系有完整实践经验；\n4、具备较强的学习能力、分析能力和解决问题的能力；\n5、有商业产品、金融保险、售后维修项目等经验者优先。",
       "encryptAddressId": "0c5dc38b7bfffa2c1nVz3965EVpVx4i7Vf6W",
@@ -34,11 +34,11 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Python",
-        "白盒测试"
+        "白盒测试",
+        "Python"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "职位已关闭"
     },
     "bossInfo": {
       "name": "徐女士",
@@ -46,7 +46,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230718/607f1f3d68754fd0c56d02a8e164fa7f05bb3829e632d9ce983c728af04f80cb276c96f0adca890_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "智蓝云信",
       "bossSource": 0,
       "certificated": true,
@@ -79,7 +79,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1725531375457,
+      "activeTime": 1725605611073,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "智蓝云信",

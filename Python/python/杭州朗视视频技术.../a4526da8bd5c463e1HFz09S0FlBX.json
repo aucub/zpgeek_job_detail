@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "VXbGl4ZR6rhzA-W1W90VnJHx9c7PVwNS9QYhcD0wuxK4veR900Aldn1UK7-lHDPJGr1TNI5r2g27Za7WjDpaHG6zeOcAS6GK88gnZmUwnBO8ST2xdw~~",
+    "securityId": "lNhv3vH9ui8xG-r16d399PEZVgMkbkLR13FvQp6C7Mdx39mIfQsbm_dycu6NykjIRRQAPYvoACIh8AVk0q3_kpeeWa5ZA6UC141MrdZQWnESBIA9pQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
-        "Kubernetes",
         "Docker",
-        "PostgreSQL"
+        "PostgreSQL",
+        "Python",
+        "Kubernetes"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,7 +47,7 @@
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=6f83dee190639120jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95YnHx05Np5vYxpS1O0mb01Z-r3KZNd5rrsX24gM1sF8XYO9_3zFXQeHrPkWEM_xdEeTgqxy_pe_1pOX9Lt3X96AnUT93SPaMH5k8h-Q70I2uBe40GOmAJd13E~&radius=15",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "杭州朗视视频技术...",
       "bossSource": 0,
       "certificated": true,
@@ -68,7 +68,7 @@
       "labels": [
         "五险一金"
       ],
-      "activeTime": 1725524027298,
+      "activeTime": 1725603488259,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州朗视视频技术...",

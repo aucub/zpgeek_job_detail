@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tcyZDV-E8VGot-s15AfXmnGytoMt46v7bnuh8g-SA7ve2DN4BsnRupc8Cpnw-uw_M_S9RwCiMxycKZru8299YrGoHIy-dDxTJIhnKZI4PF3yz3JsTw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f3ab12f339f372c1nJ-3tS8FVJR",
+      "encryptUserId": "c62f4c07276d453b0nd509y0GFI~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101260100,
+      "locationName": "贵阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "1）精通Java语言，有扎实的语言功底，熟悉常用设计模式，2年以上企业级JavaEE一线开发工作经验；\n2）熟练使用JQuery、Ajax、CSS/CSS3/HTML/HTML5、VUE等WEB前端技术；\n3）熟悉oracle、mysql等关系型数据库基本操作，熟练掌握SQL编写和SQL调优；\n4）掌握一种NoSQL（Redis、MongoDB、HBase）数据库及主流MQ;\n5）精通JSP、Servlet、XML、Struts2、Hibernate、Mybatis、SpringMVC、Spring等JavaEE体系技术；\n6）熟悉spring boot、dubbo、zookeeper、spring cloud、阿里云等分布式微服务架构；7）熟悉Lucene、Solr、MQ、zookeeper、Shiro等技术；\n8）熟悉常用应用服务器和Web服务器的配置、搭建、调优；\n9）熟悉Linux常用命令、服务环境配置、软件安装、应用发布调试等；\n10）、熟悉软件架构及软件工程思想，有较丰富的项目管理经验，熟悉常用设计模式；11）、有NOSQL/Hadoop/Hbase/Hive/Spark/Storm等大数据相关技术者优先；12）、善于与人沟通，表达能力强，热爱教育事业，有责任心；\n13）、普通话标准，口齿清晰，语言逻辑性强，有讲师相关经验优先；",
+      "encryptAddressId": "314bddb3a9938882331829u-FlQ~",
+      "address": "贵阳观山湖区物联网技术及应用国家地方联合工程研究中心2楼智能控制团队",
+      "longitude": 106.649534,
+      "latitude": 26.616793,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b4dc0b5c2db618d547e75e29f893ec55",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b13ff30bd6e70ad47c4f3ff7c9fa0db3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "分布式技术",
+        "服务器配置",
+        "微服务架构",
+        "网络协议",
+        "搜索引擎技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "聚控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0dd3f2acdecafb9b1HBz09W6FQ~~",
+      "brandName": "聚控",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190811/09204a49804ad92f17f9fd9b5f683071a238c560e2e0cdc1014c0854c834a603.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "贵州聚控科技有限公司是一家从事自动化控制、智能装备和物联网技术的研发、设计与销售的高科技企业。致力于为企业提供完善的自动化解决方案，打造智慧工厂，实现智能生产。公司核心业务是现代农业工程、农业自动化与物联网技术。\n公司主要产品有：农业信息化管理平台、水利信息化管理平台、现代农业物联网云平台；智能制造装备、数据采集系统、远程控制终端、GPRS物联网设备等。\n公司为企业提供全方位的自动化解决方案和一流的产品与服务，包括技术咨询、规划设计、运营管理及技术培训等综合性服务。业务涉及环保，水处理，水利灌溉，工业自动化，农业自动化等多个领域。",
+      "labels": [
+        "免费工装",
+        "工龄奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723049918633,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "聚控",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

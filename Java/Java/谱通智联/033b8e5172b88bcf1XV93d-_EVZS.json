@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "O3ifr7qLzWYTo-_19jkFxWnAuBCuYoFpsDfvq-qnx865HnJr7wFG2COkflcPQvkZmt2666IHuJ6M7fjTiGzjbBxxF9auRUXDB-Uhio3Qfe_kJwuI5Eht",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "033b8e5172b88bcf1XV93d-_EVZS",
+      "encryptUserId": "a86c39e6d718677d0nRz3d65EVRZ",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、根据开发进度和任务分配，完成后台模块的设计、开发及测试任务；\n2、与客户沟通需求，分析开发量等工作；\n3、编写软件接口文档等；\n专业技能：\n1、计算机及相关专业，大专及以上学历，2年以上J2EE开发经验；\n2、精通Java语言，具备扎实的面向对象程序设计能力，具有良好的编码习惯；\n3、熟悉SpringBoot开发, 熟悉使用docker, k8s, devops\n4、熟悉MySQL、Oracle、SQL Server等主流数据库；\n5、熟悉常用非关系型数据库（Redis/MongoDB）和中间件（RabbitMQ）的使用；\n6、熟悉git、Maven等工具的使用；\n7、了解html、css、jQuery等前端开发技术，有前端开发经验优先；\n8、对于网络编程Netty框架有深刻的理解；\n9、有Linux下环境搭建、部署及维护经验者优先；\n10、有modbus，mqtt协议等物联网项目开发经验优先；\n22、学习能力强，能快速学习使用新知识，有较好的团队协作和沟通能力，有强烈的责任心；",
+      "encryptAddressId": "d9d23d6a7ca94b243nFy2tm_ElE~",
+      "address": "重庆九龙坡区西亚广场A座4-3",
+      "longitude": 106.487213,
+      "latitude": 29.534117,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bf63175baf4162bd21704c0027c040764f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230612/48ba41acc9cef1bf423d312a87b70f73118ad59140fc5f4c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "Socket技术",
+        "分布式技术",
+        "网络协议",
+        "多线程",
+        "后端开发",
+        "Linux",
+        "Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "雷先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "谱通智联",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "05dbac8028459a671nB72dW0ElY~",
+      "brandName": "谱通智联",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "员工旅游",
+        "全勤奖",
+        "工龄奖",
+        "加班补助",
+        "企业年金",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1725600983413,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "谱通智联",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

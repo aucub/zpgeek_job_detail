@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QbWifSuRRQi9y-81UYMZ564h_R6mZnVVLIJF-zcmGMoC7r_otsMcMa6vx5Yk6glYAGW2eF2vOm9Xtxi_1kjcraTMelRlr-3tjN9kaLGTrRgfLUCnjgw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2029af187f60e1c91Xd42d69F1NX",
+      "encryptUserId": "9a6e69272840e3301H152tm-F1o~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220800,
+      "locationName": "阜阳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "任职资格:\n1大专及上学历，计算机软件或相关专业;\n2.精通web编程，2年以上使用java语言进行web开发的经验;\n3.熟练掌握:springboot、springcloud理论\n4.熟练掌握试用KAFKA,NoSQL技术(redis,memcached)等\n5.熟悉基于mysq|等数据库的设计和开发;\n6.熟悉linux操作系统和shell编程;\n7.对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力、沟通技能、团队合作能力",
+      "encryptAddressId": "5a084e1e962059f00Xd42N67GVY~",
+      "address": "阜阳颍州区城建·翠玉江南小区11栋",
+      "longitude": 115.800628,
+      "latitude": 32.88236,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b26cf83928fd5b5bfa5b164b68642da7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fbb79b26fe53171eb2b13b16b1d7c14",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "WEB开发",
+        "SpringMVC",
+        "SpringBoot",
+        "JDK"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "段先生",
+      "title": "主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180711/170aac3636cb4e2352fbbb2b3ca93d37fdadd1f61bb69c08b5795fbd7a5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "黑马外勤软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a49326e6ed69b3191XV429m8Els~",
+      "brandName": "黑马外勤软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220909/7b5b554d84f9729c2ce3ea26c8830ea7a10b9b9b989ef43abe05ba662b2a7cdc093052fef83fb269.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "有无线网",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "定期体检"
+      ],
+      "activeTime": 1723049918656,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "黑马外勤软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

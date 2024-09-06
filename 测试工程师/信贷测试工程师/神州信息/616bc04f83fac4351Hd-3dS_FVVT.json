@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "DxvINKkfI3zfN-g1LrRYKZz07N433mjuwaCOmDtm5BlgEeHYeMnmUNWoZQn4M59uzQU9XpHot7YSDr8opjFsoz7c9m8H4PWGYENyiNOxSvEu74imMX_fzwXInhCTHQOerkT6hn9WZR1xwAGS-eQ4LbQ~",
+    "securityId": "L9ZAdc81WuE3z-b19ALtMdhUvv0ihX_4eDBEpar8REIyZordeki9Yf48c7jtrlM7eTBBVGhwHpj9HUTNc3NyDlM3HcEccSXa7eMhZr0lfYYv_KnyccrXAd2pL29HiofPrr5LjSBoC4EUY8v0oiJZCds~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
         "测试工作经验",
-        "掌握软件测试理论和流程",
-        "不限"
+        "功能测试",
+        "不限",
+        "掌握软件测试理论和流程"
       ],
       "anonymous": 0,
       "jobStatusDesc": "最新"
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240824/607f1f3d68754fd0adb9132968f4b5f2c0d6c4602bb419f6c99a647c30a13c7a165e6953f0b80d8_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "神州信息",
       "bossSource": 0,
       "certificated": true,
@@ -76,7 +76,7 @@
         "五险一金",
         "朝九晚六"
       ],
-      "activeTime": 1725513798248,
+      "activeTime": 1725603963438,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "神州信息",
