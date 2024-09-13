@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Tc1vG06z_B_JR-k1AGTV3iwTva34bBDdDtHBfWLMu-s7XqpLeDcXrLLpe_fvRtaxtJwJr3lHHvTiyKs66puNZo2nHTnXRlx6IxdeZMkfv78_aPpT9w~~",
+    "securityId": "8SBvo2BTLM6CO-J11EVLq-PDUQXR8ZrIGFpw9gGSvTrcMOCxEGbIESQgSfz--XZJrpdA58nYaX2GO7VPBFIvsFxDbVODtFcx94f3bmj1cv3a5Jyk_Vzm4sFTHwDLpNdEG-Q1XDVC_h_nxbKJ8rsafw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -34,10 +34,10 @@
       "overseasInfo": null,
       "showSkills": [
         "PLC编程",
-        "SolidWorks",
-        "自动化开发经验",
         "机械设计制造相关专业",
-        "电子电气/自动化相关专业"
+        "电子电气/自动化相关专业",
+        "自动化开发经验",
+        "SolidWorks"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,11 +47,13 @@
       "title": "主管",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230824/607f1f3d68754fd082594daecb027bd783b7edb47ce0590462ddfc767924ee2125e87a79d6e0c8f_b.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "HKGY-AUTO",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "5b2630754dc953780nJ82N-5GQ~~",
@@ -78,7 +80,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1718443920152,
+      "activeTime": 1726217266904,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "HKGY-AUTO",

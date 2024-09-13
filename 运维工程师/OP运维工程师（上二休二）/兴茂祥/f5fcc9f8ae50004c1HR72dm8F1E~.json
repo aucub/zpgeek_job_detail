@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "lhqpYrGdcr0x5-C1LDA2OT7qOXnlkk-GVofdt-Jdv9deuYlYQcX9fL77fiIRcvLhml0jb8Zgt6rpq2oKHzkdJDo5xNb1KLJ00liX0gtxsjNiogXd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5fcc9f8ae50004c1HR72dm8F1E~",
+      "encryptUserId": "a1c9707064b3ce5903x539S-FFs~",
+      "invalidStatus": false,
+      "jobName": "OP运维工程师（上二休二）",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\r\n\r\n1、负责运营中心各类系统运营情况的7*24小时监控；\r\n\r\n2、负责及时发现并处理运营中心的各类系统故障，并及时通报(有专业监控工具)；\r\n\r\n3、负责执行生产中心各类系统的作业任务,(参考日常工作手册)；\r\n\r\n4、负责监控各业务项目中微服务的运行状态：基于SpringCloud架构开发的微服务应用；\r\n\r\n5、负责监控容器平台运行状态：Openshift/K8S，运行容器化的微服务应用；\r\n\r\n6、负责监控各应用所对应的互联网线路和专线使用情况；\r\n\r\n7、负责监控中间件运行状态：包括但不限于MYSQL、REDIS、KAFKA、MONGODB；\r\n\r\n8、理解基于metrics和日志信息对业务、平台及中间件等进行实时告警推送，推送方式包；\r\n\r\n9、按工作职责要求完成其它指定的工作任务；\r\n\r\n \r\n\r\n任职条件：\r\n\r\n1、大学专科及以上学历，计算机专业或相关专业；\r\n\r\n2、熟练使用Office办公软件，熟练使用电子表格及电子邮件;\r\n\r\n3、熟悉IT监控工具,使用过 zabbix, Nagios等监控工具优先;\r\n\r\n4、能承担日常运营压力，完成工作职责中所列大部份工作内容;\r\n\r\n5、良好的文档能力,能撰写各类日常汇报文档及知识库文档;\r\n\r\n6、严格执行各项流程和制度;\r\n\r\n7、能接受（7*24）排班制度(做2休2排班,每班12小时)，法定节假日及周末可能需要安排值班;",
+      "encryptAddressId": "7a6110c3cc452b9f1nR63Nm0FVo~",
+      "address": "上海嘉定区上汽大众汽车有限公司(销售服务中心)嘉定区昌吉路28号",
+      "longitude": 121.1807,
+      "latitude": 31.29463,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bfbd3f5cfc535fd91d7932b3092d6c89",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a58f6b9a41546aedc63c174e1ed0df29",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "兴茂祥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba16e5376dd262bf1X1y2Nu7EA~~",
+      "brandName": "兴茂祥",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723612727468,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "兴茂祥",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

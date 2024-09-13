@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U0cEszqBurLlW-s1uaM7_jiePL8OCxmiiCdRuvJEHg3qmXiuJrd88rM69IKAzF8OGDuH6l5l-sOcV4sE5hCZtPLgk7qt_bJB98aFMP0S4uSfMj6GMFA1WDdyneTGmk8vt5ZPdAEjfHEJfn2dMZc63E4NNtJLZ0GVsowU6-X25DkY-NCcGg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c30b69fb2a4904b71Hx_09y5F1pV",
+      "encryptUserId": "de9aceb275ec4f0203B_0ti0ElE~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、游戏服务端日常功能开发和测试；\n2、新需求的功能需求分析、设计并完成软件实现\n3、迭代优化现有服务\n\n任职要求：\n1、熟悉Java OOP且拥有扎实的java基础；\n2、熟悉Thread、IO、Socket并了解其原理；\n3、SpringMvc、SpringBoot、springcloud、Spring、MyBatis、Hibernate等优秀的开源框架，熟悉MySQL或Oracle数据库；\n4、熟悉Linux服务器，拥有部署、维护、调优能力（了解nginx docker Kubernetes的使用）；\n5、熟悉dubbo、Redis、Mongodb、ActiveMQ等中间件，熟悉JDBC；\n6、熟悉HTTP、TCP/IP等传输协议、WebSocket、通讯原理,具有netty/mina开发经验\n7、熟悉简单的JVM调优和良好的代码处理规范；\n8、熟悉SVN、GIT、MAVEN等协同工具；\n9、熟悉接口化api开发，接触过微信小程序/游戏开发\n上班时间：9-18点 不加班  双休  购买五险一金  年底双薪\n薪资待遇：4-6K",
+      "encryptAddressId": "a6fa3ccca90e73ab1HJ509o~",
+      "address": "广州天河区国家软件产业基地天河华景园区A栋7楼4-6房",
+      "longitude": 113.356725,
+      "latitude": 23.135109,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c75c809b696dca895e30b3e92f0caa90",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9beebb52312efe4b5a02ff035e7cf810",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220609/607f1f3d68754fd00017e626a19b40cc6184c7d2376735bb794ac51f593183cd4ddc15dc0a6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "广州家园科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ba3c20e9341063711nJ609S4FFs~",
+      "brandName": "广州家园科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210429/8511bdeb37aa1fa9987c448fe4f6d94a794ac51f593183cd4ddc15dc0a623e12_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "广州家园科技有限公司成立于2019年，位于广州市天河软件园。公司以计算机应用软硬件开发与外包服务、系统集成、互联网增值服务为主要业务，整合高素质的人才和先进的产品，以求实、稳健、创新的理念，一直致力于在线游戏的开发及运营。",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1726198542577,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州家园科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

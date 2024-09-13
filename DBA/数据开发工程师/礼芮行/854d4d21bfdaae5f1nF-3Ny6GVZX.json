@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "d1-g2SBvSKeS3-f1nTQb7YLBinL2HXh25KieD1mW2kQaXuTKL3ZoOQjCcPpFApzADU85FrlSsAxlE1IqjfIdsc669d82hRbBV-nN6QQJitjkO_ozwQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "854d4d21bfdaae5f1nF-3Ny6GVZX",
+      "encryptUserId": "ad7f601525f992740nd73ti6GFZS",
+      "invalidStatus": false,
+      "jobName": "数据开发工程师",
+      "position": 100409,
+      "positionName": "DBA",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容： \n1.负责数据库的日常运维工作，包括数据库的备份恢复、性能调优、日志分析、数据迁移、分库分\n表、解决突发和疑难问题；\n2.负责定期数据库巡检、数据库日志检查、sql审计等；\n3.负责数据库运维标准化，规范化以及文档的编写及管理；\n4.负责制定研发的数据库访问代码规范，并审核相关代码；\n5.协助业务系统数据库的规划与设计工作，对应用架构和数据库系统提出合理建议；\n6.参与自动化运维相关工具的设计与开发。\n7.编写业务sql检查系统业务是否运行正常。\n8.负责一些测试,用sql验证测试结果。\n任职资格： \n1.熟练掌握MySQL数据库体系架构及运行机制，具备一年以上Linux环境的MySQL管理、维护\n经验；\n2.熟悉MySQL架构规划、分布式设计部署、Sharding、分库分表、高可用性、主从复制、Cluster\n等技术；\n3.对高并发、复杂SQL以及数据库集群系统深入理解并具有丰富的管理和优化经验，具有很强的故\n障定位和问题解决能力；\n4.熟悉MySQL常见存储引擎，尤其InnoDB体系架构以及优化方案；\n5.熟悉redis，mongodb等至少一种非关系数据库，并有实际运维经验；\n6.熟悉SQL语法，具备数据库开发经验者优先；\n7.善于沟通与分享，具备良好的团队合作精神，能够承受较大的工作压力，具备较强的学习能力和\n独立解决问题的能力\n\n工作地址：上海市静安区灵石路718号大宁中心3期A3栋402",
+      "encryptAddressId": "f0061a08c75881f703F43dm7GVA~",
+      "address": "上海静安区大宁中心广场3期3期A3栋402室",
+      "longitude": 121.439465,
+      "latitude": 31.280493,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1c575bc51021837dd9c8b6ae136db613",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ac4e62903bd551826ea09d2eef8aee3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "NoSQL",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "礼芮行",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "52f62f1e60bd265b1XB60tm8",
+      "brandName": "礼芮行",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723610781541,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "礼芮行",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

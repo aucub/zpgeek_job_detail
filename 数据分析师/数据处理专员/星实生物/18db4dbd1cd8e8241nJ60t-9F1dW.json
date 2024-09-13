@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LhpF5UL2oY6aE-p1ouctvGgvws6Zx4JyuzqKKViLjvqucxHbnjt5Zt_YaphtXRV4jTjICQqIdcqz3YCHVUW8ioQxdQV5NOp7vmBRplwRIoJn8wCudnoZ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "18db4dbd1cd8e8241nJ60t-9F1dW",
+      "encryptUserId": "e6ae69634a7c0e7f0nZ73NW_ElpV",
+      "invalidStatus": false,
+      "jobName": "数据处理专员",
+      "position": 100511,
+      "positionName": "数据分析师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1. 学历：本科及以上\n2. 生物学、生物技术、生命科学、医学、检验等相关专业；\n3. 工作积极主动，勤奋好学，有较强的责任心；\n4. 具备高通量实验室经验者优先\n \n五险一金 股权激励 餐补 带薪年假 弹性工作\n \n数据处理专员：2名\n薪资1万-2万\n职位描述：\n1. 肿瘤二代测序数据分析的流程搭建、运行和维护；\n2. 基因突变数据库使用与数据挖掘；\n3. 负责检测报告的正常出具。\n \n任职要求：\n1. 生物学、生物信息学、计算机专业，学历本科及以上\n2. 能独立分析NGS数据，具备肿瘤学或遗传学项目分析经验者优先；\n3. 熟悉Linux，熟练掌握perl、Python等至少一门编程语言；\n4. 对NGS实验数据分析有一定了解，熟悉常用的生物信息学分析软件（如bwa，varscan等）；\n5. 具备一定的生物学医学知识，对常见的肿瘤数据库有一定了解；\n6. 工作认真负责。",
+      "encryptAddressId": "da6556d81d3f41681nZ82929EQ~~",
+      "address": "上海嘉定区上海南翔精准医学产业园3号楼2楼",
+      "longitude": 121.301758,
+      "latitude": 31.292425,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ba5792818bcc869cc9ca6b94dec94449",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9375555596a88a74d1ae6db1e00aa4fa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "R",
+        "Linux",
+        "生物",
+        "生物化学"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "潘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210912/607f1f3d68754fd0bd3094aa6aa985eaf45367695482802a4c226fe7fc0b46429b681f2ffac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "星实生物",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7cd444925a7146c61nF409W8GFQ~",
+      "brandName": "星实生物",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100402,
+      "industryName": "医疗服务",
+      "introduce": "星实（上海）生物医药科技有限公司，是一家从事生物医药科技领域内技术产品开发，技术支持、服务，和技术转让的公司。1. 临床精准医疗服务，公司依托PCR平台，NGS平台，为临床医学提供精准的分子检测方法技术服务和数据处理，数据解答服务，为临床精准诊断，个性化治疗提供全面支持；2. 试剂产品开发服务，自主研发各种分子平台试剂，酶生产等；3. 生物医药邻域各种软件，人工智能开发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1723612657327,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星实生物",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

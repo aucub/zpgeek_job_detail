@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xkBJLYe7nVD47-A1G-WRxG54APcFiPnPELMysDmVOsY33OVXQaP4crqkYDb2eObLHEaYXKmOQfrdxcw6RaD7ZAX-qeneWoWhkmRUlGUQALf3q7c8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "de820cdb5e4353871XR62t61EVtW",
+      "encryptUserId": "1c04bbae2fe446541XJz0ty6EVE~",
+      "invalidStatus": false,
+      "jobName": "数据采集工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责爬虫引擎核心功能开发及优化、架构设计、系统规划，以及爬虫技术的技术调研；\n2.负责大数据的数据采集与爬取、解析处理、入库及备份等数据日常工作；\n3.负责数据的清洗、整理、整合及合并等工作；\n4.破解反爬机制，优化爬虫路由调度策略，同时负责反爬策略的设计及优化；\n5.负责高性能爬虫系统的后台监控、报警模块的开发。\n职位要求：\n1.熟练使用C/C++、python进行工作；\n2.熟悉爬虫的设计及实现流程，至少2年互联网数据抓取及爬虫经验；\n3.熟悉缓存数据库redis,关系型数据库mysql、Oracle等，非关系型数据库MangDB,具备sql调优经验；\n4.了解各种Web前端技术，包括XHTML/XML/CSS/JavaScript/AJAX等；\n5.了解文本分类、统计分析、自然语言处理、机器学习算法等技术；\n6.熟悉反爬虫机制并有对应的破解方案；\n7.处理爬取过超过百万数量级的数据量；\n8.有大数据相关开发经验者优先，熟悉分布式计算，有多线程、分布式、网络数据抓取及处理经验优先；",
+      "encryptAddressId": "25cacbaf69bfde960nd93tq1Eg~~",
+      "address": "杭州滨江区华盛达广场915室",
+      "longitude": 120.182555,
+      "latitude": 30.188982,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/681c3bae30a5a1103c53507a8d5436a3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c008a140029447b3502d8a3e607d7c1b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "网络爬虫技术",
+        "多线程",
+        "MySQL",
+        "Redis",
+        "NoSQL",
+        "Oracle",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180223/b85a4eadfceba68e0684ff9afe0f7ff4cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "亚古",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0d137805226871b71HZz39-9",
+      "brandName": "亚古",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240102/7bf6f160950405e9b27eeedcd008ceccd9c5ce0035ba1b956cc46d765121f310483251e74572c918.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100010,
+      "industryName": "分类信息",
+      "introduce": "亚古科技位于杭州余杭区高新技术开发区，国家高新企业，杭州市雏鹰企业，瞪羚企业，公司主营业务是互联网大数据采集、AI智能处理、信息分类、智能推荐。欢迎具有创业精神和挑战精神的有识之士参加我们的团队，一起发展，一起成长。",
+      "labels": [
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1723616418879,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "亚古",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

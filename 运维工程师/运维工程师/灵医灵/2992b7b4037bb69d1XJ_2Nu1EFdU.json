@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "BN-wPAp3ulYiF-w11G8iJJ0aih5kerW32VS-pb1WiOke7U2pgiCyqi2Bcd3fmWXsgK6XSPFYbNx4rMVpC24jPoPznK9klLMxVjKJ-BpUtztTDrtnPHRj57ZNTNUyRFGgg4tYAEuwJOkpmg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2992b7b4037bb69d1XJ_2Nu1EFdU",
+      "encryptUserId": "20b2938a9d6b777c0nd-2Nm9EVBY",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责Zabbix部署和优化、监控业务数据与服务状态，研发监控方案；\n2、负责堡垒机部署、运行、维护，合理规划资源与分配权限；\n3、解决日常问题，在出现网络攻击或突发性安全事件时进行紧急响应、恢复系统及调查取证；\n4、负责配合项目实施和业务升级，保障公司业务整体运行正常；\n5、负责应急响应、监控、系统维护、研发运维方案等工作。\n任职要求：\n1、计算机相关专业专科及以上学历，三年以上较大规模集群的运维和开发经验；\n2、熟悉Linux操作系统的基础知识，熟练使用Linux常用操作命令，具备linux系统调优能力；\n3、熟悉windows server系统，熟练使用Powershell;\n4、熟悉SQL Server、MySQL、Oracle数据库，了解各个数据库语法;\n5、掌握TCP/IP和HTTP协议，精通wireshark,tcpdumap抓包分析工具；\n6、熟悉Zabbix等监控软件部署、配置与维护，熟悉saltstack或ansible等工具\n7、有过云服务器运维或项目工作经验，包含云第二代防火墙、Jumpserver、Nginx等服务和中间件的使用经验。",
+      "encryptAddressId": "a8887bda08e4cb060nVz09S-FlQ~",
+      "address": "潍坊奎文区金融街B座252501",
+      "longitude": 119.122296,
+      "latitude": 36.707541,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2dc0994151f3a9fdf254468df1348e45",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b426f8f2616ff8e736966f7565be2d99",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "MySQL/Oracle",
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "灵医灵",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0dd8e9573f5cdccd1nV829q-Fg~~",
+      "brandName": "灵医灵",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200110/9060f63fc4c39d260a007e4d188d57176c97686c2f1121e9e1e153c835720680_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "北京灵医灵科技有限公司成立于2017年，是一家致力于医学影像云平台系统、医学影像三维后处理系统的研发和市场应用的企业，总部位于北京。\n        公司联合清华大学共同建立了软件研发体系，集聚了一批数学、工程学、医学、IT 等相关领域专家，采用当前世界最新的软件算法和最先进的技术手段，经多年的努力和研究创新研发了完全自主知识产权的新一代面向对象的计算机医学图像处理软件，该技术软件目前处于世界同行业领先地位。\n        公司目前拥有30项软件著作权、7项国家发明专利和一项实用新型专利，是国家高新技术企业、中关村高新技术企业，并被列入中关村国家自主创新示范区优质企业名单。",
+      "labels": [
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1726040545014,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "灵医灵",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

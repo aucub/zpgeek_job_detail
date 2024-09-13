@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QGZgFJXYM97qT-21eqKz4PWpryjMWZEc6EsF0YyLpxbBelFM0lNdZGWIwbc6HpmZ5tyoOZIytgAs-1DMS3FHoCR_juh9KYiVFsd4sHTJDNAEvM2t9tzQWOp6qFdV4mzakgCz3m5SOTTIWA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "859f3938da7a2fb91Hx529S9F1JR",
+      "encryptUserId": "9a00d73b69ca06d41nZ439S8E1FU",
+      "invalidStatus": false,
+      "jobName": "软件运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "工作地点厦门。\n我们需要专业的运维而非开发人员哦～\n\n1、熟悉 linux 操作系统，熟练安装部署jenkins、nginx、 mysql、redis、git等服务\n2、熟悉 docker容器的安装使用、进入、退出及镜像的拉取复制等优先\n3、熟悉K8S的master\\node 节点部署、查看及k8s api-s erver、etcd、kubectl 等服务配置优先\n4、熟悉阿里云ECS、OSS、RDS等产品服务配置和管理\n5、熟悉防火墙，了解入侵检测、SQL 审计、风险评估、安全扫描等",
+      "encryptAddressId": "76daf85af7cdc6993n142Ny0E1ZUyoW8Wfo~",
+      "address": "厦门湖里区厦门跨境电商产业园2号楼610单元",
+      "longitude": 118.100347,
+      "latitude": 24.519491,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf55fd18a7e41ffc4c65d5c13ec009dffc6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bfd8b880e001d0f987bcacd0d986a961db6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络运维",
+        "Nginx",
+        "大数据运维经验",
+        "Redis",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事行政主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201114/2cb6a1606ec3362959e70f114fad492140f322ccd29516190d9b606cb0d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "辉网信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a2b938f248ceaf9c1XN42dq0FQ~~",
+      "brandName": "辉网信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190306/77f19fbd4c4614004c217b75339d3d4e87c5e33045d86d8746ddf5f2b3e25000.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "厦门辉网信息技术有限公司是厦门市市级高新技术企业，注册资本500万的中型软件信息技术服务企业。业务范围覆盖跨境结汇、跨境电子商务、计算机软件科技、移动互联行业应用众多领域。\n       致力于为集团公司、中小企业、个人提供跨境金融技术服务、跨境电商解决方案个性化实用性的高端定制服务。 多年来，公司凭借雄厚的技术实力、完美的行业解决方案、良好的信誉、严格的质量把控、优质的售后服务，赢得了社会广大合作商的一致认可。不仅在技术上处于行业前端，在售后服务上更是信誉满满，获得无数企业客户的一致好评。",
+      "labels": [
+        "全勤奖",
+        "带薪年假",
+        "零食下午茶",
+        "餐补",
+        "员工旅游",
+        "加班补助",
+        "年终奖"
+      ],
+      "activeTime": 1726197041202,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "辉网信息",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
