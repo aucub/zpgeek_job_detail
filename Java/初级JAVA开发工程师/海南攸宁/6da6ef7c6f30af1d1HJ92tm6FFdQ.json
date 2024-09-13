@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "duYxzlcuowdHx-B188w6jCqUqmno0Z25CrN4R6X6UCPXzItU8itDZa9eAlMiABN_Pi1y_lH0hNG9_quHzNeifVNscuXLWMdC0BhrglACI4H5WhY2ZWOL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6da6ef7c6f30af1d1HJ92tm6FFdQ",
+      "encryptUserId": "627663c4232f090b0XFz3NS_E1JZ",
+      "invalidStatus": false,
+      "jobName": "初级JAVA开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.参与项目需求调研与需求分析、解决方案。\n2.编制项目模块概要设计、详细设计、开发计划等。\n3.根据项目具体要求、承担开发任务，按计划完成任务目标。\n4.完成项目模块编码实现、单元测试，并对模块质量负责。\n5.能够指导开发人员工作，解决技术难点。\n任职要求：\n1.1-3年以上java开发经验，具备扎实的java编程基础和原理，熟练掌握面向对象的理念，熟悉常用设计模式。\n2.熟练掌握Spring、SpringMVC、SpringBoot、SpringCloud、MyBatis等框架，了解其原理和实现机制。\n3.熟练使用Nginx、Linux常用命令、Docker，掌握HTTP、HTTPS、TCP等网络协议。\n4.掌握MySQL数据库的设计、使用和优化，熟悉存储引擎、存储过程、事务。\n了解Javascript、CSS、Vue、Ajax等Web技术。\n5.熟练使用Maven、Git 等工具。\n6.熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制。\n7.有良好规范的文档编制能力和编码习惯。",
+      "encryptAddressId": "14bf1fe7efc4e4403nJ_29m8EVFWy4-7V_M~",
+      "address": "苏州苏州工业园区国创大厦201",
+      "longitude": 120.738595,
+      "latitude": 31.264532,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bf109416f6e046b780e4ab12e92eacafea6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230521/48ba41acc9cef1bfc1400ecf45f9334f1b2c9fb3aa8cfb7c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240618/607f1f3d68754fd07101717662c1760928553ed7a851877081e24bd13f018c21cd70a7f1ed1fdf6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "海南攸宁",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a9489441ce0df8e71HF_09--F1M~",
+      "brandName": "海南攸宁",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100003,
+      "industryName": "社交网络与媒体",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724662811000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海南攸宁",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

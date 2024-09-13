@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OTa2cNjq81tDS-k1B5IyzeEd6da-mx3A0yZOy6Tcx12ARoDe1WzqCB7LCxvFn3zbPWJ_xniVFWyuj2-oABMs6n5S3g25Xxu8PrkO1weItMKJ9GZ8av4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "edcc5c7fa91284571Hd52tW_FltZ",
+      "encryptUserId": "119d3c0a2fce10da0nV42N25GFRU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n（1）计算机类相关专业，本科及以上学历，3-5年及以上软件开发工作经验；\n（2）JAVA基础扎实，良好的面向对象编程思想；熟练使用Tomcat、Nginx等应用服务器；\n（3）熟练使用Spring, SpringMVC, Mybatis等流行的开发框架，理解框架的设计原则和内部机制；\n（4）熟悉微服务框架，熟练掌握SringBoot、SpringCloud、Dubbo、Zookeeper、MQ；\n（5）熟悉MySQL，Oracle、TiDB等常见的数据库，理解数据库优化方法，熟悉常见缓存技术如Redis，Memcached应用；\n（6）有良好的软件工程知识和编码规范意识，熟练应用web软件分层设计；\n（7）熟悉 Linux/UNIX 操作系统的基本操作，掌握常用基本命令和系统调用；\n（8）工作态度严谨认真，能够承受工作压力，有团队协作精神，具备良好的沟通、协调能力；\n（9）有Docker、K8s使用经验优先考虑。",
+      "encryptAddressId": "31bd7a76dc98539903B72tu5ElZXxom4U_I~",
+      "address": "北京海淀区北京林业大学学研中心C栋",
+      "longitude": 116.348197,
+      "latitude": 40.00165,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bf035992d8fb78af327068df7b877f820e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230607/48ba41acc9cef1bfed92d4359f58631ab5a7ea3a23db36c36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "Docker",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "罗女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "北京杰迅鸿翔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8f37f33a14d76881HRz3dW5EQ~~",
+      "brandName": "北京杰迅鸿翔",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230104/7bf6f160950405e95c66d35cb74832ce5124975260bbd34d59d18e7dfe44b94f74fbed59d1437f4e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "北京杰迅鸿翔信息技术有限公司，成立于2004年，注册资金2000万，主营网络产品、系统集成、音视频集成及弱电集成，是多家IT厂商的合作伙伴。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1725615634463,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京杰迅鸿翔",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

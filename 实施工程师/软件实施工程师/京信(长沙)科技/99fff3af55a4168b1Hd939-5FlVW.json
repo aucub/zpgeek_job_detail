@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "h6ArOD-6I9846-c1tYQRUKCD5kKcL_aTdDxPxMhtUw1lSwFMkJaJ8yntjl4NlXFWoJypG1NvWrQkZIE1YrRHwrFuHlbmo0EqeWnr3p3Kr4ji65dQLUp3js6KFLXPFZ_Uz1oei4eJgcDlwNWdNlYm2_-h",
+    "securityId": "KVVTN6CsdD7QQ-U1bb04iRab23QmSv4YHInNbCWtq6n4FvCSUjinFK0Jxz8wGWn-t5oP1BfNZlHcsDUW28rC_eQADKD3ND40VHIfUcH6Ov2UpQkiLcwv",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "计算机相关专业",
-        "熟练掌握SQL语句",
         "ERP",
-        "Oracle EBS/Fusion"
+        "熟练掌握SQL语句",
+        "Oracle EBS/Fusion",
+        "计算机相关专业"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -46,8 +46,8 @@
       "title": "招聘HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220424/607f1f3d68754fd0f832225aaf00af548186939c1eaf41512224bdff1408570ac80cacc3982_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "京信(长沙)科技",
       "bossSource": 0,
       "certificated": true,
@@ -71,7 +71,7 @@
         "绩效奖金",
         "五险一金"
       ],
-      "activeTime": 1724657396063,
+      "activeTime": 1725617976903,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "京信(长沙)科技",

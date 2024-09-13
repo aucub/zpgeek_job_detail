@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yGxk-aiNazXA6-t1psXAa9IUDRewA_d31AElrsrkZy_EXgLpEJ6todaXMXP0PfHuuTds4hCfMcJZNd9P_YmDP29zUX71bJqVkqH23mwcjWyHV-MKTeU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "436a74bbca25dd531Xx73tm_GVFY",
+      "encryptUserId": "51cb96859c982cfa03J439S7ElA~",
+      "invalidStatus": false,
+      "jobName": "java中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\r\n1、计算机相关专业，专科及以上学历（学信网可查）；\r\n2、三年及以上软件大型项目开发经验，能独立完成分配的模块任务；\r\n3、熟悉搜索引擎ES，消息中间件mq、分布式任务调度及常用设计模式；\r\n4、扎实的Java基础，熟悉springCloud、mybatis、mybatis-plus、redis、elasticsearch、MQ等技术、熟练掌握多线程编程；\r\n5、对mysql有一定的调优能力，可根据不同的业务场景独立设计相关数据结构；\r\n6、熟练Linux操作系统基本操作命令，熟练使用Maven项目管理构建、Git版本控制；\r\n7、有团队精神和敬业精神，具备良好沟通能力、自学能力和独立的解决问题能力，能承受一定的工作压力、具有良好而规范的编程习惯和技术文挡编写习惯；\r\n8、有golang项目开发经验者加分\r\n9、熟悉若依 或 芋道开源项目者加分。",
+      "encryptAddressId": "1479c5964311ec9d0XZ93N-8E1BUwYi5WPo~",
+      "address": "北京密云区北京市密云区碧澄环路5号院11号楼",
+      "longitude": 116.838863,
+      "latitude": 40.351287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240315/48ba41acc9cef1bfc52ac8798d9210db08f6bb2b47e560da6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240315/48ba41acc9cef1bf07e966ed7209d3721bd5fb26e205b97a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MyBatis",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230505/607f1f3d68754fd01abb1f1e665db01fca22fb8c53851d1ee7e05567a25d9286b34f8165807_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "橙柿科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abd9edd7bb3a0a321XB83Ni1F1c~",
+      "brandName": "橙柿科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "宿舍有空调",
+        "包住",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "节假日加班费"
+      ],
+      "activeTime": 1725628143008,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "橙柿科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

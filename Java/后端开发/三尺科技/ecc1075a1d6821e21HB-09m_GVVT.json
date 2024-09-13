@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "K4ERbiBEjbi4x-e15YDFZmr6COsKskqpAZgjm_VIhaGJw2sxoyXR4PAoMYvvMlNne_9vyeAfi6VcvAHboelLBGS9V6FoR98KF3ATVjOONK-euGoYPN0~",
+    "securityId": "fXM0X8b9e6XYX-p1ovQ6ADGhNx1iooDmFLAgXmivzglLntJ7Q2S4en49Y34sRbsu6wQJXtpH5zPyamut3pP5RtLZeOyIQtfsYhXbLhLg9CBdk1QjnJU~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "5-8K",
       "payTypeDesc": null,
-      "postDescription": "岗位描述:\n1.主要负责公司产品后端开发、业务接口等的开发和优化；\n2.根据业务需求，与产品、设计及前端开发人员的协作，完成产品相关的功能设计，接口设计，业务逻辑设计；\n3.负责公司相关小程序开发\n4.根据项目任务计划按时完成功能开发和测试。\n任职要求：\n1. 熟练掌握MySQL，能独立负责公司网站程序编写；\n2. 开发语言主要为java或c#；\n3.  熟悉软件开发流程，掌握软件工程的理论方法；\n4. 逻辑思维能力强，有一定的问题分析和处理能力；\n5. 会一点前端；",
+      "postDescription": "岗位描述:\n1.主要负责公司产品后端开发、业务接口等的开发和优化；\n2.根据业务需求与团队人员协作，使用低代码平台完成公司产品相关的功能设计开发；\n3.负责项目后端产品功能开发；\n4.根据项目任务计划与前端人员协作按时完成功能开发和测试。\n任职要求：\n1. 3年以上项目开发经验，能独立完成相应的后端开发工作；\n2. 熟悉软件开发流程，掌握软件工程的理论方法，有低代码开发经验的优先；\n3. 熟练掌握MySQL，能独立负责公司项目程序编写；\n4. 精通两门以上开发技术，包括且不限于node.Js，java或c#；\n5. 对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；",
       "encryptAddressId": "44f2a155dd4fda8e33Z72t24GFo~",
       "address": "汕头龙湖区潮讯青创中心三尺科技5楼507",
       "longitude": 116.751186,
@@ -33,12 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
         "C#",
-        "Spring",
+        "Java",
+        "不接受居家办公",
         "MySQL",
         "SQL Server",
-        "不接受居家办公",
+        "低代码开发",
+        "Spring",
         "ERP开发经验"
       ],
       "anonymous": 0,
@@ -53,7 +54,9 @@
       "bossOnline": false,
       "brandName": "三尺科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "a09ed9f388e65c2d1nVy0t2_E1Y~",
@@ -74,7 +77,7 @@
         "带薪年假",
         "全勤奖"
       ],
-      "activeTime": 1718618133232,
+      "activeTime": 1725613761354,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "三尺科技",

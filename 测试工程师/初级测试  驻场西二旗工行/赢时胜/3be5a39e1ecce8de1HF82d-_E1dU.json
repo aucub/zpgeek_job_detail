@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "_dMRDIb4hGUCQ-51Ft4bN6QIf-cKrr-_BIU069r2oPL05XrrUPn8DVIlhS-3RAdYq_w632Pf8X8nDcfSXRA3F8JlifxPcBwSNY-cJAkp5glyhOKxPt0~",
+    "securityId": "NHBhZw1dgWmh4-4118cdGB0U742xHn03spmGrL3xrIoN8DMWJ-EcuH0ytbD4olKePvbzXGuOWt2PcgmJoDrEvvtsO-j8ljhpaGMfgw3d875fnIEUK0E~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "8-12K",
       "payTypeDesc": null,
-      "postDescription": "学历要求，统招全日制学信网可查，计算机相关专业，\n1.有移动端测试经验，或者有对公和柜面测试经验优先\n2.测试设计能力优秀\n3.能够稳定的",
+      "postDescription": "学历要求，统招全日制本科学信网可查，计算机相关专业，\n1）大学本科及以上学历优先。\n 2）了解银行对公业务优先，熟悉APP客户端测试优先。 \n3）要求3年以上软件测试经验，侧重于有银行测试经验，有一定的编码技能。\n 4）有一定计算机基础，熟悉DB2、Oracle等数据库的增、删、改、查操作，熟悉一种以上自动化测试工具。\n 5）学习能力强，具有快速适应项目的能力，具备良好的应用实战能力。能适应高强度的工作，具有良好的口头及书面沟通能力。\n 6）熟练掌握测试案例编写、测试案例执行等技能，可独立开展测试工作。 7）有银行工作经验，熟练操作数据库，能协助开发排查问题，沟通能力强，主动推进项目进度。",
       "encryptAddressId": "df2bc1dbbd6b4ed20Hx52NW4EVE~",
       "address": "北京海淀区中关村软件园互联网创新中心1",
       "longitude": 116.279998,
@@ -33,21 +33,26 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试"
+        "接口",
+        "银行",
+        "功能测试",
+        "金融"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "张女士",
       "title": "招聘HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220218/607f1f3d68754fd048c7bc3a0c8a3b447985e49b091bece40a14ee611c8bf4137bd21beb6ff_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "今日活跃",
       "bossOnline": false,
       "brandName": "赢时胜",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "f4d66efe7d48374b1n142Nu8FlQ~",
@@ -73,7 +78,7 @@
         "节日福利",
         "政府人才房"
       ],
-      "activeTime": 1718100028770,
+      "activeTime": 1725616853236,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "赢时胜",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "i9cw3ZB3LAeNz-7196UfWWDtprfihziFSLeDx8UaMLLpydlPBP9VYeUiJtg98gRSsdZ3f3Ak52mKz8HE7jQ16CVbQxjaEHQij0PC-ZonaIOIqN93ypw0GRpWZcnh2IyfolZExaLioTyw6Or3dUX3Qg~~",
+    "securityId": "QJEKVsfjshOgx-v1_1ArLy2LkNuiaavcoTpZ87AIskCXwbqg020U3E_j45pCW9SZoxE3-QYLHDxmxE2pphjvyEUh8XqsnEWePwhLdDWLkjLDWimQLQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,9 +33,6 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
-        "MySQL",
-        "Redis",
         "MybatisPlus",
         "Linux",
         "io"
@@ -48,8 +45,8 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "易全科技",
       "bossSource": 0,
       "certificated": true,
@@ -79,7 +76,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724656272511,
+      "activeTime": 1725616331010,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "易全科技",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "s45T9YbRboQu--C1To83tTvwt6NjoqvY7sm96GZ8VIzMR3sG-dYC2AdmfgGsrydarrGCSWxDAxYTXKgJKSpMTkBFmOD3LUb39fGP-NtvtfnRt58cZolOEiHm_aI2VaD9XNjlKB5hlg0jk7P6ez2diKVUVDaBKvShzGJgjl95sRNIyw~~",
+    "securityId": "2TEQltBspqnE_-x1hnBabfn0cBfwGNYSv44X4QCS85L_zf595IlDli-v80MA8TAGI6HQWxhFHgWmb6cpKSD9dd_xUTJY5mM0iRZYx4H2pr5rC8h-",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-14K·13薪",
       "payTypeDesc": null,
-      "postDescription": "1.负责B/S模式软件测试工作，制定、编写项目相关计划与测试方案\n2.搭建测试环境，完善测试规范流程、创建和维护测试用例；\n3.改进软件测试流程、工具和质量\n4.编写测试文档，测试报告，提交测试结果；\n5.能独立完成项目测试并推动测试工作的进行\n岗位要求\n1、 熟悉软件测试流程，能够独立完成软件测试工作，包括制定测试计划和策略、编写测试用例、测试执行及输出测试报告等；\n2、 熟悉Linux操作系统和容器化技术， 有python等自动化脚本开发经验者优先； \n3、 了解网络通信技术和协议，如TCP/IP、路由/交换、WLAN、VXLAN、MPLS、SRv6等，有相关测试、开发经验者优先；\n4、 了解AI算法，有相关软件测试经验者优先；\n5、 良好的沟通协调能力和团队合作精神，具备较强的责任心和抗压能力；\n6、 统招本科及以上学历；英语四级及以上；",
+      "postDescription": "1) 服务器产品的测试执行工作，包括功能测试、性能测试、稳定性测试和兼容性测试；\n2) 根据测试方案和测试用例，执行测试；\n3) 根据测试结果，撰写测试报告、用户配置指导等文档；\n任职要求\n1. 电子、通信、计算机类相关专业，本科学历\n2. 熟悉软件测试流程，有WEB测试和接口测试经验，了解常用Windows/Linux/VMware操作系统优先\n3. 了解服务器软件BMC/BIOS，服务器硬件，如CPU、内存、硬盘、RAID卡、网卡、GPU等优先；有一定的python、Shell等自动化开发经验者优先\n4. 良好的学习能力和抗压能力，良好的团队合作精神和沟通能力\n\n有相关笔记本电脑的测试经验也可",
       "encryptAddressId": "3e8ad9419c2123ed3nBz2d6-ElY~",
       "address": "杭州滨江区新华三集团大厅",
       "longitude": 120.19812,
@@ -33,19 +33,20 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "自动化测试",
-        "Python"
+        "BIOS",
+        "BMC",
+        "笔记本"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "刘先生",
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200717/91757fc7ef24eff7734bae35edfcc7d6bc2ec13e205cc9a1b8365c1ddfe_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "紫光云数",
       "bossSource": 0,
       "certificated": true,
@@ -77,7 +78,7 @@
         "意外险",
         "五险一金"
       ],
-      "activeTime": 1718779738638,
+      "activeTime": 1725616032448,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "紫光云数",

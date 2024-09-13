@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vwlB60ShyLjCN-w1yj5ulCYjp5uSUr-G0YmjptBTYGXj9nX20vKZNOc2HvQ2EbHyrB6o1DL4HbIHk9KsNPMo3gRFvddmYo1-SdMW8fIgp2AKt6TRSTY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9267a0eba5fd24b21Xd539W0FVVR",
+      "encryptUserId": "1458e21fccbe15a51XR43dy8F1A~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1.3年以上JAVA开发经泣扎实的iava基础; jdk 8及其以上\n2.熟悉Git和Gitlab的使用\n3.熟悉 maven、mysql、redis、Mongo\nDB和rabbitmq等中间件技术\n4.熟练使用开发工具idea，powerdesigner等\n5.熟练使用springCloud框架\n6.熟练使用springBoot进行微服务开发\n7.熟练使用centos进行开发环境和测试环境的部署，调试。",
+      "encryptAddressId": "527bbeaac03557231nB709i7FFFU",
+      "address": "北京昌平区天通科技园G2",
+      "longitude": 116.417755,
+      "latitude": 40.069894,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/182419e4b856082e69c1846a66f91b36",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f3ec3782d914609437ab7502ece88dd5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "Redis",
+        "微服务架构",
+        "技术中台",
+        "iuap",
+        "用友nc",
+        "用友"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "魏先生",
+      "title": "业务总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220512/607f1f3d68754fd063d3c30c4c3fe8e582955c89fc6740b64c2062dcdd9a99470127d2de850_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "月边星网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e59fcfcd7272c9ff1XR_3NW5EFc~",
+      "brandName": "月边星网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725679701158,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "月边星网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

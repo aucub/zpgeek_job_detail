@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RjmP9B4FOuz1K-k1hv_pROac_B0sYX6IbMJA6_ZV8t23XG27wPxEelXZSobcbj3JMhgzYBKN-NBy_Hm5XtdcHDvC4UJF4R1hdxLjJAj00L6rz80_mTER",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e5d0f10199cf5681nN439y4F1ZT",
+      "encryptUserId": "0550c2675e53df321XZ62Nu7F1tW",
+      "invalidStatus": false,
+      "jobName": "测试开发工程师",
+      "position": 100305,
+      "positionName": "测试开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述:\n1. 负责云原生以及虚拟化平台的系统测试以及自动化测试工作\n2. 负责帮助搭建自动化测试平台\n\n要求:\n1. 熟悉Kuberentes, 容器技术，有基本的Kuberentes网络，存储知识\n2. 熟悉CICD流程，搭建或维护过自动化测试平台\n3. 了解虚拟化的基本知识\n4. 有丰富的编程经验是一个加分项\n5. 熟悉Golang是一个加分项",
+      "encryptAddressId": "16e3dc9732acfed233N80tq-FFM~",
+      "address": "北京朝阳区富尔大厦507",
+      "longitude": 116.460891,
+      "latitude": 39.915115,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7caf899186aa26e4e3704a62170ce99a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fd806c6c7f9d2f2b0db7daa3feb00364",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Kuberentes",
+        "CICD",
+        "自动化测试",
+        "GOLANG"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230609/607f1f3d68754fd0218a6c6d620a2286a9fe37a9e438c3fe14fa6dcaf148103c5d1bc15e52a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "数字猿",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ab1ed55fac9295d31nd_2di0F1I~",
+      "brandName": "数字猿",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220425/7b5b554d84f9729c3b6f0aa1f4d8a93fadb362017ec56da814fa6dcaf148103c5d1bc15e52aa62c3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "总部设立北京朝阳区CBD商务中心，在上海、深圳、武汉、郑州等多个城市设立有分公司及办事处。",
+      "labels": [
+        "员工旅游",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725609485976,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数字猿",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

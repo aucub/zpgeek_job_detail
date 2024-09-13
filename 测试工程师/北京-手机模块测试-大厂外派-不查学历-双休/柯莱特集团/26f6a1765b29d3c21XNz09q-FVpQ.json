@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "55ns_C5Bgktm9-k1ZyS1jh-fjkeVOhQRys1X_TW3tQeVLkS2A9_qb_TEhd-egeEBFGjQdRfO0zGigthyFK6NqZNdkVWdew5basvLQR6duzeV1KDq",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "26f6a1765b29d3c21XNz09q-FVpQ",
+      "encryptUserId": "61c37591a00af38b0HJy2Nu-GVA~",
+      "invalidStatus": false,
+      "jobName": "北京-手机模块测试-大厂外派-不查学历-双休",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "上班时间：早9晚18/早9点30晚18点30，双休\n面试方式：现场/线上视频面试（1-2轮）\n\n简历要求：最新版pdf，简历量比较大，不要海投简历哦，有以下好几个方希，各位同学可备注自身投递什么方向哈；\n学历要求：大专及以上学历，身份证年龄01及之前，21年及之前毕业\n薪资情况：固定薪资，无绩效考核，最终会根据面试技术定级及学历情况定 \n                  薪资哈；\n其它：暂时要不了年限太高的同学哈，薪资差的比较大我就初筛不过了哈；\n\n方向模块：显示触控、画质效果、基带、语音方向、整机测试方向、智能设备方向（根据自身匹配度投递哦；整机方向需要全日制统招本科\n\n\n\n方向一：显示触控测试工程师\n工作内容：\n1、负责手机产品的屏幕测试工作，包括显示效果、光学、可靠性、人机交互（触控）等测试；\n2、配合研发人员解决在产品研发过程中出现的技术问题，满足研发测试需求；\n3、整理测试数据、编写测试报告；\n4、维护测试环境，分析并协调解决测试系统及仪表相关技术问题\n任职要求：\n1、物理、材料、光学、电子信息相关专业；\n2、1年以上工作经验，显示测试仪表，可靠性测试等设备；\n3、熟练使用光学测试仪表，显示测试仪表，可靠性测试等设备；\n4、熟悉显示原理、光学原理、屏幕结构工艺制程、静电防护原理等；\n5、良好的分析、解决问题的能力以及沟通能力，富有团队意识和责任心；\n6、有显示屏厂商相关测试经验者优先考虑。\n\n\n方向二：画质效果测试试-----包含2需求（画质评测，以及相机、相册测试工程师）\n工作内容：\n1. 参与小米相机拍照及视频画质的测试工作；\n2. 对日常拍摄的测试图片及视频进行归档整理；\n3. 参与测试结果的分析和反馈流程。\n\n任职要求：\n必要条件：\n1. 具备一年以上的相机开发、调试测试经验。\n2. 深入了解数码相机的成像原理，理解如何评价照片及视频画质（必须）\n3. 热爱数码产品，具备使用数码单反，专业摄影机的操作经验，熟练使用PR做视频剪辑。\n4. 良好的沟通能力，优秀的学习能力，团队协作精神，逻辑能力强，审美良好。\n5. 高度的责任感和抗压能力。\n\n优先条件：\n1. 摄影发烧友+器材党，对当前数码影像类产品如数家珍。\n2. 勤于动手善于思考，具备发现、分析、解决问题的能力。\n3. 具有摄影学或影像相关艺术学位\n\n方向三：基带测试工程师(传感器方向)\n工作内容\n1.进行手机/平板传感器相关硬件测试\n2.跟踪传感器验收问题,汇总上报。\n3.可协助研发进行传感器验收问题分析(log抓取、交叉实验)。\n4.验收传感器自动化工具和校准传感器相关测试设备。\n\n任职要求\n1.本科及以上学历，通信、电子相关专业，了解手机常用传感器基本原理。\n2.有1年以上手机传感器模块测试经验。\n3.熟练使用adb命令。\n4.配合岗位调配。\n\n方向四.语音测试工程师\n1. 3-5年语音测试经验，对语音交互系统有一定的理解，能够对SSE、ASR、NLU、TTS等模块进行专项测试\n2. 具有一定的编程能力，熟悉至少一门开发或者脚本语言\n\n方向五：MIUI基础体验测试-整机测试\n工作职责:\n1、负责手机整机性能/功耗/稳定性的测试执行、测试结果汇总及风险问题的输出；\n2、负责问题的跟进和测试总结及技术研究，能够独立评估产品质量、风险、困难并给出改进措施；\n任职要求：\n任职资格:\n1.熟悉Linux系统，了解基本的系统操作命令；\n2.对稳定性有独到的见解，对log有一定的分析定位能力，有项目实践优先考虑；\n3.熟悉Java/Python等至少一门语言，能够看懂一些源码，有项目实践更好；\n4.善于沟通交流与团队协作，责任心强；\n5.爱钻研学习，思维活跃；\n\n\n方向六、智能设备测试\n工作内容：\n1. 负责TWS蓝牙耳机/智能手表/智能手环的产品的软件测试相关工作\n2. 研究测试技术、流程、方法并应用到测试工作中，提升产品测试效率及质量\n3. 协助完善并改进TWS蓝牙耳机/智能手表/智能手环相关测试标准及流程\n4. 跟进产品上市后用户反馈问题，进行复现测试等工作\n任职要求：\n1. 本科及以上学历，半年及以上手机、手表等智能设备测试经验\n2. 具备良好的沟通协调能力和逻辑思维能力\n3. 对bug的敏感度高，擅于发现产品缺陷\n\n方向七、app测试\n工作内容\n1、熟悉APP测试，能够独立完成所负责模块的测试用例设计和编写。\n2、执行测试方案及测试用例，能够及时发现和推动解决产品中的缺陷或问题。\n3、能够准确的按照测试任务的方案、计划来执行，并及时沟通进展和上报风险。 \n4、熟练运用相关工具和方法，进行性能、稳定性等测试。 \n5、能够从测试角度寻找测试方法和定位手段，协助研发快速复现、定位、跟进和解决疑难问题。\n6、能够根据测试需要编写脚本，进行自动化压力测试。 \n7、经常性的对工作中的问题、知识点进行总结，同时能够了解业界前沿的测试技术，并在实际项目中实践和推广。\n任职要求\n1、正规高校计算机及相关专业。   \n2、有APP/手机系统相关测试经验优先。\n3、熟悉Python/java语言能够编写脚本者优先。\n4、沟通能力好，能够高效地与配合团队进行沟通合作。    \n5、有责任心，能承担压力，态度积极。 \n6、能够独立解决问题，有创新想法。\n\n备注：（薪资参考，按照毕业+工作年限）\n2年 7,850-8,400\n3年 9,000-9,500\n4年 10,100-10,600\n5年 11,400\t12,100",
+      "encryptAddressId": "58c0b27d00b986711Xxz09m-EVI~",
+      "address": "北京海淀区上地小米科技园区",
+      "longitude": 116.313573,
+      "latitude": 40.050265,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca8036aafd65df7264902c416b14878b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a8e45a7cf187d7ad281380fb3ce1229c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "智能硬件类",
+        "手机/电脑硬件类"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "柯莱特集团",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "879cece58f6a7e7d1XR929W0",
+      "brandName": "柯莱特集团",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180411/814a09ccfe65dd4381197f6bfa1b1d23cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "柯莱特1994年在北京成立之初，就致力于IT服务领域，经过20多年的快速发展，凭借全方位的技术实力，柯莱特已成为国内知名的IT解决方案及服务供应商，并致力发展成为专业的企业互联网转型及数字化重塑战略合作伙伴。柯莱特总部设在北京，并以北京、上海为中心，将服务网络辐射到中国大陆、台湾、香港和日本等区域，并通过集团本部及旗下分支机构为全球500强商业企业和金融机构提供技术服务",
+      "labels": [
+        "五险一金",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1725673886459,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "柯莱特集团",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "grOXNzpvl5CCe-21srMghWjmVdGsLWZw5UiowKj1jPzCRyEN_6WYk4WnY1hMquXY688fCo6p8sk8DgL2CkLJd6Rk47BjFxu80ZF_dI95TSARarGzTeYGi2bAiv0HWTx5FgQ-G-oNUS05M3R9bcMa-7j48VuCr18-WeqdMSW9v-VBzkOf",
+    "securityId": "Q75xrsFaIUyDk-U1vlTgB_XYBoJt-LVddCT3M1MmsGBlu2rMNtyec34Z10kQOHs2MfDkuxdGcOlHZb4RvhWv-t3qsIc3RTQGgWLyLx8MI95TxhLkS48~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,15 +33,15 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
-        "Spring",
-        "SpringCloud",
-        "MyBatis",
-        "MySQL",
-        "Oracle",
-        "Redis",
-        "不接受居家办公",
         "MES开发经验",
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring",
+        "Oracle",
         "ERP开发经验"
       ],
       "anonymous": 0,
@@ -53,12 +53,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "杭州盈格信息",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "f90862aafbccfb6a1HRy09u-Fw~~",
@@ -81,7 +81,7 @@
         "节日福利",
         "住房补贴"
       ],
-      "activeTime": 1721190957229,
+      "activeTime": 1725688384670,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州盈格信息",

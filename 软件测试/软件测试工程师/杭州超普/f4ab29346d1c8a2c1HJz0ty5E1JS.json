@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "qa6eF77h7pYEc-o1-zLZhwiUc3cblPRqrnVwlCQC_m2Usb_6oIybOOOzg0t_PfBXpKeqwUAT4eT0v0KHim0xpACygt7aQ70d0Dd2-bWGuAJzi4wNvCKVVJr3JSELkL09J-I15B3VHxXB1tyVfnpon4EehDDOXxlvcRWukB_LNmZnsSwI",
+    "securityId": "3Yru-QZzVzXLk-U17g7M39WiLC63rw-CBjbwb49pOmdXmckvpPpWaFXrh-aAfEINRnMoBVnIXblG7hroROLSTpbDvCVIdMftJYX9K582rx1psFEyzA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,14 +33,14 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
-        "计算机相关专业",
-        "测试工作经验",
-        "Python",
         "Java",
-        "Postman"
+        "测试工作经验",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "计算机相关专业",
+        "Postman",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,8 +50,8 @@
       "title": "人事招聘",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "杭州超普",
       "bossSource": 0,
       "certificated": true,
@@ -80,7 +80,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1724822612248,
+      "activeTime": 1725609410939,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州超普",

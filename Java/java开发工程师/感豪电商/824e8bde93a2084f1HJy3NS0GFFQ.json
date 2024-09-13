@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_c7ihCZGJDUH5-e1htVbs8wToVzijqweGtgCer_tsziOPOGPbtY8MsgMsmisfXVOiNTSELqQapP_tus1F5cIR5JhcW5G4_hGG2EHl3wXtcLNBS6R40Y~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "824e8bde93a2084f1HJy3NS0GFFQ",
+      "encryptUserId": "cd7921f88fb77bf61nV52dy4EFRU",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.  产品研发，参与公司电商产品的功能开发。\n2.  项目开发：基于公司已有的技术体系，参与项目交付开发；\n3. 具有较好的业务理解能力，能按时保量完成公司安排的相关工作任务；\n\n岗位要求：\n1. 数量使用Java语言和Spring等框架进行系统开发工作\n2. 熟悉掌握Spring, JPA，Mybatisplus, Mysql, Redis等相关技术；\n3. 熟练使用Linux常用命令和前端CSS、JavaScript、Vue等技术框架；\n4. 良好的沟通能力和文档能力；\n5. 学习能力强，有上进心和团队精神,善于深度思考和解决具有挑战性的问题；\n6. 具备大型电商网站或互联网应用开发经验优先考虑。",
+      "encryptAddressId": "a23f493d77b54e2103R_3d6-FVQ~",
+      "address": "上海徐汇区虹钦园51号楼513",
+      "longitude": 121.405776,
+      "latitude": 31.178003,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/145e498b9bce13fbe3482adff1d61f14",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f11ffc1e1808f977866e56f7e678d4d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "分布式经验",
+        "微服务经验",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Dubbo",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "武先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "感豪电商",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "53eb785f7eea37af0Xx_09-8GA~~",
+      "brandName": "感豪电商",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上海感豪信息技术有限公司，成立于2013年，是一家为大中型企业，提供互联网信息化建设的服务商，公司位于上海市徐汇区漕河泾开发区。\n公司以研发团队创立，有着13年的电商系统研发以及中大型企业信息化平台实施经验，\n取市场各家电商系统所长，行业沉淀，经历多年研发出适用于中大型企业电商领域信息化平台建设的技术架构，并推出了一套以用户、业务形态为中心的新零售电商生态系统，B2B2C多商家入驻商城，微商城，小程序商城，APP商城，B2B订货系统，S2B2B订货系统，微店分销系统，三级分销系统，跨境电商系统，外贸业务系统，并取得多项著作权。\n感豪信息先后为温州教育局、山东鲁抗、哈量集团、富士康、中国电信、泸州老窖、苏\n泊尔、太平洋百货、立邦中国、泉源堂大药房、天时汇、西集网、海康威视、京东酒世界、也买酒、亿力电器、京都儿童医院、上海教育局、廿一客等众多企业提供电商系统以及实施服务。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1725587927736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "感豪电商",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
