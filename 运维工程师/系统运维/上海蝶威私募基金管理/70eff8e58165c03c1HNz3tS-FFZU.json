@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pBZidQXhA5ncl-a1PZo__RZ1W0Rbs9Pbsv-Ki3fxf7DFFuHf628mEcr6qfAgwBqglWtdEDxfxgnSxIHnxXBCtIiHXKORQUCcc-cKPU7BX9wpuA0JzaNLGVApGoNrLXEYwVd9dH11wxMBnoDC18y2UAdi3-GkHfFexTeqr3xpfCzc41FH7q8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "70eff8e58165c03c1HNz3tS-FFZU",
+      "encryptUserId": "e629c6603fbe5ae10XF_3968EVZW",
+      "invalidStatus": false,
+      "jobName": "系统运维",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 与开发团队紧密合作，实现持续集成和持续部署（CI/CD）流程。\n2. 设计、实施和维护自动化部署、监控和报警系统。\n3. 确保系统的稳定性、可靠性、安全性和可扩展性。\n4. 对生产环境进行故障排查和性能优化。\n5. 编写和维护运维相关文档，包括系统架构、操作手册和故障处理指南。\n6.熟悉服务器等硬件设备，维护机房。\n\n**基本要求：**\n\n1. 计算机科学、软件工程或相关领域的学士学位。\n2. 至少3年的运维开发或相关领域的工作经验。\n3. 熟练掌握至少一种编程语言，如Python、Go、Ruby或Java。\n4. 熟悉Linux操作系统和Shell脚本编程。\n5. 熟悉常见的云服务提供商（如AWS、Azure或GCP）和相关技术。\n\n**加分项：**\n\n1. 熟悉Docker、Kubernetes等容器技术和编排工具。\n2. 熟悉常见的CI/CD工具，如Jenkins、GitLab CI或Travis CI。\n3. 熟悉网络基础设施和网络安全。\n4. 熟悉数据库管理和优化，包括关系型和非关系型数据库。\n5. 拥有良好的问题解决能力，能够在压力下保持冷静。",
+      "encryptAddressId": "749191ab8469187c331-2tm7FFBUw4S7Vvo~",
+      "address": "上海浦东新区东方希望大厦6e",
+      "longitude": 121.537933,
+      "latitude": 31.223485,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0fcab7b6a28711449aa5050f4e3ea0b1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/11c683b305ae934eec1f1f8124be249f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "IDC机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐先生",
+      "title": "风控",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海蝶威私募基金管理",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8c10960a5e88d24e1HF73Nq_Fls~",
+      "brandName": "上海蝶威私募基金管理",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100204,
+      "industryName": "基金",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726290728924,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海蝶威私募基金管理",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

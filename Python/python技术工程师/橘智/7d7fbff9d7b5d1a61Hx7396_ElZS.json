@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LtKntrVKCQ33w-n1Q9Q4Ta250F4JkLYuMDQccwQ3woXMnppLKnH395P6gLS7SumkJ7mI1jRS1J41rGID90M-HYxqg8WmyAXNTkJH1ZOmkbdRjb8hRTlk27Qq_ExDAyFysMLUzMEzkJv9RA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7d7fbff9d7b5d1a61Hx7396_ElZS",
+      "encryptUserId": "90c891a343146cf20HR43d28ElY~",
+      "invalidStatus": false,
+      "jobName": "python技术工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责爬取HTML页面所需数据，并对数据进行清洗、解析、归档、输出等；\n2、负责设计和开发分布式的网络爬虫，数据的采集与爬取、调度、监控、自动化运行等；\n3、负责实时监控爬虫的进度和警报反馈，提升爬虫系统稳定性、可扩展性。 \n4、负责js渲染抓取，反爬虫策略研究，验证码识别等采集支撑服务建设； \n5、参与公司业务平台的数据的挖掘和分析，协助进行产品改进。\n任职资格\n1. 本科以上，计算机或相关专业毕业，扎实的Python基础，熟悉多线程编程环境，熟悉常见开源框架；\n2、熟悉基于正则表达式、XPath、CssSelector、beautifulsoup等网页信息解析技术；\n3、熟悉Scrapy、feapder等主流爬虫框架框架，能够解决封账号、封IP、验证码、网页限制爬取等问题，且有实际经验；\n4、熟悉常见的反爬机制，并对反爬具有一定的应对措施策略且有一定研究，如协议破解、模拟点击等； \n5、熟悉代理IP池、Headers认证和Cookie等；\n薪资福利\n工资：6k-12k，实习期3个月\n福利：周末双休、法定节假日休息、节日福利、缴纳五险",
+      "encryptAddressId": "161ee2f22aaa5ea50HR-2dS7FVc~",
+      "address": "武汉东西湖区武汉客厅G栋2209-2211",
+      "longitude": 114.280783,
+      "latitude": 30.671524,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c1efe1d3a3fd58ba4744eb934116e93",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/256a3a2bff10457df65f7a7faafb2ad2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫经验",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210313/4a84e4a2019fb43ee1b1cffbb9719ffd0f1eb0b8d87922e0efb32914963_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "橘智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f477ee9f6431cacf1nd9296_GVM~",
+      "brandName": "橘智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100025,
+      "industryName": "运营商/增值服务",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "节假日加班费",
+        "底薪加提成",
+        "保底工资",
+        "年终奖"
+      ],
+      "activeTime": 1726109126830,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "橘智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

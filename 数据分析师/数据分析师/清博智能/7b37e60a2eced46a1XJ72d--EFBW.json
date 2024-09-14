@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Kgrunm2oxi0Zf-Z1uVHk2ID4h86Xzmi4-a6bF73Ia8RLEMDv8hO8rXFW7260YObTGeZ4wAPrcBkZ5aE6paIzsPq9eis8n0x-x59MakIJZDla3FgkOAuPZNtSs5Z7tKRoxpDthc3Yf2WD-PWjlvtdpEA~",
+    "securityId": "dHYjb3-W4VZL4-a1KlI_4iOhnT4XeskgJCpxqxHZTafaCxcILaNEkpPe26lCRNyvhjzz5qZpbb4SxKOvv2xPFNJZ8Q5lq4OI4d0Ex1STa81U5BIyjZo~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
         "R",
         "计算机相关专业",
-        "数据分析经验"
+        "数据分析经验",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -46,8 +46,8 @@
       "title": "HRBP",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221020/607f1f3d68754fd0bd4ba3d3efc30a9ac366d25d1b1cd961ca1a79824152536a29561e8ac00_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "清博智能",
       "bossSource": 0,
       "certificated": true,
@@ -73,7 +73,7 @@
         "五险一金",
         "弹性工作"
       ],
-      "activeTime": 1720064718285,
+      "activeTime": 1726016809370,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "清博智能",

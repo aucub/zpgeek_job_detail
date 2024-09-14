@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "eQ_vftvTGP943-h1k-06NVMUJ657tXDMMWZyh3498LuojwpnCuldjm_GE9QALHGiNUZjcvaRhIU6TS_2CxBt91ADSWRO5NKRd0ydl2F-BbeWS-i8BX_YKTM-dg2RH-ohcmsZaxlkSnzTnIiBvmtHf9Q~",
+    "securityId": "xBlD1ucgTd1lj-T1jBzTYjhLIhGhlnSjW6uriDcr6o39N1HXiaH-1ACH9bw7_anqJR2TBNU152g11imP7WzX-IX5Lu7OBZIlsiX_Em5JT_TUf5KQqpE~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -34,15 +34,15 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "SpringCloud",
-        "Redis",
         "不接受居家办公",
         "分布式经验",
-        "springBoot",
-        "MVC开发"
+        "SpringCloud",
+        "Redis",
+        "MVC开发",
+        "springBoot"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "邓女士",
@@ -50,7 +50,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231102/607f1f3d68754fd05db43acc6eb81171967a43d8a3c4fe5aa818a6303ae010e5dc5a988ef013ba1_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "纪佰康科技",
       "bossSource": 0,
       "certificated": true,
@@ -82,7 +82,7 @@
         "住房补贴",
         "社保"
       ],
-      "activeTime": 1724656281607,
+      "activeTime": 1726296261184,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "纪佰康科技",

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CpIun8gFd33ol-11zFcIYocxP8TCk3cAEzC0KhCeLzVc8AHwuQO6Jd6aqVddMWXabx-mi050NxzKJvg-IAQM6TNUJnw9bnoqrB9RvVqdXpuAw2PGSQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ec329d9dff7a17c13nV42N29EFA~",
+      "encryptUserId": "b8bb09815a46d6a51nZ829q7FVs~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练使用C#或Python等开发语言，有一年以上工作经验；\n2、熟悉windows程序开发，掌握Socket通信、RS232通信、Tcp/ip通信多线程并发等技术；\n3、掌握sqlserver,mysql等数据库，能够使用SQL语言进行简单开发。",
+      "encryptAddressId": "e6d199b6a737b6751XV839q_FFM~",
+      "address": "武汉湖北省武汉市洪山区华师园三路5号",
+      "longitude": 114.395427,
+      "latitude": 30.453843,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5df70ef35b57d54084cdb4c0cb337dc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9af6045ecd16d1ce247f1e11a3c536d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "SQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "昱升光电",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "96ebdc0129e1879b1nd-0t2-F1Y~",
+      "brandName": "昱升光电",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101405,
+      "industryName": "半导体/芯片",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1723744652312,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昱升光电",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

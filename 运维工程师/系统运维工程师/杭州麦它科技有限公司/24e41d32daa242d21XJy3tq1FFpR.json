@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hvLCX90YcGvf0-G1ega6KyW2iiLphxuZ443ARy0a2NdK-hbB8uHmtgeWXnkZNRitWMpAZXkcP5p0fh51E-p4dpj2FAxUDpKNlg5M0VNz30E-ltiw7Wkl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "24e41d32daa242d21XJy3tq1FFpR",
+      "encryptUserId": "7324c3f6346d8e910nx43dy5FlNX",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位详情：\n1、负责公司分布式存储集群业务的部署和维护工作；\n2、实现业务相关应用部署流程的自动化；\n3、搭建和维护相关监控告警平台及监控项，保证业务应用日常稳定运行；\n4、负责业务和服务器的日常巡检、告警响应、故障处理等。\n任职要求：\n1、全日制本科及以上学历，两年以上相关工作经验，英语可作为工作语言。\n2、熟悉主流的 Linux系统（RedHat、Centos、Ubuntu等）环境及操作命令，对操作系统故障能够快速定位；\n3、熟悉Zabbix、Prometheus等主流监控工具，能够根据业务需求自定义监控项，具有Prometheus/Grafana使用和开发经验者优先；\n4、熟悉并熟练使用Ansible等自动化运维工具；\n5、了解常见存储系统（例如 iSCSI、SAN 存储设备，或 Ceph 等开源产品）并具备相应的实操经验；\n6、熟练掌握至少一门脚本语言Shell/Python，能根据业务需求编写脚本，有开发能力优先；\n7、熟悉和掌握各种计算机软硬件，可独立进行安装、调试及故障排查；\n8、熟悉主流虚拟化平台VMWare的部署、维护、管理及故障排除;\n9、熟悉iptables、ssh reverse tunnel、port forwarding、reverse proxy等相关网络配置；",
+      "encryptAddressId": "9c07e6cf86435e5c33V429i7GFQ~",
+      "address": "杭州上城区迪凯银座30",
+      "longitude": 120.211514,
+      "latitude": 30.241742,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bed6460512ac94fca8bcd7a143400303",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ea2cf7261491aaaf03f23a15e2c8dd36",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230222/607f1f3d68754fd0ba219a201dad55dd832c8c1bcda46e82b049e9020108129a966b9978f56_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "杭州麦它科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b1d6dc2683cc12411XF52du8ElE~",
+      "brandName": "杭州麦它科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100026,
+      "industryName": "电子/半导体/集成电路",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1723684847725,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州麦它科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

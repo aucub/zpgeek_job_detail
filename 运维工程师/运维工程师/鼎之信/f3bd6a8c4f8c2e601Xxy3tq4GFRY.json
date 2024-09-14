@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "HI639OAP9Hb3i-M1uPYrir_MtCcNew2HBQUemTxv89k83CvLSYxCIVT9ZkL55hvLrZ5CZ45EeSnQATFB4UpKOmEVQP3LnrOTxONQ1U6X4aTM4TNX5jYmmUmHUDWFLu-5yE0jCdpahPKUyprI1fzmqs4Y",
+    "securityId": "703MbPGMJkqov-f19vb8CnncfV2XK64FLMplg_bcpIFPKMw6nucXP_8Axhalk-Kh-dAfibVsMx9kIbBJZ3rkVfrvfPBXjFj9FmrVVU4f-9Vw7AxLirvl",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,20 +33,20 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "桌面运维",
         "网络运维",
-        "系统运维"
+        "系统运维",
+        "桌面运维"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "程先生",
       "title": "项目经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200620/8425ffa590d6e88cf2b7a0b9ff7072b5a192d5ba85fa5eaffb1d4f64c9df_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "鼎之信",
       "bossSource": 0,
       "certificated": true,
@@ -74,7 +74,7 @@
         "意外险",
         "五险一金"
       ],
-      "activeTime": 1720669600700,
+      "activeTime": 1725941827355,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "鼎之信",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "J2E23Kl62u_NV-O1gW_Y-FNZt5IiYxUtq4_aSgxCoPIF-1h5fdRH7hBdu5lFipDEjmW4sXVCQ-ZqUw7h1RAPWQK3oVt2qEKdtep-P5Kvhr-FELu4EX3LOMEkDWXeSAsBLFCdQ7LMo6jvHw~~",
+    "securityId": "e51swebt9hnBk-Y1U9RO7PdQBx4A1S1rAt-clXk6KbYilJLb2e8qsF_W02zjri0TnXzRVmNIHfcY7ha9BRGxouVZkb4HkE0S_0MOGHwj0PMb3dFm8vni",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "5-7K",
       "payTypeDesc": null,
-      "postDescription": "一、工作内容：\n负责公司数据分析工作，包括但不限于：\n1.收集、整理、清洗和分析公司数据，为公司提供有效的数据支持和建议；\n2.撰写数据分析报告，向公司管理层和业务部门提供数据驱动的解决方案；\n3.利用 SQL 和 Python 等工具对数据库进行查询和操作，提高数据分析效率；\n4.寻找并利用各种数据源，获取更多有用的数据；\n5.参与公司项目开发，负责数据相关部分的设计和实现。\n二、主要职责：\n1.负责公司数据 不能不说非常重大，确保数据的准确性和完整性；\n2.能够独立完成数据分析工作，并给出有效的数据驱动解决方案；\n3.具备良好的沟通能力和团队合作精神，能够与公司各部门进行有效的沟通；\n4.熟悉数据分析领域，了解各种数据分析方法和工具。\n三、薪资待遇：\n1.上班时间：9：00-18：00；午休时间：12：00-13：30；\n2.工资待遇：转正综合工资5K-7K，底薪+全勤奖+绩效等；\n3.缴纳五险；\n4.公司会组织员工不定期外出旅游；\n5.生日节假日有福利，员工聚餐，不定期下午茶等人性化福利。",
+      "postDescription": "一、工作内容：\n负责公司数据分析工作，包括但不限于：\n1.收集、整理、清洗和分析公司数据，为公司提供有效的数据支持和建议；\n2.撰写数据分析报告，向公司管理层和业务部门提供数据驱动的解决方案；\n3.利用 SQL 和 Python 等工具对数据库进行查询和操作，提高数据分析效率；\n4.有过“用户行为分析”、“商品库存分析”及RFM模型设计等相关项目经验优先考虑，\n5.寻找并利用各种数据源，获取更多有用的数据；\n6.参与公司项目开发，负责数据相关部分的设计和实现。\n二、主要职责：\n1.负责公司数据不能不说非常重大，确保数据的准确性和完整性；\n2.能够独立完成数据分析工作，并给出有效的数据驱动解决方案；\n3.具备良好的沟通能力和团队合作精神，能够与公司各部门进行有效的沟通；\n4.熟悉数据分析领域，了解 Pandas、Numpy、Matplotlib、Seaborn等各种数据分析方法和工具。\n三、薪资待遇：\n1.上班时间：9：00-18：00；午休时间：12：00-13：30；\n2.工资待遇：转正综合工资5K-7K，底薪+全勤奖+绩效等；\n3.缴纳五险；\n4.公司会组织员工不定期外出旅游；\n5.生日节假日有福利，员工聚餐，不定期下午茶等人性化福利。",
       "encryptAddressId": "0d275c4f1c66be9b1H1y3tq-GVVUxYi_VfI~",
       "address": "武汉洪山区创意天地10办公楼1401",
       "longitude": 114.322556,
@@ -33,11 +33,11 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "SQL",
-        "Tableau",
-        "Python",
         "数据分析/挖掘经验",
-        "电商/零售行业数据相关经验"
+        "Tableau",
+        "电商/零售行业数据相关经验",
+        "SQL",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -53,7 +53,7 @@
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "cb700f072619334d1HR80tS4GFc~",
@@ -68,14 +68,19 @@
       "introduce": "武汉京品购科技有限公司成立于2023年8月，位于武汉市洪山区，系一家武汉本土运营智能柜的公司。",
       "labels": [
         "节日福利",
+        "有无线网",
+        "团建聚餐",
         "零食下午茶",
+        "员工旅游",
         "全勤奖",
         "法定节假日三薪",
         "底薪加提成",
+        "保底工资",
         "绩效奖金",
-        "年终奖"
+        "年终奖",
+        "五险一金"
       ],
-      "activeTime": 1721110939459,
+      "activeTime": 1726310001744,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "京品购",

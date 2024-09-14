@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "4yCYRmuIlYfOE-21_rZ1AXtf2t5IReLbwdjCuTOg9YizpcR0Zq00_ssTxp_vy7WSCzFpTfqq6uJbVr2wWVvKP_muEQadI9445O5OT7Qw9C3rzCU4IJo3Z2fYhqA2yiEfDp8x6sRUs9bB3lkBGk46zVow5DmOhedYpbZCqCSh5TYnoqc~",
+    "securityId": "NlFqdVegtr31S-f18c8uZEtxpjy8kab-alM5049CDqZLG6Y49fqgX-_t_i1foyOYnCqsEOEEdB_kcLWwS9upTCkFuuMDJai-w_t68FWf4tEEhVg4YQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,18 +33,17 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "不接受居家办公",
         "Java",
-        "Python",
-        "Spring",
-        "SpringCloud",
         "Nginx",
-        "MySQL",
-        "MongoDB",
+        "不接受居家办公",
         "PostgreSQL",
-        "Java",
-        "SQL",
-        "项目实施能力"
+        "SpringCloud",
+        "MySQL",
+        "项目实施能力",
+        "MongoDB",
+        "Spring",
+        "Python",
+        "SQL"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -55,7 +54,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230605/607f1f3d68754fd0319d29e81d5f9cd07a3bf50c0905d052715643d7d473441fa1529b45fec_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "中科联云科技",
       "bossSource": 0,
       "certificated": true,
@@ -86,7 +85,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1721191462038,
+      "activeTime": 1726309362923,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中科联云科技",

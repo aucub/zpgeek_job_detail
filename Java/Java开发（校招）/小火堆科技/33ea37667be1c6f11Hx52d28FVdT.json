@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D5-4i8X4Qi46x-E101KHpQU_OClzqBTBasr9cWRNYDTKURJBY_dp-3KscH2gjuVMhJ8Vrn74F2zOnytdBHve2eLad5n_Z7Uz3FlvagnoD_37W6sqa1O_JIu53QiglZ4TKaFod60e5Ss~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "33ea37667be1c6f11Hx52d28FVdT",
+      "encryptUserId": "1607b93d6b2e84591XN-2dq-Flc~",
+      "invalidStatus": false,
+      "jobName": "Java开发（校招）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n1.基础的业务后台开发、小程序开发；\n2.遵守项目开发流程和代码规范；\n3.编写必要的设计文档，代码注释，单元测试代码；\n4.API接口的自动化代码及测试框架的开发测试。\n任职要求:\n1.2024届计算机等相关专业本科及以上学历，大学英语四级以上；熟悉java编程，至少半年以上的Java学习经验。\n2.熟悉基本的Spring-Boot框架，略懂mybatis；熟练SQL语句，并能进行sq|语句基础CRUD。\n3.懂点前端框架 Vue/React更优。\n4.具有良好的沟通技能，良好的团队协作意识、强烈的责任心及乐于分享精神。\n5.善用Stack Overflow，Github的优先；熟悉小程序开发的优先。\n6.需线下笔试和面试。",
+      "encryptAddressId": "4b7547766fd4841b0Hx73920GVE~",
+      "address": "杭州余杭区IT公园A座1号楼15楼小火堆科技",
+      "longitude": 120.007537,
+      "latitude": 30.275123,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6bc07b44295252b73b8bbfb9d6d3dad5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ad7164cd299047c229166788695640d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240822/607f1f3d68754fd0575139db5bb2b441bbd0b4e1ab06d02fbbf8eb3502f1813d4741371d6ec0953_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "小火堆科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0149ec6e0a64e77b1nx43d26",
+      "brandName": "小火堆科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200102/0ab906f388ba64e411b2cfbb2cf2cd6dbbf8eb3502f1813d4741371d6ec09532_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "杭州小火堆科技于2015年在杭州成立，国家高新技术企业，是一家专注于提供互联网解决方案和落地研发服务的公司。\n小火堆科技通过自主产品“积墨项目管控”，完成研发项目进度智能化跟踪，项目异常智能化发现，从而快速达到项目落地和交付，为企业提供高质量的软件研发服务。\n公司主营平台级软件定制研发，包含但不限于移动端应用、物联网等。多年来在企业级管理、电子商务、教育、O2O、传统工业等领域有着丰富的研发经验，为5000余家企业提供了数字化转型的服务。旗下拥有自己的研发中心-杭州小火堆数字科技有限公司，负责公司的产品研发和技术管理，包括软件定制开发和自研产品研发。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1726142384545,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "小火堆科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

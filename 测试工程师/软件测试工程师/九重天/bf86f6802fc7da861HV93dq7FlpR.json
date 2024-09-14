@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "CMYxgw_lzn7gd-E1KyyFpBx1R1RDo6jfFxspEhQASu7Sfm5PLqbw8L_CLy7DR4Dbz8mEcuwI5PJGa26s9ifiFqJdh8dG4BX9c4MCZsERJGxQDsPNwazXAE-ypZvbjrdrwlB8aYCjvF2skA~~",
+    "securityId": "WW4isVRqZLAom-31QQH0_ENqAsd97dda88xEmdJPkTlR2thf6dnzk7X9n7GWwbn7PGVjyTwIcPtr_dFY95gRv2LGIy1KyJuxJyvyAfiHsOc9_An4IBU~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "性能测试",
         "自动化测试",
-        "功能测试",
-        "MySQL"
+        "性能测试",
+        "MySQL",
+        "功能测试"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "九重天",
       "bossSource": 0,
       "certificated": true,
@@ -70,7 +70,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724899523630,
+      "activeTime": 1726293247833,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "九重天",

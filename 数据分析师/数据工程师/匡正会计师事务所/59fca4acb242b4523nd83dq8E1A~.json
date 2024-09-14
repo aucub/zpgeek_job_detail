@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Wx2AwSyuYZEGq-h18LrYAAPG9jWLBIe2seIS2OJlJ4UrDRDN-x9cDvJLwVS7o_fj3ojFs7K3Hau85--u6uvQcezJImw4sYjHF9t1RiREYnVnho8WRLU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "59fca4acb242b4523nd83dq8E1A~",
+      "encryptUserId": "e92bb86fa996dd7d1nZ42dy7F1tZ",
+      "invalidStatus": false,
+      "jobName": "数据工程师",
+      "position": 100511,
+      "positionName": "数据分析师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：基于被审计单位信息系统内部控制测评的基础上，对被审计单位底层数据库的原始数据进行采集、转换整理、分析和验证，形成审计中间表，并运用多种技术方法构建模型进行数据分析，发现趋势、异常和错误，收集审计证据，实现审计目标。\n1.数据分析：抓取整合数据信息，数据分析，并优化分析过程；\n2.数据采集：数据采集程序的编写与数据的清洗和入库。\n\n任职要求\n1. 统计、计算机相关专业，本科及以上学历；\n2. 熟练使用python语言，如运用numpy/pandas/matplotlib/seaborn等进行数据处理分析；\n3. 掌握主流数据库系统，如mysql/oracle/sqlserver; 熟练运用SQL进行数据处理；\n4. 学习能力强、具备良好的沟通能力和团队协作精神，抗压能力强，能保质保量的高效完成指定工作。",
+      "encryptAddressId": "cbcc6aa0080fb27d1XF-3t27GQ~~",
+      "address": "北京海淀区中关村资本大厦1008",
+      "longitude": 116.337732,
+      "latitude": 39.957118,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13d749a72a0c54b81c13f54ca89fa452",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/15a330d80e3059a5ba63f1f7cb97459b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据分析",
+        "SQL",
+        "MySQL",
+        "Python",
+        "Pandas",
+        "数据结构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200815/f4abee8faad22d7bee7964cf0be372f98d10ebd7e4636db1f4443cc43c6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "匡正会计师事务所",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ebb8a8584966a2271nV73tq1Elc~",
+      "brandName": "匡正会计师事务所",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200815/87b976931545282485ee2356528064468d10ebd7e4636db1f4443cc43c698642_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100605,
+      "industryName": "财务/审计/税务",
+      "introduce": "匡正会计师事务所成立于2004年，是一家专业化、多元化、国际化、信息化的专业服务机构，连续多年入榜《北京地区会计师事务所前百家》，业务领域涉及审计鉴证、税务与法律服务、融资与并购、内部控制与风险管理、商务服务等领域。现有各类专业人员70余人，多人持有英国特许会计师（ACA）、美国注册会计师（CPA）和澳大利亚注册会计师（CPA）等国际执业资格。\n匡正会计师事务所坚持立足国内，放眼世界的发展方向，2011年加入国际会计师联合会（IFAC）认可的全球会计网络JPA国际，在跨国审计委员会指导下，与国际成员一道致力于在全球范围内建立高质量的财务报告和审计服务标准。匡正为英格兰及威尔士特许会计师协会（ICAEW）、特许公认会计师公会（ACCA）、澳大利亚会计师公会（CPA Australia）认可的雇主单位。\n匡正会计师事务所坚持以质量为导向的诚信文化，秉承勤勉、诚信、团结、奉献的匡正精神，恪守注册会计师职业道德守则，于2010年先后成立的党支部、团支部和工会组织，把党建与业务发展融合，以党建促发展，使党建成为事务所发展的政治保障，创建了内部形成合力，外部和谐共赢的氛围，承担回馈社会，报效国家的责任。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1726295800154,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "匡正会计师事务所",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sf0srdRqfh-IS-g1HTMu3HHVDCF4K0fohfwAcQ5WlWCIE2ePH_FaWQPwwJiwhyfcOzIrqDnwpSU-JlQ4qaHf931AXs4khMD6-idBRNXOdMtzvdahEg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "607ece80b54db8091HJy2N-_EFdS",
+      "encryptUserId": "b092d4595aab44cc1HF83969ElM~",
+      "invalidStatus": false,
+      "jobName": "云服务工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n•\t前后端流水线开发与维护\n•\tk8s 集群部署，维护\n•\t数据库维护\n•\t代码仓库维护\n•\tGithub Action 维护\n•\tcdn 对象存储，负载均衡维护\n•\t运维消息通知维护\n\n岗位要求：\n•\t热爱运维工作\n•\t本科或以上学历，计算机科学或相关技术领域\n•\t具备良好的团队协作能力、沟通能力以及独立解决问题的能力\n•\t熟悉 k8s、 docker ，能独立搭建k8s、部署应用，有实际工作经验\n•\t熟悉 CI/CD\n•\t熟悉代码管理工具 Git\n•\t熟悉 shell 命令，和各种数据库的安装维护\n•\t对引入更高生产力的运维工具充满自信\n•\t了解 node.js 更佳\n•\t了解 jira slack 等生产力工具更佳\n•\t了解 Doppler/ConfigCat/Sentry/Datadog 更佳\n•\t有 aliyun/aws 等运维经验更佳",
+      "encryptAddressId": "d9608dcde5e012e33nx829W8",
+      "address": "武汉洪山区华中师范大学南湖校区综合实验大楼11楼教育大数据应用技术国家工程实验室",
+      "longitude": 114.359184,
+      "latitude": 30.508548,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37f8578da6de443132aec9359fb20606",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/857b487ab50326b9ceb2f75a7a4bb928",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "计算机相关专业",
+        "Kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "武汉华大国数公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d9b35fe1c9efa6d1nF9096-Fg~~",
+      "brandName": "武汉华大国数公司",
+      "logo": null,
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助"
+      ],
+      "activeTime": 1726217557973,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉华大国数公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
