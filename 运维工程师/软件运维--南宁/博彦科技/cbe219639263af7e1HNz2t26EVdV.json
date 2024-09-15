@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "cjOztddmXDqVi-_1RVnvKPdzEDQdLTif8aG30gSxvuxTGLvlUkJq7pCklTkIWIAKGbnckjGlY8rvwvMtZxrWi_WHxSTRa7a6bEEuTsxXB8HHbvM3uOhhHpl1FDqUXaO9nTFu2X4rsVqU3lEcPdL4",
+    "securityId": "AOHi8NuNKogpE-n12eBl8IjhLFHmhdZZXwaG50ortrh2SOwamcmqXT94HgbFCxIXsnWkpZaHI0KAR80hzEIeEyKXdOy6QjkoT9vGke0FsDKh933Djfe4GWkd0anFnjcQLKoZ6Z6AhU_iiw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "4-6K",
       "payTypeDesc": null,
-      "postDescription": "岗位和职责要求\t：\n1、扎实的Linux操作系统和网络基础知识； \n2、精通一门以上脚本语言(shell/python/go等其中一种)；\n3、至少熟悉一种开源监控系统 (zabbix、prometheus、open-falcon等),对监控优化有深入理解； \n4、熟悉Nginx、Tomcat、MySQL、Redis、Kafka、ClickHouse、Flink、ELK等的日常维护与优化，且熟练操作Mysql、Kafka、Redis；\n5、熟悉CI/CD持续集成与持续交付，熟悉Gitlab、Jenkins、Ansible、Grafana 等工具使用；\n6、熟悉国产操作系统（如bclinux8.2及以上的bc、欧拉openEuler等）、国产数据库（如：AntDB、dameng、GreatDB等）、国产中间件（如：BES、flyserver等）的使用；\n7、有较强的自学能力，善于钻研新知识、新技术；\n8、有良好的沟通能力，团队协作精神和工作责任心；\n9、2年运维工作经验，有通信行业工作经验者优先。",
+      "postDescription": "岗位和职责要求\t：\n1、扎实的Linux操作系统和网络基础知识； \n2、精通一门以上脚本语言(shell/python/go等其中一种)；\n3、至少熟悉一种开源监控系统 (zabbix、prometheus、open-falcon等),对监控优化有深入理解； \n4、熟悉Nginx、Tomcat、MySQL、Redis、Kafka、ClickHouse、Flink、ELK等的日常维护与优化，且熟练操作Mysql、Kafka、Redis；\n5、熟悉CI/CD持续集成与持续交付，熟悉Gitlab、Jenkins、Ansible、Grafana 等工具使用；\n6、熟悉国产操作系统（如bclinux8.2及以上的bc、欧拉openEuler等）、国产数据库（如：AntDB、dameng、GreatDB等）、国产中间件（如：BES、flyserver等）的使用；\n7、有较强的自学能力，善于钻研新知识、新技术；\n8、有良好的沟通能力，团队协作精神和工作责任心；\n9、1年运维工作经验，有通信行业工作经验者优先。",
       "encryptAddressId": "4a44529b12af6e961nR409S-ElVR",
       "address": "南宁良庆区亚信科技(五象绿地中心店)广西南宁市良庆区平乐大道15号-绿地中心2期-2号办公楼-4楼",
       "longitude": 108.38031,
@@ -33,22 +33,22 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "系统运维",
         "Nginx",
-        "MySQL/Oracle",
         "Java",
-        "通信相关专业"
+        "通信相关专业",
+        "MySQL/Oracle",
+        "系统运维"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "吴女士",
       "title": "招聘经理",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210415/131bbad92b098f726d25562586874f054f3c9d456754da73071912c969f_b.jpg",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240912/607f1f3d68754fd0a9d2d9b995e481afa7a294371d83baaa4f3c9d456754da73071912c969f2a6d_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "博彦科技",
       "bossSource": 0,
       "certificated": true,
@@ -56,7 +56,7 @@
       "avatarStickerUrl": null
     },
     "brandComInfo": {
-      "encryptBrandId": "e715aa1be4283fc21nd62tq5",
+      "encryptBrandId": "423a6ce28f3345a51HJy2dS5FlY~",
       "brandName": "博彦科技",
       "logo": "https://img.bosszhipin.com/beijin/mcs/banner/eb7c416aa1c228b43cbae35dbf1e6990cfcd208495d565ef66e7dff9f98764da.jpg",
       "stage": 807,
@@ -74,7 +74,7 @@
         "免费班车",
         "节日福利"
       ],
-      "activeTime": 1723793948030,
+      "activeTime": 1726313457635,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "博彦科技",

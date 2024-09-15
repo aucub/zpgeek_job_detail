@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6QWfEHnVo5CXg-N1LWycOc9TrdsNAaXEWrB9VN8Q8oQkkeyiu4rNTCeOeg578-mwFJqx5gf1EdWvXRkiaY_NCU7_t8HtyEY77wvLOeOO3cmkXnWmYCOu-ssGUTOloYCTYDHV2-A0Vt8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ba155c35f9e53e2333x62Nq0ElQ~",
+      "encryptUserId": "0849f73c61e02fd91Xx52di-EVI~",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、参与公司项目的设计开发与实现；\n2、负责公司已有的智慧旅游产品（包含项目）的升级与维护；\n3、参与研发公司全域旅游&&本地生活电商系统等产品；\n\n工作要求：\n1、有扎实的java基础，熟悉MVC原理，熟练使用idea、eclipse开发工具，可独立完成功能设计；\n2、掌握Spring、SpringBoot、SpringCloud等主流开发框架及底层原理和机制；\n3、熟悉分布式系统设计和应用，熟悉分布式、缓存、RabbitMQ消息队列、搜索机制，能对分布式常用技术进行合理应用，解决问题；\n4、熟练Mysql、Mybatis-Plus、Redis、ElasticSearch等数据库相关技术，对SQL性能优化有经验；\n5、熟悉Nginx、Docker容器.；熟悉使用linux基本操作，具备linux环境部署经验；\n6、具备在线电商、本地生活服务系统开发经验优先；\n7、具备浙政钉、浙里办、第三方支付等开发经验优先；\n8、具备信息系统规划、技术架构设计、系统集成、大数据开发等经验优先；",
+      "encryptAddressId": "312eb154f99ed33a1nV72Nm-FlVZ",
+      "address": "杭州滨江区海越大厦1505",
+      "longitude": 120.21254,
+      "latitude": 30.210774,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/43ab0c5399aeb9dea1b53e4b171e8478",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/731b5deb5e7e6b3ed3c3a21cd0dbd863",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "数据库开发",
+        "MySQL",
+        "微服务架构",
+        "SpringBoot",
+        "SpringCloud",
+        "服务器端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "途马",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "abc592536f7a4e9003F-0ty5GQ~~",
+      "brandName": "途马",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190523/22c79c464b901123ee78be5e4b70fa6c3fe2119603be2bdcdf8a98578699d0d4.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100009,
+      "industryName": "旅游",
+      "introduce": "杭州途马有限公司是中国智慧旅游产业顶级服务机构，致力于促进旅游产业智慧化项目高视野，科学化落地；设立系统咨询，建设规划，定制研发，技术支撑，维护运营，大数据分析六大专业平台，为国内智慧城市、全域旅游示范区，各类型特色小镇、国家旅游度假区、国家5A景区、乡村旅游及相关旅游企事业单位提供标准型，专业型，数据型的系统咨询建设落地服务。\n      途马拥有超过10年的系统咨询及开发运维经验，拥有一支以智慧系统软硬件专业为主，综合智慧城市，智慧旅游，智慧小镇，智慧乡村，旅游投资开发，商业运营等各个领域的专业团队。",
+      "labels": [
+        "定期体检",
+        "年终奖",
+        "交通补助",
+        "节日福利",
+        "住房补贴",
+        "零食下午茶",
+        "项目提成",
+        "房补",
+        "五险"
+      ],
+      "activeTime": 1725714804000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "途马",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "gEw5-M5I5eRCC-Q1ztdBpz4miCOZ1nD1zsxhHOE1Pc986hMQrG6UKNnic4yqSwLHpMqcXgOSX6UHSc-O0aUScIIGJbqUouuHqq1knHjMZoL-_56WRfN_FsG7-wf0Mg9LP5oT8-1CRLGwhw~~",
+    "securityId": "30kd4ekI1kc8A-p1apz6tyq7teGZhYUExlrRb28sLzSPiGTmX3bSk3SFPwFmdzvzjswqdz8P3YsMPU-6niYF5yGw1RQFZHnfe46JDMi5FGJi0S6wmuJz1W69tu9oyXAPI_zdGQJCETJaAg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,9 +21,9 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "9-12K·13薪",
+      "salaryDesc": "8-12K·13薪",
       "payTypeDesc": null,
-      "postDescription": "职责描述：\n\n1、负责业务系统技术、架构及功能设计，并编制相关技术文档；\n\n2、负责制定开发计划，组织人员完成项目功能开发；\n\n3、负责业务系统功能的单元测试和现场调试；\n\n4、负责对已有系统功能进行维护及二次开发工作；\n\n5、负责对开发任务进行有效的进度、质量及风险管控；\n\n任职资格：\n\n1、3年及以上基于Java开发经验，熟悉数据结构与算法设计，了解并发程序设计；\n\n2、对分布式消息中间件以及分布式数据库有过开发经验，熟悉分布式架构且有开发经验，熟悉redis、MQ，java开发。\n\n3、精通掌握常用的设计模式，精通数据持久化、缓存、消息、通讯等的相关开源框架，对大容量、高并发系统的设计与调优有丰富经验尤佳；\n\n4、精通一种关系数据库如MYSQL或ORACLE，并能根据业务需求设计数据库结构，对慢查询分析优化的能力；\n\n5、熟悉Linux操作系统，掌据常用linux操作命令；\n\n6、熟悉Java的Spring Cloud,Spring Boot, Spring JPA, MyBatis等框架；\n\n7、有物流行业软件开发经验；\n\n8、积极主动，有较强的责任心，并具备良好的沟通能力、理解能力和较强的学习能力，具备优秀的技术与业务结合能力，具备团队合作精神。",
+      "postDescription": "职责描述：\n\n1、负责业务系统技术、架构及功能设计，并编制相关技术文档；\n\n2、负责制定开发计划，组织人员完成项目功能开发；\n\n3、负责业务系统功能的单元测试和现场调试；\n\n4、负责对已有系统功能进行维护及二次开发工作；\n\n5、负责对开发任务进行有效的进度、质量及风险管控；\n\n任职资格：\n\n1、2年及以上基于Java开发经验，熟悉数据结构与算法设计，了解并发程序设计；\n\n2、对分布式消息中间件以及分布式数据库有过开发经验，熟悉分布式架构且有开发经验，熟悉redis、MQ，java开发。\n\n3、精通掌握常用的设计模式，精通数据持久化、缓存、消息、通讯等的相关开源框架，对大容量、高并发系统的设计与调优有丰富经验尤佳；\n\n4、精通一种关系数据库如MYSQL或ORACLE，并能根据业务需求设计数据库结构，对慢查询分析优化的能力；\n\n5、熟悉Linux操作系统，掌据常用linux操作命令；\n\n6、熟悉Java的Spring Cloud,Spring Boot, Spring JPA, MyBatis等框架；\n\n7、有物流行业软件开发经验；\n\n8、积极主动，有较强的责任心，并具备良好的沟通能力、理解能力和较强的学习能力，具备优秀的技术与业务结合能力，具备团队合作精神。",
       "encryptAddressId": "1fbfd64ec3cc94270XZ-2di7EFtRwYS2Wf0~",
       "address": "杭州滨江区中财大厦9楼车车多",
       "longitude": 120.213856,
@@ -33,13 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
         "Golang",
-        "Spring",
-        "Zookeeper",
+        "Java",
         "Hibernate",
+        "Zookeeper",
+        "MySQL",
         "Redis",
-        "MySQL"
+        "Spring"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -49,13 +49,13 @@
       "title": "人事专员",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd095ea806a552dfe6a091f90d8d02ec8837e5b8ba103a2761adc6b7a4fb96_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "3日内活跃",
       "bossOnline": false,
       "brandName": "中财招商投资集团",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "9c500441bfd112fb1nF_0t2-FQ~~",
@@ -81,7 +81,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1724749238707,
+      "activeTime": 1726236974621,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中财招商投资集团",

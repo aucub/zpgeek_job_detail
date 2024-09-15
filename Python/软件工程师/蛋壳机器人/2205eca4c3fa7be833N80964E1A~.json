@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Zkrh7gacAmExa-b1NcfKmcl3iud29PJvw5H-qVdqErGmNOZy0tLpauDnljvQbvLGhD-D6Xt4T6q_xRQsn_TlBDNNYiJ5V7gu0DD3F25E2wMnNHoniAtxPm6LK-HqR5fkOH1oKiit",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2205eca4c3fa7be833N80964E1A~",
+      "encryptUserId": "c10c6f568cc7833a1n192tq6GVU~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101301100,
+      "locationName": "钦州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位招聘要求：\n1.本科及以上学历，计算机相关专业；\n2.Python基础扎实，熟悉常用的类库和算法；\n3.掌握Tornado、Django、Flask其中任一web框架；\n4.熟悉tensorflow，熟悉数据模型训练者优先；\n5.有爬虫系统开发，开放API数据平台对接经验；熟悉常用爬虫框架者优先；\n6.有自然语言处理经验者优先；\n7.熟悉Java/C语言开发者优先；",
+      "encryptAddressId": "fe68aa9e132e894a1nVz3N60F1U~",
+      "address": "钦州钦南区中国-马来西亚钦州产业园区智慧园5号楼4层",
+      "longitude": 108.678282,
+      "latitude": 21.767306,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6389ce2238d531e8cde4b4524b9c2b96",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1cadfcf7720fc56251da1da256e3926",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Flask",
+        "Django",
+        "Tornado",
+        "自然语言处理",
+        "C语言",
+        "Python",
+        "网络爬虫技术",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161024/c0686e38d42bdb0fd0d64656500ba4f68c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "蛋壳机器人",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0c31dc37544db21c1XF_3t8~",
+      "brandName": "蛋壳机器人",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160414/493ec28e2e9d1fdbda478d16088063d201217e822bde056ecc1a2226dad28dcf.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "蛋壳机器人科技是一家专注于家用智能机器人设计和制作的创新型科技公司。团队总人数28人，其中博士2人，硕士5人，本科学历以上人员占总人数75%以上，直接从事科技活动人员占总人数80%以上.",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶"
+      ],
+      "activeTime": 1723822845727,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蛋壳机器人",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
