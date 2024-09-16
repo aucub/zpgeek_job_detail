@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "6npXAnEpKl3cn-K1NRbDS_64mbAvgTVi9yF_sy-SWxzsTlNyqTvB3gvtZ39VRzYTkZzoN1m9NLZ0dXj5S096fLVpcofTtOfX0i49LG8alb-T5oQGZsjASkHr8PFvUJ0HoysYVQscvXw~",
+    "securityId": "CdFWEqcfa1GEk-f1R9GIoak7nqOyu5-5djqNqlNxZjCDpKm-lfhHYJieR47dKA_KT_R7W2NeqqF8f9ickqqmKe8Fy-FcUVJKJkFbI181IYJo1hgDAA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-13K·13薪",
       "payTypeDesc": null,
-      "postDescription": "顺丰直招  顺丰直招  顺丰直招\n上海、深圳岗位均在招聘中\n一、岗位职责\n1、跨部门沟通，负责收集结算财务提效需求；\n2、熟练利用Ptyhon编写办公自动化工具，制作自动点击脚本，实现程序自动运行，提高办公效率；\n3、熟练运用Python办公自动化，如pandas，openpyxl，python-docx等库；\n4、熟悉MySql，PostgreSQL等关系型数据库语法者优先；\n5、完成上级交办的其他工作事项；\n\n二、任职资格：\n1、 全日制专科及以上学历，\n2、精通Python3语法；\n3、 熟练掌握常用办公软件及相关软件使用（EXCEL、PPT、SQL、常用函数等）；\n4、有较强的语言沟通能力和团队合作精神，能够承受一定的工作强度及压力；\n5、工作积极主动，严谨好学，对待工作具备高度责任心；\n\n三、其他：\n1、工作时间：9：00-18：00，周末双休，如遇公息日加班可申请调休。\n2、薪资待遇：面议，入职即缴纳五险一金，提供通勤班车（青浦区，闵行区、嘉定区等区的地铁站附近设有多条班车线路）、工会礼品福利等。\n3、工作地点：上海市青浦区华南路555号",
+      "postDescription": "【顺丰直招】——上海办公\n一、岗位职责\n1.熟练使用 Python 编写办公自动化工具，掌握 Selenium 自动化爬虫库，实现程序自动化运行，以提升办公效率；\n2.精通 Python 办公自动化库，如 Pandas、openpyxl、python-docx 和 CSV，通过自动化匹配、增删查改等操，作优化工作流程，简化重复性任务，提升工作效能；\n3.熟练运用 Requests 库对页面接口和结构化页面进行数据获取、清洗和存储；\n4.主动发现、了解并收集结算部门的财务个性化对账需求，在进行风险评估后，研发智能工具，实现质量提升和效能增强；\n5.负责结算部门运维的可视化看板分析和制作，包括数据看板、报表可视化设计和数据图形展示，实现实时数据监控和可视化管理；\n6.高效完成上级交办的其他工作任务，包括开展 Python 赋能课程、知识分享、自动化工具推广和跨部门沟通协作等；\n\n二、任职资格：\n1、 全日制专科及以上学历；\n2、需精通Python3语法，如熟悉MySql，PostgreSQL等关系型数据库语法者优先；\n3、 熟练掌握常用办公软件及相关软件使用（EXCEL、PPT、SQL、常用函数等）；\n4、有较强的语言沟通能力和团队合作精神，能够承受一定的工作强度及压力；\n5、工作积极主动，严谨好学，对待工作具备高度责任心；\n\n三、其他：\n1、工作时间：9：00-18：00，周末双休，如遇公息日加班可申请调休。\n2、薪资待遇：面议，入职即缴纳五险一金，提供通勤班车（青浦区，闵行区、嘉定区等区的地铁站附近设有多条班车线路）、工会礼品福利等。\n3、工作地点：上海市青浦区华南路555号",
       "encryptAddressId": "49360a78deb96f280Hx539i-GVY~",
       "address": "上海青浦区顺丰丰泰产业园·上海青浦B栋",
       "longitude": 121.205967,
@@ -33,9 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
+        "爬虫",
+        "爬虫经验",
         "Pandas",
-        "MySQL"
+        "MySQL",
+        "Selenium",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -43,7 +46,7 @@
     "bossInfo": {
       "name": "张女士",
       "title": "人事专员",
-      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230316/607f1f3d68754fd08c4b2e6e0f0cde1819378658b0ce245144eb77ad9f68fc6aa10dd020e2e_b.jpg",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
       "bossOnline": false,
@@ -81,7 +84,7 @@
         "住房补贴",
         "零食下午茶"
       ],
-      "activeTime": 1719296526780,
+      "activeTime": 1726490681055,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "顺丰速运",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "upmqe56gMZjBm-G1BVjvbDxZEGf6CuxbqednEwUCw2wf5FEwx-S0BO_muhZNGS35oo9-M0YCJCmApVP-oMiQEV0l0IQnb_LZsmDEwOrarue1lJPvnEMB-5lIBAqr5TkZ8bbOTi_o-88FYgigoOOJmlxIfiJpYKhNLmoh4qtAeNbUOA~~",
+    "securityId": "wnnRw3CdM8Fg5-z1wK_MqT3ll2EIStmKRhzykdb-vCd_Fa5Iti52hHipn9ydOFf3O26emFL1cyPNdZdjULrr7S2I_Jd2gdb0rqsCmKhblAMAg6_j2kWSGHih853XCM3wBy4MQUIOAw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -34,13 +34,13 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Spring",
-        "SpringCloud",
+        "不接受居家办公",
         "Docker",
-        "Oracle",
+        "SpringCloud",
         "MySQL",
         "SQL Server",
-        "不接受居家办公"
+        "Spring",
+        "Oracle"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,13 +50,13 @@
       "title": "招聘专员",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=f436f8eeffea1ddfjzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6R8oFd9ZgnU4sNomudk6TgbonuA0NunzeZlUtea8Xmh6NVpSpHVb9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "迪爱斯",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": null
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "80479d9b81eafb351HN72tW1GA~~",
@@ -83,7 +83,7 @@
         "零食下午茶",
         "其他福利"
       ],
-      "activeTime": 1724391180834,
+      "activeTime": 1726302819347,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "迪爱斯",

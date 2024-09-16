@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "VPnZGS3ha8RMs-P1kQO-RtomKg_arT8nF1x8D9shnIaSPhajdz9oI31qx0c4ETy8IrOUU-GS4tNfoqJ9-UBMv_QrqT5yDL7vXQ1GdZpblyffttjTNT3bBx2BQjxPWc-7Rowzu0PrEzjpJw~~",
+    "securityId": "QpWW0EIlOOuX--M1sVoINzJCNNIEcyWrahmGyAotP8urWFQL4vXh4J-hdJ7QVF57NHiuIZ2oEcoz_5z-ph4uVuEPfq9X9kI6lEJufZu2sEUiZLWtKwbF2cz2KdG-S6MLAOqLIlTlHcQLJg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -34,10 +34,10 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Spring",
-        "Redis",
         "MySQL",
-        "计算机相关专业"
+        "Redis",
+        "计算机相关专业",
+        "Spring"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,13 +47,13 @@
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220808/607f1f3d68754fd0b3e988da071981fb5a3b38d89cc487794801ba95a908e5196b452c8d521_b.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "上海飞奥",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "de31665dce3462591nFz2dm0Eg~~",
@@ -75,7 +75,7 @@
         "零食下午茶",
         "节日福利"
       ],
-      "activeTime": 1724291366213,
+      "activeTime": 1726209525280,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海飞奥",

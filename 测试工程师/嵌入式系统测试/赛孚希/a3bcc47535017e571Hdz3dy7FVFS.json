@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "y71leD-vnYReq-Z1muimkLNOTFnRAva0e04DP4ZqzWYw1p1mlFtTY0xT8Zhky-6KZSxOBeSv7-i7JPwg2ugOdwyDYWY_GLaotscHjWPGThZCevpjVwaAVXfP3LiZpxCDrqKdle-wWRkEfyrrNRldtBk~",
+    "securityId": "eGtgrlWBmVAAr-T1dpLO6YxrWw0g6DOy07TJ9d8k5Bg0rwI5lfH7CGBuKg0xQ9R7gEnh6OvL1DatoJNuajlkV95d2yLF99GXWolWxibgtVgWN_ojcF8~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,9 +33,9 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
         "医疗",
-        "pingcode"
+        "pingcode",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -45,8 +45,8 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "赛孚希",
       "bossSource": 0,
       "certificated": true,
@@ -86,7 +86,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724745789598,
+      "activeTime": 1726203951160,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "赛孚希",

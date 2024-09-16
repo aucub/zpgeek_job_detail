@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "LQwDodY0nh4YS-H1KjSsXH8q57plhUvmHjrPUOB4VWs4Pxd9k4JRpLBMAdu_2DVsVBUChxnCrRxekgLwiDtXkSQx5-DlvcD3opMCJyIFXrVb1WBm8smsMFhUTBsRU9E1ZuHC1_Du3z1Ab23McPorkqc~",
+    "securityId": "fiIZIaSDqBnu3-01GkwVAPk6jEw56J__jFrpQHlQ5CiKUstYYykYNb3JixvihU1TnvgMrTh5-i9HK3M1IB3tQvGoT2o3pdzX1U1ArRSUW3MatQOabnI~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -48,13 +48,13 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240429/607f1f3d68754fd033424a825224e4a174fc3be5f8c2d7410f5c354137abfe7445f4177c42d6210_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
       "brandName": "上海鼎为物联",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "0cc8fc2a7c54f67e1XR609u6GFE~",
@@ -79,7 +79,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1719308843743,
+      "activeTime": 1725261133000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海鼎为物联",
