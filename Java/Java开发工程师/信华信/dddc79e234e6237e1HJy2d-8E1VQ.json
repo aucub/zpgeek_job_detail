@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "hwOG9q-4_Kzw8-F1j7PteIQ7d5i_08yfinJuZhF4qOqCM92rI4GtKLMnHCGuuDpgH8ArlduWqe0-xNYVwb8GR2ZKWZ7g-cl8-1Qb-V9O2a3RsJT6AD_R2480u6PQARZRZAKjPd33qPEwsUC4nGnGwr6iqq-cQ3ERRej2jzu3oPqjdV-f",
+    "securityId": "6hSSnOaER5Hjd-o1IyUPKqYyem1HtNGrZl-LXiL0oczlVZOe6FejiQxOIbvpayAEVNSdwHMB4I6jLZZSd6lqvYJHzw_lvTxM6FEacm8aCVOrdyt5wF0-0JZUMQ_JoIdQR2bMfFb_3ktc-g~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -35,8 +35,8 @@
       "showSkills": [
         "Java",
         "SpringCloud",
-        "MyBatis",
         "MySQL",
+        "MyBatis",
         "Redis"
       ],
       "anonymous": 0,
@@ -47,8 +47,8 @@
       "title": "HR",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=ce1b5cf2835fd4f9jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5ZnHR0s9squN89QwbpzuM2YuSkfJgHsr3vCjp6ZglQonFc_6moQn0eEOTnWkJpl9BEGF-yyqwP-QgfVYGw03V6BXVA80-eI8jtwA~~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "信华信",
       "bossSource": 0,
       "certificated": true,
@@ -82,7 +82,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1721973294637,
+      "activeTime": 1726306983144,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "信华信",

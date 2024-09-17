@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "VMAkO2bvKEBp4-q1beDH1YSLxLHbVSeMv0QYb_SfJ2hsZfQV9RqYjDwj8cdsF3Yp9HyNtuno3LRLBmhpSa6Blkr55X371ibjmeN3P9jUZRQTev7V6xTF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0e36a40fcba2cc381HB929y5GVtT",
+      "encryptUserId": "60a2f803e44046840nV-2dq0GVNS",
+      "invalidStatus": false,
+      "jobName": "算法测试/运维工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、掌握理解新需求，理解业务场景，完成测试用例、思维导图、测试方案设计与编写，并组织测试方案评审；\n2、独立开展测试分析、测试执行，发现缺陷，跟踪定位缺陷，并控制项目质量风险；\n3、负责业务接口测试实施及自动化测试脚本编写；\n4、负责API接口的功能测试、性能测试等工作；\n5、闭环整体需求测试，协助算法工程师完成算法上线工作；\n6、承担算法上线后的部分运维工作，需要根据前台反馈的问题，迅速对问题进行定位，并给出分析结果。\n任职资格：\n1、熟悉postgresql、MySQL等数据库，熟练编写SQL语句；熟悉常用redis命令；熟悉常用git命令；\n2、有一定编程基础，熟悉Python、Java、Go、C++其中的一种，Java最佳；\n3、熟悉MQTT、kafka、RocketMQ、es等中间件者优先；\n4、熟悉K8s、docker、docker-compose等技术优先；\n5、良好的逻辑思维能力，快速定位问题；\n6、本科及以上学历。",
+      "encryptAddressId": "1559a9ef0cd438730XNy3t26GVJSwIi4U_k~",
+      "address": "苏州虎丘区天都大厦北楼15层",
+      "longitude": 120.548657,
+      "latitude": 31.281512,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230422/48ba41acc9cef1bfcaef91939cf86096eb931127de9257af6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf8544864aa3ac9a135a1bcdb6ac6929296bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "不限",
+        "算法开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "固德威",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e27e4e9244656f4d1n1-3927GFc~",
+      "brandName": "固德威",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221114/7bf6f160950405e9dbfc028e264f75af8ac1094cbe05cc06a1ac72d6797a4299250296a017f4bcc0.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "科创板上市企业，高新区龙头企业",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1724680278000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "固德威",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

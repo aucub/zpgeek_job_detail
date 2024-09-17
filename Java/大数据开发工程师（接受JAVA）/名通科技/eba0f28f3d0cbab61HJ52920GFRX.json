@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "CEK4LHU0jiriK-11Fl1fsYvOeQ_XymbfbLu3P_XEa0z2owQH3f5hHQyuqaDiQpv5LiE-kvEhiuIuU6J8nYKhXgTzP8qNGlk8bhVr_NPyiTXsKtjYqpZWH8_lYsSJkAi6laAjH_l9yqggeBt_NBo0_H0NGriHBWZlMVXUHg91TavD6cY~",
+    "securityId": "Ms5IwUJEsEU6M-R1W9OgwhnOe7yulDoakEERcn-_rmimzDN3KZvistneiGPFUrDU7Bz7AolsRLppDmzrgKfklSc8ngdXFNiscOw0vQILh77sgzcCOQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "8-11K·13薪",
       "payTypeDesc": null,
-      "postDescription": "1、本科以上学历，计算机相关专业优先；\n2、有1年以上java开发工作经验，接受24届有半年JAVA实习经验，需要接受JAVA转大数据开发方向；\n3、掌握项目管理流程、具备较强的需求分析能力；\n4、具有较强的协调能力、沟通能力和统筹管理能力；\n5、具有较强的责任心和工作热情，能在高压下工作；\n6、有DEVOPS认证优先；\n7、具备统计学、数据分析相关背景优先。",
+      "postDescription": "【岗位职责】\n1、需求分析：深入理解业务需求，分析业务逻辑，根据数据特性、时效要求、生产环境等因素确定合适的加工引擎\n2、数仓与程序设计：基于需求文档中的要求，按照数仓理论科学建模，合理分层；对中大型任务做出清晰的数据加工流程设计。\n3、数据加工应用开发：对设计完善的加工方案进行编码实现，遵循代码简洁之道，不断提升代码健壮性，充分考虑运维简便性，精益求精。\n4、程序测试验证：完成开发的功能在本地充分自测，保障数据加工结果满足预期，加工口径无偏差；核心模块需编写单元测试。\n5、程序部署维护：程序交付时需按要求归档，部署后提供清晰的维护说明；上线后发现故障需积极协助运维解决，并总结经验，减少重复故障。\n6、通用工具设计与实现：对负责的模块归纳整理出复用性强的解决方案，设计实现出通用的算法包或通用工具，提升团队整体效率。\n7、工作量文档编写：按项目要求对负责的模块拆分工作量，包括cosmic、nesma等工作量评估模型。\n【岗位要求】\n1、本科以上学历，计算机相关专业优先；\n2、有1年以上java开发工作经验优先，接受24届有半年JAVA实习经验，需要接受JAVA转大数据开发方向；\n3、掌握项目管理流程、具备较强的需求分析能力；\n4、具有较强的协调能力、沟通能力和统筹管理能力；\n5、具有较强的责任心和工作热情，能在高压下工作；\n6、有DEVOPS认证优先；\n7、具备统计学、数据分析相关背景优先。",
       "encryptAddressId": "04ab989ade97ed3e33J82d-8F1tZxY23V_k~",
       "address": "深圳南山区金融服务技术创新基地2栋10A-1",
       "longitude": 113.946464,
@@ -34,11 +34,11 @@
       "overseasInfo": null,
       "showSkills": [
         "Java",
-        "Spring",
         "SpringCloud",
         "Spark",
-        "HBase",
-        "JAVA转大数据开发"
+        "Spring",
+        "JAVA转大数据开发",
+        "HBase"
       ],
       "anonymous": 0,
       "jobStatusDesc": "最新"
@@ -49,12 +49,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210924/607f1f3d68754fd0a838df255981072d7431b0b9718b5132d909371edf948594f2527f10e17_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "名通科技",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": null
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "40be0540a3bc63751Hx42N6_",
@@ -83,7 +83,7 @@
         "生育礼金",
         "结婚礼金"
       ],
-      "activeTime": 1719374783110,
+      "activeTime": 1726584178406,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "名通科技",

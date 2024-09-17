@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "xiabu0vtJziUy-M1EHHWtEzO3lakcoaS8CgM4hmyPkwusapc2dNpOpx_gPzeX7j8LyjhuBbsI3GpBSg4ViMeiLCjBKuu9K9f7wXISJ0xSTv9sYtXTN9s0Nyr1mpCyNQenfSYRD0S8ISwg-VOOG5p5zdU",
+    "securityId": "0Ex9SCJLrDRv--q19RF5nZgw6ci5ILNUlxZy361WG2qVhQ5ACnj1e0KW1OsrTIo8e5Vi2mDzRGTHxc2gssSb5gi0ip8ezD67Rc39WN7KkosOQdt2mEYG",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,11 +33,11 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "CCC/3C认证",
-        "EMC认证",
-        "FCC认证",
         "第三方机构岗位",
-        "RF"
+        "RF",
+        "FCC认证",
+        "EMC认证",
+        "CCC/3C认证"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -48,7 +48,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231108/607f1f3d68754fd0cf0c14bcbfb51708841454d9442ddaeb7d17fa9a8c56d8cc6e04605be2dbb3b_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "深圳倍科电子技术服务",
       "bossSource": 0,
       "certificated": true,
@@ -88,7 +88,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724307411905,
+      "activeTime": 1726554743593,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "深圳倍科电子技术服务",

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "oQnwm00k1LkiZ-a1AlQxaUYrJGEUSsQoj6wDe-9T5fOGO1xPFPa71IlIHNJhya71s3-vsWEUy_tVerjxeaI0F2e7WBRFg4BSFuR4Q_IrxD4oXQv0o3Y~",
+    "securityId": "JhXCArTaLRzh1-w1FC4zgWxU5xUBjhhavQYKNK9fFnwTGyeRcvq_evFVA97su1ANz-ASzmA8p5Buu8TBXfluqv5iPl0WrxAiMUSFq5oQ0X5mWaaqkGM~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "9-14K·13薪",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责应用系统日常运维工作，包括系统的变更及发布审核、运行监控、事件响应及处理；\n2、从应用系统架构、监控、容量、性能等方面进行分析以提前发现隐患问题，并推动优化解决，不断提高系统运行稳定性；\n3、合理优化服务架构、提升硬件利用率，降低运营成本；\n4、协助开发工程师进行系统故障排查、架构设计。\n\n岗位要求：\n1、熟练使用 Linux 操作系统和常用命令；\n2、熟悉网络、安全相关知识;\n3、熟练使用 Shell 脚本;\n4、熟悉 Mysql \\ Redis \\ Nginx \\ Kafka  等常见服务的安装、配置以及应用；\n5、熟悉 Docker 相关基础知识与生态；\n6、对CI/CD流程制定与集成有实践经验;\n7、思维逻辑清晰，具有较强逻辑思维能力、沟通能力。\n\n加分项：\n1、有 K8s 集群经验;\n2、一年以上腾讯云平台、服务的深入使用经验；\n3、一年以上 20+ 台独立服务器的运维管理经验；\n4、有中大型网站运维、集群设计和实施经验；\n5、有项目开发经验，可独立负责一个中小型项目的开发。",
+      "postDescription": "岗位职责：\n1、负责应用系统日常运维工作，包括系统的变更及发布审核、运行监控、事件响应及处理；\n2、从应用系统架构、监控、容量、性能等方面进行分析以提前发现隐患问题，并推动优化解决，不断提高系统运行稳定性；\n3、合理优化服务架构、提升硬件利用率，降低运营成本；\n4、协助开发工程师进行系统故障排查、架构设计。\n\n岗位要求：\n1、熟练使用 Linux 操作系统和常用命令；\n2、熟悉网络、安全相关知识；\n3、熟练使用 Shell 脚本；\n4、会运用简单的 python 写脚本；\n5、熟悉 Mysql \\ Redis \\ Nginx \\ Kafka  等常见服务的安装、配置以及应用；\n6、熟悉 Docker 相关基础知识与生态；\n7、熟悉任意一门编程语言，包括但不仅限于 C、C++、Python、Java、Javascript、Golang、Ruby、PHP；\n8、对CI/CD流程制定与集成有实践经验；\n9、思维逻辑清晰，具有较强逻辑思维能力、沟通能力。\n\n加分项：\n1、有 K8s 集群经验；\n2、一年以上腾讯云平台、服务的深入使用经验；\n3、一年以上 20+ 台独立服务器的运维管理经验；\n4、有中大型网站运维、集群设计和实施经验；\n5、有项目开发经验，可独立负责一个中小型项目的开发。",
       "encryptAddressId": "2ad97f02893fa6a91nB-2dm6EFZQ",
       "address": "深圳龙岗区京基御景时代大厦南区1004A",
       "longitude": 114.217647,
@@ -33,9 +33,9 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
+        "Ansible/Salt/Puppet",
         "系统运维",
-        "Kubernetes",
-        "Ansible/Salt/Puppet"
+        "Kubernetes"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -45,7 +45,7 @@
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221123/607f1f3d68754fd0fd416c811eeea80b204059d8a61c11fd6913c37fdb2d280a3a373938ab4_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "滚水科技",
       "bossSource": 0,
@@ -73,7 +73,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1720345818630,
+      "activeTime": 1726307131517,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "滚水科技",

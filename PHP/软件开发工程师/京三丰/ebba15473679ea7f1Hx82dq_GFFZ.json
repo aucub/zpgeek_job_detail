@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3aeNPTgtjyaFq-W1TxAO4z7mokw_AOEAJs8A0q3yTBDjTZ1l3loyHIEqQ-e0gvDEZPV_9suHj24b8425E1Td_VwwPBA0HEnzlSH_92FG581oRnXhdCNT5LWvtjtUkLe94J78eHpap36PsKw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ebba15473679ea7f1Hx82dq_GFFZ",
+      "encryptUserId": "43cbec065beb03611XV629u5FFZZ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：1、参与公司软件开发，包括前端或后端的相关工作；\n2、进行代码编写、测试和维护；\n3、与团队成员合作，确保项目按时按质完成；\n4、学习和应用新技术，提高开发效率和产品质量。\n任职要求：1、计算机专业或相关领域的在校学生或应届毕业生；\n2、熟练掌握和应用JavaScript、HTML、CSS和PHP等开发语言，以及bootstrap、layui、thinkphp等框架；\n3、精通MySQL、Oracle、MongoDB等数据库部署和开发；\n4、熟悉linux系统安装和服务器部署；\n5、有使用版本控制系统（如Git）的经验；\n6、良好的逻辑思维能力和问题解决能力，能够快速学习新技术和工具；\n7、良好的沟通能力和团队合作精神；\n8、要求每周至少工作5天。\n行业经验：1、软件开发项目经验；\n2、前端框架语言（bootstrap、layui、vue等）、后端框架语言（thinkphp5等）；\n3、数据库开发语言，如MySQL、Oracle、MongoDB；\n4、熟悉小程序开发，并有相关项目开发经验；\n5、熟悉地图开发",
+      "encryptAddressId": "94dd6a2797c0ee061nVz29u7F1pQwom7Uvua",
+      "address": "北京大兴区亦城国际中心亦城国际中心B座1106",
+      "longitude": 116.503547,
+      "latitude": 39.802203,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bf5971d65d68b2be03ea31dd9475f376f76bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bff34d749ec17e58824fb67e4f6d2428856bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务端开发经验",
+        "PHP开发经验",
+        "JavaScript",
+        "PHP",
+        "MySQL/Redis/MongoDB",
+        "大数据项目开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "现场运营",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=43dbc498a566132djzA-m563D00Jn9uhBaPOG676zqmHfEg7nv4NhOyzeJ3mBExXeaHUh7gqYIH4qgVxQI8NyD507IV-6YxxSAe8kbU9NOvveZkE6e2-CGovMlZQ8XNc9_OmG3MeH-WwWkE9kIhJTQ79jPFa&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "京三丰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0c52f08a36f38b621nVz09S8FlM~",
+      "brandName": "京三丰",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100508,
+      "industryName": "同城货运",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726563509372,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京三丰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

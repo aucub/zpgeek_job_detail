@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8sRpMginPqVcC-k1xvY2c8-jl1pYOKfs74glwxRurehs3hFg1Dr4pknzZB-vrlIn8t2huffhr4GTWXt9nyrXx919TaGdbTC_alrTT3ZXH5JthPdug2w1LyHVdgo4d6qUN1Z-_E_lOqaQS5APA5J6Tw~~",
+    "securityId": "ds1CYXaoGlQFN-O1LarfJFQR2a6hakBrn_H5d7Vk1YGmPC633DlCweTuzOBGyW1FeJFffb9tZ48_eZss2CYfCxS8CxIV358KLR2xeOR3MhwjhTiqhg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "7-12K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责:\n1、负责和参与软件测试的相关工作，包括软件单元、接口测试、集成测试和软件系统测试(测试需求分析、测试用例的设计、测试环境的建立、测试方法的设计与实现)。\n2、负责搭建测试环境；\n3、负责编写测试需求规范，测试用例，测试脚本等工作;\n3、手动或通过自动化工具执行测试用例；编写Python测试脚本;\n4、记录，整理并分析测试结果，编写测试报告；\n5、进行回归测试，协助开发人员分析bug原因，跟踪并验证相关缺陷的修复;\n6、负责相关测试数据的分析，提供产品功能优化、性能改进的建议，撰写并提交阶段性测试报告。\n\n任职要求：\n1、计算机相关专业本科以上学历（统招）；\n2、三年以上软件测试工作经验，熟悉软件测试理论、方法，熟悉敏捷开发流程；\n3、具有桌面设计软件项目和QT项目测试经验，能独立进行用例设计、以及其它测试相关工作；\n4、掌握Python语言编写测试代码；\n5、至少熟悉使用1种以上主流自动化测试框架和工具，如Pytest，Squish，WinAppDriver，Appium 等；\n6、逻辑思考能力强，具备软件测试领域发现、分析和解决问题的能力；\n7、具备接口自动化测试经验，可参与设计用例与脚本编写。\n8、了解MySQL或SqlServer数据库，懂基本的SQL命令；\n9、要有责任心与执行力，具备良好的沟通和合作能力；\n10、熟悉Linux系统操作使用以及环境部署；\n11、熟悉Docker容器化操作优先；",
+      "postDescription": "职位描述：\n1、负责公司软件产品的功能和性能自动化测试；\n2、根据需求文档进行测试需求分析、测试用例的设计、测试环境的建立、测试方法的设计与实现；\n3、负责维护自动化测试框架，编写、维护和执行测试脚本；\n4、负责设计测试方案，编写测试计划；\n5、负责跟踪并推动Bug的解决；\n6、负责分析测试结果及编写测试报告。\n\n职位要求\n1、计算机相关专业本科以上学历；\n2、3年以上软件测试经验，1年以上自动化测试经验；\n3、熟悉至少一种编程语言（如Python，C++，Java等）；\n4、熟练Git，GitLab，SVN等版本管理工具；\n5、熟练且能独立进行UI自动化测试、接口自动化测试、性能测试等至少一种，有实战经验；\n6、掌握至少一种python测试框架，有开发经验者优先；\n7、熟悉mysql，sql server等常用数据库的使用以及常用sql的编写等；\n8、了解Linux基础命令。\n9、了解Qt，熟悉Allegro，AutoCAD等优先；\n10、责任心强、积极进取、善于学习，具备良好的团队协作能力与沟通能力。",
       "encryptAddressId": "eaa2b5f75dc3104d0ndz2Ny4EFVQwY63VPI~",
       "address": "上海徐汇区ALDI奥乐齐(徐汇沪港国际大厦店)上海市徐汇区斜土路2364号3楼306室",
       "longitude": 121.447926,
@@ -33,11 +33,11 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
+        "自动化测试经验",
         "自动化测试",
         "性能测试",
         "功能测试",
-        "Python",
-        "自动化测试经验"
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,13 +47,13 @@
       "title": "招聘经理",
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=803541026aa87c9ejzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoHtxYgno5s9wuvI88GAG5yuA0Nu_4KZAG5ea9Czh9Nl1Q9XVe9qinRyEWFbSyDUI_wNBIG1rjzvwO9VNKV9K31XZ5VCEvtz6HfcU~&radius=15",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "上海弘快科技有限公司",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "04a4df28f239c2341Xd709i-GFI~",
@@ -79,7 +79,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1724745876458,
+      "activeTime": 1726306564079,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海弘快科技有限公司",

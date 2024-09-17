@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "J6zlgR7TIs1Bb-Q1b_6YL-L26afj4QQbjG9StfovYgx6cNFh1VWvTjokpiYklQVBaIP0ypElMEMM4NKQynlEZaiF9OvXsc7To4RXMqafpapA4nER",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "48209e5d7f33e0851XBy09S8FlNY",
+      "encryptUserId": "4752213c1d8a9a3703d82N2-Elc~",
+      "invalidStatus": false,
+      "jobName": "数据分析算法工程师",
+      "position": 100120,
+      "positionName": "算法工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1.抽象不同业务场景下的数据清洗、分布统计、清洗、数据结构化和抽取等工作，数据治理策略制定，搭建数据处理平台。 \n2.使用包括但不限于规则挖掘、有监督学习等方法，对存在于不同业务场景数据中的同一实体进行识别与打通，提升数据使用率。 \n3.基于多源数据，使用实体识别、属性抽取、标签构建、关系挖掘等建立行业知识主题库。 \n4.负责数据平台功能开发，包括数据质量评估、数据价值衡量、数据分析建模功能等开发工作。\n【岗位要求】\n1.计算机相关专业本科及以上学历\n2.具备大规模分布式计算平台（比如hadoop，spark）的使用和并行算法的开发经验。\n3.熟练掌握至少一种编程语言，Python/JAVA/C++。 \n4.熟练掌握机器学习基本算法，对LR、SVM、神经网络、聚类、XGBOOST等有深入了解及应用。\n5.熟悉深度学习，掌握至少一种常用深度学习的框架(PyTorch，TensorFlow，MXNet，Caffe)\n6.具有良好的沟通能力与团队合作精神，具备较强的抗压性和较大的工作投入度，能够自我驱动.",
+      "encryptAddressId": "31bef419f780ceb60X1y29u_EVo~",
+      "address": "成都双流区天府菁蓉中心D区B5号楼26F",
+      "longitude": 104.073927,
+      "latitude": 30.394882,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/303bde941824621e5a824528e84b46f6",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a3d66849e674902de3b88e2536f3577",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Hadoop/Hive/Spark",
+        "TensorFlow/PyTorch",
+        "深度学习经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220209/607f1f3d68754fd0fef66b9f668cc9db3f91b6c3a61889c8d8ed14002c57a67c711fb3c0eb4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "云从科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4dbb2da0939ba60f1Xd50t68",
+      "brandName": "云从科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/bar/20191220/d8c59c71088c88d14884060921027897be1bd4a3bd2a63f070bdbdada9aad826.jpg",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "云从科技孵化自中科院重庆研究院，公司受托参与了人工智能国标、行标制定，并同时承担国家发改委人工智能基础平台、应用平台，工信部芯片平台等国家重大项目建设任务的人工智能科技企业。\n     同时，云从科技吸引并拥有全球的优秀人才，核心技术先后10次斩获国际智能感知领域桂冠及158次行业POC冠军、胜率达到78.4%；\n     运用先进的三级研发架构，云从科技取得3项重大技术突破——国内“3D结构光人脸识别技术”，打破技术垄断；商用跨镜追踪（ReID）技术，纪录保持至今；人体3D重建技术加快算法速度20倍，并将准确率大幅提升30%。\n      云从科技业务涵盖金融、安防、民航、零售等领域，通过行业领先的人工智能、认知计算与大数据技术形成的整合解决方案，已服务400家银行8.8万网点、31个省级行政区公安、80余家机场，实现银行日均比对2.16亿次、公安战果超3万起、机场日均服务旅客200万人次。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724002239487,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云从科技",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

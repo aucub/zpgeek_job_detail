@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "0vkgH59VdyLZ_-c1CK9jEC5I1IYYDWxwmlUc8Xg2nTWSidY8a9wHKTnKrGzR1brJ7wRPWTuzVZ4nXLKPsDdLu_fC3apOoT-BVxwuZF6Yc0WW5qvRmxLi-xlCmM1mhSOaZlqcz-IL5Xxy",
+    "securityId": "HDoC200vJzTI7-f1FZdDosFDO6ougzVr255pHr-AkaNrSoD_y6MYLH5PvYJg4azNywIg9sX2qdwAXYjS5JHopg2NNMhLhLeduZ48wOYsNc3AuCqsVA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
-        "Numpy",
         "MySQL",
-        "Spark"
+        "Spark",
+        "Numpy",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -46,7 +46,7 @@
       "title": "人事经理",
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180917/bca5d3bbed8031b1c42afa4bcf7375dd1aca5e30f6b8dc52e509d768e37_b.jpg",
       "large": null,
-      "activeTimeDesc": "本月活跃",
+      "activeTimeDesc": "2周内活跃",
       "bossOnline": false,
       "brandName": "驰远科技",
       "bossSource": 0,
@@ -77,7 +77,7 @@
         "五险一金",
         "加班调休"
       ],
-      "activeTime": 1722592445000,
+      "activeTime": 1725849011000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "驰远科技",

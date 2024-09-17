@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1VINlj5oOo-kc-p1rvTuFJYrqmO_t8LQxYsy5Z6W59ZukElxOW2ElSLTDrHXoeh2_RErFkOBgrGJxuJ-jTSSCtO6qExvduvPmPZwS5ymJCTpCwSKtXg9",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1b9819c2ca16e9981HRy3dq4EFtV",
+      "encryptUserId": "29f79beec4e377d50nR839-5FVJX",
+      "invalidStatus": false,
+      "jobName": "实施工程师",
+      "position": 100606,
+      "positionName": "实施工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n注：偏硬件，不是纯软件的。硬件设备调试，每个硬件都有调试界面，此岗位不是部署OA、数据库、云平台等软件的东西。\n1.项目实施，设备安装调试、客户培训验收\n2.售后技术支持，故障问题处理。\n3.了解并熟悉公司军工物联网产品、通信产品（网关、指挥调度融合、报警等）及其他网络测试仪产品的产品规格及技术参数:\n4、跟踪学习行业相关新技术、新产品。\n5.负责硬件产品的相关测试工作，包括网关类传感器类产品的测试方案、测试用例的编写和完善，并组织和执行硬件测试，完成功能及性能验证\n6.负责loT平台及管理软件的相关测试工作，制定平台测试方案，编写测试用例，并组织和执行平台及与硬件对接相关的测试，保证平台的可靠性;\n7.负责并指导硬件产品的部署工作，高效完成现场部署，保证客户满意度。\n\n\n任职要求:\n1、通信设备、指挥调度等相关产品部署经验（类似经验并喜欢学习的也可以酌情考虑）\n2、具备良好的现场沟通能力，能够独立执行通信或者综合物联网类项目的实施;\n3、熟悉TCP/IP协议，网络通讯原理，具备一定的交换路由调试能力:\n4、熟练使用Windows、Linux等操作系统;\n5、熟悉MQTT协议架构，了解常见的物联网部署产品与技术;\n6、电子信息、自动化或相关电子专业大专以上学历应届毕业生，具有1年以上工作经验者优先\n2、熟悉模拟信号、数字信号电路等相关技术:\n3、能按产品实施要求进行规范性地工作，善于解决设计和调试中碰到的各种问题:\n4、有较高的动手能力，按时、按质完成工作任务\n5、有基本的网络基础知识背景;\n6、从事过军工通信设备、电路检测、计数类电子产品等物联网相关工作优先考虑\n7、认可或者看好军工产品方向的优先考虑。\n8、能适应外地部署工作，因为设备会在全国各地安装，部署周期有长有短。",
+      "encryptAddressId": "a0c99e8577f1885b1nV629q4FVJU",
+      "address": "北京大兴区星光工业园南区21号楼3层",
+      "longitude": 116.421435,
+      "latitude": 39.738739,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/91258adfc0d85f1a12de612bf802c282",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/16bef9e2477ddf4d85c148d0cb9288be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "设备安装调试",
+        "物联网部署",
+        "中控设备部署",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人事/行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231011/607f1f3d68754fd09742ad222981709c771e6ff3c58b7332ba1cf89fbfb575c89e0a54df0346a3d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "安环通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "31a7625cfbc549e31X1-2924EFo~",
+      "brandName": "安环通",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724230032000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "安环通",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

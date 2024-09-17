@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oqcpZ0HMBLNcN-f1GiKXV3xq4d87oN8bqG-sboUiEBvxOYau7MMuAsx6D9_WLIo2CS4Yy3aPJVe1ePP2n_6mZqm0eab5bTSstXQFhdYHhDBh06HGID2xxshuvjgyC1Ac-s3DoNRuGbl3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a4cd47d6378572d21Hx439q4FFdU",
+      "encryptUserId": "22bf7b7d6aab8ce41HV-39W4F1o~",
+      "invalidStatus": false,
+      "jobName": "测试-中级",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作年限和项目经历： 2年以上\n基本要求： 本科及以上学历，计算机科学，软件工程或相关专业优先；熟悉软件测试的基本概念，原理和方法，如黑盒测试，白盒测试，灰盒测试，功能测试，性能测试，安全测试等；熟悉平台系统操作，熟练使用Linux，MySql，达梦等，且熟悉软件开发流程，并参与接口测试，功能测试，熟练使用postman，jmeter等工具；掌握至少一种主流的自动化测试工具，如 Selenium，Appium 等，能够编写自动化测试脚本并执行；具备一定的编程能力，熟悉至少一种编程语言，如Java，Python等，能够编写简单的测试工具或插件；\n其他要求： 具备良好的沟通和协作能力，能够与开发人员，产品经理和其他人员有效合作，共同推进项目进度；能够输出较为规范的测试报告；",
+      "encryptAddressId": "86f4e36d17d63ab81nZ42d-6EVBUwYS3V_6b",
+      "address": "北京西城区中国诚通控股集团有限公司车公庄办公区1",
+      "longitude": 116.337329,
+      "latitude": 39.933325,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240129/48ba41acc9cef1bf074c39ff5d8a9ca5425d7ed76d7546ab6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240129/48ba41acc9cef1bfd9e21229dcbcae66ee99ddc3cbd832e46bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "性能测试",
+        "功能测试",
+        "JMeter",
+        "Postman"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230128/607f1f3d68754fd0a6fa68006ddb3f114293090d5b62aff4910d6f2cfcabbde3aa404743f86_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "正通科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "924a9f4be8b2e8b003d82N-0GA~~",
+      "brandName": "正通科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1726307216200,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "正通科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

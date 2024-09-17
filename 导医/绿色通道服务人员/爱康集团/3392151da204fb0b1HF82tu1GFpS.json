@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "NUiX2QAGesTSR-Z1Hx5f4wfekwKJuu8bNGzzOesug4igy503sDsSeD8L2YhhER7WwR-cioo41d1QRcG7CKHP-07UxMzxlSnTduwrXsXksYt0zU0d",
+    "securityId": "bcFjFiUTrYSX1-e1gI3MPdL1Q0l-kZ-JP3pEv3oROhCleZbbWWTU1uPfGmejqLgvWgCL7sVaMQa6VUaZRNzf5w0piuwMtwADqAAMun3O1tbgCjjU",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,9 +33,9 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "挂号咨询",
         "五险一金",
-        "体检中心"
+        "体检中心",
+        "挂号咨询"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -45,13 +45,13 @@
       "title": "人力资源主管",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221108/607f1f3d68754fd08db40d6e7f92a63e055d53809eb15f7db9b4930cea498cef13e6e12d815_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "爱康集团",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "4306064ef1c1c6771nB-3Ni0",
@@ -74,7 +74,7 @@
         "零食下午茶",
         "年度员工体检"
       ],
-      "activeTime": 1720870402573,
+      "activeTime": 1726272829145,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "爱康集团",

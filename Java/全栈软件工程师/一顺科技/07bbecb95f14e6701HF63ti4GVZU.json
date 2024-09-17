@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "CMZbi0-ZbalR3-m1VpqMg_TmR2adZykJ3MGoEVdmVioHsvT1QGSvzHJdEbXFvZ5nZvNqkMNDg0YzylJI3umJpaKyIcGezowwU_sq-lWDVh4CjS3ndK8~",
+    "securityId": "IIpEXfCn8f0He-w1Lj5qaK1Mol2xCER4bfU5hRZk-Ck8t0aHTF4TVlfNE5P0FNi9GB7lrVi5vJf0cxnLXDlm1BZ0qAqROIWgbLmQ_Mx8_FEfrDFUOks~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -35,13 +35,13 @@
       "showSkills": [
         "Java",
         "C++",
-        "Python",
-        "Spring",
         "SpringCloud",
-        "Dubbo",
         "MySQL",
         "Redis",
-        "SQL Server"
+        "Dubbo",
+        "SQL Server",
+        "Spring",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -51,7 +51,7 @@
       "title": "经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200803/fb281f48b3b5a7671f32b612736992100caf6abcba6b35b0339bc3143c4_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
+      "activeTimeDesc": "2周内活跃",
       "bossOnline": false,
       "brandName": "一顺科技",
       "bossSource": 0,
@@ -78,7 +78,7 @@
         "通讯补贴",
         "提供住宿"
       ],
-      "activeTime": 1723731948875,
+      "activeTime": 1725866282000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "一顺科技",
