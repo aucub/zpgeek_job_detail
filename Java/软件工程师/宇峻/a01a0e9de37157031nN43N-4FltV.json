@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nxwFsTcARHyGX-u1a_1On0pJYyX-T8ZikLVI7eRswfpsJkXRn8IDO4sMrjFOS6qohCLysSvemxUe2oiSzDjCjsc0exMQ3pJSyq0xEcWATOtPg-E2RIbmBNnFnjlAM1FSAVaiQ6GYhU9R",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a01a0e9de37157031nN43N-4FltV",
+      "encryptUserId": "84f763e8ae4cbd3f0n162Ny7F1c~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机相关专业；\n2、1年以上开发经验；\n3、熟悉Spring、Mybatis、Spring Boot、Spring Cloud等开发组件；\n4、对微服务主流框架（Spring Cloud、nacos 等）有一定了解；\n5、具备良好的计算机素养；\n6、熟练使用MySQL、PostgreSQL等一种或多种数据库。",
+      "encryptAddressId": "9f1a32892578a5371nB52dq8GVc~",
+      "address": "成都金牛区金贸大厦(沙湾路)18",
+      "longitude": 104.050394,
+      "latitude": 30.690025,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e59c08392a86f55f81c6049d45fa0368",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/788c9501fa5fba643622ed85b589ca92",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringCloud",
+        "SpringBoot",
+        "后端开发",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "慕先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190401/35811b3379ecb6f7de71f1add0981dd0aaa165c0ee978ee7cb183a9e9aa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "宇峻",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "21144020bca0edcd03R4392-Fw~~",
+      "brandName": "宇峻",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1724067755251,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宇峻",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

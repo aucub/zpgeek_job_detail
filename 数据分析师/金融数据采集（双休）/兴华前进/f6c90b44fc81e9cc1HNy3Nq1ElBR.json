@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JOakJMuNdyClb-x1kPVG9iwzrSoMykxCtWMriHbNhlO1uowW4gk78X7Nj00ms9BVi8XDk6w-gcBT6cetsXY9oGHGTxwz4bwFrUad7tRlWlbEoVPMIsfUmqYAs6DNfn5Dub3jcyYm7SjJF3c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f6c90b44fc81e9cc1HNy3Nq1ElBR",
+      "encryptUserId": "7c93337771a0733e0XFz3N-0EVpR",
+      "invalidStatus": false,
+      "jobName": "金融数据采集（双休）",
+      "position": 100511,
+      "positionName": "数据分析师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责依据数据采集流程和规范对公司数据库及终端产品、定制产品的数据内容进行维护与更新；\n2.负责国内外上市公司、股票、基金、债券、外汇、期货、宏观、行业等各类金融相关数据的收集、整理、分类、深加工；\n3.负责及时检查维护的数据，保证数据准确性、及时性及完整性；\n4.针对工作过程中发现的缺陷、优化建议等进行记录并及时向上级反馈。\n\n任职要求：\n1.金融学、经济学、财会审计、统计、数学、信息管理等相关专业；\n2.大专及以上学历，有数据收集、统计经验优先，接受应届毕业生；\n3.计算机操作熟练，会办公自动化，熟悉SQL语言者优先；\n4.具有较强的文字理解能和逻辑思维能力，有较强的学习能力，归纳能力；\n5.吃苦耐劳，有责任心，勤奋踏实，能够根据工作需要接受早晚班；\n6.金融行业有浓厚兴趣，熟悉证券市场，致力于成为一名优秀的金融从业者。\n\n注：\n主要的工作内容是金融相关的数据录入，包括股票、债券、基金、财务等数据，举一个简单的例子，大家或多或少都了解过银行的理财产品，理财产品发行后，银行的官网会披露这只产品相关的公告，包括产品说明书、发行公告、成立公告、净值公告等，我们需要把这些公告里面的有用信息录入到生产平台上，存储到数据库中，规划部门会对数据库中的数据进行二次整合、衍生计算等生成产品表单，给到客户使用；\n具体的录入操作分两种形式，第一种，比如理财产品的净值公告，属于规范的结构化数据，采编人员根据规则提需求给开发人员，通过程序采集、解析到需要的数据，入库到数据库对应的表和字段，采编人员通过SQL语句等核查手段进行复核和修正；第二种，比如产品说明书，属于非结构化数据，有部分字段规则比较固定，比如成立日期、产品代码等，可以通过AI解析自动提取入库，部分字段需要理解判断，比如投资性质、运作模式等，原文没有明确披露的字段，需要人工判断后录入。\n\n福利待遇：\n薪资待遇：5000-7000\n良好的发展平台：高速发展行业+优秀企业文化\n系统的人才培训：入职培训+随岗培训+拓展培训\n规范的福利保障：五险，双休\n完善的薪酬体系：基本工资+绩效工资+用餐补贴+住宿补贴\n工作地点：杭州市钱塘区新加坡科技园",
+      "encryptAddressId": "b61bf451b1f841063nJ-39W0FlNRxYq8U_s~",
+      "address": "杭州上城区新加坡杭州科技园(科技园路)2幢",
+      "longitude": 120.369402,
+      "latitude": 30.303488,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0959df7b1b517cc8424a3d499f095106",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b85ac792f9ca9d1a287d652bc5197c0d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "经济/工商管理相关专业",
+        "金融行业数据相关经验",
+        "数学/统计相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "高女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "兴华前进",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "40e444744ed3eb331HF_3Ni5Flo~",
+      "brandName": "兴华前进",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726647211422,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "兴华前进",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

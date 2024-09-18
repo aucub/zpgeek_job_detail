@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YYMPqbjX6KqAT-K1ep5n5IZUFd4EjFiw4hO5MRimnagBohzs2BtVLLrdJNcJGGa6kVXTrqXSM_Ft81QfI_FXyfXVEj8RUKtT4dbgxr8UuTxPckNivgg~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad2e0726cc78cda51XZ8292_EFNX",
+      "encryptUserId": "e3aa1ea58912968303B73Ny0GVE~",
+      "invalidStatus": false,
+      "jobName": "数据开发工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101170100,
+      "locationName": "银川",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责中国人民银行和金融机构项目的开发与运维，涉及的主要java技术为spring  boot、spring cloud等微服务技术，数据库涉及MYSQL、ORACLE、DB2等关系型数据库以及星环大数据平台、hive数据库等存储过程、HQL脚本编写，KETTLE等ETL调度工具脚本开发。\n2.根据业务需求完成各种数据可视化处理加工。\n3.参与项目需求调研、功能设计、功能开发、项目测试及验收工作。\n4.领导安排的其他工作。\n\n任职要求： \n1. 计算机、软件工程、通信相关专业，本科2年以上经验。\n2、精通MYSQL、ORACLE、DB2 等关系型数据库的脚本开发，精通存储过程、游标、触发器、视图等脚本的编写\n3、熟悉Hive、了解hadoop生态\n4、能够熟练编写Shell脚本，熟悉Linux常用命令\n5、熟悉java web主流框架，熟练使用java开发语言\n6、对数据库一般问题能够独立诊断分析并解决\n7、熟悉KETTLE等ETL工具，了解ETL流程、有ETL开发经验者优先 \n8、具有金融行业软件开发经验优先 \n9、具有良好的沟通、团队协作、抗压能力及责任心 \n10、能够接受长期出差（3至6个月）",
+      "encryptAddressId": "6c77e7591b16fcfc0nR_2N28GFo~",
+      "address": "银川兴庆区中国人民银行(银川中心支行)215",
+      "longitude": 106.272622,
+      "latitude": 38.478737,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d2e8952761e05e2d3963f451354c0eee",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8b474b6b027122c14166bccb7ce37d4b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Shell",
+        "Kettle",
+        "Hadoop",
+        "SQL",
+        "HIVE"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "银信数字",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c9cde01dd20509591XR-3Nu0GVo~",
+      "brandName": "银信数字",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "公司位于西安市高新技术开发区，是一家拥有自主知识产权的金融科技公司。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1724023167823,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "银信数字",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

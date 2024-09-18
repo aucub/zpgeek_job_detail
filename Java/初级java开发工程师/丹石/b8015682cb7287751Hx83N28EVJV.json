@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wuArVqXhWWnIS-w1X2XwZY_Hbry2epOWlluAPuVBuDOot3W_Ts152HDFThRO4kJML_XloIPmQ6p0ayUrQP2hmi0hW0CRHSW09X4Rd1XLq8s-NtfPlC15thuCTG6IBIBjFgTdKCGye1P7Yg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b8015682cb7287751Hx83N28EVJV",
+      "encryptUserId": "57dd3ac063a942be1HF609m1FFE~",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 参与产品需求分析、系统设计；\n2. 负责公司产品及项目的核心功能开发；\n岗位要求：\n1. Java基础扎实，熟悉io、多线程、集合等基础框架，对JVM原理有一定的了解；\n2. 熟练Spring、SpringMVC、Mybatis开发框架、熟悉SpringBoot，具有基于SpringCloud或Dubbo框架项目设计、开发经验；\n3. 熟练Mysql数据库设计、分库分表等技术，熟悉Redis/Mongodb等nosql技术；\n4. 掌握常用设计模式，对各种开源的框架有深入了解，具备丰富的性能调优的经验；\n5. 熟悉Linux操作系统，熟悉tomcat等容器。\n6. 编程思想清晰，有良好的的自学能力；\n7. 一年以上工作经验。",
+      "encryptAddressId": "cabb60dcfdc59ce11nZz29-_FVNVw4S7UvOf",
+      "address": "杭州滨江区华城·和瑞科技广场S3-1201",
+      "longitude": 120.194655,
+      "latitude": 30.185287,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0f7e8fd60d1a35ce3df130c017102502",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/12e31788e6d81bd126d06a8be804c0a0",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "物联网经验",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "钱女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220329/607f1f3d68754fd053909a9d829a1c3f84a0b96ed0a0b53c5742d2a66926d80879fc24a0c0b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "丹石",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6cf9992bf3192bc1HN50t6_F1M~",
+      "brandName": "丹石",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726643096210,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "丹石",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

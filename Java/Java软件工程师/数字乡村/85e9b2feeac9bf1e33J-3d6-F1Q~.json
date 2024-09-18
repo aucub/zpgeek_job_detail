@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7UHp9uA3hMjag-n1iBOjG1kpe1fwNNrtH6W8k8jy0ZyIlj4l9_soDk7xOtDLX2QgERVpcKltolm0-G6TVvfeV_A9LsMWjfZxkqqjlkisMaSRLqxgOfmKoOYKJIBDX7GpotZenVhbMhXF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "85e9b2feeac9bf1e33J-3d6-F1Q~",
+      "encryptUserId": "10767ef2847b79a51nRz2d25E1JV",
+      "invalidStatus": false,
+      "jobName": "Java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.本科及以上学历，计算机相关专业，1~3年政务信息化工作经验。\n2.曾在不少于5人的团队中担任过核心设计开发工作，了解前后端分离后的开发流程。\n3.精通SpringMvc、Spring、Hibernate、MyBatis等开源框架。\n4.熟悉MySQL、Oracle、SQLServer中的一种或多种、能够进行数据库设计、SQL调优工作。\n5.熟练掌握并使用Maven、svn、git等工具。熟悉 springboot2、Docker、Kubernetes，有实际使用经验。\n6.了解前端Vue开发，能互相配合。优先考虑录用。\n7.较好的心理素质，能够承受压力，具有较强的事业心与团队协作精神。\n岗位职责：\n1.负责公司相关互联网应用软件的后端研发和优化工作。\n2.负责项目开发过程中的技术攻关及运行中出现的技术问题；\n3.负责项目核心代码的编写工作及与前端人员技术对接的相关问题解决。\n4.参与项目需求分析和设计。\n5.负责公司系统产品的实施和运维。\n6.协助售前人员完成公司产品对外销售讲解及方案编制工作。\n7.负责相关技术文档的编写。",
+      "encryptAddressId": "10826d0cb99700871HZ63NS0EFI~",
+      "address": "太原小店区瑞杰科技中心3层",
+      "longitude": 112.560904,
+      "latitude": 37.801626,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/267209a6767d3c4b078d6af6d066e99b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/45bfb565a257b84dcc6f06d003b5253e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MVC开发",
+        "Spring",
+        "Hibernate",
+        "GIT",
+        "SVN"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "数字乡村",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f0399f9aa86b25f033d_0tW9EQ~~",
+      "brandName": "数字乡村",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724067773140,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "数字乡村",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

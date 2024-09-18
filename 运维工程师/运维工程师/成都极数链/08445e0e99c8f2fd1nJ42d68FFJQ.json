@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OpU2ID-w1uEOw-31fMoGijvdOvTDoC0-Rxj0MdcoUbpMsc3k0TEK0VFJfLAxkFEYSBsLuIyYZf28GYFyywCVkKg3eUtK0oOk3NLP-HxX4jPIIW7RwUveMsoo7O9ikprbnZ7jZPBBEdWQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "08445e0e99c8f2fd1nJ42d68FFJQ",
+      "encryptUserId": "ca56bea604d0883803J6396-EFM~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、服务器的操作系统、硬件驱动、软件的部署和配置；\n2、服务器故障的监控、分析和定位；\n3、对于硬件故障、配合现场运维人员进行硬件的更换，并完成更换后的驱动安装、软件配置等工作；\n4、对于软件故障，配合软件研发人员进行日志收集、分析和解决。\n\n任职资格：\n1、熟悉Unix/linux 系统，了解服务器的操作配置；\n2、熟练使用shell、python等脚本语言；\n3、学习能力强，能快速学习常见服务器故障的处理。\n了解docker k8s更佳",
+      "encryptAddressId": "8a8361b180a6d7a31XN62ti_EQ~~",
+      "address": "成都武侯区天府新谷10号楼9楼",
+      "longitude": 104.056398,
+      "latitude": 30.586029,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/110d23f6a80abc72012c617d4e213326",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0a47078779f47968cb48d959caa09f0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "Unix",
+        "Python",
+        "容器技术",
+        "Docker",
+        "K8S"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "开发总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "成都极数链",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8b0e78bb103aa36133x73d65Eg~~",
+      "brandName": "成都极数链",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726639921117,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都极数链",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

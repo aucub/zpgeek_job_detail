@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0R_Hjb5mKZP9N-_1WNZNbNJGD78HaTe042I7KTUjwOUMgoyy_IEvd2jCi56UEwSk9zAlNDz6qNkSR5VDZ8Nar6040mtrh1l2kR06adYYaRi2hx4yHpI-owCU2T24Sdk-uF4Og2JlvqVQ",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c3af044abb441fa71nJ-2tS9EFpS",
+      "encryptUserId": "6628504dbdbb8d9e1HJ60tW_ElI~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "注意：因跟宠物相关，我们希望您有养宠经验或者不害怕宠物。\n\n1-3年以上java开发工作经验，有参与过多个项目；\n\n2 Java基础扎实，深入了解成熟Java开源框架，如spring、spring mvc,mybatis,springboot等；\n\n3 具有SQL优化功底；\n\n4 了解分布式架构、微服务架构下的系统程序开发；\n\n5 了解基于RESTful API设计标准的接口开发流程；\n\n6 熟练掌握高并发、大流量业务场景下的系统设计及开发；\n\n7 熟练掌握数据库Mysql、Redis、Oracle；\n\n8 熟练掌握maven，git等项目管理工具；\n\n9 对代码编写自身有要求，追求美观优雅的代码。",
+      "encryptAddressId": "cbc2ed54e92bb1851nZ92dW9GVJRxY69WfKb",
+      "address": "杭州余杭区临平商会大厦B座802",
+      "longitude": 120.298066,
+      "latitude": 30.390212,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf9f73d654ca5d91aa8810aa72df881f1a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfd2104055a3dbd53210e8f3a36d4342f56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "java",
+        "MySQL",
+        "SpringBoot",
+        "后端开发",
+        "电商"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "宠派信息科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fac50a04248935180X1y09u1Fw~~",
+      "brandName": "宠派信息科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191226/0dde7becb1ce2871e3bab782939ba691e6360d2009279228db67d84c6675afdb.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "浙江宠派信息科技有限公司以“给它一个身份，为它发声”为核心理念，致力于打造国内一流宠物信息交互平台，建立宠物行业信息化数字化新标杆。",
+      "labels": [
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1726651953359,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宠派信息科技有限公司",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

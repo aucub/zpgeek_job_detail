@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "4WTwvpI6n0i5c-x1B1rQpiVQtUC-HfWaitueZlhccVzMEtYEW1N-u8TLShXqhmAtR_mQE2lQbFGeL77EWLpOZzaK727MKIR8R_5PEnai9bdMkW8PQ_M~",
+    "securityId": "PKNuKmiWo2fsv-91ziQ3x2g77F4EMq1sLHZjVULuAXVxDtLOBWh-pDzEprNg2K7EN2TWIkBzMX0VWAEXpFtWbGME104XvU2KiYPn_O5P22PDAZWv_nA~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,13 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
         "Java",
-        "Kafka",
         "Nginx",
         "Docker",
+        "PostgreSQL",
+        "Kafka",
         "Redis",
-        "PostgreSQL"
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -81,7 +81,7 @@
         "通讯补贴",
         "交通补助"
       ],
-      "activeTime": 1721483373073,
+      "activeTime": 1724038457597,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "培谊科技",

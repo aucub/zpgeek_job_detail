@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "rqJNXHHp1S2GM-i1xwq80kZGMYAMqFBZ7RSP_X7XgJQVBZsoQeqxnpdomm6ZRialKD-oZagH4iy6V8zh3rVKenJwJTR0bdyD9vRJAN8csEIPrbQcA0o_V00cRBdN9ZT7FnpaMiW9MTOGnm9bNxx-dok~",
+    "securityId": "ORDDRLXu8y23W-L1LdZSEbjD_0j6XtE-vczJyyUwE-EOKKZvsLhdJimV9e7SJiXc9Akau8GAuW-oPrYrrEO6_uxlk-epjI3kuDua2Ws2JCQFdj5zlMM~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -35,14 +35,14 @@
       "showSkills": [
         "内饰",
         "外饰",
-        "门内饰板",
-        "门把手",
-        "保险杠",
-        "格栅",
-        "AutoCAD",
         "Catia",
+        "格栅",
         "汽车相关专业",
-        "机械相关专业"
+        "门内饰板",
+        "AutoCAD",
+        "机械相关专业",
+        "门把手",
+        "保险杠"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -53,7 +53,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181111/f441e989c7f24339068bf61ac4372020f0f007db3ba163dd67d83ea91f8_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "阿以特",
       "bossSource": 0,
       "certificated": true,
@@ -76,7 +76,7 @@
         "加班补助",
         "节日福利"
       ],
-      "activeTime": 1721708333171,
+      "activeTime": 1726630022594,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "阿以特",
