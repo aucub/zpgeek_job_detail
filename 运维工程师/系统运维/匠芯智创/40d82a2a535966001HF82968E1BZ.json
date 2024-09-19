@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6rtnvJvmwWqVV-i1HMm92VlrM5vk3pJSbwbbuYiGld9O0rJQD_hoyz7SzEfvdwU4WDmxVhb-nIeKWQP37-NAL3dlZukbhhDA7FuGmIP1QJAvvd8ym9o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "40d82a2a535966001HF82968E1BZ",
+      "encryptUserId": "0f3e4161b52a1ef70Hd70925GFQ~",
+      "invalidStatus": false,
+      "jobName": "系统运维",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、 负责系统日常维护巡检，包括数据库及服务器存储空间日常检查空间清理。\n2、 复杂系统部署、调试，快速定位排查问题；\n3、善于沟通，与客户单独沟通具体需求，并提出解决方案；\n\n岗位要求：\n1、熟悉linux系统，熟练编写shell脚本，了解tcp/ip、http协议，可以排查网络等相关问题；\n2、熟练使用nginx、tomcat、apisix、keepalive等中间件部署及负载均衡，日志定位及排查能力\n3、熟练掌握mysql、redis、minio、postgresql等中间件的操作、部署及优化维护；\n4、有较强的沟通技巧；",
+      "encryptAddressId": "7c4cd259f1172acb33Z929y1ElVRw4u3Vfg~",
+      "address": "深圳福田区国通大厦1",
+      "longitude": 114.042793,
+      "latitude": 22.527096,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ab765b9e4cd1bafc9ee61acd1bfaf4e0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ebe94aa0b848666571c3b1c98d8f1129",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230620/607f1f3d68754fd07d8f9bbf32952a597cbc2f19ad3bb588333df8cbf7c82b5d24ffa643295_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "匠芯智创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "07319e7eb09cd4d21HB62tq4GVM~",
+      "brandName": "匠芯智创",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724122008969,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "匠芯智创",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

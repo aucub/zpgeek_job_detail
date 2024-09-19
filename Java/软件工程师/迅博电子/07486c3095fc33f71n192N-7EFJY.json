@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KDtxLUoAq2g43-D1RFNcDiFre2DPU1gCmdHHAewb6Kv2lkMFwlGXvTqhRnVW86yk5dj3rDP4_a-LEbRrJxo9DWWyEHwpr8D5GXW7mDqbQhsM9H4nlxc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "07486c3095fc33f71n192N-7EFJY",
+      "encryptUserId": "fffd312cea1f8d550nZ_3Nm5F1JU",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101121500,
+      "locationName": "日照",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位详情\n SQL\t Netty\n Spring\t SpringBoot\n Redis\t Python\n有智慧城市项目开发经验者优先录用\n1、扎实的Java基础知识功底!\n2、熟练J2EE，Java WEB编程技术，对各种开源的框架如 Spring、SpringMVC,SpringBoot,MyBatis等有深入的应用和优化经验;\n3、熟练数据库MySql使用，设计，SQL调优等;\n4、线上高并发、大数据量处理经验，对java多线程编程有较深的理解，并有实战经验;\n5、熟练Redis/Memcache、hadoop、Kafka、Zookeeper、 Netty等常用中间件;\n6、熟练Linux的常用命令及脚本编写;\n7、优秀的分析问题，解决问题能力，乐于解决具有挑战性",
+      "encryptAddressId": "370d2e2781faa75703B62dq6EFQ~",
+      "address": "日照东港区日照天德海景城A5302",
+      "longitude": 119.554807,
+      "latitude": 35.407584,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9163ea1c4b81d2ceecc86d1e56ed6fc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f5aca8c971db11c05489bbcf8de5857",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "Eclipse",
+        "JDK",
+        "软件工程师",
+        "MySQL",
+        "SQL Server",
+        "Spring",
+        "SpringMVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贺先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210402/899ec0269e0f11c5c577171d16d0a05b4b365b2f1fc892e1420f7775e12_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "迅博电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f59a42a24bfd29c603B909m_EQ~~",
+      "brandName": "迅博电子",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220520/7b5b554d84f9729cb4b7f6cb8b81ecb7eb8223b4c6aae83d4c25d2e281f312f287e182070641c218.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "十年的软件开发公司。主要从事智慧城市、石化石油、健康医疗行业软件定制开发。",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "住房补贴"
+      ],
+      "activeTime": 1724177046605,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "迅博电子",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "TfDStr7VhIOoi-Q1RoQazLz45BvDU9GLUT92QzrWItgfsQ3due-nndw80HLXpvYO2HfAi-CKmLSq-Un59LmXk856TT2hQVWfqL9IDUhiwQU-G5wkqPgd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "eb3aad0559a62f461XZ8096_EVpT",
+      "encryptUserId": "2729f7a46bd8e5ec0nV-2ty9EFRS",
+      "invalidStatus": false,
+      "jobName": "Python初级爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责设计、开发、维护分布式Python爬虫项目，提供稳定可靠的服务；\n2、负责各类国内外电商平台的数据爬取工作，如J东，T宝，亚马逊等；\n3、负责各类国内外社交媒体Twitter，Facebook，Instagram，TikTok等的爬虫开发工作；\n\n加分项:\n1、实践过国内外电商平台或国内外社交媒体平台爬虫项目；\n2、熟悉分布式系统，对网络和高并发编程有经验。\n\n岗位要求：\n1、实践过Python爬虫系统开发；\n2、实践过代理池、cookie池搭建和使用以及账号登录认证；\n3、熟悉常见的App及Web反爬策略；\n4、熟悉Scrapy，scrapy-redis等框架；\n5、了解使用各类抓包工具，如Charles、Fiddler等；\n6、了解Linux环境、Shell编程，有一定运维排查、自动化监控能力；\n7、熟悉git代码版本管理\n8、有耐心有责任心，具备良好的学习能力、沟通能力以及团队意识。",
+      "encryptAddressId": "7b7d5296f74cd11d0XRy39y9FFI~",
+      "address": "深圳福田区天经大厦CD座5楼5C",
+      "longitude": 114.032135,
+      "latitude": 22.531689,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d8918dbdf495d036a195271a10c5e8c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4f423d5c1d0a91b266fb60e94b5c737e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "网络爬虫技术",
+        "scrapy",
+        "爬虫"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "颜先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "昕喆信科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c0f01a87fecf05c31XR_2t68FVo~",
+      "brandName": "昕喆信科",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220224/7bf6f160950405e9aa98f2e5adb8a1d6ca51e718853729ed6e4bc6988d3e52e5f00e58d76ed3696f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "昕喆信科是一家专注于互联网提供一站式解决方案服务公司。以“后其身而身先，外其身而身存”的企业文化为指导，用谦虚谨慎的态度做事，用开放前瞻的视野创新，用诚信双赢的原则合作。",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1724128072522,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昕喆信科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

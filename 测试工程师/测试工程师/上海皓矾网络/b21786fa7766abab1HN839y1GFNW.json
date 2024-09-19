@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "eWAFOPVx_OKRa-M1lCsN8B7DFbwkp7TZBV2q-DVUrq4IWtOlNNSsSG3E05v90YvmyPicpTgK4c8ldnhCL0OMZmesjNbpi5Vv3Z5E4S30C85PrSIDg0UWJUbGrLvzAp_rlSDeTgB_OE6-pQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b21786fa7766abab1HN839y1GFNW",
+      "encryptUserId": "e0a7f1a428fce9341HV839y4FlM~",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "学历背景：计算机科学、软件工程、人工智能等相关专业本科及以上学历。\n工作经验：具备2年以上质量保证相关工作经验，熟悉数据标注和数据清洗流程。\n技能要求：\n熟悉AI和机器学习基础知识。\n具备图像处理和视频分析的相关知识。\n能够熟练使用常见的数据标注工具。\n具备基础的编程能力，有C++和Python开发基础（OpenCV），\n了解SQL Server和至少一种文档型数据库\n其他要求：\n具备优秀的分析能力和问题解决能力。\n具备良好的沟通能力和团队协作精神。",
+      "encryptAddressId": "afe874cccb6b97580XVy0tS_FlpXyoy3Uf4~",
+      "address": "上海嘉定区上海西郊商务区C1区9号楼501",
+      "longitude": 121.332452,
+      "latitude": 31.237359,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfd0fa5344570bd9febe449b53f4b60ea96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf46b5dbb60e09b1f323b9d1cbae307b506bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "测试工作经验",
+        "通信相关专业",
+        "MySQL",
+        "功能测试",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171009/3826b637e295070214f5de95fdd355e435c7bf8cbc6ac8c0385dc310398_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "上海皓矾网络",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a0469c81e6af7b801Hd439-7GFU~",
+      "brandName": "上海皓矾网络",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724163282201,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海皓矾网络",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kzDlOIzieirZe-c1pBK2HICBp9WGpoyNHmFgnl3rEEAdDQeyFDY39EqUeCss5Hj5hE8YJyVb0Jqfl51uYWwCo6NDWibPxkincGDQbIOhv1G1bB7JEu2b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "88b68d533cc6d0191HN609q9ElFV",
+      "encryptUserId": "e36757c0215b76900XV709y1FFtW",
+      "invalidStatus": false,
+      "jobName": "php软件工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责前后端相关设计、开发、落地；\n2、负责项目后台数据接口的开发，接口文档的编写；\n3、负责数据库开发、数据表设计，性能优化；\n4、负责后台服务端环境的搭建，接口发布与调试；\n5、熟悉产品需求，参与产品功能优化方案。\n职位要求：\n1、精通 HTML5/CSS3/JavaScript/Json，熟悉Nodejs、微信小程序项目开发、掌握axios、jQuery、Ajax 等技术，了解ES6或Typescript；\n2、熟练掌握PHP语言开发，掌握至少一种以上现代前端框架(Vue/React/Angular）；\n3、熟练掌握Mysql 、Redis、消息队列等常用服务组件；熟悉linux，git，docker，nginx\n4、有一定软件架构设计能力，较强的代码重构、优化能力，负责前端监控、性能优化、安全及接口测试\n5、具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力；",
+      "encryptAddressId": "5204bd985473667f1nR-3ty1E1RW",
+      "address": "南京江宁区南岸·瑞智99文化创意产业园8栋208",
+      "longitude": 118.818496,
+      "latitude": 31.945756,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf28ae04e54cddce0fdbc48d6f4d76cd636bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfda62cde7e22e91b1358023b507d29e966bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Laravel/Yii/ThinkPHP",
+        "服务端开发经验",
+        "PHP开发经验",
+        "PHP",
+        "MySQL/Redis/MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230721/607f1f3d68754fd0359526194121a8164e6a57681332b954c87bacc5464a1d2b6b6066597c018bf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "南京觉启文化传媒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f7a248de01ee49e51Xxz39m-E1c~",
+      "brandName": "南京觉启文化传媒",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100101,
+      "industryName": "广告/公关/会展",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724119458862,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京觉启文化传媒",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

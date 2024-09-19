@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NXxTwJ_WHgoMJ-D1iGPmOgD1Y2CEMlygFFl09LbIPTtjLVa8fb6-lSwj3Cqy1UjOqA9Pj7EUKPQUDXglgP2ZHasNOq6TFI4gI0LmrUgo1mk33kVxbl-A",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8f7e7e7820824ebc1HN629q5FFBT",
+      "encryptUserId": "ca5bc41cdf0a44980Xd52N64FlRT",
+      "invalidStatus": false,
+      "jobName": "爬虫",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-5K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.设计和开发高效的网络爬虫，用于抓取特定网站或网页的数据。\n2.编写代码以解析HTML和JSON等格式的数据，并从中提取有用信息。\n处理大规模数据抓取中的性能和稳定性问题。实现数据清洗和预处理流程，确保数据质量。\n3.遵守数据抓取的法律法规和道德标准，确保合规性。\n4.与团队成员合作，持续优化爬虫的性能和功能。\n岗位职责：熟练掌握Python编程语言，具备良好的编程习惯。\n熟悉网络爬虫的工作原理和常见的反爬虫机制。\n熟悉HTML、CSS、JavaScript等前端技术，能够分析网页结构。\n熟悉使用requests、Scrapy、BeautifulSoup、Selenium等至少一种爬虫框架或库。\n有处理大规模数据集的经验，熟悉数据库操作和数据存储技术。\n具备良好的数据分析和问题解决能力。\n良好的团队合作精神和沟通能力。",
+      "encryptAddressId": "ba9125ed4d5037ae1nR50tm5F1FSxom-V_qZ",
+      "address": "成都武侯区盈创空间601",
+      "longitude": 103.97919,
+      "latitude": 30.634279,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf0b3b3314f73fa922df5f84aa1633a91f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf2dc75add28887c837481ac5ae721c8296bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏先生",
+      "title": "H R",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "智伯乐科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "53b10e24c593352c1HB609i4GFc~",
+      "brandName": "智伯乐科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240526/7b5b554d84f9729c64dbff19a289b652eb9e7acb15f193baffeab8106425801d85116db168a8c624.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司成立于2024年\n\n主要赛道：AI教育大模型开发\n\n公司主要投资方由股东担任，已完成种子轮融资\n\n核心团队来自于国内外顶尖高校，拥有多年项目经验",
+      "labels": [
+        "有无线网",
+        "住房补贴",
+        "股票期权",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724231685000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智伯乐科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sR_LRdFZk5u0U-e1jcd4F7BmBBpw3UKBTsp4dWzQ_T_9z6oYs-FiebqQnicCvFG8YvlHWAB6DaniJgp38xQukJPrrqMo3FsR3KuM3i01j4o6EzEQZZy-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f320ed89388ea0321HR729q-ElNY",
+      "encryptUserId": "4c547e1c79a1a5cd0XV52NS7ElZW",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.参与容器云平台规划、建设\n2.负责推动容器平台运维自动化能力建设\n3.负责推动业务系统容器化部署\n4.负责平台定期高可用演练、巡检、监控优化\n5.负责平台日常业务发版支持\n岗位要求：\n1.本科及以上学历\n2.3年以上容器平台运维经验\n3.熟悉 K8S、docker 工作原理，具备容器编排及 K8S集群运维管理经验\n4.熟悉harbor、prometheus、jenkins等运维监控工具\n5.熟悉linux系统，有一定的软件部署、维护、故障排查经验\n6.了解基本的网络知识，如dns、负载均衡、防火墙\n7.具有良好的沟通协调能力，高度的责任心，对技术有追求",
+      "encryptAddressId": "f3fb20b1f875989b1nR93Ny4EVBR",
+      "address": "北京丰台区汉威国际广场4区3号楼",
+      "longitude": 116.295209,
+      "latitude": 39.821367,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/861788f8e7c4bdec2799077ebac84e33",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/594b2ab52679175a8713c2bed1853945",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "实施交付运维",
+        "Docker",
+        "系统运维",
+        "运维开发/DevOps",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230802/607f1f3d68754fd03758a76b997fe8b09d16e6e5e2db25720a56597bb24603731ce8ca730a2f938_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "科鼎时代",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "316107f76bcf230d1XVz3t-7EVo~",
+      "brandName": "科鼎时代",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "团建聚餐",
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1726648288080,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "科鼎时代",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

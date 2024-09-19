@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bPfOGdqWVS-5O-V1aTqZAelBCAZHBi1EQRnt9Ulf5OsdRIxxKPtqtWOUKBKHMkSOGWct1u0vHD7h1kU6QZwOocb7rAahobMikjYvp0l-rYpXc4rHsA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ad727d61641b89321nJ53d-0FFpV",
+      "encryptUserId": "74b1d20c3c44dcaf1HNz0t69FlQ~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.大专及以上学历，两年及以上Java开发的经验\n2.负责服务端相关系统的架构设计与研发工作\n3.负责系统模块的设计、编码和单元测试\n4.负责完成重要业务模块及核心框架的搭建及编码实现\n\n职责要求:\n1.Java基础知识扎实、理解io、多线程\n2.熟练使用SSM框架并了解Jpa、Hibernate等持久层框架\n3.熟悉主流开源应用框架，如Spring Boot,Spring Cloud、Dubbo等微服务框架；\n4.熟悉mysql、MongDB等数据库，对于数据库结构、SQL优化有一定经验\n5.熟悉Tomcat、Nginx、Zookeeper、Redis、kafka、RabbitMQ等中间件；\n6.熟练使用Linux各种常用命令和服务搭建\n7.具备Docker/K8s知识者是加分点\n5.熟悉微服务架构及其开发模式\n6.有分布式、高并发、高可用性系统设计和开发经验，对业务能够有深度理解\n8.持续保持技术热情，快速学习，重视代码质量，有良好的软件工程知识和编码规范意识\n9.有强烈的责任心和团队合作精神\n\n三、工作时间：\n周一到周五 9:00--18:00、单双休\n\n四、福利待遇：\n入职购买五险，节假日休息，带薪年假",
+      "encryptAddressId": "8be9048af16959d51HNy0tm9Eg~~",
+      "address": "长沙芙蓉区湖南省经委机关综合楼西排502",
+      "longitude": 113.025529,
+      "latitude": 28.209073,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/28fad9abb97a654670eec65c87113bc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9ea7a452cb9694d7c9734c79fe0a3ff3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "分布式技术",
+        "多线程",
+        "服务器配置",
+        "容器技术",
+        "算法基础"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180426/63ef7d0d7bbc3fed0a719be8155a0210cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "觅通科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "90ba218f84d8aeb71nx53dW7GA~~",
+      "brandName": "觅通科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724121804872,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "觅通科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

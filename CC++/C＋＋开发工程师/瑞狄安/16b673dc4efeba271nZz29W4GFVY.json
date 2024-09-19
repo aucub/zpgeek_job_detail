@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ztsJUTCovVwzl-a1kmcvlYPDeC_oK2OKQWmixLgYhZtKCULCK-P1IY1jlFu1QqPd7VoEQWtyZh_lSjup9XL50bCrkwr1GCm4jiIWHYOkqvE_3dNd5A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16b673dc4efeba271nZz29W4GFVY",
+      "encryptUserId": "171114562f5e2caf0XV_3920FFo~",
+      "invalidStatus": false,
+      "jobName": "C＋＋开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "项目：服务器信息采集管理系统\n功能描述（分为终端和客户端2块）：\n采集终端：采用C++开发服务器终端采集程序，运行在WINDOWS和LINUX系统下，兼容X86和ARM两种CPU架构。主要功能采集服务器的各种硬件环境（CPU使用、内存占用、进程信息等等）信息和软件相关信息（软件依赖环境、相关服务是否启用、进程是否存在等等），要求占用内存小。\n服务端：QT外壳，内置管理系统，将终端采集到的信息进行远程管理，为运维人员提供数据支持。\n\n技术要求：\n1、熟悉C/C++编程语言，开发系统服务；\n2、熟悉windows、Linux的各类API，能够实现对系统的各项软、硬件参数采集，如：cpu、内存、日志、进程等；\n3、熟悉x86和ARM架构下的程序适配；\n4、熟悉C/C++语言内存管理；\n5、了解QT的界面开发。\n\n特别说明：\n本项目为军工项目，需要在部队科研所内网环境下开发",
+      "encryptAddressId": "45bdba2ea2d0109a03xy09i_FFQ~",
+      "address": "成都武侯区天府软件园A区2幢1楼",
+      "longitude": 104.070145,
+      "latitude": 30.549709,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33884d097b485499a485e4e9ca194f12",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7b23438c51ef8e790a93ca5ea1b649ab",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "QT",
+        "ARM开发",
+        "c++",
+        "windows",
+        "X86"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221115/607f1f3d68754fd076304d8ed06ec3791d16797a6d227f7e2776d025ba829892ceaa94dda76_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "瑞狄安",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "415f388001c611cc0XB52du6FA~~",
+      "brandName": "瑞狄安",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200326/7d04c52720deba7d7d938ffa98fe68b42776d025ba829892ceaa94dda7690005_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都瑞狄安科技有限公司，是一家以软、硬件控制、系统集成、小型自动化研发为主营业务的技术型软件开发公司，主要面向军工领域，与战略支援部队科研所合作研发面向基层部队的涉密应用型软件。",
+      "labels": [
+        "节日福利",
+        "交通补助",
+        "通讯补贴",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1726219577638,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瑞狄安",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

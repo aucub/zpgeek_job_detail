@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Vn_b4yZG7lpzc-i1PF0kuUb0QSjgmgZhGTdiB4warR06A9k5tzi4URG16GSLwhy8fEPo2xcoyoFd2vx5h3ltNRwxU6yRLK8SmDL_NfitWz0mwmjF9gY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d33528720d630b6d1nV83d26FlZR",
+      "encryptUserId": "7e9d462bd2f996cd0nRy29q6FVpX",
+      "invalidStatus": false,
+      "jobName": "程序员",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求\n1. 熟悉爬虫相关开发经验；\n2. 熟悉 Python 及常用的爬虫网络框架（如 Scrapy）；\n3. 熟悉 Http 传输协议，熟悉正则表达式；\n4. 熟练使用 Requests/xpath/Selenium/PhantomJS 等 Python 库；\n5. 熟练使用常用数据库（如 MySQL）；\n6. 有解决一定的反爬限制经验，能解决如验证码、滑块、账号限制、IP限制等问题",
+      "encryptAddressId": "fc11fd72ecfdab1f1Hx90t-5E1c~",
+      "address": "南京江宁区城际空间站H1603室",
+      "longitude": 118.799913,
+      "latitude": 31.962444,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f58319586e6c7eb12234938105e824ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c1d5b4ba4a622e99d848df3ff751bede",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "爬虫工程师",
+        "网络爬虫技术",
+        "MySQL",
+        "Scrapy"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201120/bf7d8c802d3f3b9957a0c758e745050518df71a6d28f34c0017a4feae81_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "启睿克",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e29f8ec25532855b33Rz3tu_GQ~~",
+      "brandName": "启睿克",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200604/91900465e350a5e3c70c1a4deb25f163fe5aae62102cdd82acdbe663c62235cd.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100504,
+      "industryName": "进出口贸易",
+      "introduce": "专注于轻工业机械设备的研发与销售，包括口罩机、激光切割机等。",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "节日福利"
+      ],
+      "activeTime": 1724119227322,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启睿克",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

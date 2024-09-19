@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_CbC44z5T5N3P-D1yi--wfxbd-FA3D1DrzEWKzmeRHplCq-L6FWCJFpxuwh0Beh7f6eu85VWV-My9mKIyLm0AD_T7Cq5-SDJElugZ7qTfewVK8CSEt5aRXN9pPe_5d2O1RbK3Bz-ji9epLY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "358d6ec2c9d4e7161nZz3tW4F1BV",
+      "encryptUserId": "64722558b77d10ca0nZ42dy_GFtZ",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190500,
+      "locationName": "南通",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1、负责系统软件前端的开发和维护，与后端工程师协作完成各项任务； 2、关注用户体验，与合作方一起不断改进产品的易用性； 3、计算机或相关专业本科学历，至少1年以上真实相关岗位工作经验，有成功案例； 4、精通HTML5，VUE等前端框架； 5、熟悉各种常用工具，如SVN，Eclipse ，MYSQL等； 6、具有强烈的学习欲望和能力，能快速接收新事物。 7、有良好的沟通能力、进取心及团队合作精神，有责任感和良好的职业道德\n\n一、任职要求：\n1.精通Java，2年以上Java开发经验；\n2.熟悉J2EE开发相关技术和框架，对各种框架如Spring、Hibernate/Spring Data、Struts/SpringMVC等有深入的应用经验；\n3.熟练掌握jQuery、Javascript、JSP、HTML、CSS、AJAX等Web前端编程技术；\n4.熟悉json/xml相关知识；\n5.熟悉Mysql数据库；\n6.具备良好的文档撰写能力，能够独立交付数据接口文档，编码时能清晰明了的注释；\n7.具备钻研新技术的兴趣和能力；\n8.积极主动，善于沟通，独立工作能力强并具备良好的团队合作意识。\n二、职位描述：\n1.根据需求完成功能设计和代码编写；\n2.负责后端系统性能优化和改进；\n3.独立承担子系统和模块的架构设计以及开发；\n4.从技术层面参与产品讨论、设计；\n5.负责移动平台APP产品后台，接口的开发和维护以及后台搭建，数据库搭建；",
+      "encryptAddressId": "c7aaa0384f670aa203Z62Nm1ElI~",
+      "address": "南通江苏省南通市崇川区紫琅科技城11号302",
+      "longitude": 120.928482,
+      "latitude": 31.96512,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f5d328ce2528de4ce9fce86336967cd",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5a344541d649b252c5e175cf967e09d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "MySQL",
+        "计算机软件",
+        "SQL Server",
+        "管理系统",
+        "客户端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "金女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "泽通智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b29a5a89cb813a901nB90tW-EFY~",
+      "brandName": "泽通智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "通讯补贴",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1724982802000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泽通智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

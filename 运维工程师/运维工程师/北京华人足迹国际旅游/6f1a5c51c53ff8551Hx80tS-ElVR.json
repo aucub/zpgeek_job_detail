@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7zag-LOm0vYjH-c1lhJUVM8kjHknmqMY9NyrnYnnhTbQt5un597aVoJJofxD5n_j0gZUMC6Ow4V3C3sCBvNw-NJauzq_Qit4JeaqLxlTm7iTXbxE-W1zj_yp1v6-gX9pVeFklo8ymSCmbkRBqUHaOpNrIETXW8i1_gspBjjQarhd6w92Nw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6f1a5c51c53ff8551Hx80tS-ElVR",
+      "encryptUserId": "79da8cd4b1facb740XNy2ti4GVI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "【工作内容】\n针对测试、生产平台和系统开展运维工作：\n1、维护服务器稳定运行，监控系统日志，处理系统问题；\n2、维护各个应用模块运行环境稳定，监控各个端口服务运行状态，处理相关问题；\n3、协助研发进行上线部署以及升级工作；\n4、根据网络与信息安全管理要求，维护平台安全基线配置合规、解决相关安全漏洞问题；\n5、配合支撑团队进行重大活动保障支撑。\n\n【学历要求】\n专科及以上\n【背景要求】\n1、熟练掌握Linux、Windows操作系统使用、安装、配置；\n2、熟练掌握各类中间件集群部署、配置、维护、运行监控等技术、包含：roketMq、Redis、canal等；\n3、熟悉数据库部署和维护：Mysql、ElasticSearch等；\n4、熟悉shell、python等脚本开发语言及Zabbix、Grafana、Kibana监控软件；\n5、熟悉Web项目部署、Nginx负载均衡的配置；\n6、熟练掌握容器化、微服务相关框架的配置、运行，包含：K8S、Docker等主流框架；\n7、熟练掌握持续开发、持续集成环境搭建。\n8、具备网络安全设备管理经验，具备基线配置、漏洞修复、组件升级相关经验；\n9、具备2年以上相关领域工作经验者优先，具备网优网管网信安全类产品运维工作经验者优先。",
+      "encryptAddressId": "6b6e0567da7773601nZ42Nm7FlZYxoW_Vv-Y",
+      "address": "武汉汉阳区慕金星光30",
+      "longitude": 114.221301,
+      "latitude": 30.523079,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/685e997b632a2f1ddbc4262fbf33cfc3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d1dee0f8253d3b69133d650c33f7022d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "MySQL/Oracle",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "章女士",
+      "title": "市场策划经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京华人足迹国际旅游",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d2a4dab09ce328761HB42Ny1FVs~",
+      "brandName": "北京华人足迹国际旅游",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101103,
+      "industryName": "旅游/景区",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726758691948,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京华人足迹国际旅游",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "luYMlD-PzpKEQ-U1N9KYugWwTqLBJwiVYUwoIn4RQuhQI5FFO-iG8mt3WLKYIZj5TokUybzeGsIqhin7nOsX3-zqmSehK4p77ZECgcXoCuj2DH7r",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3d5799279923a2a41XN93dm5E1s~",
+      "encryptUserId": "937f63fdf874d9bc03N52d28FFQ~",
+      "invalidStatus": false,
+      "jobName": "PHP工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n1. 负责后台模块开发；\n2. 根据需求完成功能设计和代码编写；\n3. 保证后台正常稳定的运行；\n\n岗位要求：\n1. 有 PHP 1年以上开发经验，熟练掌握 Laravel、ThinkPHP、Hyperf 等常用 Web 开发框架；\n2. 熟练掌握mysql数据库，包括数据库设计、速度优化，redis、memcache等中间件缓存；\n3. 熟练掌握 Vue、ElementUI、HTML+CSS、JavaScript 开发；\n4. 熟悉 Linux 下的开发环境，了解 Docker、K8s 等容器部署工具的使用；\n5. 了解 Swoole、Node.js、Golang 等异步技术优先；\n6. 熟练掌握git等版本控制软件，熟悉敏捷开发模式。",
+      "encryptAddressId": "8aa3d02672bdc9d633Vy2Nq1EFY~",
+      "address": "苏州昆山市京东智能产业园17栋423",
+      "longitude": 121.054154,
+      "latitude": 31.294215,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d6c832ae947215e6a8549d0eb745e19a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49e572ca42f33c2248414300c7822da6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "服务端开发经验",
+        "PHP开发经验",
+        "PHP",
+        "MySQL/Redis/MongoDB",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "识沃网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3ee93aef72fdbc931Xxy2Ny_EQ~~",
+      "brandName": "识沃网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210510/51ef911410fd560ecfe95143f13d5f8be86ec2e27fdc370a7f913cb20ec853b0_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "昆山识沃网络科技有限公司成立于 2017 年 7 月，总部位于中国上海，在海外设有专门的推广和运营团队，公司致力于给所有使用 PHP&Swoole 的中小型公司提供软件产品、技术咨询、企业培训、企业安全等服务，帮助企业提高生产力，并获得强大的创新能力，同时回馈 Swoole 开源社区，招募全职的 Swoole 内核开发，测试等岗位，帮助 Swoole 项目走的更高更远。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "员工旅游",
+        "餐补",
+        "住房补贴"
+      ],
+      "activeTime": 1724105914965,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "识沃网络科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

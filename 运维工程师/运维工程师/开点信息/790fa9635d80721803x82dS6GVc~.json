@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oE3b8Nm5Le9dc-Y1Ps5wDVtXcGrsgJ9lZH1-UN7-YyGt6pInT1yBdHaQM4aKGvblExyJs_KtdlDucqoKBbzzmX8IBtzd7Dn8tiQ0-2u03PHhAnlI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "790fa9635d80721803x82dS6GVc~",
+      "encryptUserId": "56732e2e30292d6f1X1y2dq4GVI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位内容：\r\n1. 负责公司项目的运维保障；\r\n2. 负责配置测试环境和线上环境部署，并进行维护、升级；\r\n3. 负责公司服务器的规划与监控、数据分析、日志分析、排除故障等工作；\r\n4. 优化运维体系并保证服务器可靠、可扩展的运维环境；\r\n5. 自动化脚本的开发。\r\n\r\n职位要求：\r\n1. 专科及以上学历，计算机及相关理工科专业毕业；\r\n2. 1年以上linux/unix系统管理经验，熟悉网络整体的架构，能熟练使用系统命令；\r\n3. 熟悉bash,csh等unix/linux shell脚本，熟悉mysql /redis/mongodb数据库基本操作，熟悉svn基本命令；\r\n4. 良好文档编写和文字表达能力和团队合作精神；\r\n5. 有很强的责任心和学习能力，能承受压力。",
+      "encryptAddressId": "c3b3042637b8f3951XF40t2_F1U~",
+      "address": "上海普陀区逗维空间",
+      "longitude": 121.411728,
+      "latitude": 31.230255,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/59b439a4b78958ced7360a2061e12c78",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/81decf85d15b4190c47f8c26c743d3cc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "MySQL",
+        "Web安全"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "开点信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7dd4e0c23e00543403d-0ti_FQ~~",
+      "brandName": "开点信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724150862552,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "开点信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

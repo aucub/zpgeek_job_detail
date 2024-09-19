@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wbbhSnm3JzHyL-N1qT0qqE49bcQ1AE3wYOBRicsIgmsftYpHdHr4zAjkeNUjFwLxw0g9xibrIK7RRrJeyRGUwpApSDPyZFCf-OLeo1Jrp2jYrG3iLmcI",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2621a5eadc27f7f1X183tm1ElJY",
+      "encryptUserId": "f98f56cc2973a3f70nZy3tm7FVBS",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责和要求：\n- 熟练使用Python编程语言，至少有1年相关开发经验。\n- 熟悉Python的数据可视化库，如Matplotlib、Plotly或Seaborn，并能够将数据转化为图表展示。\n- 具备良好的界面开发能力，熟悉GUI库如Tkinter、PyQt、wxPython等。\n- 熟悉数据库管理和查询技术，熟悉Redis等内存数据库的使用。\n- 熟悉Python多线程，多进程概念。\n- 具备良好的软件工程实践，包括代码审查、单元测试、版本控制等。\n- 具备良好的沟通和团队合作能力，能够与团队成员合作解决问题。\n- 具备良好的问题解决能力和学习能力，能够快速适应新技术和工具。\n\n加分项：\n- 具备数据分析和统计学知识。\n- 有Web开发经验，熟悉Flask或Django等Web框架。\n- 有机器学习或人工智能方面的经验。",
+      "encryptAddressId": "f736effaa71a32ea0XV62dm8FFE~",
+      "address": "长沙开福区凯乐微谷(西门)9楼",
+      "longitude": 112.993292,
+      "latitude": 28.237666,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e18e590becbafebc82438e7c9e45aee8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98b5c868b95e2c4e2ca2bf13f0e50b7f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "界面",
+        "数据可视化"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220504/607f1f3d68754fd0a70d42e13a4ed127d058835477195e99a6adafbb1ddca876e72c5df0585_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "电磁场科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "712caaae52cb51b61n1_2Ni_ElQ~",
+      "brandName": "电磁场科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220629/7b5b554d84f9729c099c4eabe2bc9045e726a229b51032a4a6adafbb1ddca876e72c5df05850b902.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724121504420,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "电磁场科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

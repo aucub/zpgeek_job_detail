@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PHua31-Jx5V26-l1aCw-z_UexDgj8z40oTu83VHIzMuRJgpA3dc5_uuonMmu6-l1A92kB4lNl9kCZV03UdgRJw0MNMiujrkJ_GsKG4iyAo_Tyj_1DX2gPwBGkJquhm4xS4-nQPCLYqKz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "60e5553aaf6854641HN-2tm1GVJU",
+      "encryptUserId": "691917171a3193241HZ40ty1GVQ~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100106,
+      "positionName": "C#",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责WMS与WCS底层控制调度系统的接口开发，WMS各项功能优化,界面设计和服务端开发。\n\n2、协助设计与实现WMS/WCS的开放API，优化系统功能。\n\n3、对软件进行单元、功能测试、现场调试等工作，保证系统正常运行；\n\n4、参与项目实施期间用户的系统培训以及业务、技术方案咨询，并收集用户需求。\n\n5、熟悉WMS/WCS系统与仓储物流自动化设备如堆垛机、输送机、穿梭车、机器人等, 了解其通讯机制与设备运动控制原理；能结合业务需求，从成本、效率及业务未来发展等方面，将物流自动化设备与系统进行有机结合，提出优化方案与建议。\n\n\n\n\n\n任职要求：\n\n1、统招本科及以上学历，计算机相关专业优先，具有3年以上WMS/WCS开发经验。\n\n2、精通C#开发，熟练掌握dapper 等ORM 模型，具有用.NET 开发大型项目经验。熟悉WinFrom、ASP.NET、XML、HTML、WEB、等开发，精通WCF及WPF相关技术，WebService接口，掌握面向对象软件分析、设计模式。\n\n3、精通至少一种关系数据库，如MSSQL、MySQL、Oracle等。\n\n4、熟悉RS485、TCP/IP、Modbus、ProfiBus等工业总线协议；熟悉西门子等PLC以及相关上位机与PLC的通讯协议：OPC等。\n\n5、了解HTML5 + CSS3 + JavaScript等前端基础，了解Vue、TypeScript、Element UI、Bootstrap、jQuery 等前端框架技术。\n\n6、了解SOA、RESTful、SSL、TLS等通讯协议标准。\n\n7、对用户体验、交互操作流程、及用户需求有一定了解。\n\n8、具有良好的服务意识、责任心强，学习能力强，具有优秀的沟通与团队协作能力，能适应短期出差。",
+      "encryptAddressId": "4cce2212499239ae1nR83di0GFRQyou7Ufie",
+      "address": "武汉江夏区武汉埃瑞驰科技有限公司",
+      "longitude": 114.446965,
+      "latitude": 30.461079,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240717/48ba41acc9cef1bfb1098b881ae340ef815683139109acfe6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240717/48ba41acc9cef1bf11023751d300bf48d226af4eed38fe876bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "C++",
+        "C#开发经验",
+        "设备类",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171104/b3e0c0a863edb9c09c6580487fe5b2b5f7d2deb32d7548346400fa20707_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "武汉埃瑞驰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "aa7be36b0449187d1nZ609i1Ew~~",
+      "brandName": "武汉埃瑞驰",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100801,
+      "industryName": "汽车研发/制造",
+      "introduce": "本公司是沈阳新松机器人在华中地区唯一指定代理商，主要负责AGV产品推广，安装调试售后！智能机器人时代来临了，期待您的加盟！",
+      "labels": [],
+      "activeTime": 1725347506000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉埃瑞驰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

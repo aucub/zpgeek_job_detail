@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QRRwB0jqHK0yZ-11OPGBJ0-tTTVWdAJHeALQVuTO_FHrAKWnVzTUVx7Auam7MltdSZiA7KsMVipM5ThO1xV_9vgcqr5sC2rwUzZYsbNNoUK9edTbuoixSonBe-QBaVsRzwwH5q4Hj5gVZw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f6c02f8003328df1Hx82dq6FltQ",
+      "encryptUserId": "c02b070043ffa9031X142t20EFI~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100802,
+      "positionName": "嵌入式软件工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "基本要求\n1. 对嵌⼊式系统、微控制器、微处理器有基本了解\n2. 对操作系统原理有基础理解，尤其是实时操作系统（RTOS）\n3. 有使⽤嵌⼊式开发⼯具和环境的经验者优先，例如Arduino、Raspberry Pi\n4. 熟悉⾄少⼀种编程语⾔，如C、C++\n5. 能够独⽴思考和解决技术问题、能够清晰有效地沟通技术问题和解决⽅案\n加分项\n1. 熟悉嵌⼊式开发平台(NVIDIA Jetson、RK3588等)，或单⽚机(STM32)\n2. 对各类通信协议有基础了解\n3. 有基于Linux 的开发经验\n职责\n1. 配合硬件进⾏板卡调试和驱动开发\n2. 开发和调试毫⽶波、视觉、导航等传感器产品的硬件接⼝\n3. 算法软件集成，测试功能与性能\n4. 针对特定机器⼈平台优化软件性能，包括处理速度、能耗、内存使⽤等\n5. 撰写技术⽂档，记录开发流程和配置信息，便于团队协作和维护",
+      "encryptAddressId": "4b59f2a9feffc82d33Jy3tm6EVdZwYu6Vfs~",
+      "address": "上海松江区棕榈广场(莘砖公路)2楼",
+      "longitude": 121.324185,
+      "latitude": 31.09303,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4d7f4062cf242c9d15ab0509134c4b51",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/114613aa9d8c1446e9a9e9021bf70953",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "ARM开发",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240424/607f1f3d68754fd0331076ce974e6c8181432afdd20cd0a63aad6a5d6ede65be9888f9a6bf1baeb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "极洞科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "847b927f86e23dfc1HZ73dW5FFI~",
+      "brandName": "极洞科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240111/7bf6f160950405e9d04013881e62e243850ac92198bfcba73aad6a5d6ede65be9888f9a6bf1baeb4.png.webp",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "极洞科技是一家高精度定位服务及融合导航产品技术供应商公司；在空间计算、时空智能、万物互联时代，以AI+北斗双引擎，为汽车、无人化设备提供高精度定位导航、融合态势感知及空间智能产品与服务。目前提供开箱即用、无惧遮挡、厘米级精度、全场景应用，集北斗 / GNSS / SBAS / RTK、视觉、IMU、Radar等传感器深耦合的系统级室内外导航解决方案，涵盖农业机械、工业机器人、无人机、海上装备、智慧工厂等应用场景。",
+      "labels": [
+        "交通补助",
+        "节日福利",
+        "免费工装",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "节假日加班费",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1726740551423,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "极洞科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

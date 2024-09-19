@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pkx4TWB9fLFJB-u1CPNe0rV7oQ-jBebmZt3dYlFCxk_VOOV6CRHjcRqnKQuNoBW30LGf8HYEfeBkvZriRbtqw6gcrc4VuTfg1CiiyTSVkpZzdu3cb2OvmqjQfh_Z8dCCYU60UfeK-FUGal8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1ff0419c5b89d8651Hx_0tW4FlpZ",
+      "encryptUserId": "116ed9e6ea0277990nN80tu7GVFZ",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\r\n1、\t对项目需求进行详细设计和数据库设计\r\n2、\t编写相关项目详细设计文档和数据库设计文档\r\n3、\t参与相关项目策划、开发、测试工作\r\n4、\t研究、解决相关项目中遇到的问题\r\n5、\t熟悉已有项目，并在其基础上进行二次开发\r\n6、\t完成领导安排其他工作\r\n任职要求：\r\n1、Java基础扎实，对JVM运行原理与常用配置有一定了解，熟悉Java常用技术框架和第三方类库；\r\n2、熟悉Spring,SpringMVC,SpringBoot,SpringCloud框架，对以上框架有一年以上开发经验，具有良好的抽象思维能力，熟悉常用设计模式；\r\n3、熟悉ElasticSearch、RabbitMQ、RocketMQ、Kafka等一系列中间件；\r\n4、对docker、k8s有一定了解；\r\n5、熟悉常见关系型数据库和非关系型数据库，如Mysql、SQL Server、Redis、MongoDB等，有一定的sql调优能力；\r\n6、有较好的沟通能力与较强的抗压能力；较强的责任心和执行力，良好的团队协作意识，服从工作安排；乐于分享，学习意识强。",
+      "encryptAddressId": "4087e35b27c7dbf41nZ92tS9E1JUwYq8U_yZ",
+      "address": "杭州临平区瑞聚大厦5楼",
+      "longitude": 120.27595,
+      "latitude": 30.452725,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bf28c34c7d18a4383536c98d1ec9060fe46bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240831/48ba41acc9cef1bf5fa1b7c690845b0ffdf15eebe5a441356bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JVM",
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd07cf3274c9094ea40b32a1fd04092ee966a2e31f0a7080880bc20241281eeb01_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "璟曦节能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f318b1daed1410911Xd63du8GFo~",
+      "brandName": "璟曦节能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726286658023,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "璟曦节能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
