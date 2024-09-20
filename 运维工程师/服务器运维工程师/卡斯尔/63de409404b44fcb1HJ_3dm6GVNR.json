@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "u0i9N744C2O0o-31F9Uc1rVcSbIDooXweAEF_3iQNoXHsOVogjQEAvGQqBI1y8nuw2pA7CLC4l2_7QXbWTNf2OJUmeaeCIr_lOmMbBVbtXgV1wV_MiJVK3iDVu7cDMYxGYrhodJEAYGd7g~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "63de409404b44fcb1HJ_3dm6GVNR",
+      "encryptUserId": "7e8fbaad46fa5d411nVz39i8EVtX",
+      "invalidStatus": false,
+      "jobName": "服务器运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作要求\n1、计算机相关专业本科以上学历。\n2、1-5年网络相关岗位运维经验。\n3、工作地点：厦门市（出差较少）\n4、工作时间：按法定要求（特殊时期需参与信息安全保障）\n二、工作内容\n1、服务器部署与配置：\n安装、配置和部署服务器硬件和操作系统，包括物理服务器和虚拟化服务器，确保服务器的正常运行。\n2、服务器监控与性能优化：\n使用监控工具监测服务器的性能指标，包括CPU利用率、内存使用率、磁盘空间等，及时发现并解决服务器性能问题，优化服务器性能。\n3、操作系统管理：\n管理和维护服务器操作系统，如Windows Server、Linux等，包括操作系统的安装、配置、更新、补丁管理等。\n4、安全管理：\n实施服务器的安全措施，包括防火墙配置、入侵检测系统（IDS）、安全补丁管理、访问控制等，保护服务器免受攻击和威胁。\n5、备份与恢复：\n设计和实施服务器的备份和恢复策略，确保服务器数据的安全备份，并能够快速恢复服务器运行。\n6、容量规划与扩展：\n根据业务需求和服务器资源使用情况进行容量规划，确保服务器资源能够满足业务需求，并根据需要扩展服务器资源。\n7、故障排除与修复：\n及时响应服务器故障报警，进行故障诊断和排除，确保服务器的高可用性和稳定性。\n8、软件应用支持：\n配置和管理服务器上的应用软件，如Web服务器（如Apache、Nginx）、数据库服务器（如MySQL、SQL Server）、邮件服务器等，确保应用软件的正常运行。\n9、文档编写与培训：\n撰写服务器配置文档、操作手册和技术文档，记录服务器配置信息和操作流程，为团队提供培训和支持。",
+      "encryptAddressId": "54090396bab616e43nJz29i-ElZWx4m8Vvo~",
+      "address": "厦门思明区软件园二期望海路55号B803单元",
+      "longitude": 118.184743,
+      "latitude": 24.489013,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230419/48ba41acc9cef1bffe2a92d701dc01c64b7f849082957a8b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240619/48ba41acc9cef1bf3aae077a17b990657bf4223f602cdd8e6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "MySQL/Oracle",
+        "系统运维",
+        "计算机相关专业",
+        "运维经验",
+        "IDC机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "叶女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "卡斯尔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6f9153fd5f41b0821Xd429i1Fg~~",
+      "brandName": "卡斯尔",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180716/92bdbbaccebc20659f17dc9b916e9698cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726652167459,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卡斯尔",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

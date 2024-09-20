@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "e8ZfHvBLlxcgJ-B1GZUjWV5zz8oF-g-Kh_hoNKHnu4goAAs5rPwMnQfwDk1GnreN2cOZji2yNisLlYqpf3G0oijI7Ri3GIP1OvE2KCa3Okq0bhekBPZyC6dneS1zmVD5ya9NXe5IGFL_G1k~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "058a964f1d4802871nZ839y_GFBY",
+      "encryptUserId": "db9e4301401edbde0nVz2ti9GFZS",
+      "invalidStatus": false,
+      "jobName": "软件评测工程师2人",
+      "position": 100309,
+      "positionName": "软件测试",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-5K",
+      "payTypeDesc": null,
+      "postDescription": "一、招聘岗位及人数：\n       1、招聘岗位：软件评测工程师2人；\n       二、岗位描述及工作内容：\n        1、编写测试计划，对测试工作的日程、软件和硬件、人员等进行安排；制定测试策略，决定将要对该系统进行功能和性能两方面的测试。\n        2、编写测试用例，对负责的模块下的所有功能点编写测试用例。\n        3、根据测试用例对系统进行黑盒测试，如发现软件运行的实际结果与用例的预期结果不一致时，将其记录下来，反馈给厂家开发人员进行整改。\n        4、开发人员整改后，负责进行回归测试，验证发现的bug是否修复，如已修复则关闭该bug，如还未修复，则继续提交开发人员整改。\n        5、性能测试开始后，首先编写性能测试计划，设计将使用多少虚拟用户来负载，负载场景的运行时长，虚拟用户如何加载以及如何释放等。\n        6、熟练使用loadrunner性能测试工具对选定的功能点进行测试，首先使用Vugen组件对要负载的功能点进行脚本录制，添加自定义代码（如插入事务、集合点等）；接着使用controller组件设计负载场景，而后开始运行场景，进行负载测试；最后当场景运行完成，使用Analysis组件。\n        7、功能和性能测试均完成后，负责编写测试报告。测试报告包含各模块测试结果、测试用例执行分析、缺陷分析、测试结论等几部分内容。\n        三、待遇相关：\n       1、基本工资4500/月；\n       2、试用期满，双方根据个人工作能力及检测中心工作任务商定个人薪资，公司确保每年收入不低于6万元，并按照国家相关劳动法规缴纳五险；\n        3、目前，广西北星检测科技有限公司已投资930万元完成一二期建设，公司相关检测资质资格正在申请进行中，预计8月份公司将正式对外展开运营。公司的个人职业发展晋升潜力巨大，欢迎有识之士加入我们的团队，并在未来的工作当创造自我价值。有意者请与我们取得联系或将个人简历投送至：****************\n         联系人：韦经理\n         联系电话：************\n         地址：南宁市金菊路12号广投龙象府D栋18楼\n\n                                                           广西北星检测科技有限公司\n                                                    广西北斗产品（系统）检测评估中心",
+      "encryptAddressId": "6e75a1bf9fa8293803V42N24EVs~",
+      "address": "南宁青秀区广投龙象府18楼广西北星检测科技有限公司",
+      "longitude": 108.393082,
+      "latitude": 22.830267,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e704aeeda0ab03f944a6ec0a1a20344f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a3166674dd90bc585492ba74d6d10836",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "黑盒测试",
+        "负载测试",
+        "LoadRunner"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢女士",
+      "title": "行政总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "九维时空",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a1f989b4b13be7a11nB53Ny6FlM~",
+      "brandName": "九维时空",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724211358937,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "九维时空",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

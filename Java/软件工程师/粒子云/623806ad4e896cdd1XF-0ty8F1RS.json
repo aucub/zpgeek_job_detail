@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CgnY3quaWVh1a-j1VNbOUSGcSZJF7YubqAKTyusg3AxK1Cxk9A5pt-HiRk4XY_dHdYqCxO7VvqkR-i6EcRAAX1OvhyyEoukQbk_z0m44PhPr8FBGhRUkiUmacWbL2WsITeq_0mnjJZ2a",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "623806ad4e896cdd1XF-0ty8F1RS",
+      "encryptUserId": "ea0cbe2d39966cc21XRy3NS9E1s~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190200,
+      "locationName": "无锡",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机或者相关专业；\n2、1年以上java开发经验，能够带领项目技术团队；\n3、精通流行的J2EE技术开发框架(Struts2/SpringMVC/mybatis/web service/xml/json/jquery等，熟练掌握WebService技术；\n4、精通XML、WSDL、SOAP、RMI、Web Service等各种远程通讯技术，有SOA系统架构设计经验者优先；\n5、熟悉WebSphere/WebLogic/JBoss/Tomcat/Apache等主流应用服务器其中两种；熟练掌握Mysql数据库；\n6、了解Mongodb等NOSQL数据库；了解jni技术尤佳",
+      "encryptAddressId": "e23f753abc42319b1nZ-3d68EFM~",
+      "address": "无锡新吴区鲸鱼座C502",
+      "longitude": 120.370751,
+      "latitude": 31.495281,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f8c230cbbcc29cad1405150ad800013f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c7061ebbab583bcd299a8bbda3f699af",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring",
+        "MongoDB",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "韩先生",
+      "title": "研发部门经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170206/6ddd72c3c0537de5c03616031fa677eed91f58f7bd6c49c72d73d1c92f2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "粒子云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51cb1c5dfb31391103N52tq0Eg~~",
+      "brandName": "粒子云",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191211/c28cdc8c905575480142291846313373bc0e3764db25d18d144decb0337ec509_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "高校实验室安全管理平台，包括实验室基础信息，物资采购与管理，供房管理。安全检查，环境监测等系统。目前产品已经成功服务于江南大学，南京航空航天大学，南京农业大学，南京师范大学，扬州大学十多所高校。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假"
+      ],
+      "activeTime": 1726682087035,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "粒子云",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
