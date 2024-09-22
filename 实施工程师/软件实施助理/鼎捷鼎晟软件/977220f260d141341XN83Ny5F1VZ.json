@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JGO3bP60qqJU--j1hagUElu0UtEG2D2KtdgUEZ-M0o2MF1ndYCPd1ZOWjWZ0Fw0oLsQq0JJ6d_yuUuSi0p8pJcYaQpa-7Q_IWVbgwcWZBso2J3iGK6ZaiO5k39g62JDTf2e4Jeb1a0rF",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "977220f260d141341XN83Ny5F1VZ",
+      "encryptUserId": "749a8ba185a4e5800XB62Nu7GFA~",
+      "invalidStatus": false,
+      "jobName": "软件实施助理",
+      "position": 100606,
+      "positionName": "实施工程师",
+      "location": 101281600,
+      "locationName": "东莞",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-7K",
+      "payTypeDesc": null,
+      "postDescription": "重要提示  没进系统做测试功课的同学，不需发送简历。\n要求\n1、应届毕业生与初级软件技术岗位，优秀大专与本科毕业生。\n2、此岗发展方向，客户服务、实施服务、实施顾问等工程师岗位。\n3、专业要求：软件技术、计算机、财务管理、工商管理、物联网技术等。\n4、两周培训期，两个月试用期转正。\n5、工作内容：记录与处理客户问题；协助实施顾问处理项目事宜；到项目现场协助客户上线，按需要驻场。\n6、每周5天半制，早8：30-晚6：00下午班。\n7、岗位需求：实施助理、技术客服、推广运营助理，招聘人数5人。\n8、面试要准备一二句话说明你的优势。\n9、上班区域：东莞、深圳、佛山。\n\n\n如有意做实施ERP工作，可以先了解下ERP系统，并完成测试题ABC，方法如下，1、下载金万维公司的天联高级版客户端最新版（电脑端），安装在电脑上；  2、输入服务器：dserp18:80  用户名 202304  密码 （202304） （不外传）； 3、可以打开学习易助ERP系统，进(2023学习账套），用户名(  wh )，密码为（   wh）  4、进系统后，即可以看到系统的全貌，这是我们主流的中小工厂管理系统-易助ERP; \n测试题A 建立一张采购订单，并按此订单做张进货单。  B 建立一张生产工单，并完成生产领料单 ，生产入库单。  C、做一张其他出库单、其他入库单，并能查库存。如能完成测试题，并发送成功截图，本周六周日可安排面试，确有兴趣请联系下我，谢谢。\n\n实施助理需读懂以下代码，具备写Sql能：\nselect distinct IBB003,IBB004,DEA057,\n(select sum(IBB006-IBB014) from DCSIBB as IBB where IBB.IBB003=BB.IBB003  and IBB.IBB015='N')  as 订单未交总数,\n\nisnull((select sum(RAA018-RAA019) from SGMRAA as RAA where RAA.RAA015=BB.IBB003 AND RAA.RAA020='N'),0) as 工单未完工总数,\n\nisnull((select sum(HDB006-HDB018) from DCSHDB as DCS  where DCS.HDB003=BB.IBB003 AND DCS.HDB012='N'),0) as 采购未交总量,\n\n\nisnull((select sum(REA018-REA019) from SGMREA as REA where REA.REA015=BB.IBB003 AND REA.REA020='N'),0) as 委外工单未完工总数,\nisnull((select LOA003 from JSKLOA as LOA where LOA.LOA002=TP.DEA008 and LOA.LOA001=BB.IBB003),0) as 库存数\n \nfrom DCSIBB as BB left join DCSIBA as BA on BA.IBA001=BB.IBB001 left join TPADEA as TP on TP.DEA001=BB.IBB003 WHERE BB.IBB015='N'",
+      "encryptAddressId": "b0592f7efae3a4f51XJ72N28Eg~~",
+      "address": "东莞方中东升大厦5楼",
+      "longitude": 113.768986,
+      "latitude": 23.027104,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f2ac2ad4a5f2fac02eb0cfb23c6345a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/23998cdc7f7ddc20daafda72b83d2a52",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "ERP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201201/6919887522ecc41340841b55f0f17db6138a2354a136036469d91a00a78_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "鼎捷鼎晟软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5e7ed1c6e1aecba403J63tW7Ew~~",
+      "brandName": "鼎捷鼎晟软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200425/a662f0a39018ac008edb37eba4539620138a2354a136036469d91a00a7803e8d.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "上市公司鼎捷软件（股票代码300378）旗下代理咨询服务商，旗下有有东莞鼎晟软件，佛山鼎晟软件，其他分公司在计划中，主要为广东珠三角地区中小型制造业提供ERP信息化咨询与实施服务，提供企业管理培训、工厂流程辅导、精益生产管理培训。主要产品有易飞ERP、易助ERP、企明星管理系统、MES系统、人事工资系统与软件、软件开发等。\n鼎捷软件，来自TW鼎新电脑，创立于1982年，2000与神州数码联合，创立神州数码管理系统有限公司，2010整合亚太地区分公司，2014年上市，国内制造业ERP领头羊。\n有意向应聘者请下载我们主打ERP系统，熟悉流程。\n1、下载金万维公司的天联高级版客户端最新版（电脑端），安装在电脑上；  2、输入服务器：dserp18:80  用户名 yz  密码 yz（不外传）； 3、可以打开学习易助ERP系统，进(鼎捷软件帐套），用户名(  DS)，密码为（   空）系统后，即可以看到系统的全貌，这是我们主流的中小工厂管理系统-易助ERP;   \n有意向入职的朋友，需完成岗位简介中的测试题，最好可以录屏，后续需进行远程评测面试。",
+      "labels": [
+        "五险一金",
+        "定期体检"
+      ],
+      "activeTime": 1726824228182,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鼎捷鼎晟软件",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
