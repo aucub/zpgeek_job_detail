@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Ro1NajgTW7Wrm-M1HeSCFOYnnZSkZ24XwczLvSSyqavjJ1KP231pOMOoGJzwko-DluM7PW8EZdB-bjnhf5f0-w4cmjgNSvS-96DnCDcyHA3eKQhXP8dDhmtZ8oWqI9XXbrgtit2gEXzcfg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f716b2252f98d0021HJ40t66EFtW",
+      "encryptUserId": "b48fb89d857d749f33Fy3dm-GFM~",
+      "invalidStatus": false,
+      "jobName": "Web后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1. 与前端工程师、产品经理进行协作，参与项目需求讨论，独立进行设计、选型、开发、维护、优化，从无到有实现Web后端需求；\n2. 与Web前端配合完成前后端数据的传递与展示；\n3. 部分后端数据支持从第三方来源进行定期或者不定期同步；\n4. 支持后端相关IT环境的云上或者云下的部署与维护，如Web服务器与必要中间件；\n5. 按照项目计划，按时提交高质量代码，完成开发任务；\n6. 思路清晰，具备良好的沟通能力和团队协作精神。\n【任职要求】\n1. 2年以上后端/Java开发经验，本科及以上学历，计算机或相关专业，有扎实的计算机基础；\n2. 精通Java，了解Spring、SpringMVC、SpringBoot、yBatis、Hibernate等技术的原理和实现机制，具有SpringCloud和dubbo等相关框架的开发经验；\n3. 精通SQL，熟练使用MySQL、Oracle等关系型数据库，并具有一定的SQL优化能力；\n4. 了解文档型数据库，如MongoDB，可根据需求进行技术选型，实现高效的文档存取；\n5. 掌握Linux操作系统的常用命令，熟练使用各种版本的开发工具以及SVN、Git等版本控制器，具备良好的系统操作和版本管理能力。\n6. 有良好的代码风格和编程习惯，有良好的学习、沟通表达及解决问题能力；\n7. 有PC端Web网站后端独立开发经验者优先。",
+      "encryptAddressId": "d097288495a292133nZ_09W_EFRXxIS2VfM~",
+      "address": "上海浦东新区张江高科技园区08",
+      "longitude": 121.600986,
+      "latitude": 31.209222,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7c2c82563c9f99c1fc7131b5649ea899",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/db80e8584a6d22f6db5efa19456bf560",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "MongoDB",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "魏先生",
+      "title": "战略顾问",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "网安智联科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "29244a55e6cb01431nx_09u6EFo~",
+      "brandName": "网安智联科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724513585071,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网安智联科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LpXbVo7EYkpHw-Y1xVncb-OBDLt-LGsKYFwI253IetKTeGQshT03_CUnXzn1ctWk867eJFUt7HRGDcDLqxaQ3NEsUVZD7IrW7s_JUNncbfOmuNGENUVWqh7DBNJ_lS0f3tCkDaIPIW2L1w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "65e96ce5404d013c1Xx62t28FlBQ",
+      "encryptUserId": "a777e5fae779e9d80XNz3921F1M~",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责制定中间件平台（含各类中间件软件和中间件组件）技术标准和规范，为应用上云部署提供技术支撑工作。\n2、负责业务系统中间件选型、规划和实施测试，参与基础环境架构设计和改进。\n3、负责制定中间件性能调优、问题消缺、应急保障流程以及知识体系建设，主导并参与中间件版本升级、漏洞消缺、应用基线规范推广等工作。\n4、负责中间件软件和中间件组件日常运维监控、高级故障诊断，针对各类业务系统制定合理有效的优化方案。\n5、负责中间件新技术研究，推动中间件技术微服务化平台建设，参与微服务治理、Devops、AIops等体系构建。\n任职要求：\n1.本科及以上电力系统相关专业知识，具有2年以上电力企业信息系统运维工作经验优先，维护2年以上系统运维或系统实施经验优先；\n2.熟悉项目管理和执行方法，具有一定的系统需求或业务分析能力；\n3.熟悉Linux操作系统常见命令；\n4.熟悉阿里云或华为云上系统部署及系统运行维护涉及的常用命令操作；\n5.掌握云上RDS数据库及Oracle数据库操作，熟练使用SQL进行增删改查等操作；\n6.掌握常见开源软件的安装及配置，包括nginx、redis、Tomcat、weblogic等；\n7.熟悉docker或k8s一种并在实际环境中应用维护经验；\n8.掌握shell语言，编写启动脚本等并会发布定时任务；\n9了解项目招投标流程，具有使用手册、验收文档等材料编制能力；\n10.有良好的沟通表达能力，善于和业务部门沟通业务诉求和问题解答；\n11.熟练使用Word、Excel、Visio、等office办公软件。\n12、熟练使用阿里云产品,对elk、rancher、nacos、jenkins、flink等相关技术能熟悉掌握。",
+      "encryptAddressId": "4ef24ed61ca85f210H153t-4EFo~",
+      "address": "北京西城区电研大厦A",
+      "longitude": 116.348378,
+      "latitude": 39.90894,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/af2c544c218f046be7e07defa161c80e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ffece1e460527b64571a6322b57700c2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "系统运维",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宁先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "满诚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e469ef6ea279b7051nV_2dq5EFo~",
+      "brandName": "满诚科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726306070000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "满诚科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

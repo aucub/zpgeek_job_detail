@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "OwNpVkThDQW4C-P1wjxek8SHjjqm-6EMn0LKVR0XtsM-9BbRLaXMEjaXxfBSt5fUZVfDtF2c17w-Oga387VlO94yVoAuGXHM7uWherANc6FolJQPF6DVsYHbutXeVj6PD4LF0LqUa-5b2w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b20a15d0f85af6f71nV439S7GVBY",
+      "encryptUserId": "7e4fc4630fd8ed171nRy2N67GFZQ",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "名岗位职责(满足以下之一) \n1：负责各类安全工具平台，安全产品的建设研发，包括流量处理，RASP，DAST，SAST 等各类安全工具平台的建设研发；\n 2：负责建设支撑 SDLC 流程节点的各类工具平台，落实产品应用安全治理上的相关的要求及检查机制的自动化闭环\n岗位要求(满足以下之一) \n1：扎实的编程基础，熟悉 JVM，Kafka，ELK，Spark 等技术，熟练掌握以下一种或几种开发语言:Java、C/C++、Python、Shell 2：具备安全漏洞分析、解决能力,对安全风险进行根因分析、熟悉网络安全技术，尤其是主机/WEB 安全，熟练掌握主流攻击、防护技术，有相关安全工具平台开发经验优先\n 3：熟悉微服务架构,熟悉以下平台或框架:SpringBoot、Django、AngularJS、Redis、Kafka、 Zookeeper;",
+      "encryptAddressId": "caedde236b2273341HNz2tu5FVc~",
+      "address": "武汉洪山区金地圣爱米伦5栋1-1-1602",
+      "longitude": 114.314079,
+      "latitude": 30.491565,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4462d584b09c5cb9f2e651ab3dbc0a1c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1f6ca755f0d94996028ebafcd01c4b30",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python",
+        "Shell",
+        "分布式技术",
+        "微服务架构",
+        "Spring",
+        "Redis",
+        "网络安全"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "户先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "列悦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "10bf5e15f9e9af6333Z83ti9Fg~~",
+      "brandName": "列悦",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724517233480,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "列悦",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
