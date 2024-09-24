@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "c7v1BEdJW9uAr-H11eRCkzm1u2nQQynwztCMe-YjejUWzZDIQ_wSFkOeHILL6RMvZgn3P2Qp-E8zr_3BtiCOQHAXt-0w9iO1RpBWu9E72s6dmYWEuNw7VNFm2YXKxTmvXiSENdzP8oFn-Hs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "36e30a884f342d301Hx93Nm1EVZQ",
+      "encryptUserId": "ec9d92fcddd496e00nZ92Nm_EldX",
+      "invalidStatus": false,
+      "jobName": "数据分析师",
+      "position": 100511,
+      "positionName": "数据分析师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责设计和开发高效、稳定的数据采集系统，从各种数据源中抓取数据；\n2. 对抓取到的数据进行清洗、去重、转换等处理，确保数据的质量和准确性；\n3. 解决采集过程中遇到的各种技术问题，如反爬机制、IP封锁、验证码识别等；\n4. 持续优化采集策略和算法，提高数据抓取的效率和覆盖率；\n5. 与数据分析师、开发团队等合作，将抓取到的数据集成到数据平台或应用中。\n\n\n任职要求：\n1. 计算机相关专业本科及以上学历，具有 1 年以上采集开发经验；\n2. 熟练掌握 Python、Java 等至少一种编程语言，熟悉常用的采集框架和工具，如 Requests、BeautifulSoup、Selenium（Python）/Jsoup、OkHttp、Selenium（Java）等；\n3. 熟悉 HTTP 协议、HTML、CSS、JavaScript 等 web 技术，能够分析网页结构和数据提取逻辑；\n4. 具备较强的问题解决能力和创新思维，能够应对各种复杂的反采集机制；\n5. 熟悉数据库操作，如 MySQL、MongoDB等，能够将抓取到的数据存储到数据库中；\n6. 有良好的代码规范和文档编写习惯，具备团队合作精神和沟通能力；\n7. 了解分布式采集架构和技术，有大规模数据抓取经验者优先；\n8. 对数据敏感，有数据分析和挖掘经验者优先。",
+      "encryptAddressId": "2137542068da8d0f1nV429q8GFtVyo-2VPma",
+      "address": "上海闵行区上海国家现代服务业软件产业化基地恒南路1000号（国家电网对面）2号楼4楼2406室",
+      "longitude": 121.517207,
+      "latitude": 31.076831,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230703/48ba41acc9cef1bf7f022f5b3991e7f27afa4a2391c20d566bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230703/48ba41acc9cef1bf2601c66dd749cbd048074dd7b8069b8b6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫",
+        "数据分析/挖掘经验",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "姬女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海现代通用",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "22b68ea0b8fd71741nF82dW_E1E~",
+      "brandName": "上海现代通用",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727169621252,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海现代通用",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

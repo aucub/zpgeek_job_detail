@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bYGpHm5qoUIjI-71DI_Qd-QWW508QZr250yS9EcDfSnWkBOgmW5GSS-NAn2Q9O3a-Fz0lFSMZsrJQLHOM6gl5gEG9C06RQ07enO7SKIgtJKk5aSFSRT-xwZWqHKUKhIU_HcDedOcGY1uwA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5dec9a75353598d21HNz0961FFNS",
+      "encryptUserId": "e86177edb033e6171XJ52dW-Elo~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101230200,
+      "locationName": "厦门",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1）负责产品上线部署工作及服务器的搭建、部署、监控、调优、升级、日常维护和安全管理、报警处理、故障应急处理等；\n3）负责日常相关产品模块的更新发布调整；\n4）负责线上业务的性能建设及稳定性保障，全链路保障稳定，提升用户体验；\n5）处理突发事件，保障系统、网络、业务等的安全稳定运行，对业务稳定性负责；\n6）负责云上资源开通，控制运营成本、优化运维的常规操作规范、操作流程等；\n7）负责服务器对海外网络性能优化；\n8) 负责公司内部网络、电脑设备、机房的维护与优化；\n\n岗位需求：\n 1）本科及以上学历，计算机相关专业；\n 2）熟悉LINUX 操作系统，安装部署，性能调优；\n 3）熟悉nginx、apache、git、jenkins等各种常用软件的维护；\n 4）了解Mysql、mongodb、redis、memcache、ELK、gitlab等服务的配置与维护；\n 5）熟练使用shell或者Python，会开发相关工具或维护已有平台或工具系统，Python能力强的优先考虑；\n 6）熟练掌握Docker等相关容器技术；\n 7）熟悉zabbix、grafana、prometheus等系统监控报警机制，会自定义报警脚本，并能熟练配置及维护；\n 8）熟悉阿里云的各产品如ECS\\RDS等的使用和维护；\n 9）熟悉CDN技术，至少熟悉一个CDN平台的使用和维护；\n 10）能够适应快节奏工作，学习能力、文档能力强，具备良好的沟通能力和强烈的责任心，热爱运维技术，有良好的团队合作意识，工作积极细心，有责任感，善于时间管理;",
+      "encryptAddressId": "32b7475167c966f31nR539y1GFRX",
+      "address": "厦门思明区中外运大厦(坂尾南路)A栋902",
+      "longitude": 118.118882,
+      "latitude": 24.471252,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf1dd6233f358c64c81f827bd95fa14de96bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bfe12982fb2ea83f56313d51997fb9a6856bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "Elasticsearch",
+        "系统运维",
+        "运维开发/DevOps",
+        "运维开发经验",
+        "Redis",
+        "计算机相关专业",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "服务端主管",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170328/9d57d8914a912734802610f66d0d5cfd8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "零一世界",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "93d0c1ec6a3b50a81nN93dW6GFo~",
+      "brandName": "零一世界",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210626/f425f0c55fb94bcf0ee0eddb6c56a725aeb0f9236d738fc1e14c200f0634d16e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "【公司简介】\n       厦门零一世界科技有限公司创立于2018年，是一家专业性强、成长快速的技术型企业。我们怀抱产品技术改变世界的梦想，专注于C端App产品的自主研发和运营，致力于为用户提供极致用户体验的移动端产品。\n\n      基于多年AppStore数据分析经验，以及对互联网的不断探索和创新，目前公司研发上架数10款桌面美化、时间管理、日记手帐、视频制作等工具类App矩阵。通过抖音、快手、头条、知乎、小红书等新媒体平台宣传推广，累积了千万级的用户，月活百万以上，通过广告和内购已实现稳定变现。\n\n      我们是一个自信有追求的团队，我们坚信通过技术推动产品创新的理念能开拓更广大的天地，加入我们一起共创美好的未来。\n更多产品信息可查看公司官网：www.xmzerone.com\n\n  【公司福利】\n   1、【法定假期】婚假、产假、产检假、陪产假、哺乳假、年假等带薪假期；\n   2、【六险一金】提供养老保险、医疗保险、失业保险、工伤保险、生育保险、商业险、住房公积金；\n   3、【年终福利】部分员工的股权激励、季度\\年度项目奖、年终奖(最高可达六个月）、优秀员工奖；\n   4、【团队活动】端午、中秋和尾牙必不可少，另有不定期组织各种活动和聚餐，每周两次下午茶；\n   5、【毕业生落户】为符合落户条件的应届毕业生办理落户事宜。\n\n【公司地址】：厦门市思明区厦禾路1032号中外运大厦A栋9楼902单元\n\n【公共交通指南】：乘BRT、地铁到火车站，往莲坂方向步行200米左右 ；公交车到双涵路口站下车，往炎车站方向200米左右",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "股票期权",
+        "绩效奖金",
+        "加班餐补"
+      ],
+      "activeTime": 1725106350000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "零一世界",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
