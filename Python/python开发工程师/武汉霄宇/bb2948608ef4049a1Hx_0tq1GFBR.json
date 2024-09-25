@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6VzKXw3T7sK5t-61JSG655DmzkBR9E3VDDY6UvXyxuybMC1Wrx-_3rHU-wyCcmQq7g-2wn4F4nUQCofMQwsJTWPBG2mOx2fey4uYxsHVkxjJDjUrmeJHP7yE30wUP4i1vfNGkjlwHyxAJxs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bb2948608ef4049a1Hx_0tq1GFBR",
+      "encryptUserId": "b1360391312a637b0n1z2Nm-EldZ",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位职责】\n1. 负责CDN调度系统开发、节点服务的开发维护工作，包括不限于监控调度，运维自动化，应急响应恢复等平台、工具建设。\n2. 配合团队完成调度系统、节点服务的后端开发。包括需求分析、功能设计、后端实现、功能压测等。\n3. 参与调度业务效果分析，梳理调度业务流程；形成运维工具、提升调度运维效率，持续优化调度效果。\n\n【任职要求】\n1. 精通Python语言，有开发经验\n2. 熟悉Linux操作系统的使用和维护\n3. 熟悉TCP/IP、 HTTP协议，有一定网络基础\n4. 熟悉FastApi/Django/Flask web框架\n5. 熟悉自动化运维常用工具，包括但不限于CI/CD、 Prometheus、 Grafana、 AlertManager、 ELK、 Kafka、 Redis等\n6. 有CDN行业相关经验优先\n7. 大专以上学历\n8. 2年以上经验",
+      "encryptAddressId": "a9edb9cf4a1f62fc0nJ_2dS4FFtTxom6Uv0~",
+      "address": "武汉江夏区光谷汇金中心15B",
+      "longitude": 114.431834,
+      "latitude": 30.452477,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b869f71ea4b76d59ef163fb84fecf79",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6eb2682a0726dfcf2f78ea8e696d82fc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "MySQL",
+        "Kafka",
+        "运维开发经验",
+        "Redis",
+        "Linux开发/部署经验",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "万女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "武汉霄宇",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5adc2dc57018f8b71Hd63d-_GVA~",
+      "brandName": "武汉霄宇",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100002,
+      "industryName": "游戏",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727263226980,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "武汉霄宇",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

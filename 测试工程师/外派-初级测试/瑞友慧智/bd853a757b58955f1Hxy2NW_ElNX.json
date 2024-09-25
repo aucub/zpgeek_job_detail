@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FcLTWpTGKcVMB-B1kOQlDytno7qYDZeN7Z1c_8p5fvDvEyO0h4u9nshFIOE8-ddv2VvcDMO2ukS9gdwPy-z9EXSyuyMebfcaepRgPIel5tnn02oJDPibcNpHKdrU3UfSi4-vpDg3YgkE6qA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bd853a757b58955f1Hxy2NW_ElNX",
+      "encryptUserId": "df06d19e3bac45fa0nR72du6FltU",
+      "invalidStatus": false,
+      "jobName": "外派-初级测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位要求：\n\n1. 工作经验：\n   - 1-3年软件测试经验。\n   - 有移动应用、Web应用测试经验，熟悉测试生命周期和流程。\n\n2. 技术技能：\n   - 熟悉常见的测试工具（如：Selenium、Appium、JUnit、TestNG等）及测试管理工具（如：Jira）。\n   - 会使用抓包工具。\n   - 了解常见的自动化测试框架，能够编写、调试和维护自动化测试脚本。\n   - 具备性能测试工具经验（如 JMeter、LoadRunner），以及基本的安全测试知识。\n\n3. 自动化平台使用经验：\n   - 熟练使用过接口自动化平台进行接口自动化测试。\n\n4. 软技能：\n   - 优秀的沟通能力，能够与技术团队和业务团队清晰沟通测试结果和风险。\n   - 较强的团队合作精神，具备跨团队合作能力，能够在压力下工作。\n   - 注重细节，具备强烈的质量意识和问题解决能力。\n\n5. 加分项：\n   - 有大型项目测试经验。\n   - 熟悉DevOps工具链（如：Jenkins、Docker等），了解CI/CD流程并能参与其中。",
+      "encryptAddressId": "e5b78dcd843bbede1nd73t2_EFdWyoW-U_qf",
+      "address": "北京朝阳区佳程广场A座1楼",
+      "longitude": 116.45805,
+      "latitude": 39.956832,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/90ded3116796b7d02d0500e99a5c1350",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b52e2e9abc7010e2598755d5234ba4ac",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "移动",
+        "DevOps",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "LoadRunner",
+        "Selenium",
+        "JMeter"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "石女士",
+      "title": "项目助理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK5.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "瑞友慧智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "bf1eb1db87b94d581HZy09-7E1E~",
+      "brandName": "瑞友慧智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727257630670,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瑞友慧智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

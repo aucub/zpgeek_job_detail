@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0n77Rm9G-Xuyu-z15m8BvZQSdwS5ItG5os1_DooxLNYeNBkfoChRQk2bHXcXG0HhEt68hi76DjSaMWX4WZ0i0gUHa-f7ZUT_kQdjmiYRGlq_ucS6B3NKVmbBmtsY8K8fetZIp8mY-piat5c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0cd4d8d8c3fa90f11nV92tq7E1FQ",
+      "encryptUserId": "bed656d5f77c753b0nRz0t27FVNU",
+      "invalidStatus": false,
+      "jobName": "Python开发",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责： \n1、负责公司产品后台服务端业务逻辑设计和研发；\n2、负责后台程序接口开发；\n3、负责主要程序代码编写，为客户端提供服务；\n4、参与项目需求分析、业务逻辑流程设计、文档编写；\n5、负责搭建和维护后台服务；\n6、数据爬虫的相关工作；\n\n任职要求：\n1、计算机或相关专业，大专及以上学历；\n2、曾在项目中承担主要编码设计工作；从事python开发工作2年以上，精通python编程；\n3、熟悉缓存及消息队列；精通Flask/Django/tornado等任意web框架一种或者多种；\n4、熟悉网络编程，熟悉tcp，http等通讯协议，熟练使用多进程和多线程；\n5、熟悉mysql、redis等常用储存方案及基本原理，能够独立地合理设计数据库结构；\n6、有良好的团队沟通协作能力，有较强的全局观及逻辑力。",
+      "encryptAddressId": "a17dc8bd3da047d90nF72929ElZSxou_Vv8~",
+      "address": "武汉江夏区创星汇自贸金融大厦16层03室",
+      "longitude": 114.481427,
+      "latitude": 30.428304,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf6f47b11c5cd0752a624dfeee977689ea6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf87a5dc8303b184603e6a75248f77cd126bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "多进程",
+        "网络爬虫技术",
+        "物联网",
+        "微服务架构",
+        "Linux",
+        "Redis",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "柴先生",
+      "title": "联合创始人",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=5b4f73f75bb45399jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9YnXV0sNkm69E6Hla8zbZlNOuleZZUsrq6CjkvYwpc83Jdq_-iFicZHuO2XEY7zd8dSw7jn6tb9FMbX4Gw3CclAidB8k-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "怡龙谷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4e18dcb75a00d22f1nd42Ny8FVM~",
+      "brandName": "怡龙谷",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201208/f3fd12b64186e65722cb0bc4091111ba25b69ee50396a670c4f9849ad9a97e16_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "武汉怡龙谷数字科技有限公司,是政企数字化解决方案供应商,专注于为政府及企业客户提供稳定可靠、安全可信、可持续创新的数字化解决方案。我们通过大数据技术和云计算、系统集成和行业应用帮助政府和企业客户提升效率、降低成本、增加收入实现数字化转型升级。",
+      "labels": [
+        "五险一金",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "住房补贴",
+        "带薪年假"
+      ],
+      "activeTime": 1726290183000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "怡龙谷",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

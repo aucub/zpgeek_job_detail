@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hxqAuz3XgzMcx-v1Nft7Ri9grSAIpmSGmMZqriAnxrPoJtCExjJm46s3NnAqbDd93tnqCWlKFNnhuas0_iXR0LD-G4U690dqUqZHcSI9XnGFDoBptQZFhwPiE-2okALXORRx-mV4CTs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b32b4a769fd2b7210HZ80tS7Fls~",
+      "encryptUserId": "7d7fc150819d7c9e1HN92NW4EVA~",
+      "invalidStatus": false,
+      "jobName": "技术支持",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司硬件产品技术支持\n2、对接客户，提供技术服务\n3、编写产品驱动和应用demo\n4、针对客户需求，提供定制demo\n5、产品调试、测试\n6、编写产品技术文档\n任职要求：\n1、熟悉Java语言基础；\n2、熟悉Android开发；\n3、能够完成Android平台的Bluetooth、WiFi、USB、USB-SerialPort、NFC外设开发；\n4、熟悉tcp、http、mqtt等基础通信；\n5、熟悉utf-8、gbk等编码标准；\n6、能够设计简单的用户交互界面；\n7、了解IOS平台应用开发；\n8、能够将Android应用移植到IOS平台上，输出Demo及SDK；\n9、能够完成产品相关文档的编写与维护。",
+      "encryptAddressId": "dfb0dbab4fde9baf1n162NS5GVA~",
+      "address": "上海浦东新区锦绣申江金桥华虹创新园8号楼206室",
+      "longitude": 121.623302,
+      "latitude": 31.243893,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cabce9795e9f5115b6017f66d9655bea",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/00a67a95017992584545a3f1d9da964c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "物联网",
+        "c++ C语言",
+        "蓝牙 Wi-Fi",
+        "嵌入式软件",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "姜女士",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200624/bec1ad3c14cf7ec6af38991332b226bf7e60a2152c4867566a4c9804e30_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "上海匠隅",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c1f6301f8b195c520HZy29m-FA~~",
+      "brandName": "上海匠隅",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200305/bf648233aa7019749e24d9ccf617f8a77e60a2152c4867566a4c9804e30b44c6.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "专业从事物联网产品和方案的开发、销售和服务。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1724613602890,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海匠隅",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
