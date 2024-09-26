@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JOLZC1l3_zIEg-B1T6MeJQtGH7E4IpW5mVyy5OHr6Cf9unwMqqIJYqdnuqByObcZLxfI5uYsTd-vh5jpYCZoS0ufLS845XiSaWVe9uX5Qdn_FGJ3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5ef502be470af7910XR73di9GFA~",
+      "encryptUserId": "d56d67d6706b678c1HB539q_ElU~",
+      "invalidStatus": false,
+      "jobName": "php软件工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "能够自主学习，爱好物联网、数据分析行业，我们有资深的硬件、软件极客前辈与你前行，只要你够踏实和勤奋，我们会助力你的未来！\r\n\r\n1. 大专以上学历，有实际PHP开发经验；\r\n\r\n2. 熟悉常用PHP框架，如 TP、CI、Laravel等，能熟练使用某种框架开发；\r\n\r\n3. 熟悉OOP的设计方法，具有扎实的算法和数据结构基础；\r\n\r\n4. 熟悉web前端开发相关技术，包括js, css, query, html5, vue, angular 等；\r\n\r\n5. 具备扎实的SQL知识，熟练使用MySQL，熟悉MySQL的各种查询优化，熟悉Redis、MongoDB等NOSQL数据库；\r\n\r\n6. 熟悉linux工作环境，对nginx或appache有一定认识，熟练掌握PHP和mysql常用配制，对PHP常用扩展和mysql引擎等web知识有基本认识；\r\n\r\n7. 具有良好的学习能力，有较好的沟通交流能力及团队合作意识，责任心强，工作态度积极主动，能够迅速融入团队\r\n\r\n8. 具有规范、标准化的代码编写习惯，具备良好的技术文档编写能力",
+      "encryptAddressId": "1fef444e86fabb851XJ-2Ny1FVo~",
+      "address": "南京浦口区创芯汇1栋503",
+      "longitude": 118.691951,
+      "latitude": 32.159508,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/32f95564e9218d7d183e732474c88eaf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f575467ec0223e1aabda72159f9f985",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MySQL",
+        "Redis",
+        "NoSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180217/23e32342366f82cb2546a9530bb68fc4bc41a9778de1739bda072255438_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "泛森科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e8da98ccfe5b0a391XF90t29Ew~~",
+      "brandName": "泛森科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724765267639,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "泛森科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

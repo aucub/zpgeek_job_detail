@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "z0WgQsiVadCet-v1PMN-oxdRaZvZ6f4wjqUGH1tivtvdbIusFUvBXGxcC99xvJdO2krKBqIDlmtvSHsCEyrxLc2LrdJBfPd4I02741I8YWakRkeXiZB5xRbBUeADci65ALjnTm4UM7XwiQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2a18a0498bfe42071XNz29m6F1dT",
+      "encryptUserId": "fa639336be8fc02d0nB829m7F1VZ",
+      "invalidStatus": false,
+      "jobName": "java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1、负责应用系统常规需求开发及日常优化运维工作；\n2、负责生产系统日常监控、风险排查及问题解决工作；\n任职要求：\n1、全日制统招专科学历及以上，计算机相关专业毕业，2年以上java开发经验；\n2、精通Java基础语法；\n3、熟练掌握SpringBoot框架、mybatis框架；\n4、熟练运用Oracle、Mysql、redis数据库；\n5、熟练运用数据库索引，善于优化sql。 \n6、工作主动性强、责任心强、思路清晰、沟通能力强，能够快速定位系统问题。\n7、有保险经验尤其是理赔系统经验优先。",
+      "encryptAddressId": "5d8a730e0a173c551nR-3d20GFFQx4m5VfmX",
+      "address": "北京丰台区瑞众人寿保险有限责任公司北京市丰台区凤凰嘴街2号院",
+      "longitude": 116.329468,
+      "latitude": 39.862925,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231102/48ba41acc9cef1bff48e5c67d24564c1392b1a08b8ec6b036bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231102/48ba41acc9cef1bfe9862e4a62bd02fab9a06504303150646bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "林女士",
+      "title": "人事部",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "卓明信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "09248561f23668961HF43d24Eg~~",
+      "brandName": "卓明信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201010/4a7ab8e386015c7a704030bc57333b228d750a9e771ab32b6ece65e41f5305c6_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广州卓明信息科技有限公司（www.jomee.cn）成立于2018年11月，2020年入库广州市科技型中小企业，是一家集软件开发、咨询、技术服务为一体的个性化管理软件开发公司。截止到目前， 公司已为众多客户提供了优质的解决方案，如：在线客服平台、用户体验众测平台开发、通讯云平台定制开发、问卷系统、OA管理系统、芒果通讯APP开发、电商招商APP开发、廉生活公众号开发等。\n\n公司专注于管理系统开发、通讯平台开发、APP开发及微信公众号、小程序开发。\n公司自成立至今，一直以客户第一，倾听客户心声，关注客户需求，您的成功，我们的目标。\n\n\n邮箱：liyfine@jomee.cn\n\n固话：************\n\n地址：广州市天河区岑村圣堂大街14号B座三层3044",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "零食下午茶"
+      ],
+      "activeTime": 1727263072190,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卓明信息",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

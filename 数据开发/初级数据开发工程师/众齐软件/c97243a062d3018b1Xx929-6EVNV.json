@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "nl1HuJOEiLsP3-71J-ZlsYAnMRpjPsfs4u51tcICjdWrDSulcLh0pjoCUISAGUNVUk3UwIuggOSCPAKGJBb_-Or5up0Y163wXBIGk8qYP4Yg8Be74fui",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c97243a062d3018b1Xx929-6EVNV",
+      "encryptUserId": "c67a7744dec42ae81nZ-39y6EFRU",
+      "invalidStatus": false,
+      "jobName": "初级数据开发工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101030100,
+      "locationName": "天津",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、对不同来源和格式数据进行集成和转换，将数据流转到数据中台中，保证数据的一致性和可用性；\n\n2、负责ETL流程开发与维护，将原始数据转换成可用于分析和报表的结构化数据。编写和优化ETL脚本、作业调度和数据传输流程；\n\n3、负责数据资产的管理，包括数据字典、数据目录、数据血缘等。编写和维护相关文档，如数据处理流程、技术规范和操作手册。\n要求：\n\n1、掌握维度建模、数据治理、标签体系、数据可视化、ETL等相关的理论，具备数据建模和数仓设计能力；\n\n2、熟练使用Spark、Flink、Kafka等框架进行流批处理，具有一定的实时数仓、数据湖开发经验；\n\n3、熟练使用Oracle、PostgreSQL、MySQL等数据库，具备使用SQL进行复杂数据分析的能力；\n\n4、熟悉Hadoop、Hive、kudu、ClickHouse、DataX、Kettle等大数据工具；\n\n5、熟悉Python、Java等语言，具有一定的开发能力；\n\n6、具有一定的使用Linux的能力；\n\n7、具有良好的分析问题、解决问题的能力，良好的学习、沟通和团队合作能力。",
+      "encryptAddressId": "86de17d6263ab1681nF72dq7EFI~",
+      "address": "天津西青区海泰绿色产业基地G座501室-15-32号",
+      "longitude": 117.095676,
+      "latitude": 39.078815,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9d6395ef8640f89f049512620a752b22",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/779be7580365be32ac2bb75c33d0f3ca",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Kafka",
+        "Spark",
+        "ETL",
+        "Flink",
+        "维度建模"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "众齐软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb748c755dbdcf271nV829W9FFI~",
+      "brandName": "众齐软件",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200904/8800e1af21ac1a2f049d35e2af2fb1a3f622fe315e88d5782f799199f38f49eb_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "天津众齐软件股份有限公司是专注于供热领域，集软件产品研发、销售、服务于一体的软件公司，助推供热行业数字化转型，打造最具“终生效能费用比”的供热高端管理软件。\n\n公司位于天津滨海高新区华苑科技园，占地2000平米，是国家高新技术企业和国家双软认证企业、天津OTC成长版挂牌企业、中国软件和信息服务业信用AAA企业、中国城镇供热协会会员单位、天津市软件协会监事长单位，拥有43个供热软件著作权，6个供热软件专利。自 2006 年以来，公司深耕供热信息化领域超过10年，业务覆盖了北方所有省份，服务了包括济南能源集团、天津滨海供热集团、石家庄华电、呼市富泰热力、大同热力等在内的200多家大中型供热企业。\n\n公司旗舰产品是供热收费管理系统和供热客服管理系统，延伸的产品包括供热微信服务大厅、供热GIS系统、供热设备巡检系统、供热生产调度系统等，产品完全兼容各地区的供热政策，服务品质已经成为行业内的标杆。\n\n2020年，众齐软件发布了智慧供热运营服务平台，努力推动供热行业数字化转型，构建智慧城市供热大脑。基于城市供热GIS一张网，将供热运营经验与庞大的财务、设备、生产、客户数据相结合，提供开发预测、水力分析、负荷预测、应急调度、经营分析、服务分析、能耗分析、经济运行分析、客服AI等能力输出，实现供热运营服务的数字化、可视化、自动化、智能化。",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "宿舍有空调",
+        "团建聚餐",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "股票期权",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1725605412000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众齐软件",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

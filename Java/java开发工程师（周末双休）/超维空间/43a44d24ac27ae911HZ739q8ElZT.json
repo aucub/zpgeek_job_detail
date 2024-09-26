@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JDP3WSrxaHzWq-R1sir_w0sltkszVbGSBuIEXUfkG47i5TRAEfC8tBHYvqhNgPZf32CP8TsuK3vUx6Ec5rJCuvdfQc_RNgxj7AHj0iIr4E8xqzed-7RP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "43a44d24ac27ae911HZ739q8ElZT",
+      "encryptUserId": "179d518d3207c9211nV_0t65GVdX",
+      "invalidStatus": false,
+      "jobName": "java开发工程师（周末双休）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "即招即到岗，不在长沙的请勿投递（教育自研部门）\n岗位职责： \n1、参与产品研发与项目交付。\n2、参与并负责产品中某些具体功能模块的系统设计、数据库设计、程序开发、系统测试、系统上线及试运行等工作。\n3、参与产品在使用中的问题及故障处理。\n4、参与并负责编写各类技术文档。\n岗位要求： \n1、大专及以上学历。\n2、计算机软件、数学等相关专业毕业，1-3年的JAVA研发工作经验。\n3、熟练掌握前端相关技术(HTML/CSS/JavaScript等)，熟悉主流开发框架（react/vue/angular等）,掌握其底层原理实现，能熟练应用相应的前端UI组件库（如AntDesign、layui、elementUI、ElementUI等）。\n4、熟练掌握Java后台开发，掌握常用框架(如SSM、Spring Boot. Spring Cloud等框架)，对面向对象有理解，具有较强分析设计能力，熟悉常用设计模式，熟悉多线程编程，熟悉分布式、缓存、消息队列等机制；具备良好的面向对象编程经验，有大型分布式、高并发、高负载、高可用性系统的设计或开发经验优先。\n5、熟练掌握Linux操作系统及相关中间件，如Nginx、Apache、Tomcat等其中一种；熟练掌握mysql、Oracle主流关系数据库或者Redis、MongoDB等nosql数据库的至少一种；\n6、优秀的逻辑思维能力，对解决挑战性问题充满热情，善于分析和解决问题；\n7、思路清晰、学习能力强；勇于承担压力和挑战；具有较强的上进心和较好的团队合作精神；具有良好的沟通能力；有一定的文档编写能力。",
+      "encryptAddressId": "28363b8156ac23e91nd93t28GVZQ",
+      "address": "长沙开福区国防科大(公交站)101",
+      "longitude": 112.999384,
+      "latitude": 28.229822,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfe5bed0a2d1829de2f143b9f646847ba86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf0685eaa99a6c73c87f4c41ab5f78ddfb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "物联网经验",
+        "音视频经验",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230713/607f1f3d68754fd00b4e7cb51d86cf16addb235ac69aa06103233c728ec8a81467c2f48ddcf840b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "超维空间",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ed18b970c4a8bac1XJy2d60FlI~",
+      "brandName": "超维空间",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "交通补助",
+        "团建聚餐",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724719755776,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "超维空间",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

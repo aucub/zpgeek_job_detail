@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EAs2wUw5rdMBp-a1le1ZbpsQ86FjahDlw2ljvUM9QcklzIssnLciyx535dY58hevIPMNYzgPwraHcfNTjPu1PI8aAQcrQx797bjJlFU9U5F4iN5MbU7hEiDR9BUINvIQcgWYPQHqp38bcXU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e73c6a646e0a9e501Hxy2965FVVR",
+      "encryptUserId": "870d947969c9ae9b0XF-0t-1FFVY",
+      "invalidStatus": false,
+      "jobName": "大数据开发工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责风控系统所需的数据接入，加工处理，数据治理；\n2. 设计并实现大数据处理流程，提取和分析风控相关数据；\n3. 协助其他团队成员进行数据处理和分析工作，提供技术支持；\n4. 对大数据平台各个使用方提供技术支持；\n5. 负责风控系统特征变量开发。\n岗位要求：\n1、计算机科学、软件工程、数据科学或相关专业的大专及以上学历。FLINK项目实际使用五年以上；\n2、熟悉Apache Flink及其生态（如Flink SQL、Flink Streaming,FLinkCDC等）；\n3、掌握Java或Scala等编程语言，有5年flink实时项目开发经验，能独立规划，开发flink项目需求；\n4、熟悉大数据相关技术，如Hadoop、Spark、Kafka、mq、Hive，ADB等，具备数据处理和分析能力；\n5、理解分布式系统的基本原理，熟悉微服务架构、消息队列、容器化等相关技术；\n6、有较好的沟通能力、题分析和解决能力，能够快速定位和解决技术难题。\n工作地点：广州海珠区星河湾中心",
+      "encryptAddressId": "0e0a8520b5e3ff451nd729S-EVBQx4y3VvuX",
+      "address": "广州海珠区星河湾中心尚博信",
+      "longitude": 113.346631,
+      "latitude": 23.100631,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf36f521f35242ab22bf1acc59c4abf12c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf674e6fbf6e28bc99b50afb813541b6816bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "FLINK"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240717/607f1f3d68754fd00c8b45a1f87f70d204881a9c28fc416d0ab16c0aab0bf6e650b4a51759aefa1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "旭日天泓",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a53ddf3edd8970c41HF629-_ElU~",
+      "brandName": "旭日天泓",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727255588336,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旭日天泓",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Xj04X6dZdvopo-q1nONWSqSq3WHp8X_iBpHFBIekJDQ46T-4lnG_olLku-j8lJBKwnfY2-F0LBsjdxeKMbIqPgBHCaIBmjb_t5j3ZLSST4Q3saLKvK7b",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dcf12134733249d21HFy09W8FlRW",
+      "encryptUserId": "7e2713bda615dd100nV72t-0EFNX",
+      "invalidStatus": false,
+      "jobName": "初级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与产品需求分析、模块设计；\n2、根据开发进度和任务分配，完成相应模块的编程、联调、测试和文档编写（概要设计、详细设计）工作，确保项目进度和质量； \n3、主导项目组内的代码审查工作；\n4、负责客户现场的环境部署；\n5、协助项目团队完成相应的设计工作。                                                                \n任职要求：\n1、计算机相关专业，本科（含）以上学历（统招），1-3年JAVA开发经验，扎实的软件基础知识，网络知识，精通面向对象编程方式； \n2、熟悉SpringBoot，SpringCloud，Vue2，Netty，多线程，MySQL等； \n3、熟练编写单元测试用例代码和执行单元测试，熟悉JUnit等测试框架的使用； \n4、熟悉Linux操作系统常用命令，熟练掌握主流Java Web容器及Nginx的配置和维护，能对目标系统进行优化配置； \n5、熟悉Maven/Git等常用构建工具，对集群，缓存，负载等系统部署有一定的实践，对系统优化有一定的处理经验； \n6、与硬件产品有相关调试经验优先（串口调试、网口调试、蓝牙调试、Lora、zigbee相关）；\n7、具有良好的团队合作意识，具备很强的学习能力，能承受较大的工作压力；\n8、军工经验优先。                                                     \"",
+      "encryptAddressId": "8b71865ccbda50171nV729i8GVNZ",
+      "address": "长沙湘域智慧南栋4楼414",
+      "longitude": 113.005886,
+      "latitude": 28.227155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf6a3eb49542e7ebe71021ee49bc57168e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bf02f60124411d6165e410e1427e5221386bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "Vue2",
+        "SpringCloud",
+        "MySQL",
+        "Netty",
+        "多线程",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "钟女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "君领科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "948d27f59b9cb6f71Xdz09i1FlY~",
+      "brandName": "君领科技",
+      "logo": "https://c-res.zhipin.com/jrs/8_95aa3fe7a60bfeea4ceb0b902972693b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "国防科大多位博士团队创立的军工企业。",
+      "labels": [
+        "有无线网",
+        "宿舍有空调",
+        "餐补",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "五险一金"
+      ],
+      "activeTime": 1727345665152,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "君领科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

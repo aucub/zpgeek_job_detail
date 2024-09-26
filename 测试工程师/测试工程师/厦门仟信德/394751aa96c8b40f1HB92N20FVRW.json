@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "MsvZH5jW_zE7t-41y5qx71iyFy-C7amYCV-AfXNmilGt3SXcz4aLz2977rNYBiUwimPb4ItpqgduQ3s8dO72CkCbvUCc4Ch24i4G0keCPgo_xTPuD9PFZk_N7L5IsOUUmy_CBPvRvNHXq6LLZawXAw~~",
+    "securityId": "ulMpL16f_4UlW-v1hV91UgUlkLhKSnKdVNklTN1Rd5RlTeThclPGGoquhaZYEJev1YD69MLioMQYA4aSUgr_tHTWeIH39yqRRm8TA7AY72TjxLworg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
         "web端测试",
+        "性能测试",
         "移动端测试",
+        "功能测试",
         "APP测试"
       ],
       "anonymous": 0,
@@ -48,10 +48,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231124/607f1f3d68754fd0ceb5ee09346818bd876d486071644af20861395f03904a5f6cc77a52fe511b7_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "厦门仟信德",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "1b4c63cba77f4ef10Hd639S_Ew~~",
@@ -74,7 +76,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1718242485017,
+      "activeTime": 1727350659639,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "厦门仟信德",

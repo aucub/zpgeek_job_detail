@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uILRvuTzCjBDA-Z1sdfAbhD3xLXtgjlxOQ1BAokZiY2fPBbvkla33WiW6U7tl7KL_RrJEY3Z-hI4heQs7MlvhcDe407AG7OSChtSpkSUkUTJHSQ6feXO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a15cf33dabf49f2c1HJ-09q-EFRV",
+      "encryptUserId": "37dcb9027662e3720nx83t-_ElBW",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、承担定制化开发等需求开发工作；\n2、承担上线保障、POC测试对接的开发工作；\n3、承担数据库、rabbitmq等管软公共组件的开发工作；\n4、编写软件产品的说明、设计、操作等文档手册；\n\n任职要求：\n1、熟悉Python开发语言，掌握MongoDB、MySQL、Redis、消息队列等常用组件；\n2、熟悉Linux操作系统，熟悉网络编程，了解tcp/ip协议；\n3、熟练使用Python框架等；\n4、应届生优先考虑。",
+      "encryptAddressId": "4b1ada61be24299d33d73dW1FVQ~",
+      "address": "北京朝阳区财富金融中心21层",
+      "longitude": 116.460552,
+      "latitude": 39.917729,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a804c8ed3dec05978302bb72fd0c484",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2b169705b4f79dbd18514fa2ff1386d6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "智慧英才",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fa31e118f7fb334e1XF93tu6Elo~",
+      "brandName": "智慧英才",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725326780000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智慧英才",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

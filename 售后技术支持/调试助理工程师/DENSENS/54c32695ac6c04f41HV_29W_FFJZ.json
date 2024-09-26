@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "MrvPRxXphQP67-z11uWX69vnvPTMXAw3xc_9AmipPSJ8oHiCh1S3vhvqRwkLcH5FmbLizzP-8btNl3QL4G5pCIhaJDpMf616WIwWmAzXTyZJ05PqAw~~",
+    "securityId": "bF4eGpPv0xmdd-e12Tzb43kBqZjLG9bLO4bA3i5OBCeX8aRXACddFUoXw43ta_kgQFML8sQMadloOnMJeUeoClWVwe6ZBCdVZxWuwqECdQkfellBNDrqZ2s7G3AG21UJ69V9ZNM3Q8Q07RLKYbrBHQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,11 +33,11 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "机械/机电设备",
-        "网络/通信设备",
-        "ERP/OA/CRM系统",
         "C/C++",
-        "MySQL"
+        "ERP/OA/CRM系统",
+        "MySQL",
+        "机械/机电设备",
+        "网络/通信设备"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -47,8 +47,8 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "DENSENS",
       "bossSource": 0,
       "certificated": true,
@@ -77,7 +77,7 @@
         "节日福利",
         "住房补贴"
       ],
-      "activeTime": 1721292613623,
+      "activeTime": 1727355488085,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "DENSENS",

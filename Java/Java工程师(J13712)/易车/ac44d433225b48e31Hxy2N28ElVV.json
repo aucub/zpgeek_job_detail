@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7OCxXZ1k8faMl-R1nirAe1vbxnGnpyyEbfZPhjm4Gf30E2PVDWOARxGShkvpnUwrFONX-88Vmdmh6QoH8E1TYg1piN0fvxG5OnuxcCkh4eYIMFqsbJUrowQ2U2twNdHnVCmvpU-K",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ac44d433225b48e31Hxy2N28ElVV",
+      "encryptUserId": "ad60f316db62464403F82Nu0FlU~",
+      "invalidStatus": false,
+      "jobName": "Java工程师(J13712)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K·16薪",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、理解部门业务目标以及产品需求，配合团队达成业务和产品目标；\n2、不断迭代优化代码业务逻辑，改进与维护所负责系统；\n3、不断学习新技术，提升自我技术能力。\n任职资格:\n1、统招本科以上学历，1年及以上JAVA开发工作经验；\n2、Java、算法等基本功扎实，精通JavaEE技术 ；\n3、熟悉分布式、消息（RabbitMQ/kafka）、缓存（Redis）、搜索（ElasticSearch）等机制；\n4、熟练使用常用的MVC、ORM、微服务框架：Mybatis、Spring、Spring boot、Spring cloud；\n5、熟练使用MySQL或其它关系型数据库进行应用开发，熟悉数据库原理以及常用性能优化技术；\n6、具有较强的理解能力，沟通能力强，具有主动的自我学习和提升意识。",
+      "encryptAddressId": "1310cdf39d0368f91nR82NW6Eg~~",
+      "address": "北京海淀区腾达大厦裙楼101",
+      "longitude": 116.327697,
+      "latitude": 39.938202,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b442b74dc0af2fc7b0631d32b3888669",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/33a06cc69afeba0997210003e29ec76d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201123/a148aebfd7a5b2aadfb5e88d731d001ebd7aabe58a3ac70e01fb1829650_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "易车",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "546490316d69463a03J72A~~",
+      "brandName": "易车",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/782c6c83d13e56c4b30e02d887de770acfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "易车公司成立于2000年，于2010年在美国纽交所挂牌上市，并于2020年11月完成私有化，成为腾讯大家庭一员。作为中国领先的汽车互联网企业，易车公司为中国汽车用户提供专业、丰富的互联网资讯和导购服务，并为汽车厂商和汽车经销商提供卓有成效的互联网营销解决方案。\n\n       深耕汽车行业二十载，易车公司以“专业、合作、创新”的冠军车队文化为共同价值观，不断强化对用户的连接，提升用户在选车、购车、用车和换车过程中的全程体验，致力于让用户“价格全知道，买车不吃亏”。\n\n       当前，易车正加速推进“1234”战略，即构建一个大账号体系、两个维度数据体系、三端一体服务窗口，践行易车“新四化”，深入布局、发展大数据和AI业务，以大数据和AI整合产品和服务，深度赋能汽车产业链，提高易车的内容、产品和服务在连接用户、客户过程中的效率，不断完善服务汽车全产业链的能力，继续在移动互联网与人工智能时代引领汽车互联网行业。",
+      "labels": [
+        "交通补助",
+        "通讯补贴",
+        "免费班车",
+        "带薪年假",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金",
+        "补充商业保险"
+      ],
+      "activeTime": 1727261023368,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易车",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

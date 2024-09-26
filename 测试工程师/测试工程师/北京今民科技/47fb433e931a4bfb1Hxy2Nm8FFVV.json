@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_fy2mbRspJ315-51pGW8z0Png1ObDZZhrZUCWaRTDei7dB2hxBiolosEm1N_352HQU4mGu0iisNdnPZSQa-ubZgCZj5wcZsuzdVq9jjuzgZAqac-7oPU2YmTokD0a8xAvcro3swh8v2q09o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "47fb433e931a4bfb1Hxy2Nm8FFVV",
+      "encryptUserId": "1401ef9eee59a7020nZ63dS-E1JQ",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责 PCIE 加速卡、DPU 卡、5G 加速卡以及定制服务器、定制嵌入式系统的功能测试、性\n能测试、可靠性测试和环境测试；\n2、协助研发搭建测试环境、制定测试计划、编写测试方案和测试用例并撰写测试报告；\n3、执行测试用例，发现硬件设计、生产中存在的问题，进行跟踪并解决相应的问题；\n4、跟踪产品批量生产质量问题，提出改善建议并完善生产流程；\n5、领导安排的其他任务。\n任职要求：\n1、本科及以上学历，通信、计算机、电子工程、自动化等相关专业；\n2、2-3 年以上硬件测试工作经验，熟悉硬件产品开发和测试流程；\n3、掌握 C、Python 等编程语言，熟练使用 Linux 操作系统；\n4、熟悉服务器、DPU 卡等硬件的功能和性能测试以及环境测试；\n5、至少熟悉一门脚本语言，具有编写脚本的能力，有自动化测试经验；\n6、熟练掌握电路基础知识，熟悉常见电子元器件；能够读懂原理图和结构图；\n7、良好的动手和实际操作能力，能熟练焊接各种不同封装（0402 和 0201 阻容、QFN、QFP\n芯片）的电子元器；\n8、熟练使用示波器，数字电源、协议分析仪、逻辑分析仪，电子负载机、高低温箱等设备；\n9、熟悉 DDR4/5, PCIE4/5, SPI, I2C, RGMII, MII, LVDS, 100G/200G/400G Ethernet 等常用接口\n信号的测试。",
+      "encryptAddressId": "074d791cfadfdaf41nZ53N68F1pRwoi9WP2b",
+      "address": "北京海淀区中关村软件园孵化器一层",
+      "longitude": 116.296642,
+      "latitude": 40.050837,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7e63bb14fa2beef12877bf17fccb8ab",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c5aafdec1a974667076da3c03fea9227",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "测试工作经验",
+        "通信相关专业",
+        "性能测试",
+        "嵌入式测试",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221230/607f1f3d68754fd08ae253dd56a4ed1ca2b44518da3f440819473220095ff2647cbabfcc589_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京今民科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63c5b253014fb6291HJy2dq0ElM~",
+      "brandName": "北京今民科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101406,
+      "industryName": "电子/硬件开发",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1727280574873,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京今民科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
