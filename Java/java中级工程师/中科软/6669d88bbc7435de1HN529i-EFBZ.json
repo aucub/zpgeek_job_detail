@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KnUUXwppcCaDG-51McRKdpRLjo-bH95gvwlAphHUriVoNVRZzVc8tbELsHSti9RRXcon-9zSnu0SzoTzZ4Was6i27uwA91RxVVybnkCythYx0VHHfCTHdaoBUxgVOhiva34h1f0ozw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6669d88bbc7435de1HN529i-EFBZ",
+      "encryptUserId": "b1d65a8001cef3fc1nV83NW-F1I~",
+      "invalidStatus": false,
+      "jobName": "java中级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "【岗位要求】\n1.统招学信网本科及以上学历， 计算机相关专业，2-3年以上实际工作经验（不包括实习及培训机构项目经验）;\n2.熟练使用Spring技术栈（Spring Cloud,Spring Boot, Spring Data, Spring Security）等主流框架和技术；\n3.熟练掌握MySQL数据库原理和常用的优化技术，熟悉并实际应用Redis缓存技术；\n4.熟悉Java设计模式，精通Java及Web应用的开发；\n5.熟悉Maven、Git代码管理，有多分支并行开发经验；\n6.主动性强，有敬业精神，勇于面对困难和接受挑战，思路清晰，善于思考；\n7.有良好的沟通能力和协调能力。",
+      "encryptAddressId": "d337cca66faed47d1ndz3tq8EVdR",
+      "address": "北京通州区设计小镇创新中心12号楼",
+      "longitude": 116.717382,
+      "latitude": 39.86319,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4e05cbe97f3d7deffbb5cc8940ea86d0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bb3247926582bec2275abbd089cf428b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "团队氛围好",
+        "零食下午茶",
+        "节日福利",
+        "餐补",
+        "员工旅游",
+        "带薪年假",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1727344444081,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

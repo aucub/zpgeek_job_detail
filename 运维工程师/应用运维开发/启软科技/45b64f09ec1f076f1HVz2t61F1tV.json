@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "LV5Q23Jm0VGFh-A1GS-8HNh3kUJI7wEbLOyPkGNAP9R3XroulFi1bDoV5Mbn6OzqZ22TB5EDPLQhPZyN-iALYFjNiKjG9_tnnV5aLjosEFKsRqg5nsNx",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "45b64f09ec1f076f1HVz2t61F1tV",
+      "encryptUserId": "e060ebe69401c0e10XZ-3Nm-F1JS",
+      "invalidStatus": false,
+      "jobName": "应用运维开发",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责私有云产品相关的沟通、安装部署、接口对接、基础测试、故障处理等维护工作；\n2. 技术实施方案讲解，配合项目经理做好项目实施工作；\n任职要求：\n1. 熟悉市场主流办公、云产品；\n2. 熟悉linux系列操作系统，能熟练编写Shell脚本，具备python脚本基础能力；（实施：熟练使用K8S/Docker技术的优先录用）\n3. 具有一定的代码能力，至少熟悉JAVA、C++、C#、GO等其中一种；\n4. 熟悉主流的服务器、网络、存储设备；对双机热备、负载均衡、集群等有一定的了解并可配置；\n5. 熟悉mysql数据库，能部署、配置、备份及恢复操作，能熟练编写sql脚本；\n6. 熟悉账号对接方案，了解4A、AD、微信、oAuth、CA、SSO等常用账号系统或者认证方式；\n7. 具备良好的思维能力，问题分析、诊断与定位能力；\n8. 具备良好的沟通能力和学习能力，对同行业产品及技术有一定了解，能够从客户和业务的角度来进行技术分析；\n9. 具备良好的相关文档编写能力；\n10. 能承担工作压力，可以接受短期出差。",
+      "encryptAddressId": "8abf455f834d42a31nd53Nu7GVFZ",
+      "address": "武汉洪山区北辰光谷里5A栋",
+      "longitude": 114.415683,
+      "latitude": 30.480367,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b2302035b2c2d7be9c5073ea75287b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e41721e3cc46b0c9ab3a34a48621a1be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "运维开发/DevOps",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "启软科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4671ff76991139881HV42dq1GFs~",
+      "brandName": "启软科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724832832759,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启软科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

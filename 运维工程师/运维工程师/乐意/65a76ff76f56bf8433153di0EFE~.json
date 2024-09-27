@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PeP6EwMAILQrM-31UHTJ9MOzFf7IerjSdt1MZoNtVnfXGQ4iVpoTsEWlT_qlC_N_ZbUsfGeyJxBlchXRNmWOwEOvYdEDdj_6lX_NMsu_njs6X-NR",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "65a76ff76f56bf8433153di0EFE~",
+      "encryptUserId": "51416caadab0b1dc1HVz2tW9EFI~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "1、具有良好的沟通协调能力、较强的团队合作精神、优秀的执行能力；\n2、有很强的分析和解决问题的能力；\n3、Linux系统基础入门-Linux的基础知识内容，和命令使用，以及用户和权限等核心知识点；\n4、Linux 系统管理和进阶-Linux从进程、资源、任务、文件、软件包、磁盘等管理方法\n5、熟悉系统常用中间件/数据库的安装（tomcat,jboss,was,oracle）\n6、熟悉windows与linux之间相连接的工具。（Secure CRT, vnc, rdesktop,winscp）\n7、至少懂得操作cacti，nagios，zibbix其中一款监控软件\n8、需要懂得使用svn或git软件管理研发人员的代码控制, 权限控制等\n9、能编写一些脚本，监控或完成其他可自动完成功能、运维架构完善，优先入取\n10、入职兄弟公司（办公场所广州天河）",
+      "encryptAddressId": "2ab4a49dbeeaf9831nF53tW5EVc~",
+      "address": "广州天河区天河商贸大厦1609房",
+      "longitude": 113.343405,
+      "latitude": 23.135495,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e88c8624abfd6ba4f59d4d65b70c9c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b9165f3127dd394d618688444270717",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "Linux",
+        "服务器配置",
+        "运维工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200804/be12b915a7c43ace6b44c81e0ceac7105525d459210762860505aa3a695_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "乐意",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "544396322ed4d5660nd909y9EA~~",
+      "brandName": "乐意",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724854403549,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "乐意",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

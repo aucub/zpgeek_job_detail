@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8aSV46NLTcX3o-81kka5TgKO8DwV5nWCNTOmISpDMZ7Fieaqu3gJJJvf44eiHjI73IgNjtk-ojk-7zt4FWwvUzEpUwvJ4O_IIikrBTcl5QMujniJy513",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d76661bcde4d1a701Xd73NW5F1pZ",
+      "encryptUserId": "2921a2d814b1e49f0nR43t2-EltR",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1、负责内部开发环境配置与维护；\n2、负责公司系统的运维工作，服务器的调试优化、日常监控、故障处理、数据备份、日志分析等工作，确保系统安全稳定运行；\n3、建立系统化运维流程规范，做好系统故障预警方案，故障迅速定位、快速响应解决；\n4、负责新技术研究及引入，如虚拟化/容器管理/日志管理/分布式存储等\n\n任职要求：\n1、大专以上学历，2年以上Linux运维经验，有丰富的Linux系统参数设置、性能调优、系统安全、故障定位处理经验；\n2、掌握 Nginx/Jenkins/ gitlab/MySQL/Oracle K8s等软件系统的安装、监控、排错、运维和 调优能力；熟练使用 shell和python 等脚本语言；\n3、对主流公有云系统有一定了解；\n4、熟悉数据库的维护以及SQL语句优化 (Mysql Oracle PG等）\n5、工作积极、主动、踏实、认真，有较强的责任心和服务意识；\n6、有非常强的学习能力，能承受一定的工作压力\n7、具有Docker和K8S容器化部署和实施经验；\n8、对持续集成，快速发布，安全监控，容灾，分析等Devops相关运维自动化有较深的理解；\n\n试用期：3个月",
+      "encryptAddressId": "2cd3a7262f87e90a0Xd93N25Fls~",
+      "address": "广州黄埔区广州绿地中央广场C1栋301-2",
+      "longitude": 113.429047,
+      "latitude": 23.163398,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60a9c9b9b712393d6f4d535f5f5badbe",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08d6148e782c2d2beed4cfc977acb0aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "SQL",
+        "服务器配置",
+        "容器技术",
+        "分布式技术",
+        "Linux",
+        "Oracle",
+        "系统运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谭先生",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "广州云臻数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e6939524e067b2241XV_2N21EVA~",
+      "brandName": "广州云臻数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220616/7bf6f160950405e9f867cf6bf1fc3bdc29c9b5ce30951acd7c24760da91819c76c44ee603586283f.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "云臻数据——国产自主可控，数据库超级副本技术提供商。\n公司技术团队以数据库超级副本技术为核心，通过纯国产自主研发的ZCloud数据库超级副本融合平台为企业用户提供安全、集约、可扩展、敏捷、节能的弹性数据库副本服务。除此之外，云臻数据已与多家战略伙伴建立合作关系，使用我司的Zcloud平台，构建性能优异的超融合数据管理解决方案。最终，旨在帮助用户“治理” 数据，“赋能”运营。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "员工旅游",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "保底工资",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725813167000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州云臻数据",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7cHhTUSPQ23B8-71j51HnyHZmIqFgq70wl2jAFu9TW9waoF3gXtB24iIezerZgVhnA6j4L1or8jNO5J3G6-xK0Cyh51FwgoedE8SpXQzw3YhxHyKdw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "251350707f25bcd61XR_09i4EFZV",
+      "encryptUserId": "0d11526a27ef419b0nZ_2Nq8GFRS",
+      "invalidStatus": false,
+      "jobName": "Python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "本职位为外包职位，需要在北七家附近（航天所）工作，长期。\n1、3年python实际开发工作经验，作为核心开发人员负责过高并发python项目的架构设计，本科及以上学历，计算机科学与技术/软件工程专业；\n2、掌握python高性能编程，主要包括性能优化，多线程与多进程，队列，GIL，生成器与协程，分布式设计（celery+rabbitmq）；\n3、熟练掌握Django及相关第三方库；\n4、熟悉掌握linux及ngnix；\n5、熟悉主流关系型数据库，熟悉掌握数据库优化、数据结构设计等，熟Redis中间件；\n6、具备高性能的负载均衡系统架构设计、优化能力。",
+      "encryptAddressId": "fa6c2dc61cfa5fd01XR62ti8FlE~",
+      "address": "北京大兴区诗礼庭13号楼1003",
+      "longitude": 116.502319,
+      "latitude": 39.803724,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c30ed235fdb2ed2533762e8740fffed",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/54f6c5c1ffe2bdeb19a2468c897ad704",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "负载均衡技术",
+        "分布式技术",
+        "多进程",
+        "数据结构",
+        "多线程",
+        "架构师",
+        "Linux",
+        "Django"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "海纳金波",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "02589da88d61c05003d62965",
+      "brandName": "海纳金波",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170402/5ade7b82ad6fe67b13d16dac3c0f4ac49d09cdb2e78e3d03ed640c3e4460c053.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们是做软件技术开发与服务的公司",
+      "labels": [],
+      "activeTime": 1726722915000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海纳金波",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

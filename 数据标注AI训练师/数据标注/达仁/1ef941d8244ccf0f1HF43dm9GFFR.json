@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "54eNHZNUPk4ld-l1-_EetjsnyuOxBGNd709lS8F36BLAlbxiZNW0mkFHgGuV-ZxqEEriqR25gNhBWwF5TcYh_H3k8JNvibfq5grz1NsDXIouZrXIBAyj",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1ef941d8244ccf0f1HF43dm9GFFR",
+      "encryptUserId": "9f8d5e8986ba93e30nR80tq0FldQ",
+      "invalidStatus": false,
+      "jobName": "数据标注",
+      "position": 130121,
+      "positionName": "数据标注/AI训练师",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n1、大专及以上学历，专业不限； 无需相关工作经验。 有岗前培训，不收取任何培训费用。\n2、工作状态稳定，可以熟练掌握计算机办公软件；\n3、标准普通话，具有良好的职业操守，沟通能力，执行能力，工作积极主动；\n4、耐心细致，责任心强，有较强的团队意识，能适应烦琐的信息处理工作;\n5、男女不限， 年龄18-30岁周岁以下，党员优先；\n6、自制力强，有责任心，吃苦耐劳，有强烈的团队意识和赚钱欲望。\n\n岗位介绍： 数据标注的主要职责是处理数据相关工作，包括图片数据和语音数据的标注、质检、清洗、以及规范性和报告类的文档工作； 数据分类，图片框选，区域标注，图片描点，语音转写，内容审核等。\n岗位职责：\n1、接受项目标注规则的培训学习；根据项目标注规则和要求，在标注平台上利用标注工具对文本、图片、语音、视频等数据进行归类、整理、编辑、纠错和批注。\n2、数据分类，从给定的选项类别中选择数据对应的分类。一张图可以有很多分类，按照要求进行选择。 ‌图片框选：按照要求使用规则选框，框选出相应的物体。如道路行人和车辆的框选。\n3、区域标注，自动驾驶图片数据中的道路行驶区域识别，使用不规则多边形进行框选标注。 ‌图片描点：对图片数据进行关键点的描点标注，例如人脸特征点描点等。\n薪资待遇：免费培训，平均综合薪资3000—6000，能者薪高，上不封顶。 \n                   工作时间：早上九点到下午六点半，周日休息，法定节假日正常休假。\n 晋升机制：晋升透明化 数据标注员—质检员—组长—项目助理—项目经理",
+      "encryptAddressId": "66e91f81b5890f0e0HN62tq-GVZUx4m8UPk~",
+      "address": "太原小店区孵化基地4号楼东一门9层",
+      "longitude": 112.59449,
+      "latitude": 37.73359,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9c5517ec55acbba3c63b33c058e7da2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3b4649ba3e4dfece825b9d8ebd1d2573",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据标注",
+        "文本标注",
+        "语音标注",
+        "人工智能",
+        "地图标注",
+        "图片标注"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭先生",
+      "title": "人事HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "达仁",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1a6735348eca36151XR72d6_Flc~",
+      "brandName": "达仁",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724863758718,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "达仁",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

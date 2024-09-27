@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "TRCjB1ZbRaJWM-M1yh2rAW9z5kZ2Z2KK24DvDqpqU7_oUcdmTsR-eFNym2KsajC62YLZiqKK5XNcVvJ6Fii63jjeQthsVd_rr1zHfrOx-PFyMCAy_Hyaq_48szwNDQvUT-v6srKFGvWk7antRi7zwl76J3TCzwoOQaSIr9tY6uTNQgrkEBw~",
+    "securityId": "lNzF2uikXd4Gm-o1fS5-nXOVu2X_arPldQ3I9oc2rnlvkIMqMvHXfLZSwdpmvf5B0469sUqGlq9ZbjDM-LEinLTDM7B6CNwKS94JUvZ_2AVnTbmICc--",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,16 +33,16 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
-        "Selenium",
-        "TestNG",
-        "测试工作经验",
         "自动化测试经验",
-        "掌握软件测试理论和流程",
+        "测试工作经验",
+        "自动化测试",
         "JUnit",
-        "Appium"
+        "性能测试",
+        "TestNG",
+        "功能测试",
+        "Appium",
+        "Selenium",
+        "掌握软件测试理论和流程"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,15 +50,15 @@
     "bossInfo": {
       "name": "梁女士",
       "title": "HR",
-      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240918/607f1f3d68754fd07813dd83759dfd1af9d06588c48198a3dc496ccff0817bd75885ab0869c2754_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
       "brandName": "力钛科",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "b0f640237f99b3281XB60ti4F1Q~",
@@ -80,7 +80,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1725269596743,
+      "activeTime": 1727416305630,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "力钛科",

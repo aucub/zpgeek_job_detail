@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "2MACTM8cMiyGD-H1vuNkML-Eu8PGMU3W8UPxOxOWqS_4b6peIE2FfCmQsj9XlNzUBAxO9pq_tfUKC-46M6_kwlmSBPKIA34eLZtdKtn-3kKh2jFi",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "975c51cddb98bb7d33dz2N28E1c~",
+      "encryptUserId": "cc3f576e77ed73b433V-0tS-E1o~",
+      "invalidStatus": false,
+      "jobName": "PHP开发",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责公司电商平台PC端、小程序端等线上平台和运营系统的开发、部署及维护；\n    2.负责数据库以及PHP程序软件的设计、开发和维护；\n    3.负责项目与外部系统集成所需的接口设计、开发和维护；\n\n要求：\n    1. 计算机相关专业，全日制统招本科学历。能力强责任心强专科可以。\n    2. 有PHP开发经验，熟悉电商平台开发逻辑及面向对象的软件设计方法；\n    3.能独立开发项目，精通MVC架构，熟悉常用SQL数据库；\n    4.熟练Nginx等Web服务器的配置及优化，可以独立配置生产环境，并根据需要升级环境和优化；\n    5.熟练掌握主流PHP框架laravel、TP等；\n    6.有小程序开发经验，熟悉微信开发者平台，了解各类接口、开发文档及最新动态。\n    7.擅长需求分析，并能独立完成各项性级优良的，程序设计和数据库结构设计；\n    8.具备极强的逻辑思维能力，良好的服务精神以及团队合作能力，有强烈的责任心。\n（应届毕业生学习能力强责任心强，可优先考虑）",
+      "encryptAddressId": "5209bdaf5c3c37dc1XZ72N-1FVE~",
+      "address": "北京房山区FCC中央城中央城8号院3号楼11层",
+      "longitude": 116.211004,
+      "latitude": 39.765231,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6b757e42ea0b474b63e494f293b1331",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/19e214dc96cd107453c765efb281465a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "Laravel",
+        "PC端",
+        "小程序",
+        "PHP",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191113/6c2c0b74b520f0a0e0324aa97899b951230d30dc1f32074d57ad27f8704_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "金石泓泽",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5f5b4ec9a60da5f00XF82t-7Eg~~",
+      "brandName": "金石泓泽",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100104,
+      "industryName": "文化艺术/娱乐",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724838054348,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金石泓泽",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

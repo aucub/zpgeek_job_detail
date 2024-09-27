@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gpdy23SRdn-zA-j1ohWih1Iud2Dzkb6G4rwH-PJeoJYFAGn9TKSuRWJkSRuZVjFtLOIrbITE3NZ7a39Go8pRAo3GlxHP19AY5lv4aaSMkdBTTExlKokFeCaSV_TH9zl0L3EQDpzDHECNkwSxMLbZ-CfSDsknpdPeoUlPg2y5f-6noxfijQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "91841387173ad7c11Hx53dS5FlFT",
+      "encryptUserId": "b774ea6b1ad31dbf1nZ-3tS4F1dU",
+      "invalidStatus": false,
+      "jobName": "初级java开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、 负责产品的研发与优化；\n2、 负责Web后端全过程开发；\n3、 负责产品功能的设计/开发/维护工作，保证系统高性能、高可用运行；\n4、 与需求人员沟通，协助完成产品分析和开发工作。\n   任职要求：\n1、统招本科及以上学历，计算机专业背景优先；\n2、精通Java编程，熟悉设计模式，有着良好的编码习惯和基础，具备Java后台开发经验；\n3、精通缓存、队列策略和应用场景，熟悉至少两种NoSQL技术：Redis、MongoDB等\n4、熟悉HTTP协议，了解Json，XML等数据交换格式；\n5、熟悉Spring, Spring MVC ,MyBatis等开源框架，有较强的源码研究和理解能力；\n6、了解微服务框架，掌握Spring Boot、Spring Cloud；\n7、有过开源组件开发及优化经验者优先；\n8、有金融行业投资相关经验者优先",
+      "encryptAddressId": "71baf0ca80d3b4e91nZ-2969EFVXyo28VPqb",
+      "address": "北京朝阳区雨霖大厦1",
+      "longitude": 116.459037,
+      "latitude": 39.922045,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e11b2be43325528b0a755232d4936dff",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/dc17618dc72d885e85b9e079620ee9cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Spring MVC",
+        "SpringCloud",
+        "MyBatis",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宋女士",
+      "title": "招聘专员",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=acdf97bbdf5eb720jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqH95dn3V05Np5vYxpS1O0mb01Z-r3KccE6eizD2gqZV5conQI9vqlQn0eFbG1URRrkd8dTg21yv4Irl8ZB9exg3R-DCQU_CLfa5v4k5h-E7sN3eNe40eOmAJd13E~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "东方融创",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "01019308a92b5af31nxy3ty1Fw~~",
+      "brandName": "东方融创",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201201/3414ae49ffb24f4d9c935d419c1fe3123482e9318cfa71119b43b1bc2a173424_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京东方融创信息技术有限公司位于中国信息技术发源地－北京市海淀区上地，是在高新技术应用领域中专业从事应用系统开发、行业化解决方案的技术企业。东方融创专注于金融、保险、移动互联网相关行业信息化领域的开发，凭借多年在应用系统开发积累的经验，东方融创已经成为IT技术服务领域中的优秀的提供商。",
+      "labels": [
+        "加班补助",
+        "带薪年假",
+        "免费班车",
+        "餐补",
+        "节日福利"
+      ],
+      "activeTime": 1727414103152,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东方融创",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

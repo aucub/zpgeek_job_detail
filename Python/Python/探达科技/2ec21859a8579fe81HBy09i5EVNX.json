@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "HiCn3akGhUjdx-q1zrybL61pInW903frNYtcPQfCJn2N5fFbGmtCYixi2hRVPF0wYU5phmIQ4WQ_Qg1y18WlwCypqPoI0Ju2M7u6woLncfxz3mLvMSI_",
+    "securityId": "ngCknIqyyb0Jo-81qA7hF7Qk4rX-K1u6Fmc0GRP24HQeR-rDXG3uQf3F8v2ueZZilfgIKoe2FjHo3xWzHNboeVYe15nvXQrgSNdOoVLDJN-2Rgp6vQ20",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,15 +33,15 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
         "Golang",
         "C++",
-        "Flask",
-        "Tornado",
         "Pandas",
         "MySQL",
         "Redis",
-        "Oracle"
+        "Tornado",
+        "Oracle",
+        "Python",
+        "Flask"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -51,7 +51,7 @@
       "title": "营销总监",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231216/607f1f3d68754fd03e91ec08ac8a48ee5b857123fa9d46284879f30542d1ab74a1170574ef36b5b_b.jpg",
       "large": null,
-      "activeTimeDesc": "5月内活跃",
+      "activeTimeDesc": "近半年活跃",
       "bossOnline": false,
       "brandName": "探达科技",
       "bossSource": 0,
@@ -92,7 +92,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1722932227671,
+      "activeTime": 1724866601257,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "探达科技",

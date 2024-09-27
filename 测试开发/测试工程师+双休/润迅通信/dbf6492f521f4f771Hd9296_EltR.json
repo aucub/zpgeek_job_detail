@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "x3xHdSaUC7V68-d1X9iYEpYlwphkYlyFiz7LJ84-EeCB8faL6fLldhVlOwb4xnW_NuxbLPb121aEFHyngmTKLX10bVod1AXNwZTyWzNNHceWVyGL40iOq3C43ec-FUscfy7S-SAqoewoQDsb9hgn",
+    "securityId": "FkC4lCbVKtgps-L1nhSNxQrT4_yE7bQsJ0tnNd5o0wSaJX1XBJGxg0ONc6gjOP1f-g9I3BASIv5fRUqec3DPROktoxhGdpomG9RmQoI6r10_-jPP",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,13 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "自动化测试",
         "Java",
-        "Python",
         "C++",
-        "计算机相关专业",
         "测试工作经验",
-        "软件开发经验"
+        "自动化测试",
+        "计算机相关专业",
+        "软件开发经验",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -50,7 +50,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211220/607f1f3d68754fd08a72b1a6d6cad18459dc8bae15559dddbef36c2ebbd844fda35c375b24c_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "润迅通信",
       "bossSource": 0,
       "certificated": true,
@@ -86,7 +86,7 @@
         "社保",
         "全勤奖"
       ],
-      "activeTime": 1725433759093,
+      "activeTime": 1727429405628,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "润迅通信",

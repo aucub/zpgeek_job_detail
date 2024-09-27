@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "THCD3aZN8slX1-Y13zmt73SQ7OtwlGLN-szoUtJ5O5eXDxQ1LAZHNa_Ib9UEXdW8Cf0YPpF1hqhqOHUOM_HNpIWxzXQ85hZVM86rTe4fnw-F6pZgczAL",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d936f9c927f167211XJy09q8FFJS",
+      "encryptUserId": "5f778e478e2197b30nJ_2N-1ElRV",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1.负责云平台的运维、业务的开通、迁移、优化、故障处理等服务工作；\n2.负责对系统进行安全检测、基线设置，对入侵检测系统、WAF、防火墙等日志进行分析，对安全策略进行调优，把握平台网络安全态势，保障信息系统安全稳定运行。\n3.对日常运维进行分析汇总，完善生产、测试系统的运维规范与流程，提升工作效率和服务质量。\n二、岗位要求：\n1.本科或以上学历，计算机、通信等相关专业优先；\n2.熟悉掌握阿里云等公有云相关产品及配置（包括但不限于ECS、VPC、EIP、RDS等），熟悉并了解公有云常见大数据平台、消息队列、负载均衡等有关解决方案实施和运维工作；\n3.熟悉掌握Linux和Windows系统的使用、维护、运维，熟悉shell、python等至少一种主流脚本语言；\n4.熟悉TCP/IP、HTTP等协议，有良好的网络传输、安全、计算机体系结构方面的知识；\n5.熟悉防火墙、入侵检测、WAF等系统安全、网络安全相关知识，具有一定的信息安全管理相关经验；\n6.熟悉Docker、K8S、ELK运行机制的优先；\n7.具备优秀的沟通能力，能够与客户建立良好的沟通、现场协调计划和工作分工。\n8.工作踏实主动，自驱力强。",
+      "encryptAddressId": "960f115b805b7f2b33V53ti8E1M~",
+      "address": "上海浦东新区上海浦东软件园(居里路)20号",
+      "longitude": 121.598263,
+      "latitude": 31.208353,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/74326f5f3e4083528fce1becde7336a3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdebcd08e9d38e9768371481f032e617",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "实施交付运维",
+        "MySQL/Oracle",
+        "系统运维",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "架构师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海闻驿信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1446f94ba6e9c9b81XB93NS9GFA~",
+      "brandName": "上海闻驿信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724827391315,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海闻驿信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

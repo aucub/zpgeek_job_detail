@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "egGV9PMka5cSu-R1XYqWw-kbqKo6LdrxeGNgycaUENGZeqi5F-kl2FzEdqpvg5fLjYYIxo0TytCMIiuMhyTAUeDmUwN5mFQpr2_Fe9vun3zsBg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "53ad36041f75b6063nd_39m_E1o~",
+      "encryptUserId": "0865a205536170011XZ-2N-_",
+      "invalidStatus": false,
+      "jobName": "JAVA后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责 1、负责微信生态、钉钉生态等产品及后台管理的接口开发\n2、负责撰写和维护公司的技术类文档\n3、负责公司线上产品简单的日常运维工作\n4、热爱运动热爱生活\n\n工作要求\n1、1-3年java开发经验，熟练掌握java web技术，掌握HTTP、WebSocket等网络协议的基本工作原理和常见的web工具的应用；\n2、熟练SpringBoot、SpringMVC、MyBatis等开发框架、掌握Tomcat、Spring的工作原理；\n3、熟悉微信生态、钉钉生态开发、如：小程序、微应用、H5开发；\n4、熟练使用MySQL等关系型数据库；\n5、熟悉Redis、ZK、MQ等中间件的使用及原理；\n6、熟练使用Git、SVN等代码版本管理软件；\n7、熟悉 Linux 系统并能使用常见的命令，了解docker，最好有 docker 的使用经验；\n8、有JavaScript、nodejs相关的开发经验者优先；\n9、对自我要求严格，掌握各类技术的规范，能够保证优良的代码质量和风格；\n10、有良好的团队合作能力，善于沟通，工作自主驱动，具备良好的问题定位分析能力。",
+      "encryptAddressId": "f194f086a64a153d1XB_29u_GA~~",
+      "address": "广州越秀区星光映景(正门)16楼",
+      "longitude": 113.311602,
+      "latitude": 23.142953,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6ebe5682a97cad15ba4b13868c01f52c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3df3aa6bd07878c54fc609574598ee0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "分布式经验",
+        "微服务经验",
+        "PHP",
+        "mysql",
+        "架构设计经验",
+        "nodejs",
+        "redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "产品总监",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180225/ec41de2a9c70df0fb2f938a7cba9afe7193f45f8487e3f1722756e678ef_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "轻码科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5676614a1faf454b1nBy3967EA~~",
+      "brandName": "轻码科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180225/87750cf5303e7b8d339803166d96c735193f45f8487e3f1722756e678ef4fd1e.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "轻码科技有限公司，由多名来自国内知名的互联网企业技术团队和市场营销团队核心精英于2016年共同在广州市组建成立。公司拥有实力雄厚的软件技术背景，主要为政府、国内大中型企业提供:技术顾问咨询,信息化系统开发,互联网应用开发；并且自主研发产品运营。\n\n       轻码科技以“专业、创新、共赢”做为公司的经营宗旨，和我们的客户共同成长。凭着专业的技术服务，为企业创造了价值，在客户群体中一直获得良好的口碑。",
+      "labels": [
+        "五险一金",
+        "员工旅游",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1726047004000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "轻码科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

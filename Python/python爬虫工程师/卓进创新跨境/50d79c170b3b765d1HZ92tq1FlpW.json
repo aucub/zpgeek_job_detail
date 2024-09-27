@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pUEX8jbherOuT-t1R8stTGiXbyB7jnQrThmf-TGL9Up1Ie3GuOmsdBORHghj81GnPAA0a6zYifz8RHVdUdssufJGqg5G2O6zQx7Xj4lKvSrvHC6sZ1wu",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "50d79c170b3b765d1HZ92tq1FlpW",
+      "encryptUserId": "9ce5db9cb0a48d780nFy2t2-E1NT",
+      "invalidStatus": false,
+      "jobName": "python爬虫工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责爬取HTML页面所需数据，并对数据进行清洗、解析、归档、输出等；\n2、负责设计和开发分布式的网络爬虫，数据的采集与爬取、调度、监控、自动化运行等；\n3、负责实时监控爬虫的进度和警报反馈，提升爬虫系统稳定性、可扩展性。 \n4、负责js渲染抓取，反爬虫策略研究，验证码识别等采集支撑服务建设； \n5、参与公司业务平台的数据的挖掘和分析，协助进行产品改进。\n任职资格\n1. 本科以上，计算机或相关专业毕业，扎实的Python基础，熟悉多线程编程环境，熟悉常见开源框架；\n2、熟悉基于正则表达式、XPath、CssSelector、beautifulsoup等网页信息解析技术；\n3、熟悉Scrapy、feapder等主流爬虫框架框架，能够解决封账号、封IP、验证码、网页限制爬取等问题，且有实际经验；\n4、熟悉常见的反爬机制，并对反爬具有一定的应对措施策略且有一定研究，如协议破解、模拟点击等； \n5、熟悉代理IP池、Headers认证和Cookie等；",
+      "encryptAddressId": "443cc504e5a2c7ab1nB909-4FFpU",
+      "address": "武汉江夏区湖北建新建设工程有限公司三楼",
+      "longitude": 114.316357,
+      "latitude": 30.355181,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231204/48ba41acc9cef1bf035871a9918becd3ed3dcf68ff3883966bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231204/48ba41acc9cef1bf0b3a5d9ed860e1e028e0ff4ec7b377e66bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫经验",
+        "Docker",
+        "Pandas",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "Linux开发/部署经验",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "唐先生",
+      "title": "爬虫工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "卓进创新跨境",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "18fb70fbf585d37b1XZ739q5F1U~",
+      "brandName": "卓进创新跨境",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220807/7bf6f160950405e98889095d63e66b30020397c588d6bb991e957eab3ceadfd12ac2d5b34a28874f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "卓进创新跨境电子商务（武汉）有限公司成立于2022年7月，专注于跨境电子商务、互联网电子商务的开发与应用，目前主要依托亚马逊平台，专门以欧美市场为主要销售对象，同时开发日本和东南亚商贸市场， \n  我们拥有成熟的产品线，具有专业的研发团队和运营团队，同时也有良好的行业口碑和产品评分。\n  公司信奉\"专注、拼搏、创新、快乐\" 的价值观，追求客户、员工与公司的和谐共赢，致力于基业常青、打造 \n   立志成为中国外贸电子商务领域最具影响力的公司。",
+      "labels": [
+        "生日福利",
+        "有无线网",
+        "零食下午茶",
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724835115463,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卓进创新跨境",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

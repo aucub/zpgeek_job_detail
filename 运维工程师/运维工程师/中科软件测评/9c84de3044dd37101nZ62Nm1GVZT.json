@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "scyUarWkc8tVe-V1BaRKgDthBElEs7AyjJMCVVmQDdY4MFrSpe4r2y15Ng6Qhfxaxn5dZ28xOOmTZn7-IEsB_iKqvK4YSZDiZBBNBMSt-BqiBlorRN-H",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9c84de3044dd37101nZ62Nm1GVZT",
+      "encryptUserId": "b137d52132f619da0nV-29m6GFBW",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司系统平台日常上线部署、规划、建设与维护，确保高效安全运行；\n2、负责系统上线及系统迁移、优化等的方案制定及实施；\n3、负责日常系统的监控与故障处理；\n4、负责系统监控和自动化运维工作；\n5、负责对应用系统和虚拟机的安装及维护和优化；\n6、负责公司主机、存储系统的性能优化与安全加固。\n任职要求：\n1、计算机或相关专业大专以上学历，有1年以上硬件、网络、系统运维经验；\n2、精通Linux，熟练快捷进行各种运维操作，擅于编写Shell脚本，掌握Python/Scala优先，熟悉windows服务器运行维护；\n3、数据各种主流数据库的运维调优，如mysql,Oracle,Redis,MongoDB等；\n4、熟悉JAVA生态中间件安装维护调优，如Tomcat，Kafka，RocketMQ等；\n5、能够熟练搭建CI/CD平台 Jenkins等，熟练使用SVN,Git等版本管理工具，有DevOps项目实施运维经验优先。\n6、熟悉服务器虚拟化和云计算相关技术（如VMware、Hayper-V、Xen、KVM、OpenStack等），具有实际部署和管理维护经验优先；\n7、熟悉服务编排与容器化技术Kubernetes、Docker优先；\n8、具有大数据项目：包括不限于hadoop、hive、kafka、hbase、spark、Kudu、Impala等大数据生态的平台搭建、监控、运维、调优工作经验优先；\n9、擅于与人沟通，团队合作意识较好，能配合团队成员完成工作。\n\n此岗位可接受实习生。",
+      "encryptAddressId": "83461f42ddddbd9a1H192tW-FFE~",
+      "address": "广州越秀区先烈中路100号大院先烈中路100号",
+      "longitude": 113.299503,
+      "latitude": 23.139359,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/696a67bc712613da52f84fa79fec52b2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/49c2d41810c70970c353615dd8c27ba4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "系统运维",
+        "安全运维",
+        "自动化运维",
+        "虚拟化运维",
+        "Windows",
+        "Python",
+        "Shell",
+        "服务器配置"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "人事主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=ccbed6adc4269607jzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5bn3105tl57d9pQwHuy7dnN--lf5JRsO2-WDl9NVhXqXNd_Kj2EHQXFrHlWEVrx4geSF-wyP0I-A8dUdK3gHEtAHRB9U-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中科软件测评",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "60bcd060ec46ac801nd92dm7FFI~",
+      "brandName": "中科软件测评",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724854402380,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软件测评",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

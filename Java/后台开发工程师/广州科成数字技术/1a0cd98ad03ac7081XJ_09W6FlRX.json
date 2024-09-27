@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1CWYjp4tbnqNE-k1TFxwD_8pQZ7xw1BEagSzsT0ca-kO2HlyGzqkUxu9T1COfeKwjT_h-OaoUwqeSKvVoNC8KBdYlJ-Qlgg4mnZPOIjoKdNKyHIGYLCf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1a0cd98ad03ac7081XJ_09W6FlRX",
+      "encryptUserId": "9d013c5b080bb7320nNz29m5FlFR",
+      "invalidStatus": false,
+      "jobName": "后台开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\nMES系统开发，ERP对接，WMS对接；\n负责系统功能的后端设计、开发、测试、优化和维护等工作;\n与前端工程师联调， 完成整个系统全流程的操作； \n负责撰写后端相关文档，如软件开发规格书、操作说明书等。\n\n岗位要求：\n掌握Linux/Unix平台下的常用命令和操作;\n掌握常用的数据结构与算法、操作系统原理，多线程等;\n掌握Redis的使用，掌握MySQL或者MongoDB数据库;\n熟悉HTTP协议、熟悉Cookies、Session、Token、REST API等Web开发概念，熟悉以下两种Web后台开发中的一种;\n基于Java的Web后台开发，熟悉Spring、 SpringBoot、Mybatis、SpringMVC等框架;\nNode.js的Web后台开发，熟悉Express/ Koa2/Egg等框架，有服务端程序开发经验;\n1年以上MES项目管理经验（现场生产制造管理、生产管理、质量管理、生产物流等有深刻理解）;\n具备良好的沟通表达能力和书面文档撰写能力，熟练使用PPT，Word，Excel，Visio，原型设计工具等；\n能够承受工作压力，良好的学习能力和自我提升意愿；\n\n加分项:\n掌握Docker的使用;\n掌握微服务核心概念，熟悉Nacos、Dubbo，SpringCould等系列框架;\n掌握消息队列中间件，如Kafka、RabbitMQ;\nMOM/MES/WMS/ERP开发经验;\n配电监控系统开发经验；",
+      "encryptAddressId": "1f488d6d363945c90H193d25E1A~",
+      "address": "广州番禺区华姿大厦6号楼408",
+      "longitude": 113.477136,
+      "latitude": 22.949062,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/858f0c1b05ea0cf2e65d509f6c765d39",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c0bf005e2ef4836f2f5deff0ece0294",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MES开发经验",
+        "Docker",
+        "MySQL",
+        "能源管理",
+        "MES",
+        "EMS"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "广州科成数字技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9c9a081c8a39ef961XBz09W7F1s~",
+      "brandName": "广州科成数字技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724795101795,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州科成数字技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

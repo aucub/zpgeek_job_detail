@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PbhVzgabza816-_1mo8Gvttt8aVXh40F2j5GGVhSuhaYSpHT4pljPRvT9ry87PaEO1OFlaZhlMnMB-PoSxWp8d_j-KcmaVmDN5RP6YbqkMMV69MQVvI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7033f0f902e5de351HF42Nu0EFNY",
+      "encryptUserId": "8b0bce660b905b3a33J62N29FlU~",
+      "invalidStatus": false,
+      "jobName": "Java实施工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "负责公司事件驱动实时开发平台产品的代码开发，参与客户项目实施、系统集成、交付上线，并跟进解决上线过程中以及上线之后的各类系统问题。\n\n岗位职责：\n驻场开发，包括但不限于以下方面：\n- 针对客户需求，梳理需求，并提供相应解决方案；\n- 负责产品实施和系统整合，在保证质量的前提下按时完成交付；\n- 协调沟通客户和项目组之间的合作与进度，及时跟进问题和风险，并提供有效解决方案。\n- 使用实时开发平台产品，对接用户各种数据库及中间系统（Hbase、MySql、PostgreSQL、达梦、kafka、ES、Redis等），完成用户实时数据处理场景。\n\n任职要求：\n1. 统招本科及以上学历，计算机软件相关专业；\n2. 熟悉常用的Spring框架；了解设计原则，熟练使用设计模式，对事件驱动设计有相关理解，熟悉多线程、高并发技术；\n3. 熟悉JAVA主流平台各类主流分布式架构和微服务架构，掌握vert.x、rxjava、java、groovy、netty等技术优先，有事件驱动实时开发平台开发经验者优先；\n4. 掌握MySql、PostgreSQL等至少一种关系数据库平台，有SQL优化经验优先，有MongoDb应用经验者优先；\n5. 掌握Kafka、RabbitMQ、RocketMQ、WMB等消息队列中间件中的一种；\n6. 工作积极主动，责任心强，能够承受工作压力，并有不断学习和成长的意愿和能力；\n7. 熟练掌握Docker, K8S等容器技术优先；\n8. 对大数据相关技术，如（Spark、Flink、Hive、Hbase）有一定认知者优先。",
+      "encryptAddressId": "287797fe054ced261ndz2d61F1NQ",
+      "address": "广州黄埔区锦昊智谷B区二楼2025",
+      "longitude": 113.451924,
+      "latitude": 23.171669,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230411/48ba41acc9cef1bf345197d7c30f077c214b8b95388ec1846bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230613/48ba41acc9cef1bf056ec0c4ba29e0dc39f605d0257187836bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Docker",
+        "Hadoop",
+        "MongoDB",
+        "Spark",
+        "vert.x",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杜先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230829/607f1f3d68754fd064b89613b9728ded0715e07b99e568306aa888881c9072a8ea119738699a36a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "瞬优智慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1d73cfc79103ae831XR73t-9E1U~",
+      "brandName": "瞬优智慧",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220308/7bf6f160950405e96112321b80946e1db3e8892fa078446d816532d2ce51c6957bd01a325cf1ece9.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "广东瞬优智慧科技有限公司是一家集实时数据处理及敏捷智能开发分析平台的设计、开发、实施、维护、咨询，全面助力企业数字化转型及创新。\n瞬优核心产品经多年研发，开创国内实时数据处理先河，基于核心产品打造实时数据处理体系，为企业提供事件驱动级别的系统集成方案并进行实施落地，整合企业内部包括物联网在内的多个不同的应用系统，为打造实时数据体系提供专业的需求分析、架构规划、开发实施、人员培训等服务，并基于PMP项目管理体系，提供专业项目经理、高级项目经理及项目集经理的外包服务。赋能企业的物联网设备数据管理、企业级异构系统整合、数字化转型、决策支持和响应，并在电力行业、地产行业等行业实践并获得一致好评，以低成本实现企业数字化管理效能的最大化。\n瞬优作为中国数字化转型的实时事件驱动的领导者，将通过贯彻执行创造性思维、技术、方案，发展成为中国最智能和敏捷的科技公司，领跑中国信息化及数字营销的变革，全方位打造智慧解决方案的生态系统。\n瞬优持续全面打造、优化核心产品竞争力，持续推进产品技术创新，以多元化布局扩大业务触角，增加市场份额，夯实并丰富业务模式，保持业务持续盈利能力，争取5-8年上市科创板。\n       公司产品介绍：鼎瞬Peerless，广东瞬优智慧科技有限公司与SUSE合作推出的全新产品——作为一款实时智能协同整体解决方案，鼎瞬将帮助企业应对数据分散、计算能力不足和设备管理困难等挑战，助力企业走向创新发展。通过鼎瞬Peerless云边端实时智能协作平台，我们提供了一种完整的端到端数字解决方案，能够高效地实现云边端的协作。我们专注于提供专业服务、建立稳固的声誉、实用创新和吸引人才。通过与SUSE的合作，鼎瞬Peerless不断扩展其协同能力，并在实际案例中展示出了出色的表现。企业可以借助鼎瞬Peerless实现实时智能协作，提升效率、降低成本，并在数字化战略中赢得更大的优势。",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1727443553447,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "瞬优智慧",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

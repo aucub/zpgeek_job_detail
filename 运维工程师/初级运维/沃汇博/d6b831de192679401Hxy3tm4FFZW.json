@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Uz1S1N7bbOrzd-c1koRgZ58MFCkSbA3fvcR2q8vPLhWnfTAWQe-mjh2UMr2n_mL8USWHNZvzO8Ih40wNqm59bogT43WS_InOWAC3GfZ-5Jtk8Q3Xj6A92i3FlwoTiedjbWxxk_1-t2xmmUM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d6b831de192679401Hxy3tm4FFZW",
+      "encryptUserId": "8462050923a282c70ndy3Nq1FldQ",
+      "invalidStatus": false,
+      "jobName": "初级运维",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "熟悉阿里云计算基础架构和阿里云服务技术组件，RocketMQ/Redis/0TS/ADB/RDS/ES 等。了解容器化、微服务架构。\n1、负贵营销涉及的云上中间件日常运维，监控，保障云上系统的稳定运行，监控和调优系统的性能和可用性，及时处理故障和问题。2、至少2年云计算监控经验。\n3、负责监控的性能调优，问题消缺，以及故障处理、跟踪;推动中间件相关安全问题改进4、负责营销 2.0涉及的云上组件的运行维护，同时可以进行开源监控软件的规划、安装、测试与实施部署。\n5、熟练掌握 Linux 操作系统，具备一定分析问题和解决问题的能力。\n工作技能要求:、三年以上系统维护工作经验，2年以上云平台维护经验。熟悉Go/Python/Shell至少一种开发语言具备较强的分析、解决问题能力。2、熟练掌握多种主流的监控技术(Sunfire、CMS、Prometheus、Zabbix等)，能够完成监控软件的安装部署、安全加固、故障分析和性能调优。\n3、熟悉KVM虚拟化，docker容器化等技术;熟练使用docker命令。\n4、精通k8s 容器集群架构，有容器应用部署经验的优先。 2SchedueX /MA熟练使用国网云平台组件，对云上中间件((CMS、ACK、ARMS、EDAS等))具有一定的使用经验6、熟悉 JVM 工作机制，掌握常用的问题跟踪、性能优化工具，能够独立排查与分析遇到的问题7、具有良好的沟通技巧，工作态度积极，责任心强，良好的团队精神。",
+      "encryptAddressId": "4e9d95f063fd68371nZ72tu7ElJSw4y5V_md",
+      "address": "北京西城区钢设总院大楼1",
+      "longitude": 116.359295,
+      "latitude": 39.887387,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230724/48ba41acc9cef1bf8b393a2e638a765ff150a577a23982e16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230724/48ba41acc9cef1bfb6d187ad261921bf78eb9b1558b9f6526bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "阿里云"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "边女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240327/607f1f3d68754fd0680960ec026c8781326b63434c7cceb52ad6269e5b869d522864273a59f303f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "沃汇博",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e54b84edca48f3321HFy3N61ElU~",
+      "brandName": "沃汇博",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727409603899,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "沃汇博",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

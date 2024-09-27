@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "D0FpGWF6rhmEw-s1YM1P0loE3jZQk3OmQkukdWq0eklFG3iJwK5QAskeZ27JS8td-hdxFXRMXwXOT0kVl2mwgiVw7Cbok9O_UdKTCET7bG69lGATdl_6",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d3cd56c4c6d562c61HN53dS6EltR",
+      "encryptUserId": "b5d60cd216788de50nV73927E1ZX",
+      "invalidStatus": false,
+      "jobName": "爬虫（数据分析）",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述 \n1.负责多平台钢铁行业信息爬取和页面内容的提取分析； \n2.研究各种同业网站、网页、链接的形态，发现它们的特点和规律； \n3.解决技术疑难问题，包括反反爬、压力控制等；预警更新等等 \n4.设计各种策略和算法，提升抓取效果；充分利用带宽资源，避免限制， \n5.参与搭建通用爬虫系统。 前期搬砖工作居多，后期有人代数据分析和算法方向培养，\n岗位要求 \n1.计算机及相关专业，统计，数学，软件工程等等，本科以上学历1-3年以上相关工作经验； 可以接受优秀应届生或往届生\n2.精通计算机网络，熟练掌握Python，HTML，JS/CSS等技术，熟悉Scrapy、Selenuim框架或其他的Web scraping framework； \n3.精通网页抓取原理及技术，有丰富的Linux系统使用经验，熟悉MySQL、Redis等，熟悉Internet基本协议（如TCP/IP，HTTP等）； \n4.能够解决封账号、封IP采集、验证码识别、图像识别等问题,解决网页抓取、信息抽取等问题,构建完善的网络信息收集平台； \n5. 掌握数据分析流程，擅长数据采集、清洗、分析等环节；\n6.有分布式爬虫架构经验者优先，有反爬虫反反爬虫经验者优先；",
+      "encryptAddressId": "b46c8206cdf1ab200XZz3ti8EVc~",
+      "address": "北京丰台区路桥大厦11楼",
+      "longitude": 116.308143,
+      "latitude": 39.890254,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d0593505fc42336b8b87ead75c61bd43",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/177c6512fc2d010f4b229e2847f9bfee",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python 开发,数据采集"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "人力总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220409/607f1f3d68754fd09638e69317c4da19ed53275eed06caf838af12bce1cac6c6d6f01806bc3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京兰格",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1e09ff8f9b2b13281XV-3tu9FFI~",
+      "brandName": "北京兰格",
+      "logo": "https://c-res.zhipin.com/jrs/7_b067993653cd7f0cb33454a7855cbdf4.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "通讯补贴",
+        "有无线网",
+        "团建聚餐",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1727429951887,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京兰格",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

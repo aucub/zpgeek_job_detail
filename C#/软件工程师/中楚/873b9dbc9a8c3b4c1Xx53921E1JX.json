@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "QOuYDVhnjcSqU-T1UreQ_2KaErp1dI4bKC4Ws37_FCxe5DBCQOQCstml4gDwKeZxBpq-uv0bTwpua0cgc1hT_2EfHaRv-6TyqpBvYleoSBAAqRsDuR42dOYZXZRcNS3m3k09aOzq5DtqFY4ZEMWfcZTF",
+    "securityId": "gPFNdvpb5lzlg-X12UeT33dvlqBzjd6nZj9inVZB7WuDdk7u55poXyLvgZlEFOES5fS4Uz_wsAGJqU4oOKd-OSSTMJGyCNFnm9Da2AA3ezZmb9VFMY1M",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "5-10K",
       "payTypeDesc": null,
-      "postDescription": "此职位分别为MES和ERP两个方向，均为公司相关系统的开发与维护工作，开发都以.NET为主！！\n\n----------ERP开发方向---------\n岗位职责：\n1.ERP软件的程序设计与代码编写；\n2.协助与用户沟通确认软件系统及模块的需求分析，并能完成编码和测试；\n3.编制整理项目相关的技术文档；\n4.ERP后期技术支持及维护工作，以及上级交代的其他相关工作。\n职位要求：\n1.软件或计算机等相关专业，2023或2024届全日制本科毕业生优先；\n2.熟悉.net开发及SQLServer等主流关系数据库，并具有一定的SQL优化能力；\n3.思维清晰，逻辑分析能力强，善于学习，有较强的分析和解决问题的能力；\n4.有良好的沟通协调能力，工作积极主动，责任心强，良好的团队合作精神；\n5.对生产企业的软件系统有所了解优先。（ERP/MES/WMS等）\n\n-----------MES开发方向----------\n岗位职责\n1.根据MES需求进行详细设计，编写设计文档；\n2.根据设计文档，完成软件设计与开发，及测试工作；\n3.为项目现场实施提供技术支持，现场调试和售后维护。（需出差）\n职位要求\n1.计算机和自动控制等相关专业；\n2.熟练掌握C#,WPF,熟悉.net framework, .net core,MVC架构，良好的代码习惯；\n3.掌握数据库（Oracle、SQLServer、Mysql等）的操作及编程，熟悉SQL语言；\n4.有较强的逻辑思维能力和沟通能力，具备良好的文档编写能力；\n5.工作积极主动，有良好的学习能力、责任心强，能够承受一定工作压力；\n6.具有制造业ERP&MES&WMS&CRM信息化系统开发经验者优先。",
+      "postDescription": "此职位分别为MES和ERP两个方向，均为公司相关系统的开发与维护工作，开发都以.NET为主！！（需出差）\n\n----------ERP开发方向---------\n岗位职责：\n1.ERP软件的程序设计与代码编写；\n2.协助与用户沟通确认软件系统及模块的需求分析，并能完成编码和测试；\n3.编制整理项目相关的技术文档；\n4.ERP后期技术支持及维护工作，以及上级交代的其他相关工作。\n职位要求：\n1.软件或计算机等相关专业，接触过ERP相关的优先；\n2.熟悉.net开发及SQLServer等主流关系数据库，并具有一定的SQL优化能力；\n3.思维清晰，逻辑分析能力强，善于学习，有较强的分析和解决问题的能力；\n4.有良好的沟通协调能力，工作积极主动，责任心强，良好的团队合作精神；\n5.对生产企业的软件系统有所了解优先。（ERP/MES/WMS等）\n\n-----------MES开发方向----------\n岗位职责\n1.根据MES需求进行详细设计，编写设计文档；\n2.根据设计文档，完成软件设计与开发，及测试工作；\n3.为项目现场实施提供技术支持，现场调试和售后维护。\n职位要求\n1.计算机和自动控制等相关专业；\n2.熟练掌握C#,WPF,熟悉.net framework, .net core,MVC架构，良好的代码习惯；\n3.掌握数据库（Oracle、SQLServer、Mysql等）的操作及编程，熟悉SQL语言；\n4.有较强的逻辑思维能力和沟通能力，具备良好的文档编写能力；\n5.工作积极主动，有良好的学习能力、责任心强，能够承受一定工作压力；\n6.具有制造业ERP&MES&WMS&CRM信息化系统开发经验者优先。",
       "encryptAddressId": "8899c0f585e4652333180t2_GVY~",
       "address": "苏州虎丘区苏州纳米城西北区1栋604",
       "longitude": 120.772721,
@@ -34,11 +34,11 @@
       "overseasInfo": null,
       "showSkills": [
         "C#",
+        "ERP开发维护",
         ".NET开发经验",
-        "中大型项目开发经验",
         "MES",
-        "软件开发",
-        "ERP开发维护"
+        "中大型项目开发经验",
+        "软件开发"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -49,7 +49,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "中楚",
       "bossSource": 0,
       "certificated": true,
@@ -74,7 +74,7 @@
         "节日福利",
         "出差补贴"
       ],
-      "activeTime": 1724739872493,
+      "activeTime": 1727416214897,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中楚",

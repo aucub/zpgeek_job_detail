@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "UDxzYtFFoX_YD-_1AI0gE5fIYmWTwGLejA3HJlFv61p5FtI8Kc9aJxZeeYHSILolyLHpWKU51451z3k1LNQWL6iQ3xXg8trbVOy7IwQ7jkaVtLO1eZZkOFF7k7CQfyTozDu1NIqomFYEFQ~~",
+    "securityId": "QVKkNNCbkOS4D-E1iYAs11bhM-160ijim57str-0meD9w5Ygez0JjwzxVKTu4a7ZVnWT0TmcZ9-aZ4TISq1dASoSq7gEJcbp6sBC6QN2qf6dhdf3MKibGh2_zS1gwytqEVC6ZheLl6ztROSmAj578gwM",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,13 +33,13 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Postman",
-        "Python",
         "MYSQL",
-        "银行接口测试"
+        "银行接口测试",
+        "Postman",
+        "Python"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "冉女士",
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240411/607f1f3d68754fd0577854c2a7f1ed68ea78e72585e2eb6bf8e394c9fd934b121530e9af8b7bbd5_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "上海泽众软件科技",
       "bossSource": 0,
       "certificated": true,
@@ -66,7 +66,7 @@
       "industryName": "互联网",
       "introduce": "",
       "labels": [],
-      "activeTime": 1718877502474,
+      "activeTime": 1727418603988,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海泽众软件科技",

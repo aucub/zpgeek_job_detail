@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "WlpAwmOzMdPjj-V1FmpsT0T4joCiJoHNo1PLTx8ctxJ-TdmUWvhJiefhkarnQ5eL8pVHS2BHTVWle_mNBYsbFkoiTzvet1-WSbPKZZWjJVi_PVslmmqzTo20IGRrsGgR_1enPLBuOoEcNJ76r0qpHg~~",
+    "securityId": "ZS0GUQHAy23pF-N1Wu3GgQ6fB87lPPvLbLiTsMBR9sq776av0pMl8B40K4U3l5-KPdDrYaX1KMdl-lIkOFPgX8syFZPoZjpRbSAvsGQqM2m7W6PMIA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,10 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "太阳生物技术",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "979b8f53c9de3eb71nJ90tq0GQ~~",
@@ -71,7 +73,7 @@
         "餐补",
         "节日福利"
       ],
-      "activeTime": 1718674090088,
+      "activeTime": 1727416373886,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "太阳生物技术",

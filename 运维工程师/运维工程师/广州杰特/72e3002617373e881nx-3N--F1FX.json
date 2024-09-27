@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "50Clg0qIgwHUX-W1XxZY8Y2lLnqkEVksxh7xvjUeChAfE-m6dU_YbumuWdwB9nOg3P4FKw44C5prC8_6yV395tINb8gETffX2sI8ywHsaiF4PhZg5w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "72e3002617373e881nx-3N--F1FX",
+      "encryptUserId": "c3435c82c6abdd681Hd82d64EFU~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责云平台的规划、实施、管理；\n2. 负责云平台硬件的部署、实施、监控和维护；\n3. 负责云平台上业务系统的部署支持；\n4. 负责数据库系统的安装、配置、备份和及时有效的恢复；\n5. 本职位在增城区某政府客户办公地点驻场，接受客户的直接管理，上班时间与客户相同；\n\n任职要求:\n1. 熟练掌握CentOS/ Ubuntu等linux系统的运维工作，包括用户管理、权限控制、搭建服务、安全攻防、系统调优和故障排查处理的能力。\n2. 熟练掌握k8s平台的使用和管理，能够自行利用k8s部署服务和调试服务，能够自行封装和修改镜像。\n2. 对数据库技术有一定了解，熟悉数据库调优及排错，有独立分析和解决的能力；\n3. 熟悉OpenStack的体系架构，有云平台实施、运维经验；\n4. 熟练使用Shell、Python等至少一种脚本编程语言；\n6. 熟悉主流的虚拟化环境KVM、Hyper-V、Xen等；\n7. 熟悉 TCP/IP 协议，了解 VxLan 等隧道技术；\n8. 有IT基础设施与虚拟化资源的集中监控、管理、运维项目经验；\n9. 待人温和有礼貌，服从领导安排，有良好的服务意识；\n10. 注重团队精神，善于与其他合作方沟通，能够在压力和快节奏环境下工作，能适应紧急情况下的加班；\n11. 具有管理意识和能力，能够分清主次，协调资源快速解决问题。\n\n福利齐全：\n1. 公司为员工提供舒适的工作环境；\n2. 公司为员工购买社保公积金；\n3. 工作时间：8:30-12:00，14:00-18:00，周末双休；\n4. 完善的假期组合：国家法定节假期、带薪年假。\n5. 考核机制：明确的工作目标和完善的考核机制，奖励认可和指导改进并行。",
+      "encryptAddressId": "b476715824c6094f1nV809q4GFo~",
+      "address": "广州天河区建设大厦F座1211室",
+      "longitude": 113.330017,
+      "latitude": 23.162111,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c088b5816d4fcc6102671174db1b1655",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e18ccfbba21471c31d6f1ea6c243b5b3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "虚拟机技术",
+        "网络协议",
+        "Linux",
+        "安全运维",
+        "Ubuntu",
+        "K8S",
+        "KVM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黎女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州杰特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "17e487ba7f30075b1nR52tm6Fg~~",
+      "brandName": "广州杰特",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180611/66b580d19e51b974b08d353eaf6703d7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广州杰特信息科技有限公司成立于2014年，是一家专注于云计算、大数据、物联网的高新技术企业。公司倡导“客户第一”的服务理念。\n    JetCloud CaaS是公司研发的新一代Docker容器云平台。平台具有运维简单、使用便捷等特点。同时，公司也为有客户提供虚拟化、云平台安全管理等私有云综合解决方案。\n    公司研发的政务大数据分析平台，为客户提供数据对接、数据清洗、数据报表、自助分析、数据挖掘、自动预警等服务，帮助客户极大的提升了数据的利用率。\n    公司研发的固废管理平台，采用了区块链技术，通过在固废流转环节配备传感器、计量仪器等方式，帮助客户监控固体废弃物流转，管理固体废弃物流向。平台已在工厂、医院等客户中应用。\n    公司核心团队均从事云计算、大数据等行业多年，有着丰富的实战经验。公司致力于通过技术研发、产品整合，为客户提供独特的解决方案，帮助客户提升效率。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1724854402481,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州杰特",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

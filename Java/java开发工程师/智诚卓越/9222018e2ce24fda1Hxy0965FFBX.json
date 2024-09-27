@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "q98XWUDx_Jpgq-p1jA9-ICdabiYT1MCZS7ab8vAM338K1iFGlMfHGce15yzbDSHCKNSHJbJrKY5N1AYe7SAP3JjOFujzFNPCUmiwx4N4967HTn9dxGxxHrIjdfmiAFy7-07XtJvgfdeu9iMn4yuTSnM6nOaZeOHC-ndpUeM62AOFW10~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9222018e2ce24fda1Hxy0965FFBX",
+      "encryptUserId": "197860e5c37b58941XN73NW0",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "职责\n1、从0到1参与物流配送相关解决方案的建设\n2、现有系统日常的维护和升级以及重构调优\n3、新项目实施推进、技术选型、代码review\n4、负责技术难题攻关及解决\n\n任职资格：\n 1、JAVA基础知识良好，JAVA基础扎实，包括JVM、IO、多线程、并发、网络，深刻理解面向对象、设计原则、封装抽象等 \n 2、熟练使用Spring、mybatis，springboot等常用框架，了解原理者优先；\n 3、有微服务相关开发经验\n 4、了解VUE开发优先\n 5、有至少一个完成线上系统的实施经验\n 6、拥有多线程、高并发开发经验， java持续开发5年以上，熟悉JVM调优；\n 7、拥有物流配送系统开发经验者优先\n 8、熟读1、2个开源框架源码者优先，有个人博客、产品的优先",
+      "encryptAddressId": "99775ca90a22eb271nd42tm7E1BTy4i_UPuc",
+      "address": "北京石景山区泰禾新天地9-1-105",
+      "longitude": 116.219714,
+      "latitude": 39.904333,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230410/48ba41acc9cef1bf5650c202056b86c8f9f88571bae4c9516bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf20909224a5d7dc9bedd1313d29222aaa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "Docker",
+        "PostgreSQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "邓先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240312/607f1f3d68754fd0a5ac14c71eb078e23273090edfe4ae5610d7380cefcd111b60b66cbb609699f_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "智诚卓越",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8109daaf0c2525851XR409q-FVs~",
+      "brandName": "智诚卓越",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240306/7bf6f160950405e93f13f3a0743a35607e904aa15a711d5310d7380cefcd111b60b66cbb609699f4.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "带薪年假",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1727414154764,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "智诚卓越",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
