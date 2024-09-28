@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "_JM2FDlHSW3i4-Y1DG5EA9HVwqNlZEtTEsaf2KQDgIIHuF6KdnTJikCNynlvfp502htyThphJG-UaD3yqDJeTP5woDuNKf4UVhw69A7d-6UdIQ9ISSb6-wqvV4Bcqy2pOQKBmrvbSz3voG4dyCroeSx6og~~",
+    "securityId": "JV5wAUhZrIr2h-o1nxDwM3rX4ihY6_UmDl5-FOoS11oBX41qJLugRoKEzysCdreZv2le3FBuApToaPKP_yZ0uWB7B1geaO1MyGYowVSF2yeiw9WF4TQ~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,11 +33,11 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Java",
-        "MySQL",
-        "计算机相关专业",
         "通信/工程相关专业",
-        "大数据运维经验"
+        "Java",
+        "大数据运维经验",
+        "MySQL",
+        "计算机相关专业"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -74,7 +74,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1722408834116,
+      "activeTime": 1727434521560,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中国顶正投资有限公司",
@@ -83,7 +83,7 @@
     "oneKeyResumeInfo": {
       "inviteType": 0,
       "alreadySend": false,
-      "canSendResume": true,
+      "canSendResume": false,
       "canSendPhone": false,
       "canSendWechat": false
     },

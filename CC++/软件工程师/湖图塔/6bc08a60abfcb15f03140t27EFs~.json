@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mOLQHmDTnWqCW-J1qKQiv23_Qcaa7Hg_9l6raH-fr6SrddsfQoBOXqOWpiA8qr6lor3rgHFIhyEQKX2_z4PKLk_9PqAsDKh3GLJjlwImEzLLLU6S",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6bc08a60abfcb15f03140t27EFs~",
+      "encryptUserId": "9f0f93502a36bc890HR83du5F1o~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "设计、实现和维护大数据系统和生物信息数据系统，包括计算集群软硬件开发、维护，大数据软件及系统开发及维护。\r\n\r\n要求：\r\na) 对计算机技术有强烈兴趣，刻苦好学\r\nb) 熟悉至少一种编程语言（如C++，perl，Python）\r\nc) 有一定的自学能力\r\nd) 有一定英语读写能力\r\ne) 熟悉Linux操作系统环境的优先考虑 \r\n\r\n有意申请该职位者，请回答以下问题之一（任选一题）\r\na. 虚拟内存的page coloring如何运作？\r\nb. 写一个能将自身源代码打印到标准输出的程序（不允许用文件操作）。\r\nc. 2013年图灵奖获得者的最重要贡献是什么？",
+      "encryptAddressId": "296e66e26ca7b36e33Vz3NS0EVE~",
+      "address": "深圳南山区中电照明大厦北座512室",
+      "longitude": 113.957052,
+      "latitude": 22.537088,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f331a4d87874d833ac216f6476b7e510",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cd72621f201c8005bf6f805ac1221670",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "顾先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "湖图塔",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "cf76f8642c43efb30nVz29m4GQ~~",
+      "brandName": "湖图塔",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191119/f14afa26f5852a0242852399a46507f8c03a966179c0a3ced7be2e27cdd8abe4_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "湖图塔是一家研发先进内存大数据技术和制造高性能数据系统的科技企业，所开发的Data Thinker技术提供高性能大数据处理能力，速度比Hadoop快2到70倍，比Spark快1.5-5倍，也是目前亚洲地区唯一不依赖开源软件、完全自行开发的大数据核心技术。基于Da​ta Thinker技术的Agra图数据库、GLAD生信数据引擎等产品已经应用于日志分析、文本搜索、商业智能、基因数据处理和社交数据分析等广泛领域。\n\nData Thinker是一种通用、高性能、内外存统一调度的大数据内存计算技术，该技术的核心是一种创新的BigMessage架构，实现高吞吐量低延迟大数据计算，可将众多计​​​​​算机的大量计算资源集成为一个具有统一数据空间、高并发I/O通量和大规模并行能力的计算系统。BigMessage技术的一个特点是将内存、外存与网络通过系统软件统一管理，由系统自动进行数据交换和缓冲，这使得海量数​据存储​​​​和处理的成本大大下降，以经济、高效、可扩展的方式构建高性能、低延时、图​灵完备的计算体系。Agra图数据库利用Data Thinker的大数据管理和计算能力，提供大规模图数据的可扩展存储和快速分析能力，形成下一代大数据系统的数据层核心，而GLAD生信数据引擎针对生物医疗数据应用特​​点，提供强大的系统功能，将大数据科学计算的能力提高一个数量级。随着数据规模的扩大和应用领域的扩展，Data Thinker及其相关技术发展迅速，已产生多项国际和国内专利，并在此基础上形成了一整套性能卓越、应用广泛的数据系统产品和方案。\n\n公司位于深圳市南山区科技南十二路10号中电照明大厦北楼512室，并在香港和宁波设有办公室和计算设施。",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1725704570000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖图塔",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

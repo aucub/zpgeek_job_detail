@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NAxLKazfXHQky-01Lyg5OgCVeSJzS8hYXXv3ZjUzuLWLt13rDk9xBlyQHe7ootxraClMF032FCDupgegGt2tDcdBK7ZToRfWZ7sAZt_ETIU-o2eE0OtKDlqNyAWkcsrnI0HgZwqGBYrkGxY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e343e07a82e7b0a51Hxz29u9FVtU",
+      "encryptUserId": "9b1e893d18d032070XB52NW-GVpT",
+      "invalidStatus": false,
+      "jobName": "后端软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101240900,
+      "locationName": "萍乡",
+      "experienceName": "在校/应届",
+      "degreeName": "大专",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 负责公司项目的设计与开发。\n2. 负责维护公司现有项目。\n\n职位要求：\n1.3年及以上Java开发经验。\n2.熟练掌握SpringBoot、Mybatis、Dubbo等常用开发框架。\n3.熟悉Mysql、Sqlserver数据库，掌握存储过程开发，了解sql基本优化方法。\n4.熟悉Redis、RabbitMq等中间件使用方法。\n5.积极乐观，责任心强，工作认真细致，具有良好的团队沟通与协作能力，抗压能力强。",
+      "encryptAddressId": "25b0ff5c3776f3700XB43Ny6E1VVxI22UPw~",
+      "address": "萍乡安源区世纪广场翡翠城15楼",
+      "longitude": 113.87389,
+      "latitude": 27.617285,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf6e48b8ba3172976b5fc9e62f30b1da6b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230518/48ba41acc9cef1bf5276677edfc7d72c89c6b8688ca310506bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "不接受居家办公",
+        "Tomcat",
+        "MySQL",
+        "SQL Server",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240319/607f1f3d68754fd021f181fbdd17ceacfbcf740ac8f4d2e3ba7eaa7f07da9f36c55a0a50b17a2a0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "书柏科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e5887f4202c69ba81Hd82ti6FFs~",
+      "brandName": "书柏科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "餐补",
+        "五险一金"
+      ],
+      "activeTime": 1727519510461,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "书柏科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

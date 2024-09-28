@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tfe4fUXrFSOoh-z14s_yB3FNPRS81ZcIdDBS7GEzXhKIerG9QpEUuMSNBnO2DPm1u74VZ8kEeFQChZ5qfbiPhvAt3oR3LBoxbInSUG3R8OOvHzlX",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2082987e0032cd1703Zy3d6_EVM~",
+      "encryptUserId": "100f442d394b119c0Xd-2Ni-E1I~",
+      "invalidStatus": false,
+      "jobName": "php开发工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-4K",
+      "payTypeDesc": null,
+      "postDescription": "本职位为远程工作机会。\r\n1  至少熟练使用一种主流架构的php平台例如thinkphp、laravel。\r\n2  熟悉lnmp开发环境\r\n3  了解gitlab开发环境\r\n4  熟悉微信、小程序开发\r\n\r\n需要测试一下， 给你一套代码和线上环境， 解决我提出的一个问题， 解决问题过程中考核是否达标\r\n\r\n需要会使用git， 了解gitlab的使用；不是公开的gitlab， 是我公司的gitlab私服。\r\n首先在下面的网站注册一个账号，然后在自己开发用的电脑上生成ssh key。将ssh key填写到该网站的账号配置中。\r\n配好以后告诉我，然后我给开放权限。\r\n\r\n\r\nhttp://gitlab.miyuanzi.cn:8999/",
+      "encryptAddressId": "7957705d98dc1a901XF-29W6ElY~",
+      "address": "北京昌平区创客广场",
+      "longitude": 116.347206,
+      "latitude": 40.079879,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5625a6039ce7a0592355beb48aebb1ad",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/03d922d535f788d632a97ac368ff5484",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "HTML/CSS",
+        "前端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Fg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "米元子科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0dcfe4e93ba5ea1803F50t6_Fw~~",
+      "brandName": "米元子科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1724932550212,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "米元子科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
