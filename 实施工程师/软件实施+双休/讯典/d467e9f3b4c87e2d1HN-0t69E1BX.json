@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "nIAPSekc9m7y3-o1Zg-5x98rRHMK2WUssLIoslIpIKD8HVbF6pHkhX1rrIO4VJh5EyKbfGS0DJSaikleIxpiU9AKC7eCCZw5crOMPMaD9Wrl-u5kwHMK16TmxXx8zONGZhgw4MvKyZv4VkeG3GZRz9g~",
+    "securityId": "qXCATlpRkHqjf-q1Jy_oaE7Z8naTWq2lSQJh_nC5WE-vrCMrecZYjhK6HcELfUQnEvsh970b1A2lvzY_rhVRf5FrxTg3HwjvlbrgXthGwnQAvuBfgXwee7E1w6KSLWf7T8RkwutcdOE2VhbGufLeGBA~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,14 +33,14 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "计算机相关专业",
         "软件实施经验",
-        "熟练掌握SQL语句",
         "ERP",
-        "OA"
+        "OA",
+        "熟练掌握SQL语句",
+        "计算机相关专业"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "张女士",
@@ -48,7 +48,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220508/607f1f3d68754fd04792dd8794439b8e8b15f665268dea209837c37b4724873cb170c21bec2_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "讯典",
       "bossSource": 0,
       "certificated": true,
@@ -67,7 +67,7 @@
       "industryName": "计算机软件",
       "introduce": "",
       "labels": [],
-      "activeTime": 1722833649059,
+      "activeTime": 1727603241477,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "讯典",

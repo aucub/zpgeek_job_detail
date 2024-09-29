@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-t52lEKCKbqac-41IR-CaYu_DoKqxqMqP2Iecv29rBXDoASf4IGmdUXTPvjOisIIihgI0dwNqXUXgLx7J-1nJUunByw81j7n4rsdGAeQnm2DSYcJNN0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7f6ac4914cc960471X182dy5GVBQ",
+      "encryptUserId": "a9e00e3fdcba89a60n1429q7FVI~",
+      "invalidStatus": false,
+      "jobName": "python后台开发",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1.  负责功能开发和代码维护，能独立完成子系统和功能模块开发，编写完整的接口文档。\n2.  参与软件部署、维护和支持工作。\n3.  参与项目的架构设计。\n\n任职要求\n1、本科及以上学历，2年及以上工作经验；\n2、熟悉Python常用框架如diango/Flask等，具备单独开发系统能力;\n3、熟练使用Diango中ORM单表及多表操作，了解request请求生命周期，以及diango-cors-header解决请求跨域问题、熟练使用Django-rest-framework框架等。\n4、熟练掌握Django的缓存机制，对频繁请求的接口进行缓存处理并且熟悉掌握websocket 等技术。\n5、熟悉Mvsal/Redis等数据库，熟悉MySQL事务，查询优化，索引优化，主从复制;\n6、熟悉串口通信，TCP/IP等通信协议，熟悉分布式、多线程、异步及高性能设计、开发及优化。\n7、熟悉SVN代码版本管理，熟练使用windows进行开发调试及部署。\n8、了解arcgis地图模块的使用，了解主流前端技术栈，vue/React/ajax/jquerv等。\n9、 具备良好的责任心、较强的学习能力及逻辑思维、优秀的团队沟通与协作能力、能承受一定的工作压力。",
+      "encryptAddressId": "8cf83e8dd342e7ef1nR72Nu_F1pX",
+      "address": "成都成都离岸商务服务中心剑南大道中段1537号",
+      "longitude": 104.047115,
+      "latitude": 30.54331,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bfa9f8104637a936bb905b3df5d828a7bc6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bf1b6b1d1868f22f843ebcefcd2b28a9366bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端",
+        "Python",
+        "MySQL",
+        "Django"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "分公司负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190403/80035c7ec0b2432e3f5b7e476fc93d1b4e67d3226b0f121925d2b64fecd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "同科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6a81335b4bc2f2e41Xx809i5FlE~",
+      "brandName": "同科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726408971000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "同科",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "bQozdJTgKsIU6-A1LBgF2Utb5hWY4Sb8cX0I6Kr0B7rIX1vWcULjZckWaTZYEL3Wkoyux0xJoC5IsC9zXOc03IKuBKK9uiCruVbjvbbXn4yxc0g607vFThF_XrgolR3WalWBTaGCUDEwLg~~",
+    "securityId": "I4fHMkVnz8u9t-E17ph1mhfZ7iJTddCnekLCUetCu5ApbtOqpLEJfc92VUCNxgdCGrcqjwpfZ6Tlt9AtkrvTGca8nklkxT3j7Pv5EMb9vAp2WSoH1Z2Z",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
         "自动化测试",
-        "Python",
-        "Selenium"
+        "功能测试",
+        "Selenium",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -58,19 +58,25 @@
       "encryptBrandId": "8d86845a78aa184b1XJ53t21GVU~",
       "brandName": "无限智达",
       "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
-      "stage": 0,
-      "stageName": "",
+      "stage": 801,
+      "stageName": "未融资",
       "scale": 302,
       "scaleName": "20-99人",
       "industry": 100021,
       "industryName": "计算机软件",
       "introduce": "",
-      "labels": [],
-      "activeTime": 1716713517165,
+      "labels": [
+        "餐补",
+        "全勤奖",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1724968120458,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "无限智达",
-      "customerBrandStageName": ""
+      "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
       "inviteType": 0,
