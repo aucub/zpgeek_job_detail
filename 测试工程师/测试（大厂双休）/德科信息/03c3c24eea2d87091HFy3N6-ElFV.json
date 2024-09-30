@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "UFZ5LmUU53JW4-C1ya-6ZKKBJsljijrhVkolsMJZ2I6tZj_rUJSao0EI6DWAAyNd8hNVvTn4Sgm9ySAEX1pCQc1YwQ3Is_kQN4hiF3EzFej7tEQpbXikyzUeJT10MSdDnCzTBLd65uSuaTHhkI90YAMDalCm2Ho65eBHiVf97vQopN8~",
+    "securityId": "MWlSJfCxZJCNv-j1oCJTGWxH64bB41zGGyedOs_tjTxg3HRD1rXIf2o4C1ut9npfpyTI0yy1l_AR7Bx7nSisuUSIuAX_yNEsU6RNlBohiFYp6U1piUTwX2MSJeyHPmOTDVdecWDKxKcBYQ8fGxHr8w~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,9 +21,9 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "9-14K",
+      "salaryDesc": "9-10K",
       "payTypeDesc": null,
-      "postDescription": "职责：\n参与制定项目测试方案，计划并实施，保证项目质量和进度 \n参与产品需求、开发设计的评审工作，并提出改进意见 \n参与系统的功能测试，接口测试，性能测试 \n根据产品和项目特点，制定和实现合理的自动化解决方案\n\n要求：\n具备2年以上测试经验\n熟悉软件测试理论和流程，熟悉金融行业测试环境及相关技术 \n熟悉Java/Python语言，能熟练编写测试代码 \n熟悉常用接口自动化框架及UI自动化框架\n熟悉常用数据库，熟练运用sql语句 - 熟悉关键性能指标，可辅助系统调优 \n善于学习和运用新知识，具有良好的分析和解决问题能力 \n具有良好的团队合作精神和积极主动的沟通意识 \n热爱金融行业并有着高度的工作热情，能适应一定的压力",
+      "postDescription": "职责：\n1、参与需求分析，协助开发团队理解业务需求和技术需求。 \n2、设计和执行测试方案，包括功能测试、性能测试、自动化测试等。\n3、编写测试用例并执行，发现并报告缺陷，跟踪缺陷修复进度，并验证修复效果。 \n4、分析测试结果，并编写测试报告。 \n5、维护和改进测试环境。 \n6、与开发、产品和运营团队密切合作，确保软件产品的高质量交付。\n\n1、至少3年软件测试经验。 \n2、熟悉软件测试理论和方法，具有复杂系统/模块的需求分析能力，熟悉需求分析、设计、执行测试案例，熟悉软件测试流程 \n3、熟悉接口测试、UI自动化测试、性能测试，能独自承担项目组的自动化和性能测试建设。\n4、熟悉Oracle数据库，熟练掌握SQL,能够编写复杂语句。 \n5、优秀的问题分析能力和解决问题的能力，注重细节。 \n7、具备良好的沟通能力和团队合作能力，能承受项目压力。 \n8、有具体编程技能（java\\python）者优先。",
       "encryptAddressId": "389f0c7298bf9c821nV62tW7FltT",
       "address": "成都锦江区银海芯座平安科技",
       "longitude": 104.083975,
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
         "自动化测试",
-        "软件测试",
         "web测试",
+        "MySQL",
+        "软件测试",
         "金融"
       ],
       "anonymous": 0,
@@ -53,7 +53,7 @@
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/91011e8bf07379adc983ba58b694ca8b8ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "f57be2adf58202040XN83d-7FQ~~",
@@ -77,7 +77,7 @@
         "意外险",
         "五险一金"
       ],
-      "activeTime": 1719390904243,
+      "activeTime": 1727685330658,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "德科信息",

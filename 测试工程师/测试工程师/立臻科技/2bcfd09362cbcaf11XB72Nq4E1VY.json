@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "S6CxIOyyWUjRY-K1Jh5cmoPoUAoiffSsWJT8omvkauRa4ib1vrLmbeNhWrtPqmKlahnZWSMO_dFMDzd7xYIGE8SjV2YyoGDTLULEQK5skldVhX5KWSRZ",
+    "securityId": "329VoA3Vrx8YJ-Z13BIRDI2eAeRu-lX10gVKDB6oDGngTdMipSsuiV6i2wV6ufMlAUcGkqNGQDH45-JlEaiVnZceHO5J_9QNZtiKnano8Q84EGb-6C6f",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,14 +33,14 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
-        "Python",
-        "MySQL",
-        "计算机相关专业",
         "测试工作经验",
-        "iOS/Android测试经验"
+        "iOS/Android测试经验",
+        "自动化测试",
+        "性能测试",
+        "MySQL",
+        "功能测试",
+        "计算机相关专业",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -54,7 +54,9 @@
       "bossOnline": false,
       "brandName": "立臻科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "36c63bb74e4c6dbf1ndy2NS0EVI~",
@@ -81,7 +83,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1716509609000,
+      "activeTime": 1725624805000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "立臻科技",

@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EeJyh49s7ImDt-E1QVHCcjXrqOYDkSFpIpeb2AicRYMzASFeuOkuwMmAAvKTNEe-Lm8GW_0-KqpR_XjD7AYFHOJAwr-h-ZtbJr559IGGc8EIrG8qUB33P6GzTefSH2dNCIx2fwWI989Jmw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1b7e01021606b3d81Hxz39i_GVtS",
+      "encryptUserId": "168e385eec72d8cb03N429y9Flo~",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220500,
+      "locationName": "马鞍山",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据技术路线规划，负责物联平台核心模块设计，代码编写、维护和优化。\n2、根据业务功能和技术需求，负责开发和运维问题的解决。\n3、观察行业发展，持续对技术平台架构，功能模块进行标准化，迭代和优化。\n\n职位要求：\n\n1、统招本科及以上学历 3年以上后端开发经验，物联网平台项目开发经验优先考虑。\n2、熟悉Java，Python开发语言，熟悉springboot。\n3、熟悉SQL，Redis，了解MongoDB，TiDB和TDengine，有数据库调优经验优先考虑。\n4、有独立完成方案设计和编码、以及应用设计模式的能力，具备全栈实战经验。\n5、熟悉kubernates相关知识，具备部署和查错能力。\n6、具备完成微服务配置，流量控制和服务调度的能力。有SpringCloud，nacos，Istio实操经验优先考虑。\n7、熟悉敏捷开发过程。\n8、有基本的沟通能力和技术文档编写能力。\n9、有强烈的责任心和良好的团队合作精神。",
+      "encryptAddressId": "d5b552fb520b26ff1nd52dq4GVVQw4-7VvKX",
+      "address": "马鞍山当涂县富嘉美·国际广场1702",
+      "longitude": 118.510101,
+      "latitude": 31.551158,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230414/48ba41acc9cef1bf58b7aa841bf73168cc881fbf35fc41fe6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf0fd556c6d4cc55f772820b8fcd1d9c6a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181009/6a66f21fd7071d477f11ac5c6fbe8fe7fe5ff2d736f1438bd0650b6ad84_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海素联科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9dc37fc544d989161XR63Nu_EVE~",
+      "brandName": "上海素联科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220109/7b5b554d84f9729ca985998cd9021319cf3d9fb12d38c418fe5ff2d736f1438bd0650b6ad84bb4c3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成为中小企业的专属IT部门",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "带薪年假",
+        "股票期权",
+        "五险一金"
+      ],
+      "activeTime": 1727677321000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海素联科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

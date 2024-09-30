@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "M1fJKATTtoyfg-A1dYqlA3YOgi8J2MfRVrb2vJ4oUXjkUl7ZkhxvNCzDxaZjev9h-f1ThOC4EWWHwV5K3Tyzs1NPThKaG6XtOg0cM1yQ_U9pvAhhnz870S5NFG_9RVGWBMvwNme6ifvepw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0db2cd41bb0f5da31XZ-2dS0EVZZ",
+      "encryptUserId": "99ce3c06bda3dd5e1nRy2di0EFZX",
+      "invalidStatus": false,
+      "jobName": "后端工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101220100,
+      "locationName": "合肥",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "前段工作也能胜任。\n1, 熟悉Windows操作系统，能够在其环境上开发、部署和调试\n2, 精通mySql,Oracle，Redis等主流数据库及缓存数据库产品\n3, 熟悉解常用应用服务器产品，如Weblogic Server、Tomcat\n4, 理解io、多线程、集合等基础框架\n-热爱互联网，对搜索技术、探索未知领域有浓厚的兴趣；\n-精通C/C++、Java、PHP中至少一门编程语言，对数据结构和算法设计有较为深刻的理解；\n-具有windows、unix、linux等主流平台工程经验；\n-优秀的分析问题和解决问题的能力，勇于解决难题；\n-强烈的上进心和求知欲，较强的学习能力和沟通能力，具备良好的团队合作精神。\n具有以下条件者优先：\n-有一定的项目开发经验和软件工程意识；\n-有以下搜索相关领域经验：抓取/解析/数据挖掘/统计分析/机器学习/多语言研发；\n-熟练把握lamp，有大访问量web应用访问或数据库建设经验。",
+      "encryptAddressId": "a14b538d1643be401HR429i-F1E~",
+      "address": "合肥瑶海区日月大厦米谷创新中心407室",
+      "longitude": 117.350718,
+      "latitude": 31.896464,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/573d0ca5891ee60f8c176e7365052c7e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f9e9aa2ced0de23da36cd635cf7ab515",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PHP",
+        "数据结构",
+        "Unix",
+        "Windows",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200511/3ac0ee041cba6b3fe56ff5918b2e34f6f4c4c97eefdf13cd0e426891c2c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "合肥聚禄元建筑节...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "345635191a4e4ad533Z_3NS8FA~~",
+      "brandName": "合肥聚禄元建筑节...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "合肥聚禄元节能科技有限公司\n      是一家高科技“互联网+”专业暖通空调自控和综合能源管理服务一体的公司。公司正式成立于2019年3月，注册资金500万元，公司拥有10年以上暖通空调自控和综合能源管理的专业技术团队。\n      核心产品：包括高效机房群控系统、恒温恒湿恒压净化空调控制系统、综合能源管理系统、暖通空调计费系统、以及系统软件设计研发、项目运营托管服务，节能诊断、节能方案编写、节能改造实施等等。公司“基本电费优化服务”，采用“我投资、您参与、节能效益共分享”的模式。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "住房补贴",
+        "节日福利",
+        "交通补助"
+      ],
+      "activeTime": 1727654240547,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合肥聚禄元建筑节...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

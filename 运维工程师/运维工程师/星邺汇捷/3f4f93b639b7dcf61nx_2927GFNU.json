@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sxnUzcrNkEMNS-N1pKnFf5S4Qn17YKJ_EhOKHUMnANT8xV--7GgtN4nsKHruKU1i3k-UOFP1MaON-R5JgvCSuxZKf0cto1dSOdcarVOBQYJD3U0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3f4f93b639b7dcf61nx_2927GFNU",
+      "encryptUserId": "76bcb27895b0878a03x40ti5Fg~~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责\n1.独立完成云平台或数据中台软硬件环境搭建； \n2.独立完成应用上云包含应用评估、指导改造、配合上云实施、添加监控等； \n3.及时处理各类异常报警、保障平台的运行稳定； \n4.及时响应用户咨询，为用户提供技术支持，架构优化建议等；  \n任职要求： \n1.良好的语言表达和沟通能力，较强的服务意识与团队合作精神 \n2.有主动推进预定计划方案实施的意识，愿意主动学习 \n3.深入理解Linux操作系统，能够对主机性能进行分析和优化；\n4.熟悉常用的虚拟化技术，了解docker常见的使用方法，编排方式； \n5.熟悉常用服务的安装配置，例如：Nginx、JDK、DHCP、DNS等;熟悉网络路由配置； \n6.熟练使用shell、python、go中的一种或多种；",
+      "encryptAddressId": "88c73cc402f830ec1Xx639S-EQ~~",
+      "address": "南京建邺区南京星邺汇捷网络科技有限公司01栋16楼",
+      "longitude": 118.739432,
+      "latitude": 31.993729,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/842fd44fb4173d607f4f71b5bc242028",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d78ecf4765cdb3f27244d8b5f209bd7d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "容器技术",
+        "虚拟机技术",
+        "Nginx",
+        "shell",
+        "linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200807/41c105641eed40c049002f8ead463de253f43722891a2d23382af40ea52_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "星邺汇捷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7758bd581cc1ca8f1nN-2dS4",
+      "brandName": "星邺汇捷",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20161025/e95adad9950cf19f211e67058c22036513493d5f766d4451ad3fbd6332d74d37.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "星邺汇捷是一群行业资深干将为了同一个梦想，聚力而创的全新IT公司。公司成立于2015年7月，总部坐落于江苏省南京市新城科技园。自成立之日起，公司迅速在南京、北京、武汉、成都等城市建立了研发中心和交付团队，产品覆盖了全国大部分省市。星邺汇捷致力于大数据平台应用、企业级GIS平台及应用、网络产品应用、物联网等产品的研发和行业解决方案提供，客户覆盖电信运营商、电力、公安、航空、税务等多个行业。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "通讯补贴",
+        "节日福利"
+      ],
+      "activeTime": 1727605726087,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "星邺汇捷",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
