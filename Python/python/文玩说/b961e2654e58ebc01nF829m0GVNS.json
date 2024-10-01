@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fl7mVaY6AdAHP-F1a8GH65d5DMz8mSsn5PAN6VS9aFYpgf5rKFzzsRRFpVOuXX3FJNo3e8KCwwpzbUJYdvfoVm82bSk3hmOkrHCGPnAnhzpDeLhfsg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b961e2654e58ebc01nF829m0GVNS",
+      "encryptUserId": "b574f1f8dcd816b003N_3du7FVE~",
+      "invalidStatus": false,
+      "jobName": "python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "要求：\n一【1-3年python开发经验，具备多个python后端项目经验】\n二【有区块链数字货币交易相关工作经验优先考虑】\n项目涉及技术：\n1.       Web框架：Flask（Flask-Restful库、 Flask-Cache缓存）\n2.       MongoDB数据库\n3.       多线程\n4.       JWT认证和装饰器(Decorator) \n5.       Pandas和XlsxWriter\n6.       WebSocket服务（使用tornado实现）\n7.       阿里云短信和邮件服务（smtplib）\n8.       Linux常用命令\n9.       Supervisor，nginx等使用",
+      "encryptAddressId": "31a46092f13115781nZ62Nq4GQ~~",
+      "address": "成都武侯区东方希望天祥广场C座1313",
+      "longitude": 104.068144,
+      "latitude": 30.553369,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1a5e4666cad33376986eef58cc34dcb3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83d44b3abf8bf02fb2b3745c6916f01a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "服务器配置",
+        "Linux",
+        "MongoDB",
+        "Flask",
+        "Tornado"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "彭女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240623/607f1f3d68754fd05a73ab534e6d5d8f242a2a0358cfd601517079e128c23358a686422976e41aa_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "文玩说",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "8941e14c182fedec1nx-2Ny1Eg~~",
+      "brandName": "文玩说",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "社保",
+        "不用打卡",
+        "节日福利"
+      ],
+      "activeTime": 1725212018151,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "文玩说",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

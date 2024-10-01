@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "fUyUDtUaEQssV-Z1KTw97BbrC6T7fvyXiHC8NjoTjzsaC-coNVWtDSr7imtEY0_EzBfOF6R7XQi-pMBY1IaxokaIt54aYMC2jhshflhp4mKJgZM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4d76312c6c06221b1Hxz39q6FVFT",
+      "encryptUserId": "703ce0d909c289b403x-2tW6EFs~",
+      "invalidStatus": false,
+      "jobName": "初级测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求:\n基础要求:具备基础的测试技能和理解力，具备连续2年以上测试工作经验;\n对测试执行能力要求较高:能快速熟悉case并高标准完测试任务的执行;严格按照相关标准进行bug录入，快速跟进bug定位、协作bug验证;有较好的bug敏感度。\n会基本的测试工具使用(如抓包工具)--必备要求\n最好对特走业务有一定的业务知识储备，如金融领域、电商等通用能力要求:\n沟通协作能力:能思路清晰的表达自己的问题，快速理解对方的问题，和业务方有效的沟通协作。\n学习理解能力:能够快速理解自己负责的业务模块，对业务有自己的理解，保障测试任务按时完成。\n抗压能力:为保障项目高质量按时交付，能承受一走强调的工作压力。\n\n工作内容：\n1、回归测试\n支持支付C独立端单周发版回归，回归电商等核心场景case，涉及4个独立端(未来会扩展)双端的回归验收支持钱包固定班车迭代发布回归(每周二和周四)，涉及多端、多系统、多厂商和多设备\n2、兼容性测试\n按项目迭代需求，进行多端兼容性测试，包括预装包适配、新系统适配，Xcode升级适配等。包含:\n3、多端:抖音、抖极\n多系统:主流i0S和Android\n多厂商:苹果、小米、红米、华为、oppo等需要覆盖主流的设备型号\n多设备(机型):手机、平板等\n新需求测试\n低风险需求，跟进需求全流程测试",
+      "encryptAddressId": "07ab52a766fae2f71nd52N2_E1RZx4-7Vvic",
+      "address": "成都武侯区携程信息技术大楼B座成都高新区天府4街，携程信息技术大楼B座3楼",
+      "longitude": 104.064517,
+      "latitude": 30.54156,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf9370d28125a66f225015fdbf6dbe2f966bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf97602042bb2806b872506da47ffa90786bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "音视频测试",
+        "测试工作经验",
+        "自动化测试",
+        "Android 测试",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": null,
+      "bossOnline": false,
+      "brandName": "慧博云通",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "79c5fb1547ee2c221HZz098~",
+      "brandName": "慧博云通",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/5784ed339ab147577f364fb39dedb384cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "慧博云通科技股份有限公司（股票简称：慧博云通 代码：301316）成立于2009年，是一家专注于软件信息技术服务的国家高新技术企业。总部位于杭州，业务遍布全球，为IT、通信、互联网、金融、汽车等多个行业领域的客户提供专业技术服务。慧博云通矢志成为一家国际化、专业化、创新型的软件技术服务企业，持续为客户创造价值。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1727776238411,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "慧博云通",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

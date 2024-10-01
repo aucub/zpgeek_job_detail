@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "GO9Am7VM9XCPZ-l1SkTrNtzswGwjsQtKnchrRnW4MXyQSexOKCXFwed9gMSDDb8rof2o8tIj0804IAXmgpyixKRi70JeJOcohqgLq9R_14rpEXmWn3_Fyaq1aXULRMp7sshKykBFPNn8aod6UPLc",
+    "securityId": "B1EbTZxuQy-fn-71scon6aSG66X16hmMrwYRB8UPorLqj2mS-CNqU0-6xI_3AagUAb8BkZEnJu8AToglhX4V6eXa3wSKaIqK5rSgRPxgdpesRIj5",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -39,15 +39,15 @@
         "SQL"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "杨女士",
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220415/607f1f3d68754fd01168da68c8f02e0bf84e6c31ededd027ca73077309511bc23968631ee40_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "信必优Symbio",
       "bossSource": 0,
       "certificated": true,
@@ -75,7 +75,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1727685114519,
+      "activeTime": 1727691930399,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "信必优Symbio",
