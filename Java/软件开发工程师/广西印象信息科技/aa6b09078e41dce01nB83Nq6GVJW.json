@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZAMvvSZoX4gE--y1wauGwHymJlbwMgyGSSNWR487ydgI6QBsb8oVM1gBTNwIRShJmcLr4B93kScCcCE3wvcRX1Hp5HgYTTv4tkymwbxR3_gRmYhUL_gl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "aa6b09078e41dce01nB83Nq6GVJW",
+      "encryptUserId": "a1ea1547cddb9b450nZ92921FVRT",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据要求完成系统后台模块的开发；\n2、根据要求完成J2EE相关应用模块的开发。\n3、根据要求完成相关模块REST接口的开发\n任职要求：\n1、两年以上J2EE开发经验,有REST API开发相关经验优先\n2、熟悉MVC模式，熟练掌握Spring,Struts,Mybatis,等框架；\n3、熟练应用SQL语言，具有常用数据库系统(mysql/Oracle)的开发经验；\n4、熟悉xml、json解析；\n5、熟悉Nginx、Tomcat等应用服务器的使用；\n6、熟悉Linux操作系统\n7、具备较强的学习能力、技术研究能力，具有良好的人际沟通能力与团队合作精神，能承受工作中的压力；\n8、了解微服务框架或有过Spring Boot、Dubbo、Spring Cloud相关经验优先",
+      "encryptAddressId": "9361ae169e133fd103d809i1EFE~",
+      "address": "南宁良庆区裕达国际中心1907",
+      "longitude": 108.378065,
+      "latitude": 22.763498,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f738a26227037f2b3d00632cb5312ae1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/914668522ac7de5583e2ca169df01f17",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "微服务架构",
+        "Spring",
+        "Dubbo",
+        "Struts",
+        "MySQL",
+        "分布式技术",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "余先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广西印象信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a9e3bb2ce2a1ee8a1nF_3N60FlM~",
+      "brandName": "广西印象信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725224274302,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广西印象信息科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

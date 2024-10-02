@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "U1yPqaIMWGEYj-41jwqddCDRjUWCDmJZ14op2k8Wcyci5ZbozDnWzljC7XuE3V5P4O1YtUy_1vBkqpQhqngHiDLBaU2T8rF_ZsNYlBiTKLMPAgDTQA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "650a862e665020741HZ42Nu6FlVX",
+      "encryptUserId": "a5e7fcff5e0ff18703F439W0FFI~",
+      "invalidStatus": false,
+      "jobName": "软件工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101281600,
+      "locationName": "东莞",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "1. 要求掌握python 开发， flask框架， 串口通讯， numpy、 pandas熟练使用\n2. linux系统运维基础技能：Linux基本操作+命令行， 文件权限 用户管理\n3. .net6熟练使用，能编写webAPI; 能够使用C#开发DLL文件， 开发跨平台webAPI程序; 开发Windows上的UI程序\n4. 能够使用arduino编写ESP32/8266程序\n5. 熟悉使用并配置主流的数据库（包括redis， pg）；并使用python/C#/C++ 连接使用数据库\n6. 熟悉嵌入式的基础知识，能够独立的对设备的简单问题进行排查并解决\n7. 硬件和设备管理：了解硬件设备的基本知识，包括磁盘、网络接口、打印机等，并能够进行设备的配置和管理。\n8. 基础的编程和脚本能力：掌握至少一种编程语言（如 Python、Bash），能够编写脚本和自动化工具来简化管理任务。\n9. 能够使用C++ QT编写运行在debian系统的GUI程序",
+      "encryptAddressId": "041d4e46be472dcb1H1_3di7GVU~",
+      "address": "东莞奥力五金饰品大厦15号",
+      "longitude": 113.801858,
+      "latitude": 22.797878,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bd7012d0ffc7a19414b80da4f91b373b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/93674bb623e5c3a4ab1f5166963e867a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C#",
+        "Docker",
+        "Redis",
+        "Linux开发/部署经验",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鲍先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240610/607f1f3d68754fd0c64c9d822ca23b79b792654a12f3e84fe859cae6e436354135775272548094a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "易深智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "64e0009ad101b7800HJ92Nq7Fw~~",
+      "brandName": "易深智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200401/e103c682ff6483b5bf1e59ae7a8145cba5d8d125f65d0246e7a0f9906c697d4d_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100914,
+      "industryName": "自动化设备",
+      "introduce": "广东易深智能科技有限公司成立于2019年，由美国伊利诺伊理工学院EIOT大数据实验室与国内行业知名企业联合创立，致力于用工业4.0技术打造中国特色的智慧工厂，自主研发产品包含智慧仓储设备、AGV机器人、生产管理软件（MES）、ERP软件、设备绩效软件（预测性运维）和集团软件系统整合等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+      ],
+      "activeTime": 1725219952950,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "易深智能",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

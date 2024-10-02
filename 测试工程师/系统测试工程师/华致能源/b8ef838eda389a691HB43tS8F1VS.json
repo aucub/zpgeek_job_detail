@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ywUbGRvKEXmdr-e11_yJd1qoKgx65yicT4U9ih7G29Z-hLit9ZYyL6tbLZBqWnxiMHv_TCBJh6ztLADj0CBzPVeyGAeelq_075PaiSLj9psObVurduo_u8Gy5l2_0ofRWm6tpjQFinSdYr7_TQ-vQX8~",
+    "securityId": "sLu9YM9Ux6kIT-71NBeWrN9P44eQpRUF8AKryFoRElazmrjMla5UwyK8YuBcbmrWLjb8o-C0I31gc9TebwR5w6CtvFWJ26TEOzmrABmYKdB_OaKGLE8~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
-        "测试工作经验",
-        "储能",
         "逆变器",
-        "变流器"
+        "测试工作经验",
+        "性能测试",
+        "变流器",
+        "功能测试",
+        "储能"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -48,8 +48,8 @@
       "title": "人力资源经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240723/607f1f3d68754fd02404a2663e5dcd0ff47be071876d6588eb42a77e5cadcdb8fb1cb929bd5917d_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
       "brandName": "华致能源",
       "bossSource": 0,
       "certificated": true,
@@ -89,7 +89,7 @@
         "补充医疗保险",
         "五险一金"
       ],
-      "activeTime": 1724837102072,
+      "activeTime": 1727330316326,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "华致能源",

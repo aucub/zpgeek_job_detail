@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZLjEjrq1XXkqW-E1AWOsZU0rSNS6NG2b4PtQcWSUTTPdZDG5fHU53YHh3XVw1eKx58iN8mzwrFthKYGpZ-UyaYQji84BC7WTZokIDJdYT0yq2kWpdRY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b80e33f2ae4415501n163ty4EVtV",
+      "encryptUserId": "80442503634cff941nR53di5GVVZ",
+      "invalidStatus": false,
+      "jobName": "等保测评工程师",
+      "position": 100407,
+      "positionName": "网络安全",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "安全服务驻场异地招聘（海南三亚）\n1、安全监控服务\t\n关键基础设施日常安全监控\n\t概念描述：实时了解业界安全态势及重大安全事件，通过调研、监控、自动化扫描、漏洞检测、日志分析、安全审计等技术手段，并依据新华三随项目提供的统一安全管理平台软件对关键基础设施资产面临的安全隐患和风险及时提出预警、整改建议或风险评估。具体工作如下：\n 1）舆情监测。每日对互联网各类舆情进行监测，发现立即进行查验及处理，并编写分析报告。\n 2）安全设备巡检。每日对安全设备例行巡检及登记，发现故障立即协调保修单位处理，并编写分析报告。 \n交付方式：现场 交付成果：《安全运维周报》、《事件分析报告》、《安全舆情通告》\n\r\n2、安全测试服务\t\n漏洞扫描服务\t\n概念描述：使用漏洞检测系统，对系统中的操作系统、数据库、中间件、网络设备、安全设备进行漏洞检测，查找系统层面的安全漏洞，结果进行审核确认并提出安全加固意见。\n交付方式：现场 交付成果：《漏洞扫描报告》、《整改加固方案》\r\n安全接入测试\t\n服务概念：服务器、网络、安全等新设备接入网络按照等级保护要求和省厅的安全基线要求，对接入的设备进行安全检查，如存在不合规要求，提出相应整改建议，要求整改完成后方可入网。 \n交付成果：《安全接入测试报告》 \r\n\n3、安全管理服务\t\n信息安全基线修订及监管\t\n概念描述：协助修订适合三亚教育局业务开展的安全配置基线标准。每季度开展1次基线核查工作，采用基线检测系统或人工方式，核查操作系统、数据库、中间件、网络设备、安全设备基线配置及安全隐患，对不符合项提出安全加固建议并协助实施。 \n交付成果：《安全基线检查报告》、《安全基线标准》\n安全管理体系持续优化和完善\t\n概念描述：对安全制度、安全流程、安全边界、安全责任、信息系统、设备等内容的防护现状进行对比分析，找出现状和标准要求之间差距，提出改进建议，包括现状分析、制度编制、流程梳理等。\n交付成果：《安全现状评估报告》、《XX管理办法》、《XX内控流程》、《XX应急预案》\r\n安全应急演练及事件响应服务\t\n概念描述：建设应急响应队伍、完善应急响应流程和规范，协助开展安全应急演练。发生确切的安全事件时，按照流程及时限制事件扩散和影响范围，限制潜在的损失与破坏，并在最短时间内恢复业务正常运行。事后追查事件来源，判断安全事件原因，提出基于安全事件整体安全解决方案。 \n交付频度：每年一次 \n交付成果：《应急预案》、《事件分析报告》\r\n4、安全专家服务\t\n信息安全风险评估\t\n概念描述：对信息安全现状开展调研，进行信息安全风险评估，并编写《信息安全现状调研报告》及《信息系统风险评估报告》。项目启动后，开展一次全面的风险评估工作，从风险管理角度，运用科学的方法和手段，系统地分析网络与应用系统所面临的威胁及其存在的脆弱性，评估安全事件一旦发生可能造成的危害程度，提出有针对性的抵御威胁的防护对策和整改措施。检测手段包括：网络架构分析、基线核查、漏洞扫描、渗透测试、调研访谈、管理体系梳理。 \n交付成果：《信息安全现状调研报告》、《风险评估报告》、《风险整改建议报告》\r\n重要时期安全保障\t\n概念描述：协助三亚教育局做好特殊时期（如国庆、“两会”、护网等）的信息安全保障工作和值班；服务器、网络、安全等新设备接入网络时进行安全性、可用性检查。特殊情况下，增派资深安全专家并协调相关外部资源。\n交付成果：《重要时期保障方案》、《重要时期保障总结》\r\n信息安全培训\t\n概念描述：针对不同受众提供网络安全技术培训、信息安全意识培训、黑客攻防技术培训、防病毒意识培训、应急响应及应急演练预案培训、安全管理体系培训、网络安全政策培训等安全培训。",
+      "encryptAddressId": "f0dbb129a8b399c01XVy2Nq8E1I~",
+      "address": "广州黄埔区绿地中心广场B1栋8层801",
+      "longitude": 113.430889,
+      "latitude": 23.162892,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f168273fe0075225c37bbd3081197a5e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8067744cb88549088dbc7caf3d75b04d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "信息安全",
+        "渗透测试",
+        "安全设备",
+        "漏洞挖掘",
+        "病毒分析",
+        "Linux",
+        "Windows",
+        "信息安全认证"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "冯女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200620/eb1577b0675c5b6f8f09fe05acbbc9872b44a6db8a21aaf0a4c813555e3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "金坝科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7441b1ff455c32b90HJ439q9Ew~~",
+      "brandName": "金坝科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201119/844213bba2ee5a1967fbceaaa37650cf2b44a6db8a21aaf0a4c813555e3d33a3.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "广州金坝科技有限公司是一家以创新的理念，引领信息安全服务持续发展，专门从事于网络安全服务的安全公司，致力做一个负责有担当的IT风险管理和应急处置服务的提供商，服务项目包括信息安全风险评估，网络安全运维，信息安全等级保护测评，网络安全事件应急响应，移动互联网应用安全监测以及风险评估，IT审计，安全咨询等，迄今为止服务于政府，金融，医疗，教育，企业等行业。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1725222591179,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金坝科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

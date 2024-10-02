@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "DU4vNKHioSuQO-g1QJD7oR2x-0z0z9e41K9CPXCQsvqVznXUBax4J99KNMxP2kqOmu3DbfrVx14QyLu-JkpOgAdLZzeyq9CxVEqMoU_P-F0Pa_uA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c181894d2557250f0XJ_29u7EFs~",
+      "encryptUserId": "56d4e3af40ce01941Hd709W8EVE~",
+      "invalidStatus": false,
+      "jobName": "软件开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "技能要求：\r\nAJAX框架，java，Javascript，Jquery框架，MySQL数据库，bootstrap\r\n岗位职责：\r\n1、负责公司产品的设计、开发、测试、修改BUG等相关工作；\r\n2、负责业务功能实现与单元测试、集成测试、系统维护等工作；\r\n3、协助并参与业务产品的构思和架构设计工作；\r\n4、负责撰写技术文档，并根据公司要求保存相关技术文档；\r\n5、协助公司销售人员负责售前技术支持工作；\r\n6、项目经理指派的其他工作。\r\n\r\n任职要求：\r\n1、本科以上相关专业学历；\r\n2、对JAVA技术及整个J2EE解决方案有深刻的理解及熟练应用；\r\n3、熟悉HTML、CSS、javascript、XML、ajax等技术，熟悉Extjs、Jquery的优先考虑；\r\n4、熟悉Struts、spring、hibernate等框架技术；\r\n5、熟练使用Myeclipse等IDE工具，熟悉tomcat、websphere等应用服务期；\r\n6、熟练掌握Mysql等主流数据库中的一种或几种，能够设计结构良好的数据库，熟悉SQL编辑；\r\n7、具有较强的独立学习能力，较强的工作责任心，良好的团队协作精神和内外沟通能力；\r\n8、有大数据量、大并发量系统开发和设计经验者优先考虑",
+      "encryptAddressId": "d7ebae43ce02e2cf1XN92ti_E1U~",
+      "address": "西安雁塔区宝德·云谷国际A座1301",
+      "longitude": 108.87313,
+      "latitude": 34.190486,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/37165df778c9cdc1237e5d37a56d6cd5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/61165a50b4f74debb07e6f02e37401e7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JQuery",
+        "SSH",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "java开发",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191226/1cb65d146e3ba5cd05060224553b2fc9bbbc59de705c2e9d901d42a0002_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "中奥",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65eb590c6bfb47770X1y2ti1Ew~~",
+      "brandName": "中奥",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200110/36c0d21cf9a38ec03a2ee4242045d54bbbbc59de705c2e9d901d42a00029df61_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100103,
+      "industryName": "广播/影视",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "节日福利"
+      ],
+      "activeTime": 1725222048375,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中奥",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
