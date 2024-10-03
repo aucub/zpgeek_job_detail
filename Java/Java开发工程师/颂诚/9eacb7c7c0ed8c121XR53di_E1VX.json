@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JaIGonvlL5eon-31YDvWVPnl39dccvcj5vmRSppgGZc9zH6N6qIAzttmg6jkzjeT4p740pNDCtMAc4MFx3QBKBACDfxKjjKrztWMPGoY9cTg5vGwaemNngxNCZAgNeDCFm2wqB1-A3s~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9eacb7c7c0ed8c121XR53di_E1VX",
+      "encryptUserId": "998420f303a815f11nZz2d69E1E~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1. 负责系统的部分子模块，深入理解分析业务需求, 参与架构设计, 模型设计以及开发工作.\n- 演出商品信息维护, 搜索以及推荐优化\n- 选座，拼团，分销，抢票, 采购，结算，验票等多样化的业务设计\n- 多种分销渠道以及供应方支持\n2. 能解决后端系统中的性能瓶颈，协助解决项目开发过程中的技术难题\n- 业务事物的原子性/一致性保证，比如订单和商品，支付和订单等\n- 订单，支付，营销活动等对于多种复杂业务下的统一设计和支持\n\n任职资格：\n- 本科以上学历, 有互联网行业实习背景优先。\n- 理解Java常用设计模式，并且能够合理运用，基本技术特性，如Java数据结构，多线程编程，Java IO等；\n- 熟练使用Java常用框架和工具，如 Spring boot、Mybatis等；\n- 熟练使用MySQL数据库，熟悉基本的查询优化技巧, 对索引等技术有认识。\n- 有驱动力和探索精神，能独立解决问题, 有技术追求.",
+      "encryptAddressId": "212349e9477910fe1nN439y-F1o~",
+      "address": "上海长宁区长宁德必易园E305",
+      "longitude": 121.42009,
+      "latitude": 31.215376,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa2fb965c26716f73d29e3f8bec2b5ed",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36758473dcc481aead6b8633fe2d9f70",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "后端开发",
+        "Spring",
+        "数据结构"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "颂诚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e581aa4c70cf55ef0HZ-0t-5",
+      "brandName": "颂诚",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180412/7e4202040cfdf2b46e447b6704b46340.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "票牛网创立于2015年，是一家致力于打造现场娱乐第一平台的互联网科技公司。作为国内互联网现场娱乐行业的先行者，票牛网打通了上游内容制造商到末端客户现场服务的产业全链条，致力于为C端用户提供便捷、高效、全面的票务服务体验和新颖、互动的内容感受，同时为B端客户提供标准、先进的行业解决方案。三年历程，票牛网一直用不断创新的技术和行动，践行着“让现场娱乐成为更多人生活方式”的使命。\n\n票牛网总部设在上海，并在北京、广州、深圳、南京、杭州等地设有分部，由一群充满梦想和激情的年轻人组成，其中90后新生代占比超过70%，公司创始团队来自大众点评、腾讯、阿里等国内知名互联网公司。公司已于2018年1月完成1500万美元B轮融资，投资企业包括SIG、红杉、GGV、美国硅谷银行等知名风投机构。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利"
+      ],
+      "activeTime": 1727689188912,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "颂诚",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

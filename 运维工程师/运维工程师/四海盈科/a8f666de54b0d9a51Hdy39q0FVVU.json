@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "uiVHYuL9bsHfR--1hkMzU89gxJdEScfbboi6gumFuhsPEsLzxNjT6y_MWHBtnmi7uZEvk3u2Jcza3manpVIAfC4Iv4_ASQBGGoab8zijtOq6xrn8",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a8f666de54b0d9a51Hdy39q0FVVU",
+      "encryptUserId": "40c1b09474d884b41n1-0tu_F1c~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-9K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.负责应用系统的部署、运行监控、维护和优化；\n2.制定并优化运维方案，定期开展业务系统巡检，保障线上业务系统的稳定性；\n3.与业务用户密切沟通，配合业务工作开展，梳理业务需求和客户要求，及时向研发团队反馈；\n4.及时跟踪操作系统、数据库、应用等组件的安全漏洞，并进行/协助修复。\n\n任职要求：\n1.计算机相关专业，专科及以上学历；\n2.具备良好的客户服务意识，具有较强的责任心，沟通表达能力良好；\n3.具备较好的技术文档编写能力，较强的抗压能力、保密意识和团队协作能力；\n2.熟悉各类终端、服务器、网络设备的配置管理与运行维护，熟练掌握网络环境配置，熟悉TCP/IP等各类网络通信协议；\n3.熟悉linux操作系统原理，至少掌握shell/python/go一种脚本语言；\n4.熟悉运维监控平台，包括但不限于zabbix、Prometheus、Ansible等监控平台/运维工具；\n5.熟练掌握nginx/redis/mysql/hbase/kafka等应用/缓存/数据库服务的配置维护及调优，具备相关服务故障定位、处理和恢复能力；\n6.有政府部门、中央企业系统运维、应用系统开发相关经验优先；\n7.了解网络安全，有网络安全测评、网络安全运营经验优先;\n8.具有大数据生态系统（如Hadoop、HBase、Spark等）运维经验的优先。",
+      "encryptAddressId": "a27aa326b10593720nJ93N20EFJXxYW3U_o~",
+      "address": "宁波鄞州区宁波市公安局新大楼附近",
+      "longitude": 121.628463,
+      "latitude": 29.872006,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf4fbe71cb98274b1bed10f50f354400176bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230615/48ba41acc9cef1bf291da30ae3c516ecebda54744a73c69e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL/Oracle",
+        "Elasticsearch",
+        "系统运维",
+        "计算机相关专业",
+        "网络安全相关经验",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161001/6a98971f164350b8598f7eed0d94ec438c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "四海盈科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c342d383f04f403d1Hx83du_",
+      "brandName": "四海盈科",
+      "logo": "https://c-res.zhipin.com/jrs/7_d53fdf39c7adf17481a74b9cf2f943ef.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726797426000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四海盈科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "DOKTgySOcmalK-71wjXa-7mElMWa3Y_egUHOSWVKfqfDILJLSU90altkOQGcvLBlr-5uyIS9tpE2YKSCWU6ViJ8qyaqrg0HUz0WylxTKo3V3gFkPlLAWujxER9hGQMKt15eA_hVxoneqKMYko4HoxR1y",
+    "securityId": "3LiWYiiT6OIBE-k1wv-fjBCzCO5zX-kNrsijjElzPaoEfiXegFxH_7yM5Zi0vahSbS0nNQOzNWgBe4toqkhSGDdQH-aDqf4SREG0IQWp2IMN4atwsQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -44,7 +44,7 @@
       "title": "人力资源经理",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "银铼科技",
       "bossSource": 0,
@@ -80,10 +80,10 @@
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 1,
+      "inviteType": 0,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": true,
+      "canSendPhone": false,
       "canSendWechat": false
     },
     "relationInfo": {
