@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "yPe8AAAjGlcl_-T1PF_3HP89uTs2UWus4nY_lXWZ2uP1l5hNOQhdsdMydganFV54FMRj5CidNq1tnwUf6JFX5F-ttYUrLdtZGX-8I_Auox7h3UoKLqfRgFp9xVqSB32U8qpH4VJVtJhN1A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4475592ffcb295531Hx93dW_FFZX",
+      "encryptUserId": "6ac09f4898895c201nV839m1GVo~",
+      "invalidStatus": false,
+      "jobName": "java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "熟练掌握 Java 编程语言：深入了解 Java 语法、面向对象编程等基础知识，并能够灵活运用于实际项目开发中。\n熟悉常用的后端开发框架：如 Spring、Spring Boot 等，具备在框架下进行开发和调优的经验。\n数据库技能：熟悉 SQL 数据库系统，如 MySQL、PostgreSQL、Oracle 等，并有相关项目经验。\nRESTful API 设计与开发：能够设计和开发符合 RESTful 风格的后端接口，熟悉 HTTP 协议及相关工具。\n分布式系统开发：了解分布式系统原理和常用设计模式，熟悉微服务架构、RPC 框架等。项目部署与维护：具备基本的 Linux 系统操作与维护能力，能够完成项目的部署、监控与故障排查。\n团队协作与沟通：良好的团队协作意识和沟通能力，能够有效与团队成员协同工作，推动项目进展。\n加分项：\n前端技能：如果有一定的前端开发经验或者了解前端技术（如 HTML、CSS、JavaScript）。容器化经验：有 Docker、Kubernetes 等容器化技术的使用经验，能够独立搭建和管理环境。安全意识：对常见 Web 安全问题有一定了解，能够针对性地进行代码审计和漏洞修复。\n持续集成/持续部署：熟悉 CI/CD 工具（如 Jenkins、GitLab CI）的使用，能够构建自动化部署流程。",
+      "encryptAddressId": "5ffeb0428d5548a033Z52ty8GFtZx4W7Vfg~",
+      "address": "杭州西湖区紫金广场B座706",
+      "longitude": 120.095318,
+      "latitude": 30.308476,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3963003d64d040ec739e352d38a370db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/95399edc005354f4e7ca2254df5b8e96",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "分布式经验",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231026/607f1f3d68754fd012896f4574d21e46f8de32d39f05655a5ab418035d754d888f222420df3fd25_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "杭州辰戈科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "984fe3f941fd1d7b1HV72d-4F1Q~",
+      "brandName": "杭州辰戈科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20231026/7b5b554d84f9729cafbbeddd6fc3ce32e45921638adf76855ab418035d754d888f222420df3fd252.jpg.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "做改变的创造者、推动者",
+      "labels": [
+        "节日福利",
+        "高温补贴",
+        "员工旅游",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1727759729011,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州辰戈科技有限公司",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

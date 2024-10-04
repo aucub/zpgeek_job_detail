@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FLvNtRLjlCmc9-y1ljZJKdzl6YHGQvTSeziJaX6ifIylFepOufEVI_Lnse0p_NO3h7nMQxeMzUZMC4eMnvT8iNtIhXIlXSSEgAOvCUtR3E59U6yz_JqOTzY71mEULmrZ7p4ShxxM77AE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c9abad09954db1f51nJ52Ny8FVdQ",
+      "encryptUserId": "b6870a3ee88c0b081H1z2NS4GFc~",
+      "invalidStatus": false,
+      "jobName": "web前端",
+      "position": 100901,
+      "positionName": "前端开发工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "1.计算机相关专业，两年及以上前端开发工作经验，能够独立进行开发，有一定的前端架构能力。\n2.熟练掌握使用html/html5/css/javascript，熟悉http,websocket等通信协议。\n3.能够熟练使用vue技术栈，了解ES6及浏览器相关兼容性，掌握缓存、安全等机制。\n4.掌握地图服务(高德、arcgis)等地图服务框架的使用。\n5.具备web端流媒体视频播放的经验。\n6.熟练使用npm,git等开发工具。\n7.具备任务分解能力，了解敏捷式开发，能对需求进行梳理分析。\n8.具备java后端开发的优先考虑。",
+      "encryptAddressId": "53a2890728746c821HF82dS_FQ~~",
+      "address": "杭州余杭区上亿时代大厦16f",
+      "longitude": 120.064107,
+      "latitude": 30.363259,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bbb7946001cbda5931a123f0b17e0ad3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e75ff1f481c446db31e31fc7f0796174",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "前端开发",
+        "java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "游女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210622/6f9ed7f367fdb4c1857ffc21029195147a71b7afd83f7128d00d86892f3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "优嘉智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c2f7722eb36214e60Xx50tm5GA~~",
+      "brandName": "优嘉智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191210/cd2a20be85f82a09225b887606f1bcc07a71b7afd83f7128d00d86892f30a020.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "全国高校智慧消防业务",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "员工旅游"
+      ],
+      "activeTime": 1725469001392,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "优嘉智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

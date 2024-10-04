@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "9MncN7gMF75nd-q1euWBvVHMPEa-r_agjWZcupX2hGaLD2w7VARl3oEY_kvTcULLw8N5nU4mFIv_wdAOx5g8JOJ1hsiOBTMOjqIko7B0txsRaYHR1OpejaBYjjihBdTnu4i4W-AZucI~",
+    "securityId": "6jztCpnHVyZ3a-y1wSI3Whnh9I0jwtEZalqye3YYUT3ox8seB1eyP7fMqKxxVHJPjZ8-ck1hkPts9nNVaJZ_1YUosKxAgLcoBVLWTTTBP8MwystaUTswUO2IrfrVvs13m6iZ-qxrT_nW",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,15 +33,15 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "不接受居家办公",
         "Java",
-        "Python",
-        "PHP",
-        "Spring",
-        "MyBatis",
+        "不接受居家办公",
         "MySQL",
+        "PHP",
+        "MyBatis",
         "Redis",
-        "SQL Server"
+        "SQL Server",
+        "Spring",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -51,7 +51,7 @@
       "title": "行政助理",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
       "large": null,
-      "activeTimeDesc": "2周内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "云管家软件",
       "bossSource": 0,
@@ -76,7 +76,7 @@
         "全勤奖",
         "年终奖"
       ],
-      "activeTime": 1718195663000,
+      "activeTime": 1726379599000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "云管家软件",

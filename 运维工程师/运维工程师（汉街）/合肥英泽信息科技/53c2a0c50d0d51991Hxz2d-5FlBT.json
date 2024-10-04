@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pz8U-DqJWNpYz-d1g-ErIs4DSykJm551UFdaS1RdA2etY8NwVT36Shgp5HOtgRi5ZYpnt-JgjzSoD4GKOcWmqGv8bZJJFzI8JmWKABtaykObvRYgQdA4DTSMW_6FklDV2FVWchzHUiM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "53c2a0c50d0d51991Hxz2d-5FlBT",
+      "encryptUserId": "947473ea1f9841e51X172Ny1ElY~",
+      "invalidStatus": false,
+      "jobName": "运维工程师（汉街）",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "要求：本科，必须有信贷核算项目经验\n\n岗位职责：\n系统维护与管理：\n监控和维护服务器、网络设备及其他硬件设施。\n管理操作系统（如Linux、Windows）、数据库（如MySQL、PostgreSQL）、中间件（如Apache、Nginx）等。\n执行定期的系统检查和维护，确保系统的稳定运行。\n自动化部署与管理：\n使用CI/CD工具（如Jenkins、GitLab CI、Travis CI等）实现自动化部署。\n设计和维护自动化脚本，提高运维效率。\n使用容器化技术（如Docker、Kubernetes）进行应用部署和管理。\n监控与报警：\n配置和管理监控系统（如Prometheus、Zabbix、Nagios等），实时监控系统和应用的状态。\n设置报警机制，及时发现并处理异常情况。\n分析监控数据，优化系统性能。\n故障排查与应急响应：\n快速响应系统故障，进行故障排查和修复。\n制定应急预案，处理突发事件。\n记录故障处理过程，总结经验教训。\n安全与备份：\n实施网络安全措施，防范攻击。\n定期备份重要数据，确保数据安全。\n配置防火墙、入侵检测系统等安全设施。\n文档编写与知识分享：\n编写运维手册、操作指南等文档。\n整理运维日志，记录运维操作。\n与团队成员分享运维经验和技术知识。\n性能优化与容量规划：\n分析系统性能瓶颈，提出优化方案。\n规划服务器资源，确保系统的扩展性。\n实施负载均衡策略，提高系统可用性。\n技术支持与培训：\n为开发团队和其他部门提供技术支持。\n培训相关人员使用运维工具和技术。\n持续改进：\n持续关注运维领域的新技术和最佳实践。\n推动运维流程的标准化和自动化。\n任职要求：\n教育背景：\n计算机科学、信息技术或相关专业本科及以上学历。\n技术能力：\n熟练掌握Linux/Unix操作系统管理。\n熟悉至少一种脚本语言（如Shell、Python）。\n了解云平台（如AWS、Azure、阿里云）的基本操作。\n熟悉网络基础知识（如TCP/IP协议、DNS、HTTP/HTTPS）。\n了解数据库管理和性能优化。",
+      "encryptAddressId": "59f41155482464b61nV-2dy6GFJQxou-U_OX",
+      "address": "武汉武昌区万达尊1",
+      "longitude": 114.334735,
+      "latitude": 30.558288,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7d3fc44cf5bb809e4f7c84ce2e2d2d8c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/69fac118dba641af6f5aec2b1afe2e6f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "Shell",
+        "负载均衡技术",
+        "服务器配置",
+        "容器技术",
+        "网络协议",
+        "Unix",
+        "Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "胡女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220220/607f1f3d68754fd068db803e9a0313789dbf15ace6ef16ced84e331f64df8f5604ce7aaaa77_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "合肥英泽信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f1c7f5a3b132586d1HJ829u9",
+      "brandName": "合肥英泽信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210714/6c82ee0a21cb28bd4475abbb55c346a664608f4e8964b7be57998e32279422d0.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "英泽（Inzyme）科技是上市公司深圳天源迪科于2012年在合肥研发基地（自有占地100亩科技园区）设立的子公司注册资本3,000万元。\r\n英泽科技的成立提升了整个天源迪科集团在全IT领域的软件研发交付能力。依托天源迪科丰富的行业经验，致力于汽车，金融，互联网，地理信息领域的软件研发、技术服务外包方向的拓展。\r\n\n关于公司详细信息请参考公司网址：************************。\n\r\n深圳天源迪科集团公司于1993年成立，在全国有超过8000名员工，并于2010年1月在创业板上市（股票代码：300047）。集团公司一直专注于电信、联通、政府等行业应用软件产品的研发和销售，为之提供解决方案、产品和服务。\n关于集团公司的详细信息请参考集团公司网址：www.tydic.com。",
+      "labels": [
+        "节日福利",
+        "带薪年假",
+        "加班补助",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1727964976824,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "合肥英泽信息科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

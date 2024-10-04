@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zuvJxuvqGaK7v-w1OdnKzIJnGSFulgd9KmOfLbCQ6JgHTSSTbk2guLcSlBbGFtAmqqkrR9qzne6GOFT6cQveyIE_1PuJaOYH7CS7WKy4aIKZuZEt0k2v",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8999bb2ba9aa5dca1HJ72t24GFZY",
+      "encryptUserId": "c829a5c4d560696a0n193tm5GFVR",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1.负责对订单系统、出票系统的扩容开发、重构、优化等；\n2.负责解决项目中的技术难题，关键技术难点攻关、保障系统稳定等；\n3.负责将需求转化为业务中台技术架构和方案，并保障方案平滑落地。\n\n\n岗位要求：\n1.计算机或者相关专业，2年以上Java开发经验，了解大型分布式高并发架构设计思路；\n2.精通Spring、Spring Cloud、MyBatis、ElasticSearch、Kafka、Zookeeper、Dubbo等常用开源框架及中间件，熟悉其原理及实践；\n3.有大型分布式、高并发、高负载、高可用性架构经验，熟悉离线或实时大数据平台架构",
+      "encryptAddressId": "f8cc4b0effb574e833x52Ny0FFZXwYm6UfM~",
+      "address": "成都锦江区东方时代商城5-523A",
+      "longitude": 104.08476,
+      "latitude": 30.648675,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf6d00ba045af018a9a83fe86a6400bb2e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230616/48ba41acc9cef1bfd9fc9c6f32a6e0dea1ce8eac7d840dfb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230512/607f1f3d68754fd017a461177008d9e9a760446a84fe3f1f98941c250c1fe71d7699c4d0094_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "趣远足",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "377b035a0d28f1501XN52N69FVc~",
+      "brandName": "趣远足",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100501,
+      "industryName": "交通/运输",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727577144461,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "趣远足",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

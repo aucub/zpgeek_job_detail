@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Qg7UyhakIrQeN-O18mLxSFw0h4EJzcNBAb02rfabyITeRbbBZZv97bh5qcdXMrf9kqtHSw6zNJK-xzFx67Xvs1voFrCq2L9O1tHSZRiwmT58qlIQkw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fe6975b73aeef3341HV639m1EFdW",
+      "encryptUserId": "8ec57d12e18313db1H1z3dS6FVQ~",
+      "invalidStatus": false,
+      "jobName": "系统运维工程师",
+      "position": 100404,
+      "positionName": "系统工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责单位服务器、数据库等系统组件的日常巡检工作；\n2、负责单位在线业务系统的监控，服务器资源管理，系统和网络维护；\n3、负责业务上线的架构实施、系统部署、平台配置及运行优化，定期巡检；\n4、配合系统开发单位进行系统平台软件版本的调试及升级操作；\n5、策略配置及备份，网络拓扑更新，配置文档整理； \n6、配合处理相关运维事件，及时响应故障报警并处理；\n7、配合漏洞扫描、主机巡检、基线检查、安全测评、重保值守。\n\n任职要求：\n1、熟悉系统运维，熟练使用各种运维及监控工具，具有系统的实际运维经验；\n2、熟练掌握Linux操作系统及nginx，php，redis，mysql应用的安装、维护；\n3、有系统的网络基础知识，了解TCP/IP协议；\n4、有基础的shell或python脚本编写能力；\n5、有自动化运维相关经验的优先，熟悉Prometheus、zabbix等任意一种监控系统；\n6、具备强烈的运维安全意识，线上操作细心稳妥。",
+      "encryptAddressId": "6eb7ec4b85d92d400nB72t-0EFs~",
+      "address": "北京石景山区城通街26号院4号院13层1307",
+      "longitude": 116.183226,
+      "latitude": 39.904869,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f4a5fae7b86a7026ed1bb63c16bf110d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/923c0e3a23edc70e56b6453ef756eee9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "CCNA/CCNP",
+        "PMP",
+        "信息系统项目管理师",
+        "MySQL/Oracle",
+        "大数据运维经验",
+        "计算机相关专业",
+        "网络安全相关经验",
+        "计算机/网络系统工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "部门助理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220412/607f1f3d68754fd04689af1d098cd158d97e463226637f1d067ca1255b09c333e85a145a6c5_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "德安信华",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "65709e621567f3cd03J42dm_GQ~~",
+      "brandName": "德安信华",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "北京德安信华科技有限公司是一家专注于信息安全的科技企业，公司位于北京。服务对象为政府、金融、互联网、教育、医疗等行业用户，提供信息安全服务及解决方案，帮助客户实现业务的安全顺畅运行。\n公司目前主要的业务内容为：\n1．安全咨询服务：包含信息系统等级保护咨询服务、信息系统风险评估、信息系统等保差距分析、安全体系设计规划咨询服务等；\n2.安全检测服务：包含漏洞扫描、渗透测试、系统功能测试、系统性能测试、APP内容检测等；\n3.运维及技术保障：包含安全运维、驻场运维等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "住房补贴"
+      ],
+      "activeTime": 1725393887714,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "德安信华",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

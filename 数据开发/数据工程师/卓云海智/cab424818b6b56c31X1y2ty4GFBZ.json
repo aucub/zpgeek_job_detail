@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EzYJTmevzcoA_-H1YGqeIq6eu6N401Mc9D9xVXn0s-S3poUJKNCHP38Z5MvFQzyVklbjWrAGVQsnS67KNwHFKPvuORR65PCdSQgXxwW3pjYKJaWZVcw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cab424818b6b56c31X1y2ty4GFBZ",
+      "encryptUserId": "eb2a2b706bc4f4de0X183dq0FFQ~",
+      "invalidStatus": false,
+      "jobName": "数据工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·14薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n自研开发针对辅助生殖专科病例数据库的人工智能软件。衔接医院当前在用的病历软件和数据库，构建深度神经网络，挖掘规律，评测优化，智能推荐临床治疗方案。技术栈PyTorch、Tensorflow、Tensorflow.js、SQL Server、MongoDB、node.js、Git。不使用Caffe、SVN。\n\n技术要求\n本科或硕士学历。专业是计算机科学与技术、软件工程、网络工程等相关方向。\n获得过奖学金。获得过省级以上竞赛奖项。\n流畅阅读理解英文文档。考过英语六级。\n拥有机器学习编程经验，从零开始独立完成过项目，带领过小团队。\n熟练分析数据的数值分布、缺失、离散值等。\n熟练使用Python编写深度神经网络：PyTorch 2.0、Tensorflow、scikit-learn。\n熟练使用JavaScript编写深度神经网络：Tensorflow.js、Danfo.js。\n熟练使用常见的神经网络结构：CNN、RNN、LSTM、SSD、VAE、GAN、Diffusion、Transformer。\n熟练使用文本编码算法：one-hot, multi-hot, embedding。\n熟练使用大语言模型：ChatGPT、GPT-4、Bard、ChatGLM、ChatGLM-Med。\n熟练使用ER实体关系图，能从导航表通过外键关联子表，编写JOIN语句。\n熟练使用SQL Server 2019数据库管理系统及其衍生工具：\noSQL Server Management Studio (SSMS)\noAzure Data Studio\n熟练使用SQL Server存储过程、函数、视图。\n熟练使用ODBC驱动、T-SQL语句、中间件，从SQL Server、Oracle、MySQL进行读写、事务管理。\n熟练使用MongoDB及其Python或node.js驱动接口进行读写、事务管理。\n熟练掌握JSON和BSON数据格式。\n熟练使用Git版本控制工具，和常见仓库GitHub、GitLab、Gitee、Bitbucket。",
+      "encryptAddressId": "84d8af06393cb2580HR60t61GFc~",
+      "address": "深圳南山区香港中文大学深圳研究院李伟波楼516-517",
+      "longitude": 113.94477,
+      "latitude": 22.531364,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/36e21c56078a9da7b65338d41d49e2cc",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/85456f626052ce1997a988da9256adeb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "大数据开发经验",
+        "计算机相关专业",
+        "SQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "胡女士",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "卓云海智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "399896d51a0f99a21XZz3di8FlA~",
+      "brandName": "卓云海智",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100402,
+      "industryName": "医疗服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725395041010,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "卓云海智",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

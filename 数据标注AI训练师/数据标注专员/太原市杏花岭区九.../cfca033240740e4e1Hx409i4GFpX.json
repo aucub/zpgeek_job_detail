@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "GNASRMWa7wj58-71ezlApkraZ9w-5QLRgtZgx1JmSYxT4FJKacZmgdB3dB3RKBLAheAgTqcR-RKURWMni8X1bJHDLP4lWDW5yWjEbPKeA76-XMFDZibSs8kE7ZbBzfXVsEWT6CTbH1hbAw~~",
+    "securityId": "baoTeVDAdhYsI-v12DPu7LLMByD5TASKmjMa6an6N06ES4tk-WHRxjxEmL-iiAVnFstcax5cD79dp4MiXBqiDVm5TqUoBVml2zNqV19jGRUqxTV4-yF9mQ7dTEsxbviFtFY0rjZaTNuj8A~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -50,7 +50,7 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240831/607f1f3d68754fd0f80f28775eda7dc6603545f6dc98a27a2623c0afcb0986e381c57fa3e9b0b59_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "太原市杏花岭区九...",
       "bossSource": 0,
@@ -69,8 +69,11 @@
       "industry": 100020,
       "industryName": "互联网",
       "introduce": "",
-      "labels": [],
-      "activeTime": 1726183962468,
+      "labels": [
+        "加班补助",
+        "底薪加提成"
+      ],
+      "activeTime": 1727749916115,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "太原市杏花岭区九...",

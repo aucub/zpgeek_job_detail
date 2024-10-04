@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "xY5kVcA4FP-Dm--1nJe1O6Tp9kChqO6a8Jdy8EZw_LV_07yXEOVPQ-vbipbAQNz9nVGM6biCEGsxzvGXREFiAwdl3w0F6HJ3xtjXDDY3in3j4OZu",
+    "securityId": "YVVascKJYmDYY-e1MKeiLCU9EIYUH8O4XRk1Iyh0xIiRCU6MFhFhF2LX0gIMXl3ZQMoEHFG2cRsPHjG2h22Oy9wdELQiz3T-xtwTcUSKiXhO9xuBWX7w9eC3QKy_ntNxBFwsWcHH76w~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,9 +33,9 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
+        "自动化测试",
         "性能测试",
-        "自动化测试"
+        "功能测试"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -45,11 +45,13 @@
       "title": "人事专员",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210507/5fdf9aaf44df5d8979684f7743397d531754902f9377b6864f6e09b0891_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "赞同科技",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "8ee313447dae855c1X1809W8",
@@ -70,7 +72,7 @@
         "补充公积金",
         "出差补助"
       ],
-      "activeTime": 1718185851045,
+      "activeTime": 1727678217782,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "赞同科技",

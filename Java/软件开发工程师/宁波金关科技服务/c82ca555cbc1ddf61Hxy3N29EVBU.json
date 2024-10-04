@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ltMjX5ggmWKaD-z1BSmCWMG49uXDAsbDr1bXKQdJY9j5LKENMel0_SD0Mif9w9CrQfCLVuyCJe5IGD-KIwMsbDs8P8PFcoRLhogt3Qnw8LmTO3QgmHwSTyTU0Nguum6ejH7H2-ZmK6yy4pU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c82ca555cbc1ddf61Hxy3N29EVBU",
+      "encryptUserId": "28797bb0a1d6734b0nF53Nm0F1pZ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责\n1.参与项目需求分析、评审，进行功能模块设计；\n2.能够在负责的业务上有独立的见解，能提出合理的建议；\n3.根据技术主管或技术经理的任务安排，进行数据结构、组件和程序等的具体代码实施工作；\n4.负责项目的单元测试、故障处理、程序编译打包；\n5.负责技术文件的编写、整理，形成技术设计文档。\n二、任职要求\n1.计算机或相关专业，大学本科及以上学历；\n2.熟悉Java设计模式, 善于进行面向对象思想编程；\n3.熟练使用java框架SpringMVC、SpringBoot、Mybatis等；\n4.熟练使用Sql Server，Oracle，Mysql数据库的基本知识，有一定的sql调优经验；\n5.理解SOA、微服务架构，能进行Restful的架构方式进行编程，适应前后端职责分离开发方式；\n6.具有良好的表达沟通和学习能力，高度的敬业精神和团队合作精神。",
+      "encryptAddressId": "51bfaaf2a931e8d61nZz3du0FFZQwIq9WPuY",
+      "address": "宁波海曙区宁波海关北办公区(西门)海曙区马园路9号",
+      "longitude": 121.537724,
+      "latitude": 29.874259,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bf0c901ad7fd0b8c3abaa66c3291f644f06bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240424/48ba41acc9cef1bf4db54d2793b20edacfd83dedc86f2ba96bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "MyBatis",
+        "SQL Server",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陆女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "宁波金关科技服务",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a796b3820c97d6d11HN-2t-1ElA~",
+      "brandName": "宁波金关科技服务",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727781523390,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宁波金关科技服务",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

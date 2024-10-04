@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "l9xHrPAUZ8LXg-G1bf4U9MF8xDr-zHxWj2OLquvhZUiDXos2G2kNZPNDpRBSk0KEmKpuwOPDbpg5xEOPGVNwIEnNA_1CWWx8lD4WGJnDZC7mNmkgl3IC",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5523c060b7a1aa51X1939u4E1FS",
+      "encryptUserId": "5e4ba52cdbba1e6b0nF409m7ElpX",
+      "invalidStatus": false,
+      "jobName": "医疗",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司核心产品及功能的设计和开发工作；\n2、参与系统框架设计和核心代码的实现；\n3、按期交付符合质量要求的程序代码\n4、 业务理解和建模能力突出，能独立完成系统（或核心模块）的设计、开发和系统维护\n5、迭代客户化需求\n6、协助实施人员与第三方系统进行对接\n7、上级交办的其它事务\n任职要求：\n1、计算机、软件等相关专业，本科及以上相关学历，3年以上开发经验。\n2、熟悉Java后台开发技术，熟练掌握数据结构、多线程编程、常用设计模式，熟练掌握Spring、SpringMVC、SpringBoot、SpringCloud等相关框架。\n3、熟练数据库原理及SQL语言，熟练使用Mysql、Oracle等数据库，熟悉数据库优化；熟悉非关系型数据库redis,mongodb等。\n4、熟悉Redis等缓存服务，websocket通讯等。\n5、熟悉linux系统以及常用linux命令的使用。\n6、干净的代码风格、良好的测试意识、简约全面的文档。\n7、良好的逻辑思维、严谨工作习惯，工作积极主动，主动发现和解决问题，主动改进，彻底解决问题。\n8、沟通表达能力好，学习能力强，具备强烈的责任心和团队合作能力。\n9、愿意接受短期出差、驻场。\n10、有医疗行业软件开发经验或对HIS相关系统了解者优先。",
+      "encryptAddressId": "dd0408b31e3578b733dz3dq7FlM~",
+      "address": "成都武侯区万茂大厦3F-13",
+      "longitude": 103.993271,
+      "latitude": 30.625889,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e9a6d685c654341310323d5a98283a5b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/17bff6f398084c428b0d5cbf0ae68c48",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "Java"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "和人医信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "63b80733181f1ff91XV-39y0FFQ~",
+      "brandName": "和人医信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1725407905736,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "和人医信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

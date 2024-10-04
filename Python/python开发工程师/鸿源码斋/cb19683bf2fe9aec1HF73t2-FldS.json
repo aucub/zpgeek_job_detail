@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1YhrzCC1W4EIR-r1-jLSdQ9BIVeY211xTkBvnzuwb0b4fjA4W3YjIobMD79Glm1HK5dSa11tVqFHZXQqdYASyoo8tqbDZoS1far7Yzyum_d6pNzweQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "cb19683bf2fe9aec1HF73t2-FldS",
+      "encryptUserId": "7d001a0d1790dd4a3n190tW1EFY~",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "主要负责机器学习相关算法改造、web接口开发、网站采集爬虫等\n任职要求：\n1. 熟练掌握python编程，具备linux下的开发经验；有一定的数据结构与算法基础\n2. 具有中文自然语言处理技术理论基础，了解句法分析、语义分析(长文本语义理解)、情感分析、实体识别、主题抽取、知识图谱等\n3. 掌握常见的自然语言处理(NLP)算法与模型，包括textCNN、Seq2Seq、Transformer、BiLSTM、CRF、BERT等\n4. 具有问答系统、文本挖掘、舆情系统相关开发经验者优先\n可能平台受限，请有意向主动联系",
+      "encryptAddressId": "2e1f85cba50bcc341HV52t24FFc~",
+      "address": "北京东城区北京协和医学院研究生院",
+      "longitude": 116.416231,
+      "latitude": 39.91105,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6dfb26e97db8ac7ce7bc5c59651cf218",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5f36bf982e7a57b3d3825a7673f2bb64",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫经验",
+        "PyTorch",
+        "Docker",
+        "MySQL",
+        "机器学习经验",
+        "Redis",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200322/266ed094ccc6322054e8e4f4a7e2e6c5fee28e74c07b9ee79e6a987d2c0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "鸿源码斋",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "24f83811befca4781nx-09i4GQ~~",
+      "brandName": "鸿源码斋",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "带薪年假",
+        "员工旅游",
+        "免费班车",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1727875157275,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "鸿源码斋",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

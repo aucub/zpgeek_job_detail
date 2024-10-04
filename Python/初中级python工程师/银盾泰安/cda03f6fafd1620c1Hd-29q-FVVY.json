@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "QOUvvU_UGf2HM-Y1CKRl5m4M9DGv_g5605cL7OxhxBlyznm6cPVBIMpicfOA0s1Fncex4tjchbZ3EPRxkHYUydXRuUYm-lf24QxBCBAtNL0HMTe6AA~~",
+    "securityId": "IItq0BSMD5_kU-61V3Wn-T6YurNRGct_jUqijXKBhnWxOrmqil1zDNSiNBwIMQL7xZBGmMhXFj9UVE69L0b02dE5RmzKeT1VbAza20yEs04w3tq5Obt3Nn_gRW3qgJt4ZJXZGE89d5qZ",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,10 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "Python",
         "Docker",
         "MySQL",
-        "深度学习"
+        "深度学习",
+        "Python"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -46,11 +46,13 @@
       "title": "人事",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "银盾泰安",
       "bossSource": 0,
-      "certificated": true
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "56befd5a008ce88d1nJ-2d28Fg~~",
@@ -69,7 +71,7 @@
         "包吃",
         "节日福利"
       ],
-      "activeTime": 1717752514755,
+      "activeTime": 1727682032615,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "银盾泰安",
