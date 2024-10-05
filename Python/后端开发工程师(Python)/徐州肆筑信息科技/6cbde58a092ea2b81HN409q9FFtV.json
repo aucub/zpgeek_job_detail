@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "HrW1lKoinvhD5-t18V7qWxOnyf-5sUOOAoUiN1GAn41BbAlOHmUR4_GCX0aUB351bWk_hFlDbLye-UISoAMe9PqpKS3r1T_TY6tt-AQE6FODmwer1DGB",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6cbde58a092ea2b81HN409q9FFtV",
+      "encryptUserId": "9df71d676a9a1e790XJ62N60ElpS",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师(Python)",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101190800,
+      "locationName": "徐州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "主要职责：\n- 设计、开发和维护Python Web 后端应用程序。\n- 使用关系型数据库（如 PostgreSQL, MySQL）进行数据建模和管理。\n- 根据业务需求进行系统设计和建模。。\n- 与前端开发团队紧密合作，确保 API 设计和实现满足前端需求。\n- 跟踪和评估新技术的发展，以优化开发流程和改进产品。\n职位要求：\n- 具备后端开发经验，能使用django等框架进行后端开发（具备springboot等非python框架开发经验，且对python web感兴趣也可）\n- 熟练使用至少一种关系型数据库系统（如 PostgreSQL, MySQL），具备良好的数据库设计和查询优化技能。\n- 具备面向对象设计和编程能力。\n- 熟悉版本控制工具，如 Git。\n- 良好的团队合作精神和问题解决能力。\n- 优秀的书面和口头沟通技巧。",
+      "encryptAddressId": "f1d444eb58f54dba1nR539q4E1VQxIi7U_6b",
+      "address": "徐州泉山区江苏淮海科技城·数字经济产业园E5-307",
+      "longitude": 117.208365,
+      "latitude": 34.215309,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bffa470856b9b38c6edbbaf3af13941a546bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf27ce32a02719fa441ee6c6014087d0e46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Django",
+        "MySQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴先生",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "徐州肆筑信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0cdd3494806477361Xdz2dS1GFc~",
+      "brandName": "徐州肆筑信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221201/7bf6f160950405e91ac45562c02c45a3ced98b3b424fa7d226fbc53b163dcd9733bbd55ac8ad9a6c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司成立于2020年11月，现有正式员工20余名，主要从事煤炭集团智能化管理系统设计与开发。",
+      "labels": [
+        "生日福利",
+        "节日福利",
+        "免费工装",
+        "团建聚餐",
+        "零食下午茶",
+        "工龄奖",
+        "股票期权",
+        "保底工资",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1726196373000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "徐州肆筑信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

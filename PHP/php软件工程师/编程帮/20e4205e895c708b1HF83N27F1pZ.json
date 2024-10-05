@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sgek0Y9k3gswV-P1IYePzlReGehJ_jpQGU_cuP2mvPn6SX7w9PR90417-QQRZLLttEYABmDtsj036-AAD2YaNh-AK88z7-fmYlHUL2YbGgoOka_wovHP",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "20e4205e895c708b1HF83N27F1pZ",
+      "encryptUserId": "3e99cff87c189d2d1nRz2tS-GFBS",
+      "invalidStatus": false,
+      "jobName": "php软件工程师",
+      "position": 100103,
+      "positionName": "PHP",
+      "location": 101090800,
+      "locationName": "衡水",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟悉 mvc，熟练 thinkphp或laravel，thinkphp优先考虑。\n\n2. 熟悉 mysql ，掌握 sql语句优化，熟悉非关系型数据库 mongodb、redis等，精通 mongodb 优先考虑。\n\n3. 熟悉 Git/SVN 等版本控制软件。\n\n4. 可以阅读第三方文档，独立使用第三方 SDK进行开发。\n\n5. 熟悉 Linux 环境常用命令，了解缓存、消息队列、定时任务等相关技术。\n\n6. 熟悉网络协议，编写 API接口。",
+      "encryptAddressId": "54e4ff48ceb493591nV-2dW0GFM~",
+      "address": "衡水桃城区中关村e谷(衡水桃城)创业小镇101室",
+      "longitude": 115.707249,
+      "latitude": 37.747824,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ec219987f17ee1a8487b30861a5f9df2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/64cd66d12a11385aa704cafb99aee63d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Laravel/Yii/ThinkPHP",
+        "PHP",
+        "LNMP/LAMP"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "严先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231001/607f1f3d68754fd0d16a4e1335830165494a0514b79631c047e567402a45630b31af4b7f5ac6699_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "编程帮",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "86df9628c674f9e41nd-09i_FVE~",
+      "brandName": "编程帮",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100012,
+      "industryName": "在线教育",
+      "introduce": "衡水编程帮网络科技有限公司是一家在线教育公司，公司主营产品日UV已超过14W，累计付费用户超过3万，获得了大量的好评和赞赏。\n\n我们笃定计算教育在未来将会是一种通识教育。在衣食住行都被网络化的如今，人机之间的交流时间甚至要远远多于人与人的交流时间。我们日常所浏览的所有网站、使用的软件乃至操作系统，都是由程序编写而成，编程作为唯一能使人与计算机进行交流的工具，已经变得越来越重要，而学习编程的人也日渐增多。就连美国总统奥巴马都曾在视频中呼吁：美国的孩子除了玩游戏，还应该具备如何做游戏的能力。\n\n由于编程的复杂性和专业性，导致许多学习编程的人对此都大感头疼，编程似乎成为了\"程序猿\"的独家技能，而对于绝大部分的人来说只能望而却步。我们就是为了解决这个难题而来，我们的产品首先就是要让大家感受到编程的乐趣，消除编程复杂难懂的印象。",
+      "labels": [],
+      "activeTime": 1725481986452,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "编程帮",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

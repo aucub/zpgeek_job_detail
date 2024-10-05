@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "CUuAIqvdedbZs-R1TOQ0US4NshxGdVth19wnjOWWLLzu2OK_BeoJ6TFj2U8w3YyjfYYAX9oZAkCCNr9os2-G-ISL2_1k4x8S6BmQot2LZB5YtOPLAdc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "66dd26b2063373dd1nV-296_FVpS",
+      "encryptUserId": "ff3e41d93fa6989e1nRy3N2_E1dT",
+      "invalidStatus": false,
+      "jobName": "C/C++程序员、技术运维",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101181200,
+      "locationName": "鹤壁",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责软件产品和互联网服务的开发；\n2、负责产品基础架构项目的设计和开发；\n3、负责技术架构改进，按计划实施高可用高并发高可扩展方向的优化；\n4、和产品部门沟通产品需求，快速迭代开发，并迅速投入产品；\n5、与业务研发团队协作完成技术对接或技术改进等工作。\n\n岗位要求：\n1、理工类相关专业本科以上学历，一年以上相关工作经验, 计算机、通信、电子等信息类专业优先；\n2、精通C、C++、C#，熟悉.Net Framework/MFC/QT等架构并具备基于之上研发的能力；了解socket、通信相关知识及相关库等；    \n3、熟悉Oracle、SQL Server、MySQL等数据库； \n4、至少熟练掌握Maven、Gradle等构建工具中的一种；\n5、至少熟练掌握一种单元测试框架，包括但不限于NUnit；\n6、熟练使用svn、git等代码管理工具；\n7、至少会使用一种脚本语言，包括但不局限于Shell、Ruby、Groovy、Python，能够在日常工作中使用脚本简化工作；\n8、熟悉分布式、多线程及高性能的设计与编码及性能调优；\n9、具有良好的面向对象的设计思想,良好的代码规范,较强的代码和文档编写能力；\n10、有3D图形引擎、BIM、GIS、通信、电商相关开发经验者优先考虑。",
+      "encryptAddressId": "fc84b451f5099dba1Hx43965FFA~",
+      "address": "鹤壁淇滨区鹤壁宇翔模具有限公司新厂3号办公楼2F",
+      "longitude": 114.329849,
+      "latitude": 35.766152,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/26428d86c0dd9516e9d13f08cb793232",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2dffe997273dcc2aa4db2a7ec1ea9bcf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "多线程",
+        "Socket技术",
+        ".NET",
+        "C++",
+        "深度学习算法",
+        "视觉图像算法"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "郑州鼎派电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "83075c5a8bda283e33d63dy1EQ~~",
+      "brandName": "郑州鼎派电子",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725492462003,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "郑州鼎派电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
