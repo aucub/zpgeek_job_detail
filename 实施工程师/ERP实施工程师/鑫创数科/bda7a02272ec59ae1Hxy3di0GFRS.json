@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "SjpyA6X0cCrzq-h1O3wACvHHBzeVJomRBL4GEKrML0g9wlnqAbMbC5RGCH1zIk1OY3BxrpGMY1VMavoTDKmKBxzaqk5BYynH0NRQnwDSVvKraCW4o5eD-8_RGIx7hd56KTRTS8vQA59kgrjLFv6GGau6Tu9d2PYtOycaW6Z3KGrmyvY79SgP",
+    "securityId": "Du0lMjBV6We50-j1A-ZetsRUCTdEzEp74ISFZOh3R6hAiDHcHoTDmJ3viD8uMn64mdlaRkHVQg104yv4PDk1YUdOadItIlFx6Tc5QU8ThLaxTKbFX-U7qYe5Oz7wk-1jI5Rki0y7ANzK2T0~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -37,14 +37,14 @@
         "sql"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "许女士",
       "title": "HRM",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "鑫创数科",
       "bossSource": 0,
@@ -77,17 +77,17 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1727409719052,
+      "activeTime": 1727681327116,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "鑫创数科",
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 1,
+      "inviteType": 0,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": true,
+      "canSendPhone": false,
       "canSendWechat": false
     },
     "relationInfo": {

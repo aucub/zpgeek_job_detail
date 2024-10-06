@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AtGCvjtzvdvS8-z1QZEngYRfsA7B3FbJIOmR_0WWawUUzTCIyNFBRFZ1xaXD3_02ntFKNOcsIQ2Sg8XFCs4tgzUMp3OXA8VrxQnlFMJLecmBeR7_mD_EehWcyBQV5sSezQNnkkCowdM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dcc1f943acb9c2a21nNz29m4FFBS",
+      "encryptUserId": "fdd5a5ddb5b13a1e0nx_2Ny9FQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-9K",
+      "payTypeDesc": null,
+      "postDescription": "重要:\n      双休，弹性，社保公积金，带薪年假，法定节假日，公司做外包业务\n\n1.后端基础知识扎实；\n2.有2年及以上项目开发经验；\n3.熟炼使用Spring、springboot、jvm基础知识；\n4.熟练使用mySql\\oracle\\postgresql其中1-2种，有数据库调优经验；\n5. 至少熟练掌握java语言\n6.能适应长、短期出差（必须）",
+      "encryptAddressId": "997e6f9babb5e82e1nVz2tm6GFNQxYS7Ufqc",
+      "address": "武汉江夏区光谷总部·时代2栋801-3",
+      "longitude": 114.421675,
+      "latitude": 30.480652,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d337457758c15c9bd1a976c868e7c5db",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fbdd7771760ca816988a5d6920aa7b0d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "PostgreSQL",
+        "SpringBoot",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "技术总监",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=85ec80b08cb138c3jzA-m563D00Jn9u9T6jABqfox66Qb058jfgOheK_Zp3xG1xAeafF3LE9Ltet6RwoH9xYgnw6vdB5uIo7SlPvmuEyP735eZMA5rvoCGsgNVlSoyFeran2E3EdEL7jXEdqwo9KHA6wzfsIrFpNU9Li1XMuAHYvtz6HfcU~&radius=15",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "傲世轻云",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0632e1047e691afd1Hd729W1Ew~~",
+      "brandName": "傲世轻云",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司主要服务于北京集团公司的IT业务，同时也做其他公司的外包项目",
+      "labels": [
+        "五险一金",
+        "带薪年假"
+      ],
+      "activeTime": 1728125326721,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "傲世轻云",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

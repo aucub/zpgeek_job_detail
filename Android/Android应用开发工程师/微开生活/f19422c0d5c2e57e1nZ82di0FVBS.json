@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iDumFd0W-vsxB-N1swFUSimodTbITOv98fOAS6JGFya12KGpQfp4pHVjWams3vvYUEa9pXiGXd23BlZVKWf9IB0Xo4k4AZ8WNF-fC5z_QTL4TiXbbT8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f19422c0d5c2e57e1nZ82di0FVBS",
+      "encryptUserId": "d68631d88836ef321HJy39W4FFU~",
+      "invalidStatus": false,
+      "jobName": "Android应用开发工程师",
+      "position": 100202,
+      "positionName": "Android",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作内容：\n1、从事Android广告机APP研发；\n2、根据产品功能需求，设计并完成软件实现；\n3、参与功能的架构设计、系统分析、项目编码，单元测试、bug修改；\n4、跟进Android的新技术发展，编写设计、开发及实现文档。\n\n二、任职条件\n2年及以上android开发经验，能独立完成android项目开发\n1.熟练掌握，精通，有深厚的JAVA基础\n2.熟悉安卓网络编程 socket,tcp/ip, http\n3.熟练安卓UI设计、常用布局、动画特效\n4.熟悉Android OS系统体系结构、framework、以及底层库，框架，熟悉Android SDK底层API调用\n5.熟悉XML、JSON\n6.熟悉Android SDK及相关开发、调试、优化工具\n7.熟练使用Sql    \n8.熟悉Android GUI程序开发，熟悉自定义组件\n9.熟悉面向对象的程序设计方法，熟悉设计模式，多线程编程，\n10.熟悉屏幕分辨率兼容和操作系统版本兼容原理\n11. 熟练掌握相关技术及代码优化技巧（容量，内存，速度）对Android系统应用管理、进程管理、内存管理、Active管理机制有深入理解；\n12.英语阅读能力，文档编写能力\n\n三、加分项\n1.熟练使用常用spring mvc、springboot ORM框架;\n2.熟练使用vue、jquery",
+      "encryptAddressId": "658dc94c3965d5021nFz09y9GA~~",
+      "address": "深圳南山区留学生创业大厦2期902",
+      "longitude": 113.947707,
+      "latitude": 22.530948,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/716c1d4d1db46efcff98fafe5cdc2cd7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8d333ad4cc34524fc879c07e6a2475f1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "网络协议",
+        "Socket技术",
+        "MVC开发",
+        "Framework",
+        "SDK",
+        "MVC"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "毛先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "微开生活",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ccf492c037c4dfa71nV62Nq8EVU~",
+      "brandName": "微开生活",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200810/49be4ec6ff7a305a24864f1c35af26f399c1612e3a1f73992c9abc5b39161c66.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100007,
+      "industryName": "生活服务(O2O)",
+      "introduce": "微开生活，百果园旗下生鲜零售新业态品牌。\n     一直致力于为社区家庭客户，提供美好生活服务。以一日三餐家庭品质消费为核心，通过线上购买，线下体验，传递健康生活方式和理念。致力于做顾客能验证的三餐好物中国第一品牌，让亿万家庭在餐桌前微笑开心。\n     在家吃饭，微开好物！",
+      "labels": [
+        "员工旅游",
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1725640066156,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "微开生活",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
