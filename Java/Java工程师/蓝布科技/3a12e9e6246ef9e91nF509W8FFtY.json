@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oDC3u8pubSuJ0-r1mTBcGEnZ8XkwsBwYWSTbu9W9nDgXtfKvwzjtmNSiEF4I39ICVUY7JOWtXS91FoOxiq85Ra3cZIzru5PFIfPgJvLaMeMOIRJV",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3a12e9e6246ef9e91nF509W8FFtY",
+      "encryptUserId": "197ee5f4d75ab3f41nx409i8",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、计算机相关专业；\n2. 1年以上Java开发经验；\n3. 熟悉Spring、springboot等java编程技术\n4. 熟练使用vs code、IDEA、Git、Svn 等工具;\n5. 熟悉MySQL或mongodb数据库设计开发技术，有数据库设计和优化经验者优先；\n6. 能够承受工作压力，能在规定的时间内高效完成任务，具有良好的团队合作精神。",
+      "encryptAddressId": "90c2e6019d5622c41nx83du9E1c~",
+      "address": "长沙岳麓区中南大学科技园研发总部1栋608",
+      "longitude": 112.922034,
+      "latitude": 28.169244,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6bd9ba7a7958d69d41e6b80fc22c0b0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e66e7addaf7e2cb761aa178ec475faf5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "MongoDB",
+        "GIT",
+        "SVN",
+        "Visual Studio"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210512/9bde43f99711d850e936808f7b73a447bcbdf222acd190a51fb5fcf6e7c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "蓝布科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f0a53e09fa3c71eb1nd62tm7FlE~",
+      "brandName": "蓝布科技",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "湖南蓝布科技有限公司成立于2019年，是北京蓝布科技有限公司的全资子公司。依托中南大学等高校的科研转化，以物联网技术为核心，结合大数据分析、人工智能、业务驱动引擎，面向各类交通基础设施行业提供智能检测监测方案设计与集成、物联网一体化解决方案、全生命周期运营维护与管理，致力于成为基础设施行业的先进敏捷物联网全联接与数据服务提供商。公司有十余年航天和铁路信息化项目积累，核心团队均来自高校和科研院所，提供物联网从感知、接入、计算、分析、展现到决策全面的基础产品和服务。立足于科学的“感知”，高效的“联接”、智慧的“理解”到灵活的“唤醒”等各项关键能力，从而轻松构建各类智能物联网应用，促进行业创新。公司拥有基础设施全生命周期监测检测系统、先进敏捷物联网设备全连接云平台、物联网业务流自驱动平台、物联网全域数据服务平台等具有自主知识产权的拳头产品，在轨道、道路、管廊、隧道、桥梁等多个场景积累了丰富的业绩，并可根据客户需求开发结合BIM、GIS、VR、小程序、app等多种呈现和操作形式的运维管理平台。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "交通补助",
+        "节日福利",
+        "零食下午茶",
+        "包住"
+      ],
+      "activeTime": 1725657089580,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "蓝布科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

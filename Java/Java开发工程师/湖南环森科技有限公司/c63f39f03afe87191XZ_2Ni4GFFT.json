@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hVYX4mbW5Mn78-21IyTjxMXMV5jPFn8qvcnobHiizOUm3q5EYv6G1y5-DSTT5Vu4mqTQU6W1Lr65dIm4w7jraQi1occWRyqMNGajPuwxhhrXFylXAg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c63f39f03afe87191XZ_2Ni4GFFT",
+      "encryptUserId": "d68775068883d5a30X170t-6GQ~~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、根据产品设计，负责系统的规划和技术架构搭建\n2、梳理业务需求，提供业务规划方案、能根据方案展开研发工作\n3、负责核心代码编写，技术难点攻关\n5、配合上级完成相关任务目标，直接向项目负责人汇报工作\n\n任职要求：\n1．大专及以上学历，计算机及相关专业，2年以上相关工作经验\n2．熟练使用主流开发框架，如SpringBoot、SpringMVC、Mybatis、SpringCloud等\n3．熟练使用MYSQL等主流关系性数据库，熟练掌握SQL语言\n4. 熟练掌握HTTP、gRPC等通讯协议，熟练掌握io、多线程、集合等基础框架，精通分布式、缓存、消息等机制\n5．熟练使用常用的应用服务中间件产品，如Tomcat、Kafka、Redis、MongoDB、Nginx等\n6．掌握常用的H5页面编程技术，JavaScript、Vue、Angular等进行基本开发\n7．熟悉大流量、高并发、高性能的分布式系统的设计及应用，熟悉安全机制及性能调优\n8．有良好的沟通能力，较强的学习能力，稳定、有责任心",
+      "encryptAddressId": "a39814858853e0060XV52tm7E1U~",
+      "address": "长沙岳麓区五矿·麓谷科技产业园C3栋5楼",
+      "longitude": 112.895215,
+      "latitude": 28.22218,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/624018a15431b9e60f83d05b00d062c3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f2a0e30ff74d136346f3c076becac131",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "网络协议",
+        "多线程",
+        "SpringBoot",
+        "Spring",
+        "SpringMVC",
+        "后端开发",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "湖南环森科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "beb7ccf2a9248de81XV70966E1I~",
+      "brandName": "湖南环森科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725657089565,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南环森科技有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

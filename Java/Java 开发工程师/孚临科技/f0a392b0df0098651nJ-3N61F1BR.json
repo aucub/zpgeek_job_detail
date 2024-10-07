@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "YqOvGTmGldBBL-L1azPCpgk6TeR-kyXo7dTqH1OlyUZv-LfYIG-uP96IguSTZMWvis15cGZi49qAlpcda1JZoamuZKtiOsxvaS6Hxo1AxcSshMCwdg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f0a392b0df0098651nJ-3N61F1BR",
+      "encryptUserId": "815c91da9bdbeaa01Hx-3d61ElE~",
+      "invalidStatus": false,
+      "jobName": "Java 开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250400,
+      "locationName": "衡阳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1.负责后端业务产品及开放平台的设计和研发；\n2.负责上述系统的日常维护、以及各种相关的非功能性优化工作；\n3.负责后端服务的架构优化、性能调优，保证服务质量和性能；\n4.互联网新技术的调研及引入；\n5.需要短时间湖南省内出差\n\n任职要求：\n1.本科或以上学历，计算机软件或相关专业，相关开发经验3年及以上;\n2.Java基础扎实，理解java运行时工作原理，熟悉jvm性能调优; 熟悉面向对象设计开发；\n3.对各种开源的框架如SpringBoot/SpringCloud、MyBatis等有深入的了解，对框架本身有过开发或重构者可优先考虑;\n4.熟悉分布式开发相关技术，对dubbo，consul，nacos，netflix等至少一种有深入的了解;\n4.熟悉多线程编程，熟练使用java并发包下的各项常用基础设施；\n5.熟悉数据库相关技术，熟练使用mysql/oracle数据库；\n6.至少熟悉一种消息中间件，如RocketMQ、ActiveMQ、RabbitMQ、Kafka等;\n7.能够熟练使用linux，能够利用常用的工具对程序进行跟踪诊断，熟悉git操作;\n8.熟悉容器技术，可以熟练使用docker，docker-compose，swarm等技术，熟悉kubernetes优先。\n加分项:\n1.熟悉python开发;\n2.熟悉金融相关业务;",
+      "encryptAddressId": "f575ec865dbc273d03F_2tq8FQ~~",
+      "address": "衡阳蒸湘区中国衡阳898创新中心上市辅导中心",
+      "longitude": 112.538309,
+      "latitude": 26.87538,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2a51b222d6ee3efc3fcc4852c0ce0b38",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6538f0c968d26953713600da031906aa",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术",
+        "多线程",
+        "容器技术",
+        "Spring",
+        "Oracle",
+        "后端开发",
+        "SpringMVC",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "沈先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180508/00db0630bfa74ba1e94c2354eb5775e88a0a94c2063b3b03140df8092a7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "孚临科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ad09edb759e4873c1nR_39S1EQ~~",
+      "brandName": "孚临科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210714/d91022bc743fe18823db7a9143e70e15e3d792e6ff49b028baa9963c1dcc682e.jpg",
+      "stage": 805,
+      "stageName": "C轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "孚临科技长期深耕数字金融和人工智能领域，主要提供基于大小模型协同的数智决策分析系统。公司已入选浙江省专精特新和杭州准独角兽企业名单。公司拥有杭州市唯一一个“数字经济与智能技术”研发中心。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1728242179960,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "孚临科技",
+      "customerBrandStageName": "C轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

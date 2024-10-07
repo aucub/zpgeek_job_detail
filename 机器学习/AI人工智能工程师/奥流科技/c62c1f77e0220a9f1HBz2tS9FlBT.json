@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X6I9_dlVX3Kyc-m1bUNqPBOKRDvIHFlMAKX3wjMvcaqpu0Q8lEA_0uwOVmvuKS0NXTQ4ueej9fpWVrkv7jjrjfX7C1HNoEXsXSzOBnvdSTw4c6E5RXjd",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c62c1f77e0220a9f1HBz2tS9FlBT",
+      "encryptUserId": "ff54c45eee3127890XR63dq8E1ZT",
+      "invalidStatus": false,
+      "jobName": "AI人工智能工程师",
+      "position": 101301,
+      "positionName": "机器学习",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "职责描述\n1、关键技术应用搭建：负责知识库、智能代理（Agent）、语言链（Langchain）等关键AI应用的搭建、调优与使用；\n2、数据处理与管理：熟练掌握数据清洗、标准化、增强等预处理技术，以提高模型训练的效果。熟悉大数据处理框架（如Hadoop、Spark）和分布式存储系统，有效管理和处理大规模数据集；\n3、模型训练与优化：熟练掌握分布式训练技术，利用多GPU、多节点进行模型训练，提高训练效率，使用网格搜索、贝叶斯优化等方法进行超参数调整，了解并应用正则化技术（如Dropout、L1/L2正则化）和优化算法（如Adam、RMSprop）来提高模型的泛化能力；\n4、模型部署与监控：熟悉模型部署流程，能够在不同的生产环境中部署模型，如云平台、边缘设备等，实施模型监控策略，跟踪模型性能，确保模型在生产环境中的稳定性和可靠性；\n5、业务打磨与AI应用研究：负责公司AI相关业务的优化与完善，研究AI技术在不同应用场景下的解决方案，推动AI相关业务的市场化进程，并对结果负责；\n6、AI与业务结合探索：探索大模型和各类AI工具与公司业务结合的方向、路径，负责基于各类AI模型的创新研究与探索及相关产品研发工作；\n7、团队协作与知识共享：与数据科学家、产品经理、软件工程师等跨职能团队成员合作，共同推进项目，并通过撰写技术博客、发表论文、参与会议等方式，分享大模型等的开发和应用的经验与成果；\n8、其他任务：完成上级领导安排的其他相关工作。\n \n任职要求\n1.计算机、应用数学、人工智能等相关专业本科以上学历，1-3年AI相关领域工作经验，可接受优秀应届毕业生；\n2.有过知识库、Agent、Langchain等技术的实战经验，并熟练掌握这些工具；\n3.熟悉Python/GO语言编程，有扎实的编程基础；\n4.熟练掌握SparkML/Python Sklearn/Tensorflow/Caffe等机器学习和深度学习框架中的一种或多种优先；\n5.熟悉常见的深度学习架构，如卷积神经网络（CNN）、循环神经网络（RNN）、长短期记忆网络（LSTM）和Transformer等，能够根据业务需求自定义模型结构，进行模型的创新设计。\n工作地点 \n深圳/长沙",
+      "encryptAddressId": "0f3e7e016ecfa5770XN53du_F1pTwoS5UPg~",
+      "address": "长沙雨花区五江天街北区10栋写字楼14楼1401,1403室",
+      "longitude": 113.026524,
+      "latitude": 28.147416,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf847d110eefb33e007cb13552e69485276bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230602/48ba41acc9cef1bf694519d3e732de1af797e710cbc523556bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "算法工程化经验",
+        "大数据处理工具(Spark/Hadoop/Hive)",
+        "推荐算法"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吴女士",
+      "title": "综合管理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230607/607f1f3d68754fd0c63622ac39ae932e219c26a99a1d1017fbeb209219d70daaa43473c50ed_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "奥流科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b16a4e83988e22571XNz0ty9EFE~",
+      "brandName": "奥流科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101207,
+      "industryName": "环保",
+      "introduce": "奥流（深圳）科技有限公司是一家先进水务技术公司，由数位海归博士和中科院博士于2022年1月联合创立。公司聚焦客户的挑战和压力，通过创新和智能技术提供有竞争力的水务技术解决方案和服务。奥流是中国领先的全栈一体化计算流体力学（computational fluid dynamics, CFD）仿真环境技术公司，公司提供以建模与仿真（modelling and simulation, modsim）和仪表、控制和自动化（instrumentation, control and automation, ICA）为底层的数字化技术服务，致力于成为全球领先的先进数字水务技术产品与服务提供商。",
+      "labels": [
+        "节日福利",
+        "有无线网",
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725660973511,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "奥流科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

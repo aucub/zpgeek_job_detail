@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "V0OROUZLR52M9-q1pttnzUICICMO0F9ITj2nEf1KuxEtbkLAQUQBleVKMpe37qg4XynpAuqKTcso5IY8-MIJ93g9SNNII30Z2Knkyo-ukxeafNo_zqx2KSALnUq_k-y8Esw7HO1nTshxQw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9f39a330bd368b781Hx42du9EFpX",
+      "encryptUserId": "a377a8066d1c7abe1n153tW_EFA~",
+      "invalidStatus": false,
+      "jobName": "基础设施运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、负责制定数据中心物理主机、虚拟主机和存储系统、虚拟化、数据库、大数据与云平台定期巡检内容和计划，定期进行巡检工作；\n2、负责虚拟化、云平台日常维护工作，计算存储资源配置交付和故障事件处理工作保障服务的可靠性；\n3、负责公司数据中心、办公职场网络优化维护工作，办公，测试，生产网络管理分配工作；\n4、监控优化公司数据备份策略，按照既定策略要求对数据进行恢复，确保数据安全；\n5、配合制定操作系统安全措施（如防病毒、漏洞等安全管理）和应急保障方案，做好系统的安全防范和应急保障工作；。\n6、 负责建立完善主机系统运维文档和技术手册的编制工作，参与运维知识库的建立与维护。\n \n岗位要求：\n1、一年以上计算机及服务器、存储系统、网络安全运维经验，或相关岗位工作经验；\n    2、 熟悉服务器、存储的原理、部署及运维、主机设备的安装部署、调试和故障诊断，虚拟化系统；\n3、具备良好的团队合作精神、较强的自驱力，抗压能力，沟通能力，责任心以及独立解决问题的能力；；\n4、熟悉云平台工具和自动化运维管理系统者优先；\n5、熟练使用shell/python脚本、熟悉linux系统、熟悉mysql数据库、熟练使用nginx、zabbix、granfa、gitlab、elk等常见运维平台和工具；\n6、对docker、k8s容器平台有一定的了解和使用经验；",
+      "encryptAddressId": "3d1aec60befdd67f0HZ739q-F1U~",
+      "address": "成都武侯区川威大厦2108",
+      "longitude": 104.061168,
+      "latitude": 30.550428,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/83355111d1b04fe724cb18b1b6500b41",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e98c899b8e458bdb63bc599f2c10aaa5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "Linux",
+        "elk/zabbix/nginx",
+        "MySQL",
+        "IDC机房运维",
+        "Kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "蒲女士",
+      "title": "HRM",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190828/8076829a047454247ad31e51d5de4911cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "四川云腾未来科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e92401295d68ee7e1XR90ty8Elo~",
+      "brandName": "四川云腾未来科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221010/7bf6f160950405e9ab1ddb2268ffdef9c0abe767551cdba30600ba911175a7c9841dec62d65a1996.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "节日福利",
+        "五险一金"
+      ],
+      "activeTime": 1727658287000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "四川云腾未来科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

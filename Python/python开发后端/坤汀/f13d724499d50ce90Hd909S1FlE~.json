@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WwrKBL7zM6OVV-D1RS-vk4Y-Ks3pTEAt90qiPae6UAuJUCNdUxnT_gBqISE7AAx9UWWUwdKOlRTQAFPv3v728TNZLESHNx8bTZ7O22E6-JoZswwf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f13d724499d50ce90Hd909S1FlE~",
+      "encryptUserId": "6e0993f0750a37201nZy3t-8FlY~",
+      "invalidStatus": false,
+      "jobName": "python开发后端",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "【工作内容】\n1，linux下部署开发环境（nginx/tomcat+Django/Flask/Bottle+Mysql/...）以及服务器管理；\n2，撰写移动应用所需API接口，熟悉用户信息管理、用户发布图文存储同步者优先；\n3，web端可视化用户后台开发，有相关开发经验者优化（参考：camscanner.com/user/login）；\n4，抓包或源码解析，爬取WEB端和移动端数据，导出JSON或正则等处理后导入数据库。\n5，有机器翻译（如：百度翻译）AI学习开发经验者优先；\n\n【基础技能要求】\n1，熟悉linux环境部署和linux操作常用命令；\n2，熟悉flask/django/bottle或其他任一web框架者优先；\n3，熟悉Mysql或其他数据库操作和管理；\n4，熟悉requests、bs4、re等爬虫常用库的使用和常见异常处理；\n注意：更多技能，请参考“工作内容”所涉及，此要求为产品经理提出。\n\n【温馨提示】\n1，现公司是小规模创业公司。10人以下规模。\n2，Python后端开发人员为0，来了后需要独立开发。\n3，做的事情比较杂，没有大型公司又比较正规的流程。\n欢迎大家来撩骚。",
+      "encryptAddressId": "12d6392b39d848e21XJ709q6FlE~",
+      "address": "上海宝山区泰德科技园",
+      "longitude": 121.433225,
+      "latitude": 31.353186,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a26ef96271a6837b487d8d94a870cf8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b6d72bce3dbc2c284b11ed44b4db8179",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "SQL",
+        "网络爬虫技术",
+        "CSS",
+        "HTML",
+        "服务器配置",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "田先生",
+      "title": "IOS",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160821/5aac091f5915b02dcbf48c39fa11de378c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "坤汀",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1e60f32ea5afe2261HJ53N24Eg~~",
+      "brandName": "坤汀",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200410/4ce194797c78ba8e39f73a4590015e391d5a30c8436aab970dbfc3b8130e163d_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "致力于人工智能移动应用产品的开发、推广和运营。",
+      "labels": [
+        "年终奖"
+      ],
+      "activeTime": 1725689668718,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "坤汀",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

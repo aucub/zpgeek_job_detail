@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EH3q0gnMODEcM-11CavsetF5ByAuG7e41P0b1_B4TMjIhhaGvuCa9MjqIKCc3IQDW2RA3YNaV-9jF184fBfqXHGqi0NUM1SwNBWRLGtyQK-sWnB-",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3cb6f460780fcbdf1nN-09i_FVdZ",
+      "encryptUserId": "9b041ad2da4dfa351HB429W4FFY~",
+      "invalidStatus": false,
+      "jobName": "Python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容：\n1. Web 应用开发\n2. PaaS云平台开发\n3. 系统维护、调试\n\n热烈欢迎各位 计算机相关专业  或非计算机相关专业 的热爱技术，有志于从事互联网产品开发的同学投递该职位。\n\n---------------------------------\n\n先决条件：\n1. 请确保你至少对 Python、JavaScript 这两门语言都有深入学习研究的欲望\n2. 对 Web 前端的知识及其实现充满好奇，能够对所有技术保持好奇更好\n3. 技术是为产品服务的，必须要掌握或愿意学习掌握将技术转化为产品的能力\n\n对于以上三点有不同看法的，不适合从事该职位。\n\n---------------------------------\n职位要求：\n1. 思路清晰、主动性强，有缜密的逻辑思维能力，快速的英文阅读能力及学习能力，良好的沟通能力\n2. 有基本的计算机基础理论知识，熟悉常用数据机构与算法\n3. 能熟练使用 Python/Node.js 或其他后端语言进行Web程序相关开发，掌握相关框架\n4. 熟悉 MySQL/PostgreSQL 等关系型数据库，熟悉SQL语言\n5. 对TCP/IP, HTTP等常用协议有基本的了解，能完整叙述一次HTTP请求从客户端到服务器端所经过的各个环节\n6. 有基本的前端技能，了解基本的网页设计知识，如 HTML、CSS、JavaScript、jQuery\n7. 熟悉 ES6，有 Vue.js/React/Angular 至少其中一种的使用经验\n8. 能够熟练使用 Linux 作为日常开发环境\n9. 熟悉 Git 的常用操作，了解 GitHub Workflow\n10. 有基本的程序错误分析排查能力\n\n-------------------------------------------\n优先条件：\n1. 有1年以上 Django 开发经验者优先\n2. 有完整的个人业余项目(GitHub Repo)并在线部署运行\n3. 有为开源项目贡献过代码或者文档者优先\n4. 有 PaaS 类产品使用经验者优先\n\n-------------------------------------\n个人成长规划：\n1. 作为一名用户熟悉公司的整个业务流程\n2. 作为一名开发人员学习担路应用开发平台的整体概念，强化 ES6/Vue.js 等技术的了解\n3. 基于应用开发平台开发简单应用\n4. 基于应用开发平台开发客户应用，掌握产品交付的整个流程及注意事项，提升开发质量（开发速度、运行速度、维护成本）\n5. 基本掌握常见企业应用的建模方案，能快速的针对客户的需求给出解决方案，高质量的付诸实施并完成超过客户希望的交付\n6. 在应用开发过程中逐渐了解整个平台的架构，掌握整个平台从前端到后端的设计及实现思路\n7. 掌握定位日常应用开发中遇到的底层平台的问题，弥补自己的技术短板\n8. 对于如何提高应用开发效率有自己的深刻理解，对于平台层面的发展有自己的想法\n9. 参与到平台的开发中，开发高质量的应用\n\n注：Eating your own dog food 策略，作为一家致力于提供 PaaS平台的公司，我们的开发人员必须要牢记此策略。\n\n-------------------------------------\n担路的技术及学习理念：\n\n不做原教旨主义，用合适的工具做正确的事。\n稳中求新，快速迭代。\n持续学习，不给自己设限，对新知识充满不断探索的欲望。\n\n--------------------------------------\n\n应用开发平台介绍：\n\n\n应用开发平台可以快速开发出一整套可供多个平台使用的应用，包括PC网页版本、手机 网页版本以及小程序版本。全平台适配，数据统一管理，开发流程短，并支持高度自定义，无限扩展其功能，满足各个场景和各个行业的客户的不同需求。\n\n--------------------------------------\n\n应用开发平台架构：\n\n数据集（云数据库）\n做到能够让客户自定义去创建表结构，同时还保证在数据量极速增长的情况下的查询以及写入的性能\n后端运行时\n基于 Python 3.7, Django 1.11搭 配 asyncio/asyncpg实现系统核 心服务的功能\n云函数\n方便用户实现自己的业务逻辑，同时做好隔离性，保证出现bug的时候不会波及整个平台的运行情况\n可视化编辑器\n彻底解放用户在开发的时候对于繁杂表单及界面的处理，同时标准化的接口不会对平台的升级造成阻碍\n前端运行时\n遵循Vue.js，实现前端组件的线上/线下开发及加载的支持。通过自主研发的可视化 前端开发工具实现组件的可视化布局开发\n\n--------------------------------------\n\n公司介绍：\n上海担路网络科技有限公司成立于2011年春，名为“担路”，取“一路担当”之义。\n\n担路专注于“为企业提供互联网工具，让供需互动变得触手可及”。\n\nD-coding是担路网旗下的应用开发PaaS云平台：能够以 无代码或低代码的方式 在线开发 各类用户交互应用 ，进而帮助企业快速实现 全平台全周期的开发 和 自动化的运营维护。其产品特性有：稳定便捷的Serverless云架构，全平台适配的可视化网页编辑器，能自动生成前后端代码的逻辑控制器，可无限扩展的云数据库，支持接入所有开放接口的DAPI，自成一体的数据中台和业务中台。基于D-coding应用开发平台，我们细分领域的解决方案有：网页数据展示和营销方案、企业中台/OA/CRM/ERP/BPM方案、电商和供应链解决方案、物联网解决方案、智能设备系统集成方案、企业数据中台和商业智能方案等。\n\n自创立以来，担路网秉持共赢、创新的原则，一直努力探索适合企业的互联网工具，努力为企业打造更便捷、更具前瞻性的互联网入口；经过多年的努力，担路网现已取得几十项知识产权认证，并被政府认定为“高新技术企业”。\n\n目前，已有数万家合作企业见证了担路网的成长，担路网的产品正在伴随着他们的成长而成长……\n\n但是，我们依然在路上，愿在产业互联网的时代与您偕行……\n\n担路释义：Demlution = Demand + Solution",
+      "encryptAddressId": "d9e641501a93b0ea1nJ83tS-Flc~",
+      "address": "上海松江区立同商务大厦4楼",
+      "longitude": 121.310206,
+      "latitude": 31.142425,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a56c706fdf2b6c1ba5a066dfeefaaf31",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/08be8c8c213f65a9ec79ed9ce82216b4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "Django",
+        "架构师",
+        "GIT",
+        "软件工程师"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "包女士",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "担路网",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2dcbde5cd03170751HJ83t65",
+      "brandName": "担路网",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210114/2415ed4243fa2287631d213580192e84723244c561b81b29aab6f890f8fcd329_s.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "上海担路网络科技有限公司成立于2011年春，名为“担路”，取“一路担当”之义。担路专注于“为企业提供互联网工具，让供需互动变得触手可及”。\nD-coding是担路网旗下的应用开发PaaS云平台：能够以 无代码或低代码的方式 在线开发 各类用户交互应用 ，进而帮助企业快速实现 全平台全周期的开发 和 自动化的运营维护。其产品特性有：稳定便捷的Serverless云架构，全平台适配的可视化网页编辑器，能自动生成前后端代码的逻辑控制器，可无限扩展的云数据库，支持接入所有开放接口的DAPI，自成一体的数据中台和业务中台。基于D-coding应用开发平台，我们细分领域的解决方案有：网页数据展示和营销方案、企业中台/OA/CRM/ERP/BPM方案、电商和供应链解决方案、物联网解决方案、智能设备系统集成方案、企业数据中台和商业智能方案等。\n\n自创立以来，担路网秉持共赢、创新的原则，一直努力探索适合企业的互联网工具，努力为企业打造更便捷、更具前瞻性的互联网入口；经过多年的努力，担路网现已取得几十项知识产权认证，并被政府认定为“高新技术企业”。\n目前，已有数万家合作企业见证了担路网的成长，担路网的产品正在伴随着他们的成长而成长……\n但是，我们依然在路上，愿在产业互联网的时代与您偕行……\n担路释义：Demlution = Demand + Solution",
+      "labels": [
+        "节日福利",
+        "交通补助",
+        "通讯补贴",
+        "带薪年假",
+        "年终奖",
+        "全勤奖",
+        "五险一金"
+      ],
+      "activeTime": 1725713802828,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "担路网",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

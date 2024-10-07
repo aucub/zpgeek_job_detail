@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bC4YhgaTVuTKU-a1Ziq7bi3Y_5CAzcMjv6fTaWI3gpWNTAzCcVa5KhalmAzl6yo25O21gYHMGG5xDXUovuWWNoLl79AoAxBd52MiLVM8_JbWjJnrdA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2ca23d7b296173f40HJy3Nm7EFI~",
+      "encryptUserId": "3ccded4cf77dcd6f1nR939W4E1JV",
+      "invalidStatus": false,
+      "jobName": "后端程序员",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "更具需求按时完成工作量（兼职）\n1）项目组提供Hbase封装的Rest API，用JSON格式传递，程序员负责调用API完成各类数据接口的封装。\n2）负责集成开发Mybatis创建，开发Java Dao，向指定的表进行读取和写入。\n3）需要自己完成单元测试。\n4）配合项目组完成业务代码实现",
+      "encryptAddressId": "6103cd28b58e5a661HR63t6-GFE~",
+      "address": "长沙雨花区复地星光天地",
+      "longitude": 113.008504,
+      "latitude": 28.113162,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/73b3062add718ebcd2b35985de781710",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cb819960e0a16fdb60b78decbd61465f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "柳女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200506/ece0aadb68b889bb7531373f5e539afd6a0ea850458d160abc5bf28d5fe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "纳见数据",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2f1c17e5f3fe76d70HZ60t27Fw~~",
+      "brandName": "纳见数据",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200507/ece0aadb68b889bb7531373f5e539afd6a0ea850458d160abc5bf28d5fed033a.jpg",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725657089284,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "纳见数据",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

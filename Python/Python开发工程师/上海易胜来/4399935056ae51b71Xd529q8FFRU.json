@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZOXpw69ee2R2x-j1pxOel0q5ZTMipp1pmFkYwjEcJlDOOaZoUWljM0fPHaRg6B8jviJlVMQJh8bnXjSBYrVvwwU7g0eRPnzCtCAfPtgXdumhtMTmC-VD",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4399935056ae51b71Xd529q8FFRU",
+      "encryptUserId": "ecb677f6abcd8da50nVy2tu7FFRV",
+      "invalidStatus": false,
+      "jobName": "Python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1 熟悉缓存、消息队列、集群技术处理、负载均衡、系统性能调优、系统韧性等软件编程技术者优先；\n2 掌握 python和常见开发框架,熟悉flask/Django框架的后端API开发\n3 熟悉 Linux系统,熟悉Mysql、 Redis等数据库\n4 负责爬虫开发和数据采集，以及策略持续优化\n5 对非结构化数据，并对数据信息提取、去重、清洗\n6 有利用Python进行机器学习开展自然语言处理、图像、音视频处理等相关项目经验者优先\n7 具有 webserver 后台开发经验\n8 了解 html css 可以看懂前端页面结构",
+      "encryptAddressId": "2c5053a7be0fead90XB52d-6GFs~",
+      "address": "上海宝山区北外环信息产业园E座506",
+      "longitude": 121.438475,
+      "latitude": 31.355536,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdbccf63d989c6199816d3480173acda",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cec40e987555485fc93f190ca1e0d4a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "负载均衡技术",
+        "消息队列",
+        "Linux",
+        "Django",
+        "Flask",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱女士",
+      "title": "人事主管",
+      "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=cceb931fc40e45fdjzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHN5Yn3h054wutoo4GAO8nLYyZ7-meZhT5ee9V2osaAwGpSdU-P-gFXEYQufgDxU_zdxJTwqxyaZZrg4fBdji1HF-VyARpU-eI8jtwA~~&radius=15",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "上海易胜来",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d85815ec64546b371nB42Nu8FlE~",
+      "brandName": "上海易胜来",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1725689669594,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海易胜来",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

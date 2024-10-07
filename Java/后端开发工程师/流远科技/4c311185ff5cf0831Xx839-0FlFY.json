@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iOEiGprpZ93Rs-i1MGaBHy3b_uL0bAE8eemu4OFwwBt4DiEVlsWVdBV8qSkiNtkZUxubSHBPBEvf4N3sLG_oxGEQG0UfBbPCmFMxBsYyyeUvwyAh9iaE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4c311185ff5cf0831Xx839-0FlFY",
+      "encryptUserId": "ce2f9fc0b7fd39fa0n183tq1E1tZ",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责业务系统开发，包括需求分析、架构设计、业务逻辑实现等工作。\n2、负责业务系统的性能、稳定性、可靠性等方面的深度优化。\n3、负责解决项目上线后生产环境的各种实际问题，保障生产上的安全、平稳运行。\n\n任职要求：\n1、计算机相关专业本科毕业，1年以上实际产品开发经验。\n2、精通java语言和相关的开发框架，如Spring Boot、Spring Cloud等、能在Windows、Linux环境进行开发。\n3、熟悉主流数据库开发和设计，如MySQL、Oracle等。\n4、熟悉Web开发技术，如HTML/CSS、JavaScript、Vue等。\n5、熟悉常用工具如Git，Postman、Swagger、Jenkins，Maven，Kafka，Redis等。\n6、具备良好的问题解决能力和调试技巧。\n7、具备良好的团队合作和沟通能力。",
+      "encryptAddressId": "4f2b34379c5dddff3nV83N65EVs~",
+      "address": "长沙雨花区复地·星光天地1号楼17009室",
+      "longitude": 113.007743,
+      "latitude": 28.112661,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230514/48ba41acc9cef1bf3369124ff6c7426c2035d5eb8a8b9cbd6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230510/48ba41acc9cef1bfcf1a41b7727d0228c1f4aa30b926ec8c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java开发经验",
+        "机器学习工程经验",
+        "全栈工程师",
+        "Java",
+        "架构师",
+        "MyBatis",
+        "后端工程师",
+        "Spring",
+        "计算机/软件工程相关经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "袁先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "流远科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ca12a4eb80af9cfc1XN429y0EFU~",
+      "brandName": "流远科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728262375407,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "流远科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

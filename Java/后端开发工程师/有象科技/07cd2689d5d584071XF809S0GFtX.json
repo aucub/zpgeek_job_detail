@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NUAY_wcK5QFr6-A1wTbFEP1crTpM2dsKF7w56vAH7YCtqOZxW67un55gE3Me_JY7pvGIW21yB-wIQYOhozMx7S8XiAB7kp66MREc_CViRw5s0h5CrTb1E8YHI4CG3sb9A11BMoO9IEKuniY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "07cd2689d5d584071XF809S0GFtX",
+      "encryptUserId": "a2f53747b243e8750nZy0tS0GVRR",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "【Why us？】\n1）人工智能前沿，世界一流高校教授博士团队，创客氛围浓厚；\n2）明晰的成长路径；\n3）扁平化架构，年轻化团队；\n4）项目全流程参与，快速了解公司运营模式，锻炼逻辑思维等多种能力。\n\n【岗位要求】\n1.具有扎实的Java功底，对JVM原理有一定认知和理解，具有Java IO、多线程、网络等方面的编程和优化能力\n2.熟练使用springboot、springcloud、springmvc、mybatis 等常用框架进行微服务开发；\n3.熟悉Maven项目构建和GIT版本控制；\n4.熟悉linux、tomcat、Nginx等常用部署技能；\n5.精通SQL及优化，熟练使用Mysql数据库，掌握redis等常用nosgl技术并具有实战经验；\n6.自驱力和沟通能力强，能主动发现问题并推进解决问题\n7.熟悉一门脚本语言(Python, Perl或者Shell等)优先；\n8.技术社区活跃分子，有开源作品或有深度的技术博客优先",
+      "encryptAddressId": "a2e994e62ba2d55503Zy0924Ew~~",
+      "address": "广州白云区白云大道南1088号院1088",
+      "longitude": 113.28379,
+      "latitude": 23.192646,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e51490f8039915f3f3c343af73abbcf5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f6a9b62b55f8991791222763514b5c0c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端工程师",
+        "全栈工程师",
+        "Java",
+        "MySQL",
+        "Spring",
+        "计算机/软件工程相关经验",
+        "Java开发经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "苏女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210426/03c69e7c2eeff22b727f14ae54721f0eb7dc6399f27be2d3694987f37b6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "有象科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2bb612cf98cc27151nFz3tu5F1Y~",
+      "brandName": "有象科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我们是一家有活力的无人驾驶科技公司。我硕士在北京大学。",
+      "labels": [
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1725698111269,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "有象科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "w7Tm_dpFzGUX_-f1stj4ztcNIChQFykXGy3VJaVlT9ezL6BStcdNb96pZR3rrCTF8aNRNl-7lzOqmgm9vNpb30cNrRZXxN9xRW062n9orXQwgwkaSw~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d7634bd03d478eba1XR_09u5EVRW",
+      "encryptUserId": "ca17d708efa3179a1XJ629i4GFY~",
+      "invalidStatus": false,
+      "jobName": "Python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，需要计算机/工程/数学类相关专业或者有软件/硬件相关背景；\n2、扎实的基本功，了解掌握 Python，数据库/SQL，Linux常用命令优先;\n3、有简单的算法和编程知识（例如字符串处理，冒泡排序等）；\n4、具备良好的编程习惯和模块设计的能力，了解OOP编程，设计模式；\n5、具备良好的分析问题、解决问题的能力，喜欢尝试新技术，乐于分享，优秀的团队协作精神;\n6、有Django、Flask或FastAPI框架开发经验优先；\n7、有实习经验或项目落地经验者优先；\n\n岗位职责:\n1、和信息安全相关的 WEB 应用产品的设计/开发/维护；\n2、负责开发过程文档的撰写\n\n面试需要准备好电脑且打开摄像头，谢谢！",
+      "encryptAddressId": "5d56921100279e331nBz3Nu_F1s~",
+      "address": "上海徐汇区华鑫科技园D座D55501",
+      "longitude": 121.410129,
+      "latitude": 31.170457,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1ee68e7d71cc7986eb88459c7963129d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1bec0cd79de0c052ae35cb4fa6d4a130",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "容器技术",
+        "中级软件工程师",
+        "数据结构",
+        "Linux"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "郭女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230210/607f1f3d68754fd06f9270bf878657ed66dcee30fb6f6506d0ee10ebfc380d1a0998daeaeb1_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "云纷",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "104b10b115afd9be0nB-29u0EA~~",
+      "brandName": "云纷",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191007/238546fac8842d73519b9507e9b0132f48481de4da0c6d23372c5bfa21f09fd5.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "云纷科技将“安全运营中心（SOC）”分层分解，以更灵活的模块化方式交付“下一代安全运营服务”，高效整合人、技术和流程，为不同的企业客户提供符合现状和中远期发展的安全运营能力。同时，以十年安全管理经验为依托，我们的安全托管服务（MSS）可以为企业提供7*24小时全天候安全保障，全面提高企业安全抵御能力，为抵抗威胁建立可靠屏障。\n        云纷希望在为客户建立运营体系的同时，结合自身对于安全的理解和知识，协同利用开发能力、开发并调用各类自动以及半自动化工具，为客户提供最切合实际的安全运营服务，最终帮助用户清晰定位威胁、降低风险，提高整体安全水平。",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1727918008824,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云纷",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

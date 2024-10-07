@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "huIedkK0Khx3d-w1rG62Nd75J5NFDC95LhG2hU20SPIoWv25JaXtC_5BeV3N_70L7yGGzlXONcKwZODI8hN0_2jL26OHNdNoKSwdFbUydVU4WxAiHUr-Tx7mANNNTxABCCG5zkh7uMtPFeM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "11b662b636a8ba931nF_0ty4EVNR",
+      "encryptUserId": "5bdfdde12586ebd70nd42dm8FFRV",
+      "invalidStatus": false,
+      "jobName": "爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "【工作职责】\n1、负责设计和开发爬虫系统，提取分析各种千形万态的平台页面内容；\n2、负责多平台信息爬取和页面内容的提取分析，负责分析应用各类反爬机制； \n2、负责APP的数据抓取和爬取链路优化（包括APP反编译、逆向分析、脱壳、加密参数破解、抓取攻防等），优化抓取能力；\n3、负责HTTP、AJAX等各类网络请求分析，探索和研究高效的数据抓取解决方案；\n4、研究爬虫策略和防屏蔽规则，解决封账号、封IP、验证码、页面跳转等难点，提升网页抓取的效率和质量；\n\n【任职要求】\n1、精通python、计算机网络，熟练使用多线程，熟悉常用爬虫框架；\n2、熟悉常用代理软件部署，底层实现逻辑；\n3、熟悉Linux操作、正则表达式，MySQL、MongoDB等常用数据库，了解各种Web前端技术；\n4、熟悉js逆向，混淆原理，js语法树，客户端常用签名算法等。熟悉移动端逆向或者PC端逆向更优（IOS Android Windows 二进制逆向；\n5、能够解决网络链路分析、流量识别、验证码识别、图像识别等问题；\n6、熟悉wireshark、tcpdump、fiddler等进行抓包分析工具。\n\n希望一定是有冲劲、够拼搏的你，加入公司创业！",
+      "encryptAddressId": "5b07a545c032fded1H1_2tS9",
+      "address": "成都武侯区美年广场273",
+      "longitude": 104.068136,
+      "latitude": 30.534453,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/98a9416d075d8a79519ab6854b99b2b2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a0c2fad6b2ed8b9e27fe7f657c32b2e",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "多线程",
+        "Windows",
+        "NoSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "臻享天下",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "683a42bed97f7ef41nJ42tS1GFE~",
+      "brandName": "臻享天下",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725717644461,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "臻享天下",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "pTXLOGsxEwfi_-G1DIewy4Xbt9hPq39uqHV7LIzG48nl25tgUCVMNogrF2u6aFeQitfu98o2OgxEf8XRZGw4rtGro3c3XSkzm3OMl_IO2Y9Ntw-qQcFWmGGLa6EOfLyOq9_FgWnCHT5fbA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fc4a8779fa60cbb41Hx_3Ny0F1NZ",
+      "encryptUserId": "1d71f78961673b341Hd52dy0EVE~",
+      "invalidStatus": false,
+      "jobName": "python后端",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、核心后端开发：负责医学影像处理平台的Python后端系统设计与开发，确保系统稳定、高效运行。\n2、任务执行与优化：独立承担并完成公司分配的Python开发任务，持续优化系统性能与用户体验。\n3、文档编写与团队协作：配合团队完成详细的开发文档编写，确保技术方案的清晰传达与知识共享。\n4、有医学图像处理专长者优先：运用医学图像处理与计算机视觉技术，提升平台在医学影像分析领域的竞争力（有医学图像处理背景者优先考虑）\n\n任职要求：\n1、教育背景：大专及以上学历，计算机科学、软件工程或相关专业\n2、经验：具备3年及以上Python后端开发经验\n3、技术技能：\n精通Python编程语言，熟悉Flask、Django等Web框架，并能灵活应用于实际项目中。\n熟练使用Numpy等科学计算库进行数据处理与分析，有图像处理项目经验者优先。\n熟练掌握MySQL、Redis等数据库技术，能够设计并优化数据库结构。\n精通Docker容器化技术，熟悉Git版本控制，能够独立完成项目的部署与维护工作。\n具备扎实的Linux系统操作基础，能进行服务器管理与配置。\n4、行业背景：具备医学图像处理、计算机视觉(CV)领域相关工作经验者优先考虑。\n\n员工福利：\n1、工作时间：八小时工作制 9:00-17:30；周末双休\n2、完善的福利体系：享受工作法定节假日福利、五险一金福利、婚假和产假，等等\n3、本公司为自研产品，非外包。",
+      "encryptAddressId": "055569fe5af6b7b91nZ52Ni8EFJXxIq5WPyZ",
+      "address": "成都武侯区川大科技·展业大厦609-613",
+      "longitude": 104.077935,
+      "latitude": 30.62418,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf1baac2eb43d092a6e2627eb7c96a72536bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf05a24b0df4eed099dc1c6efd0f71e3626bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Django",
+        "MySQL",
+        "Redis",
+        "Numpy",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "人力资源副总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240725/607f1f3d68754fd0b9f30794005503cf50cca5d9ed7d23bd289a0ecaf24e886511354bff800e5ac_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "爱迦飞诗特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b8ec97dc3dc832f81XV709S7GFY~",
+      "brandName": "爱迦飞诗特",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240321/7bf6f160950405e9215d55217fea6697566ad66f0e1eed77db9a143a3ce673b774018204a8b58ad7.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "成都爱迦飞诗特科技有限公司是由四川大学国家双创示范基地孵化的创新型企业，致力于智能医学产品研发，其研发力量主要依托四川大学智能医学中心和四川大学机器智能实验室。联合华西医院、省医院、达州市中心医院、中国医学科学院、河南省人民医院等多家三甲医院研发出智能乳腺系统、智能肺系统、智能放疗系统等10多个智能医学产品。推广全国近200家医院。团队单位多次在国际上智能医学大赛中取得第一名，其中“乳腺癌彩超智能筛查系统”在全国高校人工智能创新大赛获得特等奖。",
+      "labels": [
+        "带薪年假",
+        "保底工资",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1728132901672,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "爱迦飞诗特",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

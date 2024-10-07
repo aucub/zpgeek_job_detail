@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "we2M176405KOa-Q1J-IfPBjyJ8lusRgefGEKXrBaI2ckG4lzRHsEVqJWD7mnPmd5T5ycm9_O0oH6F5VbIEV4yq8GmiJwmcCmakWg-ZE_ScsRzcG5oG99w5zRp0mfBcpUlxOjDc46hfes",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b1dfa2ea22c6b43a1Hx93NW9GFBW",
+      "encryptUserId": "19a1b474f241aa0c1HZ-29S5EFY~",
+      "invalidStatus": false,
+      "jobName": "web全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "我们正在寻找一位熟悉Python，React相关技术栈的Web 全栈工程师，，负责前后端开发工作，能够设计、开发和维护高质量的 web 应用程序。你将与产品经理、UI/UX 设计师、后端开发人员和其他团队成员紧密合作，推动产品从构思到上线的全过程。\n岗位职责：\n- 使用 ReactJS 开发和维护动态用户界面，确保用户体验流畅。\n- 使用 Python（Django）设计和开发后端 API 服务，处理业务逻辑和数据库交互。\n- 负责前后端的集成，确保数据交互的可靠性和安全性。\n- 参与项目的技术选型、架构设计和代码评审，确保代码质量和系统的可维护性。\n- 定期进行性能优化，提升应用的响应速度和可扩展性。\n- 编写高效、可测试和可维护的代码，并编写单元测试、集成测试。\n- 与跨职能团队合作，确保项目按时交付并符合质量标准。\n- 维护和改进现有系统，修复问题和添加新功能。\n岗位要求：\n1.计算机科学、软件工程等相关专业本科及以上学历。\n2.1-3年的 ReactJS 和 Python 全栈开发经验，具备良好的编码习惯。\n3.熟练掌握 JavaScript/TypeScript，深入理解 ReactJS 框架及其生态系统（如 Redux、React Router 等）。\n4.精通 Python 编程，具备 Django、Flask 等后端框架的开发经验。\n5.熟悉 RESTful API 的接口设计与开发，能够编写高效、可扩展的后端服务。\n6.熟悉前端性能优化技巧和后端数据库优化方法，具备处理高并发、高流量应用的经验。\n7.熟悉 Git 等版本控制工具，具备团队协作开发经验。\n8.熟悉 Docker、Kubernetes 等容器化技术优先。\n9.具备良好的问题分析和解决能力，能够在压力下工作。\n10.有良好的沟通能力和团队合作精神，能够与产品和技术团队紧密配合。\n加分项：\n- 有全栈项目从零到一的开发经验。\n- 了解 DevOps 工具链，熟悉 CI/CD 流程。\n- 具备华为云，阿里云等云平台使用经验。",
+      "encryptAddressId": "875702cf581a4d261nZ83N-6EVQ~",
+      "address": "苏州腾飞创新园A1塔楼913&914室",
+      "longitude": 120.733984,
+      "latitude": 31.253971,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b94bf783a97eb091993ac949e0c576a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9eceeffe3f796976a0a4e422fb2caab4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Django/Flask",
+        "全栈无侧重",
+        "计算机相关专业",
+        "React",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "朱先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "东湾信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6c2435663822b58b1nZ43926GA~~",
+      "brandName": "东湾信息",
+      "logo": "https://c-res.zhipin.com/jrs/568001e326b9fcbd7b47f7c5b890b9aa.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我司是江苏省高新技术企业，从事软件和系统开发，不加班，人性化，欢迎来投！",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1727662773000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东湾信息",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

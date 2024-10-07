@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zlGJ-erYarjgW-F1-P0SmadMA5KQ7FU7vC42Q-Zl5VPM08OZXpKjuxntx7PQtbQBPu5MC4RPsHxFTR8LGcIQko9drF6wEdsNT3E4nDKH8rbW4IfgBg5QOOt83by6Q_jGKcuzMFOnNtADQcM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db856a7b1adfeaef1Hxz2Ni4E1dX",
+      "encryptUserId": "7b628215a9721e3e0XN43967GFRU",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：基本要求：\n1.有 Java，Golang 开发经验，具有扎实的编程技术和良好的代码习惯；\n2.熟悉常用的数据结构和算法；\n3.对后端架构有深刻理解；\n4.有使用 MySQL、PostgreSQL、MongoDB等数据库的经验，并理解事务、索引、锁等数据库原理；\n5.能够独立分析和解决技术问题，具备良好的问题定位和解决能力；\n6.良好的团队合作精神和沟通能力，能够在快节奏的环境中高效工作。\n加分项：\n1.有微服务架构设计和开发经验；\n2.对Go语言的并发模型有深入理解；\n3.参与过大型开源项目，有贡献代码的经历；\n4.有逆向、Python爬虫的经历 ；\n5.有前端开发经历；\n6.有博客或者写笔记的习惯；\n\n工作职责：\n1.参与产品的后端服务设计、开发和维护，确保代码质量和系统稳定性；\n2.与团队成员协作，共同解决技术难题，推动技术方案的落地实施；\n3.关注和研究新技术，不断优化改进现有系统的性能和可维护性；\n4.编写技术文档，为团队成员提供技术支持和指导。\n\n我们提供：\n试用期按转正工资的100%发放；\n不打卡，弹性工作；\n全额缴纳五险一金;\n竞争力的薪酬和福利；\n宽敞舒适的工作环境；\n个人成长和职业发展的广阔空间；\n富有挑战性的项目和技术问题。\n如果你热爱编程，渴望技术创新，希望在一个充满挑战和机会的环境中成长，欢迎加入我们的团队！",
+      "encryptAddressId": "0e140f9a77f9f48a1nVy2tq_FlRUwoy2Vf2d",
+      "address": "深圳福田区金润大厦1007",
+      "longitude": 114.024655,
+      "latitude": 22.535005,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c87fe9cc63d1b42f965cda020d8ef514",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d615f6fd1fdf3267b6d3a29c3bc372cb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Java",
+        "MySQL",
+        "Redis",
+        "Spring",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孔先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "深圳超频链接网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0ef6610649e8341e1Xx-0ty5E1Q~",
+      "brandName": "深圳超频链接网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728287961313,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳超频链接网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

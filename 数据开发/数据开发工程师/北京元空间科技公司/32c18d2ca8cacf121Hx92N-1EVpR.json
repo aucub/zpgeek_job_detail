@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k901IY02JqoKn-W1ponJPcMZY6wVQY8UswexANv3zqXPC6SALTmqM2P_OPie0mlUV9UteI-Q5EcU0it4sCIn_W8GXEVbBjLqPYerud7TX8SNRl8Lbdh5vrOOM-IOJcW2l_xbntbyZNxnCrI~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "32c18d2ca8cacf121Hx92N-1EVpR",
+      "encryptUserId": "959856390380fc610XB73tm_F1FQ",
+      "invalidStatus": false,
+      "jobName": "数据开发工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、对公司各个系统数据进行梳理，排查，建立统一数据字典；\n2、制定数据标准，数据开发规范标准，推广并监督实施；\n3、参与各个系统的数据架构设计，提出合理建议；\n4、搭建公司统一数据平台，为上层中台服务和相关报表系统提供底层数据支撑；\n5、探索新的数据使用场景，使数据转换为商业价值。\n岗位要求\n1、本科及以上学历，计算机相关专业；\n2、具有优秀的编码能力，至少掌握一种编程语言：Java/Python/Scala 以及脚本语言 Shell。\n熟练使用 SQL,HQL;\n3、掌握主流关系型数据和非关系型数据库的使用，Postgresql/Oracle，熟悉常用函数和存储\n过程开发。\n4、熟悉 Hadoop 技术平台的生态圈， Hdfs、Yarn、Hbase、Hive、Sqoop 等；\n5、熟悉分布式计算框架 Spark；流式计算，实时数据处理架构；\n6、熟练使用 ETL 工具和其他数据同步工具，Kettle 等；\n7、熟悉基于 hadoop 生态搭建数据仓库实施步骤；\n8、掌握数据建模理论并有相关实施经验；\n9、需要金融保险互联网行业经验；",
+      "encryptAddressId": "0f47cc6f29a354ac1nZz3dW1F1tZyoW5Uvme",
+      "address": "深圳福田区中国太平金融大厦803",
+      "longitude": 114.055494,
+      "latitude": 22.542092,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfd32f070b264d319f646f150b4bb9fd6b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bf90ea2a3dc60beafcac84348d1e2318166bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Scala",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "谢先生",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Ew~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "北京元空间科技公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "fb9eaa2fee98a12f1HJ62t65EVM~",
+      "brandName": "北京元空间科技公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728157835744,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京元空间科技公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

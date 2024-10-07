@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "zNg8OUGWNCal7-e1WhMSs2VR2DFo8L-W92HffQ8jz2u3H6rU09U9t7pI7WdFB8RHJF7YjJ6t1HK_sKPRhY5aXSMRKmzBoQ3aUZu553OH07KfgzKzT7vrxolHNJbiFnvwceDF7Uf8c1L5fQ~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "43a9c81054560d1c1XJ83Ni5GVFR",
+      "encryptUserId": "138382631b63eae50nR439y1EFZZ",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师(双休+五险一金)",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、熟悉Windows，Linux操作系统和Java相关环境安装，应用服务器安装；\n2、参与平台架构设计，相关业务需求评审，需求迭代开发；\n2、根据开发规范编写接口文档，并进行单元测试；\n4、按照工作计划和进度完成系统模块的开发任务,保证开发的质量；\n5、有产品意识，能从技术侧输出观点，并关注产品效果；\n6、具备良好的沟通协调和解决问题能力；\n\n任职要求：\n1、计算机相关专业本科学历，2~3年相关开发经验，有mes或者wms开发的经验优先；\n2、熟悉JAVA语言，了解JVM工作机制；\n3、熟悉Spring开发框架，包括spring boot/spring cloud；\n4、掌握MyBatis、MyBatis Plus等常用开源框架；\n5、熟悉MySQL数据库，熟练编写常用SQL语句；\n6、熟悉Git版本管理、Devops相关流程和常用工具；\n7、热爱开发工作，主动性强，勇于面对困难和接受挑战；",
+      "encryptAddressId": "85e2a8eb5ab03fb61HF_2di9E1s~",
+      "address": "广州黄埔区中能科技园A1座3层",
+      "longitude": 113.427416,
+      "latitude": 23.167565,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7a1cc0b1b69b9bf2d3af325cf9614731",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a469e72cc9731579e3e7a6deec33c2ef",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MES开发经验",
+        "Java",
+        "供应链",
+        "SpringCloud",
+        "MyBatis",
+        "SQL Server",
+        "WMS\\MES\\ERP\\SRM",
+        "SRM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "助理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "玛斯特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "68b2afc8a726cdda0nVz3t20GQ~~",
+      "brandName": "玛斯特",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220815/7b5b554d84f9729c340f175cd9897ce6b7ba83b4b2a2ba003b2961eb7b0d22e8fe61f18f5eeee96b.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "广东玛斯特智能系统有限公司（简称：MSTE® ）成立于2007年，总部位于广州科学城，并在佛山、中山、江门、湖南湘潭设立分子公司。MSTE® 在企业信息化、数字化、智能化具有丰富的实战经验，通过不断总结与探索，MSTE®创新性地提出了“1个MOM底座+3个平台+N级场景”的企业数字化转型“新”模式，以MASTER MOM平台为核心，通过三个关键平台（MASTER 工业aPaaS平台、MASTER 数据平台、MASTER 业务平台）构建N个应用场景，以“小场景、快交付、微转型”的创新转型策略助力企业实现数字化转型。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "股票期权",
+        "加班补助",
+        "带薪年假",
+        "生日福利",
+        "零食下午茶",
+        "节日福利",
+        "交通补助",
+        "员工旅游"
+      ],
+      "activeTime": 1727425473000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "玛斯特",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

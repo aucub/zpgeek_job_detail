@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "bAKxELUdAQsX8-l1YPCVR3JfV_pG8vCuaCZa7akqjzAKYDrcDUXEoPUgwAZO5tRnNTG3nOYj6yDdxxdud7Ql46vjvbkZ7vDgpwk3Cwscz9l5ct9HzjY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "16bb4ef8c2cc225d1XV9396_F1BS",
+      "encryptUserId": "1daf492b2ab1bd433nJ_39W-ElU~",
+      "invalidStatus": false,
+      "jobName": "Python爬虫工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101120100,
+      "locationName": "济南",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "职位职责：\n1.负责公司大规模数据采集爬虫系统的方案设计与开发；\n2. 参与爬虫与前后台交互的方案，设计与开发；\n3. 参与反爬虫策略和防屏规则（解决封帐号，封IP，验证码，混淆密码，算法还原）等技术研发；\n\n任职要求：\n1.精通python及第三方开发包，对python底层优化有一定的了解；\n2. 具备爬虫相关开发经验，精通Scrapy框架，深入了解scrapy底层；\n3. 精通python web .，具备互联网产品项目开发经验；\n4. 熟悉常见的数据库，如Myspl,mongdb,redis 等具备一定的数据库优化能力;\n5. 能独立解决开发过程中遇到的各种问题，有扎实的编程能力;\n6. 熟悉使用Html/css/js 等前端开发技术，熟悉WEB 开发常见的安全问题\n7. 具备良好的学习能力，对技术有较强钻研能力，善于沟通和表达，有良好的团队合作意识；\n8. 熟悉软件开发的流程，掌握常见的软件开发管理工具；\n9. 计算机、电子、信息等相关专业；",
+      "encryptAddressId": "cd6fb137eb1ca7ed0XV-39m7FVBQwIi6WPI~",
+      "address": "济南历城区金智源207室",
+      "longitude": 117.137419,
+      "latitude": 36.671649,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230407/48ba41acc9cef1bf4f20ccdb6474ca2dc6eb2c809ea2ad446bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230606/48ba41acc9cef1bf2708dbd5b9dd83d04378891bf4f511506bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "网络爬虫技术",
+        "Scrapy",
+        "NoSQL",
+        "MySQL",
+        "分布式技术",
+        "Redis",
+        "MongoDB"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "行政部",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "世纪赛孚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "541d1ffc251713321nd_3t-9EFE~",
+      "brandName": "世纪赛孚",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "山东世纪赛孚信息科技有限公司是一家致力于网络与信息安全领域技术研究、产品研发和技术服务的高新技术企业，为政法部门提供信息安全、行业大数据应用产品和解决方案的服务商，注册资金1000万元，位于济南市留学生创业园，公司始终坚持“客户需求牵引、技术创新驱动”的思路，坚持\"质量、用户至上、以质兴业、以优取胜\"的经营宗旨，不断将良好产品贡献社会，与社会各界优势互补、同创辉煌!公司为每个人都提供了一个很好的成长机会，不错的岗位难得的锻炼机遇，付出和收获成正比的工资体系，我们需要是正能量，对客户负责，以客户为中心的态度来加入我们。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "团建聚餐",
+        "节日福利"
+      ],
+      "activeTime": 1727682999381,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "世纪赛孚",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

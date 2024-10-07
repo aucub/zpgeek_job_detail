@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jLo6Gcx4691H0-a1xzIK1eDlw4DClol-4zDI8r-B58ps8s1tHQVRcMa_OMpuZu2RsXvoPTfJGzaYVwb-9yG5JBB0KbMoUy3SvWoDiuoRn8mChml5_CMZycVq2FRSDjv3X5SoguV_JS8eJ7A~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4d063cc793e13f61Hx529q6E1dQ",
+      "encryptUserId": "9a599581ee6f2e150nJ83N68FltY",
+      "invalidStatus": false,
+      "jobName": "java开发助理",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1、参与系统需求分析，系统设计和数据库设计等工作；\n2、根据需求，独立完成模块的代码开发，测试，以及相关技术文档的编写；\n3、改善、维护和优化产品的质量、性能、提升用户使用经验；\n\n二、任职要求：\n1、计算机及相关专业，1年以上Java开发经验；\n2、Java基础扎实，编码规范，熟悉常用的设计模式；\n3、精通SpringMVC、SpringBoot、MyBatis等框架技术；\n4、良好个人学习能力、沟通能力和开发能力, 能承受一定的工作压力；\n5、具备redis、MQ相关的开发经验；\n6、熟悉MySQL、PGSQL 、Redis 、MONGODB、ES等主流数据库；\n7、熟悉Windows、Linux 等主流操作系统；\n8、熟悉VUE优先考虑",
+      "encryptAddressId": "49c50d90e632b9f91HN52ti8GVtVx4y9UfM~",
+      "address": "苏州苏州工业园区星合广场2座1501A",
+      "longitude": 120.713657,
+      "latitude": 31.323289,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf7c0ff5d6868c89a9ae4970de0e8192366bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230628/48ba41acc9cef1bfd987a87661b33541e59ff503294d18dc6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "C++",
+        "不接受居家办公",
+        "PostgreSQL",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宦女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "锐艾科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3bfa8e7f6fd4c9e11Xd90tu7F1s~",
+      "brandName": "锐艾科",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "Reactor Consulting锐艾科人才咨询公司总部位于上海市静安区苏河湾中心，在美国洛杉矶、江苏省苏州市和浙江省宁波市设立项目办事处，是国内领先的海外高层次人才智库和精细化管理咨询公司。以身在海外的中国科学家全量数据为中心，聚焦全球新兴科技要素，为国内重大科研载体、科技类企业、政府招商部门和投资机构提供人才引进和智库解决方案。",
+      "labels": [
+        "交通补助",
+        "生日福利",
+        "节日福利",
+        "住房补贴",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1727684555000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "锐艾科",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

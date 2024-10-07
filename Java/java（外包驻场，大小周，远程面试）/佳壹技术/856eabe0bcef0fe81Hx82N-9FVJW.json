@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FVWGJheuOlbhV-j1wNRlnzgW1tZw1LG7qFj2wciX8vJWmr4dj1O5m0g3yA54reuguPOxcfMbFOjO7v1bewZpLOlP2dyooVfcBb7OhLfRTOnE3ncw_BmwxRTDOSP4coKrxKS5JLioIFFjEC0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "856eabe0bcef0fe81Hx82N-9FVJW",
+      "encryptUserId": "d146f252c3b3568a0nFz29i7FlFT",
+      "invalidStatus": false,
+      "jobName": "java（外包驻场，大小周，远程面试）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "远程面试，岗位是大小周,在南平驻场\n1、参与公司相关产品或项目的开发内容，保证系统易用性、扩展性、安\n全性\n2、根据要求维护现有项目，对现有项目的功能迭代、bug修正等\n3、根据项目具体要求，承担开发任务，按计划完成任务目标\n4、负责编制与项目相关的技术文档\n5、协助团队攻克系统解耦，核心模块的调优等技术难关\n6、协助测试人员完成软件系统及模块的测试\n\n7、协助现场人员完成部署实施等相关工作\n任职资格:\n1、计算机相关专业毕业，1年以上工作经验\n2、熟悉主流web应用相关的框架，熟练使用Spring Boot、Spring Cloud\nDubbo、Mybatis等框架\n3.熟悉使用Vue、Ant Design、Element UI等前端框架,\n4.熟悉使用Redis、MongoDB、Nginx等中间件\n5.熟悉0racle、Mysql数据库应用开发、配置、维护及性能优化\n6熟悉Linux环境，熟悉常用Linux命令，能进行规范的系统运维工作\n7.熟练使用git或svn等版本管理工具\n8、对代码质量，性能调优有经验\n9、良好的解决问题和逻辑分析能力，思路清晰，有主见，思维捷，具",
+      "encryptAddressId": "095f51ff21a0515c1nZ93du_FlpYxI6-Uvmb",
+      "address": "深圳福田区深圳新一代产业园3栋14层",
+      "longitude": 114.061104,
+      "latitude": 22.573133,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5e72dd3fe0027d26da046e9d096a6c09",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a27496819555669375be171568b549d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "招聘经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "佳壹技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7cc5369a512252f51XN-3tW7FFY~",
+      "brandName": "佳壹技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100010,
+      "industryName": "分类信息",
+      "introduce": "",
+      "labels": [
+        "保底工资",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1727576192000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "佳壹技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KpkS9Yi4Bjk2c-O1wSxt1hF-zd2dEolFKU2kKghKmqiOvUTQwLQ4ca9yjkhRtl7ZSssrjaeoNnrV6BQNun7yS17pF44_NfNmdmrfaBhd9fDqdCFW6wNvmI-7_PUGH7l8Z6o4yLOgtqy3",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7250df34871515b41n1_39y4FVBW",
+      "encryptUserId": "117becac1e96527b1XFz3di6FFQ~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "1.Java开发语言,多线程.集合等基础知识扎实;\n2.掌握Java EE相关的主流开源框架,如 Spring, My Batis, Dubbo, spring cloud 等;\n3.熟练使用关系型数据库(如 MySQL)和 NoSql如Redis\n4.掌握rancher，KubeSphere,docker容器技术\n5.掌握使用Git版本管理工具\n6.掌握RocketMQ、Kafka,Zookeeper,eureka等中间件\n7.具备独立的问题排查能力者优先\n8.有微服务开发经验优先\n9.计算机或者软件工程相关专业优先",
+      "encryptAddressId": "1fcda725c5228e721nZ_3NW1FlRXwY27WP6Z",
+      "address": "深圳南山区远洋滨海大厦2栋406",
+      "longitude": 113.910364,
+      "latitude": 22.511317,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bf43f27bde0f2f927e9554ee475f922e466bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230609/48ba41acc9cef1bfc3297ac2e9deb0e8aede5a17b3f5e4bb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孙先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170727/0c19e119754592fb56ee9f49ea1cfdb81df47a777ac72caf40ea4c1536d_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "华城智慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51ed90384650eb7a33dy39m4GA~~",
+      "brandName": "华城智慧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "深圳华城智慧科技有限公司成立于2018年7月7日，注册资本500万元。公司主要业务为智慧交通系统开发，智慧城市CIM应用开发，软件系统及数据运维等。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1726732055000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "华城智慧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

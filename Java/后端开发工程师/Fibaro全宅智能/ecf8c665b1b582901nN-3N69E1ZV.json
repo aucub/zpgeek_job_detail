@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WKAhpUHT96vYi-E1KeuQjxTWjri26hRoBJU_g3DPBXB2mMBm6lifm4db0xsR-hCdtJrlXonlLeKUHuJQkaxga_J2q4nIOjlLAYobdDb7paDPQsxse0Mx16mLmD8RuaRTd87i7VpfBb4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ecf8c665b1b582901nN-3N69E1ZV",
+      "encryptUserId": "da05b1fce232fa061nV90t-4FFA~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1.主要负责物联网（智能家居）项目后端开发，并参与前端设计和优化，改善用户体验；\n2.系统的架构设计，编码实现、重构和优化；\n3.学习和研究物联网新技术以满足产品需求；\n\n任职要求：\n1.2年以上Java互联网开发经验；有物联网行业经验优先；\n2.熟悉Java B/S开发模式、Spring Boot对Spring MVC，Mybatis、Hibernate、Spring Cloud了解其原理和实现机制，实现分布式架构开发及设计；\n3.熟悉MySQL、Oracle等数据库，具有较好的数据库设计和SQL优化能力；\n4.熟悉主流的J2EE应用服务器配置，如Apache Tomcat、Nginx等；\n5.熟悉了解ExtJS、HTML/CSS、jQuery、Vue/React等主流前端技术；\n6.熟悉多线程编程，缓存、消息队列，及一些开源分布式中间件；\n7.能独立完成后台项目开发，具有一定的抗压能力\n\n候选人加分项：\n1.熟悉物联网协议(knx,modbus,zigbee,zwave,mqtt)\n2,识讲白话,看得懂英语文档",
+      "encryptAddressId": "d52c87a6c8e99e191nJ92tq-EFI~",
+      "address": "深圳龙华区龙光玖钻北丙区B座4303",
+      "longitude": 114.022322,
+      "latitude": 22.621531,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a2683625014afb35edd52d848634dbda",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/60b7ab34491f4a7c728c920cabac4d4d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "后端开发",
+        "java",
+        "物联网"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张社勤",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160528/c4a9abd82596a06c2e8e67869f46d0eb8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "Fibaro全宅智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4ea03498040173a41Xx43tm4",
+      "brandName": "Fibaro全宅智能",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170510/8ad5a800a58b6305af20342b1f177c1ef0902156b6b47a68f0047ea85099490b.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100018,
+      "industryName": "智能硬件",
+      "introduce": "www.zizauto.com",
+      "labels": [],
+      "activeTime": 1725711529257,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "Fibaro全宅智能",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

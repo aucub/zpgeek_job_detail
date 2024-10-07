@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6CLknYtu7ufsj-81a0zOmsk4ovq1Wsx80cx61-TOVhwNqTuXzKRTaz2gXZzW1KSWWi3jyOd85LhrTVqXNnP5zGYvYUr2xSNYk3ZxjJ-RTQy4EK9Q1liGRNp35T34FoYH8KMeQOiO_AjU2rA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2393261c25acb7151Hx73N-5GVdU",
+      "encryptUserId": "d4950885e74004e40nN82921FFJT",
+      "invalidStatus": false,
+      "jobName": "python开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、能够利用阿里云数据库，使用Python语言开发数据分析与预测\n2、编写数据分析与预测趋势、并提出对应建议的软件\n3、负责云上数据库的维护\n4、开发与展现层软件开发工程师对接的模块\n5、开发出将硬件监测数据上传至阿里云数据库，并利用这些数据在浏览器和智能手机上展现的应用程序。\n任职要求：\n1、Python编程基础：\n精通Python语言，熟悉其基本语法、数据类型、控制结构、错误处理机制等。\n熟练使用Python标准库和开发工具链，如os、sys、json、datetime等。\n能实现数据采集脚本、数据预处理、格式转换和上传逻辑。\n掌握相关Python以及其他可能用于特定协议的库（如:requests用于HTTP请求，socket编程用于低层网络通信）\n2、数据处理与分析：\n熟悉Pandas库的数据清洗、转换、合并、分组、统计分析等操作。\n能使用NumPy进行科学计算和数组操作。\n掌握Matplotlib和Seaborn等库进行数据可视化。\n3、数据库操作：\n熟悉SQL语言，能够编写复杂查询语句进行数据检索、更新与管理。\n理解关系型数据库原理，特别是针对阿里云RDS（Relational Database Service）如MySQL、PostgreSQL等的使用。\n掌握如何使用Python连接阿里云数据库，例如通过pymysql、psycopg2或者阿里云官方提供的Python SDK连接RDS服务。\n设计合理的数据库模型以存储硬件监测数据，保证数据的有效组织和高效查询\n4、大数据处理：\n如果涉及大数据分析，还需要了解如何使用阿里云MaxCompute（原ODPS）、DataWorks等大数据处理服务，并结合Python SDK进行操作。\n5、机器学习与预测模型：\n熟练运用Scikit-Learn、TensorFlow、Keras等Python库进行机器学习算法开发和训练。\n能够根据业务需求构建预测模型，包括回归分析、时间序列预测、分类算法等。\n6、阿里云服务集成：\n熟悉阿里云的产品和服务，尤其是云数据库（如RDS）的使用和管理，知道如何创建数据库实例、设置权限、设计表结构、执行CRUD等操作。\n熟悉阿里云的API Gateway、STS、RAM等服务。\n理解阿里云的服务架构，比如如何通过SDK进行身份验证、获取访问凭证以调用云数据库接口。\n设置合理监控报警，利用阿里云监控服务（如云监控、日志服务SLS）进行实时监控与异常检测。\n熟悉云计算环境下的运维工作，包括但不限于资源调度、性能优化、故障排查\n理解OAuth、JWT等认证机制，保障数据传输的安全性。\n熟悉阿里云的鉴权机制，如STS临时授权、RAM角色权限管理。\n7、云原生与DevOps能力：\n对Docker、Kubernetes等容器技术有一定了解，以便部署在云环境中。\n熟悉CI/CD流程，能够在阿里云上进行持续集成和持续部署。\n可能需要使用阿里云的OSS（对象存储服务）保存原始数据或日志文件，或使用RocketMQ、MQTT等消息服务进行实时数据推送。\n8、后端开发：\n了解后端开发的基础知识，包括RESTful API的设计与实现、Web服务器的搭建与配置（例：Flask、Django等Python Web框架）。\n熟悉云服务端的开发模式，如函数计算（Function Compute）、ECS实例上的应用部署。\n9、硬件接口协议与数据采集：\n理解目标硬件设备提供的数据接口协议（如Modbus、MQTT、RESTful API等）。\n熟悉嵌入式系统的数据传输方式，能够编写或配置脚本并从硬件设备中收集数据。\n\n10、安全性与合规性：\n理解数据安全相关的最佳实践，确保在阿里云上的数据操作符合相关法律法规要求。\n知道如何配置和管理阿里云数据库的安全策略，如备份恢复、权限管理等。\n11、项目管理与协作：\n良好的版本控制意识，熟练使用Git进行版本管理。\n能够在云开发平台上与其他团队成员协同开发。\n\n银润康（深圳）科技有限公司简介\n\n1、本公司成立于2024年2月21日，处于初创期。\n2、未来主要业务与产品是聚焦大数据分析、挖掘方面的模型与具体应用软件开发，并运营。运行环境是国内公有云。\n3、成立了以计算机教授级高级工程师为主要技术人员的团队。\n4、未来办公地点在深圳市北站附近写字楼。",
+      "encryptAddressId": "61b4091ce355db5c0nF80tW4E1pYwoS_V_8~",
+      "address": "深圳龙华区龙军工业区龙军工业区13栋3楼",
+      "longitude": 114.001923,
+      "latitude": 22.637738,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf5e2d6180b7c07528391b2f0a70e13eea6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf1adf8fb60518c4fb2c89690bd52297f76bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "分布式经验",
+        "Django",
+        "MySQL",
+        "机器学习经验",
+        "Linux开发/部署经验",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240830/607f1f3d68754fd0f37ddcef79b5b9ed4856f54289bb9aade4d1519db987cbe688ab765cdad1b00_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "银润康",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a21fa45fcb2dd6271HZz3Ni9EFU~",
+      "brandName": "银润康",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "电子产品销售；信息技术咨询服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；国内贸易代理。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动），许可经营项目是：货物进出口；技术进出口。（依法须经批准的项目，经相关部门批准后方可开展经营活动，具体经营项目以相关部门批准文件或许可证件为准） 收起",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1728269449868,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "银润康",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

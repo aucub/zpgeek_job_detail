@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "S0wPPXWLKI8B7-S1BBL7tldrd4RKDOSrXo9-vp9BXGy30yaAJP3YbCnOR57oa9IXw6WBCk_lgkX3nEiFIfZn94Ysr5nelTxX6KsBBH-XNd1rxFSfKg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "25e94317f5b89e101nZ_3N29GVdV",
+      "encryptUserId": "9ce2ea054b1c23bb0HVz3N-0Elc~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101250100,
+      "locationName": "长沙",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 有实际的Java开发经验、能独立开发项目，2年以上开发工作经验；熟悉项目开发中的流程及用户、角色、权限等后台基础功能；\n2. 熟练使用J2EE主流架构 Spring Boot、Spring Cloud、MyBatis等；\n3. 熟练使用 SQL 并能熟悉使用 MySQL、PostgreSQL关系型数据库等 ；\n4. 熟练使用Redis 、 Nosql 数据库 ；\n5. 了解Elasticsearch 和 MongoDB ；\n6 了解常用的数据结构与算法、正则表达式及原理；\n7. 了解WebSocket等网络协议及编程、了解消息队列及应用；\n8. 会常见的java性能优化、内存优化、调优、网络编程、多线程开发等；\n9. 良好的编程风格、编程规范及相关技术文档记录编写习惯；善于查阅资料解决工作中的难点及问题点；\n10. 善于探索新技术、新知识、将之应用于工作项目及产品中；\n11. 富有责任心，善于表述、乐于沟通，勤于分享、勇于学习、让团队不断提升；\n12. 良好的个人职业素养与团队合作精神、遵守规章制度；\n13. 有医疗行业业务系统、教育、政企系统开经验优先。\n14. 具有独立开发经验。计算机相关专业、大专本科以上学历；欢迎优秀的你加盟！~",
+      "encryptAddressId": "adefee2fb6b931e233J90tW-FlU~",
+      "address": "长沙岳麓区保利·麓谷林语I区3栋",
+      "longitude": 112.87359,
+      "latitude": 28.221498,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b7fcc202b875b0117f910eb86a8cc148",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eb9e131d5fe3c6d5376df6ee2956a40b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "微服务架构",
+        "SpringCloud",
+        "SpringBoot",
+        "后端开发",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "宁先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "近半年活跃",
+      "bossOnline": false,
+      "brandName": "湖南非凡联创科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "de05650311a9f8820nxz29S9EA~~",
+      "brandName": "湖南非凡联创科技...",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725673153782,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "湖南非凡联创科技...",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
