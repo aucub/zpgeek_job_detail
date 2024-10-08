@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "851bvO8IYZxbY-I1Kr8CEDwqnfq-vYW1LnlMmZ10dwUImwfSqFm1QTtzoJmaJq25m3T3RK5f-Lb9XKC907MRHxYpQ8r7jt8rUvacMePThXYnLsZh",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "95bbeecec21048981nFz3Ny6GFpR",
+      "encryptUserId": "8fcc4c46089d79720XJ92dq9Eg~~",
+      "invalidStatus": false,
+      "jobName": "爬虫清洗工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1. 编写数据采集，清洗的脚本;\n\n2. 对接数据库开发(python)，包括数据库中间件，命令行工具等;\n\n3. 参与日常的采集-＞清洗-＞衍生计算/算法交付等一系列工作;\n\n4. 参与维护现有的采集脚本, 清洗模块, 中间件等代码;\n\n\n\n基本要求:\n\n1. 本科及以上学历;\n\n2. 计算机、信息管理及相关专业;\n\n3. 有金融/互联网数据行业相关的项目经验优先;\n\n4. 985, 211院校优先;\n\n5.1~2年相关工作经验者优先\n\n\n\n技术栈要求:\n\n1. 熟练使用python及数据处理相关的库(sqlalchemy, numpy, pandas等);\n\n2. 熟练使用MySQL(或至少使用过其他关系型数据库, 如Oracle, PostgreSQL等)；熟悉CRUD的sql语句，对范式设计、不同mysql engine的差异有基本了解;\n\n3. 有基本的Linux开发，部署经验;\n\n4. 有git使用经验;",
+      "encryptAddressId": "c8351a04c925ac7c0HR53di5Elo~",
+      "address": "上海闵行区合川大厦1号楼7E",
+      "longitude": 121.384999,
+      "latitude": 31.167231,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0e86c8cbdbbeff9f15f3ed8496d1f242",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1b19771e77f2313e60c13907df598ff2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Linux",
+        "PostgreSQL",
+        "MySQL",
+        "Oracle",
+        "GIT"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事行政经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190811/4eb1645e6dac36f046998a6ae01243caafb0f6b6865f55c52ca5f17b426_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "琻瑢信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "558e9a57b8ed7b281XF43tq7GQ~~",
+      "brandName": "琻瑢信息",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/9c5aa8936e149ca1b8078076b36181684a6ffb20a61320b25a0590dc907d0c4b.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "云通数科由一群具有证券投资、金融统计以及大数据技术等跨界背景的专业人士共同 创建，创始团队成员有多位中国人民大学、复旦大学、上海大学的教授，整体拥有较强的学术科研背景。公司专注于基金数据挖掘及基金评价研究，是目前国内少有的独立三方基金研究机构。公司核心业务体系构架包括核心数据、系统工具和研究服务三 大板块。公司目前已获得数千万级别的Pre-A轮融资。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+      ],
+      "activeTime": 1727068971000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "琻瑢信息",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

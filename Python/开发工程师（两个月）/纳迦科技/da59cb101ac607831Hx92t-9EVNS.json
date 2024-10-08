@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RYHZvJEozxnmU-91ujzlbQ-2Lk-20yGQavZA9RnVoUjg3Rusy59-1VDQpevDJz6q9VFqpX7YXEOun4S0v0WB2ZRrFzBoAgSAQq3BLy8pdKJJNi2KDeeeiemX25yb2oiTbYi2L6tU28JxNg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "da59cb101ac607831Hx92t-9EVNS",
+      "encryptUserId": "586f6fc226d4b8b60nV53dq8FFRW",
+      "invalidStatus": false,
+      "jobName": "开发工程师（两个月）",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作周期：入场之日起至2024-11-15（两个月）\n学历要求：全日制本科及以上学历\n工作内容：\n1. 设计、开发和维护高质量的 Web 应用程序。\n 2. 实现高效、可扩展的后端服务。 \n3. 优化应用程序性能以提高用户体验。 \n4. 协同其他团队成员完成项目目标。\n岗位其他要求：精通 Python 编程语言。 熟练掌握 Django 和 Flask 等 Web 开发框架。 熟悉 Django REST framework 框架，可直接上手。 熟悉 MySQL、Redis 和 Elasticsearch 等主流数据库的设计和优化。 具备独立部署和调优的经验。 了解 Docker 并能进行简单的容器化部署。 熟悉分布式系统和消息队列 的原理与实践（加分项）。",
+      "encryptAddressId": "f86cdb860f79d5070HR82N-9GFs~",
+      "address": "杭州滨江区联慧科创中心6楼",
+      "longitude": 120.231075,
+      "latitude": 30.209885,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/cf044d0a0b23a70e17e15c47596d1467",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d46403c66f9e84359de8ff872ec50ac2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Django",
+        "MySQL",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "商务经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "纳迦科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "764321f1dae2f41903By3961Eg~~",
+      "brandName": "纳迦科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "河南纳迦科技有限公司，成立于2015年，致力于信息安全行业，为客户提供整体的信息安全解决方案，通过相关的安全产品和安全服务解决客户的网络安全和信息安全问题，以专业能力为基础，客户满意为导向，在网络安全行业贡献一份力量。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "全勤奖",
+        "员工旅游"
+      ],
+      "activeTime": 1728377272394,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "纳迦科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

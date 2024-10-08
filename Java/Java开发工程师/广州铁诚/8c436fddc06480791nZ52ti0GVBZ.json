@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "X4Pn2XgLZc-4x-D135dwx2j3BcfBCEmC3sRwUXMasr7xUK8YFt1HxRrSq5f_6cOzbsOzyGp2DkTaFX6Y6gx7mZNZbSlNOeDUVL9qsjjWRhrWyypAfys~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8c436fddc06480791nZ52ti0GVBZ",
+      "encryptUserId": "f19612b773a54bd11nVz3Nq4FFVS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "一、工作范围\n1、严格遵守公司的开发流程。\n2、根据业务需求，独立完成模块前、后端的开发。\n3、需求分析、测试报告、用户手册等文档的编写工作。\n二、任职资格\n1、计算机相关专业，本科及以上学历，工作经验不限。\n2、熟练掌握JAVA编程及相关专业知识， 熟练MYSQL，SQL SERVER，ORACLE等数据库应用；3、熟悉VUE、sping boot、git等技术。\n4、具备一定的文档编写能力。\n5、具备一定的学习能力。\n6、工作积极主动，责任心强。\n三、其它\n1、双休，假期按照国家规定。\n2、办理五险一金。\n3、定期涨薪。\n4、13薪。",
+      "encryptAddressId": "4c5966d7e479bd641nB82Ni8E1I~",
+      "address": "广州白云区利都商务中心A508",
+      "longitude": 113.301363,
+      "latitude": 23.218904,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/4a32d9c940dd63cb2feccf72bb3bd0e9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e64ea00b19d7efb5b4ed1fa9bdec38f8",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Oracle",
+        "SpringBoot",
+        "PostgreSQL",
+        "Linux",
+        "软件工程师",
+        "JAVA",
+        "java工程师",
+        "计算机软件"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "广州铁诚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c1e322cf63c4772c3nJ73Nm0GQ~~",
+      "brandName": "广州铁诚",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725818750072,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州铁诚",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

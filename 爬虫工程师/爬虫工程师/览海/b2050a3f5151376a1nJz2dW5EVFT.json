@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kQqNMP-fOHih_-61tWV-iGjxiU5RnQWqTzDFYJJF7AAKdfQ-rwm_-Rj1_7EwWOOJNxJcVTTSO0FjEH4DSIUgfANGaH3sRyDLJIsBB8XAxrE23DhNekBWORX32V6DOzl5MJo9bbdfOHkAog~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b2050a3f5151376a1nJz2dW5EVFT",
+      "encryptUserId": "935a4a8c89650e330XB439S8FlY~",
+      "invalidStatus": false,
+      "jobName": "爬虫工程师",
+      "position": 100514,
+      "positionName": "爬虫工程师",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "职位详情：\n（1）负责设计和开发分布式网络爬虫系统，搭建数据采集平台，通过对数据的抓取、解析、调度、存储等模块的拆分与优化，构建和完善统一的抓取服务平台\n（2）负责网络信息和APP数据抽取、清晰、消重等工作，提升平台的抓取效率；持续优化平台，以便满足各种爬取业务需求\n（3）设计爬虫策略和防屏蔽规则，提升网页抓取的效率和质量，实时监控爬虫的进度和警报反馈；\n（4）把握网络爬虫核心技术研究方向，研究优化算法，提升爬虫系统的稳定性、可扩展性\n（5）完成上级领导临时交办的其他工作\n\n任职资格：\n（1）计算机及相关专业，本科及以上学历，有开发工作经验优先\n（2）熟练使用Python进行爬虫开发\n（3）熟悉常用数据库，包括MySQL、Redis、MongoDB等\n（4）熟悉各类抓包工具，如Mitmproxy、Fiddler等\n（5）熟练使用Linux系统\n（6）有手机群控、Android逆向经验者优先\n（7）有应对 IP 封禁、参数加密、验证码、人机检测、账号封禁等反爬措施经验者优先\n（8）有快速学习能力，有高度的责任心，工作积极主动，有良好的团队协作能力\n（9）喜欢钻研技术，善于学习和运用新知识，具备良好的分析能力和问题处理能力",
+      "encryptAddressId": "4fb7d460365a8c411ndz3NW8EVU~",
+      "address": "杭州西湖区杭机大厦10层",
+      "longitude": 120.130413,
+      "latitude": 30.274005,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8dcdce5e2a0110f5aa4b694ed07f4b3d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9f560dd8e2d0f56c69b14ebcacd89dbf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "SQL",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "网络爬虫技术",
+        "分布式技术"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许女士",
+      "title": "人事主管 HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "览海",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "361b7e468d0615831nx40t-_FFI~",
+      "brandName": "览海",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211126/7b5b554d84f9729c96621b72a5f0607b996a36adb1787acef8a9eb4483b71fe382e45b4cd8132f7c.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司的团队成员非常年轻，团队两位创始人系清华大学毕业、清华大学特等奖学金获得者，资深人工智能专家，发展状况良好。",
+      "labels": [
+        "五险一金",
+        "带薪年假"
+      ],
+      "activeTime": 1725814818716,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "览海",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

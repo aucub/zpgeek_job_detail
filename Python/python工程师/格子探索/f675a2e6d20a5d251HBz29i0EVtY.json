@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hU_ge7bepxLlc-w1O9werQGkwqEXpJeifvB_OF2TzLcFKLBDcfNBFPboJDxojER7iGKMxQuXqMGkOg-aCLztefyEao3fUeRHbEYdF-cjdpGybB8r-EIjXTtmp2D9Eo7f3nnt0Obj4JzVtA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f675a2e6d20a5d251HBz29i0EVtY",
+      "encryptUserId": "70da2cb479f08c6a3n1539q7GVY~",
+      "invalidStatus": false,
+      "jobName": "python工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101120900,
+      "locationName": "临沂",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-9K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述:\n1、基于odoo框架和业务需求，负责功能模块的设计、开发与维护。\n2、完成单元、功能测试，保证产品及项目质量。\n招聘条件:\n1、能熟练运用python，了解Javascript，了解MVC开发模式。\n2、用python做过后端项目，用过django、flask、odoo等后端框架。\n3、熟悉sql增删查改语句，用过orm进行增删查改。了解 mysql等关系型数据库。\n4、了解内存缓存MemoryCache/redis等。\n5、熟悉python字符串解析，接口调用等操作。了解beaut ifulsoup,xpath,re,pyqurey等常用字符串处理库,以及reque sts,scrapy等http访问库。\n6、熟悉python对表格等数据的读写处理，用过xlrd,xlwd,P andas等库。\n7、用过svn,git等版本管理工具，提交过原创项目到githu b,gitee,gitlab等托管平台。8、写过python相关原创博客(c sdn，博客园，知乎，掘金，个人博客等)。\n9、熟练使用相关的ide进行开发,如pycharm, vscode，Su blimeText3等。\n10、本科及以上学历，软件相关专业。\n\n福利待遇：\n1.工作时间：早8:30，晚18:00；\n2.休班制度：大小周，法定国假日正常休息；\n3.福利待遇：缴纳五险、交通补助、全勤奖、餐补、年假，中秋、春节有丰厚的过节福利。",
+      "encryptAddressId": "3a132227ff85a80833xz3Nu-FVdUyoi7Vf0~",
+      "address": "临沂兰山区OCC奥德国际B栋10层1007",
+      "longitude": 118.350678,
+      "latitude": 35.103791,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfc83712a73613642e828af6b5d19f810a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfddac8fe8703f312ee25bf59b97d9c09f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "格子探索",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a7be8e61e1f367d41Hd40tW6E1A~",
+      "brandName": "格子探索",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728376623024,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "格子探索",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

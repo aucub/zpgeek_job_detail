@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6d4pBbCIahonJ-F1HrqFGxBmhLPI6InBcREaLKDNo6vf6D60EytRy7vvzzVOrXfjHQEj1uhk80r5ZkDTEn4KUNknnmmcO2Fi9zsnh2JQXzHJvWU9K4KZFJADJuM559lHFR47y13_T6f-8Q~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5d63b5b6498c40d41Hxy2Nq0E1pU",
+      "encryptUserId": "b6844041d58f06ce1nZ70929FVM~",
+      "invalidStatus": false,
+      "jobName": "后端开发（会前端优先）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、后端岗位要求如下：\n\n1、本科及以上学历，2年以上Java开发经验;\n\n2、Java基础扎实，理解io、多线程、集合等基础框架；\n\n3、熟悉web开发技术，熟悉使用SpringCloud、springboot 开发，熟悉前后端分离，前后端协同开发；\n\n4、掌握nacos、redis、mq消息队列开发和配置；\n\n5、至少熟悉一种数据库（MySQL、Oracle、ES等），及熟练掌握git版本管理工具；\n\n6、有银行营销活动开发经验的优先；\n\n7、有银行项目经验，对渠道理财有一定开发经验的优先，有VUE开发经验的优先；\n二、其他要求：\n\n         1、必须与候选人进行充分沟通，确保人员有强烈意愿进入我行从事外包；\n\n         2、相关信息材料（如学历证明、身份信息等）进行充分鉴定甄别，确保提供的候选人信息真实；\n\n         3、告知我行对人员的征信要求，入场时需要提供征信报告；\n\n         4、工作地点：苏州市工业园区国泰新金融大厦4楼；\n\n         5、每周二、周四需要补工时，每次不少于3小时，每月不少于24小时；",
+      "encryptAddressId": "946b05a9fe7a50961nd739S0GVVTxoq7Wfmb",
+      "address": "苏州吴中区国泰新金融大厦4楼",
+      "longitude": 120.722501,
+      "latitude": 31.318117,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63f74bc3b7283694aa4e0094eee4bd1b",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b5f9953a7a7c4696ddd591f07ab787ad",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "分布式经验",
+        "银行",
+        "SpringCloud",
+        "MySQL",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "杨女士",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230522/607f1f3d68754fd01cc3316ef022f2cc9d96653992c75a1a314b16452177a2e28fdd9d8cede_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "信银智达",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f00364176d8134cd1nd-3dy-EVs~",
+      "brandName": "信银智达",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210622/0f166fc1589697b14cafff647c90dc5653b26a7e40813667e65565632dff5083.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京信银智达科技有限公司，成立于2011年，是一家专注于银行、保险、电信、政府等多领域IT建设的公司，可以为客户提供业务咨询、产品实施、技术服务、产品运营推广等全方位服务，致力于与客户一起实现创新性发展。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利",
+        "通勤有班车"
+      ],
+      "activeTime": 1727791281928,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "信银智达",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

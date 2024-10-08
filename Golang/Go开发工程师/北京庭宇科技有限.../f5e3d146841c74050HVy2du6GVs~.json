@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "u4aoIPn7a6r3A-K1pLliUiyTwE1dLqe3UZJ88wNaWi4OXGEN6BrjCWIrtIzIp15tQgT3ls5VUNhVh4O5ZSJlcIz6K4gC2q4Zh92hKiOdf63DWtnk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f5e3d146841c74050HVy2du6GVs~",
+      "encryptUserId": "f9e9b605c0c46f5a0nZ639i4GFE~",
+      "invalidStatus": false,
+      "jobName": "Go开发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责:\n1、负责服务器的部署、配置、维护、日志分析；\n2、负责自动化运维平台的开发搭建(监控服务器、互联网平台运行情况)；\n\n岗位要求:\n1、计算机及相关专业, 统招大专及以上学历\n2、具备较好的语言能力(Python或者Go语言)\n3、1年及以上Python开发经验或者1年及以上Go语言开发经验, 且有一定的研发落地能力\n4、熟悉Linux环境开发, 熟悉常用shell命令\n5、熟练掌握自动化部署和运维工具(ansible或者saltstack或者puppet使用经验)者优先\n6、熟练Docker的使用, 具有Swarm, Kubernetes等容器化开发运维经验者优先\n7、有云计算, 边缘计算领域知识和经验者优先\n8、熟悉Go语言者优先\n9、具备很强的快速学习能力，能自主探索研究前沿技术的能力",
+      "encryptAddressId": "0bba4361dd0c2c591Xx93tu5EFc~",
+      "address": "南京建邺区南京新城科技园1栋803",
+      "longitude": 118.739441,
+      "latitude": 31.992925,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/882d11cfb2e98530af0c3831dfe80806",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/079266ccd69926c8a08c6825397e3a89",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Go",
+        "Python",
+        "Shell",
+        "kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200709/d92112c6d7e6a5ea204bd2949f0ec668d11d213d2659e612c7d3619b268_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "北京庭宇科技有限...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5504d24809c180a50HF63Nu4Eg~~",
+      "brandName": "北京庭宇科技有限...",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200318/4570c5672384217bc724a5f783294f78d11d213d2659e612c7d3619b268d6b5f.png",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "庭宇科技创立于2019年，核心团队大都来自国内一线互联网公司（阿里、百度、腾讯、快手等），是一家专门从事边缘计算云服务的科技型企业，具备弹性融合分布式边缘计算网络自主核心技术，可为客户提供高性能、高可靠、低成本的计算、分发和存储服务。公司致力于成为国内领先、国际一流的边缘云服务提供商。目前已经在分发和计算领域的很多场景取得了较大成功，公司也完成了A轮亿元估值融资，正处在飞速发展的初期，急需各位有志之士的加入，共图大业，共创辉煌。\n公司网址：www.tingyutech.com",
+      "labels": [
+        "零食下午茶",
+        "节日福利",
+        "员工旅游",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "五险一金"
+      ],
+      "activeTime": 1725804302694,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京庭宇科技有限...",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

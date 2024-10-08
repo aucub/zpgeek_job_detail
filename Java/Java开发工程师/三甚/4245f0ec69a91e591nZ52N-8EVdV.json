@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oUTDCoomNCrNh-01XKzwzN5lwEgY70yIGA69BO0V5nxVM2C5PX2FnqVOSvfYZHixUNHShd2d6qAYm6cuJA7jQsLDjr0rAiwu19LSsRuJ8NR5pZ8zinlz",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4245f0ec69a91e591nZ52N-8EVdV",
+      "encryptUserId": "99d4c7b5f38d13c10nV80961EFdY",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、开发Java应用,配合前端工程师实现API逻辑,系统集成；\n2、根据开发进度和任务要求，在规定的时间内完成相应功能模块的设计、开发和测试工作；\n3、配合测试人员完成相关测试工作；\n\n岗位要求：\n1、计算机相关专业本科及以上学历；\n2、工作经验要求2年以上JAVA开发经验\n3、技术功底扎实，熟悉Java核心语法以及J2EE体系的技术应用架构及流行架构，熟练使Springboot, spring cloud \n4、精通ORACLE、SQLServer,postgresql 数据库，有大型系统构建经验；\n5、学习能力和创新能力强，具有团队合作精神，良好的语言表达和沟通能力；\n6、性格积极、稳重、细心、责任心强；",
+      "encryptAddressId": "7491e23372ea2f0b03R-3dS7FVQ~",
+      "address": "上海杨浦区互联宝地D1",
+      "longitude": 121.528798,
+      "latitude": 31.272856,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9a8c531ba4ef91715c8c9e8a267b1651",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/20231d54afe233fe48015c356a916b7a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SpringBoot",
+        "SQL Server",
+        "PostgreSQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "何先生",
+      "title": "高级项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "三甚",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c5c8a77fad4670db1ndy3Ny0GFM~",
+      "brandName": "三甚",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211126/7bf6f160950405e9ad5b210d12d45e0a05ed2949d60e0d1428a2b90b5ffd2c3e26460b6b2e01cac0.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100004,
+      "industryName": "广告营销",
+      "introduce": "公司成立于2020年。为适应用户习惯的根本变化，以及广告市场的决定性发展，依托于母公司强大的媒体开发资源，重组建立了专门的互联网深层技术力量——三甚SENSSEE广告传媒， 暨创造电商品牌设计，用户体验开发，新媒体开发应用三位一体的线上营销团队。",
+      "labels": [
+        "五险一金",
+        "带薪年假",
+        "员工旅游"
+      ],
+      "activeTime": 1725786274195,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "三甚",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

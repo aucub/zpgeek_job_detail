@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GJ8xTKAzaQbrZ-S1QqzGPtStdXLXyefbjLCBaY-x3avrK2vXyh_OxTjYyS3AaTtCeg4CKpAwK2iXewMJyorDWrY02ZzsUa_4YJu7W0JhwZYzcEcVH3EG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1885f1104ebeaa981HVy3d-4FFpV",
+      "encryptUserId": "e060ebe69401c0e10XZ-3Nm-F1JS",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100116,
+      "positionName": "Golang",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n负责依据项目需求收集客户需求，基于后端开发框架完成定制化软件的开发与交付。\n负责后端服务与其他业务系统的集成对接开发。\n负责处理和跟进在项目上遇到的后端服务问题和故障。\n\n任职要求：\n熟悉市场主流办公、云产品。\n对于Go语言职位：熟练掌握Go语言开发，了解Go语言并发模型和特性。\n对于Java职位：熟悉Java开发，掌握Java 8及以上版本的新特性。\n能够接受转语言比如TS\n熟练使用RESTful API设计和开发，了解gRPC等通信协议优先。\n熟练掌握至少一种主流的后端框架，如Go的Gin/Echo或Java的Spring Boot。\n熟悉HTTP协议、缓存机制、Session和Cookie等常见Web相关技术原理，能够快速排查解决服务端的兼容问题。\n熟悉Docker, Kubernetes等容器化和微服务部署技术。\n熟练掌握数据库操作，包括关系型数据库如MySQL、PostgreSQL，以及非关系型数据库如Redis、MongoDB等。\n熟悉Linux操作系统，能够在Linux环境下进行开发和部署。\n熟悉Maven/Gradle（Java）或Go Modules（Go）等依赖管理和项目构建工具。\n具有SOA或微服务项目经验，有独立承担项目经验者优先。\n熟悉单元测试，有JUnit（Java）或Go testing框架经验优先。\n具有良好的学习能力、沟通能力和团队合作意识。\n能承担工作压力，可以接受短期出差。",
+      "encryptAddressId": "8abf455f834d42a31nd53Nu7GVFZ",
+      "address": "武汉洪山区北辰光谷里5A栋",
+      "longitude": 114.415683,
+      "latitude": 30.480367,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9b2302035b2c2d7be9c5073ea75287b4",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e41721e3cc46b0c9ab3a34a48621a1be",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Docker",
+        "MySQL",
+        "Golang服务端开发经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "徐女士",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "启软科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4671ff76991139881HV42dq1GFs~",
+      "brandName": "启软科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725798489120,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "启软科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
