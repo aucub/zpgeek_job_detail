@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "cWYGNHPvfPuXj-t1SANty5zPoMkGLT3vcSKbHK1JlH0dpBtseocZ4BvdM1BmadTDsge3cS4AGFs3wDMpCB8joSnbwj6Xj-LB5811eYoskuFCs1i2l7bQ8gRYWdsd8cnLqhxiD3kjrCNUGFJe7jXTs3fFPd69b0sHdKABnrMFuN2KkFRrIA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d2e9e00300fd2ba01H163t21FFVR",
+      "encryptUserId": "c132e4c47f30fe8e0H170ty4Elc~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、系统设计与开发：\n负责Java应用程序的设计与开发，确保代码的高质量与高效率。\n参与系统架构设计和数据库设计，优化系统性能。\n\n二、代码维护：\n进行代码的维护和更新，修复bug，并进行功能增强。\n编写单元测试和集成测试，确保系统的稳定性。\n\n三、技术文档撰写：\n撰写和维护相关的技术文档，包括设计文档和用户手册。\n\n四、团队协作：\n与其他开发人员进行协作，了解业务需求并提供技术支持。\n参与项目评审和代码审查，提出建设性意见。\n\n任职要求\n教育背景：\n计算机科学、软件工程或相关专业的专科及以上学历。\n\n工作经验：\n2年以上Java开发经验。\n\n技能要求：\n精通Java编程语言，具备良好的面向对象编程思想。\n熟悉常见的开发框架（如Spring、Springboot、Mybatis等）。\n熟悉数据库技术（如MySQL）、SQL语言及大数据平台组件（如hdfs，yarn，zookeeper）。\n了解Python语言者优先。",
+      "encryptAddressId": "1f08ee140e680e811nd82NS8F1dTwI6_WfyY",
+      "address": "上海浦东新区绿谷2期浦东新区博城路与众冠路交叉路口",
+      "longitude": 121.497188,
+      "latitude": 31.187397,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230413/48ba41acc9cef1bfe70153293816f13981a5716a89e374aa6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230601/48ba41acc9cef1bfbf2ee20dbaa57dfbb8708d1a7917bef86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Spring",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "招聘专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191020/34755f428241f582285ada113ececcdd2dd0fa6312deb087356cc8c061c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "深圳市紫金支点",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c6fac0d8a2ee1d6d1XN62di0FlQ~",
+      "brandName": "深圳市紫金支点",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728462603849,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳市紫金支点",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

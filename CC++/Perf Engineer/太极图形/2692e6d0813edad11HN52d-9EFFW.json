@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "XOnScWUWcn_50-01he_dUYchcKDX1Dpe0BfyqjASUKhkoztWV29nTPM-1omOVLJglrmr0HHCgvmKNIx8_dWXtYX0q4TRDsA6D-09S5auk8tI8l-Ev-WeSbvQrNBQtU3IP8ZeG6_u02Wrdg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2692e6d0813edad11HN52d-9EFFW",
+      "encryptUserId": "143ab865eeb4dd7b1XR709i1F1o~",
+      "invalidStatus": false,
+      "jobName": "Perf Engineer",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "任职要求\n1. 熟悉 PyTorch 框架，熟悉系统性能的分析方法\n2. 对计算机体系结构有深入理解，能够根据性能分析结果针对性优化\n3. 熟练掌握Python和C++编程语言\n\n加分项\n1. 参与过云/端机器学习流水线性能优化项目，或者独立开发过高性能算子（例如FFT /Winograd Conv / GEMM / GEMV 等）\n2. 在SC / PPoPP / ATC / TPDS 等并行计算和体系结构会议发表过论文\n3. 有维护开源项目的经验",
+      "encryptAddressId": "fc6465643865e6b90X1y3NW0E1o~",
+      "address": "北京海淀区中关村创业大街11号楼6层",
+      "longitude": 116.306968,
+      "latitude": 39.983231,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9237912b0924e7abcf87fcdaa79b54e1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/07ed63a43932f3fe8c30e91f417c7fc5",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "嵌入式软件经验",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘hr",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "太极图形",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5f271dfe9e32c7551n1-3ty6FVY~",
+      "brandName": "太极图形",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221221/7bf6f160950405e965494bc80af41e1c5c1294a61aee223b874dd1d9cb2ddca82febd451594ed047.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "太极图形是一家全球领先的 3D 生成式人工智能公司，致力于推动 3D 通用人工智能技术的发展，通过一流的产品体验和先进的 AI 技术，降低 3D 内容创作的门槛，让 3D 内容创作更加简单、高效、有趣。我们的用户遍布游戏开发、影视娱乐、3D 打印、AR/VR、教育培训等领域，服务的创作者超过百万。\n\n我们的团队成员分布在全球各地，汇集了来自麻省理工学院、哈佛大学等世界顶尖学府，以及英伟达、微软、谷歌等行业巨头的资深专家，在计算机图形学和人工智能等领域拥有深厚的专业知识和丰富的实践经验。",
+      "labels": [
+        "高端医疗保险",
+        "节日福利",
+        "零食下午茶",
+        "带薪年假",
+        "股票期权",
+        "年终奖",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1728472672728,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "太极图形",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

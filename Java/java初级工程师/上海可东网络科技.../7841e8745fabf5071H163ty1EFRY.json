@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KYTKBadlnAp9V-z1LXNoGfwqWcqSMf4a9qyNogNJ1bryYn8n0G6F8it3p3GQonS0_QNzLhbqXkHmesjsMEHeZoPgzWzUJjRbRCxgylC1ciUkCFx2jbcA8Uue0qdGZdWerY1xQCCF4Wvf",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7841e8745fabf5071H163ty1EFRY",
+      "encryptUserId": "ed3d4aa0a14789cc1XN40ty6F1M~",
+      "invalidStatus": false,
+      "jobName": "java初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据团队需求，负责订单、用户中心、保险业务系统服务端研发；\n2、参与需求分析、建模、架构设计、技术决策以及详细设计；\n3、后端功能代码编写，编写单元测试。\n\n任职要求：\n1、计算机本科及以上相关专业1年以上工作经验；\n2、熟练掌握java编程语言，具备一定前端研发经验(html,js,node,jquery,css,freemarker)，全栈工程师优先；\n3、掌握缓存语言（redis）；\n4、具有良好的编程习惯，编程基础扎实（数据库,算法,数据结构和网络）；\n5、具备支付/财务/电商系统研发经验者优先；\n6、熟悉微服务架构，具有springmvc/SpringBoot/开发经验；\n7、具备良好的团队合作精神，善于协调沟通，具备较高的问题推动解决能力；\n8、有不错的工作抗压能力，富有激情，责任心强。",
+      "encryptAddressId": "607454e7fb1d220c1n173dS4Fw~~",
+      "address": "上海浦东新区全华信息大厦(正门)5F",
+      "longitude": 121.53199,
+      "latitude": 31.224089,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/05fcaf643982184e8dc42cd96b17d4e9",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e2a28f2cd1b625fca31b2135883a6fda",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "周女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210428/ba41f29f83746c3b84a7936f013b8a0a52cc30709d349ae0db196432e95_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海可东网络科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1eb2003ceb1dfb2c1HR-39q1GQ~~",
+      "brandName": "上海可东网络科技...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190409/27e01975f8db12ad2f5c7e65e17ea3f3b607706ef7404d6026dff02a628e62c3.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "​可东网络是一家为商业保险提供技术解决方案的科技公司。可东网络自主研发的“保助理”系统，为商业医疗险提供TPA服务，通过长期数据的积累建立了多维度的医疗险核赔风控系统。建立机器学习体系，有效提高复杂案件的处理时效及准确率。",
+      "labels": [
+        "节日福利",
+        "住房补贴",
+        "餐补",
+        "带薪年假",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1728456267490,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海可东网络科技...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

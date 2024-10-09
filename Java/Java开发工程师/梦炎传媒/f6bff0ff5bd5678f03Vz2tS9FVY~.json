@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UXqyZuAigov2E-E1IWRdwhGT2RDjIrF1_udzxZS4MMkXvcf8sbnS3l7KwqglTCQnCKV2jcXCzBGejUyA2UMmcuTZZlepvBXrL2ElK426GpJ74I1BH1Ek4lHF7RJsGaNuR444CiA-Sh4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f6bff0ff5bd5678f03Vz2tS9FVY~",
+      "encryptUserId": "e8c09deee3a6b78103J409W-FFU~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "【岗位要求】\r\n1、本科及以上学历，计算机相关专业；\r\n2、2年以上JAVA代码编写工作经验，有丰富的IT研发工作经验；\r\n3、JAVA基础扎实，精通io、多线程、集合、socket等基础框架，了解jvm；\r\n4、熟悉至少一种较为常见的主流数据库及SQL语言，有数据库优化经验，熟悉mysql或Postgreps； \r\n5、深入理解OO思想，熟悉常用设计模式； \r\n6、熟练掌握常用框架，对MQ、RPC、缓存有较为深入研究； \r\n7、熟悉Linux环境下开发部署； \r\n8、熟悉微信小程序前后端开发；\r\n9、具有出色的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题； \r\n10、使用过RPC框架开发过微服务项目；\r\n11、熟练使用Spring、SpringBoot、SpringMVC、Mybatis、Postgres，了解servlet，了解Spring底层结构； \r\n12、熟悉Web前端开发，如HTML、JavaScript等。",
+      "encryptAddressId": "befee78b71021dce1nZ60ti9GVY~",
+      "address": "北京石景山区古城南街9号院6号楼1714室",
+      "longitude": 116.185157,
+      "latitude": 39.904129,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bdfd4f430471341725571ef99feeb5e7",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/7f212cb8100a4fcf659d51d0a26cf9d4",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "移动开发",
+        "Javascript"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8Eg~~.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "梦炎传媒",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b8870b593e559bea1nZ43t25EQ~~",
+      "brandName": "梦炎传媒",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100101,
+      "industryName": "广告/公关/会展",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725884269025,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "梦炎传媒",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

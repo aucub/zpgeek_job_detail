@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "PKz4EjwZ-Qudg-w1GF5_yXpkgJ_Pd5ENcaWb7CxhLwqRKjsY4Geui0nIw8kMrK9Rz8oooe7i3f-bXchWJISOjhioIbOof7f1blpCjz1pV1pNxx7tbVen4kaTdAwcQrO3lSsINIS3rvvMf4o~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7a7bfc86e0c169a21HZ73Nm5E1RR",
+      "encryptUserId": "a8e8b82196d748b90XZ83ty1EVJV",
+      "invalidStatus": false,
+      "jobName": "开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容\n1，负责需求分析和功能应用设计。\n2，负责根据项目进度及质量管理体系要求。完成项目开发工作，完成系统编码及自测等相关工作。\n3，高质量完成产品设计及相关文档编写。\n4，编写易于维护的高质量代码\n5，负责系统试运行期间的缺陷修复工作，保证系统正常运行。\n6，负责系统优化工作，参与项目技术攻关工作。\n7，完成上级领导交办的其他工作。\n技能：java开发经验，.net开发经验。精通SpringCloud体系开发框架，熟悉JVM的性能调优和系统优化，了解微服务系统结构；\n经验：3年以上经验（本科）\n要求：沟通能力强，有一定抗压能力\n岗位职责：\n1、负责数据标准与数据计算管理平台整体设计与开发工作\n2、负责数据规则配置、任务调度、数据下发等重点功能模块的设计与开发工作\n3、负责数据标准同步功能等设计与开发工作\n4、负责数据服务SLA功能建设\n5、负责项目组其他工程师开发指导\n任职要求；\n1、3年以上java后台，熟练掌握JAVA基础知识。\n2、熟练掌握spring、springboot、springMVC、springcloud、POI、Mybatis、作业调度框架quartz\n3、有一定sql优化、jvm调优经验\n4、有一定的系统级软件设计和开发经验，了解软件开发流程\n5、 责任心强，思路清晰，具备 良好的对外沟通和团队协作能力，主动、好学，抗压能力好；",
+      "encryptAddressId": "4c51a87b0356fe7a1nd90ty5F1RW",
+      "address": "北京西城区庄胜广场中央办公楼北翼12层",
+      "longitude": 116.37546,
+      "latitude": 39.896511,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230508/48ba41acc9cef1bf234a96cd0fcd09d2ef8b69a82190cf516bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf362fb657ad9ebe4e815678fb721b4c0e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Tomcat",
+        "Docker",
+        "MySQL",
+        "SQL Server",
+        "Oracle",
+        "Spring",
+        "ERP开发经验",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "费女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "5月内活跃",
+      "bossOnline": false,
+      "brandName": "北京恒友通达科技发展",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e2432795ae36e0a31HV_2tm1GVU~",
+      "brandName": "北京恒友通达科技发展",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725884144641,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京恒友通达科技发展",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

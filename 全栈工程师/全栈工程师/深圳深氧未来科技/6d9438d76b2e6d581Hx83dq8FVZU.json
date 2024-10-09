@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "155wQOFvd8NLt-w1URti8GDZjSx7k-mwXp3MXDKQs29o20p7Pz1rTrLL2vjtP9loAR5V-1_Pb9OytCOXMumYi_d9ARd4TdwQImISfO1lz6Nf7DO6JMUVQZjDhIvcbn_TzVZj9bkUDmx5KTE~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6d9438d76b2e6d581Hx83dq8FVZU",
+      "encryptUserId": "cde0325ba4b91b260nd83N2_FVtX",
+      "invalidStatus": false,
+      "jobName": "全栈工程师",
+      "position": 100123,
+      "positionName": "全栈工程师",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "职责:\n-基于设计稿开发Web页面\n-打通Web前端与后端、数据库和其他API等\n-基于早期想法和原型，快速搭建网站，提供SaaS\n-为微信小程序或安卓/iOS开发UI和页面\n-与团队一起测试产品，并添加自动化测试用例\n-编写技术文档\n要求：\n-熟悉HTML/HTML5, CSS, JSON, Vue, React, etc\n-熟练使用Vue3+Typescript开发项目，善于封装、复用组件\n-熟练使用Flex、Grid布局，能够实现不同尺寸设备自适应\n-有Nuxt3、TailwindCSS开发经验者优先考虑\n-擅长Java Script, Python等编程\n-熟悉Node.js\n-有全栈经验（如前端+后端项目经历）\n-良好的沟通技巧和团队合作能力\n-有安卓APP开发经验者优先\n-有微信小程序开发经验者优先",
+      "encryptAddressId": "19dc519663bf8c3303d63tm7FFZRy4q_WP0~",
+      "address": "上海浦东新区中建大厦(竹林路)18",
+      "longitude": 121.533522,
+      "latitude": 31.223836,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5aceada1e26a5a50b2f91c7565365dd0",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5a9ad6113c045bb0c121b6adb2dd5edf",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "TypeScript",
+        "后端开发经验",
+        "JavaScript",
+        "HTML",
+        "Node.js",
+        "MySQL/Redis/MongoDB",
+        "前端开发经验",
+        "Python",
+        "全栈项目经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "深圳深氧未来科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "af552f08f8b7e3e11XJ63Nu-EVs~",
+      "brandName": "深圳深氧未来科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "O3深氧科技（www.o3.xyz）是一家创立于深圳的技术初创公司，获顶级投资机构投资。致力于使用AIGC技术一站式生产3D内容，赋能短视频、直播电商、流量运营等领域。通过整合大模型、云原生、WebGL等技术红利打造下一代3D内容生产工具，极大的降低3D内容制作门槛。O3的使命是实现“人人可制作3D内容”的创意未来。愿景是“打造下一代3D内容生产工具”。",
+      "labels": [],
+      "activeTime": 1728376854277,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "深圳深氧未来科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

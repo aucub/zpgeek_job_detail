@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9cA9fRXeCcKNt-61MPgR-QPUfwRyND0brWMXF6PPMcX1w_ZjYlRG8LTn9u5e103wCUsjMfFbvyNdwIUPaEtB0OWiRecoqO-bbsBFQdCYkZi23o1SE6KRjEMxLfCG86_eUbpqvqmPjdc_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e1ba70eab4b2d3d81Hx529q6EFdY",
+      "encryptUserId": "c584ab7f5f68003a0Xd_09i4FFM~",
+      "invalidStatus": false,
+      "jobName": "pytoy开发",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1. 精通并熟练使用Python；\n2. 三年以上Python编程经验，有分布式架构开发、爬虫开发、大数据开发、数据挖掘、前端开发经验者优先；\n3. 熟悉Django、Tornado、Flask 任一Python开发框架，精通代码调试并能持续优化；\n4. 熟练使用Mysql，熟悉Mysql工作原理，熟悉SQL语句编写和性能调优；\n5. 熟悉常用工具如Redis，Memcached，Mongodb，Nginx等的基本原理和使用；\n6. 熟悉常见设计模式，熟悉常用的数据结构和算法，具有扎实的服务器端开发功底；\n7. 对分布式及高性能Web有一定认识，对可靠性设计有较好的经验，关注代码质量和可维护性；\n8. 拥有良好的代码习惯，具备良好的沟通理解能力、逻辑分析能力、问题解决能力；\n9. 对新技术有强烈的探索欲望，能够承受工作压力，有强烈的责任心。\n10. 熟悉Tensorflow/scikit-learn/xgboost/Caffe/MindSpore等主流深度学习框架的使用，具备AI算法开发及应用经验；\n11. 熟悉深度神经网络、机器学习算法和知识图谱等，具有计算机视觉、NLP和/或强化学习领域的深度学习经验及解决实际问题的经验；\n12. 能够针对算法特点设计最佳算法实现方式并优化部署或者有数据分析、挖掘、建模等方面的背景；\n13. 具有使用数据科学工具的经验，包括Python脚本，numpy，scipy，matplotlib，scikit学习和云计算架构（例如hadoop / spark）。\n拟工作内容：\n1. Word/PDF全文错别字识别，提示修正意见；\n2. 根据已有字符范围，在Word/PDF全文中做内容识别，打印相似字符所在句或者段落，并指出不同；\n3. 语义识别、文稿审核、网络爬虫等。\n4. 负责AI算法的设计和实现，包括但不限于：神经网络与机器学习、计算机视觉、智能决策、推荐系统等。\n5.该职位为外包岗。",
+      "encryptAddressId": "187b6b58b672b0181nZ52N-_ElVZxo25V_qY",
+      "address": "北京昌平区北京南社村软件有限公司国风美唐综合楼6号楼505",
+      "longitude": 116.359702,
+      "latitude": 40.073196,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf9384fc73cc6e1f406da78b854f6644ac6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240902/48ba41acc9cef1bf85009b0fcaf4f0ce6fe83834d873c91a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "爬虫经验",
+        "Django",
+        "Pandas",
+        "MySQL",
+        "运维开发经验",
+        "Redis",
+        "云计算经验",
+        "Tornado",
+        "Oracle",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "贾先生",
+      "title": "开发经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190524/f122613351de15462fe7ab982204fe4996ae1b24a4bd29d8f1a94ba0a6e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "北京南社村",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e718e049752b75e61nR_0tW-Eg~~",
+      "brandName": "北京南社村",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170917/8c055837436694016f26893c1190b25133384828ebdfa688afeead14fc5f978d.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "北京南社村软件有限公司作为用友软件核心代理商及重要二次开发合作伙伴，专注ERP市场十余年，拥有一支专业的ERP销售、实施和开发团队，具备为客户提供优质的全生命周期的服务能力；公司业务涉及用友软件所有主流产品线，包括NC、U8、T3 T6、致远OA等等。\r\n   我们专注中小型企业信息化，致力于企业ERP高级应用。我们在多个行业领域取得了优异的成绩，服务过的行业包括IT、通讯、电子、服装、五金、洗涤日化、医疗器械等行业。公司的经营理念：以诚为本，值得信赖。携手用友，依托用友，我们拥有一支高素质的售前 售后团队，以及专业的二次开发团队。为北京地区中小企业提供信息化咨询、实施和服务，持续地为客户创造价值。",
+      "labels": [
+        "餐补",
+        "交通补助"
+      ],
+      "activeTime": 1725883245711,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京南社村",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

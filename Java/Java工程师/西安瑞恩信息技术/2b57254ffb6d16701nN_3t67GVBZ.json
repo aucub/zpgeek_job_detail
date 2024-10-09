@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Dnzx3EHTmKO4q-k1obI75yZpbgDvIsD1XtEzTgt2V7Er3j_xrPDyOeaud74LLG8RixXz0BYLzR2e0EbvBgyT2mDREhwIxgjU36v9UaJSmO-DvRUl",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2b57254ffb6d16701nN_3t67GVBZ",
+      "encryptUserId": "14b710d3022819b90XZ639i0Ew~~",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、 根据项目要求及上级领导分配的任务，承担系统功能开发，并按计划完成任务目标；\n2、 负责系统分析与设计，并负责完成核心代码和独立完成模块的编码；\n3、 负责对开发成果进行自测；\n4、 分析并解决软件开发过程中的问题，参与技术难题攻关；\n5、 敢于尝试和学习新技术，以满足项目要求；\n6、 参与编制与项目相关的技术文档；\n7、 完善并遵守团队编码规范，编写高质量、结构清晰、易读、易维护的代码；\n技能需求：\n1、 计算机相关专业本科及以上学历，1年及以上java开发工作经验；\n2、 精通Java语言，熟悉Java领域主流常用框架，如Spring Cloud、springboot、Spring、SpringMVC、Mybatis等；\n3、 熟悉linux/UNIX等操作系统，可以熟练部署应用系统，熟悉apache,nginx,docker等应用的使用；\n4、 有微服务、高性能、高可用、分布式、架构设计经验者优先；\n5、 具有良好的团队合作精神，能够在一定压力下工作，具备良好的需求理解和分析能力，能够积极完成上级安排的工作任务，有强烈责任心和严谨工作作风、诚实守信、有良好的自学能力和沟通能力。\n\n有物联网、中台开发经验优先",
+      "encryptAddressId": "05333c26c30b828c0X142Nu7FFs~",
+      "address": "西安雁塔区逸翠园i都会3号楼3单元1316",
+      "longitude": 108.885601,
+      "latitude": 34.184473,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a4e8efbc9be0bff758dd83923c8d4adf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c229e02f5a9c7dc1e8d7208dbb849bd9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "服务器配置",
+        "微服务架构",
+        "MVC开发",
+        "SpringBoot",
+        "容器技术",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "总经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "本月活跃",
+      "bossOnline": false,
+      "brandName": "西安瑞恩信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0a6c3fa2e9414d4b1XN70tW4EA~~",
+      "brandName": "西安瑞恩信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180911/d92d002193ecd0c9e1f4feea75d652a589a29cd33696fa90651f1be64f281356.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100007,
+      "industryName": "生活服务(O2O)",
+      "introduce": "西安瑞恩信息技术有限公司”成立于2009年，系中国通信工业协会大数据应用产业促进会副会长单位。2017年正式进军养老行业，全力打造养老信息化、智慧化新型养老模式。致力帮助政府、老人解决养老难题。\n    于2018年7月协助中国通信工业协会制定发布了《智慧养老云平台应用系统总体技术要求》（标准文号：T/CA005-2018）团体标准。",
+      "labels": [
+        "五险一金",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1726121735000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西安瑞恩信息技术",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "QzMDg9IgRhyVR-v15ji8T28-VHez8-IN3Qwt7Pkix5dDJ09F8-yqlsgVkJSwqtM3sHxG1Js-xALzWErcQzwKxtrudobcGRPi886wx4dL1bTcZsxd8XYNK-eU4SMo0cbvCoNXLcuVU9a-Tg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "237f1ef87559a7c31HN73dq0GFZW",
+      "encryptUserId": "fb37f9e7e9cc90451Xxy2NW1F1Q~",
+      "invalidStatus": false,
+      "jobName": "点云算法工程师",
+      "position": 100120,
+      "positionName": "算法工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1. 定义激光雷达算法功能要求，制定深度学习架构，编写算法开发说明书等\n2. 熟悉图像处理算法，如图像分割，拼接，标定等，如OpenCV等；熟悉点云处理算法，如点云滤波，配准，重建等，如PCL等；熟悉网格处理算法，如网格平滑，变形，三角剖分，纹理映射等\n3. 熟悉激光雷达 或者 深度相机（结构光/ToF） 或者双目相机等三维扫描硬件；\n4. 开发基于深度学习的激光雷达目标检测算法，搭建模型训练框架以及部署算法平台（TensorRT, CUDA,Pytorch等工具）\n\n任职要求：\n1.\t熟悉多线激光雷达性能和基于激光雷达点云数据的物体检测、识别、跟踪等算法, \n2.\t熟悉点云数据处理的相关算法(如PCL, Eigen等)，或相关聚类算法（如欧式聚类算法， 区域增长法， 平面和球面模型分割算法， 地面提取算法等），以及基于点云数据的识别算法等，\n3.\t能运用C或C++，python，熟悉Linux的应用 \n4、熟悉点云处理算法的一个或多个方向：如点云去噪、点云匹配、点云分割、点云追踪等；\n5.\t本科或以上学历，具有很好的团队合作精神，能够积极、主动地完成相关工作",
+      "encryptAddressId": "a563c61817fdbbe41nR83di0F1VXxYq9UfKb",
+      "address": "广州天河区元岗电信机楼广州市天河区长湴北路38号(元岗电信机楼)",
+      "longitude": 113.347977,
+      "latitude": 23.174394,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfad79703081fa094ef12142a20dc611c36bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230704/48ba41acc9cef1bf79639966d721a4d65b07d84e1dcd3da46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "激光雷达",
+        "搜索算法",
+        "图像算法",
+        "深度学习",
+        "大模型算法",
+        "大数据处理框架(Spark/Hadoop/Hive)",
+        "算法工程化经验",
+        "其他",
+        "优秀开源项目经历",
+        "点云数据算法",
+        "C/C++",
+        "点云",
+        "通信算法",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240604/607f1f3d68754fd0f0e61981ae312a2faf971336dce02b2011c00bf311fcff3571c631138b9aa0b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "广东上视科技有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b994f45d7cfcfe061Xd_2N21F1o~",
+      "brandName": "广东上视科技有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240605/7b5b554d84f9729cbfd8b4eea643dabf2fe58be603e887a5f86d64ccdc2975c6b78461a1b0649ed6.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "广东上视科技是一家专注于AI视觉分析的科技公司，集中于人工智能、机器视觉、深度学习等方面，致力于满足市场需求的视频检测、视频分析类产品的研究和开发。\n    我们具备从底层核心视频算法的开发，及嵌入式软硬件产品的设计，到应用系统开发的能力。可提供从核心设备到软件算法的完整解决方案，能根据客户实际应用需求，提供定制化服务。\n服务行业：视频结构化输出、城市交通、工厂生产、学生教件、智慧校园、智慧平安乡村、智慧园区/街道、智慧农场等应用场景。",
+      "labels": [
+        "员工旅游",
+        "带薪年假",
+        "工龄奖",
+        "夜班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1728472422011,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广东上视科技有限公司",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

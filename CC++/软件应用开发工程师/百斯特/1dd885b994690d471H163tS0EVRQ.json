@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "6innKnpfeyhP3-01BJU5InyXsvEXekI4kUpkdY0LCCpH_u4EJbRzhqVtzn6fs6WGHu8B4YJjn-XwCUKvALEQJXE-x110yLuHVxhK_LPJXykUnk66ImYdCotVZ3dsE8VAM4M8PRlJdCMB",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "1dd885b994690d471H163tS0EVRQ",
+      "encryptUserId": "a215bb41fa993bd903x63dq4FlY~",
+      "invalidStatus": false,
+      "jobName": "软件应用开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-11K",
+      "payTypeDesc": null,
+      "postDescription": "基本要求：\n1、精通Linux操作系统，精通Shell脚本编程、外设驱动应用开发（gpio、串口、DI/DO、net网络站等协议编程）。\n2、精通C/C++开发语言，有工业电力协议开发经验，能熟练在arm/x86架构下平台的应用开发，自身胜任的开发工作至少有2个项目以上的开发经验。\n2、精通至少一种主流WEB开发语言（如Java、Python、PHP、GO、react等）及其框架，有后端/前端开发经验。\n3、熟悉前端技术栈，包括HTML/CSS/JavaScript及前端框架（如Vue.js、React等）。\n4、熟悉数据库技术，包括MySQL、tdengine等至少一种数据库的使用和调优。\n5、了解WEB服务器配置与优化，如Nginx、Apache等。\n\n技能要求：\n1、有相应工业协议开发经验（如 tcp、modbus、104等）\n2、有Linux架构开发经验，有前端/后端开发经验\n3、熟悉WEB开发架构/管理，如nextjs、tailwindcss、pnpm等\n4、精度前端开发语言react, 后端开发语言go/c++/c\n6、有信创开发经验的优先考虑",
+      "encryptAddressId": "128941c086eaa0d21ndz2Ny-EFNV",
+      "address": "广州黄埔区广州通巴达电气科技有限公司(东门)枝山路13号C栋416",
+      "longitude": 113.486878,
+      "latitude": 23.142023,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bf832c53f12e70a8dc8a10827e26dfc1d56bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230710/48ba41acc9cef1bf07e2f37d92c394f324a93ae7c8a666a46bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "MySQL",
+        "Linux开发/部署经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "季先生",
+      "title": "HR人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201129/57c4172d5a8bd064256b45445251c468563ada2497f6836c32e376746bb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "百斯特",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "51b2a3ff0d6fe6ca1X180tS0FA~~",
+      "brandName": "百斯特",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181030/1d0ebc83554ec488bebe74550cbaa5f7cfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "百斯特（广州）信息技术有限公司专注于石化、冶金等行业电力、仪表数据5G+智能化应用，包括数据采集与处理、数据处理、平台对接、数据转发、系统集成等。 秉承“诚信务实、团结敬业、高效创新、成就客户”的经营理念，持续不断的为用户创造价值、持续不断的为员工创造价值。",
+      "labels": [
+        "定期体检",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "生日福利",
+        "五险一金",
+        "研发项目奖"
+      ],
+      "activeTime": 1728467917864,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "百斯特",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

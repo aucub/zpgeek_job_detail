@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "oblPdyRMcnafq-31Nnp7eRkehjneT13zPyhsswFPrQdz3LySk-08sCKbWoVit32s9Cb2dgNK4Mkg742TyJHoF97mEITzIxCCJlXx1pDmRbeoNY4t_DD1gU3TBBmn359qe8UJuiL0_MKFxgY~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bcac42fadc01d8281n1y0ti1FVFZ",
+      "encryptUserId": "f55098eba11cc9e60nZy3tq6FVtS",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "Java开发工程师\n1、熟悉主流框架Spring  Boot、mybatis/mybatis-plus，了解Spring Cloud框架组件\n2、熟悉SpringMVC架构项目，熟悉XML、JSON，了解SOAP、Restful等通讯协议\n3、了解ActiceMQ、Netty等中间件及其应用场景\n4、熟悉IDEA、Postman、Git等工具的使用\n5、熟悉MsSQL、Mysql、Oracle等关系型数据库，熟悉redis等非关系型数据库，并清楚redis的运用场景\n6、熟悉Linux基础操作命令。\n7、熟悉微信小程序开发。",
+      "encryptAddressId": "0cebf8d6f350760403J82d6_GFU~",
+      "address": "广州黄埔区励弘文创旗舰园自编一栋A座602(自主申报)",
+      "longitude": 113.420276,
+      "latitude": 23.164774,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2210b0d289343b7abae7f3f38a99d661",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3a6cf46edf1399ceeb3876a527e92f9a",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SpringBoot",
+        "后端开发",
+        "软件工程师",
+        "NoSQL",
+        "SQL Server",
+        "IDEA"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "邓女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211129/607f1f3d68754fd0b11a8f417d64b27a3a274ca55d00d7035d52aa8b5be80f523c83feb2ce6_b.jpg",
+      "large": null,
+      "activeTimeDesc": "4月内活跃",
+      "bossOnline": false,
+      "brandName": "朝辉智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ae4085aa6000091f1n192NW7EVs~",
+      "brandName": "朝辉智能",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1725884698540,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "朝辉智能",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
