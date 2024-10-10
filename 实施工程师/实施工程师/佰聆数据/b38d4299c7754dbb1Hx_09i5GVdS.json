@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Ub8tqNk62UGzu-I1uKNDwxfl7MOB__GKaHJ7wFXo7dJmvGL10IiKnjXQqv-iabM8uDWodppxfgOZHLfo0kdP5lmn0u_0cUn0lV8fYvBnEOyVQE8LQQCaF_mUkZGyrzd0qqGKY02vVPZUFOBlv7fvowyKJnQ5sQvt9GJiuPpo6HDBWrNoEt8~",
+    "securityId": "Bl_0oCzFVzZhs-31u6J9ma14WsrffYCww9659OJY4uAZD4JQUwjQ3629GMq2jxvQnIMJEI6y5RPgdGOvGdUoDhmeRVxy1wa1NTD_su6d0x2N4wDcmLm6sAlllQIO5pbO_IM7x0tMOTRsOts~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "佰聆数据",
       "bossSource": 0,
       "certificated": true,
@@ -76,7 +76,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1728388144197,
+      "activeTime": 1728564289463,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "佰聆数据",
@@ -95,7 +95,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "jC69uOMKao-yF-41Hcx2XrWml-BIUeQtV_qQJagyzbfOwkNxwbnaZek3K2dilmGuTK35qOn2H4zOMEwn5RrhGX7XF27hVZPavR6oMLPya5rAzzpXxTy62Ey8udu9gzxPoiTeLdvNOmT1",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "f09c0ba81df5835a1H160tm6ElZY",
+      "encryptUserId": "aa076eb34085527603F-0tW-FFo~",
+      "invalidStatus": false,
+      "jobName": "java 初级工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1. 熟练掌握JAVA语言，JVM调优\n2. 数练掌握 Spring boot ，Spring Cloud，dubbo\n3. 熟练掌握Vue\n4. 熟悉MySQL，熟练掌握SQL查询，可编写复杂的SQL语句\n5. 熟悉微服务中间件\n6. 熟悉多线程，了解常用设计模式\n7. 了解大数据基础知识，具有良好的沟通能力",
+      "encryptAddressId": "fcb7dca3618c19391XNy3di1F1o~",
+      "address": "青岛崂山区青岛体育中心GE0131室",
+      "longitude": 120.446403,
+      "latitude": 36.10419,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6cee7ccadd33de5e6ab4d81961e9840f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2898c3561de2d8f88ceb3bf24b3965bd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "苗先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191030/591dfcef0817bf10878aeed8769098e56e533e62f542aeb69337fe238dd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "青岛明阳信息科技...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "857dc9a3d6125f920HR_2dm_Fg~~",
+      "brandName": "青岛明阳信息科技...",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210412/af3c40c3562361758f50464954d5efad6e533e62f542aeb69337fe238ddb7af0_s.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+      ],
+      "activeTime": 1728546494459,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "青岛明阳信息科技...",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

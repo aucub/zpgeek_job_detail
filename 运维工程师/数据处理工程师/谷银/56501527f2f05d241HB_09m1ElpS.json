@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "xH4vv45qVqh7f-c1q8QY5YGpYjH_k57svqfET-7ecuO1g-Te4anhyHoKSYEE-GHNYf134m-6-hKVc8AZkntzpFJ3uN2K1CNYZ8dN0-YNvZH_5lOJWSmvZw6fQ75_Erg7WoxQqx9dT0pm",
+    "securityId": "tB1rFiLR2PGUD-Y1caXQC3OjFBHkzX1rv-_-sHJ1vRV0ek6ijt7Um3TlkyWPwwNNgxjwki91AuDrEQ5QNUr5VdDBKNcUMXbu7Hp8aTUqDcFNY35j11EkK6XXSbtuRTcSSvu4MnKxsjfv",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "title": "经理",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
       "large": null,
-      "activeTimeDesc": "3日内活跃",
+      "activeTimeDesc": "本周活跃",
       "bossOnline": false,
       "brandName": "谷银",
       "bossSource": 0,
@@ -93,7 +93,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

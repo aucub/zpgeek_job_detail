@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vajw6ZUOUFjQq-P1oWl-EPsp0h3gms1x1ROvXZSgNEyD_wKxOZtnrH6iEtzjqCSu8htCAaUq_U6pIuKSH5mEUuKPxQGnTYk5D2V_Nozt8131VD2J6YVH_KMtS_B55CGw9ShKNVfmAvslZ6c~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4e9f60ec4c0025ad1Hxz3N61F1RV",
+      "encryptUserId": "6bee7cb37066b0eb0nZy3du_FVZR",
+      "invalidStatus": false,
+      "jobName": "驻场运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101160100,
+      "locationName": "兰州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、驻守客户现场开展运维工作。\n2、负责客户服务器虚拟化环境或桌面虚拟化环境折日常健康检查，定期巡检，确保及时发现、报告、解决巡检中发现的异常问题；\n3、负责突发故障处理：及时赶到现场（特殊情况可以远程连接环境）处理与所维护软件相关的任何突发故障和事后故障报告的编写；\n4、负责关键时间值守：节假日、账期等重要时段的现场值守，根据客户需求而定；\n5、负责配合客户工作：配合完成现场客户安排的合理的与本职维护工作相关的工作内容；\n6、负责保持与客户的良好工作关系和维护公司良好形象，此项以客户口头或书面投诉为考量标准；\n7、及时完成领导安排的其他工作。\n\n任职要求：\n1、本科及以上学历，计算机科学与技术/计算机软件/通信工程/信管/网络工程相关专业；\n2、2年及以上IT行业工作经验；\n3、熟悉微软、VMware、开源KVM等品牌的主流服务器虚拟化及桌面虚拟化技术；\n4、对常见的X86服务器、数通网络设备、存储磁盘阵列等设备的使用与维护较熟悉；\n5、熟练掌握linux（Centosredhat）和Windowsserver等系统操作经验，对系统有一定了解；\n6、熟悉Nginx、php、tomcat、iis、apache等主流网站基础架构技术实现（至少一种）\n7、有红帽、VMware等相关认证证书者优先；\n8、熟练进行Oracle、mysql、sqlserver等数据库的各类部署模式,掌握SQL语句的过程编写;\n9、熟悉使用脚本语言Shell、Python、PHP等（至少一种）；\n10、良好的沟通表达能力和强烈的团队意识；\n11、较强的工作责任心，乐于学习和经验分享。",
+      "encryptAddressId": "2c007e5b313a333e03Rz2Ni5GFtUxo66V_o~",
+      "address": "兰州安宁区永新华世界湾2-1-2701",
+      "longitude": 103.709243,
+      "latitude": 36.087987,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf6a123ee566e5dd54a85cbe6e4ed17e286bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf95fb8328703cf2a8260c456db3cd97066bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "DBA",
+        "MySQL/Oracle",
+        "系统运维",
+        "IDC机房运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "彭先生",
+      "title": "系统集成经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "东赫盛讯",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f8eee377db0a99e01HZ-2N26FlM~",
+      "brandName": "东赫盛讯",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240113/7bf6f160950405e9ec9ed58c11262c48bc5bd49907df838b6ebe3e4a49aae3a701736b17c5192ad5.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100024,
+      "industryName": "通信/网络设备",
+      "introduce": "甘肃东赫盛讯数字科技有限责任公司成立于2023年，是一家专业的企业级IT产品及数字化建设解决方案提供商，公司综合运用“云大物智”技术，为客户提供专业、高效、先进的IT信息化产品、数字化运维服务、IT咨询服务和各类数字化解决方案。",
+      "labels": [
+        "带薪年假",
+        "五险一金"
+      ],
+      "activeTime": 1728552489337,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "东赫盛讯",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

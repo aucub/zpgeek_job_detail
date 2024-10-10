@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "KtqmJ1zXpZQGM-u1blj9X10j-PL7-xngwiVaNAHdSgmpeKWl8L9lSsmHQsur-3Uk5pDs5KiUQJ3khq6PkNzVTnEsyZNmT9bw-V4H4EqPOIyPYnfbEcASXCjHZ1LRa19ignobQGtQEjIHkWQLd7eDjl92UwnQdkaZdJ8bpQBpLr4R96s~",
+    "securityId": "-h07nNBDyywPc-t1oxiN23TrFb92v0hcqeT7YWlryHipxWbaINh1mKzdNYot1qVOQ0Q1gjeMnl86uu-KsHpoM206dHfbO5ugj8SHdMlqAny8k_rz3VX7FYJHncuexk-VT9E1yMVxbWHluoGB4gI5TGKy0DD_NngOfuEjH_ORl0DBuc8~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,7 +49,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240811/607f1f3d68754fd06e2f6b67d7c2b1cff51bf154a93d1ff6239f3753dad469504cb51319400a6c7_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "vivo",
       "bossSource": 0,
       "certificated": true,
@@ -84,7 +84,7 @@
         "提供住宿",
         "餐补"
       ],
-      "activeTime": 1728039244199,
+      "activeTime": 1728565324521,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "vivo",
@@ -103,7 +103,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

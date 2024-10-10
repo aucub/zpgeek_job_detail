@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ezczRiC1ORODS-x1T18bCNWI-Oj_WY17WOdBgtIGjIOfIwYbYJhBlIrk-RcPcR9U4mQaQgjnrAYnomq1zRPn2ITePa2TOSC-ocYT9_mwtielQYgrvzsFmnPB3m6ufpKDTwOBG3nxebTsxBI~",
+    "securityId": "3ZnQfVVfsg2Yw-f1hc3n1u3eGAC9ga9TtEJl9xRS6uhAfsdURslHUhTCsD6DcL49fS1SKqd9jRRRlNUE6qMinJLlr4u9MTtpUua9VwaQvUZvfgiBdDbRcKQ_wEyD57N_YG7YEttcjik2j6c~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,7 +45,7 @@
       "title": "人事经理",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
+      "activeTimeDesc": "2周内活跃",
       "bossOnline": false,
       "brandName": "鑫合物联",
       "bossSource": 0,
@@ -70,7 +70,7 @@
         "团建聚餐",
         "五险一金"
       ],
-      "activeTime": 1727592454017,
+      "activeTime": 1727592454000,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "鑫合物联",
@@ -89,7 +89,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

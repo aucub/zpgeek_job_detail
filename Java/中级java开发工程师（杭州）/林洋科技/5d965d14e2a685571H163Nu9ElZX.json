@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Au40gmLnPo-Ms-W1HpVQ3ZLmiG3kCOh3xAd7ZZ2Ldv4TKiylaVu_-rLva0EMpbVza8EPAkhfOPLeirAWVj8rlzYwHDXE6AnGQ_fTOXP4xLLapqHOgSTbExtg7TFZF1W_RAS9ZZima-IORQ4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5d965d14e2a685571H163Nu9ElZX",
+      "encryptUserId": "113c3b9a0ed4cba40nJ539S0FVFR",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师（杭州）",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、2年以上服务端开发经验，有上线产品者优先\n2、熟练Java、面向对象编程，理解设计模式，有良好的编码习惯；\n3、对各种开源的框架如Spring Cloud、Springboot、SpringMVC、MyBatis等有深入的了解；熟悉分布式服务框架，分布式缓存或者分布式锁的设计原理，对分布式常用算法了解优先；\n4、具备良好的识别和设计通用框架及模块的能力；\n5、拥有在公司内或行业内创造过突破性改变的案例的优先；\n6、熟悉Oracle，MySQL等数据库设计和开发；\n7、拥有扎实的JAVA基础知识，理解集合、多线程、IO等基础框架；\n8、熟悉java异常处理机制以及良好的代码阅读能力；\n加分项：\n1. 有SpringCloud或其他微服务应用开发经验更佳。\n2. 有个人github账号并有或参与过开源项目。\n3. 有个人博客、知乎号并坚持长期输出。\n4. 掌握其他编程语言，如Python、Javascript等。",
+      "encryptAddressId": "56069ff78a7ad56a1nd83tW8ElVTxYW4UvOY",
+      "address": "杭州萧山区深度数科集团(杭州研发中心)11",
+      "longitude": 120.252666,
+      "latitude": 30.236015,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230731/48ba41acc9cef1bffa845917739d4a2eed03c3bb9154b5c16bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230731/48ba41acc9cef1bf075a116603cfaf9fe673b622a16ebd8e6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "伍先生",
+      "title": "商务总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "林洋科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0b18c0b83dd816561HFy0929E1M~",
+      "brandName": "林洋科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728527093952,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "林洋科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

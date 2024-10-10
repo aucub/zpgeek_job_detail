@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8Jsy6OOSQ1wZn-H1_lwqrV2MThPaoAWNV3phu6be_jxHlY2r1pJFdqDIG1ZJ1I80bkMmQN1W5T9RLSCDE373N6J5m7V2Dj6-gwoMOgPI2jD1fMj-Icwtz7e6gNuXzY2lWDrzu0SjHpB2TTw~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fa9d8015cf4a2b421XNy39-4ElpY",
+      "encryptUserId": "5856055b1eed5eda0nF92di7ElFZ",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "岗位描述：\n\n1、负责公司项目软件产品部署、上线、系统监控、日常运维工作和应急反应系统运维、服务监控分析、故障排查，以及紧急情况下的应急处理、确保现网系统能够7*24小时的持续运行，并编制汇总故障、问题，定期提交汇总报告；\n\n2、负责公司系统项目扩容需求与资源落实，配合开发需求，测试、调整运维平台；\n\n3、负责网络以及服务器的网络设置、维护和优化、网络的安全维护监控、系统性能管理和优化、网络性能管理和优化；\n\n4、负责制定公司项目的部署文档、维护文档手册，应用技术文档，并根据环境的变化及时更新各个相关文档；\n\n5、参与研究系统架构，发现潜在问题，制定系统调整和优化方案，提高系统的健壮性和效率；\n\n6、领导安排的其他工作；\n\n岗位要求：\n\n1、专科以上学历，计算机相关专业；\n\n2、熟悉系统运维，至少2年以上系统的实际运维经验。熟练使用各种运维及监控工具。对于常用的各种集群管理、分布式部署等有丰富经验；\n\n3、精通windows/linux操作系统，熟悉一种脚本语言（shell、python或者perl），能熟练部署和维护linux服务器以及在linux服务器上架设各种服务（nginx、tomcat、keepalived、lvs、redis、activemq、php、mysql等）；\n\n4、精通tcp/ip协议，基础知识扎实，熟悉网络安全；熟悉各类常用网络设备的部署、使用和维护者优先考虑；\n\n5、精通mysql数据库服务器的维护和优化者优先考虑，包括：备份恢复，数据迁移，异地同步，安全防护等；\n\n6、熟悉主流的虚拟化技术例如vmware 、kvm，能够掌握虚拟化管理；\n\n7、对系统运维工作有热情、有高度的责任心、良好的沟通技巧和团队合作精神。",
+      "encryptAddressId": "3529d1f3b73d923833J83NW0FFU~",
+      "address": "西安新城区新城科技产业园临空产业园综合楼206室gt3171",
+      "longitude": 109.009991,
+      "latitude": 34.24346,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f958d9c682e9e9185e81d6930d6c2827",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc59ff8e5b132c0d5e576684bc344ed2",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "DBA",
+        "系统运维",
+        "运维开发/DevOps",
+        "Python/Shell"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230416/607f1f3d68754fd079ffe5d76868c19321c355552c4d7b9841ec7354f7b590d4ebe669a29bd_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "西咸新区空港新城...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "96c4f2c702babff01XJ_2dq8GVE~",
+      "brandName": "西咸新区空港新城...",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728395217751,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "西咸新区空港新城...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
