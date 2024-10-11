@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "eqm3goFXOHPHy-z1NHbUeAqMqsFtIbN0j2cyVYCw8rUKEI8Y-HZ7o8idjovUo3g0kT4C2EF7hAfozuAwOf9JlgycMt4waiclVq78jOstPaBk0vQa33ygazetIWPl1B12Nn-pzWYQvXlUY6eHZZzNp5SVR4gsrz3cC9hc3OSUZlcg9C-rffU~",
+    "securityId": "mcPPQgubVE7Ik-p14ceKUyfZccAoTBeG3GBN-Kuhn5vGVJWfN5UqxXxQiFZiV_aCkN3ayWTLCjlt9GH8gM-Sck9ic8kr3SPL6G0AJkqX7y2ipMh5VaCEYMgT-ODcktZqHT1JWbT3jxTa6mw~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "光华智能",
       "bossSource": 0,
       "certificated": true,
@@ -68,7 +68,7 @@
         "加班补助",
         "五险一金"
       ],
-      "activeTime": 1728559333580,
+      "activeTime": 1728566348582,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "光华智能",
@@ -87,7 +87,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

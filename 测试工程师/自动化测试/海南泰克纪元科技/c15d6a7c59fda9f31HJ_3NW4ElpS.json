@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KiRshRIgzM8Fo-l1E0TYMQooPQyUl9hmblOnUZqQL41WpQZdQVdiqhNyRPHzWGi9uXgH4QgdyzauFYq5C5GyVnX-okM269SMgpUWDClSGe9THqyZHMbG",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c15d6a7c59fda9f31HJ_3NW4ElpS",
+      "encryptUserId": "bc65982398f6a1920nF43d65ElFS",
+      "invalidStatus": false,
+      "jobName": "自动化测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101310100,
+      "locationName": "海口",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "测试方案设计与执行： 能独立根据产品需求文档和设计文 档，系统地制定软件测试方案与详细测试计划。 能够熟练 地编写全面、细致的测试用例，并确保测试报告的专业性 和准确性。 全生命周期测试：负责在软件开发生命周期的各个阶段执 行相应的测试任务， 包括但不限于单元测试、 集成测试、 系统测试和验收测试。 问题跟踪与解决：具备出色的项目管理能力，能推动并有 效监控整个测试流程， 精确记录测试中发现的问题， 并与 开发团队协作迅速定位并解决这些问题。 进度与质量把控： 能够及时反馈测试进度， 严格把控软件 质量， 为产品经理提供是否达到发布标准的建议，确保项 目按时、高质地完成。 接口测试经验：要求熟练使用jmeter、postman等工具进 行接口测试， 并了解如何关联多个接口进行测试。 自动化测试技能： 有一定的自动化测试基础， 能够编写自 动化测试脚本，并熟练编写断言。 问题定位能力：在测试过程中遇到错误时，能够准确判断 问题源自前端还是后端， 并协助开发团队迅速解决问题。 数据库操作能力：熟练掌握SQL语言，能够进行基本的数 据库增、删、改、查操作，包括数据分组、排序等。",
+      "encryptAddressId": "a7bf21a4356992f03nN739u9FlFUwoW2VPg~",
+      "address": "海口美兰区江东新区烨韦众创基地四楼4F003号",
+      "longitude": 110.402424,
+      "latitude": 20.002218,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf492b4d14962439687da5716984903c8e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230828/48ba41acc9cef1bf53e0d0893a78430bda1df70c6b822aea6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "性能测试",
+        "功能测试"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "海南泰克纪元科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "774edd0c7f1616751HF82tS5GVI~",
+      "brandName": "海南泰克纪元科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727852216000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "海南泰克纪元科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

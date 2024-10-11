@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5I9S8EF2GOMeO-B1O7Wg9lhdiEOje2nB6ku5ldZF8EKOACkPDEhXt-WtN_-7-TSrgwr15-05K4s6GbSTdxvDoCh5e-M2xGh33GIndQZYXIIAsv0DmwM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "79bf0f138e1543501XJ_3Nm4FlVS",
+      "encryptUserId": "4713ac89c47c6d021X1y39-0F1I~",
+      "invalidStatus": false,
+      "jobName": "安卓移动端开发工程师",
+      "position": 100202,
+      "positionName": "Android",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "4-6K",
+      "payTypeDesc": null,
+      "postDescription": "1、熟练掌握Java或者 C/C++编程语言\n2、熟练使用常用算法和数据结构\n3、熟悉TCP/IP、HTTP、UDP等网络协议\n4、熟悉集合、多线程、IO、网络、泛型、分析\n5、熟练代码管理工具git\n6、熟悉安卓各版本SDK差异与主要几大类组件，了解SurfaceView的使用\n7、有安卓原生音视频开发经验者优先\n8、有MediaCodec实战经验者优先，了解过ijkplayer，FFmpeg，WebRTC的编译和使用\n9、熟悉Handler基本原理，\n对安卓多线程开发有经验者优先\n10、了解rtsp、rtp、webrtc，知道p2p的一些知识点\n11、对弱网环境下通讯开发有一定的了解\n12、对MVC MVP MVVM架构有充分的认识，并且逻辑思维严谨，代码风格良好\n\n岗位职责：\n1、参与客户端基础组件的开发及维护，编写组件等相关技术文档；\n2、参与项目框架结构的演变开发，协助业务部门进行业务方案制定；\n3、与测试组、产品组等相关人员沟通，获取BUG信息，分析并解决问题；\n4、参与部门开展的各类技术项目；\n5、擅长追求代码执行的效率、健壮性、可读性；\n6、良好问题分析能力、沟通能力\n\n欢迎优秀应届生，也欢迎有意向的技术大牛参与合伙。",
+      "encryptAddressId": "ef5eb3a40df8e3a60H1809W7Els~",
+      "address": "广州南沙区敏捷商务中心7栋408",
+      "longitude": 113.559524,
+      "latitude": 22.799049,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0301500f0f0ed825f88ef886c7c874cf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d034f992e7e25111429689abf964b4d7",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Android开发经验",
+        "C++",
+        "音视频编解码",
+        "Socket技术",
+        "流媒体技术",
+        "Android客户端产品研发",
+        "网络协议",
+        "计算机/软件工程相关专业",
+        "Kotlin",
+        "架构经验",
+        "AndroidStudio",
+        "SDK"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "麦先生",
+      "title": "软件工程师",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230410/607f1f3d68754fd0da4ed4ede13f79928ac558519cc3040195ce7d49712a5a1aab14abdca99_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "昌云技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "783b1b09f691cb771XB_2Nm_F1Q~",
+      "brandName": "昌云技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "初创企业，主要在智能设备、软件工程开发、网络监控摄像头等计算机行业",
+      "labels": [
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1728654015539,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "昌云技术",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

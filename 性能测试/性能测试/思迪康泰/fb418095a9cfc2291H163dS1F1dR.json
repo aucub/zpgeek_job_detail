@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "jI3k5V5Z5pMwg-C1XrCPyi2yw0r9PXw3KNd7o7sTKxwxwef4zLkgXWqCe_5hfnRkVmf6nLjPKSuESLPLmZvoKoBdoh0HMw3Lyww6U7rFxi2KGYZ5HbPOIu5NdLnmN-Ouq0-g0XZrP-jKvtNjD_vzXg~~",
+    "securityId": "nMLUt7mLiD6Ab-T1rmKmq1o_aDHjTBvGYD_Ag4Kx1pRqTeqy7BgHgjoCKaNkLZeH-Fw5GmqRPud-YH7Ul9dN1Nlf_39eJys4b2h8j6RqIt3EsGOWIw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210702/081484c41a38b00c446b91cf8527547a995240374c306d27102c726be5b_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "思迪康泰",
       "bossSource": 0,
       "certificated": true,
@@ -70,7 +70,7 @@
         "带薪年假",
         "节日福利"
       ],
-      "activeTime": 1728464300934,
+      "activeTime": 1728615521256,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "思迪康泰",
@@ -89,7 +89,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

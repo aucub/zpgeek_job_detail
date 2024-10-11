@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Wp7tHqVWETQkp-A1fbSUzWU4xh9j4egb4-7huYDI_No_6-AXaYLOArQjl0fnf2wGB4GPSwutkgd8w_vHycfCgKeix5NVlGh2VfKU06F2y5wcNF7RTrIwMr9jI2Jsg_zWF77nJeaMcVCJ2i-GlT2gEVAZCuz35b2D-CIfiuQLHewOyKRP",
+    "securityId": "yVXQOk5xbiT3r-31scomYTnE_E3VrwX9oKFbxWsHH_Yd2EfexI0-Jom_hrQGVpgjOutHy_Ahvti4mzLv_pYsrbc-o10ViQYkvNC8Am_KL76giIXenA~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -21,9 +21,9 @@
       "jobType": 0,
       "proxyJob": 0,
       "proxyType": 0,
-      "salaryDesc": "7-10K",
+      "salaryDesc": "7-11K",
       "payTypeDesc": null,
-      "postDescription": "1.专科以上学历，1年以上工作经验;\n2.领航辅助驾驶测试工作，熟悉领航辅助驾驶工作流程，参与过道路测试，对道路测试流程熟悉，可独立跟车完成测试工作；\n3.熟悉ADAS整车测试,了解ADAS相关功能（ACC/LKA/HWA/AEB...）,熟悉测试流程和测试工具&#40;Vector、CANoe、CANape...&#41;;\n4.有车辆管理相关经验，沟通能力强；",
+      "postDescription": "1、参与需求澄清，设计、编写和维护自动化测试用例；\n2、根据项目需求，进行智驾性相关的功能、性能、稳定性测试，采用工具进行台架或实车测试验证；\n3、分析测试结果，提交测试记录、测试报告，跟踪、闭环验证功能缺陷；\n任职资格\n1、有智能驾驶台架、实车相关经验优先\n2、熟悉自动驾驶测试理论，熟悉ROS2、AUTOSAR中间件、EOL、UDS诊断、SOMEIP通信、雷达传感器等知识；\n3、熟悉CANoe使用，能独立编写capl脚本进行自动化测试\n4、熟练使用Python语言，有自动化测试经验；\n5、熟练使用Linux系统，能够独立完成测试环境搭建与部署；\n6、了解SOC、MCU芯片\n7、思路清晰，具备良好的沟通能力、团队合作精神\n8、对测试理论知识了解，对测试工作比较感兴趣;\n9、自我驱动力强，抗压能力强;",
       "encryptAddressId": "856bb81a16154f6a33N43d--FFRSyom3UvI~",
       "address": "上海嘉定区驴妈妈科技园区路妈妈科技园",
       "longitude": 121.316347,
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "泊车",
         "canoe",
-        "车载测试"
+        "车载测试",
+        "Python"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "陈女士",
@@ -46,7 +46,7 @@
       "tiny": "https://www.zhipin.com/wapi/zpupload/img/blurred?imgUrl=95c7cfc5dfa31f5djzA-m563D00Jn9uhA6XcBq76xreJaA4xgfpMyOq1f9vqR0xCdL7FzP87bJWy6hoqHd9bnH90tNEn6t4_S1LvkeZnN-T2fpVX5-u6Vz57MQoH8yNd_Pv2FCBKQbTrDEAwltAdHw6wn_pc9Q9LVYPs1nQtVnpCp0-eI8jtwA~~&radius=15",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "海橘",
       "bossSource": 0,
       "certificated": true,
@@ -73,7 +73,7 @@
         "定期体检",
         "五险一金"
       ],
-      "activeTime": 1727600700449,
+      "activeTime": 1728619717181,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "海橘",
@@ -92,7 +92,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,
