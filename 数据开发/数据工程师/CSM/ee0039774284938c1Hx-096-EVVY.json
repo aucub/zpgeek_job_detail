@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "f2vQivcJjCq8d-b1iJSNz1_CxX-_z0V9hZzGmj4LC6FQAAycqbSnvjFd8fj2RgEjATFrZDot_aHpwLtHsQIVJ4rOY-VmmcTbOrYFUTPGyFkiHBC2K7P6sLwn3Q89GTGpFSg3E28qkSi_",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ee0039774284938c1Hx-096-EVVY",
+      "encryptUserId": "462289f755d0bbca0HZy3Nu_EFU~",
+      "invalidStatus": false,
+      "jobName": "数据工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "**工作职责**\n1 维护爬虫系统，完善系统功能\n2 解析 Web 站点、App\n3 开发和维护 ETL 程序组件\n4 管理爬虫服务器集群\n5 维护和管理大数据集群（主要是 Elasticsearch）\n\n**任职要求**\n1 本科以上学历，计算机、数学、物理或统计学相关背景；\n2 熟悉 Python 语言，有良好的编码风格；熟悉Linux环境；\n3 熟悉 Java/Scala 加分；\n4 熟悉 HTTP 协议，了解常规的前端技术；\n5 熟悉至少一种数据库，包括但不限于 PostgreSQL，Mysql，Redis，Elasticsearch；\n6 熟悉 Hadoop/Spark 加分；\n7 有爬虫程序开发经验，有应对常规的反爬技术的经验加分；\n8 有 ETL 相关经验加分；\n\n**团队要求**\n1 工作主动性强，自我驱动，目标导向，结果导向；\n2 独立分析和解决问题的能力；\n3 能够与人融洽相处，善于沟通和团队合作；\n4 能够适应多种工作角色的迅速转换，抗压能力强。",
+      "encryptAddressId": "b3b54b407f31a0521nV_39S9FQ~~",
+      "address": "北京朝阳区世茂大厦24层",
+      "longitude": 116.470966,
+      "latitude": 39.907709,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22cc44b78ba1d4e6bf735ed8163a8e7f",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b0f940b3c78ebf05da6f55884f531feb",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Scala",
+        "ETL开发经验",
+        "计算机相关专业",
+        "爬虫系统",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "人力资源经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200908/69a126de99887a238761be411123804dfda2d500a60b578bbbae89e9c6a_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "CSM",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a15d51f87f6a195d1Hx929i4Fg~~",
+      "brandName": "CSM",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190821/53013ca2cf8d55862be1219a5042490613df765b977be85ee2c4528b329a5fca.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 305,
+      "scaleName": "1000-9999人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "致力于专业电视收视和广播收听市场研究，为中国大陆和香港传媒提供可靠的、不间断的视听调查服务\nCSM创新求变，不断推进收视率+的探索，打造微博应用研究，推出时移收视率标准化测量服务，进军OTT、智能电视、IPTV等领域，启动大屏收视研究，开展融合传播研究，秉持“诚信为公，中道致正”的企业精神，持续不懈地进行业务探索和市场开拓。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "定期体检",
+        "加班补助",
+        "带薪年假",
+        "餐补",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1728613943990,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "CSM",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

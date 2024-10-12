@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "noWu3IQ7_X4M5-d10KwRMM3BR8J1tqPBGWsXTGies-J5vssMg_G0-qdtKkOPbaUmRW0mAu5cSE4SCP1A27dTAM8SYi3iEaBvDo7wz2A-dH8f_ou3ENonMWizXvXP5ZRuN2kMwsyPhadWi5E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7967a18b06bcd9941H17392-GVFV",
+      "encryptUserId": "75335b9f7122f0940nVy39W_GVVU",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-8K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "实习勿投！！！\n岗位职责：\n1、参与项目开发前期的需求分析、技术可行性分析和系统架构设计等；\n2、根据产品需求和系统需求，能独立完成所承担模块的编码任务；\n3、完成所承担模块的单元测试，并配合测试人员完成系统测试和验收测试，解决测试过程中发现的问题；\n4、参与持续优化产品系统，提高代码质量；\n5、完成项目相关文档的编写，包括设计文档、接口规范和操作手册等；\n6、完成公司领导交办的其他任务。\n\n岗位要求：\n1、全日制本科及以上学历，1年以下工作经验；\n2、熟练掌握JAVA相关的基础知识，包括常用基本算法和数据结构、面向对象编程、多线程编程等；\n3、了解掌握Spring、SpringMVC、MyBatis、Hibernate、JPA等开源框架和持久层技术，熟悉掌握SpringBoot等框架；\n4、了解掌握MySQL和Redis基础知识及常用基本操作，了解掌握TCP/IP、HTTP等基础知识；\n5、具有良好的编码习惯，熟悉掌握Java Bean、List和Map等集合框架，了解掌握序列化、反序列化和对象 clone等基础知识；\n6、具有使用Junit等工具进行单元测试和性能测试的能力，具有使用Tomcat等工具进行部署和性能调优的能力；\n7、具有良好的沟通能力、团队协作能力和解决问题的能力，具有主动学习和独立研究的能力；\n8、有SaaS系统开发经验优先。",
+      "encryptAddressId": "a5233f4fc7a2dd961nd939q7GFBTw4-2Uf2Y",
+      "address": "杭州余杭区海创园5号楼405B",
+      "longitude": 120.018605,
+      "latitude": 30.283056,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bfce16b03312131bdb283fce80ff831bd46bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230703/48ba41acc9cef1bf063315a43ba2339fbe130eaac8a153bd6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "JVM",
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "童先生",
+      "title": "招聘",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211210/607f1f3d68754fd0215e4c79942e3fbd786e680e7c0810fb9fe5cbe5aa583aa934cc9629822_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "简效",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f769fc7798c2a4851nB409S-GVA~",
+      "brandName": "简效",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100015,
+      "industryName": "企业服务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728721333071,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "简效",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

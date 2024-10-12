@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ZLfcPiICmY7l1-B1tAWkR57RzZi5H5npFfjQhYPQiAgkw-Fh4pHQbCjfoRVxZie7-aWUdgYCBxkmQJa5wi8Yj4MnRrPADaRl4jkn807RRT6kcanwbK3dfZqYNnB-ju8XLW4MY2IeYmc2RedjCofpwrTR53LhN05ptcz_NMq-TG-oZrVf",
+    "securityId": "tHDEVoHrRqT4F-41YqGiqTCnbn2qYo4iih_qq4Q2f9Fi1UapNWl2f19IjJs-jtGI0W2TePdHOmYyKHV_GZpFyl__CtQNGYLG4ODQ6gG7e5WPZp70IYjjifP8ROK0NxpiPKSm1OV0DwvR",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,7 +45,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240920/607f1f3d68754fd0b14812252eb10c42e8d10e7e93d23407ab719ac31df8490b900b6dcde3b8efa_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "肯德基",
       "bossSource": 0,
       "certificated": true,
@@ -64,12 +64,12 @@
       "industryName": "餐饮",
       "introduce": "百胜中国控股有限公司是中国领先的餐饮公司，致力于成为全球最创新的餐饮先锋。自从1987年第一家餐厅开业以来，截至2020年6月底，百胜中国在中国的足迹遍布所有省市自治区（港澳台除外），在1400多座城镇经营着9954家餐厅。2020年，百胜中国位列《财富》美国500强排行榜第361位。百胜中国于2019年、2020年连续两年入选彭博性别平等指数，并荣获中国杰出雇主认证。\n\n百胜中国从Yum! Brands（纽约证券交易所代码：YUM）分拆出来之后，于2016年11月1日独立在纽约证券交易所上市，股票代码为YUMC。百胜中国于2020年9月10日在香港联合交易所主板正式挂牌上市，股票代码为9987。百胜中国在中国市场拥有肯德基、必胜客和塔可贝尔三个品牌的独家运营和授权经营权，并完全拥有东方既白、小肥羊、黄记煌和COFFii & JOY连锁餐厅品牌。百胜中国亦与Lavazza合作，于中国探索及开发Lavazza咖啡店品牌概念。\n\n百胜中国超过40万的员工是我们发展的支柱，与此同时，在百胜积累了经验丰富的管理团队和全情投入的前线伙伴也正在续引领发展活力充沛、直面机遇、和充满欢乐的企业文化。",
       "labels": [
-        "五险一金",
-        "带薪年假",
+        "节日福利",
         "员工旅游",
-        "节日福利"
+        "带薪年假",
+        "五险一金"
       ],
-      "activeTime": 1728552292533,
+      "activeTime": 1728720943471,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "肯德基",
@@ -88,7 +88,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

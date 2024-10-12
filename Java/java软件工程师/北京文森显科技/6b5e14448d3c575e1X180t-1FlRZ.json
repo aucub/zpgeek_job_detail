@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "xO7XgKKxKg6l7-b1wZ7sWm88EdFgJMRbli0r0tRUPFkr50VIC54wQuAjgKR9aDrs1nKFBAWVlC685ipwfYV05PDuRgyql75VjpsZswuKyfYx0T6k8ueCzlw6ecz-AS2d-dey-wGJdIVDxoQPghsT-ije",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "6b5e14448d3c575e1X180t-1FlRZ",
+      "encryptUserId": "7a50527d8bf92f390n143961EFpV",
+      "invalidStatus": false,
+      "jobName": "java软件工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 按需求完成产品的设计、以及开发工作；\n2. 负责模块内的业务架构的设计、改善；\n3. 在项目搭建及实施中，分析系统中可能存在的性能瓶颈或漏洞，并设计合理的解决方案，保证系统在平稳运行的前提下安全升级，提升系统性能；\n4. 积极改善工作，提高产出以及质量；\n5. 积极配合运营人员完成项目的运营环节。\n\n职位要求\n1、统招本科以上学历，应届生需要一本，学信网可查，计算机专业。\n2、 有Java领域的设计与开发经验，有大型平台研发经历，有良好的组件级建模能力，熟悉系统性能优化；\n3. JAVA基础知识扎实，熟悉J2EE架构体系，熟悉Spring、Mybatis、SpringBoot、SpringCloud等主流开源框架；\n4. 对数据库的基本理论和内部实现机制有比较深刻的理解，熟悉主流数据库（Oracle、MySQL等），熟练掌握SQL语句及数据库调优等，拥有较好的数据库设计能力；\n5. 熟练使用Redis等NoSQL；\n6.熟练使用kafka等消息队列；\n7. 责任心强，具备独立分析和解决较为复杂问题的能力，有较好的协调能力及合作意识，能够承受工作压力；\n8. 熟练使用Linux系统；\n9.熟悉k8s使用者优先；\n10. 有推荐算法经验的优先；\n11. 有电商平台项目经验的优先；\n12.熟练使用git管理工具。",
+      "encryptAddressId": "654cd2d70978f9c133J93Ni1ElM~",
+      "address": "北京朝阳区焦奥中心B座203",
+      "longitude": 116.530531,
+      "latitude": 39.851037,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f623be249401ef37420fe5c4f5197c05",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f1fcdf646df284a6413fd68d71922884",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "MyBatis"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230411/607f1f3d68754fd0024bef98dc9716cf5352a848eade08af4e8bf9c710192e2f423857351a2_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京文森显科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e89ceab9d8c0f56c1XJ_3927EFM~",
+      "brandName": "北京文森显科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728720430380,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京文森显科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

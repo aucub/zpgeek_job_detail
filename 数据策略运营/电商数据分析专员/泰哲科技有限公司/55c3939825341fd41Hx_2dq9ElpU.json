@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "1EfhjqCrAGxjt-h1TwFhDQwvPpm1o0da0idxcB1sNhCEcPk6PpgRDw79HJeRPbwiweTWEj7K5aBiTwpq3fwkOTszzdVY6v6iuHibIq-oYVwgBfuGtD7rXqDoknv89FWRUyW6LRL5jh0ZkpOEejHVvsyeEtjjA4I7p-sEicaAjei6hqqnb94~",
+    "securityId": "SfTQHdgYOHev5-S1s8DWTylX2NUNWbpsV7EONRDo1ulRkWOnUFyVh0rsD4uCXttqP8PHqyXWNmEdFYRzksa8fiSWjXHO3SL7AOFpH232TBqfN3q-fU2wJhNTdzvor4wzSi1RA4hcF8HU4l3-N_MZsWbfhx3oLbxhiyS1UIyjMJzonHBuNZU~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -50,7 +50,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": false,
+      "bossOnline": true,
       "brandName": "泰哲科技有限公司",
       "bossSource": 0,
       "certificated": true,
@@ -79,7 +79,7 @@
         "绩效奖金",
         "年终奖"
       ],
-      "activeTime": 1728552781359,
+      "activeTime": 1728723766961,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "泰哲科技有限公司",
@@ -98,7 +98,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

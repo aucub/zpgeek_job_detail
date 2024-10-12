@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "k1a14mHU46GI4-_1S9N601pMSQa9RuAZnzGrsvzW9AZShYcHup7NThFI1TBth2taq-cJa9bgAdFOe_FzEqHqlMpHEV-FdpjxYuwNjmr74sU9Rxqa_A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b4db6bf63cdd10801HJy3tS1EltU",
+      "encryptUserId": "3ab6467d19cb23720Hdy3N26EA~~",
+      "invalidStatus": false,
+      "jobName": "ai算法工程师",
+      "position": 100120,
+      "positionName": "算法工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-11K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责：\n1、对图像数据进行分析，挖掘内在算法逻辑，分析算法风险；\n2、负责图像处理中相关算法的研发，包括图像分割、模态转换、域迁移、数据增广、数据关联等技术研发；\n3、负责图像数据处理、机器视觉相关算法的设计、实现、测试、优化和改进；\n4、根据上下游小组的意见和需求，协助算法对接、联调，对算法进行调整；\n5、书写条理清晰、描述明确的相关文档。\n\n任职要求:\n1、数学、计算机、软件工程等相关专业毕业；\n2、有丰富的医学图像处理和分析任务经验；\n3、熟悉机器学习、深度学习等人工智能算法，掌握Pytorch/Tensorflow；\n4、熟悉Python、C++、Matlab等至少两种编程语言，了解CUDA编程优先；",
+      "encryptAddressId": "d0ba53f3656c7ed73nF-3Nu5GVI~",
+      "address": "广州番禺区番禺区石楼中学石楼中学左转",
+      "longitude": 113.477242,
+      "latitude": 22.974705,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf55a3a370f0ddbfcabd7dd53f09cf7d0b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230604/48ba41acc9cef1bf5af7f4b3791b99ecb515df87d95838096bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C/C++",
+        "图像算法",
+        "深度学习",
+        "大模型算法",
+        "嵌入式开发",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "方先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160430/8b686e9cbe54709562b2ee679e1563ae8c7dd922ad47494fc02c388e12c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "康熹智能",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "af9f7591301b3ae71Xx63di1Fls~",
+      "brandName": "康熹智能",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230614/7b5b554d84f9729cd5a71f851f52e7a5b293beaae08cbd24b867b542584fe15d8fe3f44335d40abf.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100901,
+      "industryName": "机械设备/机电/重工",
+      "introduce": "康熹智能是面向全国消毒餐具工厂提供全套自动化解决方案的公司。对消毒餐具回收清洗线的前中后段，针对性的提供相应的产品，实现整条生产线无需换线即可实现自动化。",
+      "labels": [
+        "住房补贴",
+        "餐补",
+        "夜班补助",
+        "加班补助",
+        "绩效奖金",
+        "补充医疗保险"
+      ],
+      "activeTime": 1728559401628,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "康熹智能",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
