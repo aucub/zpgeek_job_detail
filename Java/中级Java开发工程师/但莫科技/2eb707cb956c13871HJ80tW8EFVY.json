@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "n8EKpFkq4EHFa-p1pBnyS5gSwUdSdTufKS4nV5--9jNMEzCkFPLKbs1YwLpHUzgmYcsXv3kfEysVo5WPHO61kSSEmy6aKddR5cuZeSX9MkdhpYJA23Ka",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2eb707cb956c13871HJ80tW8EFVY",
+      "encryptUserId": "c4d7520d504386460nd42Nu-EVdT",
+      "invalidStatus": false,
+      "jobName": "中级Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "工作职责:\n1、协助项目负责人完成项目的总体设计以及编码工作的实施。\n2、有一定的用户需求分析和理解能力，有较强的应用功能设计和数据设计能力，能根据较复杂业务逻辑独立设计数据模型和数据间关系；\n3、具有良好的文档编写归纳整理能力。\n4、具有较好的沟通能力\n\n\n任职资格:\n1、专科以上学历，计算机软件或相关专业；\n2、2年以上Java开发经验，具有扎实Java技术功底；\n3、精通Java Web编程，理解Spring（springMVC/spring boot/spring cloud）技术栈、Mybatis、redis,Elasticsearch,消息队列等框架的设计思想和实现方式；\n4、了解模系统的负载均衡、缓存、网络存储、网络安全、数据库高可用设计；\n5、熟练MySQL、oracle，有数据库性能问题诊断及SQL语句调优经验；\n6、熟悉Linux操作系统，具有基础服务器运维和问题排查；\n7、热爱技术工作，具有良好的沟通能力和团队合作能力，高度的责任感，对工作积极严谨，善于独立思考，勇于承担责任。\n8、熟练Docker、K8s容器云以及云化相关技术经验。\n9、会安卓开发优先\n10、有大数据方面经验优先\n\n*能接受不定时短期出差，能接受不定时短期出差，能接受不定时短期出差（ 重要必看）",
+      "encryptAddressId": "1df5236fada48f703nN_09u1FFVYwYy4Wf8~",
+      "address": "武汉硚口区万喜德国际公馆2614",
+      "longitude": 114.249097,
+      "latitude": 30.568647,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf5ace45e9bdaa9c43032b66f95ffa1dd86bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230608/48ba41acc9cef1bf149e592f488c7e38fddf571fb806624f6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Redis",
+        "Spring",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "杨先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210519/57e79e963ec7819dca3344b273fb7c9d247f929f213bf5bac4d79d619d4_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "但莫科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "587f480c976198d31HV539S-Elc~",
+      "brandName": "但莫科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "绩效奖金",
+        "保底工资"
+      ],
+      "activeTime": 1728736423764,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "但莫科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

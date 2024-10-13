@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "b9p4o5_JNrD6Y-f1WKpHqec3DGLesiR09luIZsJFCeZji_b0j1FUUQZVh1PsQj27lpLidN2M24ztdAhgG1XGIXH1Eed436z57ZYjtu5ZkJmYU4Yi7Rc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "535489455f0d79611X192N66F1VZ",
+      "encryptUserId": "513841be19e987da0HB_09y7EFM~",
+      "invalidStatus": false,
+      "jobName": "nodejs后端开发工程师",
+      "position": 100114,
+      "positionName": "Node.js",
+      "location": 101190100,
+      "locationName": "南京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-12K",
+      "payTypeDesc": null,
+      "postDescription": "1、参与项目的系统功能设计和数据库设计；\n2、软件系统设计、代码编写及相关文档编写等开发工作；\n3、参与公司项目的开发，软件测试、系统性能优化等工作；\n4、独立完成个人承担模块或项目的开发和测试；\n5、全程把控软件测试任务的进度和质量，使其满足项目进度的要求；\n6、按时整理发布测试报告，发现工作存在的不足和做出改善方案；\n\n任职要求：\n1、有Golang或者Nodejs应用软件开发经验；\n2、熟练运用某些常用类库以及框架（Gin、SpringCloud、Springboot、Hibernate、Mybatis、Kafka消息队列、GraphQL等）；\n3、熟练使用关系型数据库，有NoSql数据库（redis/mongodb等）设计和应用经验；\n4、有系统需求分析、设计经验以及项目管理经验；\n5、有软件测试和调优经验；\n6、具备良好的沟通能力和学习能力，责任心强。\n\n优先考虑：\n1、深入理解分布式、多线程等高性能架构相关开发技术；\n2、有实现大流量、高并发的分布式系统经验；\n3、熟悉前端框架，如React/Vue/Flutter；\n4、具有成熟的日志系统设计方案及工作经验；\n5、有Serverless，例如AWS Lambda、DynamoDB等经验；\n6、熟练Linux，有成熟的自动化代码生成设计方案与工作经验；\n7、对区块链、数字货币、交易所、智能合约有了解。",
+      "encryptAddressId": "4acc49cb8fb35a451nR72Ni8GFtU",
+      "address": "南京鼓楼区商会大厦-黄金楼B座2303",
+      "longitude": 118.740371,
+      "latitude": 32.064756,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bf245a289de2dad53c416e947bb8ca98ec6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230529/48ba41acc9cef1bfd03133dde89868976612ec4aa94e86ce6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Node.js开发经验",
+        "Node.js",
+        "计算机/软件工程相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "黄先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200307/c0ff0c9488de10dcbe403b1003829784d1915831f8ca5ac3105bbb21526_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "网三",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7f6c9399e3f707701XR53dq_FlM~",
+      "brandName": "网三",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728785491538,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "网三",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "wsaf8Cu3NC3lQ-e1snNl79B4gU2NQrebLZ74SxS6sTeV8JYw2M1uMxU9rkvep4M1NPGdMgb8c72IORVHOPVU4ABFjIYUaQEPgxegvc53yxhBURNVaQa0",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "73bbcf1edddcf11e1HN93d65FFdQ",
+      "encryptUserId": "947eace9e56e092a0XN62NS1GVRZ",
+      "invalidStatus": false,
+      "jobName": "初级渗透测试工程师",
+      "position": 100310,
+      "positionName": "渗透测试",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "工作描述：\n1、在客户授权下，对系统、网络、服务器、App应用端等进行渗透测试、安全测试、漏洞挖掘；\n2、针对渗透测试发现的问题撰写安全评估报告，提出修改建议和缓解措施，推动问题解决\n3、研究业界最新的内外网渗透测试技术及方法，不断优化解决方案\n任职要求：\n1、熟悉主流的Web安全技术，掌握Web安全常规漏洞原理及防范措施，包括SQL注入、XSS、XXE、RCE等安全风险；\n2、熟悉渗透测试原理，熟练运用各种渗透测试平台，熟悉Windows、Linux、kali等平台的攻击技巧；\n3、熟悉一门编程语言Python/PHP/Go/Java等，能够进行脚本、漏洞验证的poc编写或改写；\n4、熟悉Linux和UNIX主流操作系统和主流数据库（SQL、MySql、ORACLE等）并具备渗透测试能力；\n5、能熟练搭建靶机并进行漏洞复现，在各大安全漏洞平台、企业SRC平台提交漏洞；",
+      "encryptAddressId": "f2f65603f3ebe1181nV43921GVdSwIy5UfKX",
+      "address": "成都锦江区泰合·国际财富中心6栋",
+      "longitude": 104.107472,
+      "latitude": 30.636136,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/431575e4f8e781fa35fd244b5d481781",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/58756bec8cc912d2419426153a633e14",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Burp Suite",
+        "Web测试经验",
+        "渗透测试经验",
+        "攻防对抗经验",
+        "Nessus",
+        "Nmap"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "成都金信网安科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "41573c86354e4a361HJ-2dq5EVE~",
+      "brandName": "成都金信网安科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100016,
+      "industryName": "信息安全",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728632812007,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "成都金信网安科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
