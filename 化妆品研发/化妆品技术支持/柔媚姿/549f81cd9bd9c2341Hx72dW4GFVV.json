@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "S0t5bS60JYm3I-w1_mopZvHHx9YcZ_YlZEFTnfqiW_q7Skp1pxKSoyj9DLZC9EjpuVxeBtlRmac-qPfMAaFlaQDtkbDoVFa1BSCvcX6m-Ohk_yg0mIMLNcgkrYcP2AJK8MQjz9yV3goVpUI~",
+    "securityId": "zHsgy8RDVPWd7-w1xMhptyTwr6f7n7Gjz1Iglu-pQcNCMJ_au0WhDuDrG09OGNLNghXg6PE3hlqUMAMX5CEh1t0UQbWYa33oOgdtyBuusNo-nrS_DqgBew3D_0_cZEbYfoRJjDB6Nguf_VajoUXHmMWJqvi6C_fN8vrIrvkmRTD_pA1oYfRRwQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "4-9K·13薪",
       "payTypeDesc": null,
-      "postDescription": "负责公司原料的组织搭配，构建配方框架，做样品配合销售。",
+      "postDescription": "负责公司原料的组织搭配，构建配方框架，做样品配合销售。\n任职要求：要有实际化妆品行业工作经验，能够独立设计配方",
       "encryptAddressId": "a226de2514bd617103R-29u9GFA~",
       "address": "广州黄埔区萝岗敏捷广场D4",
       "longitude": 113.482102,
@@ -44,7 +44,7 @@
         "安全性测试"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "范先生",
@@ -77,17 +77,17 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1728272825913,
+      "activeTime": 1728826266162,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "柔媚姿",
       "customerBrandStageName": ""
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {
@@ -96,7 +96,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

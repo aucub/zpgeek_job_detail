@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "7yY3BkhtOgMUT-r1qONewj-r_FUCxCafeztPjqKnPP2VZCu88t88PNOzdbI2XeGOAFmOsMywS4_5U7E3qPvbmA9S_ve33JN93nD-Ex-LdxdGfDSLbSLfz585VKuk9-vy4NIcdamk7z8JCVKtTdcVCQnggWDrCC34Uw0G6JFMJwspN9v_7PM~",
+    "securityId": "_JDVgh_p6KEp0-k1IZXg71I3EK0zYBChtQU7yaC5pKIO5Jgx1ygkmLh__-04lIXb9TOUH3FhEfSIrB8URG3WyRs3XAjJeJdsPiE5K6GCUu2oCx509zRUlKKdeIPCWvIPTTYrNoIdi13YHOw~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,8 +45,8 @@
       "title": "招聘者",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd0c41b0f79b61308d0459ac9421f52b77e2ccf85f18aa1b96bbb25d7e09e68994_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "广州市智选按揭服务",
       "bossSource": 0,
       "certificated": true,
@@ -73,7 +73,7 @@
         "保底工资",
         "绩效奖金"
       ],
-      "activeTime": 1728476640965,
+      "activeTime": 1728726564907,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "广州市智选按揭服务",
@@ -92,7 +92,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

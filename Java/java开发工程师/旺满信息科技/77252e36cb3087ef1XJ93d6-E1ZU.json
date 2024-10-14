@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FI5TTex3AkA8H-g1TfktdVj78qXvOM3mIdVTqICwC2FNJcikcc12McOrrYXKQpdR3w13J1YPLAYbrKaXGuxuqPvDdaFzJ0PrYwEva9NxDvsi3clDd3Ax",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "77252e36cb3087ef1XJ93d6-E1ZU",
+      "encryptUserId": "bb47535d81d23d400nZy3tS9EFZQ",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101190400,
+      "locationName": "苏州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "工作内容:\n1.参与系统需求分析、设计；\n2.独立负责模块开发工作；\n3.负责或参与项目中技术难点的攻关及预研。\n4.配合测试完成开发过程中的bug修复。\n5.据项目要求，编写相关文档。\n\n职位要求:\n1. 2年以上工作经验，java基础扎实，参与过中大型项目开发。\n2. 熟练使用常用的微服务架构springcloud,dubbo。\n3. 熟练掌握常用数据库（mysql,redis,MangoDB）。\n4. 熟练使用Linux操作系统，能完成shell脚本编写。\n5. 熟悉常用的大数据组件（hadoop,hive,habse）。\n6. 善于钻研新技术，有较强的学习能力和文档阅读能力。\n7. 做事认真负责，善于分析问题，能保质保量完成交代的任务。",
+      "encryptAddressId": "0d3bb9934555274f0Hd-2Nm8GFI~",
+      "address": "苏州苏州创意产业园16栋",
+      "longitude": 120.733907,
+      "latitude": 31.264148,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c2ecd6f65902807820f6947325f36b80",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/292b5354832fd263af9c929b29dbbf61",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "SQL Server",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "旺满信息科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "d58cd050a7f5c27b1nZy39W7EVU~",
+      "brandName": "旺满信息科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230331/7bf6f160950405e9f804b8608fc5f6fabceb6d55e53b4b3dd0685a0d9e2e98fb79254d84505bb28f.jpg",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "我司致力于AI智能摄像机产品升级和图形图像处理领域应用；我司拥有25项行业软件著作权、一个自主品牌、多款自主研发产品。产品包含：多人脸考勤机，人脸识别球（枪）型摄像机，电瓶车识别摄像机，人流统计摄像机，垃圾分类辅助摄像机。公司以“专注产品，用心服务”为核心价值，以用户需求为中心，紧跟科技步伐，竭力研发出更加出众的产品，为构建更加立体的AI产品生态不懈努力。",
+      "labels": [
+        "零食下午茶",
+        "带薪年假",
+        "全勤奖",
+        "股票期权",
+        "绩效奖金",
+        "年终奖"
+      ],
+      "activeTime": 1728902832271,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "旺满信息科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

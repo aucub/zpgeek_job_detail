@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "98kyLR77pojh_-x1w0_LcU4McDm3gR7CmViykxSpROk_jXp8HVNEDnYJn9yr2b6HS7srWF8ndFkgyIT2GvcKCFW1LfaMayAdNhfsrTu1RlipAsgzoCWB2ZmiRnGBii6MNgPcZbYcy_fVarei2YnH6p-Ryj3CrrhLHLQs89xrO5uZ8XQE",
+    "securityId": "WoJHwpGet2P0d-t1e19U74D-K9YHFrggR3vuu9rx_r93MY_uLbjVJXE5xFgcxm0byTFM1p7r7CXx1RjGo7aTYq-_ULGBCW4AA0oJEi_MjS1hDzF27m-4GYM8AZiMwIbRgmLcp6InHM0m",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,13 +46,13 @@
       "title": "招聘经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231129/607f1f3d68754fd0136241bc87a153fd9ce4963d66cf5f731649e19d2737372535eed03ee013c28_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "CYCLONE RPA",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "025511600cbce33b03Ry2NW4Fg~~",
@@ -74,7 +74,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1728553149666,
+      "activeTime": 1728726498841,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "CYCLONE RPA",
@@ -93,7 +93,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

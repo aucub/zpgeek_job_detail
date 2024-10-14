@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "CGh5Hm68O356Q-P1LJwq_Wamrh2tRNDYXjoEoerJs8vM8CbqDuARe7UgRHj-wNhzrhLAxdb1PCt7c9LX68He5BYanH17U0BqCuynwPV9bRMuRaByGk6i_BMht2WPbRvtFcp8dbpPBXNknME~",
+    "securityId": "jEJftkopoE0o1-X1YXRLcIIiPiMpzlCUiwiYga36VDqwFCvcpWmLp6w301G6vrczpabhgyjiFhhGbBATQ7fjsmxATOPdeIN-LRG8EKtcSv6kHYn9oh5I5p9nW5ITrkf7ZhfvXylHc3jwoPs~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,9 +33,9 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "数仓设计/开发经验",
         "计算机相关专业",
-        "BI项目开发经验"
+        "BI项目开发经验",
+        "数仓设计/开发经验"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -45,13 +45,13 @@
       "title": "行政",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240112/607f1f3d68754fd0695003239a8768ee058c01e8b976903bfc490b8f1a67c8785878a5af4127491_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "3日内活跃",
       "bossOnline": false,
       "brandName": "信创智联",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+      "avatarStickerUrl": null
     },
     "brandComInfo": {
       "encryptBrandId": "15114ca2fdc9a3141HZ-2tS9GFE~",
@@ -71,7 +71,7 @@
         "保底工资",
         "年终奖"
       ],
-      "activeTime": 1728465833690,
+      "activeTime": 1728725436899,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "信创智联",
@@ -90,7 +90,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

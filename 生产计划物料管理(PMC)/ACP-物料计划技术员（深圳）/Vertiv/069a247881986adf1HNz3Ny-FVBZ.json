@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "vOFum6ynpVm4R-111jrGWh5559ic-lFJsrRvoH3YitVyUA923tlLZw3najw6BYJiVNuRWhQh1PZ0seIVk4gwdhVypFzalP15omoaN07m8BOsZKUEiyrBCr4FixAs5lO2N1V4V6hCGiWl",
+    "securityId": "gB03fyOJZ9I0V-71AkE3dzn4Fr68Sknd9DXgFgoPod8UtnT8fRWfumxmZPLqa2pltjzP5CdfIiO1n30aW5-Ppnf-d8nuLsm8hd1UbWujUOKTw9TxquukXFw4cTxBO7F1OGIFiaKyadjj",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8.jpg",
       "large": null,
-      "activeTimeDesc": "2周内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "Vertiv",
       "bossSource": 0,
@@ -99,7 +99,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

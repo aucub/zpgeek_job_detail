@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "MIAzmfjgNAEmC-g1JAQWlODsqoE9KHj2bjDlMl2R7wv5dpJRyEwTe4agDnJPxALHfRgW8W8iSwGmFUtMPkIYBvBi03IbVgIltQtHzY7nHO6CctDA8AudeREnWv4YhTfSo31SnzQlXRrW",
+    "securityId": "J9mx91o4jg2Xi-w1Qu2b4C96Bm5uln2rf5Ddw0mQW5G4ciWlp5jspo0raZy_CMSDZgfgWPitgKP1OL5Sz2uf1YuPXo5BqP6ZUc6onoeefVmPH5xAn3lk9cvc9rGpQqY8zoPqfswohA3a",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "7-12K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、根据软件设计需求制定测试计划，设计测试数据和测试用例；\n2、有效地执行测试用例，提交测试报告；\n3、准确地定位并跟踪问题，推动问题及时合理地解决；\n4、完成对产品的集成测试与系统测试，对产品的软件功能、性能及其它方面的测试；\n5、有机器视觉软件测试经验优先。\n\n岗位要求\n1、大学本科以上学历；\n2、通过英语四级。",
+      "postDescription": "岗位职责：\n1、根据软件设计需求制定测试计划，设计测试数据和测试用例；\n2、有效地执行测试用例，提交测试报告；\n3、准确地定位并跟踪问题，推动问题及时合理地解决；\n4、完成对产品的集成测试与系统测试，对产品的软件功能、性能及其它方面的测试；\n5、有机器视觉软件测试经验优先。\n\n岗位要求\n1. 计算机科学、电子工程或相关专业本科及以上学历。\n2. 至少 2 年以上软件测试经验，具备良好的软件测试理论基础。\n3.  熟练掌握至少一种编程语言（如 Python、C/C++、C#）。\n4.熟悉 Linux/Windows 操作系统，具备基本的 shell 脚本编写能力。\n5. 具备良好的沟通能力和团队协作精神;能够独立解决问题，具有较强的责任心和抗压能力；学习能力强，能够快速适应新技术和新工具；具备较强的文档编写能力，能够清晰记录测试过程和结果。\n6.有机器视觉领域软件测试经验者优先。了解图像处理和计算机视觉的基本原理，熟悉 OpenCV、halcon 等库者优先。\n有自动化测试工具开发经验。",
       "encryptAddressId": "e521e10499bfe80a0nZ6096_FFo~",
       "address": "桂林七星区桂林移远通信技术有限公司广西桂林市七星区朝阳乡朝阳路信息产业园D-10-2号民华科技信息园(电商谷)9栋4楼",
       "longitude": 110.338616,
@@ -33,13 +33,10 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
+        "linux 测试",
         "C++",
-        "测试工作经验",
+        "编写脚本",
         "自动化测试",
-        "通信相关专业",
-        "性能测试",
-        "功能测试",
-        "掌握软件测试理论和流程",
         "Python"
       ],
       "anonymous": 0,
@@ -83,7 +80,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1728388164116,
+      "activeTime": 1728899493356,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "移远quectel",
@@ -102,7 +99,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

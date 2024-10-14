@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "9dLEPptwhPzk1-O1oyemyJ_VnonKJvposae-r0HEnLWEr8yf6qXYyYUBcrT1efl0X92lghF9lB0EzLUS75mxi1WxMXTu0jFpOEURdkanzljrMrnUfapb2e7C5PO-mn-cUQev58pXDFMt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e9a3ebb5ab24659b1H172Nq-FFBT",
+      "encryptUserId": "c2af6af7e5e7ae2e03172NS9E1M~",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "职责:\n1、负责软件项目的日常运维、测试、拔测及升级:\n2、负责软件项目的日常使用过程中的故障处理、部署跟进:\n3、负责软件系统运维相关流程的规划、设计、推行、实施和持续改进:\n4、负责编写运维相关文档、故障处理报告。\n5、负责应用系统调优、数据库升级改造规划。\n\n岗位要求：\n1. 本科学历以上，有从事应用系统维护工作；\n2. 了解操作系统的基本知识，包括文件系统、网络配置和权限管理等方面的知识。\n3. 了解常见的网络攻击和漏洞利用方法。\n4. 需要分析应用程序的性能数据和日志。\n5. 了解和掌握各种监控工具，如Prometheus、Grafana等。\n6. 精通Linux操作系统原理、网络相关原理、云平台相关原理；\n7. 熟悉一种或多种编程语言，如Python/Go/Shell；\n8. 熟悉Docker/k8s容器平台及相关底层技术和原理优先；\n9. 具备业界标杆开源监控系统(Prometheus/Grafana/Jaeger/Skywalking/ELK)的使用经验；\n10. 对SRE践行的方法论如SLA/SLO/On-Call/Capacity Planning/Post-Mortem熟悉；\n11. 熟练掌握主流应用架构体系、数据库以及各种中间件技术；",
+      "encryptAddressId": "55ff058a7a3c820a1nVy0968EFdRw4i-WfOf",
+      "address": "广州天河区时代E-park二期时代E-park二期11栋505室",
+      "longitude": 113.402719,
+      "latitude": 23.166752,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfe4b00a1658bfac535a518c9e54c3e2e16bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf727de2ba4989fec9a1250caee22f2e5b6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "通信相关专业",
+        "Linux",
+        "系统运维",
+        "软件运维",
+        "运维开发/DevOps",
+        "运维开发经验",
+        "Python/Shell",
+        "计算机相关专业",
+        "电子/电气/自动化相关专业",
+        "运维经验",
+        "应用运维"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曾女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240820/607f1f3d68754fd0bc1d4e90882e95a6e441c9e33d50fa86c9ad72621bfd76a2291307320e28161_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "融朋信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "6aba6d524eccf1ab1HV42t68FQ~~",
+      "brandName": "融朋信息",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1728742485966,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "融朋信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "O724-HHYX2-Xu-11mlabHs6RxztUTEJYjkCuxRiwuVifpQRBVEb8RHcTu8DmphaRliecamsQklqxycpGXvkpELr45njOL0wFeWYccvq-GkXYGD6cPZ8MVvEMBMY7pHaHa1To93RznaxqsQ~~",
+    "securityId": "XFgSi4OBA1An--E1Ls_eu7182jf_6I0KL1_IcEV1jRD_mSRuLxSwmZASY8ZBhcFE-apzaj07kl8fgPhNk-va3J1IDRH60MNB-VvZ91oEjnId5Ruyggi8tYshxLgjAK-HVzKyGuFIesgnQQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "title": "老板",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd035722dfde5f0e6fda7905f4ea057bc7b34271fa75836fd05f5a18f758c4619a_b.jpg",
       "large": null,
-      "activeTimeDesc": "2周内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "广州凯瑞新能源",
       "bossSource": 0,
@@ -95,7 +95,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,
