@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "NDTetiyPHBBKQ-r1Uk9tsrzEBWz2O3EDVvbo2SfckK6BRAvH93I7qXgTkr5LsY1UJ2RHTA-oHjKDcivnQUaTj0-9QGR099hTmFvcmH-p4rSzhPm3Ihad",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "3fc2733df27065991XR42Nq8FVpZ",
+      "encryptUserId": "f52a11bc311a276e0nd53tq8EFpU",
+      "invalidStatus": false,
+      "jobName": "Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101100100,
+      "locationName": "太原",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "【任职岗位要求】\n1、负责需求沟通，产品构思和架构设计，业务功能的实现与测试；\n2、承担软件系统模块的代码编写、单元测试、本地构建等工作;\n3、根据设计构建和实现系统，保证高性能处理和系统的稳定性；\n4、具有良好的沟通能力，刻苦、敬业、有上进心，对技术有激情；\n5、具有规范的编程习惯、系统设计能力、代码重构能力、能够承受一定强度的工作压力，责任心强。\n\n【业务技能要求】\n1、熟悉JAVA编程语言、J2EE的设计模式；\n2、熟练掌握MVC架构,熟练掌握SpringBoot开发框架\n3、熟练使用常用集成开发环境，熟悉版本管理工具，如：git、svn等；\n4、熟练使用jquery、Vue、bootstrap等前端框架；\n5、熟练使用SQL语言，能够操作Oracle、MySQL等数据库；以及相应数据库调优、SQL优化。熟悉Tomcat等WEB中间件；\n6、熟练使用linux操作系统进行项目部署；\n7、有APP、微信小程序、微信公众号等移动端开发经验者优先；\n8、有低代码开发平台研发经验者优先\n9、计算机相关专业，2~5年软件研发工作经验，本科以上优先。",
+      "encryptAddressId": "f20e8d535c01b35503N-39y4EFs~",
+      "address": "太原小店区千禧·学府苑4号楼2单元101室",
+      "longitude": 112.570493,
+      "latitude": 37.811355,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b9bba41143a0010e34765843545fc903",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eeaa971d11b8cf2b4b8e9a1081b093d9",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "MVC开发",
+        "SVN",
+        "Oracle",
+        "MySQL",
+        "Linux",
+        "GIT",
+        "SpringBoot"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "葛女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211222/607f1f3d68754fd0f879b2d83bd1d1a4df82166d9252a5376524760d303c280f26ffdb3dddf_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "睿聪渊",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "825cc333651dbed01n1-0tm7GFs~",
+      "brandName": "睿聪渊",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100022,
+      "industryName": "计算机硬件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726347151187,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "睿聪渊",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

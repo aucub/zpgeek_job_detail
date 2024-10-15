@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "5ZMue6xd5z8Qs-m1oQIx6t3eYKfQUJeIlqc25KAN-4p40CyJA20Rs_9sFlYt-fpHBItCR5o0Ovwsk2RgiK_TA-IzkPlCGFu6HbdCcnz_VM6tCInxdFCCa-k-VXo3Z8NbX1MK963Y3gWMG5hWOy5J4VQt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "d4ef5e4106ba14651HJz3Ny8EFVV",
+      "encryptUserId": "23c435a1599e3ce30XV439q7FlBY",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：1、负责维护公司ott系统和cdn系统的稳定运行；\n2、负责相关服务的监控和预警；\n3、负责线上故障跟进和解决；\n4、负责新版本发布上线；\n5、负责线上用户问题的技术支持；\n6、负责运维值班和其他日常运维工作。\n7、负责与CDN厂商对接，问题排查及处理。\n任职要求：1、1~3年工作经验，计算机相关专业优先； \n2、熟练使用Linux命令，熟悉计算机系统和网络，有红帽相关认证优先； \n3、熟练掌握shell，Python两种编程语言中的一种，能够独立开发运维脚本和项目； \n4、熟悉zabbix，grafana、elk等，有使用和调优经验； \n5、熟悉Postgres、MySQL、influxdb等数据库，有使用经验； \n6、熟悉视频编解码原理，熟悉ffmepg、流媒体服务器等有相关从业经验者优先；\n7、熟悉容器知识，有docker、k8s使用经验者优先；\n8、技术沟通能力强，文档习惯良好。\n（ps：以上几点至少满足3条以上）",
+      "encryptAddressId": "a48e7bd86121af931nR_3di-GFpT",
+      "address": "深圳宝安区星港同创汇天璇座312",
+      "longitude": 113.803951,
+      "latitude": 22.67206,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/63628cdb1891613e1c741c4b0f8fb878",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18d1e028b96f4843cfa436ee9fb9009f",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "系统运维",
+        "计算机相关专业",
+        "网络安全相关经验",
+        "运维经验"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "于先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230726/607f1f3d68754fd03fcefa9de9bf204cf29d9f5f52036c90da3fad898f2ce36c69daedd49c8439b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "聚悦软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5e707cc5977d1c381X163961ElA~",
+      "brandName": "聚悦软件",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728981508000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "聚悦软件",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

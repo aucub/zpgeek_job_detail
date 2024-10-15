@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "qVHtFLk3tTTiW-C13O9XpMSsGjVVlsAYfPKhLampaT-wPz7Q6Xn5iJ3taSr_8sO5DIf77-MJNJ1ttGlmxbZwggyGxHSnjg0Pd5NfjXoxWxWEZhVDhYOQb9n6nTTMWbcyToblbpBF7BEDTdbaaKoNN-CKtP2HxrZzbHt_IO4lfIOTXTUA",
+    "securityId": "pE7vNDNQo0KrN-G1dPh0cqd72dpS0aF_J1WLahTFoC0eIcB1cytqb0sdihXFIcsbjjTIpndbeM49C4Q9QvHy5ZDf8Ue0uYTO809tD3gpWe8K8O4jO8FIXC1s3P0In3413NjS7zInUNvOmwLFqoH5eW8p5A3Uk_mvpWdGzOfi8_0qro4Q2A~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,7 +49,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "逸舟信息",
       "bossSource": 0,
       "certificated": true,
@@ -77,17 +77,17 @@
         "节假日加班费",
         "全勤奖"
       ],
-      "activeTime": 1728624966398,
+      "activeTime": 1728908216415,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "逸舟信息",
       "customerBrandStageName": "未融资"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "aihJ3cBn-7F5T-s1dmmg_4Y5PvbGhI8vA10tVtItG7Lw9fin11NcG6VxDpMFBmb3MRAF6hY1vLIMYYF0q3KNqOotIRN5lIzlMHuLUTovLJAhLHM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "667cc86f9dd090dc33R_2dq4GVA~",
+      "encryptUserId": "19e826772b2f73541nV72dy5EFRU",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "1. 计算机或计算机相关专业学历，统招本科学历（学信网需可以查到，此为硬性要求）；\n2. 1年以上java软件开发工作经验（2020年及之前毕业），熟悉J2EE架构、SSH、SSM、Spring Boot、Springcloud，对项目开发过程中的技术难关有丰富的知识和实践解决问题的经验；\n3. 具有Java面向对象软件结构知识和经验，并对新技术有极大兴趣和自学习运用的方法；熟悉js、html、vue、react等技术\n4. 精通标准的SQL语法，熟悉Oracle、INFORMIX、SQLServer等大型关系数据库，熟悉nosql，有相关数据库设计、开发经验。     \n5. 能熟练的操作Linux/unix操作系统，对数据库、应用程序在Linux/unix环境部署有丰富实践经验。\n6.对软件工程有深刻理解，熟悉软件项目的开发生命周期，精通规范化、工程化的软件项目管理方法；\n7.具备良好的项目管理才能和较好的文档写作能力，能够合理制定计划，协调及安排资源使用，跟进工作进展，监督项目组内员工的工作效率与工作质量，确保工作目标高质高效的按时完成；\n8.具备较强的沟通和协调各方面关系和团队组织领导的能力，以及较强的责任心和敬业精神，注重团队协作。\n 9. 有保险行业、微服务开发经验者优先；",
+      "encryptAddressId": "422192535693a0dc1nx60t-6Fg~~",
+      "address": "北京朝阳区华润时代中心A座",
+      "longitude": 116.521598,
+      "latitude": 39.909236,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/eef4f9325b286466690ab52a4779e2b8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/955b79a9db11647dba5356f8f091cb24",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Spring",
+        "SSH",
+        "SSM",
+        "微服务架构",
+        "Java",
+        "Redis",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "中科软",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e4b2c733e23c06761nZ53N0~",
+      "brandName": "中科软",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/176e11833ff55cf365d0c7f770abe0d3cfcd208495d565ef66e7dff9f98764da.png",
+      "stage": 807,
+      "stageName": "已上市",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中科软科技股份有限公司（英文：Sinosoft Company Limited，上市公司，证券简称：中科软，证券代码：603927 [1]  ）。中科软科技股份有限公司总部设在北京，注册资金42400万元，是专门从事计算机软件研发、应用、服务的智能密集型高新技术企业。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "节日福利",
+        "零食下午茶",
+        "团队氛围好"
+      ],
+      "activeTime": 1728716295368,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中科软",
+      "customerBrandStageName": "已上市"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

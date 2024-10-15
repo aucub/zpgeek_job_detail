@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ME7cGXfUGHt5T-v11xMgEkWhrztfQxXJDEWVrrDQkhrTN8lwKTN7K9f5jg6IImSlMhJ0J15BkDv9uPHSLgY9eGWoaLc15bM74wCGuHTnGeTbKLxTQ90~",
+    "securityId": "tNVk4Fpplpk08-J1O0FrJMT0NyoEagCuHC5aJFgggZySgzqlT6ZdGgyngoI-87cJomD1MYT3Ckl0eBJgPgDFENETgO-DhGflxzMYQx-C4TvtZChiQWE~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "不接受居家办公",
         "Java",
-        "MyBatis",
+        "不接受居家办公",
         "Tomcat",
-        "Oracle",
         "PostgreSQL",
+        "MyBatis",
+        "Oracle",
         "ERP开发经验"
       ],
       "anonymous": 0,
@@ -49,7 +49,7 @@
       "title": "高级项目工程师",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FQ~~.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
+      "activeTimeDesc": "3日内活跃",
       "bossOnline": false,
       "brandName": "柳工机械",
       "bossSource": 0,
@@ -76,7 +76,7 @@
         "餐补",
         "免费班车"
       ],
-      "activeTime": 1724853967000,
+      "activeTime": 1728806666066,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "柳工机械",
@@ -95,7 +95,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

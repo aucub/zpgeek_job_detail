@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "62r5-qJmptqH5-21YmMk7hEpfNXx0TjP0G5VibfnUKkQ_738NE_MgDnLQ5x1KkJ9mTKFskGTo-BiNrNE4dPEK1JO5-sIHCMWCIeln-ykRsFcFGAeAZoGSQtVEl5wrc_OdCvXWC8Dmy9p",
+    "securityId": "hD2UWZ3img51F-U1G1plXFErso5z4qzIFHKnCyTBSDm2YnJKDZzDlceMxPqEgDzrD8QZOIMkJhXxPFd7M0UxPDAKpSI5V5k20KKzNa3J8a6pMRyQlgJiMUuPY4wXOfB9Ypa0bP9-K5VObDVLU-ts14fFaykWyvf8dZuTBRhTRlIwYRTZjMw~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -80,10 +80,10 @@
       "customerBrandStageName": "B轮"
     },
     "oneKeyResumeInfo": {
-      "inviteType": 0,
+      "inviteType": 1,
       "alreadySend": false,
       "canSendResume": false,
-      "canSendPhone": false,
+      "canSendPhone": true,
       "canSendWechat": false
     },
     "relationInfo": {

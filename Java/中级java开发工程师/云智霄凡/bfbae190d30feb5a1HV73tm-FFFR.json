@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "FuBFf04Ug17se-e1yg-jcu22ApMx_S558PXE8ksdstdImzwflM5Wvyso6whl-v_PxxfAjbmuca8FFSBBmCzBGYghYrzownxFoTQGjvHjYHKfpABoIUhe",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "bfbae190d30feb5a1HV73tm-FFFR",
+      "encryptUserId": "2bf4dd8aeccf76a00n1409-1FFNX",
+      "invalidStatus": false,
+      "jobName": "中级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位；java高级研发、java中级研发；\n岗位职责：\n【项目驻场：徐州】【必须会VUE】\n1、负责公司工业互联网数字化平台的开发迭代；\n2、对业务模块进行需求设计，制定可行性的技术方案；\n3、对于已上线项目执行日常维护和问题处理；\n任职要求\n1、1年以上经验，计算机软件或相关专业，有工业互联网项目开发经验。有微服务架构、分布式架构经验者优先\n2、Java编程基础扎实，深入掌握JVM、Java类库如多线程、并发处理、以及1/0与网络通信；\n3、熟悉流行的java开源产品，包括spring(Spring Bootl\\SpringMVC\\SpringCloud\\Spring Datal\\SpringStreaming等)/mybatis/netty等;\n4、熟悉分布式系统解决方案以及相关的开源组件；\n5、熟悉Docker与K8S；\n6、熟练使用mysgl、redis、memcached等数据库及缓存，有数据库设计及优化经验；\n7、具备良好的分析解决问题能力，能独立承担任务和有系统进度把控能力，有出色的沟通能力、协调能力，抗压能力；\n8、强烈的责任心和团队合作能力，有诚信，为人正直，性格开朗，善于沟通；\n9、良好的编程风格，热爱互联网和新技术，具有极强的快速学习能力、有较强的逻辑思维能力；",
+      "encryptAddressId": "eefa43a2cb54644a1nZ439y0ElRY",
+      "address": "青岛市北区华·秀1902中心(纺织谷)纺织谷",
+      "longitude": 120.377363,
+      "latitude": 36.144635,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6c6fc7aaad84b41a17d1b9662451207e",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e0b4bd2f8a2d3f937e7a79451d8661e1",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "工业互联网",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "顾先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "云智霄凡",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9cafcc51d8809dd91HR-39-5FlA~",
+      "brandName": "云智霄凡",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728803534866,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云智霄凡",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

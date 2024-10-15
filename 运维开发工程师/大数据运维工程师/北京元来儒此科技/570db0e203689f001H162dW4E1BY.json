@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "94D2P8sKhX8Jr-N1GnY_Q6BduYza36NuB2FDQ8iPnUYhfS9xJcXG6xQ4eHXf9h3P4BAkQF08r3OWtSnji_Mrq8A3ILwEHUEzp8PERBe1lbKgM754TTJVdJagvSQjPy99bwm4ETL7sn-8iMA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "570db0e203689f001H162dW4E1BY",
+      "encryptUserId": "b6ab5622f8ad30150nZ-3d20E1pW",
+      "invalidStatus": false,
+      "jobName": "大数据运维工程师",
+      "position": 100402,
+      "positionName": "运维开发工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 1,
+      "proxyType": 4,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、管理公司大数据集群，提供高可用、高性能大数据集群系统，并保障系统稳定运行。\n2、负责大数据集群各服务自动化运维与监控工具，日常监控、数据备份、数据监控、数据报警及故障处理。\n3、负责大数据平台集群的权限管理、故障处理、日常错误情况处理等。\n4、根据业务需要优化MR、Spark、Flink等作业、提升hadoop集群吞吐并降低成本。\n\n\n任职要求\n1、有2年及以上大数据开发运维工作经验，理解并实施大数据产品的部署场景；\n2、熟悉Linux类操作系统的基础命令操作，会使用Shell/Python中的一门脚本语言或者其他语言，能够编写脚本开展日常运维工作\n3、熟悉日志采集工具，如filebeat、logstash、flume等。\n4、熟悉Hadoop生态圈，对HBase、Hive、Spark、Impala、Kafka、Redis、azakaban、zookeeper、yarn、Airflow、Flink、ClickHouse等主流分布式开发套件有一定认识，有相关安装部署及调优经验者优先；\n5、对Cloudera、Ambari、Prometheus、Grafana管理和监控大数据平台的工具有使用及运维经验；\n\n面试地址：朝阳区银河SOHO\n\n上班地址：朝阳区短波通信局东坝移动机房（BOSS定位地址）",
+      "encryptAddressId": "a2315254c07de2051nd829m8FFZUwI24V_yb",
+      "address": "北京朝阳区北京市短波通信局A",
+      "longitude": 116.569961,
+      "latitude": 39.946609,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/62a5a80108d7548362b37eece275c5ce",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3bbc6a9c128c09e4996429ba10db1a44",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "监控大数据",
+        "Linux",
+        "数据监控",
+        "Python/Shell",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "雷女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20211029/607f1f3d68754fd09e26b556ecf3936580beaf11d708cf121a01d6c443a2462076aec1024ef_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "北京元来儒此科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1c3cbad9ea1009971HB-39y5FVQ~",
+      "brandName": "北京元来儒此科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728916237759,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京元来儒此科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
