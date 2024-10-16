@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "MjW34EV6kTBd5-v1LCASXBWWTx_NGgRa2e8zdHut-xdzvBegzE6T-CzS_adNcyM3zUC7_gjU06O6Md3PYl7EfVNcU5lb4G6N3S8f0CDu7exu_a0wXsod0rc0rNZCree8rxQ7iT3q7S8sAbVuFGHccSjAtiHwml46GwBmxcmZQ_i7aEfl0Ag~",
+    "securityId": "gBSPLcs3TEfyi-G12HcpJjw_3qvuOirkr-MOKGtEWg1_Fo92XzvP7x2yOVGo2DQi55L-8ccJBRBjMtqCEmskjoR47JQMopBSTlOFT6eLg4g-87YtEfsb_8fkSWxc3YG5t6joCnbes4IOyAc~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -49,7 +49,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220521/607f1f3d68754fd0fbd1564caf977756644cad617275baf1d12e389f9062012f07e8baa3534_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "新食代",
       "bossSource": 0,
       "certificated": true,
@@ -68,21 +68,21 @@
       "industryName": "电子商务",
       "introduce": "我们是一家互联网公司，专业的运营人才和模式，为合作的餐饮外卖商家提供专业的运营服务，包括门店装修、菜单优化、商品推广、在线客服、控分控评等，大幅提高商家出餐效率和营业额，公司旗下直营店经营流水长期登顶各外卖平台商圈第一，势必为合作的商家带来丰厚的回报，实现双赢！现广纳贤士，共创辉煌！",
       "labels": [
-        "五险一金",
-        "年终奖",
-        "绩效奖金",
-        "保底工资",
-        "底薪加提成",
-        "加班补助",
-        "节假日加班费",
-        "工龄奖",
-        "全勤奖",
-        "带薪年假",
-        "员工旅游",
+        "节日福利",
         "团建聚餐",
-        "节日福利"
+        "员工旅游",
+        "带薪年假",
+        "全勤奖",
+        "工龄奖",
+        "节假日加班费",
+        "加班补助",
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
       ],
-      "activeTime": 1728552278213,
+      "activeTime": 1729070183388,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "新食代",
@@ -101,7 +101,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

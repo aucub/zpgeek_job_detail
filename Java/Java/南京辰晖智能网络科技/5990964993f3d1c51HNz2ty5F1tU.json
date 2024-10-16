@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "y1kej0MwwhPdh-41C9GiJDmgizjiDskz-j5CpWYUEVj8Uzdk44yR2PvFtRCLGCV308e8s7OkmT4rIXs3WSVyWUllzggEbY-xzY7-oGcrpPfLyS90Mnbn",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5990964993f3d1c51HNz2ty5F1tU",
+      "encryptUserId": "ebaee0ea3709ec9e0nx82Nu7FVdX",
+      "invalidStatus": false,
+      "jobName": "Java",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与本公司银行核心产品开发，完成软件系统代码的实现，辅助进行系统的功能定义、设计；\n2、根据需求说明和设计文档完成代码编写、单元测试；\n3、协助测试工程师制定测试计划，定位和解决测试过程中发现的问题；\n4、配合项目经理完成相关任务目标。\n任职要求：\n1、Java基础良好，熟悉mysql、oracle或DB2等关系型数据库，懂分布式数据库者尤佳；\n2、了解zookeeper、redis、消息中间件等分布式常用组件；\n3、熟悉分布式服务、缓存Redis、消息、多线程及高性能的设计、编码及性能调优；\n4、对银行、互联网信贷类产品生命周期有一定的认识；\n5、熟悉传统信贷、网贷产品流程、形态、业务模式者优先；\n6、互联网金融银行工作经验优先，2年以上工作经验；\n7、统招本科及以上学历，计算机相关专业，具备优秀的语言表达能力，具备较好的英语读写能力；",
+      "encryptAddressId": "e313ef63d73572591nV92Ni9FlNRwoW9U_Of",
+      "address": "青岛黄岛区青岛光谷软件园6栋302",
+      "longitude": 120.160075,
+      "latitude": 35.950913,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bffdb7dace9487e21082e840408db867ac6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfd4f877a477b9948358808950bc070d6a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd0ea9664f765fdd975eb83dd06b54661ea8d475f840236e1ff609c595fe675bd0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "南京辰晖智能网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "0078f15590edebaf1HZ_3di9E1I~",
+      "brandName": "南京辰晖智能网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729027962328,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "南京辰晖智能网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

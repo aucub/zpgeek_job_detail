@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "1mhco72BYyL6D-c1xZa6X3RuRlHshFDcC1LvSplB3D8xXgfzsH1JUn-tpLmpfHC5dFxQkia8Iy17rCAO4GAKWwOE4ypvhrUPEJMMfmJjMRBGJX3F3FUmvMsc0aX8V4ocz-4BpyJIcxg5-A~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "db3831e1598fb5d81H163d66GFpU",
+      "encryptUserId": "d18aada27070ce2b0HBy0964F1Q~",
+      "invalidStatus": false,
+      "jobName": "初级软件测试工程师",
+      "position": 100309,
+      "positionName": "软件测试",
+      "location": 101210400,
+      "locationName": "宁波",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 负责部门业务容量保障工作，包括但不限于测试环境以及产线压力测试方案、测试脚本制作、追踪并推动问题解决、分析产线压测结果，定位产线瓶颈、在性能风险上给出建议\n2. 制定并推行性能测试相关规范和流程，制定合理的测试策略与架构，保证工作高效、有序进行\n3. 负责容量精准评估以及管理工作，持续优化业务容量\n4. 负责核心业务链路的弹性建设，发现架构中的不稳定因素，并持续推动改善，与开发同学一起提升系统稳定性\n5. 研究和推行性能测试新技术，提升性能测试质量和效率\n任职要求：\n1. 计算机相关专业本科或以上学历\n2. 精通性能测试理论及实践，具有3年以上的性能测试和稳定性实践经验\n3. 熟悉主流性能测试工具，熟练掌握Jmeter/LoadRunner/Locust中的一种，具有搭建性能测试平台经验者优先\n4. 具备开发能力，熟悉Python（必要）、Java\n5. 具备性能瓶颈定位能力，对jvm，线程分析、数据库、中间件有丰富调优经验\n6. 熟悉Linux系统，熟悉网络基本知识，熟悉docker、k8s，熟悉常用中间件redis，mysql，tidb，pulsar，kafka等\n7. 强大的自我驱动力和责任意识，具备较强的逻辑思维能力、较强的推动和拿结果能力\n8. 有全链路测试，故障演练、大型测试平台设计和开发经验者优先",
+      "encryptAddressId": "05c1143575da9b8e1nZ82dS_FlNZw4i6WPKY",
+      "address": "宁波鄞州区宁波智造港智造港D区D33",
+      "longitude": 121.661131,
+      "latitude": 29.879812,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf8660cf70096b785b38b6e00472cbaf5a6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfeaecc76507da0e3513efbfb626ed6ed66bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试经验",
+        "测试工作经验",
+        "自动化测试",
+        "压力测试",
+        "Fiddler",
+        "功能测试",
+        "JMeter",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "康先生",
+      "title": "技术经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240910/607f1f3d68754fd04e89e4db9b2984553b32e1e6580409981ed9f56a6b766e5b76033d2eae70cdb_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "赛壳科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "887011bd650aef0d1nZ92Nq1EVM~",
+      "brandName": "赛壳科技",
+      "logo": null,
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100503,
+      "industryName": "批发/零售",
+      "introduce": "公司主要经营酒店房间自助售货机，情趣用品销售",
+      "labels": [
+        "五险一金",
+        "加班补助",
+        "餐补",
+        "零食下午茶"
+      ],
+      "activeTime": 1728701340596,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "赛壳科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "fK8StnuA-vQPw-91qiKu0Q_bHUlU9-zd7Lkxk9TPpYO2wBzeqBJKpg-RZX7wuaymR-i_wrW_iCtZRuGtwqhiaOeRPSoKdWIGlA1iIk7CyaYw-ussRWsQYzr7YdNrT5HxD0XxIcqx2b2yXc6Kwjb6El-A6OGmCwD6HvOvMKB1gvle5hGi",
+    "securityId": "wiertm8JrtfJ_-a1dUlLrl8G8sYErBNlMQlA403hbXd5ClDggWDqu_7-VKxMPMNCiP1KjATn_Wi8ZrN5Y5lZk2KuLhGYNsoPCltkIDHZ6DpPXAbdTcTGagCsAFI8hUAuwoRM8ORVTZZx",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,8 +45,8 @@
       "title": "HR",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EA~~.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "杭州味全食品有限...",
       "bossSource": 0,
       "certificated": true,
@@ -76,7 +76,7 @@
         "包吃",
         "节日福利"
       ],
-      "activeTime": 1727166311409,
+      "activeTime": 1728897163050,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "杭州味全食品有限...",
@@ -95,7 +95,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

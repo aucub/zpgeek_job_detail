@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "yNWYSPzxpcWBv-v1rg63qss4-4IdBKPas-cBIjsmX3Tcu0c2wPXNiorAuAgwSCTOH6tm20LddmCs5lIt__6KD1qgRR5ZW1PL-gGg38X00UuYBs_g1bOPu_ZbTr-C7BRvhMm7K1iowsX6zg~~",
+    "securityId": "o2er3K5wVr_5j-J1McAYb0Y0wrd_H4H7kYILXwmVIbTwujDtFNiHu_SoN737pEBUBrU43yJqZadlgze9xnxBhmq4vY7EUczgNet8ddfr3xJ0cstp7ombbnXePV0Kq2fX84i0ALdvL4fZhxPK6AuKQpSG_tBMGFCKataWIKOJEb8lK8FBnw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -48,8 +48,8 @@
       "title": "招聘专员",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220222/607f1f3d68754fd091fdba507863fcdb42ca74e956daad64eb89e3e9989267b7315499668fb_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "佳都科技",
       "bossSource": 0,
       "certificated": true,
@@ -68,21 +68,21 @@
       "industryName": "计算机软件",
       "introduce": "佳都科技是中国专业的人工智能技术产品与服务提供商，公司创立于1992年成立，于1999年上海证券交易所A股主板上市（股票代码：600728）。佳都以”城市慧变得更好“为使命，基于自主研发的计算机视觉、知识图谱、智能大数据、数字孪生核心技术，打造数字城市新型基础设施，赋能城市现代化建设与治理，提供从基础算法、核心算法到整个应用场景的全栈式人工智能技术与产品方案。\n\n\n\n近期，我司收到群众来信反映，有不法分子以冒用我司名义在虚拟平台发放任务和收取费用的方式进行诈骗活动。此举严重侵害群众的财产权益及我司的名誉，为此，我司特发表声明如下：\n一、我司从未委托或授权任何单位或个人在虚拟平台上发放任务和收取费用，不法分子的诈骗行为与我司无关。\n二、我司已就不法分子冒用我司名义实施诈骗的行为向公安机关报案。如您已上当受骗，建议及时向当地公安机关报警。\n我司官方网址为www.pcitech.com，其他网址、APP与我司无关。如有疑问或问题可以与我司联系：020--********。\n特此声明！\n                                                                                                                          佳都科技集团股份有限公司\n                                                                                                                                    2022年2月13日",
       "labels": [
-        "交通补助",
-        "生日福利",
-        "节日福利",
-        "高温补贴",
-        "通讯补贴",
-        "团建聚餐",
-        "餐补",
-        "员工旅游",
-        "带薪年假",
-        "法定节假日三薪",
-        "绩效奖金",
+        "五险一金",
         "定期体检",
-        "五险一金"
+        "绩效奖金",
+        "法定节假日三薪",
+        "带薪年假",
+        "员工旅游",
+        "餐补",
+        "团建聚餐",
+        "通讯补贴",
+        "高温补贴",
+        "节日福利",
+        "生日福利",
+        "交通补助"
       ],
-      "activeTime": 1727613264102,
+      "activeTime": 1729049038710,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "佳都科技",
@@ -101,7 +101,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

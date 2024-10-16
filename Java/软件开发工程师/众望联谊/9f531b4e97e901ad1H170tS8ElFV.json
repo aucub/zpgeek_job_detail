@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "AGesc2OPI2RDo-V1P29gK7VRT_oPrBboq6ngU1QycD-mTib2DPXigTsS4tAMn1c6BsqDfP3VRKrPbc3-b_XKAWO0qbcHZvngFqkvgFhjBCXW7kTNtbRFoWVwuBR-yEo63b8DjXpljFgIpM8~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9f531b4e97e901ad1H170tS8ElFV",
+      "encryptUserId": "80fd787bf29cf9b00nV92N2_GVpZ",
+      "invalidStatus": false,
+      "jobName": "软件开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "主要工作职责:\n1、负责项目后端的开发、维护以及线上问题的定位处理\n2、负责相关业务模块的开发、部署、测试、维护以及相应文档的编写:\n3、为公司现有产品提供技术支持服务,解决用户问题。\n4、参与代码、测试走查，及时修复缺陷\n5、系统性能分析和优化。\n6、配合进行项目的调试、开发、部署、运维。\n\n专业技术要求:\n1、熟练掌握JAVA基本原理，熟悉数据库结构计算法，了解线程池使用及调优等.\n2、熟练掌握主流数据库开发与调优能力，对数据库事务、锁、并发机制原理有一定的了解\n3、熟练使用主流开发框架如SpringMVC、SpringBoot、Mybaits、Spring Cloud等，熟悉缓存、消息等机制的优先;\n4、熟悉Kafka、RocketMQ、Redis、Nginx、Websocket等中间件、使用场景及限制;\n5、熟悉Linux系统的使用，基本的Shell脚本编写\n6、有大型分布式系统或者高并发系统的性能优化经验，能够独立完成性能分析和调优工作;有使用过主流的性能监控和调优工具，进行性能监控和报警设置等经验优先;\n7、熟悉GPS数据处理,熟悉高德、百度地图SDK者优先，熟悉GaussDB数据库优先;\n8、工作责任心强，有独立自主工作能力，能有效的与团队成员沟通。\n9、对技术有激情，对性能优化工作有热情和追求,有良好的快速学习能力和团队协作能力。",
+      "encryptAddressId": "45539b5a0b58ab2e0HZ52NS0FlNVyoq7VP4~",
+      "address": "成都武侯区成都银泰中心in99写字楼3号楼3605号",
+      "longitude": 104.069693,
+      "latitude": 30.584862,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230404/48ba41acc9cef1bf33032e543c2d9506534f47216c753e4e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf8a6da119c7232b25516fcde43874fc066bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "SpringCloud",
+        "MySQL",
+        "Kafka",
+        "MyBatis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "何女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "众望联谊",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c5f5ff9004b513741nB729i-GVM~",
+      "brandName": "众望联谊",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1728979636419,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "众望联谊",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
