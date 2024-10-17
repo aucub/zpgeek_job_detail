@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ZT4aHi9UiwQl7-Q1dGW9ANHa905BXyVBxobYjvpWLogMPA5uuXRdt-kumRB0ZZVhi_zx5hBbzMTsiELcizKqdtkwcz9OfM_B0aAKGpFwsPNA4o8-f_RknQOnIPxQI-c0lOG41MjuGCfbG5VU80mAOwDzYjbou5oLyoMF97mqOpAWh2lgfw~~",
+    "securityId": "-k42ndf7ddbG6-51XRxcSbToVhz96k6RbS6eE5Bv-niTC6v4P_hClmYkdRq3i9xnf49RXC3FLTqd7utglaYFmt8MQXXyqqSSP_06FbW_oLwlaEMD4pMwelJFP-RuEQ1oTVEqdgAnAery-Q~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240806/607f1f3d68754fd02abb0c960e6b8e2152fe990426bc46f9a5f503513a18db0e88294e9ce66ad52_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "曼希网络",
       "bossSource": 0,
       "certificated": true,
@@ -79,7 +79,7 @@
         "年终奖",
         "五险一金"
       ],
-      "activeTime": 1728552793596,
+      "activeTime": 1729163794286,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "曼希网络",
@@ -98,7 +98,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

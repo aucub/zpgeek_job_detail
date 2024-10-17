@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kCFh6yDAKFiep-Q1a4FSMhlCB-sAV74JhxQuAko9SJQejNx2hoJy0ciyv7cOfxNWcb1xkZMM4mdmGn0miYbPPh0Zb7PUR6riJMVFogtJN_w98UlR3KXBUF_G9MaaptzT5wYENBzJOZNs",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "94e0befbd77a14fa1H143Nq_ElRT",
+      "encryptUserId": "dfbc683e5438559c33F40tW8E1I~",
+      "invalidStatus": false,
+      "jobName": "java后端开发",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责：\n1、 参与需求分析，根据原型图进行代码设计和实现；\n2、spring boot 框架熟悉；\n3、熟悉常规数据库、redis、mongodb；\n4、熟悉常规通讯协议coap、mqtt；\n5、通过SDK接入过大华和海康的视频设备；\n6、具有研究和学习精神，了解或者熟悉硬件平台接入工作；\n7、领导安排的其他工作。\n二、任职要求：\n1、三年以上JAVA研发经验，掌握JVM、数据库、常用缓存介质，良好的数据敏感度及逻辑思维能力，出色的数据分析及解决问题能力;\n2、有一年以上中大型物联网平台开发经验优先；\n3、有良好的沟通能力，具有跨部门协作的经验，推进能力强，责任心强；\n4、30岁以下，统招本科及以上。",
+      "encryptAddressId": "01eb924f142442f21ndy3t64EFVQxo28V_uW",
+      "address": "武汉武昌区北京京环智慧环保科技有限公司(武汉分公司)沙湖明珠对面",
+      "longitude": 114.32339,
+      "latitude": 30.556073,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/5ef6da61de6ca1b6871456d2601286b1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d4965a34c012ab88fc1984f94a2bb6ad",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "望女士",
+      "title": "武汉项目部行政人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20220305/607f1f3d68754fd04aa3a7911ec6f127144f807ace5080cd444b8924ee13da364db16ecda39_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "京环智慧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2d6f518d37abb7881nB73tm5FQ~~",
+      "brandName": "京环智慧",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240522/7b5b554d84f9729cc01fd20f6741228a3035db25943167033b7ed72c5da4e0eeb60bfce57f49d8e3.jpg.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "北京京环智慧环保科技有限公司是由中信环境产业基金投资的智慧环境综合服务运营商。公司依托丰富的环卫运营经验，以“技术咨询+智能环卫装备+ICLOUD智慧云 平台+智慧运营服务”为核心，秉持“全种类覆盖、全资源回收”原则，坚持源头智慧分类、中端智慧清洁收集、末端资源化处置 和再生资源自动智能分拣、回收资源化利用的全产业 链构建。同时，公司将保洁、保安、绿化、公共设施管理 、市政维护等多种城市管理职能融为一体，植入信息化、数字化、智能化管理平台系统，实现资源式整合和一体化管理，提升城市精细化管理水平，助力推进智慧城市和无废城市建设，着力打造新型科技和低碳数字环卫。",
+      "labels": [
+        "五险一金",
+        "餐补"
+      ],
+      "activeTime": 1729158550740,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "京环智慧",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

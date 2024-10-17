@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8pYwP8FrmWnBN-h10xO9wFrlSrJSmrABD8RmdNqLdCH_xf9hlLYtcW8LtcA6cv3nc-lcUlQ3RrJfPUYZW8BSWdng8PYW6aLx0JChdqWtA9j_iakIMPD00I6BuVoq1lu-03Ir1-v55cywGWpW9fgTd1zjelztvtQZACtjhkSZCqV8kRKNVtw~",
+    "securityId": "cce1WaUuq0gNo-W1e-HcvHiqCnaA8J6LIvPa3cqMvdoMPlDI_8ZmKYAS65ir385P8YLOlmLPmluiidS6Un-ccajgIHYqzBY0f9XQmUaNWedCa3XyERNp5JEfosNsyoETV6LRT_su4yfsVAo~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,7 +46,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "海口龙华冯佳威斯...",
       "bossSource": 0,
       "certificated": true,
@@ -65,7 +65,7 @@
       "industryName": "批发/零售",
       "introduce": "",
       "labels": [],
-      "activeTime": 1728552865171,
+      "activeTime": 1729163090804,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "海口龙华冯佳威斯...",
@@ -84,7 +84,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

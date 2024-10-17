@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "KXbmSDdgLonaB-Z1KKCiQCIOCrCFji7haaBhOZdXM3cPJe1rIYbC8o7KN5pPoLj2xcyufWPc9BfO2VZCh51Msk4J3wZgvaXOGjFpJWp6xuW0lE6TPmCVABvD7U3ewSpT1GoW6rlJCOdtyA~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "e69bc0e4c92e0bc81H1439u-FlFV",
+      "encryptUserId": "6f79fb6d10f2e4000XZ53tm6F1s~",
+      "invalidStatus": false,
+      "jobName": "node.js开发工程师",
+      "position": 100114,
+      "positionName": "Node.js",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-13K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "任职要求：\n1.扎实的计算机基础、软件工程能力。\n2.熟练使用 MySQL, Redis, RabbitMQ 基础数据库、队列服务以及常见中间件服务。\n3.熟练使用 【Node.js】，Express、Koa、Egg、Nest 至少熟练使用一个框架,了解 Python / Go / Java 一门以及以上其他服务端语言。\n4.熟练掌握 Git 以及 Github 协作工具。\n5.熟悉 Linux ，有一定的Linux 下定位问题的能力。\n6.有极强的自我驱动能力，有良好的沟通能力和团队合作精神。\n\n福利：\n1. 入职标配 cursor 订阅\n2. 远程线上办公\n\n挑战与成长：\n体验和玩转海外 cloud flare, vercel, stripe, supabase, aws, auzre, gcp 等全新平台与架构\n\n招聘实习生，优秀可转正。",
+      "encryptAddressId": "8c7dc11ed1fbac651nZ83Ni5FFZR",
+      "address": "杭州滨江区阿里中心·杭州滨江远程办公",
+      "longitude": 120.189975,
+      "latitude": 30.192263,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bfc02483640043c8a9f0e860b314f8a9bb6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bfb12cf99cbb34a09688871219354ede5e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Node.js开发经验",
+        "全栈",
+        "Node.js",
+        "后端",
+        "Express/Koa",
+        "计算机/软件工程相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "hr",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20241016/607f1f3d68754fd0676de4065333f8b79a007e8ebb654915354d49128837ae3cd77776b877a8010_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "木及",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "faa6cf87e50665c11XNz3dy7F1E~",
+      "brandName": "木及",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240110/7b5b554d84f9729c0c22d3f7dd6070aff8250f3eba73f27d354d49128837ae3cd77776b877a80100.jpg.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "专注前沿AIGC领域，目前已有多款产品，发展前景好。",
+      "labels": [
+        "五险一金",
+        "绩效奖金",
+        "远程工作"
+      ],
+      "activeTime": 1729155291888,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "木及",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
