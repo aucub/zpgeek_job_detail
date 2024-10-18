@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "7kuqMT9XmWoIh-P1lQ51luhrfVXbhkevYmlkkbWAGKbZ4vSA1PTzdkySeGYB1c5NShWRPZdEq65Ex42YTB5HpjQa4-G7Vwmdt5Xp39mVyg0ZerWR2IjgcwkD19fYMeThstrsIELOFXdh9w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "71673d01f5b6089e1H143NW7F1BY",
+      "encryptUserId": "29cc88d931d0062b0XF709--GFc~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "在校/应届",
+      "degreeName": "本科",
+      "jobType": 5,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "职位描述：\n1.负责公司Java后端应用的开发、维护及性能优化。\n2.使用Spring Framework + Hibernate实现高可用、可扩展的后端服务。\n3.与前端团队合作，提供稳定且高效的RESTful API接口。\n4.熟练使用PostgreSQL数据库，确保数据存储效率和查询性能。\n5.负责Java应用的服务器部署、配置和监控，使用如Tomcat或Jetty等容器。\n6.进行定期的代码审查，确保代码质量和持续改进。\n7.编写和维护技术文档，熟练应用各种文档工具。\n\n基本要求：\n1.本科或以上学历，计算机相关专业。\n2.3年以上Java开发经验，熟练掌握Spring Framework、Spring Boot、MyBatis、MyBatis Plus、Hibernate。\n3.了解Spring WebSocket及其在Java中的实现。\n4.熟练使用PostgreSQL数据库。\n5.精通RESTful API的设计和实现。\n6.具备服务器部署、配置和管理经验，熟悉Linux系统管理及Shell脚本编写。\n7.熟练使用VPN和了解网络安全。\n8.熟悉版本控制工具，如Git，以及CI/CD流程。\n9.具备编写高质量技术文档的能力。\n\n加分项：\n1.了解消息中间件技术，如RabbitMQ或Kafka。\n2.熟悉缓存技术，如Redis、Memcached。\n3.有云服务运维经验，如AWS、Azure、GCP或阿里云。\n4.熟悉性能监控工具，如Prometheus、Grafana。\n5.有CDN配置和优化经验。\n6.对微服务架构及相关技术有深入理解。\n7.使用AI工具或库辅助文档生成或维护的经验。",
+      "encryptAddressId": "ad05b9b2117dd4d81nB73Ny_FlJV",
+      "address": "杭州西湖区尚坤西溪绿谷中心4楼432室",
+      "longitude": 120.072239,
+      "latitude": 30.250573,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bfdd31a45116cfa4c2b11fc26766f1d5726bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230803/48ba41acc9cef1bf12231ded95372b2a895cc5f0943fa95f6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Nginx",
+        "Hibernate",
+        "Docker",
+        "PostgreSQL",
+        "Kafka"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "向先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201219/adc4eba74fc0a337c04620b37955da183863be3b1c8a2f5b4d275572fb3_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "德瑞文邦",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4805b5d4417514ed1X1-09y0GVE~",
+      "brandName": "德瑞文邦",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230813/7bf6f160950405e9b27a7c341988a393d6f99c63a3549c103863be3b1c8a2f5b4d275572fb35a455.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "德瑞文邦科技有限公司——用科技连接协作未来\n\n在日益复杂化的工作环境中，团队之间的沟通与协作常常成为影响项目成功与否的关键。传统的工作方式容易导致信息孤岛，任务错落，而效率则被严重削弱。为了解决这一行业痛点，我们专注于“EvolveWork”项目管理/协作软件的研发，致力于通过科技的力量，为用户提供更加优化的工作方式。\n\n我们的愿景是：让工作不再是一个简单的任务执行过程，而是一个高效、有序、且富有成效的旅程。我们希望每一个使用EvolveWork的团队，都能轻松地管理项目，确保信息畅通，提升整体的工作效率。\n\n我们的公司文化秉持优质、务实、简单及高效的原则。在德瑞文邦，我们不仅仅追求技术的前沿，更注重技术为人们带来的实际价值。我们相信，一个好的工具不仅仅是功能强大的，更应该是让使用者感到轻松、愉悦的。\n\n未来，我们会继续探索和研发，让EvolveWork更加完善，更好地服务于每一位用户。期待您与我们一同前行，共创美好的工作新未来！",
+      "labels": [
+        "五险一金"
+      ],
+      "activeTime": 1729250077495,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "德瑞文邦",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

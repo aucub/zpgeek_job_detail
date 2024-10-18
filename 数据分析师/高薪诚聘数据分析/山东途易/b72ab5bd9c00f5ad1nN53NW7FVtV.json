@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "93oSSGT1Vs1I6-z1HdNUV42DoOHxTFJC7jYxCgKsAw3GSi_C3l6EUnRIu_a0MkYgplVquxdk9RtqH695_tog4UhVToahRzZLLU_KYMvjwqGQidt4HYoTqhiL5KhB7_MQot3_fFoXfN20TGIA9cF56-v8MEbCZTc4YcNDoQ9tIJfGTyLY",
+    "securityId": "T4gzfQAbvGlVL-S1mmW7qhfbt15XQF5CCV5MyfTqUTIyrj6Wxo6hfvbxnIi1QdC-yFFUqTD4KRY66H1IE4eLD23V5_k4QaBGZCttHK8mhM2QWZa7O5YGP6e9Vkq9WEycXdNJlS9VQzqq",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,7 +45,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210925/607f1f3d68754fd076858b2816142859e7d1e220136fc80383aaa4f0ec866cf97eaa9828b3b_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "山东途易",
       "bossSource": 0,
       "certificated": true,
@@ -74,7 +74,7 @@
         "意外险",
         "五险一金"
       ],
-      "activeTime": 1726649344583,
+      "activeTime": 1729232033527,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "山东途易",
@@ -93,7 +93,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

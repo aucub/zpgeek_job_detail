@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "PjER1RZ6STcUw-P1o7DLNmVANzNgnn5SIZIC3CTo_lfLf9-cfKFZ4sFr3fGrL1Jhhrwptio8RQpf9lUkcw73o63dmQnzTLOIzgeyPMZAvLiQFTGKMjyB",
+    "securityId": "Kh-7os-9JxXWQ-w1aCSvrnhlUUOGfvOOUqgKBPDhz4iLmgh4Vl8VC9tnl7r5n40uXuX087FMhNuTOAwfYWQT2fD3vBLkg14uVT1v8ItC_rmNs_HdSFBDJEHC96qK4aAfdotdOF91oy2uFGE~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -33,12 +33,12 @@
       "overseasAddressList": [],
       "overseasInfo": null,
       "showSkills": [
-        "功能测试",
-        "性能测试",
-        "自动化测试",
         "Java",
-        "计算机相关专业",
-        "测试工作经验"
+        "测试工作经验",
+        "自动化测试",
+        "性能测试",
+        "功能测试",
+        "计算机相关专业"
       ],
       "anonymous": 0,
       "jobStatusDesc": "招聘中"
@@ -48,7 +48,7 @@
       "title": "人事主管",
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
       "large": null,
-      "activeTimeDesc": "4月内活跃",
+      "activeTimeDesc": "近半年活跃",
       "bossOnline": false,
       "brandName": "数字印象",
       "bossSource": 0,
@@ -68,7 +68,7 @@
       "industryName": "计算机软件",
       "introduce": "",
       "labels": [],
-      "activeTime": 1722922129435,
+      "activeTime": 1726671047957,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "数字印象",
@@ -87,7 +87,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "iAt781gkepOEy-C1IokK6TowEQpAlrHVsEK4TvGqlgJtVUOrQ6atWUzo_B06VZD-ORVGji5KiYZ5cgQCHfQbiBS0pGo3H5G2AJCE4sp9Mc3nnByRueKCkI5mHymKr2bfOw-C8ismssExL7y7kmvajWpSXQBwgwuBdJaZfDowwgrkE6E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "202e464440e5cdbf1H152968FlpQ",
+      "encryptUserId": "c7eff07edcfd51491HR6392-",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "我们是一家有理想有抱负的初创型公司，我们不仅希望招聘一个普通的java高级工程师，更希望能够找到一同创业、追求梦想的伙伴。\r\n\r\n岗位职责：\n\n1、负责公司项目api 接口开发。\n2、编写相关API 接口文档。\n3、分析并解决软件开发过程中的问题。\n4、维护、优化、修复现有接口。\n\n任职资格：\n\n1、有独立开发能力。有全栈开发能力者优先。\n2、熟练的使用调试工具，能够快速定位错误。\n3、具备需求分析和系统设计能力，以及较强的逻辑分析和独立解决问题能力。\n4、熟悉php 开发语言，熟悉面向对象思想，熟悉主流的php 框架，yii2优先。\n5、熟练掌握SQL 语句，熟悉MySQL 数据库，能够根据项目需求独立建立数据库（表）并对其进行合理优化。\n6、熟练运用redis缓存技术。\n7、了解websocket、熟悉git版本控制，linux简单的指令操作，部署过LNMP。\n8、半年以上软件开发经验。",
+      "encryptAddressId": "219a13119aad184f1ndz3dW1EFdUxI62UP6Y",
+      "address": "杭州拱墅区Moon咖啡(西铭苑店)旁边的禧乐炖物（二层）塘坪路125号",
+      "longitude": 120.113122,
+      "latitude": 30.298202,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240723/48ba41acc9cef1bf0f38c599471801022283d866e797109c6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240723/48ba41acc9cef1bf52f77f30057fb08f08040b221ae773c26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "音视频经验",
+        "Java",
+        "不接受居家办公",
+        "SpringCloud",
+        "MySQL",
+        "搜索/推荐/广告经验",
+        "Redis",
+        "Dubbo",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "鲁先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230613/607f1f3d68754fd050e75b78e3338771024fc0545e8382640f8e651c488c2a2d0bb417af92c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州灵树有茗网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9643af11e7f18bd01HNz39W7GFo~",
+      "brandName": "杭州灵树有茗网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729243784815,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州灵树有茗网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
