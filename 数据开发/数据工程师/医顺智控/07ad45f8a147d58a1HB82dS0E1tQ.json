@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hndX9GCnGukdq-41ahwPPaLUDqBZOQKViV_slHrnRO_Y3jtiq13XlfeMuVUvwv0j2thmleakxBK97U5PkY502raWZHXdJTdxiP6P4rFMVEWBZQE2mm_E",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "07ad45f8a147d58a1HB82dS0E1tQ",
+      "encryptUserId": "72c46d3135a771941nV_0tq5FFpT",
+      "invalidStatus": false,
+      "jobName": "数据工程师",
+      "position": 100508,
+      "positionName": "数据开发",
+      "location": 101191100,
+      "locationName": "常州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "我们的公司正在寻找一位数据工程师，负责维护和处理公司的数据。\n主要职责包括：\n- 设计和实现数据采集策略，从各种内部和外部源（如数据库、APIs、日志文件、传感器、社交媒体等）获取数据。\n-对原始数据进行清洗、转化和标准化处理，包括处理缺失值、异常值、数据一致性检查和数据去重。\n- 创建和管理数据库，包括 SQL 查询和优化。\n- 编写和维护数据 不发生又会如何和工具，如使用 Python 和 SQL。\n- 确保数据安全和隐私，包括数据备份和恢复。\n- 与其他团队成员合作，以解决数据问题和业务需求。\n职位要求：\n1、本科及以上，三年以上大数据开发经验（对平台运维需要有要求）\n2、熟悉大数据生态相关组件：hive、spark/flink on yarn 、doris 、 dolphinscheduler 、 seatunnel \n3、熟悉shell 相关数据命令\n4、熟悉java、scala等编程语言\n5、熟悉数仓治理相关。指标、元数据体系（如 datahub）\n6、需要维护大数据相关组件的运行和部署\n7，能熟练搭建和维护 CI/CD 统一平台，熟练使用jenkins，k8s，rancher 等",
+      "encryptAddressId": "ed9b9f9f67d6664d1nR92Nq6ElVRwIy5V_Ke",
+      "address": "常州武进区莱蒙·公园里53-26二层",
+      "longitude": 119.93914,
+      "latitude": 31.69478,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230524/48ba41acc9cef1bf46094afb2efb6568d25474a4ee648e826bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230524/48ba41acc9cef1bfc937ac524568c09b56339237545208016bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "Java",
+        "Python",
+        "计算机相关专业",
+        "大数据开发经验",
+        "数学/统计相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "丁女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240517/607f1f3d68754fd032b94b2fbedbe24015e9acab36b356275c9827dc03ad2f03948f0f21720ed24_b.jpg",
+      "large": null,
+      "activeTimeDesc": "2周内活跃",
+      "bossOnline": false,
+      "brandName": "医顺智控",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "96067e1baca1c9611XB629m7EVM~",
+      "brandName": "医顺智控",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240517/7bf6f160950405e942ead390296d8a84a23f5eae59254def5c9827dc03ad2f03948f0f21720ed247.png.webp",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100006,
+      "industryName": "医疗健康",
+      "introduce": "医顺通信息科技（常州）有限公司——智慧医院数字化信息系统\n是一家专业从事医院智慧医院数字化信息管理系统开发和应用策略研究的科技实体，致力于三甲医院医疗质量管控一体化运营。\n医顺智控专注于三级医院智慧运营整体解决方案（SMARTHQS），自成立于2022年以 \n来，为客户提供专业的医院质量运营解决方案、平台及服务。公司致力于精准打造落地方 \n案，并提供精益化运维管理服务。 \n医顺智控秉持“精细化管理”的产品设计理念，坚持平台化产品发展路线，完全基于数据融 \n合、数据治理、数据分析、可视化等大数据技术，以公立医院绩效考核和高质量发展为导 \n向，以实时数据孪生复现医院运行态势为目标，围绕临床、药品、耗材、护理、质控等核 \n心业务，打造＂院－科－个人＂立体式全域、全时、全员的医院运营管理平台。",
+      "labels": [
+        "五险一金",
+        "餐补",
+        "团建聚餐",
+        "节日福利",
+        "生日福利",
+        "交通补助"
+      ],
+      "activeTime": 1728730711000,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "医顺智控",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

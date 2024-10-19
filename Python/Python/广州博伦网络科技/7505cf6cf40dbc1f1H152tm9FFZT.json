@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "mhIvSbXRAaTCz-M1syjnTFuYKOVCQ_a16r8BZpL4YO4d5sc2ZRgdUCRCXsJfWCuWjj26QPmrLav0NmWezLKfkt-_WC1dfrSfGCRuaYP4t2OQZb-Hm_puq8KWKU_2zyDgbmsZb_ntyojHefs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7505cf6cf40dbc1f1H152tm9FFZT",
+      "encryptUserId": "08c5065bdd1015790XZz2dW8FFBR",
+      "invalidStatus": false,
+      "jobName": "Python",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-6K",
+      "payTypeDesc": null,
+      "postDescription": "一、开发与维护\n开发Python程序：根据需求，开发Python应用程序、脚本和工具，这些程序可能涉及数据分析、机器学习、自然语言处理等多个领域。\n系统维护：维护和优化现有的Python程序，确保其稳定性和性能，包括代码审查、升级优化等工作。\n二、项目参与与设计\n需求分析：与团队成员紧密合作，进行需求分析和功能设计，确保开发出的程序能够满足业务需求。\n软件架构设计：根据需求进行软件架构设计和系统设计，确保系统的可扩展性、可靠性和安全性。\n文档编写：编写技术文档，如需求分析文档、设计文档、测试文档等，以便团队成员之间的沟通和协作。\n三、测试与部署\n代码测试：对编写的代码进行测试，确保程序的可靠性和正确性。\n部署与调试：将开发完成的程序部署到生产环境中，并进行必要的调试工作。\n四、技术支持与合作\n技术支持：解决项目中遇到的问题，为团队提供技术支持和建议。\n团队协作：与团队成员紧密合作，进行项目进度管理和风险控制，确保项目按时交付。\n五、学习与提升\n跟踪最新技术：了解并学习最新的Python技术和趋势，保持自己的技术更新。",
+      "encryptAddressId": "a12c579f85ac46ad1ndz3Ny5FlZVxo-2U_6c",
+      "address": "广州天河区环球都会广场1301",
+      "longitude": 113.32727,
+      "latitude": 23.118162,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a837f0a911c2fb2290450ea4e570fa2c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a65a799804ca6fb44fbc46b0765a3f76",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "Scrapy",
+        "PyTorch",
+        "Docker",
+        "Django",
+        "MySQL",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "赵先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK6.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "广州博伦网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "364cde117a7476451HNz3t27F1M~",
+      "brandName": "广州博伦网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [
+        "五险一金",
+        "全勤奖",
+        "团建聚餐",
+        "节日福利"
+      ],
+      "activeTime": 1729322421744,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "广州博伦网络科技",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hDfxXEfswfcpk-p1usgj0YvIfedcv80cyrD1MeV2-N8-wufTkx6YMYDgQGfvuPORQ4h9xJQ2yQrhnCElR5NAWSYyUSt-Rx1OLVkxbygNlrVmkQNwfTo8Xsj-0HmTtEpWcHRbma1UnS_D55M~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "dfd6aef8490a83d71H1529m1F1ZZ",
+      "encryptUserId": "2247b0968d55760d0nN53Nq9GFBQ",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、支持支付C独立端单周发版回归，回归电商等核心场景case0涉及4个独立端(未来会扩展)双端的回归验收\n2、支持钱包固定班车迭代发布回归(每周二和周四)，涉及多端、多系统、多厂商和多设备\n3、按项目迭代需求，进行多端兼容性测试，包含:多端、多系统、多厂商、多设备\n4、低风险需求，跟进需求全流程测试\n\n任职要求：\n1、具备基础的测试技能和理解力，具备连续2年以上软件测试工作经验;\n2、能快速熟悉case并高标准完测试任务的执行;严格按照相关标准进行bug录入，快速跟进bug定位、协作bug验证;有较好的bug敏感度。\n3、会基本的测试工具使用(如抓包工具)\n4、最好对特定业务有一定的业务知识储备，如金融领域、电商等\n5、能够快速理解自己负责的业务块，对业务有自己的理解，保障测试任务按时完成。\n6、为保障项目高质量按时交付，能承受一定强度的工作压力。",
+      "encryptAddressId": "d95dcc115c8d9e7d1ndz3N2-FVZTx4W6Vv2X",
+      "address": "武汉洪山区光谷软件园1",
+      "longitude": 114.404057,
+      "latitude": 30.475014,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8f90d6cc46bbf7d7ed4aff4024c8f749",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22e0da559c203dfeb7f12f6e7da4b681",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Golang",
+        "Java",
+        "C++",
+        "Shell",
+        "自动化测试",
+        "性能测试",
+        "渗透测试",
+        "压力测试",
+        "功能测试",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "孙女士",
+      "title": "HRBP",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240113/607f1f3d68754fd0d0ec02408770f1d6d802aa6d92f02b8b7d0a311588dd7e1295c41c4f8456a2b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "济让",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3c2077714d5cbb651HZ72t66ElI~",
+      "brandName": "济让",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100601,
+      "industryName": "咨询",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729269409572,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "济让",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

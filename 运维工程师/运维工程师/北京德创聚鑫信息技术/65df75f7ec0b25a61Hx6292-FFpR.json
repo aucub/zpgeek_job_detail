@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "hzHmZWzguz-0s-x1jDJr5YLiSHXirmPKLHj0uMaZBjc-x13m-KujCZFqSH9pslWWxm5qR5ZTI8zQxuIHuCL3Rhi_Y9a6tNvWALyJyOxSuCmA0R_xhJ4d",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "65df75f7ec0b25a61Hx6292-FFpR",
+      "encryptUserId": "eb841d81962e22ef0nF-2di7FlNT",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "熟悉RabbitMQ、Redis、Zookeeper、ELK、mysql、kafka等中\n问件，具有如上中间件日常运维经验，如部署、升\n级、调优、监控、问题诊断等；\n熟悉Shell、Python、Ansible等脚本语言，能够\n编写自动化运维脚本；\n熟悉Docker、Kubernetes等容器化技术；\n熟悉主流监控prometheus，grafana的使用；\n2年运维工作经验\n较好的沟通能力和学习能力；",
+      "encryptAddressId": "dbfb34d80baac71c1nVy3Nu4FVtSw4m_Wfqb",
+      "address": "北京海淀区世纪科贸大厦B座807",
+      "longitude": 116.333947,
+      "latitude": 39.984595,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/119fbc73910cb1200800d291d524b564",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/0b9381527007e8f659032098826dd23d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Nginx",
+        "实施交付运维",
+        "Docker",
+        "系统运维",
+        "运维开发经验",
+        "计算机相关专业",
+        "运维经验",
+        "Kubernetes"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "总监",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "3月内活跃",
+      "bossOnline": false,
+      "brandName": "北京德创聚鑫信息技术",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "58c5d15d40f659ca1HJ90tq6E1c~",
+      "brandName": "北京德创聚鑫信息技术",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726752063218,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京德创聚鑫信息技术",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UhXhM5xlB84KE-w16qVmIRVEFArxdq5ataLR0YLsvNYQ07L_DveoBWt9q1454fICvXjNcFuhLOdM_9HM6bN-mxQvF0EwjVZufw3dSvIG-tAMrMNdrknovwnuDf7MKMIfVMJWsPuxF-VtlS4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "5313de77516e1a0a1H160ti-FFZR",
+      "encryptUserId": "89e94e5146f41b980nR-0ty5GFZR",
+      "invalidStatus": false,
+      "jobName": "python开发工程师（外包、3个月以上）",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1. 参加需求评审、代码设计及落地，根据敏捷开发的具体安排，确保任务按时按质完成；\n2. 与产品经理、前端工程师、测试工程师、算法工程师等紧密合作，共同交付功能完善、稳定可靠的SaaS产品；\n3. 参与架构设计和开发，核心代码开发和系统调优，为用户提供优质顺畅的服务和极致体验；\n4. 充分自测影响范围，规范编写和维护项目文档，持续优化项目，提高工程的稳定性和扩展性；\n5 研究和评估新技术和框架，持续改善和提高产品的性能、灵活性及稳定性；\n6. 业务代码开发能力、架构设计能力优秀者，可进入架构组参与各专项技术调研，新技术引入等更具挑战的前瞻项目。\n\n任职资格：\n1. 本科及以上学历，计算机相关专业，2-3年以上相关开发经验，至少参与过2-3个完整的项目，掌握扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识。\n2. 精通Python后台开发语言，熟练掌握Django、【FastAPI】开发框架。精通面向对象的分析与设计，精通设计模式。\n3. 熟悉MongoDB，【Redis】，MySQL，【Postgre】，【pgvector】等数据库，并要求有调优经验。有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分。\n4. 基于Linux开发，熟练使用shell基本命令，了解【nginx】，apache，uwsgi，【docker】，熟悉linux项目部署，服务器运维相关技术。\n5. 熟悉阿里云云服务产品，了解ECS/OSS/SLB/RDS等产品的使用、部署和运维。\n6. 熟悉http和websocket技术，掌握SSM通信技术。【基础】\n7. 了解HTML、CSS、javascript等前端技术。\n8. 熟悉大模型产品和发展，熟练掌握langchain技术，熟悉prompt开发和调优。【基础】\n9. 了解爬虫知识，掌握爬虫框架scrapy、selelium等框架，如有反爬或数据清洗经验为加分项。\n10. 较好的产品意识，愿意将产品效果做为工作最重要的驱动因素。要求有责任心，做事认真负责，做事不拖泥带水，不推脱。",
+      "encryptAddressId": "513b69f9f2ee50d61nd80968EVVVyoi3Vv-f",
+      "address": "广州黄埔区保泰广场丰乐北路1054号",
+      "longitude": 113.453491,
+      "latitude": 23.108458,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bf33cdda19ddb40522e285c6475215c30a6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20231025/48ba41acc9cef1bf568161ee4dd623da5c1a0cc7bf2974bc6bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "saas系统",
+        "Django",
+        "Redis",
+        "云计算经验",
+        "MongoDB",
+        "Linux开发/部署经验",
+        "Python",
+        "Flask"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曾先生",
+      "title": "招聘主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK1.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "讯猫软件",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4870637386477bde1nF-0967EFQ~",
+      "brandName": "讯猫软件",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211009/7bf6f160950405e94c4c71b2f27f5307dab21dbf6b96e0df1b44e08a84a1b06ddffd751b10abe554.jpg",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "　　讯猫软件集团有限公司成立于 2012 年，是中国领先的数字化服务提供商。以安全结算技术能力和场景应用创新为核心，秉承持续为客户创造价值的经营理念，为政府、金融、快消、园区、协同等领域提供安全结算服务和数字化解决方案。以广州为总部基地,覆盖深圳、上海、北京、黔西南、钦州、昆明、新乡等国内 20多个城市，并在当地成立项目研发、交付和运营团队。\n　　荣获国家“高新技术企业”、“省级专精特新”、“CMMI3”、“诚信示范单位”、“华为风雨共进奖”等荣誉证书，是浪潮、华为、腾讯等机构的核心战略合作伙伴。\n       主要业务：软件技术研发服务、大数据技术服务、AI技术服务以及平台型产品研发、测试、运营、咨询管理服务。",
+      "labels": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "加班补助",
+        "购买社保",
+        "带薪病假"
+      ],
+      "activeTime": 1729312599071,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "讯猫软件",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

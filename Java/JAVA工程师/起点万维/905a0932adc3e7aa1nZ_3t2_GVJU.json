@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "JEyFTvSKdUUIO-L1gXDN-mcmdVo3vsdUtZkfjQ6WrisDFvfRd1aI8zD5Lv3YvVoDqixVSRgBSOXYRxv-EQsO1E1bE-iwlDPm_LMDb8ViHDnwKtcCCNA~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "905a0932adc3e7aa1nZ_3t2_GVJU",
+      "encryptUserId": "fb05eb4a7d6559fc0X1_2NS9EFY~",
+      "invalidStatus": false,
+      "jobName": "JAVA工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280100,
+      "locationName": "广州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1. 参与项目需求分析、功能可行性分析、技术可行性分析和系统架构设计工作\n2. 根据公司项目要求，完成软件项目的编程、调试和单元测试工作，能够独立完成开发优先;\n3. 与团队成员合作、沟通，对开发过程中的问题进行总结\n岗位要求：\n1、对JavaEE有较清晰的认识，熟悉主流框架（SpringMVC、Spring、Mybatis、SpringBoot、SpringCloud、Dubbo等），熟悉Maven、Git、Svn、Jenkins等；\n2、熟悉常用的数据结构，算法和设计模式；\n3、做过JVM性能调优，理解GC；有线程池多线程高并发开发经验；\n4、熟悉Linux操作系统，至少掌握一种脚本语言如Shell、Python；\n5、熟悉Mysql数据库；\n6、具备一定的分布式缓存（redis等）、分布式MQ（ActiveMQ、RabbitMq、Kafka等）、多线程实践经验；\n7、有良好的沟通能力，具有团队协作的经验、推进能力强，责任心强；",
+      "encryptAddressId": "d1c147e5c1b85f831nZ53N67GFNWw4q2VvOc",
+      "address": "广州黄埔区芯大厦B1栋1楼1018室",
+      "longitude": 113.423771,
+      "latitude": 23.164851,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230406/48ba41acc9cef1bf8275c307df57f87b0814fe92c6c0b1946bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230530/48ba41acc9cef1bf65cd55dad000eaf6b1af7d1726b5997c6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "GIT",
+        "Linux",
+        "MySQL",
+        "Redis",
+        "SpringBoot",
+        "后端开发"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "曾先生",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK4.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "起点万维",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "3794f0aa87dca85f1nd60tq-F1U~",
+      "brandName": "起点万维",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20201130/7e58999d0d6024232b13a76dd4cb6c81ecb1a3945ca6e695400bb7340f6427f0.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "广州起点万维科技有限公司，是一家提供信息化服务的互联网公司。秉承“专业、高效、优质”的服务宗旨。年轻、活力、工作环境轻松是公司的代言词。公司采用扁平化、人性化管理，轻松来上班，愉快的工作。",
+      "labels": [
+        "六险",
+        "零食下午茶",
+        "节日福利",
+        "年终奖",
+        "加班补助",
+        "定期体检"
+      ],
+      "activeTime": 1729251971411,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "起点万维",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

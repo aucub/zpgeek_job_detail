@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "h8d2JigDtD_Ep-I1lxgnHAu9TQlSkRomra4OEO9JkUNruSklnc9oTJPbd_gE3vWFU-rvy4t_CLZu43ig3g97izhB6QqtLkKPUSgcAo7X2Hd66sHQfVDAGCz9n1yd-ffl3eoslU6Fd8HMZg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "72f8ad9baca0d99f1H140t-7EFdS",
+      "encryptUserId": "18662df52a936dbe0XR43tq1E1M~",
+      "invalidStatus": false,
+      "jobName": "java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "1.在Java后端开发领域拥有2年以上工作经验。\n2.熟练掌握Java编程语言和相关的开发框架，如Spring、Spring Boot等；具备大数据开发经验者优先。\n3.熟悉MySQL或Oracle等关系型数据库的设计、优化和SQL语言。\n4.熟悉Redis缓存和消息队列（MQ）的使用，具备在项目中应用它们的经验。\n5.具备RESTful API的设计和开发经验，能够设计和实现高性能、可扩展的API接口。",
+      "encryptAddressId": "6cd4ca4d1f4e72bf33x809i8FFFQx4u-VvI~",
+      "address": "北京东城区神华大厦C座4层",
+      "longitude": 116.397996,
+      "latitude": 39.95104,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/d84e6a8b450f11ab8a7ef12e21bbc4f1",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/13ce2ac71a5f723ea49d3a3fb7f15cc3",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "不接受居家办公",
+        "分布式经验",
+        "Kafka",
+        "Redis",
+        "全额社保公积金",
+        "HBase"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "刘先生",
+      "title": "技术总监",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200507/b2874eb8b42db8a6755b87090bfbd8f6b4915ece2993507cea7ec426a47_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "云创睿信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "2dd8ccaab96088501Hd73d--EVY~",
+      "brandName": "云创睿信",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729229022595,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云创睿信",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

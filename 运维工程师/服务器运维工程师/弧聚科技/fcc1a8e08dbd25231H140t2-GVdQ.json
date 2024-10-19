@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "EIAmmDYgpz_lh-S10kBYAThm9vceUtA5fwtU9oKF_lribugLYsrKR-Ppl9CKqzNDXk_331lLBkGC1UnkLoIbebVKrY76gL1NHrDzf2883zhhlO8fhWw3A45GDtLdclX7jMdMV3TweKgFJg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "fcc1a8e08dbd25231H140t2-GVdQ",
+      "encryptUserId": "2200dfece7418c090nB_09y-E1NW",
+      "invalidStatus": false,
+      "jobName": "服务器运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101200100,
+      "locationName": "武汉",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.负责国内主流X86服务器的硬件日常维护与健康管理，包括故障信息收集、故障问题基础排查； \n2.负责操作系统的安装配置、网络配置，确保系统运行稳定； \n3.进行操作系统的基础维护，包括更新补丁、安全加固以及基础问题排查等工作； \n4.协助网络工程师进行系统与网络设备的搭建与调试； \n5.及时响应用户问题，提供技术支持并解决相关故障； \n1.熟悉X86服务器硬件结构及原理，熟悉服务器的管理特性（如SNMP/Redfish/Restful API等，熟悉至少一种服务器管理软件），有日常维护经验者优先； \n2.熟悉Linux、Windows等操作系统的安装配置与基础维护； \n3.具备网络知识，了解基础的网络二层概念（了解VLAN/链路聚合/堆叠/DCBX/FCoE的概念），配合网络配置与故障排查； \n4.具备良好的沟通能力和团队合作精神； \n5.有责任心，工作细致认真，能够承受一定的工作压力；",
+      "encryptAddressId": "a33ba47093acc4e11ndz3tS0GVJXwo66V_yX",
+      "address": "武汉东西湖区湖北移动网管中心1",
+      "longitude": 114.20378,
+      "latitude": 30.628219,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a9ddd7012aa2a3f8d48b83f7b731cc61",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6e14e2d7ede1c4a0857bdad1c0f7b912",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "X86服务器",
+        "Linux、Windows"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "招聘HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240913/607f1f3d68754fd06b78d8fcda6e23150129acac6f9e3d27d6a69e6628999841e46d1bf72f76893_b.jpg",
+      "large": null,
+      "activeTimeDesc": "今日活跃",
+      "bossOnline": false,
+      "brandName": "弧聚科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ed46e6d2be0e052e03Ry2NW1FA~~",
+      "brandName": "弧聚科技",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200303/7558f32f9807f8b7e65f5d61ace377e1f4ceabc12930a0e2ab07f7915af2bbbb_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "弧聚科技是国家级高新技术企业，为IT厂商、集成商及终端客户提供IT实施、 智能运维、数据中台、人才培养输送等服务，是全国领先的IT服务与解决方案提 供商，总部设在杭州，并在上海、北京、广州、福州、济南、成都、西安等多个 城市设有分支机构。 \n弧聚科技改变了“广覆盖、高并发”IT实施项目的传统交付模式，通过线上线 下融合实现全国资源统一调配，以“人+平台+智能工具”的方式实现全国万点 同步部署能力。弧聚科技现拥有签约工程师30000余名，已为3000多客户提供涵 盖数通、存储、安全、视讯等领域专业服务，服务范围覆盖全国34个省市。",
+      "labels": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1729247652659,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "弧聚科技",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

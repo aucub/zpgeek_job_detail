@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "RwPWWt2YpX82j-71VpKdOnFgtQzV_Q7BR6kd8wzEy5olM4wJdjO89uu-79sWr_szbT-L5o4L9SLjYLC7h7H8lI5kaTpokbu420-nNdGQ-e4RLJNcNabdVOkCd1mMrgix3O8mh4n8k_to0w~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "06118e73af3b9a811H140t60GFFT",
+      "encryptUserId": "caece992415be6e61XR42di9FlI~",
+      "invalidStatus": false,
+      "jobName": "app测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-7K",
+      "payTypeDesc": null,
+      "postDescription": "工作年限:1-3年学历:专科及以上，计算机软件相关专业工作经验:有App软件测试经验，能独立开展测试工作职位要求:1.了解软件测试的基本概念，如测试生命周期、测试用例编写、缺陷管理等2.根据需求文档，设计测试用例，熟练使用常用测试用例的设计方法，比如等价类，边界值等3.执行测试用例，跟踪和定位系统中的缺陷或问题并跟踪和验证缺陷4.熟练使用抓包工具进行抓包和断点等操作5.具备良好的口头和书面沟通能力，能够清晰地记录缺陷",
+      "encryptAddressId": "a98c2461d390bf4b1ndz3d65F1tWy4u3WPye",
+      "address": "北京朝阳区方恒国际中心A座1",
+      "longitude": 116.480826,
+      "latitude": 39.98951,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/fa4518605986c29eced954030719c6e3",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/782a444bd1e21c69a98c533907038322",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "性能测试",
+        "计算机相关专业",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "黄女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200518/569a65446ddc169d6878698d4bf9f34ce8ff8a6e8c810fcf0d0fd1d17fe_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "上海兴岩",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f691ed32a9ca67181nx83dm-F1s~",
+      "brandName": "上海兴岩",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729263170178,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "上海兴岩",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "WLBgy4pnHO5k_-y1iCUPQ34OwZFb80so-AGtsEp0w-8Q1Q1AdpdLHq3H2Q94GXTgtUTGpM02CFDccMZcG41Zb_tNFc3VpZhL9VDovBNN8FzuD8_tHHI7eGUYiW6M4h3Vi9d4-LAXSFyBNbr1iViUnG1WhHrCG5tSECQxM7MdgJNFwL8Y",
+    "securityId": "jSEQrPJYJ7Xtr-z14XBiOUA52u9SmFiTHlygKcPzfn3hz1CzL-W5Wz_42QcSQYLepQyw18Hl8nNDgoRaYYOtsaPbNiow45IPt3DyBhdLscHDPm1333viDGw5yAPxOegEN76RaHpSfLY6",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -40,15 +40,15 @@
         "Python"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "王女士",
       "title": "招聘顾问",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210518/97be9722b3c099e3217553515840eae03b0a20bdc1869738ae6bc525d54_b.jpg",
       "large": null,
-      "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
       "brandName": "上海思芮",
       "bossSource": 0,
       "certificated": true,
@@ -67,10 +67,10 @@
       "industryName": "计算机软件",
       "introduce": "上海思芮信息科技有限公司成立于2013年11月(东软控股子公司，注册资金5500万元人民币整)，是一家立足中国、面向国际开展IT近岸和离岸业务外包的高科技企业，业务覆盖全国，在沈阳、大连、上海、南京、广州、深圳、北京和西安设立了8大支撑平台。\n上海思芮一直以“为客户解决问题，与客户共赢”的服务宗旨，专注于高科技、互联网、地产和物业、泛金融、政府、先进制造业等领域，逐步深入行业价值导向，加速行业合作伙伴的数字化转型。\n上海思芮基于东软控股多年的IT行业积累，以区域化管理共享服务中心为支撑，以高效、高品质的质量与流程管理，深入业务、精细化、系统化的经营业务管理，全生命周期的人力资源管理为服务保障；成熟的研发团队、高效的生产效率、精确的人才选拔、定制式的人才培养，使得上海思芮自成立以来，一直与国内外知名企业保持稳定的深度合作，公司业务飞速发展。",
       "labels": [
-        "补充医疗保险",
-        "五险一金"
+        "五险一金",
+        "补充医疗保险"
       ],
-      "activeTime": 1727242694580,
+      "activeTime": 1729256078632,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "上海思芮",
@@ -89,7 +89,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,
