@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "ZfvCnlL0CvPR1-p1nvgIXOHtSXbf2wZ0y_D2bbTAQKmA2zJeBm2dfK_PKB3ZX4mucHz9Ojj7cy7K3LLsKo7GU2249CkszYu5R6oVA6GI4a2KMi7uqAiWqXA7j17OM8F9igyQ9FjIQKcC6Zo~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "932212e9f5704f421Hx909i7EFJX",
+      "encryptUserId": "f088d27f170ffef80XJy3t-1FVBY",
+      "invalidStatus": false,
+      "jobName": "初级ROS开发工程师",
+      "position": 100102,
+      "positionName": "C/C++",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "6-10K",
+      "payTypeDesc": null,
+      "postDescription": "薪资详情:\n薪资范围：6 - 10 k/月\n社保类型：五险\n工作时间:\n早九晚六（弹性打卡）\n月休7天。\n\n【岗位职责】\n1.负责基于Linux操作系统的机器人ROS功能模块开发以及验证工作\n2.负责机器人SDK接口开发，编写有关技术方案及通讯协议文档，做好后期的维护升级任务\n3.协助完成机器人控制、调试与功能测试\n4.跨部门协调及领导交办的其他工作\n\n【招聘要求】\n1. 机器人、计算机、电子通信、机械电子、信号处理等相关专业，本科及以上学历，一年及以上Linux的 C++/Python开发经验\n2. 有基于NVIDIA Jetson, Raspberry Pi等平台的ROS开发经验， 熟悉UART， TCP/IP，CAN等通信方式，熟悉Linux操作系统进程、线程、内存管理等相关知识及应用\n3. 掌握基础的机器人学知识\n4. 熟悉软件开发流程，具备良好的模块化和分层设计思路，有良好的代码风格和编程习惯，熟练使用Git，Markdown，Makefile，CMake等工具 \n5. 具备良好的学习能力，热爱技术；有责任心，工作积极主动，具有良好的团队沟通能力\n6. 了解基于Python的强化学习、模仿学习、大模型等技术知识优先，参加过国内电子设计，机器人相关比赛经历者优先\n7. 看好即将到来的机器人革命，对机器人事业有理想和激情，有做好一款机器人产品的强烈愿望",
+      "encryptAddressId": "ab469c07cfb1456a1nRy39W7EltXxYW8U_KZ",
+      "address": "深圳宝安区前海人寿金融中心4202",
+      "longitude": 113.879897,
+      "latitude": 22.55191,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf15b8843045371ca08d3f1f655ffbd3d56bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230531/48ba41acc9cef1bf0f6496d3cc666e7ae77a9d7f9c0918f26bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "C++",
+        "ROS开发",
+        "英伟达Jetson开发",
+        "Linux开发/部署经验",
+        "机器人开发",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "刘女士",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240722/607f1f3d68754fd00ef870824d447f5933baacfb2d3da09d715f8f479c091c6327eb70f006ed4a7_b.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "玄雅科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "44d801f66ca06ac11HJ709S5F1Q~",
+      "brandName": "玄雅科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240722/7b5b554d84f9729c3ce460a338a9dbce1c490f7d5efa781b715f8f479c091c6327eb70f006ed4a7e.png.webp",
+      "stage": 802,
+      "stageName": "天使轮",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100028,
+      "industryName": "人工智能",
+      "introduce": "AI机器人科技初创公司，团队由多位境外顶尖高校博士创立，顺应新时代机器人革命浪潮，推动机器人走进千家万户。",
+      "labels": [
+        "员工旅游",
+        "五险一金"
+      ],
+      "activeTime": 1729247975731,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "玄雅科技",
+      "customerBrandStageName": "天使轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

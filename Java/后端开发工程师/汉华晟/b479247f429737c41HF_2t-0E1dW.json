@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "8nzxIBWEJFVWv-n1RVO-jZbkG5wvUWbzSEF4bHj9yl4weyHQNFmpbI-3mqQqrmLCnotrKh2Sgq90bHYu5t-MMOMMifYKhI2mW4c44qt-EK5zDT9WnFM~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b479247f429737c41HF_2t-0E1dW",
+      "encryptUserId": "a2565bad4b302a2d0nF-3Nq0GFU~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101280600,
+      "locationName": "深圳",
+      "experienceName": "1年以内",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K·13薪",
+      "payTypeDesc": null,
+      "postDescription": "1.JAVA基础扎实，理解 IO、多线程、集合等基础框架，具体分布式开发经验，对 Dubbo、Spring Cloud 、JVM 原理有一定的了解；\n2.熟悉 MVC 开发架构,对 Spring、SpringMVC、MyBatis 等开源框架熟悉了解它的原理和机制；\n3.熟悉 MySQL，NoSQL、Queue 的原理、使用场景以及限制；\n5.有使用常见 Web 服务器如：Tomcat、Nginx 等经验；\n6.良好而规范的编程习惯和技术文档编写习惯；\n7.善于快速学习，具有良好的沟通能力，良好的团队合作精神，责任心强、勤奋敬业，执行力强。",
+      "encryptAddressId": "e8d404638ff889ce1nd83Ny0EFpW",
+      "address": "深圳南山区触梦社区(虚拟大学园R3店)R3-B栋01层207",
+      "longitude": 113.944867,
+      "latitude": 22.534348,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bf9859655d377e67f4638ea4f0f0d7cf866bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230819/48ba41acc9cef1bfa07c79c9ed938831021ea6eadd89c1056bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "物联网经验",
+        "SpringCloud",
+        "MySQL",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "曾先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231107/607f1f3d68754fd026c7631c20b5d438966afe10aa288df987043e979c49de3ce4e9a91e822175c_b.jpg",
+      "large": null,
+      "activeTimeDesc": "本周活跃",
+      "bossOnline": false,
+      "brandName": "汉华晟",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f8e80e6d5950d0f11HV409u5FlQ~",
+      "brandName": "汉华晟",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100020,
+      "industryName": "互联网",
+      "introduce": "公司前身成立于美国，拥有30多年的历史，在中国成立开发部进行公司转型升级，主要从事自研项目的研发与运营。公司环境优美，工作氛围轻松是90、00后就业优选之地。",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节假日加班费",
+        "法定节假日三薪",
+        "带薪年假",
+        "零食下午茶",
+        "节日福利",
+        "生日福利"
+      ],
+      "activeTime": 1729131276697,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "汉华晟",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
