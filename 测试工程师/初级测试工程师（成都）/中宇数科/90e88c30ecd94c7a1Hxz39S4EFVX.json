@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "Pm4daYFQyNypU-F1gk1TjC9QD640t6uUz0LWdfoJAqmzu8RqRtX8rumvSOu5jLYWge-AtGHVRFQOi5XZgd02xaUjfvZLlX_Hm9RgvjXQlyrcPqo9fQnEymR1MOLzUCc0XJ8EegFlgO8-u4I~",
+    "securityId": "WhKAkS5xYvtkq-d1NgDM45LwBTg7cJ7oAYw5cHZtynj28nBDbJnjI50_EY4DldYqBpQaPacunqvMT_AQzRWhFVc6SQDhku8QtxaIxgj1ipsY0MNMlzcxOqguWK1_VCvGwX1x02G-et_46n4~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -23,7 +23,7 @@
       "proxyType": 0,
       "salaryDesc": "7-9K",
       "payTypeDesc": null,
-      "postDescription": "岗位职责：\n1、负责公司软件业务的功能测试、系统测试及性能测试；\n2、协助制定测试计划，建立、维护测试工作的相关文档；\n3、搭建测试环境，编写测试用例并执行测试用例，提交测试报告；\n4、跟踪bug状态，执行回归测试。\n\n基本条件：\n1.本科以上学历，计算机或通信相关专业毕业；\n2.有较强的适应、学习和接受能力；\n3.流畅的文字表达能力，以及与用户沟通能力；\n4.对测试工作有兴趣，有良好的学习能力、沟通协作和团队精神。\n\n岗位技能：\n1.掌握软件测试技能、具备用例编写能力；\n2.熟练掌握数据库、操作系统相关操作知识；\n3.具有软件开发及相关行业测试经验者优先。",
+      "postDescription": "岗位职责：\n1、负责公司软件业务的功能测试、系统测试及性能测试；\n2、协助制定测试计划，建立、维护测试工作的相关文档；\n3、搭建测试环境，编写测试用例并执行测试用例，提交测试报告；\n4、跟踪bug状态，执行回归测试。\n\n基本条件：\n1.本科以上学历，计算机或通信相关专业毕业；\n2.熟练掌握等价类划分、边界值分析、因果图、正交实验设计等多种测试用例设计方法，确保测试用例的充分性和有效性\n3.熟练掌握Python编程语言\n4.掌握MySQL数据库，能够进行SQL语句编写、数据库性能测试及数据一致性检查，确保数据库层面的质量和稳定性\n5.掌握Selenium自动化测试工具，能够搭建自动化测试框架，编写自动化测试脚本，提高测试效率和测试覆盖率\n6.熟练接口操作基本流程，能够使用 Charles、postman 等工具，进行接口测试",
       "encryptAddressId": "2d9da4a8d74acd2e1nVz09u7F1pWxoS2UfOe",
       "address": "成都武侯区新希望大厦(人民南路四段)1107",
       "longitude": 104.067943,
@@ -37,7 +37,7 @@
         "功能测试"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "招聘中"
+      "jobStatusDesc": "最新"
     },
     "bossInfo": {
       "name": "胡女士",
@@ -64,7 +64,7 @@
       "industryName": "计算机软件",
       "introduce": "",
       "labels": [],
-      "activeTime": 1728279692421,
+      "activeTime": 1729504364171,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "中宇数科",
@@ -83,7 +83,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

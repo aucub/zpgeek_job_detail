@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kFtrxaWW8n-sT--1TsiHnXJzNuvbqtfUpLGEogCWzSiGo2tS0OWCNzN3pbYsTDs7Wd5itFHRcOkMYUoDfnD1F7s-jiriIAaPTuMtxSkvcQ7gbFoS56NHqcXXDsHNG4GaFqRmzhh2HxUt",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8078b83e53411cd91Hx63dy4GFNZ",
+      "encryptUserId": "dd4eda937f6197d933Vz29m7GFY~",
+      "invalidStatus": false,
+      "jobName": "安全产品研发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责\n1、参与公司安全产品的开发和维护；\n2、负责优化软件的模块结构和流程逻辑；\n3、参与威胁情报收集和处理；\n4、开展反垃圾邮件、安全攻防技术研究\n\n岗位要求\n1.计算机、信息安全相关专业学士或以上学位；\n2.精熟练掌握Python、C++等一种或几种高级编程语言，熟悉正则表达式的编写；\n3.熟悉docker的配置使用，能够使用一种Linux下的脚本语言：shell, perl等完成特定的任务；\n4.熟悉渗透测试的基本原理，具备一定渗透测试的基本技能；\n5.熟悉沙箱基本原理或具备反垃圾邮件经验者优先。\n6、熟悉kubernetes者优先",
+      "encryptAddressId": "957f57eb578dcfbd1n193t65Eg~~",
+      "address": "成都武侯区中海国际中心D座D座",
+      "longitude": 104.056442,
+      "latitude": 30.58155,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/9dc2cb705f3b4ea32df9b7e12a3435a8",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/816040b7742a358493fe2b60c9705912",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Docker",
+        "Elasticsearch",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "Linux开发/部署经验",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "鞠女士",
+      "title": "行政人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8EQ~~.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "天空卫士",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "4cf4c14c6ecbfeb00XJ72N27GA~~",
+      "brandName": "天空卫士",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191119/2c1d97c8244c992730690361ec2ee78f3689bebca741b43acb141ebf7027dc66_s.jpg",
+      "stage": 803,
+      "stageName": "A轮",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726886191128,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "天空卫士",
+      "customerBrandStageName": "A轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

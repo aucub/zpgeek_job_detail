@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "W5g7IZpuRDP2m-51p-q2NOWWxpz9TeWez9248bZ1DIhEy4EwrR52rS6xB5OVz25aQLHHpeJqGMGzOYNXuLceEMJhyC7ODOipgSLcWfDEg3FMdY1UTASE",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c5821a18bb31109b1HJ82N65EFJV",
+      "encryptUserId": "bb6f6d1138f704c50nF609y8EFpT",
+      "invalidStatus": false,
+      "jobName": "中级python开发工程师",
+      "position": 101301,
+      "positionName": "机器学习",
+      "location": 101180100,
+      "locationName": "郑州",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "职位要求：\n\t• 熟练掌握 Flask/Django/Tornado 等常见Python Web 框架开发方法\n\t• 有其他编程语言如PHP、Go、Nodejs等优先考虑\n\t• 熟悉PostgreSQL，ElasticSearch，Linux，Nginx，Redis 等技术生态\n\t• 熟悉Apache/Tomcat/Ngnix等Web Server的部署和应用\n\t• 熟悉常见设计模式、数据结构和算法\n\t• 熟悉敏捷开发方法，具备良好的个人管理和团队协作能力\n\t• 具备良好的编码习惯及开发文档书写习惯\n\t• 有Vue、Rect或Angular前端开发能力优先\n\t• 英语四六级通过优先",
+      "encryptAddressId": "7ef39a46412de4b23nJ_39m4EVtUxI-5Wf4~",
+      "address": "郑州二七区升龙世纪花园壹区一号楼一单元",
+      "longitude": 113.638409,
+      "latitude": 34.726552,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230620/48ba41acc9cef1bf9e5c7ff810913a2a584861c0dd8c59e76bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20240324/48ba41acc9cef1bfe6fd79f9a29cae19eb55f48269a267d26bb61e3b7bce0931da574d19d1d82c88.png.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "数据挖掘",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240624/607f1f3d68754fd06770b3cbfc7c8fd73968d1de796ac18aebaf1633ef13a8b2aef6b5b6a37bf2b_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "玉带",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7a02aaacb8f8060b1nB42N-4E1s~",
+      "brandName": "玉带",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729482016441,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "玉带",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

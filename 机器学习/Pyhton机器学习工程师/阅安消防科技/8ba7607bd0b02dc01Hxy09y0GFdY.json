@@ -1,0 +1,98 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "gJ9aItyu6ZxoW-A1Wp71r6rDoWZd7XWZkwVLqpUHSmZdc-iELY70H9CyoOKGyfhYIywh-6m_jnaaiK8oIZB9dJT4L-C321mx_QNemV7dVDDLucZiwEGsRdoQdRDgpwR0CqSequqIkXgaF01ddDL6FZCmMVoTRlDB0NHM9GB1FCsWJabO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "8ba7607bd0b02dc01Hxy09y0GFdY",
+      "encryptUserId": "102e6f740d53da260nJ53dq1EA~~",
+      "invalidStatus": false,
+      "jobName": "Pyhton机器学习工程师",
+      "position": 101301,
+      "positionName": "机器学习",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-9K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、数据处理，获取相关数据进行清洗、标准化和异常值处理。\n2、特征工程，进行特征提取、选择和缩放、以提高模型的性能和准确性。\n3、模型开发，设计和实现机器学习模型，包括随机森林和LSTM网络，用于预测数据。\n4、模型训练与调用，使用网格搜索和交叉验证等技术对模型进行训练和超参数调。\n5、模型评估，使用适当的评估指标，如MSE、MAPE和R^2，对模型进行评估和验证。\n6、系统集成，将机器学习模型集成到灌溉决策模块中，确保模型的实时预测能力。\n岗位要求：\n1、计算机科学、统计学、数学或相关领专业毕业。\n2、至少3年以上在机器学习领域的工作经验，有农业科技项目经验者优先。\n2、熟练掌握Python语言。\n3、熟悉机器学习库，如Scikit-learn、TensorFlow、Keras或PyTorch。\n有使用随机森林和LSTM网络的经验。\n4、熟悉数据预处理、特征工程和模型评估的技术。\n5、能够进行模型参数调优。",
+      "encryptAddressId": "e93a37546be14fae33B-3tq4FVBTxIS8WfI~",
+      "address": "成都青羊区国信大厦1006",
+      "longitude": 104.061353,
+      "latitude": 30.656056,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/574a04e35b2c5e54fada76709b7e93cf",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/f7f7ff4ac7ae38f24488555b2158c819",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "深度学习",
+        "大模型算法",
+        "数据挖掘",
+        "推荐算法",
+        "模型加速/性能优化",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "陈先生",
+      "title": "技术",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK8FA~~.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "阅安消防科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "a45b0cfa0ef428991HZ_3Ny6F1c~",
+      "brandName": "阅安消防科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729477736785,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "阅安消防科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

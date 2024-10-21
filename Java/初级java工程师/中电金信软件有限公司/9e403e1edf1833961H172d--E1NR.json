@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "3PQ8qSeG9UvXV-y1a5Grqk13MLN3Hba6gyDNiFLsm2yOW5Totp7ByiR-R625jhCzJs-o0isulgSwQWYnq-FbnB9u4cXBze9at8ICDWo6TeSCjWxMW19bnDyRRHY5qeMnOMlW81z0kmeacuJvyg8rsn_VGL3o-OupWWL0_JTVr23GgaEWt-E~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9e403e1edf1833961H172d--E1NR",
+      "encryptUserId": "6d3cfb7ec14556dd0n1-2tS8ElpX",
+      "invalidStatus": false,
+      "jobName": "初级java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-10K",
+      "payTypeDesc": null,
+      "postDescription": "1、参与产品和技术方案的讨论和评审，负责应用模块的方案设计和代码实现；\n\n2、根据开发进度和任务分配，完成开发任务，并进行程序单元、功能测试，保证其代码质量； \n\n3、负责业务系统的日常维护工作，解决生产上的问题和缺陷；\n\n4、主动关注并学习新技术，并能够在实践中应用，帮助建设团队技术氛围。 \n\n【任职要求】： \n\n1、一年及以上Java开发经验，编程基础扎实，熟悉io、多线程、集合等基础框架，了解JVM的原理，熟悉线程池、JUC工具包等多线程编程知识； \n\n2、熟悉Web开发，熟悉Spring、Mybatis、Dubbo等框架，熟练使用git等团队协作工具； \n\n3、熟悉Linux下的常用命令，熟练使用MySQL等常用关系型数据库，熟悉主流的redis等key-value存储系统，熟练使用MQ消息队列； \n\n4、熟悉常用设计模式，有大型分布式、高并发、高负载、高可用性系统设计开发经验； \n\n5、善于思考，能独立分析和解决问题,责任心强，具备良好的团队合作精神和抗压能力。\n\n要求有银行支付系统，银企直连经验的优先",
+      "encryptAddressId": "1d45198b8a7466f31ndy3tW_EVNXyo--VfiW",
+      "address": "成都武侯区中国民生银行大厦1",
+      "longitude": 104.049398,
+      "latitude": 30.58144,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230522/48ba41acc9cef1bfe50ea08371829047fe520e2bfa9866306bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230713/48ba41acc9cef1bff48a515cb22f0a421e8a8000957952636bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "银行支付系统",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "银企直连",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "胡女士",
+      "title": "项目经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20230421/607f1f3d68754fd07e64b28f14cf1a47477f2d70950c8d6cc7e59cdcfa96db1566d56459dd0_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中电金信软件有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "ffe02f33b18080341nFz2di9F1s~",
+      "brandName": "中电金信软件有限公司",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 304,
+      "scaleName": "500-999人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729474719452,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中电金信软件有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

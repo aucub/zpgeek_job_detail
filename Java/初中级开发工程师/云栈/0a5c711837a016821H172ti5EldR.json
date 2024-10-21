@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "vYjgoqbT1ejBo-y1mwHITaAYcjo7d2-wlH0HY1KCZbrUS-ddXp4L1kc-aHLWWUC_Z2HtAcfyhCBSc60Eq4nqcnm7Tw1FbbZXR2wEBAvXAQgOBc2QzWYaIsfRtuHpAueDjDJKbwRw4hnblvGq9pISn-3uc6XH8JxjLv41sl1DdonjhvKypRc~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "0a5c711837a016821H172ti5EldR",
+      "encryptUserId": "5d04e077832d045f0nd53t6_EFVW",
+      "invalidStatus": false,
+      "jobName": "初中级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101270100,
+      "locationName": "成都",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-8K",
+      "payTypeDesc": null,
+      "postDescription": "1、本科及以上学历，计算机或相关专业；\n2、1-3年WEB应用项目开发经验，其中有一个中大型项目经验；可快速独立设计开发相对较复杂的业务功能；\n3、java开发基础良好，熟悉面向对象技术；\n4、熟练使用 Spring、Springboot，Spring mvc、Ajax、jQuery等框架和技术。\n5、熟练使用 MySql，Mongodb 其中一种数据库。\n6、熟悉Python，Flask，Panda等\n7、能够独立完成项目经理所分配的软件开发任务。\n8、语言表达，善于沟通、工作积极，责任心强，极强的团队协作。",
+      "encryptAddressId": "f8a87fcdbc9e19371nd83tm7EltVxIm8UP6c",
+      "address": "成都双流区蓝润置地广场T3公寓24楼",
+      "longitude": 104.067224,
+      "latitude": 30.525863,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bff53ede8105bf0354fb0ad17b39103dd06bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230605/48ba41acc9cef1bfe4a3a08759326d545c93d0019ede70396bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Elasticsearch",
+        "Docker",
+        "MySQL",
+        "MyBatis",
+        "MongoDB",
+        "Spring",
+        "Python",
+        "HBase"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "吕先生",
+      "title": "技术负责人",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK7.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "云栈",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "5dd8e043c42cee6e1HJ609i-FFQ~",
+      "brandName": "云栈",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729507107438,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "云栈",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

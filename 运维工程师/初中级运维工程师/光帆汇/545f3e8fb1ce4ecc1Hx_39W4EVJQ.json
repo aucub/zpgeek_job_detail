@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ytPcqaH7UwOuJ-h16h6uwCYR89vwXiktx9p91nzdCN5dz91KutAoSuW4NIKKfX8w-QiJbAd_SYocYLJp29JVhH4nqE1MYy0BY4V7DtmgGuv4wYErE68QRacn5QQMX6GnYz3QjfEjOdn1lQ~~",
+    "securityId": "hLiFWGoe5bmCw-q1hrldq8lhj4D6oO7VOZWBVAQ0ngzultyno6R_NArx05NJF_PShVFZZQ5quYvsn3sAshKADRMeTKBMYepOwsDJKJXycIc-JQtVKZ_neFSt_HW4qaMnXvwIT7Hqy-czZGBtF2kFRN8m4-h8nANv6xlUriZVHvcX6-FYDw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,8 +46,8 @@
       "title": "项目经理",
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20190912/4e3e638664bab4291b138d5bac0c57425811c5fa3beaa01a87c05ad6950_b.jpg",
       "large": null,
-      "activeTimeDesc": "本周活跃",
-      "bossOnline": false,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
       "brandName": "光帆汇",
       "bossSource": 0,
       "certificated": true,
@@ -70,7 +70,7 @@
         "绩效奖金",
         "年终奖"
       ],
-      "activeTime": 1727961502885,
+      "activeTime": 1729504089325,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "光帆汇",
@@ -89,7 +89,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,
