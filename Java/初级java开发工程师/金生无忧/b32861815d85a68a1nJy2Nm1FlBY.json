@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "_Yq9tG2HQNCAD-F1zrGsb90H_7_U5teO4dBa-mBy0yWKO2kePHNOoyX0YJ-XO8LfhOFpqDBxzh_aY4ASjAywGH_fTYjCUzwc4zWYVeWAPFpsQDFb4HtxM8oTsald3V63wx5KZXv9s6Y19D4~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "b32861815d85a68a1nJy2Nm1FlBY",
+      "encryptUserId": "b913c62b1e4126ed0nd93d6-FVpT",
+      "invalidStatus": false,
+      "jobName": "初级java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-13K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、负责公司Java产品的研发和日常BUG修改，参与项目涉及的技术研究分享；\n2、按质按时完成主管分配的任务；\n3、负责相关技术文档编写。\n岗位要求：\n1、计算机相关专业，2年以上java开发经验；\n2、熟练掌握SpringBoot、SpringMVC、Spring、Hibernate、MyBatis等主流框架设计思想，并能熟练使用，了解各种常用设计模式；\n3、熟练运用开发工具，如Eclipse、IDEA等，熟悉团队协同开发工具SVN、GIT和项目构建工具Maven；\n4、熟悉HTML、CSS、JQuery、JavaScript、Bootstrap等前端开发技术；\n5、熟练操作Oracle、MySql数据库中的至少一种，具有较好的数据库设计和sql调优能力；\n6、熟悉或掌握消息队列、缓存等web开发常用组件；\n7、具有良好的逻辑思维能力、表达能力和沟通能力，具备解决方案的编写能力，熟练掌握软件开发流程，熟练掌握软件的需求、设计、编码和测试工作；\n8、具有中大型互联网系统开发经验者优先。",
+      "encryptAddressId": "804099db48d186991H163t-5FQ~~",
+      "address": "青岛崂山区盛和大厦2号楼1202",
+      "longitude": 120.454193,
+      "latitude": 36.099571,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2fa4a8acc0c8b5a5db85797b794d6e2a",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18ea90865677fbe9f4049594616b9879",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "SQL",
+        "HTML",
+        "Spring",
+        "SpringMVC",
+        "后端开发",
+        "初级软件工程师",
+        "服务器端开发",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "孔女士",
+      "title": "人力资源",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "金生无忧",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c349cb3a37fb23d91nNy0967F1U~",
+      "brandName": "金生无忧",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1727013546643,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "金生无忧",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

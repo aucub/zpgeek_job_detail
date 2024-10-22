@@ -1,0 +1,96 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "rDILQXv2Xov27-l1ldijs7qBfzD8HEhlicwl_WteF4VHqM3es_aDlbkATAPyYGaP8wJ3glPL5rDAqOyV6uMT7nGhUuipG7HMx2EK1hs2nQdBMvz3zqs~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4668cb1fe298802a1XRz0tS8ElBY",
+      "encryptUserId": "e66f026e8a4378fc1nZ_3Nu8EVY~",
+      "invalidStatus": false,
+      "jobName": "Java开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n\n1、负责证券相关系统的开发。\n\n任职要求：\n\n1.计算机或相关专业本科以上学历，1年以上开发经验；\n2.java基础扎实，熟悉jvm性能调优、线程处理、设计模式、熟悉java编码规范；\n4.熟悉spring boot, spring cloud, mybatis等主流开源应用框架，精通微服务设计原理，精通对spring的原理，熟读spring相关组件源码;\n5.熟悉oracle、mysql数据库开发,具备数据库调优能力;",
+      "encryptAddressId": "1c32c98660571a713nxz0969GFE~",
+      "address": "上海浦东新区国泰君安证券来安路685号",
+      "longitude": 121.67407,
+      "latitude": 31.247627,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/18abb22fde44f233f138ebec3e18ce7c",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/ca9a76d93fb10c652ee6a78cdab73dfd",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "JavaScript",
+        "Oracle",
+        "CRM"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "罗先生",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180607/87ca1a07381e3658e49dcd82e2af1ba2cfcd208495d565ef66e7dff9f98_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "宝满信息",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c98bb72f3cab98501XR53t64GFs~",
+      "brandName": "宝满信息",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729520337714,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "宝满信息",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

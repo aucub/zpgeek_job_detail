@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "ZgnKRyCfO6MsV-k1S6lnV8qm-DKiZoqTwmmpwZvMVaLekqtM7Xbz2CScntcesxT-6mZ1eBDsUawuI8jHvXNs9AqESsBElghw_h34XYQusZ_vGy8RpT5-FNVpqpa5a-qb0FLP0lIT9KAu3DEQbg~~",
+    "securityId": "72sGDNWRXHyta-61Sl_HgS3JVT2RxuP40LwDPV1G4VvdMovyEZPVsmTBPHwuIQCWXk7B83Udl1YOLWaT5KrvHdzkqHfpeP-aOmMNSr-sb3bKWeyzByr56zlDO_VA5fhZ389Cneof",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -46,12 +46,12 @@
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160715/8bc4d127c49abb77136539cf2d290c9ca913d92db28697eac9781973186_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "Nextlabs",
       "bossSource": 0,
       "certificated": true,
       "tagIconUrl": null,
-      "avatarStickerUrl": null
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
     },
     "brandComInfo": {
       "encryptBrandId": "59a8f661ae8aa18c1XJ_2di_",
@@ -74,7 +74,7 @@
         "节日福利",
         "零食下午茶"
       ],
-      "activeTime": 1726626000109,
+      "activeTime": 1729589307315,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "Nextlabs",
@@ -93,7 +93,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

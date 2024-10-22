@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GPTUeGBgV6xbY-g1-KiGtXQKm5oYZa_qEL9TozbmkKMjnsqKi1rrQQ4S0Ek8RAz55dEyzmjCfbmEJGcUnSM-91TC1IRHwivoMib1AB08xLdSTfQW",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "a3dc6a986a9558110XN_3Nm9EFQ~",
+      "encryptUserId": "abc5a6ce98c00d4f33Fz3tm5E1Y~",
+      "invalidStatus": false,
+      "jobName": "java年底临时测试工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101110100,
+      "locationName": "西安",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：1、负责公司java项目的设计与开发；2、根据项目需求和开发计划，进行研发产品的软件设计、开发、测试工作；3、解决产品的bug问题；4、确保需求、研发、测试整条产品线的沟通顺畅；5、快速理解需求，能够根据需求和架构进行开发。任职要求：1、本科及以上学历，计算机相关专业，1年以上JAVA开发经验；2、精通Java语言，掌握Spring、SpringMVC、MyBatis等常用开源框架，并对B/S架构有丰富的开发经验；3.熟悉常见关系型数据库，如MySQL、Oracle等，能够编写较为复杂的SQL语句；4、熟悉Linux、理解IO、多线程、集合，熟悉HTTP，HTTPS，TCP等网络协议；5、熟悉Maven、redis并能灵活运用；6、熟悉Hadoop平台，熟悉MR开发；7、熟悉至少一种web服务器的配置和使用，例如Tomcat、JBOSS等；8、有微服务架构和实施经验，掌握SpringBoot优先录用；9、有良好的自我学习的能力，喜欢探索新技术和理念并应用在工作中；",
+      "encryptAddressId": "f40d4bdfee2637021XNz3tS1EVI~",
+      "address": "西安碑林区每一天骡马市步行街店",
+      "longitude": 108.952082,
+      "latitude": 34.258038,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/b73e31e7d395f6032526d305711fcdc2",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/bc5e739910c2cad6c6e32268686f8d3b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SQL",
+        "Spring",
+        "Hadoop",
+        "分布式技术",
+        "服务器配置",
+        "网络协议",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "李先生",
+      "title": "人事经理",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20200112/4c3786c98b7bee6962de37a41900eb36cb45e3f523aa14652e356c6bd3e_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "太湖服饰",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "f72ce06fb8c721fe0HRz3Ny8Ew~~",
+      "brandName": "太湖服饰",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 101003,
+      "industryName": "服装/纺织",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726952413022,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "太湖服饰",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "4xK3VMKY3NuxY-g12q-0IiC5rueZvijdPmTdI_1jzHmgAy2dJv5ID9EQi_FObyLHiLsYrLMroRZ-aPiRTrcst1ghZcWZDHw37VtUedPzo4IV4XLfiuiV_rANGZo3Ed2IygrEmuvKbdpAlk7xOD-18BI~",
+    "securityId": "hz1CjTkq1xbq4-J1wzMu60W2S_0BOjYU2uVAnnW2DuQgditkxIJHV4YZyQooMmIpr6uTW4ZSeuJHx18h3iErp35ZTzl_ygbAIVgq_D2AJGXxp5ynO4cRUmLfr82DKlmLFWiI0LSH5aF6yw~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -47,7 +47,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK-.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "芸景网络",
       "bossSource": 0,
       "certificated": true,
@@ -66,21 +66,21 @@
       "industryName": "互联网",
       "introduce": "芸景网络是一家集自主研发、销售、实施和售后为一体的软件开发公司。公司成立于2010年，总部位于杭州拱墅区，同时在山东、湖北、河南、广东等地设立分部。\n芸景网络专注于口腔医疗软件行业，拥有丰富的行业经验、专业的技术人才及高素质的管理团队。\n      芸景拥有\"恒久\"和\"牙艺云\"两个注册商标，旗下产品线覆盖近3000家工厂和几万用户，获得市场广泛好评。",
       "labels": [
-        "生日福利",
-        "节日福利",
-        "高温补贴",
-        "有无线网",
-        "宿舍有空调",
-        "包住",
-        "团建聚餐",
-        "带薪年假",
-        "绩效奖金",
-        "年终奖",
-        "意外险",
+        "五险一金",
         "补充医疗保险",
-        "五险一金"
+        "意外险",
+        "年终奖",
+        "绩效奖金",
+        "带薪年假",
+        "团建聚餐",
+        "包住",
+        "宿舍有空调",
+        "有无线网",
+        "高温补贴",
+        "节日福利",
+        "生日福利"
       ],
-      "activeTime": 1725687999861,
+      "activeTime": 1729591060728,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "芸景网络",
@@ -99,7 +99,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

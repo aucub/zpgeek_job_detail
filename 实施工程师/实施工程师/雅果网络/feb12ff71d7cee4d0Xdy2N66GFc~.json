@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "8t13RROU_iD5Y-u17aENvoyh2ncrEBHtrsDAOJim7xseq0UiE3BUC5LQUt8lGG6_aceHKDbnzAO37mfciRzTjbLtAqHql7TvR6CTwdatV1zIhBs~",
+    "securityId": "BevGkHioPjWo0-B1q9JYXdOmBmH_fJ89lNj9qCAJiany7vKckmp8tXJgmTP0YvE1hX8TIf0oiUSBDsZ-NEreTII709Lvg8Zm0AdTsnrKv4i-vVX6CbQtYdbsiMjmIYdy36CIySYUMg~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -65,14 +65,14 @@
       "industryName": "计算机软件",
       "introduce": "杭州雅果网络科技有限公司是一家专门从事管理咨询及信息化系统开发的公司，公司开发的国有企业出资人信息化系统及行政事业单位内部控制管理系统是目前业内最专业的系统。我们致力于做一家世界级的管理咨询与信息化管理系统公司，把中国文化与管理推向世界！",
       "labels": [
-        "员工旅游",
-        "带薪年假",
-        "年终奖",
-        "加班补助",
+        "五险一金",
         "定期体检",
-        "五险一金"
+        "加班补助",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
       ],
-      "activeTime": 1725134794528,
+      "activeTime": 1727016404518,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "雅果网络",
@@ -91,7 +91,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "W5XpvjeugifDt-e1-9RLxvJPIJtzUF1bi8wUWBgChDJw99yfukYulWexQuANRtJuR7p4gz8DOOYRm6bhSTNT4U4KsFLqB9dLk53cEv1ZJTutabk9MndmQbHEGILAtwGAryaiHkPHIPXmL-b8ghBN6ehD5nqfFb-Jn5kyRiQWBLwp8rQD",
+    "securityId": "rGmS5TjbInSic-p1YwyAzzmC94AXewxkqiym88y2VkAY9pCcgnI_kZjuBXcAYDqJpSKTZc7VOosoxvh6WMbteKBhTaNMS-OI75ufqwjZ3Um0re0EvEI3mkMTtIMvV-KhzSeHT-tKBYiJOQ~~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -34,13 +34,13 @@
       "overseasInfo": null,
       "showSkills": [
         "软件实施经验",
-        "熟练掌握SQL语句",
-        "可适应出差",
         "PMP",
-        "ERP"
+        "ERP",
+        "熟练掌握SQL语句",
+        "可适应出差"
       ],
       "anonymous": 0,
-      "jobStatusDesc": "最新"
+      "jobStatusDesc": "招聘中"
     },
     "bossInfo": {
       "name": "韩先生",
@@ -48,7 +48,7 @@
       "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20240521/607f1f3d68754fd0510f82fddf6c96f5b2958e0366ca8a45a64786325e76ca29ccc97f62b590913_b.jpg",
       "large": null,
       "activeTimeDesc": "刚刚活跃",
-      "bossOnline": true,
+      "bossOnline": false,
       "brandName": "浙江融健",
       "bossSource": 0,
       "certificated": true,
@@ -78,7 +78,7 @@
         "住房补贴",
         "零食下午茶"
       ],
-      "activeTime": 1721199807620,
+      "activeTime": 1729589811342,
       "visibleBrandInfo": true,
       "focusBrand": false,
       "customerBrandName": "浙江融健",
@@ -97,7 +97,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

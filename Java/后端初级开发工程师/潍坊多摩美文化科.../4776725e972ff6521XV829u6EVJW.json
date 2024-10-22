@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "Qm5aYVKjDzKKW-91Ff8J2SAXazSGwTJYErE66UQw-7-Bxp3nIF8YjDfq-WBY59avAFFyXqrvUU-HkQPY-wjRVPBFcHtUshXwtWwt8REjkiO_7ggdHzaA",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "4776725e972ff6521XV829u6EVJW",
+      "encryptUserId": "df19e26fba9853211nV82Ny7E1RV",
+      "invalidStatus": false,
+      "jobName": "后端初级开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120600,
+      "locationName": "潍坊",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "1.精通java语言，掌握常用框架：SSM(spring、spring mvc 、mybatis)、SSH(Struts、Spring、hibernate)、springboot/spring cloud；\n2.具有良好的软件设计和编码能力，良好的文档输出能力；\n3.具备完整后端设计、开发、上线部署项目经验；\n4.熟练掌握sql语句常规操作，熟悉mysql等数据库；\n5.具备Web、H5相关开发经验；\n6.熟悉python语言者优先；",
+      "encryptAddressId": "1412b803c0d881c80nVz39W-FlI~",
+      "address": "潍坊奎文区新华大厦B4410",
+      "longitude": 119.173416,
+      "latitude": 36.727748,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2d19fda3b5d743cea390f286389d30fb",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/1fa20ea20715a1c3462679e119b8fbdc",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "HTML",
+        "Spring",
+        "SpringBoot",
+        "SpringCloud"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "肖女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231110/607f1f3d68754fd0b8b61baa67d7587a1b549ac35370629aa822f8877070b20e5dd44acd4ba3131_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "潍坊多摩美文化科...",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "1e348052697ec7a41nJ439i4GFI~",
+      "brandName": "潍坊多摩美文化科...",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100005,
+      "industryName": "大数据",
+      "introduce": "潍坊公司已成立5年之久，总部位于上海，公司总部名称是上海锐线创意设计有限公司，是极具创意与跨界思维的字库设计公司，致力于字体设计、字库产品开发及字体技术支持与相关咨询服务。在国内开展汉字宇宙登陆计划，成功建立字库科研机构锐字宇航局。锐字宇航局（REEJISA）出品：锐字潮牌字库。并先后获得7个国家与地区三十多个专业奖项。\n锐字潮牌字库，就在您身边！\n\n\nhttp://www.reeji.com/",
+      "labels": [
+        "五险一金",
+        "年终奖",
+        "节日福利",
+        "生日福利",
+        "有无线网",
+        "团建聚餐",
+        "零食下午茶",
+        "带薪年假",
+        "加班补助",
+        "绩效奖金"
+      ],
+      "activeTime": 1726953685188,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "潍坊多摩美文化科...",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "sBcpwJv1AVNhK-L1rRlxMR_imdX6hFeuEI1-6l-UQqjuxXOA7UcNCdiZeNLZsy2SQo8uKdmM5K7IU8_gzSdYTMowqVkFnz_7gDkDwPx5jOWwT_c9JYE2B5jxwot8Wr4uPp8KqdbYsrERbg~~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "9ca2d0c167b75dd21HB52ty7GVNT",
+      "encryptUserId": "b9aad6385d72d5220XB43Nq4FVY~",
+      "invalidStatus": false,
+      "jobName": "java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101210100,
+      "locationName": "杭州",
+      "experienceName": "经验不限",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-14K",
+      "payTypeDesc": null,
+      "postDescription": "1. 本科及以上学历，计算机科学、软件工程等相关专业毕业，有教育行业从业经验优先；\n2. 至少2年以上的Java开发经验，熟练掌握Java编程语言及相关技术；\n3. 熟悉Spring框架及其各个模块（如Spring MVC、Spring Boot等），能够进行系统架构设计和开发；\n4. 熟悉数据库设计原理和SQL语言，有MySQL、Oracle等数据库应用经验；\n5. 熟悉RESTful API设计及开发，能够熟练使用接口开发工具（如Postman）进行接口测试；\n6. 具备良好的软件设计和编码规范意识，能够编写高质量、可扩展和可维护的代码；\n7. 具备团队合作精神和沟通能力，能够与产品、测试等其他团队成员有效协作；\n8. 单休 - 能适应加班",
+      "encryptAddressId": "3bffe76abca16a591nB729S5FVRXxoq2Wf6c",
+      "address": "杭州富阳区山水国际中心3号楼1801",
+      "longitude": 119.928695,
+      "latitude": 30.011437,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230405/48ba41acc9cef1bf104a34ff6d46fc13993a5e0a57b81b2e6bb61e3b7bce0931da574d19d1d82c88.jpg",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230705/48ba41acc9cef1bfce966f7d034e056a9ab802846ac103d06bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "Redis",
+        "Spring"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "李女士",
+      "title": "行政",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20231229/607f1f3d68754fd07da5a5883af08af602e48f2a4b885e7f17fbb6182241ea36e46898833fd56b8_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "杭州基列网络科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dde385671b308c931Hd_2dy4GFA~",
+      "brandName": "杭州基列网络科技",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729587372966,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "杭州基列网络科技",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

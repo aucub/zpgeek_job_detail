@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "UsM0abVcICL27-U1ummg6-Ca343tDYX3t0-qkQToDfmGZNefusyusYmbqaD7EkChUhxywii5M_lPo2hlUY5u83xHR4ghMIOOZjwdEH_dxf6dQ8ZiUJWk",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "2dbd48bfa25c3fa21nZ529-0FFRV",
+      "encryptUserId": "868204ea2e7b2c700nV63d21ElNT",
+      "invalidStatus": false,
+      "jobName": "平度Java工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101120200,
+      "locationName": "青岛",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "因口罩原因仅限平度地区，请大家见谅！要求2年以上工作经验\n技术要求:\n1. 能够熟练应用ssm 和 springboot 等主流开发框架。\n2. 熟悉MySQL，Redis，对SQL性能调优有一定的经验。\n3. 熟悉Tomcat服务器软件。\n4. 熟悉Maven。\n5. 熟悉SVN或Git。\n6. 了解 js、css、vue、等前段技术。\n7. 有复杂业务系统开发经验者优先。\n8. 具备良好的沟通能力及团队合作精神，能承受一定的工作压力，有强烈的责任心。\n\n\n工作内容描述\n1、全程参与项目的需求分析、 开发以及测试几个阶段。\n2、负责项目系统开发工作。\n3、具备良好的沟通能力，能够提出逻辑的修改建议。\n4、能够解决开发过程中遇到的技术问题。\n5、良好的编码能力，良好的编写技术文档的能力。",
+      "encryptAddressId": "ebbf127eebf684d61nxy39u7Eg~~",
+      "address": "青岛平度市平度财富广场B座2201室",
+      "longitude": 119.999346,
+      "latitude": 36.776973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a29337c5779eaf3cf8c9d43fb4149ab5",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/324d176532e91392e1c70c079f319bf6",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "MySQL",
+        "SpringMVC",
+        "Struts",
+        "MVC开发",
+        "SQL Server",
+        "Spring",
+        "后端开发",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "王女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20201215/e1430a0547d1dca54e487700605ff3f890f7d98d157fcefa4b738466f46_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "境进电子",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "c86a3c7a097246ad1nd52Ny8GVo~",
+      "brandName": "境进电子",
+      "logo": null,
+      "stage": 0,
+      "stageName": "",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1726952412985,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "境进电子",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

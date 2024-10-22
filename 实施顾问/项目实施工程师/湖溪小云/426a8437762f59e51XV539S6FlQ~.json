@@ -4,7 +4,7 @@
   "zpData": {
     "pageType": 0,
     "selfAccess": false,
-    "securityId": "NVWGoWuiBs6Kj-s1ReNFo9NLKaTOviP07m9Urk6vJrLJm_V6zb_05YQSPk8AwfKgwD1Yc3bsL-sh3Jl9QrnH0szlNpjYZDWoHGHdhrM1q7--WugX_5UIY4RQQ8uqrK9JfHX5Y__Ej5A~",
+    "securityId": "-3RzIzBSE8f4P-H1RMpv6TqJTMxeae0xZEV5Rrarsut_qGc9axkc82yquAq7m0jPZgobozkknCwVtBoNVAtGjiYAR5ihii_-AfkUiRwpL6oVXrbtiW46XOuqv_BQbVdRf09OSoed3FI~",
     "sessionId": null,
     "lid": "",
     "jobInfo": {
@@ -45,7 +45,7 @@
       "title": "HR经理",
       "tiny": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170905/b6161dc671c6c1aaa3322629970ad9550ada9593fdace83ea8583864f9f_b.jpg",
       "large": null,
-      "activeTimeDesc": "2周内活跃",
+      "activeTimeDesc": "本月活跃",
       "bossOnline": false,
       "brandName": "湖溪小云",
       "bossSource": 0,
@@ -84,7 +84,8 @@
     },
     "handicappedInfo": null,
     "appendixInfo": {
-      "canFeedback": false
+      "canFeedback": false,
+      "chatBubble": null
     },
     "atsOnlineApplyInfo": {
       "inviteType": 0,

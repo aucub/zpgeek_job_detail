@@ -1,0 +1,99 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "WSp5lawmw8cQO-J1teIZfABzlBM4tXRmIFFWzEWZ0VYVluPZKwcXWo7x8Fc1y4UYNS0H9_aa_lOa5crEujx3-7EXtNLp5Yg0uZNbuuEGxCnDXgqTEM4F",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "c0eeb0c50c3c90be1Hx63dq6EFJR",
+      "encryptUserId": "032882a9d11a656e0nZ92dq1ElVS",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101040100,
+      "locationName": "重庆",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-10K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、参与项目的需求分析、架构设计、技术选型、技术难题攻关、功能设计和实现、性能调优等工作\n2、参与公司产品业务架构和解决方案设计，与产品经理密切合作，推动需求分析、系统开发与产品上线交付\n3、参与技术和业务项目中的架构评审，实现架构原则和技术标准的制定和落地\n4、参与技术体系建设，实现技术驱动和引领业务\n任职资格\n1、全日制本科及以上学历，计算机、气象、遥感、GIS相关专业\n2、2年及以上软件开发相关工作经验\n3、熟悉微服务架构设计、分布式架构设计、具备复杂业务系统的系统开发及优化经验\n4、扎实的服务器端开发功底，熟悉Java,在数据、性能、并发、线上系统运维以及系统水平扩展方面有自己的理解和实战经验\n5、熟悉Spring Cloud、Redis、Kafka、Elasticsearch、MySQL、PG等常用技术组件\n6、具有良好的思辨能力、学习能力\n7、思维活跃，逻辑清晰，具备良好的沟通表达和团队协作能力\n8、自我驱动力强，有强烈的事业心和责任感，结果导向，具备良好的协调推动能力和抗压能力\n9、加分项：熟悉Python编程语言，熟悉Cassandra、Kubernetes、DevOps相关技术、大数据相关技术者优先",
+      "encryptAddressId": "d30605dc06623b8a0nd83dW-EVBXxoS3Vvg~",
+      "address": "重庆南岸区重庆云辑数字科技有限责任公司新天泽国际总部城B区14栋5单元5-6层",
+      "longitude": 106.670363,
+      "latitude": 29.524684,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8873456cd5c1e3a26dee39adc9e74038",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8fa7a06860c64785191471914a72867b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "SpringCloud",
+        "MySQL",
+        "MyBatis",
+        "Redis",
+        "Spring",
+        "Oracle"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "陈女士",
+      "title": "人事专员",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20210412/5aee49bc93a1034f370fb7a48cef34d6831afed80659a042580c6086508_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "象辑科技股份有限公司",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": "https://img.bosszhipin.com/beijin/icon/492b4ca74ee6ee7bfecf8d0d363780c68ad8b582857d894c8eae833b21840fb6.png"
+    },
+    "brandComInfo": {
+      "encryptBrandId": "b923bd98887c22d61XR-3d29EFU~",
+      "brandName": "象辑科技股份有限公司",
+      "logo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+      "stage": 0,
+      "stageName": "",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 101206,
+      "industryName": "新能源",
+      "introduce": "",
+      "labels": [],
+      "activeTime": 1729504978967,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "象辑科技股份有限公司",
+      "customerBrandStageName": ""
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
