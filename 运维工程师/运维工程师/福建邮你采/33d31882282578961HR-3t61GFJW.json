@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "0okGsEFeG087Z-f1mMh5AWgaPqZ-cwy0vNNvPyw_6nNVmMhF-DK6dt2NOCs6i7Mr4nPbGzxcF6-qF5brh8DmxlMTzEwGux3xaIKt37roJZ-KKq-8qg4bH3J8-7YtfGmnvPfLOxngeCeLm4k~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "33d31882282578961HR-3t61GFJW",
+      "encryptUserId": "c3624f913967c63f0n1y2dm4F1tV",
+      "invalidStatus": false,
+      "jobName": "运维工程师",
+      "position": 100401,
+      "positionName": "运维工程师",
+      "location": 101230100,
+      "locationName": "福州",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "8-12K",
+      "payTypeDesc": null,
+      "postDescription": "一、岗位职责\n1. 负责我司业务系统的升级维护；\n2. 负责服务器应用软件安装部署；\n3. 协同参与运维监控体系构建；\n4. 探寻自动化运维技术演进方向并推动相关技术方案落地；\n5. 不断提升业务系统可用性，保障目标系统的业务连续性；\n二、岗位要求\n1. 3年以上运维工作经验，工作认真严谨，勇于挑战且自我驱动能力强；\n2. 熟悉主流Linux发行版本（Redhat/Centos），熟练编写Shell运维脚本；\n3. 熟悉SQL语言，MySQL数据备份恢复有实际操练经验，了解NoSQL为佳；\n4. 熟悉Redis、Nacos、Minio、Kafka等常见中间件安装部署与运维管理；\n5. 熟悉网络通信协议，了解Java生态技术框架，具备一定运维调优经验；\n6. 具备运维监控体系构建或具备Docker等容器编排工具运维经验者优先；",
+      "encryptAddressId": "981a8929709122720nd8392-E1JRx4y4Uf8~",
+      "address": "福州晋安区立洲大厦(长乐北路)10楼",
+      "longitude": 119.325759,
+      "latitude": 26.085332,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/c4d40bcce870637d8ceea21a92920815",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/22e24ec3ed5cc83ce96a111f47fe9d77",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "监控警告",
+        "MySQL/Oracle",
+        "系统运维",
+        "升级维护"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "关女士",
+      "title": "人事主管",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK0.jpg",
+      "large": null,
+      "activeTimeDesc": "3日内活跃",
+      "bossOnline": false,
+      "brandName": "福建邮你采",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "dcf8190c1106583c1XJ43t-0GFc~",
+      "brandName": "福建邮你采",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230620/7bf6f160950405e9cac21c0fec7cf1f0c900af76137466a691ee0d168346e149cefa549ab77b7009.png",
+      "stage": 801,
+      "stageName": "未融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100001,
+      "industryName": "电子商务",
+      "introduce": "公司创立于2022年11月，由邮你采联合行业专家及互联网技术精英团队共同注资成立，致力于成为一家创新型的医药科技公司。邮你采倡导“原厂原标、一店发全国”的工业直销模式，致力于缩短工业与终端的距离，为推进健康中国战略贡献力量。公司利用先进的商业模式和强大的技术力量，实现了药品从生产到消费的全流程数字化追踪。通过专业的医药数字化交易服务平台，连接工业和零售供需两端，加速医疗健康生态系统的进步。以业务创新和技术革新为双轮驱动，重塑医药流通价值链，致力于构建一个未来医药流通无界交融的新格局。\n\n微信公众号：邮你采\n公司企业官网：www.younicai.com",
+      "labels": [
+        "零食下午茶",
+        "年终奖",
+        "五险一金"
+      ],
+      "activeTime": 1729481735044,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "福建邮你采",
+      "customerBrandStageName": "未融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

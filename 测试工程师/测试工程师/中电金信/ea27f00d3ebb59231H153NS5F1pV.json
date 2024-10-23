@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "tzGorHwkGUr5I-11lLuHf6vaqmun2KgnvreEllD9Nb2zGwP-pNCN4DSthvwzseDCdE9Za6RgtPQacJg4WnjSli7jXzywqjvvPmvTLLfQUwOrLBxtIM2jbk0Awq8eCwjMo4NicLLLpFU~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "ea27f00d3ebb59231H153NS5F1pV",
+      "encryptUserId": "a9b2bf4360e90e611XB-2tW8",
+      "invalidStatus": false,
+      "jobName": "测试工程师",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "7-8K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n- 参与软件产品需求、系统设计和程序代码的评审工作,并提出改进意见\n - 评估项目质量风险,与产品经理和开发人员就项目进度和问题进行沟通\n - 设计与执行测试用例,完成测试任务\n任职要求：\n- 第一学历是专科需3年以上测试相关工作经验，第一学历本科或硕士2年以上\n - 熟悉软件测试理论和方法，熟悉互联网行业测试环境及相关技术，根据产品需求进行系统测试，包括测试设计、执行、BUG提交和追踪、测试报告等\n- 了解数据库基础，能够进行SQL查询；熟悉linux常用命令\n- 熟悉java语言或一种脚本语言如python/shell等加分\n- 善于学习和运用新知识，具有良好的分析和解决问题能力\n- 具有良好的团队合作精神和积极主动的沟通意识\n- 接受加班、出差、驻场测试",
+      "encryptAddressId": "f421477052aac0611nB_29-8F1RX",
+      "address": "北京海淀区方舟大厦(软件园四号路)1",
+      "longitude": 116.293061,
+      "latitude": 40.049659,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/6d67ab958422bc1c0b06687b465a0877",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/72999ae23dea474324b6c0e1a470fb56",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Java",
+        "Shell",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "最新"
+    },
+    "bossInfo": {
+      "name": "孔女士",
+      "title": "HR",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20221201/607f1f3d68754fd0eb560a422ec0ef863fa53e9d5320763acc35e5d6009c9862c72e18e6c20_b.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": false,
+      "brandName": "中电金信",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+      "brandName": "中电金信",
+      "logo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+      "stage": 804,
+      "stageName": "B轮",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中电金信，是中国电子旗下成员企业，通过持续研发创新，参与国家重大工程，依托行业场景，构建金融级数字底座，打造全栈全域解决方案，提供领先的咨询、软件产品及开发、质量安全保障及运营服务，为金融及重点行业数智化转型及安全发展提供强大动能，并以中国数智化转型最佳实践服务全球。我们推崇开放包容的文化。在中电金信，你将和同样拥有热情和梦想的优秀队友一起合作、交流和学习，稳扎稳打不断提升，和团队一起助力国家重大工程项目。我们为你提供清晰的职业路径和不设限的发展机会，你将通过不同类型的项目不断成长，获得前所未有的荣耀感和使命感，和我们一起去创造数字时代的美好未来。",
+      "labels": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1729678491329,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中电金信",
+      "customerBrandStageName": "B轮"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

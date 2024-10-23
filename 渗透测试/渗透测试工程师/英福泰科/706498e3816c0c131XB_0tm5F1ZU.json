@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "GGaPjM1genA3C-v1_mhwUInxEufaqjfst4OueEkHTSXMFGZS10WaqLQF-O71wF8XLwy1KOsnr9zKvPvtNgQMjnRl6_s8P-NTF4dqJU5NUIpiFY-7JQ0~",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "706498e3816c0c131XB_0tm5F1ZU",
+      "encryptUserId": "a7cb6c887043ca580nV739i8GFJY",
+      "invalidStatus": false,
+      "jobName": "渗透测试工程师",
+      "position": 100310,
+      "positionName": "渗透测试",
+      "location": 101300100,
+      "locationName": "南宁",
+      "experienceName": "1年以内",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "3-6K",
+      "payTypeDesc": null,
+      "postDescription": "岗位职责：\n1、根据授权对信息系统开展渗透测试工作，编制渗透测试报告；\n2、收集、整理内外部安全漏洞，并编写分析报告，提供安全建议；\n3、跟踪国内外信息安全动态，进行安全攻防技术研究；\n4、负责对网络安全事件进行应急响应，协助客户修复安全漏洞；\n\n任职要求：\n1、大专及以上学历，计算机信息安全相关专业，1年及以上工作经验；\n2、熟悉渗透测试步骤、方法、流程，能够进行WEB渗透测试，恶意代码检测和分析；\n3、熟悉攻击的各类技术及方法，对各类操作系统、应用平台的弱点有较深入的理解；\n4、熟悉常见WEB漏洞实现原理及修复方法，如：SQL注入、文件上传、XSS、CSRF等；\n5、熟悉常用安全漏洞测试工具，如Nmap、BurpSuite、SqlMap、Cobalt Strike等；\n6、具备一定编程能力，至少能使用Python、C、java、Golang等一种语言编写工具/脚本解决渗透测试中的问题。\n\n加分项：\n有安全工具开发经验，编写过漏洞利用POC经验优先考虑；\n有信息安全领域认证（如CISP、CISP-PTE、OSCP等）资格者优先考虑；\n有攻防演练比赛、CTF比赛获奖经历者优先考虑；\n有在t00ls、freebuf、seebug、先知等平台发布过文章者优先考虑。",
+      "encryptAddressId": "6a2aa2ca8b1b1ae61XJ82964E1Q~",
+      "address": "南宁青秀区德利国际B1栋908号",
+      "longitude": 108.392047,
+      "latitude": 22.82973,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/adac97b7fa93054c187030eae2f596af",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/2cdbe8d37380a2b5b08b7e0d380fcd7d",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "渗透测试经验",
+        "攻防对抗经验",
+        "计算机相关专业"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "滕女士",
+      "title": "人事",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "2月内活跃",
+      "bossOnline": false,
+      "brandName": "英福泰科",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "9a69c79a7910c7eb1nB809m9FQ~~",
+      "brandName": "英福泰科",
+      "logo": "https://c-res.zhipin.com/jrs/16a148a93a54a0dd6d7302ca13ce73dd.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 302,
+      "scaleName": "20-99人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "",
+      "labels": [
+        "五险",
+        "生日福利",
+        "节日福利",
+        "团建聚餐"
+      ],
+      "activeTime": 1727099520750,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "英福泰科",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}

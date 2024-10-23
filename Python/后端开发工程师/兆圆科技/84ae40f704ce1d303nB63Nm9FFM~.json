@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "-zyDDW3z24tPD-N17b4VqRUuNaFqjSIqCevdCkCvNn3WZdHSwJzx9SygQ6aEmQ_Ou975g5ihFsufe4xNqH2R6jYCP5TG_5upPfUGQzQvRYm1IYOO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "84ae40f704ce1d303nB63Nm9FFM~",
+      "encryptUserId": "c34339e06d79c3a933Z_0tu_GVY~",
+      "invalidStatus": false,
+      "jobName": "后端开发工程师",
+      "position": 100109,
+      "positionName": "Python",
+      "location": 101200900,
+      "locationName": "宜昌",
+      "experienceName": "经验不限",
+      "degreeName": "大专",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "5-10K",
+      "payTypeDesc": null,
+      "postDescription": "基本要求：年龄不限 性别不限\n学历要求：大专及以上\n薪资待遇：5000-12000元/月\n福利：五险一金 加班补助 年终奖 传统节假日福利 生日福利 \n\n岗位描述：\n1、依据业务需求，进行信息系统的后台服务开发及维护；\n2、对具体的产品进行性能优化；\n3、针对高并发的业务需求，分析系统瓶颈，解决各种疑难杂症，充分考虑安全性、性能方面的风险；\n4、业务组件和框架的设计与开发；\n岗位要求：\n1、熟悉Web服务开发，熟悉Python程序语言以及flask、django等框架，且有实际项目开发经验者优先；\n2、熟悉MySQL、SQL Server等关系型数据库和Redis等NoSQL数据库；\n3、熟悉Linux、Nginx、Docker/Podman等优先；\n4、能承受工作压力，富有良好的团队精神和积极的进取心，正确的价值观； \n5、较强的自我管理能力，工作作风严谨，较强的学习能力，沟通能力，组织协调能力，个性开朗乐观，具有产品思维独立思考，善于站在用户角度，文档能力强。",
+      "encryptAddressId": "14bda17ea56acaf41Hd93N67EVc~",
+      "address": "宜昌西陵区三峡大学",
+      "longitude": 111.316006,
+      "latitude": 30.722519,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/818ee3821842bbd8f5f4afeba8299b96",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/e414e5a5a86d5b7d9c061af09926320c",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "Python",
+        "SQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张先生",
+      "title": "招聘者",
+      "tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20191126/35ed2190b52dca29876ec50c4b9e93d6f3de7da822bb01e3df9c283db58_b.jpg",
+      "large": null,
+      "activeTimeDesc": "半年前活跃",
+      "bossOnline": false,
+      "brandName": "兆圆科技",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "e5d4f11de034e6780HF73du4Fg~~",
+      "brandName": "兆圆科技",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200330/26481c8bc6786124bb70f2ef32eb5c68f3de7da822bb01e3df9c283db58058e2.jpg",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 301,
+      "scaleName": "0-20人",
+      "industry": 100023,
+      "industryName": "计算机服务",
+      "introduce": "森林信息系统的开发，销售，林业调查等",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "加班补助",
+        "全勤奖",
+        "年终奖",
+        "股票期权",
+        "带薪年假",
+        "餐补",
+        "通讯补贴",
+        "节日福利",
+        "零食下午茶"
+      ],
+      "activeTime": 1727045368360,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "兆圆科技",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
