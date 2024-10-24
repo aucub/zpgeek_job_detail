@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "qmkn2Zjlmb9Jr-B1uX9HHMYbgaV6Sh6wzJRBMspU9bbPdI0ueZ5iqMIiAcjMwhh_HRTvkzq55kNvnNDyL5ZMtZJCtNN4xh_SmwgYXzSOsJvzGQgT4Kb1InI2-zEMn_C9nndIyM5AQst6t18JZ-DeOhmO",
+    "sessionId": null,
+    "lid": "",
+    "jobInfo": {
+      "encryptId": "7bd95a0eb1c823211HR829u7E1BZ",
+      "encryptUserId": "606aecc4351ad1af0nxy39W9FVtS",
+      "invalidStatus": false,
+      "jobName": "测试",
+      "position": 100301,
+      "positionName": "测试工程师",
+      "location": 101010100,
+      "locationName": "北京",
+      "experienceName": "1-3年",
+      "degreeName": "本科",
+      "jobType": 0,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "9-11K",
+      "payTypeDesc": null,
+      "postDescription": "职责描述：\n1、负责日常用户问题记录分析并跟踪处理；\n2、负责监控系统运行是否正常；\n3、负责和系统相关人员沟通；\n技能要求：\n1、熟练使用python；\n2、熟练使用接口调试工具(postman)；\n3、了解jenkins工具；\n4、熟悉pytest、Unittest框架;\n5、熟悉shell脚本编写；\n7、熟练使用sql语言；",
+      "encryptAddressId": "31c1d1cc100444ec33150t68EVY~",
+      "address": "北京海淀区量子银座305",
+      "longitude": 116.345866,
+      "latitude": 39.977505,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/8d6ce5223b50ecb6cd7f7a5f30b7544d",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/3cef14641bc03b84a592b5c0a567f11b",
+      "overseasAddressList": [],
+      "overseasInfo": null,
+      "showSkills": [
+        "自动化测试",
+        "Python"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "张女士",
+      "title": "HRD",
+      "tiny": "https://img.bosszhipin.com/beijin/boss/avatar/hSg_mbK_.jpg",
+      "large": null,
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "中数睿智",
+      "bossSource": 0,
+      "certificated": true,
+      "tagIconUrl": null,
+      "avatarStickerUrl": null
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7804a48879dae5a71XB7392_FVM~",
+      "brandName": "中数睿智",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231219/7bf6f160950405e9690d05061219a2a1a4a965dbb46527cbddf278011c5c79315a0fa2200a3a6875.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 303,
+      "scaleName": "100-499人",
+      "industry": 100021,
+      "industryName": "计算机软件",
+      "introduce": "中数睿智依托一批数据领域的国内顶级专家，依托十多年行业技术经验积累，基于自研的底层核心技术，围绕着企业级数据资产的构建及数智化使能，提供核心产品和解决方案。以支撑能源、通信、交通等关键信息基础设施领域大型客户构建集团化数字资产地图，加快客户的数字化转型和国产化替代进程。",
+      "labels": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "零食下午茶",
+        "节日福利"
+      ],
+      "activeTime": 1729756813245,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "中数睿智",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": false,
+      "chatBubble": null
+    },
+    "atsOnlineApplyInfo": {
+      "inviteType": 0,
+      "alreadyApply": false
+    }
+  }
+}
